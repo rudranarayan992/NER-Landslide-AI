@@ -1,0 +1,511 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12764
+KA/HAS/48P09/2024/06
+Karnataka
+Hassan
+Nil
+NH-75 (Chainage 226.200)
+12.909688
+75.7372
+Debris
+Slide
+July 2024
+12765
+KA/HAS/48P09/2024/07
+Karnataka
+Hassan
+Nil
+NH-75 (Chainage 228.700 to 
+228.800)
+12.894105
+75.72772
+Debris
+Slide
+July 2024
+12766
+KA/HAS/48P09/2024/08
+Karnataka
+Hassan
+Nil
+NH-75 (Chainage 226.750)
+12.905202
+75.73538
+Debris
+Slide
+NA
+12767
+7042
+Karnataka
+Uttar Kannada
+NULL
+NULL
+14.302343
+74.481493
+Debris
+Flow
+04 July 2024
+12768
+6863
+Karnataka
+Kodagu
+NULL
+NULL
+12.47957
+75.713107
+Debris
+Flow
+15 August 2018
+12769
+KA/HSN/48P13/2025/01
+Karnataka
+Hassan
+Kalugani landslide
+along NH-75
+12.92106944
+75.75716944
+Earth
+Slide
+24 June 2025
+12770
+KA/HSN/48P13/2025/02
+Karnataka
+Hassan
+Donigal landslide
+NH-75, Donikal, Sakleshpur
+12.91866667
+75.752125
+Soil
+Slide
+NA
+12771
+KA/HSN/48P09/2025/03
+Karnataka
+Hassan
+Heggade landslide
+NH-75, Heggade, Shakleshpur
+12.88729444
+75.72225833
+Debris
+Slide
+23 June 2025, 15 July 2025
+12772
+KA/HSN/48P09/2025/04
+Karnataka
+Hassan
+Aluvalli Landslide
+Maranahalli-Hongadachalla 
+road, Major District Road, 
+Alluvalli, Sakleshpur
+12.83177222
+75.71678889
+Debris
+Slide
+17 August 2025
+12773
+KA/HSN/48P09/2025/05
+Karnataka
+Hassan
+Moganahalli landslide
+Moganahhali village, 
+Kembuhole-Konanuru road
+12.814725
+75.71445556
+Debris
+Slide
+NA
+12774
+KA/KOD/48P11/2025/06
+Karnataka
+Kodagu
+--
+NH-275
+12.438585
+75.653973
+Debris
+Slide
+12 August 2025
+12775
+KA/KOD/48P11/2025/07
+Karnataka
+Kodagu
+--
+SH-27
+12.407845
+75.741754
+Debris
+Slide
+05 August 2025, 28 August 2025
+12776
+KA/KOD/48P11/2025/08
+Karnataka
+Kodagu-Virajpet
+Napoklu-Bethu village
+Bethu village
+12.305793
+75.689515
+Debris
+Slide
+25 June 2025
+12777
+KA/KOD/48P14/2025/09
+Karnataka
+Kodagu-Somwarpet
+Somwarpet
+Belur-Sowwarpet road
+12.598048
+75.848994
+Debris
+Slide
+2024
+12778
+KA/KOD/48P14/2025/12
+Karnataka
+Kodagu-Somwarpet
+Koothi
+Nagarahalli-Shanthahalli road
+12.673322
+75.792564
+Rock
+Slide
+25 June 2025
+12779
+KA/KOD/48P14/2025/13
+Karnataka
+Kodagu-Somwarpet
+Bachalli
+Kumarahalli-Bachalli road
+12.673218
+75.754767
+Debris
+Slide
+27 June 2025
+12780
+KA/SHI/48K/13/2025/01
+Karnataka
+Shimoga
+--
+Kundagallu village
+13.844363
+74.97975
+Debris
+Slide
+2018, 31 July 2024, June 2025
+12781
+KA/SHI/48O03/2025/02
+Karnataka
+Shimoga
+--
+SH-52 Chainage 42.25
+13.717658
+74.993973
+Debris
+Slide
+2025
+12782
+KA/SHI/48O02/2025/03
+Karnataka
+Shimoga
+--
+Tirthahalli
+13.581925
+75.157397
+Debris
+Slide
+July 2025
+12783
+KA/SHI/48O03/2025/04
+Karnataka
+Shimoga
+--
+Tirthahalli
+13.494686
+75.150079
+Debris
+Slide
+NA
+12784
+KA/DK/48P01/2025/05
+Karnataka
+Dakshin Kannad
+--
+Puttur-Uppinangadi road
+12.814024
+75.217564
+Debris
+Slide
+NA
+12785
+KA/DK/48P05/2025/06
+Karnataka
+Dakshin Kannad
+--
+Santhigodu
+12.762635
+75.289625
+Debris
+Slide
+31 May 2025
+12786
+KA/DK/48P05/2025/07
+Karnataka
+Dakshin Kannad
+--
+Narimogru
+12.75297
+75.274733
+Debris
+Slide
+31 May 2025
+12787
+KA/DK/48P05/2025/08
+Karnataka
+Dakshin Kannad
+--
+Santhigodu
+12.773232
+75.266805
+Debris
+Slide
+28 May 2025
+12788
+KA/DK/48P05/2025/09
+Karnataka
+Dakshin Kannad
+--
+Santhigodu
+12.77705
+75.262014
+Debris
+Slide
+30 May 2025
+12789
+KA/DK/48P05/2025/010
+Karnataka
+Dakshin Kannad
+--
+NH-75
+12.826832
+75.427265
+Debris
+Slide
+NA
+12790
+KA/DK/48P05/2025/011
+Karnataka
+Dakshin Kannad
+--
+Kakve
+12.758327
+75.323195
+Debris
+Slide
+30 May 2025
+12791
+KA/DK/48P06/2025/012
+Karnataka
+Dakshin Kannad
+--
+Kakve
+12.675622
+75.365427
+Debris
+Slide
+NA
+12792
+KA/DK/48P01/2025/013
+Karnataka
+Dakshin Kannad
+--
+Karaya-Mugga
+12.858407
+75.226056
+Debris
+Slide
+31 May 2025
+12793
+KA/DK/48P01/2025/014
+Karnataka
+Dakshin Kannad
+--
+Karaya-Mugga
+12.858072
+75.226282
+Debris
+Slide
+31 May 2025
+12794
+KA/DK/48P01/2025/015
+Karnataka
+Dakshin Kannad
+--
+Karaya-Mugga
+12.859678
+75.226523
+Debris
+Slide
+31 May 2025
+12795
+KA/DK/48P01/2025/016
+Karnataka
+Dakshin Kannad
+--
+Sokila, Barya Village
+12.860977
+75.205525
+Debris
+Slide
+31 May 2025
+12796
+KA/DK/48P01/2025/017
+Karnataka
+Dakshin Kannad
+--
+Urladka
+12.861881
+75.193047
+Debris
+Slide
+31 May 2025
+12797
+KA/DK/48P01/2025/018
+Karnataka
+Dakshin Kannad
+--
+Urladka
+12.850862
+75.196607
+Rock
+Slide
+30 May 2025
+12798
+KA/DK/48P01/2025/019
+Karnataka
+Dakshin Kannad
+--
+Urladka
+12.848973
+75.209944
+Debris
+Slide
+30 May 2025
+12799
+KA/DK/48P01/2025/020
+Karnataka
+Dakshin Kannad
+--
+Urladka
+12.850756
+75.221026
+Debris
+Slide
+30 May 2025
+12800
+KA/DK/48P01/2025/021
+Karnataka
+Dakshin Kannad
+--
+Perne
+12.824032
+75.199666
+Debris
+Slide
+30 May 2025
+12801
+KA/DK/48P01/2025/023
+Karnataka
+Dakshin Kannad
+--
+Biliyur village, Maira area
+12.825546
+75.200826
+Debris
+Slide
+NA
+12802
+KA/DK/48P01/2025/024
+Karnataka
+Dakshin Kannad
+--
+Biliyur village
+12.838391
+75.202023
+Debris
+Slide
+NA
+12803
+KA/DK/48P01/2025/026
+Karnataka
+Dakshin Kannad
+--
+Biliyur village
+12.839865
+75.19905
+Debris
+Slide
+NA
+12804
+KA/DK/48L13/2025/027
+Karnataka
+Dakshin Kannad
+--
+Belma, near Deralakatte
+12.811644
+74.891475
+Debris
+Slide
+NA
+12805
+KA/DK/48L13/2025/028
+Karnataka
+Dakshin Kannad
+--
+Belma, Kanakere
+12.812253
+74.892171
+Debris
+Slide
+NA
+12806
+KA/DK/48L13/2025/028
+Karnataka
+Dakshin Kannad
+--
+Belma (Kallugudde)
+12.830346
+74.902801
+Debris
+Slide
+NA
+12807
+KA/DK/48L13/2025/029
+Karnataka
+Dakshin Kannad
+--
+--
+12.821309
+74.895136
+Debris
+Slide
+NA
+12808
+KA/DK/48L13/2025/030
+Karnataka
+Dakshin Kannad
+--
+Deyyaradka
+12.854286
+74.917758
+Debris
+Slide
+NA

@@ -1,0 +1,296 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21723
+MZ/SER/84A15/2016/69
+Mizoram
+Serchhip
+ 
+West of Sainik 
+School,Chhingchhip, PMGSY 
+Chhingchhip-Hmuntha Road
+23.44608
+92.861819
+Debris
+Slide
+2016
+21724
+MZ/SER/84A15/2016/62
+Mizoram
+Serchhip
+ 
+Sainik School, Chhingchhip
+23.447015
+92.866917
+Rock
+Slide
+2016
+21725
+MZ/SER/84A15/2016/68
+Mizoram
+Serchhip
+ 
+Northwest of Sainik 
+School,Chhingchhip, PMGSY 
+Chhingchhip-Hmuntha Road
+23.447093
+92.863082
+Rock
+Slide
+2016
+21726
+MZ/CHA/84E03/2017/21
+Mizoram
+Champhai
+ 
+Chawngtalai  Tualte road
+23.447639
+93.223611
+Rock
+Slide
+NA
+21727
+MZ/SER/84A15/2016/67
+Mizoram
+Serchhip
+ 
+Northwest of Sainik 
+School,Chhingchhip, PMGSY 
+Chhingchhip-Hmuntha Road
+23.447697
+92.861729
+Rock
+Slide
+2015
+21728
+MZ/SER/84A15/2016/65
+Mizoram
+Serchhip
+ 
+South of Chhingchhip, PMGSY 
+Chhingchhip-Hmuntha Road
+23.447985
+92.856607
+Debris
+Slide
+2016
+21729
+MZ/CHA/84E03/2017/22
+Mizoram
+Champhai
+ 
+Chawngtlai village
+23.448278
+93.207472
+Debris
+Slide
+NA
+21730
+MZ/CHA/84E03/2017/23
+Mizoram
+Champhai
+ 
+Chawntalai village
+23.448329
+93.209889
+Rock
+Slide
+NA
+21731
+MZ/SER/84A15/2016/83
+Mizoram
+Serchhip
+ 
+North of Thentlang, Hmuntha, 
+PMGSY Chhingchhip-Hmuntha 
+Road
+23.448368
+92.899862
+Debris
+Slide
+2016
+21732
+MZ/CHA/84E03/2017/24
+Mizoram
+Champhai
+ 
+Chawngtalai village
+23.449083
+93.206222
+Debris
+Slide
+NA
+21733
+MZ/SER/84A15/2016/66
+Mizoram
+Serchhip
+ 
+South of Chhingchhip, 
+Chhingchhip-Hmuntha Road
+23.449827
+92.8599
+Debris
+Slide
+2015
+21734
+MZ/SER/84E03/2017/1
+Mizoram
+Serchhip
+ 
+Rullam village
+23.451278
+93.002944
+Debris
+Slide
+NA
+21735
+MZ/SER/84A15/2016/82
+Mizoram
+Serchhip
+ 
+North of Thentlang, Hmuntha, 
+PMGSY Chhingchhip-Hmuntha 
+Road
+23.451505
+92.900845
+Debris
+Slide
+2015
+21736
+MZ/CHA/84E07/2017/14
+Mizoram
+Champhai
+Tuipui slide
+Near Tuipui Bridge
+23.451972
+93.259686
+Debris
+Slide
+NA
+21737
+MZ/CHA/84E07/2017/15
+Mizoram
+Champhai
+ 
+Near Tuipui Bridge
+23.453389
+93.2615
+Rock
+Slide
+2016
+21738
+MZ/SER/84A15/2016/49
+Mizoram
+Serchhip
+ 
+About 2km South of 
+Chhingchhip, Near View Point, 
+NH-54 Aizawl-Serchhip-Lunglei 
+Road
+23.454081
+92.857453
+Rock
+Slide
+2015
+21739
+MZ/SER/84A15/2016/50
+Mizoram
+Serchhip
+ 
+About 1.8km South of 
+Chhingchhip, NH-54 Aizawl-
+Serchhip-Lunglei Road
+23.454817
+92.858696
+Debris
+Slide
+2016
+21740
+MZ/CHA/84E07/2017/16
+Mizoram
+Champhai
+N/A
+N/A
+23.454924
+93.260137
+Rock
+Slide
+NA
+21741
+MZ/SER/84A15/2016/48
+Mizoram
+Serchhip
+ 
+About 2.2km South of 
+Chhingchhip, NH-54 Aizawl-
+Serchhip-Lunglei Road
+23.454968
+92.854599
+Debris
+Slide
+2016
+21742
+MZ/CHA/84E07/2017/17
+Mizoram
+Champhai
+ 
+Tlangsam
+23.455367
+93.362276
+Rock
+Slide
+NA
+21743
+MZ/SER/84A15/2016/51
+Mizoram
+Serchhip
+ 
+South of Chhingchhip, NH-54 
+Aizawl-Serchhip-Lunglei Road
+23.456101
+92.859084
+Debris
+Slide
+2016
+21744
+MZ/SER/84E03/2017/2
+Mizoram
+Serchhip
+Vanchengpui slide
+Rullam Road
+23.456613
+93.006652
+Debris
+Slide
+NA
+21745
+MZ/SER/84E03/2017/3
+Mizoram
+Serchhip
+ 
+Rullam village
+23.456861
+93.006694
+Rock
+Slide
+NA
+21746
+MZ/SER/84E03/2017/4
+Mizoram
+Serchhip
+Vanchengpui slide
+Rullam village
+23.457028
+93.006722
+Debris
+Slide
+NA

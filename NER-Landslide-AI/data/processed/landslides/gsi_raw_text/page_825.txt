@@ -1,0 +1,500 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+32587
+UK/PAU/53K05/2016/16
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.99231
+78.42799
+Rock
+Slide
+NA
+32588
+UK/PAU/53K05/2016/6
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.992714
+78.46898
+Rock
+Slide
+NA
+32589
+UK/ALM/53O05/2017/74
+Uttarakhand
+Almora
+ 
+PithasainPauri road
+29.992779
+79.087287
+Rock
+Slide
+2011
+32590
+UK/BAG/53O13/2015/365
+Uttarakhand
+Bageshwar
+ 
+ 
+29.992852
+79.920803
+Rock
+Slide
+NA
+32591
+UK/PAU/53K09/2016/80
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.993054
+78.604416
+Debris
+Slide
+NA
+32592
+UK/PAU/53O01/2017/64
+Uttarakhand
+Pauri Garhwal
+ 
+ThaplaPitarsainBhandeli road
+29.993086
+79.046379
+Rock
+Slide
+2012
+32593
+UK/BAG/53O13/2013/0009
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_ 09
+At the conflurnce of Gason Gad 
+on the right bank of Saryu River
+29.993278
+79.909722
+Rock cum Debris
+Slide
+16th-17th June 2013
+32594
+UK/BAG/53O09/2018/48
+Uttarakhand
+Bageshwar
+Gwaldam
+Gwaldam-Bageshwar
+29.993278
+79.566667
+Rock
+Slide
+2018
+32595
+UK/BAG/53O13/2015/307
+Uttarakhand
+Bageshwar
+ 
+ 
+29.993333
+79.943889
+Rock
+Slide
+2013
+32596
+UK/BAG/53O13/2015/362
+Uttarakhand
+Bageshwar
+ 
+ 
+29.993361
+79.926806
+Rock
+Slide
+NA
+32597
+UK/BAG/53O13/2013/0010
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_10
+At the right bank of Gason Gad 
+near Gason Village
+29.993417
+79.908111
+Rock cum Debris
+Slide
+16th-17th June 2013
+32598
+UK/ALM/53O05/2017/67
+Uttarakhand
+Almora
+ 
+Bagrupakha
+29.993423
+79.075287
+Rock cum debris
+Slide
+2012
+32599
+UK/BAG/53O13/2013/0011
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_11
+ About 500 m upstream of the 
+confluence of Gason Gad with 
+Saryu River.
+29.993444
+79.906917
+Rock cum Debris
+Topple
+16th-17th June 2013
+32600
+UK/BAG/53O13/2015/317
+Uttarakhand
+Bageshwar
+ 
+ 
+29.9935
+79.9067
+Rock
+Fall
+2012
+32601
+UK/PAU/53K09/2016/195
+Uttarakhand
+Pauri Garhwal
+Satpuli Vyas ghat Road (SH-49)
+Satpuli Vyas ghat Road (SH-49)
+29.9935
+78.632456
+Debris
+Slide
+NA
+32602
+UK/PAU/53K13/2016/114
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.9935
+78.751342
+Rock
+Slide
+NA
+32603
+UK/BAG/53O13/2015/364
+Uttarakhand
+Bageshwar
+ 
+ 
+29.993521
+79.931782
+Rock
+Slide
+NA
+32604
+UK/BAG/53O13/2015/301
+Uttarakhand
+Bageshwar
+ 
+ 
+29.993556
+79.919056
+Rock cum Debris
+Slide
+2012
+32605
+UK/ALM/53O05/2017/66
+Uttarakhand
+Almora
+ 
+Bagrupakha
+29.993833
+79.075591
+Rock cum debris
+Slide
+2012
+32606
+UK/PAU/53K13/2016/13
+Uttarakhand
+Pauri Garhwal
+ 
+Road NH119 (Pauri)
+29.993858
+78.798072
+Rock
+Slide
+NA
+32607
+UK/BAG/53O13/2015/366
+Uttarakhand
+Bageshwar
+ 
+ 
+29.993889
+79.936972
+Rock
+Slide
+NA
+32608
+UK/BAG/53O13/2015/304
+Uttarakhand
+Bageshwar
+ 
+ 
+29.993923
+79.93375
+Rock
+Fall
+NA
+32609
+UK/BAG/53O13/2015/363
+Uttarakhand
+Bageshwar
+ 
+ 
+29.994056
+79.9295
+Rock
+Slide
+NA
+32610
+UK/BAG/53O13/2015/302
+Uttarakhand
+Bageshwar
+ 
+ 
+29.994444
+79.920833
+Rock
+Fall
+2012
+32611
+UK/CHA/53O05/2017/11
+Uttarakhand
+Chamoli
+ 
+NailKusarkhet road
+29.994459
+79.461084
+Rock
+Slide
+2014
+32612
+UK/BAG/53O13/2015/314
+Uttarakhand
+Bageshwar
+ 
+ 
+29.994969
+79.909515
+Rock
+Slide
+2012
+32613
+UK/BAG/53O09/2018/47
+Uttarakhand
+Bageshwar
+Gwaldam
+Gwaldam-Bageshwar
+29.995494
+79.565371
+Rock
+Slide
+2015
+32614
+UK/PAU/53K09/2016/81
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.995963
+78.58444
+Debris
+Slide
+NA
+32615
+UK/PAU/53K09/2016/139
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.99597
+78.545739
+Rock
+Slide
+NA
+32616
+UK/CHA/53O05/2017/12
+Uttarakhand
+Chamoli
+ 
+NailKusarkhet road
+29.9961
+79.453562
+Debris
+Slide
+2014
+32617
+UK/PAU/53K09/2016/102
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.99651
+78.722178
+Rock
+Slide
+NA
+32618
+UK/BAG/53O13/2015/382
+Uttarakhand
+Bageshwar
+ 
+ 
+29.996667
+79.901167
+Rock cum Debris
+Slide
+NA
+32619
+UK/BAG/53O09/2018/46
+Uttarakhand
+Bageshwar
+Gwaldam
+Gwaldam-Baijnath
+29.996708
+79.565403
+Rock
+Slide
+2018
+32620
+UK/PAU/53K13/2016/12
+Uttarakhand
+Pauri Garhwal
+ 
+Road NH119 (Pauri)
+29.99679
+78.805832
+Rock
+Slide
+NA
+32621
+UK/PAU/53K05/2016/2
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.996824
+78.47233
+Rock
+Slide
+NA
+32622
+UK/BAG/53O13/2013/0008
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_ 08
+ 
+29.996861
+79.915389
+Rock cum Debris
+Slide
+16th-17th June 2013
+32623
+UK/PAU/53K13/2016/4
+Uttarakhand
+Pauri Garhwal
+ 
+Road NH119 (Pauri)
+29.996946
+78.797617
+Rock
+Slide
+NA
+32624
+UK/PAU/53K09/2016/82
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.997062
+78.584171
+Debris
+Slide
+NA
+32625
+UK/BAG/53O13/2015/316
+Uttarakhand
+Bageshwar
+ 
+ 
+29.997256
+79.915396
+Rock
+Slide
+2012
+32626
+UK/PAU/53K13/2016/84
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Dumdeval
+29.997259
+78.91906
+Debris
+Flow
+NA
+32627
+UK/PAU/53O01/2017/66
+Uttarakhand
+Pauri Garhwal
+ 
+NH121
+29.997274
+79.03447
+Rock
+Slide
+2011
+32628
+UK/PAU/53K13/2016/5
+Uttarakhand
+Pauri Garhwal
+ 
+Road NH119 (Pauri)
+29.997798
+78.800333
+Rock
+Slide
+NA
+32629
+UK/BAG/53O09/2018/45
+Uttarakhand
+Bageshwar
+Gwaldam
+Gwaldam-Bageshwar
+29.997805
+79.564873
+Rock
+Slide
+2018
+32630
+UK/PAU/53O01/2017/65
+Uttarakhand
+Pauri Garhwal
+ 
+ThaplaPitarsainBhandeli road
+29.99781
+79.038722
+Rock
+Slide
+2013

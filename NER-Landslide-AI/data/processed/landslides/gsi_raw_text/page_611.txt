@@ -1,0 +1,486 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+24143
+MIZ/AZL/84A11/2025/200
+Mizoram
+Aizawl
+Below N. Lungsai, Samlukhai 
+road
+23.502336
+92.697334
+Rock
+Slide
+NA
+24144
+MIZ/AZL/84A11/2025/201
+Mizoram
+Aizawl
+Below N. Lungsai, Samlukhai 
+road
+23.502513
+92.697754
+Debris
+Slide
+July 2025
+24145
+MP/BETL/55G13/2006/0001
+Madhya Pradesh
+Ashoknagar
+837/22 Betul - Itarsi section
+Maramjhiri
+21.98111
+77.895
+Rock
+Slide
+NA
+24146
+NG/TSG/83J16/2018/002
+Nagaland
+Tuensang
+Chessore landslide
+Near Chesore/Y. Anner Village.
+23.725778
+91.645694
+Rock
+Slide
+2015, 11 May 2018
+24147
+NAG/PER/83G12/2017/0130
+Nagaland
+Peren
+ 
+Intuma road
+25.187583
+93.653861
+Rock
+Slide
+NA
+24148
+NAG/PER/83G12/2017/0131
+Nagaland
+Peren
+ 
+Intuma road
+25.199528
+93.625278
+Rock
+Slide
+NA
+24149
+NAG/PER/83G11/2017/0142
+Nagaland
+Peren
+ 
+Intuma road
+25.275028
+93.616306
+Rock
+Slide
+NA
+24150
+NAG/PER/83G11/2017/0133
+Nagaland
+Peren
+ 
+Intuma road
+25.275083
+93.616306
+Rock
+Slide
+NA
+24151
+NG/PRN/83G07/2017/4
+Nagaland
+Peren
+Nchen–Ngaulong rock fall.
+Nchen–Ngaulong road section
+25.287664
+93.488956
+Rock cum debris
+Slide
+NA
+24152
+NG/PRN/83G7/2017/7
+Nagaland
+Peren
+Nchen–Ngaulong slide No.4
+Nchen–Ngaulong road section.
+25.288472
+93.489611
+Soil cum debris
+Slide
+NA
+24153
+NG/PRN/83G07/2017/3
+Nagaland
+Peren
+Nchen–Ngaulong slide No.1
+Nchen–Ngaulong road section
+25.292417
+93.498972
+Debris
+Slide
+NA
+24154
+NAG/PER/83G11/2017/0134
+Nagaland
+Peren
+ 
+Intuma road
+25.29725
+93.630083
+Debris
+Slide
+NA
+24155
+NAG/PER/83G11/2017/0135
+Nagaland
+Peren
+ 
+Intuma road
+25.298167
+93.632222
+Debris
+Slide
+NA
+24156
+NAG/PER/83G11/2017/0136
+Nagaland
+Peren
+ 
+Nsong village
+25.343583
+93.566972
+Debris
+Slide
+NA
+24157
+NAG/PER/83G11/2017/0137
+Nagaland
+Peren
+ 
+Nsong village
+25.356333
+93.566583
+Rock
+Slide
+NA
+24158
+NG/PRN/83G07/2017/10
+Nagaland
+Peren
+New Nkio–Pamsiakilwa  slide No.2
+New Nkio–Pamsiakilwa road 
+section.
+25.4095
+93.476639
+Debris
+Slide
+NA
+24159
+NG/PRN/83G07/2017/9
+Nagaland
+Peren
+New Nkio–Pamsiakilwa slide No.1
+New Nkio–Pamsiakilwa road 
+section.
+25.40975
+93.475944
+Debris
+Slide
+NA
+24160
+NAG/PER/83G11/2017/0145
+Nagaland
+Peren
+ 
+Mpai village
+25.471556
+93.726778
+Debris
+Slide
+NA
+24161
+NAG/PER/83G11/2017/0144
+Nagaland
+Peren
+ 
+Mpai village
+25.472217
+93.726992
+Debris
+Slide
+NA
+24162
+NAG/PER/83G11/2017/0143
+Nagaland
+Peren
+ 
+Mpai village
+25.472506
+93.727181
+Debris
+Slide
+NA
+24163
+NAG/PER/83G11/2017/0142
+Nagaland
+Peren
+ 
+Intuma road
+25.472781
+93.727319
+Debris
+Slide
+NA
+24164
+NG/PRN/83G07/2017/1
+Nagaland
+Peren
+Bongkolong–Nkio rock fall.
+New Nkio–Khelma Road Section 25.487139
+93.493528
+Rock
+Fall
+NA
+24165
+NA/PER/83G10/2020/12
+Nagaland
+Peren
+ 
+Peren-Tening Road
+25.5
+93.67
+Earth
+Slide
+2017
+24166
+NG/PHE/83K10/2017/33
+Nagaland
+Phek
+ 
+LephoriReguri road
+25.502583
+94.661194
+Debris
+Slide
+NA
+24167
+NG/PHE/83K10/2017/32
+Nagaland
+Phek
+ 
+LephoriReguri road
+25.502917
+94.661194
+Debris
+Slide
+NA
+24168
+NG/PHE/83K10/2017/34
+Nagaland
+Phek
+ 
+LephoriReguri road
+25.505833
+94.653806
+Debris
+Slide
+NA
+24169
+NG/PHE/83K10/2017/35
+Nagaland
+Phek
+ 
+LephoriReguri road
+25.507611
+94.661028
+Debris
+Slide
+NA
+24170
+NA/PER/83G10/2020/1
+Nagaland
+Peren
+ 
+Peren-Tening Road
+25.51
+93.7
+Debris
+Slide
+2018
+24171
+NA/PER/83G10/2020/2
+Nagaland
+Peren
+ 
+Peren-Tening Road
+25.51
+93.7
+Debris
+Slide
+2019
+24172
+NA/PER/83G10/2020/3
+Nagaland
+Peren
+ 
+Peren-Tening Road
+25.51
+93.71
+Debris
+Slide
+2019
+24173
+NA/PER/83G10/2020/4
+Nagaland
+Peren
+ 
+Peren-Tening Road
+25.51
+93.71
+Rock
+Slide
+2019
+24174
+NA/PER/83G10/2020/5
+Nagaland
+Peren
+ 
+Peren-Tening Road
+25.51
+93.72
+Debris
+Slide
+2019
+24175
+NA/PER/83G10/2020/20
+Nagaland
+Peren
+ 
+Peren-Tening Road
+25.51
+93.67
+Debris
+Slide
+2019
+24176
+NA/PER/83G10/2020/21
+Nagaland
+Peren
+ 
+Peren-Tening Road
+25.51
+93.67
+Debris
+Slide
+2019
+24177
+NA/PER/83G10/2020/22
+Nagaland
+Peren
+ 
+Peren-Tening Road
+25.51
+93.67
+Rock
+Slide
+2019
+24178
+NA/PER/83G10/2020/23
+Nagaland
+Peren
+ 
+Peren-Tening
+25.51
+93.67
+Debris
+Slide
+2019
+24179
+NA/PER/83G10/2020/24
+Nagaland
+Peren
+ 
+Peren-Tening Road
+25.51
+93.67
+Earth
+Slide
+2019
+24180
+NA/PER/83G10/2020/25
+Nagaland
+Peren
+ 
+Peren-New complex road
+25.51
+93.68
+Earth
+Slide
+2019
+24181
+NA/PER/83G10/2020/26
+Nagaland
+Peren
+ 
+Peren-Tening Road
+25.51
+93.68
+Rock
+Slide
+2019
+24182
+NG/PHE/83K10/2017/31
+Nagaland
+Phek
+ 
+LephoriReguri road
+25.515222
+94.660694
+Debris
+Slide
+NA
+24183
+NA/PER/83G10/2020/6
+Nagaland
+Peren
+ 
+Peren town
+25.52
+93.73
+Rock
+Slide
+2019
+24184
+NA/PER/83G10/2020/7
+Nagaland
+Peren
+ 
+Peren-Tening Road
+25.52
+93.72
+Rock
+Slide
+2019
+24185
+NA/PER/83G10/2020/8
+Nagaland
+Peren
+ 
+Old Peren Rd
+25.52
+93.73
+Earth
+Slide
+NA

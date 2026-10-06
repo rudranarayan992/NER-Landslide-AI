@@ -1,0 +1,452 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1051
+AR/CHNG/83M15/2022/095
+Arunachal Pradesh
+Changlang
+200m E of Old Kamlao
+NH-315, Jairampur-Manmao 
+road section
+27.257581
+95.936353
+Debris
+Slide
+NA
+1052
+AP/PAP/83E15/2021/51
+Arunachal Pradesh
+Papum Pare
+Mep Soro-Jote road section slide 2
+Mep Soro-Jote road section
+27.258556
+93.778167
+Debris
+Slide
+NA
+1053
+AP/PAP/83E15/2021/48
+Arunachal Pradesh
+Papum Pare
+NEEPCO office, Sagalee slide 2
+NEEPCO office, Sagalee
+27.260222
+93.7895
+Debris
+Slide
+NA
+1054
+AP/PAP/83E15/2021/49
+Arunachal Pradesh
+Papum Pare
+NEEPCO office, Sagalee slide 3
+NEEPCO office, Sagalee
+27.260222
+93.7895
+Debris
+Slide
+NA
+1055
+AP/PAP/83E15/2021/47
+Arunachal Pradesh
+Papum Pare
+NEEPCO office, Sagalee slide 1
+NEEPCO office, Sagalee
+27.260444
+93.7895
+Rock
+Slide
+NA
+1056
+AP/PAP/83E15/2021/50
+Arunachal Pradesh
+Papum Pare
+Mep Soro-Jote road section slide 1
+Mep Soro-Jote road section
+27.260722
+93.780306
+Debris
+Slide
+NA
+1057
+AR/WKG/83A07/2021/012
+Arunachal Pradesh
+West Kameng
+West of Bomdila Slide 1
+W of Bomdila
+27.266667
+92.404389
+Debris
+Slide
+NA
+1058
+AP/PAP/83E15/2021/19
+Arunachal Pradesh
+Papum Pare
+Yajali slide
+Yajali
+27.267722
+93.80125
+Debris
+Slide
+NA
+1059
+AR/CHNG/92A03/2022/097
+Arunachal Pradesh
+Changlang
+S of Longvi, 8 km Tea Garden
+Longvi-hetlong road
+27.268684
+96.040751
+Debris
+Slide
+NA
+1060
+AR/CHNG/92A03/2022/098
+Arunachal Pradesh
+Changlang
+S of Longvi, 8 km Tea Garden
+ Longvi-hetlong road
+27.268973
+96.037707
+Debris
+Slide
+NA
+1061
+AP/PAP/83E15/2021/20
+Arunachal Pradesh
+Papum Pare
+West of Shepa village slide 1
+W of Shepa village
+27.269861
+93.802361
+Debris
+Slide
+NA
+1062
+AP/PAP/83E15/2021/21
+Arunachal Pradesh
+Papum Pare
+West of Shepa village slide 2
+W of Shepa village
+27.270019
+93.799333
+Debris
+Slide
+NA
+1063
+AR/CHNG/83M15/2022/093
+Arunachal Pradesh
+Changlang
+1km E of Old Kamlao
+NH-315, Jairampur-Manmao 
+road section
+27.273999
+95.975506
+Debris
+Slide
+NA
+1064
+AP/PAP/83E15/2021/22
+Arunachal Pradesh
+Papum Pare
+West of Shepa village slide 3
+W of Shepa village
+27.2745
+93.797833
+Debris
+Slide
+NA
+1065
+AR/CHNG/83M15/2022/094
+Arunachal Pradesh
+Changlang
+600m E of Old Kamlao
+NH-315, Jairampur-Manmao 
+road section
+27.275542
+95.965859
+Debris
+Slide
+NA
+1066
+AP/PAP/83E15/2021/23
+Arunachal Pradesh
+Papum Pare
+West of Shepa village slide 4
+W of Shepa village
+27.27625
+93.795889
+Debris
+Slide
+NA
+1067
+AR/WKG/83A07/2021/013
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 10
+NH 13/ NW of Bomdila
+27.277417
+92.425278
+Debris
+Slide
+NA
+1068
+AR/WKG/83A07/2021/014
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 11
+NH 13/ NW of Bomdila
+27.278417
+92.426917
+Debris
+Slide
+NA
+1069
+AP/PAP/83E15/2021/24
+Arunachal Pradesh
+Papum Pare
+West of Shepa village slide 5
+W of Shepa village
+27.27925
+93.796444
+Debris
+Slide
+NA
+1070
+AR/CHNG/92A03/2022/076
+Arunachal Pradesh
+Changlang
+1.5 km S of Nampong
+NH-315, Nampong-Pangasu 
+Pass road
+27.282921
+96.122193
+Debris
+Slide
+NA
+1071
+AR/CHNG/83M15/2022/091
+Arunachal Pradesh
+Changlang
+1.7 km SW of old Kamlao
+NH-315, Jairampur-Manmao 
+road section
+27.287781
+95.978389
+Rock
+Slide
+NA
+1072
+AR/CHNG/83M15/2022/092
+Arunachal Pradesh
+Changlang
+1.8 km SW of Old Kamlao
+NH-315, Jairampur-Manmao 
+road section
+27.287855
+95.977914
+Debris
+Slide
+NA
+1073
+AR/CHNG/92A03/2022/075
+Arunachal Pradesh
+Changlang
+700 m E of Taipi Dudam
+Jarampur- Nampong road
+27.288125
+96.075898
+Debris
+Slide
+NA
+1074
+AP/PAP/83E15/2021/25
+Arunachal Pradesh
+Papum Pare
+Hara Appa village slide 1
+Hara Appa village
+27.291083
+93.796806
+Debris
+Slide
+NA
+1075
+AR/WKG/83A07/2021/015
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 12
+NH 13/ S of Tinghei
+27.291528
+92.391778
+Debris
+Slide
+NA
+1076
+AR/WKG/83A07/2021/016
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 13
+NH 13/ S of Tinghei
+27.292167
+92.391889
+Debris
+Slide
+NA
+1077
+AR/WKG/83A07/2021/017
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 14
+NH 13/ S of Tinghei
+27.292444
+92.391861
+Debris
+Slide
+NA
+1078
+AR/CHNG/92A03/2022/083
+Arunachal Pradesh
+Changlang
+800m W Hetlong
+NH-315, Jairampur-Manmao 
+road
+27.29268
+96.024049
+Debris
+Slide
+NA
+1079
+AR/WKG/83A07/2021/018
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 15
+NH 13/ S of Tinghei
+27.293806
+92.391694
+Debris
+Slide
+NA
+1080
+AP/EK/83E03/2021/18
+Arunachal Pradesh
+East Kameng
+NH-31 slide-9
+NH-37
+27.293806
+93.050139
+Earth
+Slide
+NA
+1081
+AP/PAP/83E15/2021/26
+Arunachal Pradesh
+Papum Pare
+NE of Hara Appa village slide 1
+NE of Hara Appa village
+27.294278
+93.802056
+Debris
+Slide
+NA
+1082
+ARN/LS/83E15/2016/05
+Arunachal Pradesh
+Lower Subansiri
+Hoj-Potin slide
+National Highway 713-A
+27.294886
+93.803328
+Debris
+Slide
+17 July 2016
+1083
+AP/EK/83E03/2021/19
+Arunachal Pradesh
+East Kameng
+NH-31 slide-10
+NH-38
+27.294944
+93.072417
+Earth
+Slide
+NA
+1084
+AR/CHNG/92A03/2022/084
+Arunachal Pradesh
+Changlang
+1km W Hetlongx
+NH-315, Jairampur-Manmao 
+road
+27.296223
+96.013675
+Debris
+Slide
+NA
+1085
+AP/EK/83E03/2021/21
+Arunachal Pradesh
+East Kameng
+NH-31 slide-12
+NH-31
+27.296611
+93.099056
+Soil
+Slide
+NA
+1086
+AP/EK/83E03/2021/45
+Arunachal Pradesh
+East Kameng
+Rang Village  slide-3
+NH-31, Patiwa Village
+27.297167
+93.050889
+Soil
+Slide
+NA
+1087
+AR/CHNG/92A03/2022/088
+Arunachal Pradesh
+Changlang
+400 E of New Kamlao
+NH-315, Jairampur-Manmao 
+road section
+27.297775
+96.002314
+Debris
+Slide
+NA
+1088
+AR/CHNG/92A03/2022/082
+Arunachal Pradesh
+Changlang
+500m NE of Longvi
+NH-315, Jairampur-Manmao 
+road
+27.298972
+96.046398
+Rock
+Slide
+NA
+1089
+AR/CHNG/92A03/2022/087
+Arunachal Pradesh
+Changlang
+1.6km W Hetlong
+NH-315, Jairampur-Manmao 
+road
+27.299135
+96.010349
+Debris
+Slide
+NA

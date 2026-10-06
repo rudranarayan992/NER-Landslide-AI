@@ -1,0 +1,339 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16189
+KRL/IDK/58C14/2018/03
+Kerala
+Idukki
+Near Urumbikkara water falls
+Endayar- Wembley  road 
+,Kokkayar Village
+9.606283333
+76.90351389
+Debris
+Flow
+16th October, 2021
+16190
+KRL/IDK/58C14/2018/04
+Kerala
+Idukki
+Endayar- Wembley  slide
+Endayar- Wembley  road 
+,Kokkayar Village
+9.608333333
+76.90694444
+Rock
+Slide
+16th October, 2021
+16191
+KRL/IDK/58C14/2018/05
+Kerala
+Idukki
+Endayar- Wembley rock slide
+Kokkayar Village
+9.603944444
+76.90672222
+Debris
+Slide
+16th October, 2021
+16192
+KRL/IDK/58C14/2018/06
+Kerala
+Idukki
+Kokkayar Village upslope
+Kokkayar Village
+9.606222222
+76.90912778
+Debris
+Flow
+16th October, 2021
+16193
+KRL/IDK/58C14/2018/07
+Kerala
+Idukki
+Kokkayar Village upslope 2
+Kokkayar Village
+9.607388889
+76.91263889
+Debris
+Flow
+16th October, 2021
+16194
+KE/IDU/58C14/2021/8 (NRSC 
+slide validated)
+Kerala
+Idukki
+Kanakapuram slide
+Kanakapuram, Kokkayar 
+Panchayath
+9.606111111
+76.89666667
+Debris
+Flow
+16th October 2021
+16195
+KE/IDU/58C14/2021/9
+Kerala
+Idukki
+Endayar East Slide I
+Mukkalam P O, Endayar East
+9.622055556
+76.893875
+Debris
+Slide
+16th October 2021
+16196
+KE/IDU/58C14/2021/10
+Kerala
+Idukki
+Endayar East Slide II
+Mukkalam P O, Endayar East
+9.622277778
+76.89380556
+Debris
+Slide
+16th October 2021
+16197
+KE/IDU/58C14/2021/11
+Kerala
+Idukki
+Endayar East Slide III
+Mukkalam P O, Endayar East
+9.623611111
+76.89027778
+Debris
+Flow
+16th October 2021
+16198
+KE/KOT/58C14/2021/12
+Kerala
+Kottayam
+Ilamkad  Slide
+Ilamkad, Njarkadu, Kootickal 
+Panchayath (5th ward)
+9.631305556
+76.88883333
+Debris
+Flow
+16th October 2021
+16199
+KE/KOT/58C14/2021/13
+Kerala
+Kottayam
+Plappalli Debris flow
+Plappalli Kuttikkal Panchayath 
+(3rd  ward)
+9.620611111
+76.87372222
+Debris
+Flow
+16th October 2021
+16200
+KE/KOT/58C14/2021/14
+Kerala
+Kottayam
+Kavali Slide
+Kavali, Kuttikkal Panchayath 
+(3rd  ward)
+9.608683333
+76.87256944
+Debris
+Slide
+16th October 2021
+16201
+KL/IDK/58F/04/2025/PDLS/ 01
+Kerala
+Idukki
+Munnar old Govt. College 
+NH-85
+10.082693
+77.07378
+Debris
+Slide 
+25th July 2005, 25th August 2018
+16202
+KL/IDK/58F/04/2025/PDLS/02
+Kerala
+Idukki
+Devikulam 
+NH-85
+10.064476
+77.101915
+Soil
+Slump
+6th August 2018
+16203
+KL/IDK/58F/04/2025/PDLS/03
+Kerala
+Idukki
+Munnar Shop slide
+Near Munnar town (NH-85)
+10.0842
+77.0608
+Debris
+Slide
+25 Ju;y 2025
+16204
+KL/IDK/58F/04/2025/PDLS/04
+Kerala
+Idukki
+Devikulam 2
+(NH-85)
+10.071261
+77.09786
+Soil
+Rotational
+2024
+16205
+KL/IDK/58F/04/2025/PDLS/05
+Kerala
+Idukki
+Toll Plaza 
+NH-85
+10.0552
+77.1071
+Soil
+Translational
+August, 2018 & 2024
+16206
+KL/IDK/58F/04/2025/PDLS/06
+Kerala
+Idukki
+Gap road slide-2
+(NH-85)
+10.03726
+77.125901
+Rock
+Fall
+Aug-25
+16207
+KL/IDK/58F/04/2025/PDLS/07
+Kerala
+Idukki
+Gap road slide-3
+NH-85
+10.035583
+77.141456
+Debris
+Slide 
+2025
+16208
+KL/IDK/58F/04/2025/PDLS/08
+Kerala
+Idukki
+Pappanpara-Mankuttimedu road slide 700m NW of Mankuttimedu 
+(9.869969°, 77.216295°)
+9.872884
+77.2112
+Debris
+Slide 
+2025
+16209
+KL/IDK/58G/01/2025/PDLS/09
+Kerala
+Idukki
+Pappanpara- Udumbanchola road 
+slide
+9.882615
+77.187536
+Debris
+Slide 
+2025
+16210
+KL/IDK/58G/01/2025/PDLS/10
+Kerala
+Idukki
+Munnar-Kumily road slide
+Munnar-Kumily (SH-19)
+9.896046
+77.212729
+Debris
+Slide 
+2025
+16211
+KL/IDK/58G/01/2025/PDLS/11
+Kerala
+Idukki
+Munnar-Kumily road slide
+Munnar-Kumily (SH-19)
+9.902112
+77.215001
+Debris
+Slide 
+2025
+16212
+KL/IDK/58G/01/2025/PDLS/12
+Kerala
+Idukki
+Munnar-Kumily road slide
+Munnar-Kumily (SH-19)
+9.904123
+77.216173
+Debris
+Slide 
+2025
+16213
+KL/IDK/58G/01/2025/PDLS/13
+Kerala
+Idukki
+Munnar-Kumily road slide
+Munnar-Kumily (SH-19)
+9.911175
+77.217249
+Debris
+Slide 
+2025
+16214
+KL/IDK/58G/01/2025/PDLS/14
+Kerala
+Idukki
+Munnar-Kumily road slide
+Munnar-Kumily (SH-19)
+9.911175
+77.217249
+Debris
+Slide 
+2025
+16215
+KL/IDK/58B/16/2025/PDLS/15
+Kerala
+Idukki
+Adimali Debris slide
+NH-85, Kochi-Dhanushkodi 
+Road
+10.013504
+76.966864
+Debris
+Slide 
+2025
+16216
+KL/IDK/58G/01/2025/PDLS/16
+Kerala
+Idukki
+Ezhukumvayal debris slide
+Kuttankaval road
+9.836942
+77.111808
+Debris
+Slide 
+2025
+16217
+KL/IDK/58G/01/2025/PDLS/17
+Kerala
+Idukki
+Soolappara Debris flow
+Soolappara
+9.848931
+77.22507
+Debris
+Flow
+2025

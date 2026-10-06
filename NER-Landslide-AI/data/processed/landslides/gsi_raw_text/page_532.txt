@@ -1,0 +1,376 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21384
+MZ/LUN/84A16/2018/32
+Mizoram
+Lunglei
+ 
+East of Rawpui (kachha road)
+23.143888
+92.909447
+Debris
+Slide
+NA
+21385
+MZ/LUN/84A12/2018/72
+Mizoram
+Lunglei
+ 
+Changpui-Lungchem Section
+23.145
+92.613693
+Rock
+Fall
+NA
+21386
+MZ/LUN/84A16/2018/30
+Mizoram
+Lunglei
+ 
+East of Rawpui (kachha road)
+23.145016
+92.908569
+Debris
+Slide
+NA
+21387
+MZ/CHA/84E08/2017/27
+Mizoram
+Champhai
+ 
+FarkawnSamthang Rd
+23.145214
+93.287063
+Soil
+Slide
+NA
+21388
+MZ/LUN/84A12/2018/40
+Mizoram
+Lunglei
+ 
+Sertlangpui-Kawlhawk section 
+(PMGSY road)
+23.145231
+92.687721
+Debris
+Slide
+NA
+21389
+MZ/CHA/84E08/2017/26
+Mizoram
+Champhai
+ 
+VaphaiSamthang Rd
+23.14572
+93.306544
+Rock
+Slide
+NA
+21390
+MZ/CHA/84E08/2017/25
+Mizoram
+Champhai
+ 
+VaphaiSamthang Rd
+23.146056
+93.306889
+Rock
+Slide
+NA
+21391
+MZ/CHA/84E08/2017/24
+Mizoram
+Champhai
+Vaphai slide
+Vaphai  Samthang road
+23.146333
+93.30675
+Rock
+Slide
+NA
+21392
+MZ/CHA/84E08/2017/23
+Mizoram
+Champhai
+Vaphai slide
+VaphaiSamthang Rd
+23.146464
+93.306249
+Debris
+Slide
+NA
+21393
+MZ/CHA/84E08/2017/6
+Mizoram
+Champhai
+ 
+Vaphai  Samthang road
+23.1465
+93.30625
+Debris
+Slide
+NA
+21394
+MZ/LUN/84A12/2018/41
+Mizoram
+Lunglei
+ 
+Sertlangpui-Kawlhawk section 
+(PMGSY road)
+23.147697
+92.687386
+Debris
+Slide
+NA
+21395
+MZ/SER/84F01/2018/9
+Mizoram
+Serchhip
+ 
+3.2Km Northwest of North 
+Vanlaphai on SH North 
+Vanlaphai-Serchhip Road
+23.148056
+93.055832
+Debris
+Slide
+2018
+21396
+MZ/LUN/84A16/2018/14
+Mizoram
+Lunglei
+ 
+North of Sekhum Village
+23.148273
+92.75016
+Debris
+Slide
+NA
+21397
+MZ/CHA/84E08/2017/22
+Mizoram
+Champhai
+ 
+FarkawnSamthang Rd
+23.14953
+93.287758
+Rock
+Slide
+NA
+21398
+MZ/LUN/84A12/2018/4
+Mizoram
+Lunglei
+ 
+1 km North of Sekhum Village
+23.150719
+92.74826
+Debris
+Slide
+2018
+21399
+MZ/LUN/84A12/2018/5
+Mizoram
+Lunglei
+ 
+2 km North of Sekhum Village
+23.150719
+92.74826
+Debris
+Slide
+2018
+21400
+MZ/CHA/84E08/2017/21
+Mizoram
+Champhai
+ 
+FarkawnSamthang Rd
+23.150818
+93.286358
+Debris
+Slide
+NA
+21401
+MZ/CHA/84E08/2017/20
+Mizoram
+Champhai
+ 
+Samthang village
+23.150924
+93.28563
+Rock
+Fall
+NA
+21402
+MZ/CHA/84E08/2017/19
+Mizoram
+Champhai
+ 
+FarkawnSamthang Rd
+23.15114
+93.283462
+Debris
+Slide
+NA
+21403
+MZ/CHA/84E08/2017/18
+Mizoram
+Champhai
+ 
+FarkawnSamthang Rd
+23.151417
+93.283077
+Debris
+Slide
+NA
+21404
+MZ/CHA/84E08/2017/17
+Mizoram
+Champhai
+ 
+FarkawnSamthang Rd
+23.151444
+93.282333
+Debris
+Slide
+NA
+21405
+MZ/CHA/84E08/2017/16
+Mizoram
+Champhai
+ 
+FarkawnSamthang Rd
+23.152298
+93.28066
+Rock
+Slide
+NA
+21406
+MZ/LUN/84A12/2018/42
+Mizoram
+Lunglei
+ 
+Sertlangpui-Kawlhawk section 
+(PMGSY road)
+23.153805
+92.686775
+Debris
+Slide
+NA
+21407
+MZ/CHA/84E08/2017/15
+Mizoram
+Champhai
+ 
+Samthang Farkawn shortcut Rd 23.157667
+93.279722
+Rock
+Slide
+NA
+21408
+MZ/CHA/84E08/2017/4
+Mizoram
+Champhai
+ 
+Samthang  Farkawn shortcut 
+road
+23.161889
+93.2775
+Soil
+Slide
+NA
+21409
+MZ/CHA/84E08/2017/14
+Mizoram
+Champhai
+ 
+VaphaiSamthang Rd
+23.163158
+93.280821
+Rock
+Slide
+NA
+21410
+MZ/CHA/84E08/2017/13
+Mizoram
+Champhai
+ 
+4 km towards Samthang along 
+Vaphai  Samthang road
+23.163528
+93.281056
+Rock
+Slide
+NA
+21411
+MZ/CHA/84E08/2017/12
+Mizoram
+Champhai
+ 
+Samthang  Farkawn shortcut 
+road
+23.164508
+93.270428
+Soil
+Slide
+NA
+21412
+MZ/SER/84F01/2018/10
+Mizoram
+Serchhip
+ 
+1.5Km North of Leng Village on 
+PMGSY Sailulak-East Lungdar 
+Road
+23.168705
+93.108017
+Debris
+Slide
+2018
+21413
+MZ/LUN/84A16/2018/29
+Mizoram
+Lunglei
+ 
+South of E. Bungtlang Village 
+(NH-54)
+23.168777
+92.90097
+Debris
+Slide
+NA
+21414
+MZ/SER/84F01/2018/11
+Mizoram
+Serchhip
+ 
+500Km NW of Aithalkawn on SH 
+East Lungdar-Serchhip Road
+23.172249
+93.058052
+Debris
+Slide
+NA
+21415
+MZ/LUN/84A16/2018/28
+Mizoram
+Lunglei
+ 
+South of E. Bungtlang Village 
+(NH-54)
+23.172501
+92.900558
+Rock
+Fall
+NA

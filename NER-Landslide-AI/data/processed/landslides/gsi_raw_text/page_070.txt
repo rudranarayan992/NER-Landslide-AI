@@ -1,0 +1,504 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+2544
+HP/SIR/53F06/2017/226
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.594877
+77.47272
+Rock
+Slide
+NA
+2545
+HP/SIR/53F06/2017/230
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.595003
+77.477996
+Rock
+Slide
+NA
+2546
+HP/SIR/53F06/2017/227
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.595124
+77.471094
+Rock
+Slide
+NA
+2547
+HP/SIR/53F06/2017/229
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.595144
+77.46899
+Rock
+Slide
+NA
+2548
+HP/SIR/53F06/2017/228
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.595202
+77.472934
+Rock
+Slide
+NA
+2549
+HP/SIR/53F10/2017/158
+Himachal Pradesh
+Sirmur
+ 
+Behaldhar
+30.595236
+77.69475
+Rock
+Slide
+NA
+2550
+HP/SIR/53F06/2017/220
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.595264
+77.457866
+Rock
+Slide
+NA
+2551
+HP/SIR/53F02/2017/47
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.595394
+77.194045
+Rock
+Slide
+NA
+2552
+HP/SIR/53F06/2017/231
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.595454
+77.479514
+Rock
+Slide
+NA
+2553
+HP/SIR/53F06/2017/15
+Himachal Pradesh
+Sirmur
+ 
+South of Baneri
+30.595571
+77.388292
+Rock
+Slide
+NA
+2554
+HP/SIR/53F10/2017/156
+Himachal Pradesh
+Sirmur
+ 
+Behaldhar
+30.595658
+77.700842
+Rock
+Slide
+NA
+2555
+HP/SIR/53F06/2017/18
+Himachal Pradesh
+Sirmur
+ 
+South of Baneri
+30.595955
+77.386349
+Rock
+Slide
+NA
+2556
+HP/SIR/53F10/2017/160
+Himachal Pradesh
+Sirmur
+ 
+Kankot
+30.596028
+77.689696
+Rock
+Slide
+NA
+2557
+HP/SIR/53F06/2017/185
+Himachal Pradesh
+Sirmur
+ 
+South of Kanoti, SH1
+30.596311
+77.285489
+Rock cum debris
+Slide
+NA
+2558
+HP/SIR/53F06/2017/218
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.596407
+77.462859
+Rock
+Slide
+NA
+2559
+HP/SIR/53F06/2017/184
+Himachal Pradesh
+Sirmur
+ 
+South of Kanoti, SH1
+30.596416
+77.286487
+Rock
+Slide
+NA
+2560
+HP/SIR/53F06/2017/14
+Himachal Pradesh
+Sirmur
+ 
+Kashoga R.F.
+30.596567
+77.393825
+Rock
+Slide
+NA
+2561
+HP/SIR/53F06/2017/10
+Himachal Pradesh
+Sirmur
+ 
+Ganwara
+30.596678
+77.407991
+Rock
+Slide
+NA
+2562
+HP/SIR/53F06/2017/219
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.596751
+77.462563
+Rock
+Slide
+NA
+2563
+HP/SIR/53F06/2017/11
+Himachal Pradesh
+Sirmur
+ 
+Ganwara
+30.596792
+77.406617
+Rock
+Slide
+NA
+2564
+HP/SIR/53F06/2017/186
+Himachal Pradesh
+Sirmur
+ 
+South of Kanoti, SH1
+30.596844
+77.287316
+Rock
+Slide
+NA
+2565
+HP/SIR/53F06/2017/187
+Himachal Pradesh
+Sirmur
+ 
+South of Kanoti, SH1
+30.596885
+77.287472
+Rock
+Slide
+NA
+2566
+HP/SIR/53F06/2017/183
+Himachal Pradesh
+Sirmur
+ 
+South of Kanoti, SH1
+30.596928
+77.288555
+Rock
+Slide
+NA
+2567
+HP/SIR/53F10/2017/115
+Himachal Pradesh
+Sirmur
+ 
+Kankot
+30.596944
+77.683118
+Rock
+Slide
+NA
+2568
+HP/SIR/53F10/2017/2
+Himachal Pradesh
+Sirmur
+ 
+Lupli
+30.596947
+77.503792
+Rock
+Slide
+NA
+2569
+HP/SIR/53F10/2017/159
+Himachal Pradesh
+Sirmur
+ 
+Kankot
+30.597011
+77.691497
+Rock
+Slide
+NA
+2570
+HP/SIR/53F06/2017/182
+Himachal Pradesh
+Sirmur
+ 
+South of Kanoti, SH1
+30.597061
+77.289646
+Rock
+Slide
+NA
+2571
+HP/SIR/53F06/2017/96
+Himachal Pradesh
+Sirmur
+ 
+North of Chawahan, 
+NahanDadahu road
+30.59726
+77.292322
+Rock
+Slide
+NA
+2572
+HP/SIR/53F06/2017/95
+Himachal Pradesh
+Sirmur
+ 
+North of Chawahan, 
+NahanDadahu road
+30.597282
+77.290775
+Rock
+Slide
+NA
+2573
+HP/SIR/53F10/2017/161
+Himachal Pradesh
+Sirmur
+ 
+Kankot
+30.597382
+77.690735
+Rock
+Slide
+NA
+2574
+HP/SIR/53F06/2017/94
+Himachal Pradesh
+Sirmur
+ 
+North of Chawahan, 
+NahanDadahu road
+30.597471
+77.291025
+Rock
+Slide
+NA
+2575
+HP/SIR/53F06/2017/13
+Himachal Pradesh
+Sirmur
+ 
+Kashoga R.F.
+30.597607
+77.395734
+Rock
+Slide
+NA
+2576
+HP/SIR/53F06/2017/97
+Himachal Pradesh
+Sirmur
+ 
+North of Chawahan, 
+NahanDadahu road
+30.597663
+77.292783
+Rock
+Slide
+NA
+2577
+HP/SIR/53F06/2017/321
+Himachal Pradesh
+Sirmur
+ 
+Kiar, DadahuSataun road
+30.597754
+77.47685
+Rock
+Slide
+NA
+2578
+HP/SIR/53F06/2017/215
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.5978
+77.460996
+Rock
+Slide
+NA
+2579
+HP/SIR/53F06/2017/12
+Himachal Pradesh
+Sirmur
+ 
+Kashoga R.F.
+30.597859
+77.393373
+Rock
+Slide
+NA
+2580
+HP/SIR/53F06/2017/99
+Himachal Pradesh
+Sirmur
+ 
+North of Chawahan, 
+NahanDadahu road
+30.597941
+77.295187
+Rock
+Slide
+NA
+2581
+HP/SIR/53F06/2017/98
+Himachal Pradesh
+Sirmur
+ 
+North of Chawahan, 
+NahanDadahu road
+30.598009
+77.293662
+Rock
+Slide
+NA
+2582
+HP/SIR/53F06/2017/4
+Himachal Pradesh
+Sirmur
+ 
+Taran
+30.598035
+77.4779
+Debris
+Slide
+2017
+2583
+HP/SIR/53F06/2017/82
+Himachal Pradesh
+Sirmur
+ 
+East of Jamta, 
+nahanDadahu road
+30.598296
+77.327819
+Rock
+Slide
+NA
+2584
+HP/SIR/53F06/2017/5
+Himachal Pradesh
+Sirmur
+ 
+Taran
+30.598333
+77.476754
+Debris
+Slide
+2010
+2585
+HP/SIR/53F06/2017/214
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.598333
+77.456253
+Rock
+Slide
+NA
+2586
+HP/SIR/53F06/2017/216
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.59838
+77.461078
+Rock
+Slide
+NA
+2587
+HP/SIR/53F06/2017/100
+Himachal Pradesh
+Sirmur
+ 
+North of Chawahan, 
+NahanDadahu road
+30.598403
+77.296633
+Rock
+Slide
+NA

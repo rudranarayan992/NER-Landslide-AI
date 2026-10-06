@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+3442
+HP/SOL/53F01/2017/82
+Himachal Pradesh
+Solan
+ 
+NH22
+30.888215
+77.057795
+Rock
+Slide
+NA
+3443
+HP/SOL/53F01/2017/177
+Himachal Pradesh
+Solan
+ 
+DharampurKyarad link road
+30.888216
+77.037925
+Rock
+Slide
+NA
+3444
+HP/SOL/53F01/2017/150
+Himachal Pradesh
+Solan
+ 
+NH22
+30.888217
+77.084402
+Rock
+Slide
+NA
+3445
+HP/SOL/53B13/2017/129
+Himachal Pradesh
+Solan
+ 
+ParwanooKasauli road
+30.88842
+76.952653
+Rock
+Slide
+NA
+3446
+HP/SOL/53B13/2017/46
+Himachal Pradesh
+Solan
+ 
+ParwanooKasauli road
+30.888643
+76.963773
+Debris
+Slide
+NA
+3447
+HP/SOL/53F01/2017/410
+Himachal Pradesh
+Solan
+ 
+SH06
+30.8888
+77.23155
+Rock
+Slide
+NA
+3448
+HP/SOL/53F01/2017/229
+Himachal Pradesh
+Solan
+ 
+NH22
+30.888957
+77.058586
+Rock
+Slide
+NA
+3449
+HP/SOL/53F01/2017/178
+Himachal Pradesh
+Solan
+ 
+DharampurKyarad link road
+30.889016
+77.034311
+Rock
+Slide
+NA
+3450
+HP/SOL/53B13/2017/130
+Himachal Pradesh
+Solan
+ 
+ParwanooKasauli road
+30.889022
+76.95396
+Rock
+Slide
+NA
+3451
+HP/SOL/53F01/2017/332
+Himachal Pradesh
+Solan
+ 
+JuanjiDharon ki dhar road
+30.88906
+77.165555
+Rock
+Slide
+NA
+3452
+HP/SOL/53F01/2017/193
+Himachal Pradesh
+Solan
+ 
+NH22
+30.889134
+76.996536
+Rock
+Slide
+NA
+3453
+HP/SHM/53F09/2017/67
+Himachal Pradesh
+Shimla
+ 
+Bhanal village road
+30.889317
+77.618597
+Debris
+Slide
+NA
+3454
+HP/SOL/53B13/2017/131
+Himachal Pradesh
+Solan
+ 
+ParwanooKasauli road
+30.889334
+76.957001
+Rock
+Slide
+NA
+3455
+HP/SOL/53B13/2017/57
+Himachal Pradesh
+Solan
+ 
+NH22
+30.889465
+76.999994
+Rock
+Slide
+NA
+3456
+HP/SOL/53B13/2017/180
+Himachal Pradesh
+Solan
+ 
+ParwanooGunaiPatta road
+30.889813
+76.938581
+Rock
+Slide
+NA
+3457
+HP/SOL/53B13/2017/8
+Himachal Pradesh
+Solan
+ 
+ParwanooKasauli road
+30.889873
+76.96376
+Rock
+Fall
+NA
+3458
+HP/SIR/53F05/2017/50
+Himachal Pradesh
+Sirmur
+ 
+Neri
+30.889936
+77.344469
+Rock cum debris
+Slide
+NA
+3459
+HP/SIR/53F05/2017/52
+Himachal Pradesh
+Sirmur
+ 
+Sathah
+30.889944
+77.344389
+Debris
+Slide
+NA
+3460
+HP/SOL/53B13/2017/56
+Himachal Pradesh
+Solan
+ 
+NH22
+30.890068
+76.999735
+Rock
+Slide
+NA
+3461
+HP/SOL/53F01/2017/34
+Himachal Pradesh
+Solan
+ 
+NH22
+30.890152
+77.063488
+Rock
+Fall
+NA
+3462
+HP/SOL/53F01/2017/151
+Himachal Pradesh
+Solan
+ 
+NH22
+30.890225
+77.086293
+Rock
+Slide
+NA
+3463
+HP/SOL/53F01/2017/102
+Himachal Pradesh
+Solan
+ 
+NH22
+30.890226
+77.070981
+Rock
+Slide
+NA
+3464
+HP/SOL/53B13/2017/19
+Himachal Pradesh
+Solan
+ 
+NH22
+30.890426
+76.995798
+Debris
+Slide
+NA
+3465
+HP/SOL/53B13/2017/181
+Himachal Pradesh
+Solan
+ 
+ParwanooGunaiPatta road
+30.890571
+76.939046
+Rock
+Slide
+NA
+3466
+HP/SOL/53F01/2017/125
+Himachal Pradesh
+Solan
+ 
+NH22
+30.890576
+77.050264
+Rock
+Slide
+NA
+3467
+HP/SOL/53F01/2017/101
+Himachal Pradesh
+Solan
+ 
+NH22
+30.89074
+77.06908
+Rock
+Slide
+NA
+3468
+HP/SOL/53F01/2017/152
+Himachal Pradesh
+Solan
+ 
+NH22
+30.890824
+77.088157
+Rock
+Slide
+NA
+3469
+HP/SOL/53B13/2017/100
+Himachal Pradesh
+Solan
+ 
+NH22
+30.891413
+76.998402
+Rock
+Slide
+NA
+3470
+HP/SOL/53F01/2017/124
+Himachal Pradesh
+Solan
+ 
+NH22
+30.891724
+77.049848
+Rock
+Slide
+NA
+3471
+HP/SIR/53F05/2017/88
+Himachal Pradesh
+Sirmur
+ 
+Chakal Dungiser
+30.89195
+77.266325
+Debris
+Slide
+NA
+3472
+HP/SOL/53B13/2017/55
+Himachal Pradesh
+Solan
+ 
+NH22
+30.89213
+76.99648
+Rock
+Slide
+NA
+3473
+HP/SOL/53B13/2017/182
+Himachal Pradesh
+Solan
+ 
+ParwanooGunaiPatta road
+30.892617
+76.941135
+Rock
+Slide
+NA
+3474
+HP/SOL/53F01/2017/184
+Himachal Pradesh
+Solan
+ 
+NH22
+30.892803
+77.085632
+Rock
+Slide
+NA
+3475
+HP/SOL/53F01/2017/183
+Himachal Pradesh
+Solan
+ 
+NH22
+30.892953
+77.083101
+Rock
+Slide
+NA
+3476
+HP/SIR/53F05/2017/89
+Himachal Pradesh
+Sirmur
+ 
+Chakal Dungiser
+30.893108
+77.261733
+Rock cum debris
+Slide
+NA
+3477
+HP/SOL/53F01/2017/252
+Himachal Pradesh
+Solan
+ 
+Nainetti road
+30.893389
+77.236091
+Rock
+Slide
+NA
+3478
+HP/SOL/53F01/2017/182
+Himachal Pradesh
+Solan
+ 
+NH22
+30.893525
+77.081427
+Rock
+Slide
+NA
+3479
+HP/SOL/53F01/2017/179
+Himachal Pradesh
+Solan
+ 
+DharampurKyarad link road
+30.893584
+77.033006
+Rock
+Slide
+NA
+3480
+HP/SHM/53F09/2017/66
+Himachal Pradesh
+Shimla
+ 
+Bhanal village road
+30.893622
+77.617283
+Debris
+Slide
+NA
+3481
+HP/SOL/53F01/2017/7
+Himachal Pradesh
+Solan
+ 
+NH22
+30.893793
+77.090871
+Rock
+Fall
+NA
+3482
+HP/SOL/53F01/2017/81
+Himachal Pradesh
+Solan
+ 
+NH22
+30.894047
+77.045589
+Rock
+Slide
+NA
+3483
+HP/SOL/53B13/2017/9
+Himachal Pradesh
+Solan
+ 
+ParwanooKasauli road
+30.894169
+76.963742
+Rock
+Fall
+NA
+3484
+HP/SOL/53F01/2017/181
+Himachal Pradesh
+Solan
+ 
+NH22
+30.894411
+77.078168
+Rock
+Slide
+NA
+3485
+HP/SOL/53F01/2017/116
+Himachal Pradesh
+Solan
+ 
+NH22
+30.894492
+77.003009
+Rock
+Slide
+NA
+3486
+HP/SIR/53F05/2017/2
+Himachal Pradesh
+Sirmur
+ 
+MDR3,Satha  Palu
+30.894633
+77.331166
+Rock cum debris
+Slide
+NA
+3487
+HP/SOL/53F01/2017/80
+Himachal Pradesh
+Solan
+ 
+NH22
+30.894984
+77.033858
+Rock
+Slide
+NA
+3488
+HP/SOL/53F01/2017/185
+Himachal Pradesh
+Solan
+ 
+NH22
+30.895092
+77.090845
+Rock
+Slide
+NA
+3489
+HP/SOL/53F01/2017/245
+Himachal Pradesh
+Solan
+ 
+SH06
+30.895424
+77.103161
+Rock
+Slide
+NA
+3490
+HP/SOL/53F01/2017/250
+Himachal Pradesh
+Solan
+ 
+Nainetti road
+30.89548
+77.235948
+Rock
+Slide
+NA
+3491
+HP/SOL/53F01/2017/153
+Himachal Pradesh
+Solan
+ 
+NH22
+30.89569
+77.09261
+Rock
+Slide
+NA
+3492
+HP/SOL/53F01/2017/359
+Himachal Pradesh
+Solan
+ 
+SolanDharja road
+30.895917
+77.187139
+Rock
+Slide
+NA

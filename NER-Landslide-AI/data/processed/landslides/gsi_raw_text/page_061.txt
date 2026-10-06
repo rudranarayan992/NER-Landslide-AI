@@ -1,0 +1,562 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+2126
+HP/SIR/53F07/2017/16
+Himachal Pradesh
+Sirmur
+ 
+Singhauli
+30.462165
+77.292031
+Rock
+Slide
+NA
+2127
+HP/SIR/53F07/2017/15
+Himachal Pradesh
+Sirmur
+ 
+North of Haripur
+30.4642
+77.391658
+Rock cum debris
+Slide
+NA
+2128
+HP/SIR/53F07/2017/13
+Himachal Pradesh
+Sirmur
+ 
+North of Haripur
+30.467475
+77.39639
+Rock cum debris
+Slide
+NA
+2129
+HP/SIR/53F07/2017/14
+Himachal Pradesh
+Sirmur
+ 
+North of Haripur
+30.47039
+77.39739
+Rock cum debris
+Slide
+NA
+2130
+HP/SIR/53F07/2017/12
+Himachal Pradesh
+Sirmur
+ 
+Mahronwala
+30.476497
+77.405078
+Rock cum debris
+Slide
+NA
+2131
+HP/SIR/53F07/2017/11
+Himachal Pradesh
+Sirmur
+ 
+Mahronwala
+30.480822
+77.410069
+Rock cum debris
+Slide
+NA
+2132
+HP/SIR/53F02/2017/30
+Himachal Pradesh
+Sirmur
+ 
+BanogKaulawala bhood road
+30.496999
+77.217426
+Rock
+Slide
+NA
+2133
+HP/SIR/53F03/2017/1
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.507724
+77.245914
+Rock
+Slide
+NA
+2134
+HP/SIR/53F03/2017/2
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.508651
+77.2472
+Rock
+Slide
+NA
+2135
+HP/SIR/53F06/2017/54
+Himachal Pradesh
+Sirmur
+ 
+Khadri
+30.513754
+77.269974
+Rock
+Slide
+NA
+2136
+HP/SIR/53F06/2017/313
+Himachal Pradesh
+Sirmur
+ 
+Shambhuwala
+30.51528
+77.335421
+Debris
+Slide
+NA
+2137
+HP/SIR/53F06/2017/387
+Himachal Pradesh
+Sirmur
+ 
+Dhaduwala
+30.517019
+77.272756
+Rock
+Slide
+NA
+2138
+HP/SIR/53F06/2017/59
+Himachal Pradesh
+Sirmur
+ 
+Dewni
+30.518703
+77.268434
+Rock
+Slide
+NA
+2139
+HP/SIR/53F06/2017/53
+Himachal Pradesh
+Sirmur
+ 
+Dewni
+30.519807
+77.254651
+Rock
+Slide
+NA
+2140
+HP/SIR/53F06/2017/383
+Himachal Pradesh
+Sirmur
+ 
+Dhaduwala
+30.520144
+77.277889
+Rock
+Slide
+NA
+2141
+HP/SIR/53F06/2017/52
+Himachal Pradesh
+Sirmur
+ 
+Dewni
+30.520263
+77.255465
+Rock
+Slide
+NA
+2142
+HP/SIR/53F06/2017/384
+Himachal Pradesh
+Sirmur
+ 
+Dhaduwala
+30.520283
+77.277424
+Rock
+Slide
+NA
+2143
+HP/SIR/53F06/2017/58
+Himachal Pradesh
+Sirmur
+ 
+Dewni
+30.521782
+77.25463
+Rock
+Slide
+NA
+2144
+HP/SIR/53F06/2017/55
+Himachal Pradesh
+Sirmur
+ 
+Ambwala R.F.
+30.521896
+77.268907
+Rock
+Slide
+NA
+2145
+HP/SIR/53F06/2017/56
+Himachal Pradesh
+Sirmur
+ 
+Ambwala R.F.
+30.523011
+77.268443
+Rock
+Slide
+NA
+2146
+HP/SIR/53F06/2017/44
+Himachal Pradesh
+Sirmur
+ 
+Bikram Bag R.F.
+30.52327
+77.300171
+Rock
+Slide
+NA
+2147
+HP/SIR/53F06/2017/45
+Himachal Pradesh
+Sirmur
+ 
+Bikram Bag R.F.
+30.523434
+77.301593
+Rock
+Slide
+NA
+2148
+HP/SIR/53F06/2017/48
+Himachal Pradesh
+Sirmur
+ 
+Bikram Bag R.F.
+30.52388
+77.290155
+Rock
+Slide
+NA
+2149
+HP/SIR/53F06/2017/46
+Himachal Pradesh
+Sirmur
+ 
+Bikram Bag R.F.
+30.523963
+77.304515
+Rock
+Slide
+NA
+2150
+HP/SIR/53F06/2017/47
+Himachal Pradesh
+Sirmur
+ 
+Bikram Bag R.F.
+30.523967
+77.289347
+Rock
+Slide
+NA
+2151
+HP/SIR/53F06/2017/50
+Himachal Pradesh
+Sirmur
+ 
+Bikram Bag R.F.
+30.524006
+77.292159
+Rock
+Slide
+NA
+2152
+HP/SIR/53F06/2017/51
+Himachal Pradesh
+Sirmur
+ 
+Bikram Bag R.F.
+30.524217
+77.294645
+Rock
+Slide
+NA
+2153
+HP/SIR/53F06/2017/57
+Himachal Pradesh
+Sirmur
+ 
+Ambwala R.F.
+30.524302
+77.268451
+Rock
+Slide
+NA
+2154
+HP/SIR/53F06/2017/385
+Himachal Pradesh
+Sirmur
+ 
+Dhaduwala
+30.524525
+77.277616
+Rock
+Slide
+NA
+2155
+HP/SIR/53F06/2017/381
+Himachal Pradesh
+Sirmur
+ 
+Dhaduwala
+30.524573
+77.273435
+Rock
+Slide
+NA
+2156
+HP/SIR/53F06/2017/32
+Himachal Pradesh
+Sirmur
+ 
+Ganyoni R.F.
+30.52474
+77.459892
+Rock
+Slide
+NA
+2157
+HP/SIR/53F06/2017/49
+Himachal Pradesh
+Sirmur
+ 
+Bikram Bag R.F.
+30.524945
+77.291472
+Rock
+Slide
+NA
+2158
+HP/SIR/53F14/2017/48
+Himachal Pradesh
+Sirmur
+ 
+Shalahat R.F.
+30.52507
+77.819787
+Rock cum debris
+Slide
+NA
+2159
+HP/SIR/53F06/2017/27
+Himachal Pradesh
+Sirmur
+ 
+Ganyoni R.F.
+30.525249
+77.472139
+Rock
+Slide
+NA
+2160
+HP/SIR/53F06/2017/22
+Himachal Pradesh
+Sirmur
+ 
+Ganyoni R.F.
+30.525553
+77.471235
+Rock
+Slide
+NA
+2161
+HP/SIR/53F06/2017/25
+Himachal Pradesh
+Sirmur
+ 
+Ganyoni R.F.
+30.525657
+77.475024
+Rock
+Slide
+NA
+2162
+HP/SIR/53F06/2017/24
+Himachal Pradesh
+Sirmur
+ 
+Ganyoni R.F.
+30.525711
+77.475945
+Rock
+Slide
+NA
+2163
+HP/SIR/53F06/2017/64
+Himachal Pradesh
+Sirmur
+ 
+Shambhuwala
+30.525731
+77.330641
+Debris
+Slide
+NA
+2164
+HP/SIR/53F06/2017/23
+Himachal Pradesh
+Sirmur
+ 
+Ganyoni R.F.
+30.525856
+77.470907
+Rock
+Slide
+NA
+2165
+HP/SIR/53F06/2017/382
+Himachal Pradesh
+Sirmur
+ 
+Dhaduwala
+30.525924
+77.27429
+Rock
+Slide
+NA
+2166
+HP/SIR/53F06/2017/31
+Himachal Pradesh
+Sirmur
+ 
+Ganyoni R.F.
+30.525936
+77.466596
+Rock
+Slide
+NA
+2167
+HP/SIR/53F14/2017/49
+Himachal Pradesh
+Sirmur
+ 
+Shalahat R.F.
+30.525985
+77.820675
+Rock cum debris
+Slide
+NA
+2168
+HP/SIR/53F02/2017/58
+Himachal Pradesh
+Sirmur
+ 
+Bank of Mazar ki Nadi
+30.526014
+77.250998
+Rock
+Slide
+NA
+2169
+HP/SIR/53F06/2017/26
+Himachal Pradesh
+Sirmur
+ 
+Ganyoni R.F.
+30.526138
+77.470413
+Rock
+Slide
+NA
+2170
+HP/SIR/53F02/2017/4
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.526333
+77.247598
+Rock
+Fall
+NA
+2171
+HP/SIR/53F06/2017/33
+Himachal Pradesh
+Sirmur
+ 
+Ganyoni R.F.
+30.526578
+77.465766
+Rock
+Slide
+NA
+2172
+HP/SIR/53F06/2017/386
+Himachal Pradesh
+Sirmur
+ 
+Dhaduwala
+30.527018
+77.275068
+Rock
+Slide
+NA
+2173
+HP/SIR/53F06/2017/28
+Himachal Pradesh
+Sirmur
+ 
+Ganyoni R.F.
+30.527746
+77.466557
+Rock
+Slide
+NA
+2174
+HP/SIR/53F06/2017/63
+Himachal Pradesh
+Sirmur
+ 
+South of Bhur
+30.529595
+77.318603
+Debris
+Slide
+NA
+2175
+HP/SIR/53F06/2017/29
+Himachal Pradesh
+Sirmur
+ 
+Ganyoni R.F.
+30.529605
+77.468104
+Rock
+Slide
+NA

@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+26248
+SKM/WS/78A08/2015/350
+Sikkim
+West Sikkim
+ 
+legship-Sikkip Road
+27.191639
+88.325861
+Debris
+Slide
+NA
+26249
+SKM/WS/78A08/2015/374
+Sikkim
+West Sikkim
+ 
+Sangadorji-Bum Road
+27.191917
+88.2885
+Debris
+Slide
+NA
+26250
+SKM/ES/78A12/2015/106
+Sikkim
+ East Sikkim
+ 
+Rangpo-Rorathang Road
+27.192989
+88.603083
+Debris
+Slide
+NA
+26251
+SKM/ES/78A12/2015/135
+Sikkim
+ East Sikkim
+ 
+Rhenak Road
+27.193794
+88.650528
+Debris
+Slide
+NA
+26252
+SKM/SS/78A08/2015/206
+Sikkim
+South Sikkim
+ 
+Kholaghari village Road
+27.194333
+88.388889
+Debris
+Slide
+NA
+26253
+SKM/ES/78A12/2015/108
+Sikkim
+ East Sikkim
+ 
+Rorathang-Rongli Road
+27.195083
+88.631992
+Debris
+Slide
+NA
+26254
+SKM/ES/78A12/2015/109
+Sikkim
+ East Sikkim
+ 
+Rorathang-Rongli Road
+27.195511
+88.6342
+Debris
+Slide
+NA
+26255
+SKM/ES/78A12/2015/107
+Sikkim
+ East Sikkim
+ 
+Rorathang-Rongli Road
+27.195703
+88.625444
+Debris
+Slide
+NA
+26256
+SKM/SS/78A08/2015/207
+Sikkim
+South Sikkim
+ 
+Kholaghari village Road
+27.195722
+88.387472
+Debris
+Slide
+NA
+26257
+SKM/NS/78A03/2017/81
+Sikkim
+West Sikkim
+Phuchenbong
+SH
+27.197111
+88.208722
+Debris
+Slide
+NA
+26258
+SKM/SS/78A12/2015/146
+Sikkim
+South Sikkim
+ 
+NH-31A
+27.197417
+88.4905
+Rock
+Slide
+NA
+26259
+SKM/ES/78A12/2015/110
+Sikkim
+ East Sikkim
+ 
+Rorathang-Rongli Road
+27.198856
+88.638725
+Debris
+Slide
+NA
+26260
+SKM/ES/78A12/2015/134
+Sikkim
+ East Sikkim
+ 
+Rhenak Road
+27.198928
+88.66095
+Debris
+Slide
+NA
+26261
+SKM/SS/78A08/2015/385
+Sikkim
+South Sikkim
+ 
+Sikkip-Wak-Namchi Road
+27.199028
+88.350417
+Debris
+Slide
+NA
+26262
+SKM/ES/78A12/2015/111
+Sikkim
+ East Sikkim
+ 
+Rorathang-Rongli Road
+27.199722
+88.641633
+Rock
+Topple
+NA
+26263
+SKM/SS/78A08/2015/386
+Sikkim
+South Sikkim
+ 
+Sikkip-Wak-Namchi Road
+27.200389
+88.3545
+Debris
+Slide
+NA
+26264
+SKM/WS/78A08/2015/384
+Sikkim
+West Sikkim
+ 
+Sikkip-Wak-Namchi Road
+27.200861
+88.340861
+Debris
+Slide
+NA
+26265
+SKM/ES/78A12/2015/133
+Sikkim
+ East Sikkim
+ 
+Rhenak Road
+27.201278
+88.665381
+Debris
+Slide
+NA
+26266
+SKM/WS/78A08/2015/366
+Sikkim
+West Sikkim
+ 
+Kaluk-Rinchenpong Road
+27.20175
+88.268194
+Debris
+Slide
+NA
+26267
+SKM/ES/78A12/2015/132
+Sikkim
+ East Sikkim
+ 
+Rhenak Road
+27.201875
+88.667278
+Debris
+Slide
+NA
+26268
+SKM/SS/78A08/2015/209
+Sikkim
+South Sikkim
+ 
+Kholaghari village Road
+27.202417
+88.391583
+Debris
+Slide
+NA
+26269
+SKM/ES/78A12/2015/113
+Sikkim
+ East Sikkim
+ 
+Rorathang-Rongli Road
+27.202433
+88.656708
+Rock
+Topple
+NA
+26270
+SKM/ES/78A12/2015/34
+Sikkim
+ East Sikkim
+Pendam
+NULL
+27.203167
+88.588667
+Debris
+Slide
+NA
+26271
+SKM/ES/78A12/2015/38
+Sikkim
+ East Sikkim
+Pamdambhasmey
+Rangpo-Rorathang Road
+27.203194
+88.600278
+Debris
+Slide
+NA
+26272
+SKM/ES/78A12/2015/114
+Sikkim
+ East Sikkim
+ 
+Rorathang-Rongli Road
+27.203869
+88.658333
+Debris
+Slide
+NA
+26273
+SKM/ES/78A12/2015/112
+Sikkim
+ East Sikkim
+ 
+Rorathang-Rongli Road
+27.204556
+88.647222
+Debris
+Slide
+NA
+26274
+SKM/WS/78A08/2015/349
+Sikkim
+West Sikkim
+ 
+legship-Sikkip Road
+27.204694
+88.32375
+Debris
+Slide
+NA
+26275
+SKM/ES/78A12/2015/33
+Sikkim
+ East Sikkim
+East Pendam
+NULL
+27.205
+88.591722
+Rock
+Fall
+NA
+26276
+SKM/SS/78A08/2015/56
+Sikkim
+South Sikkim
+ 
+Phong-Bermiok Road
+27.205
+88.442122
+Debris
+Slide
+NA
+26277
+SKM/ES/78A12/2015/115
+Sikkim
+ East Sikkim
+ 
+Rorathang-Rongli Road
+27.205047
+88.689053
+Debris
+Slide
+NA
+26278
+SKM/SS/78A08/2015/54
+Sikkim
+South Sikkim
+ 
+Phong-Bermiok Road
+27.206611
+88.442814
+Debris
+Slide
+NA
+26279
+SKM/ES/78A12/2015/118
+Sikkim
+ East Sikkim
+ 
+Rorathang-Rongli Road
+27.206653
+88.679953
+Rock
+Fall
+NA
+26280
+SKM/WS/78A08/2015/348
+Sikkim
+West Sikkim
+ 
+legship-Sikkip Road
+27.206917
+88.323278
+Debris
+Slide
+NA
+26281
+SKM/SS/78A08/2015/55
+Sikkim
+South Sikkim
+ 
+Phong-Bermiok Road
+27.207039
+88.446667
+Debris
+Slide
+NA
+26282
+SKM/ES/78A12/2015/116
+Sikkim
+ East Sikkim
+ 
+Rorathang-Rongli Road
+27.207264
+88.672817
+Debris
+Slide
+NA
+26283
+SKM/ES/78A12/2015/117
+Sikkim
+ East Sikkim
+ 
+Rorathang-Rongli Road
+27.207606
+88.676047
+Rock
+Fall
+NA
+26284
+SKM/SS/78A08/2015/208
+Sikkim
+South Sikkim
+ 
+Kholaghari village Road
+27.20825
+88.387667
+Earth
+Slide
+NA
+26285
+SKM/ES/78A12/2015/35
+Sikkim
+ East Sikkim
+ 
+Rangpo-Rorathang Road
+27.2115
+88.58775
+Debris
+Slide
+NA
+26286
+SKM/ES/78A12/2015/36
+Sikkim
+ East Sikkim
+ 
+Rangpo-Rorathang Road
+27.212222
+88.587889
+Debris
+Slide
+NA
+26287
+SKM/SS/78A08/2015/196
+Sikkim
+South Sikkim
+ 
+Namchi-Damthang Road
+27.212583
+88.399333
+Debris
+Slide
+NA
+26288
+SKM/SS/78A08/2015/202
+Sikkim
+South Sikkim
+ 
+Kholaghari village Road
+27.21275
+88.391444
+Debris
+Slide
+NA
+26289
+SKM/WS/78A08/2015/347
+Sikkim
+West Sikkim
+ 
+legship-Sikkip Road
+27.213556
+88.321833
+Debris
+Slide
+NA
+26290
+SKM/ES/78A11/2015/13
+Sikkim
+ East Sikkim
+ 
+NULL
+27.214222
+88.608361
+Debris
+Slide
+NA
+26291
+SKM/SS/78A08/2015/203
+Sikkim
+South Sikkim
+ 
+Kholaghari village Road
+27.214639
+88.392417
+Debris
+Slide
+NA
+26292
+SKM/ES/78A12/2015/37
+Sikkim
+ East Sikkim
+ 
+Rangpo-Rorathang Road
+27.214806
+88.588083
+Debris
+Slide
+NA
+26293
+SKM/SS/78A08/2015/205
+Sikkim
+South Sikkim
+ 
+Kholaghari village Road
+27.215056
+88.393306
+Debris
+Slide
+NA
+26294
+SKM/SS/78A08/2015/195
+Sikkim
+South Sikkim
+ 
+Namchi-Damthang Road
+27.21525
+88.402278
+Debris
+Slide
+NA
+26295
+SKM/NS/78A03/2017/85
+Sikkim
+West Sikkim
+ 
+SH
+27.216361
+88.199667
+Debris
+Slide
+NA
+26296
+SKM/SS/78A08/2015/204
+Sikkim
+South Sikkim
+ 
+Kholaghari village Road
+27.216639
+88.392361
+Rock
+Slide
+NA
+26297
+SKM/WS/78A08/2015/367
+Sikkim
+West Sikkim
+ 
+Kaluk-Rinchenpong Road
+27.216722
+88.274639
+Debris
+Slide
+NA
+26298
+SKM/NS/78A04/2017/93
+Sikkim
+West Sikkim
+Rishithang
+SH
+27.217278
+88.236944
+Debris
+Slide
+NA

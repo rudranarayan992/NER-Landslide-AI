@@ -1,0 +1,321 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21681
+MZ/AIZ/84A11/2016/107
+Mizoram
+Aizawl
+ 
+About 4.5Km North of 
+Sialsuk,SH-Aizawl-Thenzawl-
+Lunglei Road
+23.412879
+92.75401
+Rock
+Slide
+2016
+21682
+MZ/AIZ/84A11/2016/96
+Mizoram
+Aizawl
+ 
+About 200m West of Smalukhai, 
+SH-Sialsuk-Samlukhai-Damdia 
+Road
+23.413501
+92.725781
+Debris
+Slide
+2016
+21683
+MZ/CHA/84E03/2017/77
+Mizoram
+Champhai
+ 
+North of Khawhai  (Agrilink 
+road)
+23.414113
+93.136272
+Rock
+Slide
+2017
+21684
+MZ/AIZ/84A11/2016/95
+Mizoram
+Aizawl
+ 
+About 800m Northwest of 
+Samlukhai,  SH-Sialsuk-
+Samlukhai-Damdia Road
+23.415165
+92.722199
+Rock
+Slide
+2016
+21685
+MZ/AIZ/84A11/2016/106
+Mizoram
+Aizawl
+ 
+South of Chamring, about 
+7.5km North of Sialsuk, SH-
+Aizawl-Thenzawl-Lunglei Road
+23.417482
+92.770557
+Rock
+Slide
+2016
+21686
+MZ/CHA/84E03/2017/79
+Mizoram
+Champhai
+ 
+Khawhai  Khawzawl road
+23.418808
+93.163009
+Debris
+Slide
+NA
+21687
+MZ/CHA/84E07/2017/120
+Mizoram
+Champhai
+ 
+Mualkawi church area
+23.419417
+93.333333
+Rock
+Slide
+NA
+21688
+MZ/CHA/84E07/2017/121
+Mizoram
+Champhai
+Mualkawi slide
+Mualkawi village
+23.4195
+93.331917
+Debris
+Slide
+NA
+21689
+MZ/AIZ/84A11/2016/94
+Mizoram
+Aizawl
+ 
+About 2.3 km Northwest of 
+Samlukhai,  SH-Sialsuk-
+Samlukhai-Damdia Road
+23.421903
+92.715601
+Rock
+Slide
+2016
+21690
+MZ/CHA/84E03/2017/80
+Mizoram
+Champhai
+ 
+Kawhai  Khawzawl road
+23.422583
+93.166
+Rock
+Slide
+NA
+21691
+MZ/AIZ/84A11/2016/93
+Mizoram
+Aizawl
+ 
+About 2.5 km Northwest of 
+Samlukhai,  SH-Sialsuk-
+Samlukhai-Damdia Road
+23.423348
+92.715571
+Debris
+Slide
+2016
+21692
+MZ/CHA/84E03/2017/81
+Mizoram
+Champhai
+ 
+19.5 km towards Khawzawl
+23.423972
+93.165944
+Rock
+Slide
+NA
+21693
+MZ/CHA/84E03/2017/82
+Mizoram
+Champhai
+ 
+Khawhai  Khawzawl road
+23.42425
+93.168778
+Soil
+Slide
+NA
+21694
+MZ/CHA/84E03/2017/14
+Mizoram
+Champhai
+ 
+Khawzawl  Khawhai road
+23.424417
+93.167306
+Soil
+Slide
+NA
+21695
+MZ/AIZ/84A11/2016/92
+Mizoram
+Aizawl
+ 
+About 3 km Northwest of 
+Samlukhai,  SH-Sialsuk-
+Samlukhai-Damdia Road
+23.425424
+92.716106
+Debris
+Slide
+2016
+21696
+MZ/CHA/84E03/2017/15
+Mizoram
+Champhai
+ 
+Khawhai  Khawzawl road
+23.425583
+93.168278
+Debris
+Slide
+2017
+21697
+MZ/CHA/84E07/2017/5
+Mizoram
+Champhai
+Mualkawi slide
+Mualkawi Village (near the 
+bypass road)
+23.427418
+93.335544
+Debris
+Slide
+NA
+21698
+MZ/CHA/84E07/2017/7
+Mizoram
+Champhai
+Zokhawthar slide 3
+IndoMyanmar road
+23.427611
+93.336861
+Rock
+Slide
+NA
+21699
+MZ/AIZ/84A11/2016/91
+Mizoram
+Aizawl
+ 
+About 4 km Northwest of 
+Samlukhai,  SH-Sialsuk-
+Samlukhai-Damdia Road
+23.427681
+92.714959
+Debris
+Slide
+2016
+21700
+MZ/CHA/84E07/2017/6
+Mizoram
+Champhai
+ 
+IndoMyanmar road (north of 
+Mualkawi)
+23.427713
+93.33564
+Rock
+Slide
+NA
+21701
+MZ/CHA/84E07/2017/8
+Mizoram
+Champhai
+ 
+IndoMyanmar road
+23.428061
+93.339182
+Rock
+Slide
+NA
+21702
+MZ/CHA/84E03/2017/16
+Mizoram
+Champhai
+ 
+Khawhai  Khawzawl road
+23.429181
+93.171166
+Debris
+Slide
+2017
+21703
+MZ/CHA/84E03/2017/17
+Mizoram
+Champhai
+ 
+Khawhai  Khawzawl road
+23.430917
+93.171889
+Rock
+Slide
+NA
+21704
+MZ/CHA/84E07/2017/9
+Mizoram
+Champhai
+Zokhawthar slide 1
+Indo Myanmar boarder road 
+(north of Mualkawi)
+23.431639
+93.33925
+Rock
+Slide
+NA
+21705
+MZ/CHA/84E07/2017/10
+Mizoram
+Champhai
+Zokhawthar slide 2
+Indo Myanmar boarder road 
+(north of Mualkawi)
+23.43179
+93.339128
+Rock
+Slide
+NA
+21706
+MZ/SER/84A15/2016/46
+Mizoram
+Serchhip
+ 
+About 5.9 Km North of 
+Chhiahtlang, NH-54 Aizawl-
+Serchhip-Lunglei Road
+23.434706
+92.854894
+Debris
+Slide
+2016

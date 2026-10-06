@@ -1,0 +1,187 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+10992
+JK/Panthial/430/17/03
+Jammu & Kashmir (UT)
+Ramban
+Panthial 19/0 Tower site
+Panthial
+33.29889167
+75.20757222
+Granite bodies of 
+permo-
+Carboniferous 
+age,having variable 
+aerial extension. 
+Important granite 
+bodies found in the 
+area are Dhundrat 
+granite, Marman 
+granite and Alos 
+granite. All these 
+granites have 
+identical physical, 
+petrological and 
+mineralogical 
+characters. These 
+granites bodies are 
+elongated in nature 
+and observed as 
+tongue shaped 
+intrusive in country 
+rock along the 
+anticlines which are 
+weak structural 
+zones
+Slide
+NA
+10993
+JK/Katra/43K/13& 16/RD 0/850 Jammu & Kashmir (UT)
+Reasi
+RD 0/850
+Himkoti
+33.02986111
+74.93555556
+NA
+Slide.
+1 July 2017
+10994
+PDLS/1
+Jammu & Kashmir (UT)
+Doda
+Piyakul Slide
+Thathri-Gandoh road/Piyakul 
+village
+33.11455167
+75.85555667
+Debris
+Slide
+NA
+10995
+PDLS/2
+Jammu & Kashmir (UT)
+Doda
+Tensa slide
+Tensa village Opposite Thathri-
+Gandoh road
+33.08048056
+75.90769167
+Rock
+Fall
+NA
+10996
+PDLS/3
+Jammu & Kashmir (UT)
+Udhampur
+Domel slide
+Jammu-Srinagar National 
+highway (NH-44)
+32.86897222
+74.95852778
+Rock
+Fall
+NA
+10997
+PDLS/4
+Jammu & Kashmir (UT)
+Udhampur
+Maur Landslide near Balli nala
+Jammu-Srinagar National 
+highway (NH-144)
+32.99083333
+75.19038889
+Rock and Debris
+Slide
+NA
+10998
+PDLS/5
+Jammu & Kashmir (UT)
+Ramban
+Kharpora slide /181.7 Km from Jammu 
+towards Banihal.
+Jammu-Srinagar National 
+highway (NH-144)/Kharpora 
+Banihal
+33.42503611
+75.20460556
+Rock
+slide
+NA
+10999
+PDLS/6
+Jammu & Kashmir (UT)
+Ramban
+Nashri slide /131.490 Km from Jammu 
+toward Srinagar.
+Jammu-Srinagar National 
+highway (NH-44)
+33.14407806
+75.30359417
+Rock and debris
+slide
+NA
+11000
+PDLS/7
+Jammu & Kashmir (UT)
+Ramban
+Makerkote slide / Mom passi/169.076 
+Km from Jammu toward Srinagar (NH-
+44)
+Jammu-Srinagar National 
+highway (NH-44)
+33.33185167
+75.20016472
+Rock and debris
+slide
+NA
+11001
+PDLS/8
+Jammu & Kashmir (UT)
+Ramban
+Ghanhuta/Tolwas-1 slide / 134.160 to 
+134.230 km from Jammu towards 
+Srinagar
+Jammu-Srinagar National 
+highway (NH-44) Near 
+Ghanhuta village
+33.16473194
+75.31027611
+Rock and debris
+slide
+NA
+11002
+PDLS/9
+Jammu & Kashmir (UT)
+Ramban
+Peera slide / 134.760 to 134.860 km 
+from Jammu towards Srinagar
+Jammu-Srinagar National 
+highway (NH-44) Near Peera
+33.16814
+75.30538944
+Rock and debris
+Slide
+NA
+11003
+PDLS/10
+Jammu & Kashmir (UT)
+Ramban
+Digdol 1 slide /162 km from Jammu 
+toward Srinagar
+Jammu-Srinagar National 
+highway (NH-44) Near Digdol
+33.29810556
+75.18106389
+Rock
+slide
+NA

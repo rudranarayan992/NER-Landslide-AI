@@ -1,0 +1,419 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20754
+MZ/LAW/84B11/2020/33
+Mizoram
+Lawngtlai
+Guisury village slide
+Guisury village
+22.28
+92.63
+Debris
+Slide
+2019
+20755
+MZ/SAI/84F03/2020/7
+Mizoram
+Saiha
+SW of Chheillu slide 1
+SW of Chheillu village
+22.28
+93.08
+Debris
+Slide
+2017
+20756
+MZ/SAI/84F03/2020/8
+Mizoram
+Saiha
+SW of Chheillu slide 2
+SW of Chheillu village
+22.28
+93.08
+Debris
+Slide
+NA
+20757
+MZ/SAI/84F03/2020/9
+Mizoram
+Saiha
+SW of Chheillu slide 3
+SW of Chheillu village
+22.28
+93.08
+Debris
+Slide
+NA
+20758
+MZ/SAI/84F03/2020/29
+Mizoram
+Saiha
+Chheihlu Mawhro section slide 2
+Chheihlu Mawhro section
+22.28
+93.09
+Debris
+Slide
+2017
+20759
+MZ/LAW/84B11/2020/31
+Mizoram
+Lawngtlai
+Vaseikai to Parva road slide 4
+Vaseikai to Parva road
+22.29
+92.63
+Debris
+Slide
+2019
+20760
+MZ/LAW/84B11/2020/32
+Mizoram
+Lawngtlai
+Vaseikai to Parva road slide 5
+Vaseikai to Parva road
+22.29
+92.63
+Earth
+Slide
+2019
+20761
+MZ/SAI/84F03/2020/10
+Mizoram
+Saiha
+SW of Chheillu slide 4
+SW of Chheillu village
+22.29
+93.08
+Debris
+Slide
+NA
+20762
+MZ/SAI/84F03/2020/30
+Mizoram
+Saiha
+Chheihlu Mawhro section slide 3
+Chheihlu Mawhro section
+22.29
+93.09
+Debris
+Slide
+2017
+20763
+MZ/LAW/84B11/2020/60
+Mizoram
+Lawngtlai
+India Bangladesh Fencing road slide 6
+India Bangladesh Fencing road
+22.3
+92.59
+Debris
+Slide
+NA
+20764
+MZ/LAW/84B15/2018/39
+Mizoram
+Lawngtlai
+ 
+Vathuampui Road
+22.309944
+92.768333
+Debris
+Slide
+NA
+20765
+MZ/LAW/84B15/2018/40
+Mizoram
+Lawngtlai
+ 
+Vathuampui Road
+22.309944
+92.768059
+Debris
+Slide
+NA
+20766
+MZ/LAW/84B11/2020/29
+Mizoram
+Lawngtlai
+Vaseikai to Parva road slide 2
+Vaseikai to Parva road
+22.31
+92.63
+Debris
+Slide
+2019
+20767
+MZ/LAW/84B11/2020/30
+Mizoram
+Lawngtlai
+Vaseikai to Parva road slide 3
+Vaseikai to Parva road
+22.31
+92.63
+Debris
+Slide
+2019
+20768
+MZ/SAI/84F03/2020/14
+Mizoram
+Saiha
+Tuipang slide
+Tuipang
+22.31
+93.02
+Debris
+Slide
+NA
+20769
+MZ/LAW/84B11/2020/12
+Mizoram
+Lawngtlai
+Sekulhkai to M Kawnpui road slide 2
+Sekulhkai to M Kawnpui road
+22.32
+92.73
+Debris
+Slide
+2019
+20770
+MZ/SAI/84F03/2020/11
+Mizoram
+Saiha
+South of Siata village slide
+5km south of siata village
+22.32
+93.14
+Debris
+Slide
+NA
+20771
+MZ/SAI/84F03/2020/15
+Mizoram
+Saiha
+North of Pukzing slide 1
+North of Pukzing
+22.32
+93.02
+Rock
+Slide
+NA
+20772
+MZ/LAW/84B15/2018/38
+Mizoram
+Lawngtlai
+ 
+Vathuampui Road
+22.320999
+92.772003
+Debris
+Slide
+NA
+20773
+MZ/LAW/84B15/2018/37
+Mizoram
+Lawngtlai
+ 
+Vathuampui Road
+22.326
+92.771004
+Debris
+Slide
+NA
+20774
+MZ/LAW/84B15/2018/36
+Mizoram
+Lawngtlai
+ 
+Vathuampui Road
+22.328888
+92.769997
+Debris
+Slide
+NA
+20775
+MZ/LAW/84B11/2020/6
+Mizoram
+Lawngtlai
+Bungtlang S to Sekulhkai road slide 1
+Bungtlang S to Sekulhkai road
+22.33
+92.75
+Debris
+Slide
+2019
+20776
+MZ/LAW/84B11/2020/9
+Mizoram
+Lawngtlai
+Bungtlang S to Sekulhkai road slide 4
+Bungtlang S to Sekulhkai road
+22.33
+92.74
+Debris
+Slide
+NA
+20777
+MZ/LAW/84B11/2020/10
+Mizoram
+Lawngtlai
+Bungtlang S to Sekulhkai road slide 5
+Bungtlang S to Sekulhkai road
+22.33
+92.74
+Debris
+Slide
+2019
+20778
+MZ/LAW/84B11/2020/11
+Mizoram
+Lawngtlai
+Sekulhkai to M Kawnpui road slide 1
+Sekulhkai to M Kawnpui road
+22.33
+92.74
+Rock
+Slide
+NA
+20779
+MZ/LAW/84B11/2020/13
+Mizoram
+Lawngtlai
+Sekulhkai to M Kawnpui road slide 3
+Sekulhkai to M Kawnpui road
+22.33
+92.73
+Debris
+Slide
+2019
+20780
+MZ/LAW/84B11/2020/14
+Mizoram
+Lawngtlai
+Sekulhkai village slide
+Outside Sekulhkai village
+22.33
+92.72
+Debris
+Slide
+NA
+20781
+MZ/LAW/84B11/2020/15
+Mizoram
+Lawngtlai
+Sekulhkai to M Kawnpui road slide 4
+Sekulhkai to M Kawnpui road
+22.33
+92.72
+Debris
+Slide
+2019
+20782
+MZ/LAW/84B11/2020/19
+Mizoram
+Lawngtlai
+M Kawnpui to Saibawh road slide 3
+M Kawnpui to Saibawh road
+22.33
+92.69
+Debris
+Slide
+2019
+20783
+MZ/LAW/84B11/2020/20
+Mizoram
+Lawngtlai
+M Kawnpui to Saibawh road slide 4
+M Kawnpui to Saibawh road
+22.33
+92.69
+Debris
+Slide
+2019
+20784
+MZ/LAW/84B11/2020/28
+Mizoram
+Lawngtlai
+Vaseikai to Parva road slide 1
+Vaseikai to Parva road
+22.33
+92.63
+Debris
+Slide
+2019
+20785
+MZ/LAW/84B11/2020/42
+Mizoram
+Lawngtlai
+Fangfarlui slide 2
+Fangfarlui
+22.33
+92.65
+Debris
+Slide
+2019
+20786
+MZ/LAW/84B11/2020/7
+Mizoram
+Lawngtlai
+Bungtlang S to Sekulhkai road slide 2
+Bungtlang S to Sekulhkai road
+22.34
+92.75
+Debris
+Slide
+2019
+20787
+MZ/LAW/84B11/2020/8
+Mizoram
+Lawngtlai
+Bungtlang S to Sekulhkai road slide 3
+Bungtlang S to Sekulhkai road
+22.34
+92.74
+Debris
+Slide
+2019
+20788
+MZ/LAW/84B11/2020/16
+Mizoram
+Lawngtlai
+M Kawnpui slide
+M Kawnpui
+22.34
+92.71
+Debris
+Slide
+2019
+20789
+MZ/LAW/84B11/2020/17
+Mizoram
+Lawngtlai
+M Kawnpui to Saibawh road slide 1
+M Kawnpui to Saibawh road
+22.34
+92.68
+Debris
+Slide
+2019
+20790
+MZ/LAW/84B11/2020/18
+Mizoram
+Lawngtlai
+M Kawnpui to Saibawh road slide 2
+M Kawnpui to Saibawh road
+22.34
+92.69
+Debris
+Slide
+2019

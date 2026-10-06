@@ -1,0 +1,401 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+789
+AS-33/2005
+Assam
+Kamrup (Metro)
+Himgiri path, Dhirenpara 
+26.15166667
+91.73138889
+NA
+NIL
+24 & 25 Aug. 2005
+790
+AS-34/2005
+Assam
+Kamrup (Metro)
+Jalukbari on NH 
+26.15544444
+91.679
+NA
+NIL
+24 & 25 Aug. 2005
+791
+AS-13/2011
+Assam
+Dima Hasao
+Rekho slide-1
+25.10727778
+92.88313889
+NA
+NIL
+Between 21st & 23rd May 2011
+792
+AS-14/2011
+Assam
+Dima Hasao
+Rekho slide-2
+25.10622222
+92.8845
+NA
+NIL
+Last week of May 2011
+793
+AS-01/2012-13
+Assam
+Kamrup
+Handique Nagar slide
+26.14988889
+91.77394444
+NA
+NIL
+1 May 2025, 2300hrs 
+794
+AS-02/2012-13
+Assam
+Kamrup
+Lalunggaon Slide
+26.10891667
+91.74175
+NA
+NIL
+22 June 2012, 03.30hrs 
+795
+AS-03/2012-13
+Assam
+Kamrup
+Sonaighuli Slide
+26.12911111
+91.74911111
+NA
+NIL
+25 June 2012 between 1400hrs & 
+1500hrs 
+796
+AS-04/2012-13
+Assam
+Kamrup
+Udayanchal Slide
+26.15333333
+91.77711111
+NA
+NIL
+25 June 2012 12:30hrs
+797
+AS-05/2012-13
+Assam
+Kamrup
+Tilabazar Slide
+26.15052778
+91.72766667
+NA
+NIL
+27 June 2012, 0030hrs
+798
+AS-06/2012-13
+Assam
+Kamrup
+Mathurangar Hillside  slide
+26.16405556
+91.72827778
+NA
+NIL
+26 June 2012 06:45hrs 
+799
+AS/KAM(M)/78N16/2025/006
+Assam
+Kamrup
+Doimuguri, Bonda
+Doimuguri,
+26.19113889
+91.82961111
+Earth
+Slide
+31 May 2025
+800
+AS/KAM(M)/78N16/2025/05
+Assam
+Kamrup
+Rupnagar
+26.158193
+91.755807
+Debris
+Slide
+06 June 2025
+801
+AS/KAM(M)/78N12/2025/01
+Assam
+Kamrup
+Kamakhya Main Road
+Kamakhya Road
+26.166185
+91.7147
+Earth
+Slide
+04 June 2025
+802
+AS/KAM(M)/78N12/2025/02
+Assam
+Kamrup
+Kamakhya Main Road
+Kamakhya Road
+26.16616
+91.713803
+Earth
+Slide
+04 June 2025 at 14.30 hrs.
+803
+AS/KAM(M)/78N12/2025/03
+Assam
+Kamrup
+Kamakhya Main Road
+Kamakhya Road
+26.16297
+91.7059
+Earth
+Slide
+05 June 2025 at 15.20 hrs.
+804
+AS/KAM(M)/78N12/2025/04
+Assam
+Kamrup
+Pandu
+Pandu
+26.17027
+91.698
+Debris
+Slide
+31 May 2025
+805
+ASM/DH/83C16/2023-24/001
+Assam
+Dima Hasao
+Lower Boulsol slide
+Lower Boulsol
+25.117665
+92.847709
+Debris
+Slide
+14 May 2022
+806
+ASM/DH/83G03/2023-24/001
+Assam
+Dima Hasao
+Guilongam (Ch) slide
+Guilongam-Semkhor road 
+section
+25.27898
+93.241092
+Debris
+Slide
+NA
+807
+ASM/DH/83C07/2023-24/001
+Assam
+Dima Hasao
+Semkhor Road slide
+Semkhor I-Semkhor II road 
+section
+25.283672
+93.301012
+Debris
+Slide
+2021
+808
+ASM/DH/83C15/2023-24/001
+Assam
+Dima Hasao
+Old Sangbar playground slide
+Old Sangbar
+25.366255
+92.823037
+Debris
+Slide
+14 May 2022
+809
+ASM/DH/83C16/2023-24/001
+Assam
+Dima Hasao
+Duiring road slide
+Duiring
+25.1644
+92.994643
+Debris
+Slide
+NA
+810
+ASM/DH/83C16/2023-24/002
+Assam
+Dima Hasao
+Duiring road slide
+Duiring
+25.170425
+92.989085
+Debris
+Slide
+NA
+811
+ASM/DH/83G03/2023-24/002
+Assam
+Dima Hasao
+Kalachand-Bara Digar road slide
+Kalachand
+25.412958
+93.242826
+Earth
+Slide
+NA
+812
+ASM/DH/83G03/2023-24/003
+Assam
+Dima Hasao
+Kalachand-Bara Digar road slide 2
+Kalachand
+25.362612
+93.216888
+Debris
+Slide
+NA
+813
+ASM/DH/83G03/2023-24/004
+Assam
+Dima Hasao
+Gunjung subsidence
+Gunjung
+25.316197
+93.006158
+Earth
+Subsidence
+16 June 2022
+814
+LS_ASM_DH_0390/2024
+Assam
+Dima Hasao
+Duiring Road
+Hokai-Duiring road section
+25.172918
+92.995982
+Debris
+Slide
+2024
+815
+LS_ASM_DH_0391/2024
+Assam
+Dima Hasao
+Maibang
+Maibang
+25.319717
+93.123028
+Debris
+Slide
+July, 2024
+816
+LS_ASM_DH_0392/2024
+Assam
+Dima Hasao
+Maibang-Gunjung road slide 1
+Maibang-Gunjung road section
+25.318433
+93.115767
+Debris
+Slide
+July, 2024
+817
+LS_ASM_DH_0393/2024
+Assam
+Dima Hasao
+Maibang-Gunjung road slide 2
+Maibang-Gunjung road section
+25.313791
+93.10552
+Debris
+Slide
+NA
+818
+LS_ASM_DH_0394/2024
+Assam
+Dima Hasao
+Maibang-Gunjung road slide 3
+Maibang-Gunjung road section
+25.313929
+93.10485
+Debris
+Slide
+NA
+819
+LS_ASM_DH_0395/2024
+Assam
+Dima Hasao
+Maibang-Gunjung road slide 4
+Maibang-Gunjung road section
+25.314558
+93.094195
+Debris
+Slide
+NA
+820
+LS_ASM_DH_0396/2024
+Assam
+Dima Hasao
+Gunjung road slide 1
+Gunjung road section
+25.22548
+93.023783
+Debris
+Slide
+2024
+821
+LS_ASM_DH_0397/2024
+Assam
+Dima Hasao
+Gunjung road slide 2
+Gunjung road section
+25.24612
+93.028292
+Debris
+Slide
+NA
+822
+LS_ASM_DH_0398/2024
+Assam
+Dima Hasao
+Gunjung road slide 3
+Gunjung road section
+25.23575
+93.033317
+Debris
+Slide
+NA
+823
+LS_ASM_DH_0399/2024
+Assam
+Dima Hasao
+Zion road slide
+Zion road section
+25.18846
+93.003768
+Debris
+Slide
+2024
+824
+LS_ASM_DH_0400/2024
+Assam
+Dima Hasao
+Lungkhok-Asiakrobi road slide 1
+Lungkhok-Asiakrobi road 
+section
+25.20006
+92.9972
+Debris
+Slide
+2024

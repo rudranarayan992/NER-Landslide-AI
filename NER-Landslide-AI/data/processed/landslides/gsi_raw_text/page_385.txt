@@ -1,0 +1,337 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15850
+KER/IDK/58G01/2018/143
+Kerala
+Idukki
+Mukkudom
+5th Mile-Kambilikandom Road
+9.95311
+77.0108
+Debris
+Slide
+15th & 16th August 2018
+15851
+KER/IDK/58G01/2018/144
+Kerala
+Idukki
+Mukkudom
+5th Mile-Kambilikandom Road
+9.952695
+77.010752
+Debris
+Slide
+16th August 2018
+15852
+KER/IDK/58C13/2018/145
+Kerala
+Idukki
+Nediyanithandu
+Mukkudam-Panamkutty Road
+9.954549
+76.998518
+Debris
+Flow
+15th August 2018
+15853
+KER/IDK/58C13/2018/146
+Kerala
+Idukki
+Nediyanithandu
+Mukkudam-Panamkutty Road
+9.952086
+76.996141
+Debris
+Flow
+15th August 2018
+15854
+KER/IDK/58G01/2018/147
+Kerala
+Idukki
+Thellithodu
+Kambilikandom-Chinnar Road
+9.927763
+77.015368
+Debris
+Slide
+15th August 2018
+15855
+KER/IDK/58G01/2018/148
+Kerala
+Idukki
+Thellithodu
+Kambilikandom-Chinnar Road
+9.926759
+77.01703
+Debris
+Slide
+15th August 2018
+15856
+KER/IDK/58G01/2018/149
+Kerala
+Idukki
+Chinnar
+Kambilikandom-Chinnar Road
+9.924577
+77.016068
+Debris
+Slide
+15th August 2018
+15857
+KER/IDK/58G01/2018/150
+Kerala
+Idukki
+Chinnar
+Kambilikandom-Murickassery 
+Road
+9.922576
+77.015245
+Debris
+Slide
+15th August 2018
+15858
+KER/IDK/58G01/2018/151
+Kerala
+Idukki
+Chinnar
+Chinnar-Parathodu Road
+9.922225
+77.022481
+Debris
+Slide
+15th August 2018
+15859
+KER/IDK/58G01/2018/152
+Kerala
+Idukki
+Kurushukuthi
+Inchathotti-Kambilikandom 
+Road
+9.936478
+77.004653
+Debris
+Flow
+9th August 2018
+15860
+KER/IDK/58G01/2018/153
+Kerala
+Idukki
+Kurushukuthi
+Inchathotti-Kambilikandom 
+Road
+9.936371
+77.001443
+Debris
+Flow
+9th August 2018
+15861
+KER/IDK/58C13/2018/154
+Kerala
+Idukki
+Panamkutty
+Kurushukuthi-Panamkutti Road 9.938994
+76.998095
+Debris
+Slide
+15th August 2018
+15862
+KER/IDK/58C13/2018/155
+Kerala
+Idukki
+Panamkutty
+Kurushukuthi-Panamkutti Road 9.940471
+76.997566
+Debris
+Slide
+15th August 2018
+15863
+KER/IDK/58C13/2018/156
+Kerala
+Idukki
+Panamkutty
+Kurushukuthi-Panamkutti Road 9.943606
+76.996391
+Debris
+Flow
+15th August 2018
+15864
+KER/IDK/58C13/2018/157
+Kerala
+Idukki
+Manguva
+Kambilikandom-Inchathotty 
+Road
+9.935591
+76.997299
+Soil
+Subsidence
+15th August 2018
+15865
+KER/IDK/58G01/2018/158
+Kerala
+Idukki
+Kurushukuthi
+Kurushukuthi-Inchathotti Road
+9.939339
+77.007014
+Debris
+Flow
+15th August 2018
+15866
+KER/IDK/58G01/2018/159
+Kerala
+Idukki
+Kambilikandom
+Kambilikandom-Panamkutty 
+Road
+9.941193
+77.014292
+Debris
+Slide
+15th August 2018
+15867
+KER/IDK/58G01/2018/160
+Kerala
+Idukki
+Kambilikandom
+Kallarkutty-Chinnar Road
+9.939441
+77.014008
+Debris
+Slide
+15th August 2018
+15868
+KER/IDK/58G01/2018/161
+Kerala
+Idukki
+Thellithodu
+Thellithodu-Murickassery Road
+9.932985
+77.015938
+Debris
+Slide
+15th August 2018
+15869
+KER/IDK/58G01/2018/162
+Kerala
+Idukki
+Thellithodu
+Kambilikandom-Murickassery 
+Road
+9.934623
+77.011152
+Debris
+Slide
+15th August 2018
+15870
+KER/IDK/58G01/2018/163
+Kerala
+Idukki
+Kambilikandom
+Kambilikandom-Panamkutty 
+Road
+9.942947
+77.011212
+Earth
+Slide
+16th August 2018
+15871
+KER/IDK/58G01/2018/164
+Kerala
+Idukki
+Kambilikandom
+Kambilikandom-Panamkutty 
+Road
+9.944797
+77.005826
+Debris
+Flow
+15th August 2018
+15872
+KER/IDK/58G01/2018/165
+Kerala
+Idukki
+Kambilikandom
+Kambilikandom-Panamkutty 
+Road
+9.943259
+77.01043
+Debris
+Flow
+15th August 2018
+15873
+KER/IDK/58C13/2018/166
+Kerala
+Idukki
+Manguva
+Chinnar-Manguwa Road
+9.925577
+76.99857
+Soil
+Subsidence
+15th August 2018
+15874
+KER/IDK/58G01/2018/167
+Kerala
+Idukki
+Kurushukuthi
+Inchathotti-Kurushukuthi Road
+9.930746
+77.004874
+Debris
+Slide
+15th August 2018
+15875
+KER/IDK/58G01/2018/168
+Kerala
+Idukki
+Chinnar
+Kambilikandom-Chinnar Road
+9.924974
+77.017757
+Debris
+Slide
+15th August 2018
+15876
+KER/IDK/58C13/2018/169
+Kerala
+Idukki
+Manguva
+Chinnar-Panamkutty Road
+9.939805
+76.988043
+Debris
+Flow
+15th August 2018
+15877
+KER/IDK/58C13/2018/170
+Kerala
+Idukki
+Manguva
+Chinnar-Panamkutty Road
+9.941878
+76.990454
+Debris
+Slide
+15th August 2018
+15878
+KER/IDK/58G01/2018/171
+Kerala
+Idukki
+Ambalakunnu
+Mukkudam-Kannadipara Road
+9.953416
+77.016984
+Debris
+Slide
+15th August 2018

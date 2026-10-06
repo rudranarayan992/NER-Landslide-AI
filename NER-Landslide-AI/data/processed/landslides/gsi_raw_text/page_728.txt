@@ -1,0 +1,437 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28739
+WB/DAR/78B05/2015/701
+West Bengal
+Darjeeling
+Giddapahar-1(1 km toward Mahanadi 
+from the junction of NH-55 & Rohini 
+road)
+NH-55
+26.871222
+88.301333
+Debris
+Subsidence
+2015
+28740
+WB/DAR/78B01/2015/380
+West Bengal
+Darjeeling
+Bungkulung TG
+Right bank of Marma Nadi
+26.871667
+88.214972
+Rock
+Slide
+2015
+28741
+WB/DAR/78B05/2015/711
+West Bengal
+Darjeeling
+Dargaon
+Dargaon
+26.871874
+88.269212
+Debris
+Subsidence
+2016
+28742
+WB/DAR/78B05/2015/420
+West Bengal
+Darjeeling
+NH55  At 43 km from Siliguri
+At 43 km from Siliguri on NH 55 26.872141
+88.296241
+Rock
+Fall
+2002
+28743
+WB/DAR/78B05/2015/541
+West Bengal
+Darjeeling
+MAHANADI
+MAHANADI
+26.872197
+88.391895
+Debris
+Slide
+2011
+28744
+WB/DAR/78B05/2015/558
+West Bengal
+Darjeeling
+Dukandara
+Dukandara
+26.8722
+88.2715
+Debris
+Slide
+2013
+28745
+WB/DAR/78B05/2015/645
+West Bengal
+Darjeeling
+Bunklling, NH55
+Bunklling, NH55
+26.872454
+88.284939
+Debris
+Slide
+2015
+28746
+WB/DAR/78B05/2015/556
+West Bengal
+Darjeeling
+NH55 Gayabari on NH-55 (Toy Train 
+37 km)
+ 
+26.872526
+88.306365
+Rock
+Slide
+2012
+28747
+WB/DAR/78B05/2015/707
+West Bengal
+Darjeeling
+On NH-55, (1km towards  Mahanadi 
+from Kurseong)
+NH-55
+26.872556
+88.285083
+Rock
+Slide
+2015
+28748
+WB/DAR/78B05/2015/603
+West Bengal
+Darjeeling
+MAHANADI WLS
+ 
+26.872794
+88.417543
+Rock
+Slide
+2014
+28749
+WB/DAR/78B05/2015/466
+West Bengal
+Darjeeling
+Chipla Khola
+ 
+26.873291
+88.37526
+Debris
+Slide
+2004
+28750
+WB/DAR/78B05/2015/565
+West Bengal
+Darjeeling
+NAYABAZAR
+ 
+26.873533
+88.277209
+Debris
+Slide
+2014
+28751
+WB/DAR/78B05/2015/480
+West Bengal
+Darjeeling
+Nayabazar v 1
+Kurseong
+26.87374
+88.27649
+Debris
+Subsidence
+2007
+28752
+WB/DAR/78B01/2021/PDLS/17
+West Bengal
+Darjeeling
+N/A
+N/A
+26.87409511
+88.19196963
+Debris
+Slide
+October 2021
+28753
+WB/DAR/78B05/2015/481
+West Bengal
+Darjeeling
+Nayabazar v 2
+Kurseong
+26.87412
+88.27978
+Debris
+Slide
+2007
+28754
+WB/DAR/78B05/2015/602
+West Bengal
+Darjeeling
+MAHANADI WLS
+ 
+26.874514
+88.403235
+Debris
+Slide
+2014
+28755
+WB/DAR/78B05/2015/574
+West Bengal
+Darjeeling
+Dukandara
+ 
+26.874624
+88.277883
+Debris
+Slide
+2014
+28756
+WB/DAR/78B05/2023/PDLS/02
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+26.8749
+88.2844
+Debris
+Slide
+October 2021
+28757
+WB/DAR/78B05/2015/601
+West Bengal
+Darjeeling
+MAHANADI WLS
+ 
+26.875357
+88.417505
+Rock
+Slide
+2014
+28758
+WB/DAR/78B05/2015/605
+West Bengal
+Darjeeling
+MAHANADI WLS
+ 
+26.875891
+88.398517
+Debris
+Slide
+2014
+28759
+WB/DAR/78B05/2015/557
+West Bengal
+Darjeeling
+NH55 mahanadi
+NH55
+26.877
+88.314
+Rock
+Slide
+2012
+28760
+WB/DAR/78B05/2015/636
+West Bengal
+Darjeeling
+Gairigaon NH55
+Gairigaon NH55
+26.877274
+88.313681
+Rock
+Slide
+2015
+28761
+WB/DAR/78B05/2015/407
+West Bengal
+Darjeeling
+NH55 _ 38.9km
+NH 55
+26.877408
+88.283764
+Debris
+Slide
+1998
+28762
+WB/DAR/78B05/2015/607
+West Bengal
+Darjeeling
+Bandarjhora RF
+ 
+26.877496
+88.383783
+Debris
+Slide
+2014
+28763
+WB/DAR/78B05/2015/637
+West Bengal
+Darjeeling
+Paglajhora NH55
+Paglajhora NH55
+26.877539
+88.310605
+Rock
+Slide
+2015
+28764
+WB/DAR/78B05/2021/PDLS/08
+West Bengal
+Darjeeling
+N/A
+N/A
+26.8779184
+88.31460343
+Debris
+Slide
+October 2021
+28765
+WB/DAR/78B05/2015/401
+West Bengal
+Darjeeling
+NH55 Lower Pagla Jhora
+At Km 35 from Siliguri on NH 55 26.878
+88.308
+Rock
+Subsidence
+1986
+28766
+WB/DAR/78B05/2015/544
+West Bengal
+Darjeeling
+NH55 Gidda Slide (44/3 km Toy train 
+bend)
+Gidda Slide (44/3 km Toy train 
+bend)
+26.878
+88.3
+Debris
+Slide
+2012
+28767
+WB/DAR/78B01/2015/378
+West Bengal
+Darjeeling
+Mukti Slide
+Right Side of the Mukti Bridge 
+on left bank of the Marma Nadi
+26.878083
+88.224611
+Debris
+Slide
+2015
+28768
+WB/DAR/78B05/2021/PDLS/10
+West Bengal
+Darjeeling
+N/A
+N/A
+26.87826993
+88.3453511
+Debris
+NULL
+October 2021
+28769
+WB/DAR/78B05/2015/465
+West Bengal
+Darjeeling
+Lizziepur
+ 
+26.878297
+88.345986
+Rock
+Slide
+2004
+28770
+WB/DAR/78B05/2015/600
+West Bengal
+Darjeeling
+MAHANADI WLS
+ 
+26.878875
+88.410696
+Debris
+Slide
+2014
+28771
+WB/DAR/78B05/2015/543
+West Bengal
+Darjeeling
+NH55 Pagla Jhora (Left bank)
+Pagla Jhora (Left bank) on NH-
+55
+26.879
+88.308
+Debris
+Subsidence
+2012
+28772
+WB/DAR/78B05/2015/647
+West Bengal
+Darjeeling
+Paglajhora NH55
+Paglajhora NH55
+26.879134
+88.300863
+Debris
+Slide
+2015
+28773
+WB/DAR/78B05/2015/638
+West Bengal
+Darjeeling
+Gairigaon NH55
+Gairigaon NH55
+26.879416
+88.30386
+Debris
+Subsidence
+2015
+28774
+WB/DAR/78B05/2015/400
+West Bengal
+Darjeeling
+NH55   Pagla Jhora
+NH55
+26.879778
+88.303556
+Rock
+Subsidence
+1985
+28775
+WB/DAR/78B05/2015/635
+West Bengal
+Darjeeling
+Paglajhora NH55
+Paglajhora NH55
+26.879811
+88.308138
+Debris
+Subsidence
+2015
+28776
+WB/DAR/78B05/2015/443
+West Bengal
+Darjeeling
+Mahanadi WLS
+ 
+26.880829
+88.440901
+Debris
+Slide
+2004

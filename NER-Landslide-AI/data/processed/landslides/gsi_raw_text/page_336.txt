@@ -1,0 +1,366 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14132
+KRL/PKD/58B10/2018/40
+Kerala
+Palakkad
+Veezhumala slide
+Veezhumala, Kattusseri village, 
+Alathur Taluk
+10.625922
+76.5395
+Rock cum debris
+slide
+Initiated on 16/8/18
+14133
+KRL/PKD/58B10/2018/41
+Kerala
+Palakkad
+Veezhumala quarry slide
+Veezhumala, Kattusseri village, 
+Alathur Taluk
+10.627883
+76.536593
+Rock cum Debris
+slide
+Initiated on 16/8/18
+14134
+KRL/PKD/58B10/2018/42
+Kerala
+Palakkad
+Veezhumala quarry slide II
+Veezhumala, Kattusseri village, 
+Alathur Taluk
+10.621085
+76.537792
+Debris
+slide
+Initiated on 16/8/18
+14135
+KRL/PKD/58B10/2018/43
+Kerala
+Palakkad
+Veezhumala, Kattusseri village, 
+Alathur Taluk
+10.6272
+76.5355
+Debris
+slide
+Initiated on 16/8/18
+14136
+KRL/PKD/58B10/2018/44
+Kerala
+Palakkad
+Veezhumala, Kattusseri village, 
+Alathur Taluk
+10.6273
+76.5347
+Debris
+slide
+Initiated on 16/8/18
+14137
+KRL/PKD/58B10/2018/45
+Kerala
+Palakkad
+Veezhumala, Kattusseri village, 
+Alathur Taluk
+10.6276
+76.5327
+Debris
+slide
+Initiated on 16/8/18
+14138
+KRL/PKD/58B10/2018/46
+Kerala
+Palakkad
+Veezhumala, Kattusseri village, 
+Alathur Taluk
+10.6288
+76.5319
+Debris
+slide
+Initiated on 16/8/18
+14139
+KRL/PKD/58B10/2018/47
+Kerala
+Palakkad
+Jai Bharat estate slide
+Kattusseri village, Alathur Taluk 10.629437
+76.532611
+Debris
+slide
+Initiated on 16/8/18
+14140
+KRL/PKD/58B10/2018/48
+Kerala
+Palakkad
+Veezhumala, Kattusseri village, 
+Alathur Taluk
+10.6295
+76.5258
+Debris
+slide
+Initiated on 16/8/18
+14141
+KRL/PKD/58B10/2018/49
+Kerala
+Palakkad
+Veezhumala, Kattusseri village, 
+Alathur Taluk
+10.622357
+76.525052
+Debris
+slide
+Initiated on 16/8/18
+14142
+KRL/PKD/58B10/2018/50
+Kerala
+Palakkad
+Cheekode, Erattakulam, Alathur 
+taluk
+10.625742
+76.513723
+Debris
+slide
+Initiated on 16/8/18
+14143
+KRL/PKD/58B10/2018/54
+Kerala
+Palakkad
+Neeliampathy reserve forest
+10.529618
+76.74376
+Debris
+slide
+Initiated on 15/8/18
+14144
+KRL/PKD/58B10/2018/64
+Kerala
+Palakkad
+Kailasam resort slide
+Muthalmada II village
+10.516108
+76.714738
+Debris
+slide
+Initiated on 15/8/18
+14145
+KRL/PKD/58B10/2018/67
+Kerala
+Palakkad
+Muthalmada II village
+10.514844
+76.714898
+Debris
+slide
+Initiated on 15/8/18
+14146
+KRL/PKD/58B10/2018/68
+Kerala
+Palakkad
+Muthalmada II village
+10.51619
+76.714973
+Debris
+slide
+Initiated on 15/8/18
+14147
+KRL/PKD/58B10/2018/69
+Kerala
+Palakkad
+Muthalmada II village
+10.514993
+76.722541
+Debris
+slide
+Initiated on 15/8/18
+14148
+KRL/PKD/58B10/2018/70
+Kerala
+Palakkad
+Kottayangad tea garden
+10.519469
+76.70468
+Debris
+Subsidence
+Initiated on 15/8/18
+14149
+KRL/PKD/58B10/2018/71
+Kerala
+Palakkad
+Kottayangad tea garden
+10.519083
+76.704987
+Debris
+Subsidence
+Initiated on 15/8/18
+14150
+KRL/PKD/58B10/2018/72
+Kerala
+Palakkad
+Kottayangad tea garden
+10.512772
+76.706638
+Debris
+Subsidence
+Initiated on 15/8/18
+14151
+KRL/PKD/58B10/2018/73
+Kerala
+Palakkad
+Kottayangad tea garden
+10.513456
+76.705238
+Debris
+slide
+Initiated on 15/8/18
+14152
+KRL/PKD/58B10/2018/74
+Kerala
+Palakkad
+Kottayangad tea garden
+10.5125
+76.70548
+Debris
+slide
+Initiated on 15/8/18
+14153
+KRL/PKD/58B10/2018/75
+Kerala
+Palakkad
+Neeliampathy reserve forest
+10.528954
+76.744945
+Debris
+slide
+Initiated on 15/8/18
+14154
+KRL/PKD/58B10/2018/76
+Kerala
+Palakkad
+Kottayangad tea garden
+10.514386
+76.708769
+Debris
+slide
+Initiated on 15/8/18
+14155
+KRL/PKD/58B10/2018/77
+Kerala
+Palakkad
+Kottayangad tea garden
+10.516015
+76.707017
+Debris
+Subsidence
+Initiated on 15/8/18
+14156
+KRL/PKD/58B10/2018/78
+Kerala
+Palakkad
+Kottayangad tea garden
+10.518439
+76.707104
+rock cum debris
+slide
+Initiated on 15/8/18
+14157
+KRL/PKD/58B10/2018/79
+Kerala
+Palakkad
+Kottayangad tea garden
+10.517512
+76.706842
+Debris
+slide
+Initiated on 15/8/18
+14158
+KRL/PKD/58B10/2018/80
+Kerala
+Palakkad
+Neeliampathy reserve forest
+10.537323
+76.728492
+rock cum debris
+slide
+Initiated on 15/8/18
+14159
+KRL/PKD/58B10/2018/81
+Kerala
+Palakkad
+Kottayangad tea garden
+10.526703
+76.704183
+Debris
+Subsidence
+Initiated on 15/8/18
+14160
+KRL/PKD/58B10/2018/82
+Kerala
+Palakkad
+Kottayangad tea garden
+10.530427
+76.702402
+Debris
+Subsidence
+Initiated on 15/8/18
+14161
+KRL/PKD/58B10/2018/83
+Kerala
+Palakkad
+Neeliampathy reserve forest
+10.539537
+76.72348
+rock cum debris
+slide
+Initiated on 15/8/18
+14162
+KRL/PKD/58B10/2018/84
+Kerala
+Palakkad
+Neeliampathy reserve forest
+10.541594
+76.724785
+rock cum debris
+slide
+Initiated on 15/8/18
+14163
+KRL/PKD/58B10/2018/85
+Kerala
+Palakkad
+Neeliampathy reserve forest
+10.5192
+76.72935
+Debris
+slide
+Initiated on 15/8/18
+14164
+KRL/PKD/58B10/2018/86
+Kerala
+Palakkad
+Neeliampathy reserve forest
+10.519324
+76.728593
+Debris
+slide
+Initiated on 15/8/18
+14165
+KRL/PKD/58B10/2018/87
+Kerala
+Palakkad
+Neeliampathy reserve forest
+10.523999
+76.730808
+Debris
+slide
+Initiated on 15/8/18

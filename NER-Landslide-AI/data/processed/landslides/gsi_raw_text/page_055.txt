@@ -1,0 +1,466 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1865
+AP/LDV/82P11/2022/LS80
+Arunachal Pradesh
+Dibang Valley
+LS-80
+NH-13
+28.638336
+95.856331
+Debris
+Slide
+NA
+1866
+AR/US/82P02/2022/073
+Arunachal Pradesh
+Upper Siang
+Yingkiong Slide 1
+NH-513
+28.639389
+95.033639
+Debris
+Slide
+NA
+1867
+AR/USI/82L14/2022/31
+Arunachal Pradesh
+Upper Siang
+Yingkiong-Tuting Road Slide
+Yingkiong-Tuting Road
+28.693837
+94.973784
+Debris
+Slide
+NA
+1868
+AR/USI/82P02/2022/32B
+Arunachal Pradesh
+Upper Siang
+Gette-Pugging Road Slide
+Gette-Pugging Road
+28.694531
+95.001999
+Debris
+Slide
+NA
+1869
+AR/USI/82P02/2022/32A
+Arunachal Pradesh
+Upper Siang
+Gette-Pugging Road Slide
+Gette-Pugging Road
+28.694778
+95.001887
+Debris
+Slide
+NA
+1870
+AR/USI/82L14/2022/33
+Arunachal Pradesh
+Upper Siang
+Gette-Pugging Road Slide
+Gette-Pugging Road
+28.706748
+94.985298
+Rock-cum-Debris
+Slide
+NA
+1871
+AR/USI/82L14/2022/35
+Arunachal Pradesh
+Upper Siang
+Gette-Palling Road Slide
+Gette-Palling Road
+28.716426
+94.969346
+Rock-cum-Debris
+Slide
+NA
+1872
+AR/USI/82L14/2022/34
+Arunachal Pradesh
+Upper Siang
+Gette-Pugging Road Slide
+Gette-Pugging Road
+28.720187
+94.971636
+Rock-cum-Debris
+Slide
+NA
+1873
+AR/USI/82L14/2022/36
+Arunachal Pradesh
+Upper Siang
+Gette-Palling Road Slide
+Gette-Palling Road
+28.723166
+94.959687
+Rock-cum-Debris
+Slide
+NA
+1874
+AR/USI/82L14/2022/30
+Arunachal Pradesh
+Upper Siang
+Yingkiong-Tuting Road Slide
+Yingkiong-Tuting Road
+28.729371
+94.92012
+Debris
+Slide
+NA
+1875
+AR/USI/82L14/2022/38
+Arunachal Pradesh
+Upper Siang
+Bomdo- Migging Road Slide
+Bomdo- Migging Road
+28.740576
+94.867317
+Rock-cum-Debris
+Slide
+NA
+1876
+AR/USI/82L14/2022/39
+Arunachal Pradesh
+Upper Siang
+Bomdo- Migging Road Slide
+Bomdo- Migging Road
+28.740874
+94.866397
+Rock-cum-Debris
+Slide
+NA
+1877
+AR/USI/82L14/2022/37
+Arunachal Pradesh
+Upper Siang
+Bomdo- Migging Road Slide
+Bomdo- Migging Road
+28.744078
+94.86976
+Rock-cum-Debris
+Slide
+NA
+1878
+AR/USI/82L13/2022/41
+Arunachal Pradesh
+Upper Siang
+Bomdo- Migging Road Slide
+Bomdo- Migging Road
+28.752815
+94.893869
+Rock-cum-Debris
+Slide
+NA
+1879
+AR/USI/82L13/2022/29
+Arunachal Pradesh
+Upper Siang
+Bomdo Slide
+Yingkiong-Tuting Road
+28.754928
+94.8954
+Debris
+Slide
+NA
+1880
+AP/E-Siang/82P8/2022/LS41
+Arunachal Pradesh
+Dibang Valley
+LS-41
+NH-13, Komlighat park, Pasighat 
+bridge slide
+28.760937
+95.865649
+Debris
+Slide
+NA
+1881
+AR/USI/82L13/2022/40
+Arunachal Pradesh
+Upper Siang
+Bomdo- Migging Road Slide
+Bomdo- Migging Road
+28.762661
+94.860138
+Rock-cum-Debris
+Slide
+NA
+1882
+AP/E-Siang/82P8/2022/LS42
+Arunachal Pradesh
+Dibang Valley
+LS-42
+NH-13, Komlighat park, Pasighat 
+bridge slide
+28.763514
+95.868872
+Debris
+Slide
+NA
+1883
+AP/DV/82P/13/2022/LS-109
+Arunachal Pradesh
+Dibang Valley
+ Mipi slide
+South of Mipi village
+28.763802
+95.868513
+Earth
+Slide
+NA
+1884
+AP/DV/82p/13/2022/LS-110
+Arunachal Pradesh
+Dibang Valley
+ Mipi slide
+South West of Mipi village
+28.772473
+95.867921
+Earth
+Slide
+NA
+1885
+AP/DV/82P/13/2022/LS-111
+Arunachal Pradesh
+Dibang Valley
+ Mipi slide
+TwoardMipi village
+28.77363
+95.869239
+Earth
+Slide
+NA
+1886
+AP/DV/82P/13/2022/LS-112
+Arunachal Pradesh
+Dibang Valley
+ Mipi Slide
+South of Mipi Village.
+28.774623
+95.89086
+Earth
+Slide
+NA
+1887
+AP/DV /82P/13/2022/LS-113
+Arunachal Pradesh
+Dibang Valley
+ Anini-Mipi slide
+Annini-Mipi road
+28.775381
+95.898382
+Debris
+Slide
+NA
+1888
+AP/DV/82P/13/2022/LS-114
+Arunachal Pradesh
+Dibang Valley
+ Marwali Slide
+Marwali village.
+28.775779
+95.890362
+Debris
+Slide
+NA
+1889
+AP/DV/82P/13/2022/LS-115
+Arunachal Pradesh
+Dibang Valley
+ Mipi slide
+Towards Mipi village.
+28.775918
+95.874296
+Earth
+Slide
+NA
+1890
+AR/USI/82L13/2022/42
+Arunachal Pradesh
+Upper Siang
+Bomdo- Migging Road Slide
+Bomdo- Migging Road
+28.779408
+94.859327
+Rock-cum-Debris
+Slide
+NA
+1891
+AR/USI/82L13/2022/48
+Arunachal Pradesh
+Upper Siang
+Janbo-Mosing Road Slide
+Janbo-Mosing Road
+28.782426
+94.810546
+Rock-cum-Debris
+Slide
+NA
+1892
+AP/E-Siang/82P8/2022/LS43
+Arunachal Pradesh
+Dibang Valley
+LS-43
+NH-13, komlighat park, Pasighat 
+bridge slide
+28.783517
+95.904106
+Debris
+Slide
+NA
+1893
+AP/DV/82P/13/2022/LS-116
+Arunachal Pradesh
+Dibang Valley
+ Miju Rondo Slide
+Annini-Mipi road.
+28.784231
+95.906188
+Debris
+Slide
+NA
+1894
+AP/DV/82P/13/2022/LS-117
+Arunachal Pradesh
+Dibang Valley
+Mipi  slide
+ South of Mipi village.
+28.785391
+95.892707
+Debris
+Slide
+NA
+1895
+AP/E-Siang/82P8/2022/LS44
+Arunachal Pradesh
+Dibang Valley
+LS-44
+NH-13, Komlighat park
+28.786868
+95.908637
+Debris
+Slide
+NA
+1896
+AR/USI/82L13/2022/47
+Arunachal Pradesh
+Upper Siang
+Janbo-Mosing Road Slide
+Janbo-Mosing Road
+28.787001
+94.81686
+Rock-cum-Debris
+Slide
+NA
+1897
+AR/USI/82L13/2022/46
+Arunachal Pradesh
+Upper Siang
+Janbo-Mosing Road Slide
+Janbo-Mosing Road
+28.787486
+94.819425
+Rock-cum-Debris
+Slide
+NA
+1898
+AR/USI/82L13/2022/45
+Arunachal Pradesh
+Upper Siang
+Janbo-Mosing Road Slide
+Janbo-Mosing Road
+28.787937
+94.820098
+Rock-cum-Debris
+Slide
+NA
+1899
+AP/LDV/82P11/2022/LS78
+Arunachal Pradesh
+East Siang
+Sisseri bridge slide
+NH-13, towards Sesseri bridge
+28.789647
+95.894965
+Debris
+Slide
+NA
+1900
+AR/USI/82L13/2022/43
+Arunachal Pradesh
+Upper Siang
+Janbo-Migging Road Slide
+Janbo-Migging Road
+28.793279
+94.848477
+Rock-cum-Debris
+Slide
+NA
+1901
+AR/USI/82L13/2022/44
+Arunachal Pradesh
+Upper Siang
+Janbo-Mosing Road Slide
+Janbo-Mosing Road
+28.800083
+94.842265
+Rock-cum-Debris
+Slide
+NA
+1902
+AP/DV/82P/13/2022/LS-118
+Arunachal Pradesh
+Dibang Valley
+Mipi slide
+South of Mipi village.
+28.808133
+95.926984
+Debris
+Slide
+NA
+1903
+AP/DV/82P/13/2022/LS-119
+Arunachal Pradesh
+Dibang Valley
+ MipiSlide
+ South of Mipi Village.
+28.809244
+95.92821
+Earth
+Slide
+NA
+1904
+AR/USI/82L13/2022/50
+Arunachal Pradesh
+Upper Siang
+Mosing-Tuting Road Slide
+Mosing-Tuting Road
+28.810126
+94.785508
+Rock-cum-Debris
+Slide
+NA
+1905
+AP/DV/82P/13/2022/LS-121
+Arunachal Pradesh
+Dibang Valley
+ Mipi Slide
+ Near Mipi Village
+28.813805
+95.919362
+Earth
+Slide
+NA

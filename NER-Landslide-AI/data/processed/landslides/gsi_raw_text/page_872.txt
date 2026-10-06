@@ -1,0 +1,553 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+34636
+UK/RUD/53N02/2013/0056
+Uttarakhand
+Rudraprayag
+UK/RUD/Byung/08
+NH-109, Byung Village
+30.5658
+79.0847
+Rock cum Debris
+Slide
+16th-17th June 2013
+34637
+UK/UTT/53J06/2013/0034
+Uttarakhand
+Uttarkashi
+UK_UTT_NH134_L34
+NH-134, Pipalmandi slide
+30.5658
+78.325
+Debris
+Flow
+16th-17th June 2013
+34638
+UK/RUD/53N02/2015/572
+Uttarakhand
+Rudraprayag
+ 
+ 
+30.565801
+79.084429
+Debris
+Slide
+2012
+34639
+UK/DEH/53F14/2015/538
+Uttarakhand
+Dehradun
+ 
+Nagthat - Milgad -Kandriyan
+30.565889
+77.982932
+Debris
+Slide
+NA
+34640
+UK/TEH/53J06/2015/911
+Uttarakhand
+Tehri Garhwal
+ 
+R/b of Nagun gad , Nagun-Kyari 
+road
+30.565907
+78.295501
+Rock cum Debris
+Fall
+2007
+34641
+UK/TEH/53J14/2015/245
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.566792
+78.815217
+Rock
+Slide
+NA
+34642
+UK/RUD/53N02/2015/573
+Uttarakhand
+Rudraprayag
+ 
+ 
+30.566833
+79.081778
+Debris
+Slide
+2013
+34643
+UK/TEH/53J14/2015/247
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.566889
+78.811333
+Debris
+Slide
+NA
+34644
+UK/DEH/53F14/2015/578
+Uttarakhand
+Dehradun
+ 
+Milgad -Nagthat -Barai
+30.566952
+77.952718
+Debris
+Slide
+NA
+34645
+UK/TEH/53J14/2015/246
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.567556
+78.811444
+Rock
+Slide
+NA
+34646
+UK/DEH/53F14/2015/584
+Uttarakhand
+Dehradun
+ 
+Milgad -Nagthat -Barai
+30.567751
+77.984627
+Debris
+Slide
+NA
+34647
+UK/TEH/53J14/2015/243
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.568
+78.814417
+Debris
+Slide
+2013
+34648
+UK/TEH/53J14/2015/244
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.568161
+78.815719
+Debris
+Slide
+NA
+34649
+UK/DEH/53F14/2015/583
+Uttarakhand
+Dehradun
+ 
+Milgad -Nagthat -Barai
+30.568238
+77.98746
+Rock
+Slide
+NA
+34650
+UK/TEH/53J02/2015/1964
+Uttarakhand
+Tehri Garhwal
+ 
+Datka-Dharj road
+30.568533
+78.022844
+Rock cum Debris
+Slide
+NA
+34651
+UK/RUD/53N02/2015/584
+Uttarakhand
+Rudraprayag
+ 
+ 
+30.568586
+79.121086
+Debris
+Slide
+NA
+34652
+UK/UTT/53J10/2015/159
+Uttarakhand
+Uttarkashi
+ 
+ 
+30.568861
+78.500778
+Debris
+Slide
+NA
+34653
+UK/TEH/53J02/2015/1965
+Uttarakhand
+Tehri Garhwal
+ 
+Thatyur-Basndasari road
+30.569572
+78.025459
+Rock cum Debris
+Slide
+NA
+34654
+UK/TEH/53J14/2015/242
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.569653
+78.8156
+Debris
+Slide
+NA
+34655
+UK/DEH/53F14/2015/582
+Uttarakhand
+Dehradun
+ 
+Milgad -Nagthat -Barai
+30.570028
+77.991389
+Debris
+Slide
+NA
+34656
+UK/RUD/53N02/2015/585
+Uttarakhand
+Rudraprayag
+ 
+Chajji
+30.570134
+79.12356
+Debris
+Slide
+NA
+34657
+UK/TEH/53J02/2015/1930
+Uttarakhand
+Tehri Garhwal
+ 
+Koisi-Nainbag road
+30.570567
+78.012894
+Rock
+Slide
+NA
+34658
+UK/TEH/53J14/2015/305
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.570583
+78.868306
+Debris
+Slide
+NA
+34659
+Uttarakhand/Chamoli/53N10/2
+021/01
+Uttarakhand
+Chamoli
+N/A
+N/A
+30.571023
+79.561066
+Rock
+Falls
+2017
+34660
+UK/TEH/53J14/2015/241
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.571078
+78.818497
+Debris
+Slide
+NA
+34661
+UK/TEH/53J14/2015/240
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.571167
+78.81775
+Debris
+Slide
+2013
+34662
+UK/DEH/53F14/2015/581
+Uttarakhand
+Dehradun
+ 
+Milgad -Nagthat -Barai
+30.571242
+77.990621
+Debris
+Slide
+NA
+34663
+UK/THE/53J10/2015/101
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.571361
+78.660833
+Debris
+Slide
+NA
+34664
+UK/TEH/53J14/2015/239
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.571861
+78.818111
+Debris
+Slide
+NA
+34665
+UK/DEH/53J02/2015/1967
+Uttarakhand
+Dehradun
+ 
+Nainbag-Damta road
+30.571986
+78.000758
+Rock cum Debris
+Slide
+NA
+34666
+UK/RUD/53N02/2015/574
+Uttarakhand
+Rudraprayag
+ 
+Kobilta
+30.572806
+79.080972
+Debris
+Slide
+2013
+34667
+UK/DEH/53F14/2015/451
+Uttarakhand
+Dehradun
+ 
+Saini - Chakrata- Korwa
+30.572939
+77.865479
+Debris
+Slide
+NA
+34668
+UK/RUD/53N02/2015/583
+Uttarakhand
+Rudraprayag
+ 
+ 
+30.573412
+79.123107
+Debris
+Slide
+NA
+34669
+UK/TEH/53J02/2015/1966
+Uttarakhand
+Tehri Garhwal
+ 
+Thatyur-Basndasari road
+30.573444
+78.068917
+Rock cum Debris
+Slide
+NA
+34670
+UK/RUD/53N02/2015/582
+Uttarakhand
+Rudraprayag
+ 
+ 
+30.573464
+79.12448
+Debris
+Slide
+NA
+34671
+UK/RUD/53N02/2015/581
+Uttarakhand
+Rudraprayag
+ 
+ 
+30.5735
+79.122222
+Debris
+Slide
+NA
+34672
+UK/DEH/53F14/2015/494
+Uttarakhand
+Dehradun
+ 
+Singhori -Byasi-Kalsi
+30.573639
+77.926694
+Debris
+Slide
+NA
+34673
+UK/DEH/53F14/2015/450
+Uttarakhand
+Dehradun
+ 
+Saini - Chakrata- Korwa
+30.573747
+77.866683
+Debris
+Slide
+NA
+34674
+UK/TEH/53J02/2015/1968
+Uttarakhand
+Tehri Garhwal
+ 
+Maror-Munog road
+30.573886
+78.027485
+Rock cum Debris
+Slide
+NA
+34675
+UK/THE/53J10/2015/107
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.573889
+78.658389
+Debris
+Slide
+NA
+34676
+UK/RUD/53N02/2015/559
+Uttarakhand
+Rudraprayag
+ 
+NH-109
+30.57425
+79.051139
+Debris
+Slide
+2013
+34677
+UK/RUD/53N02/2013/0054
+Uttarakhand
+Rudraprayag
+UK/RUD/Maikhanda/06
+NH-109, Maikhanda Village
+30.5744
+79.2816
+Debris
+Spread
+16th-17th June 2013
+34678
+UK/THE/53J10/2015/108
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.574528
+78.643111
+Debris
+Slide
+NA
+34679
+UK/DEH/53F14/2015/489
+Uttarakhand
+Dehradun
+ 
+Koti- Kalsi
+30.575167
+77.963861
+Debris
+Slide
+NA
+34680
+UK/TEH/53J14/2015/238
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.575492
+78.822919
+Debris
+Slide
+NA
+34681
+UK/TEH/53J14/2015/237
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.575833
+78.821639
+Debris
+Slide
+NA
+34682
+UK/TEH/53J14/2015/236
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.57585
+78.822878
+Debris
+Slide
+NA
+34683
+UK/DEH/53F14/2015/493
+Uttarakhand
+Dehradun
+ 
+Singhori -Byasi-Kalsi
+30.57625
+77.932694
+Debris
+Slide
+NA
+34684
+UK/THE/53J10/2015/31
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.577222
+78.638111
+Debris
+Slide
+NA

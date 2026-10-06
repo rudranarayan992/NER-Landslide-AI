@@ -1,0 +1,362 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15907
+KER/IDK/58G01/2018/200
+Kerala
+Idukki
+Panniyar Nirappu
+Muniyara-Panniyar Nirappu-
+Karimala Road
+9.93704
+77.082937
+Debris
+Flow
+15th August 2018
+15908
+KER/IDK/58G01/2018/201
+Kerala
+Idukki
+Panniyar Nirappu
+Panniyar Nirappu-ADC Padi 
+Road
+9.933626
+77.0839
+Debris
+Slide
+9th August 2018
+15909
+KER/IDK/58G01/2018/202
+Kerala
+Idukki
+Muniyara-Karimala
+Panniyar Nirappu-ADC Padi 
+Road
+9.932715
+77.082126
+Debris
+Slide
+9th August 2018
+15910
+KER/IDK/58G01/2018/203
+Kerala
+Idukki
+Karimala-Ellicity
+Muniyara-Kuthungal Road
+9.932156
+77.095032
+Debris
+Flow
+15th August 2018
+15911
+KER/IDK/58G01/2018/204
+Kerala
+Idukki
+Karimala
+Ambalapadi-Karimala Road
+9.92608
+77.096689
+Debris
+Slide
+15th August 2018
+15912
+KER/IDK/58G01/2018/205
+Kerala
+Idukki
+Karimala
+Ambalapadi-Karimala Road
+9.925708
+77.099886
+Debris
+Flow
+15th August 2018
+15913
+KER/IDK/58G01/2018/206
+Kerala
+Idukki
+Karimala-Ellicity
+Muniyara-Ellicity Road
+9.930948
+77.095854
+Debris
+Flow
+15th August 2018
+15914
+KER/IDK/58G01/2018/207
+Kerala
+Idukki
+Ellicity
+Karimala-Ellicity Road
+9.929579
+77.093757
+Debris
+Flow
+15th August 2018
+15915
+KER/IDK/58G01/2018/208
+Kerala
+Idukki
+Muniyara
+Muniyara-Kombodinjal Road
+9.931424
+77.073147
+Debris
+Slide
+15th August 2018
+15916
+KER/IDK/58G01/2018/209
+Kerala
+Idukki
+Ponmudi dam
+Konnathady-Ponmudy Road
+9.960222
+77.054272
+Debris
+Slide
+15th August 2018
+15917
+KER/IDK/58G01/2018/210
+Kerala
+Idukki
+Panniyarkutty
+Ponmudy-Vellathooval Road
+9.97148
+77.056422
+Debris
+Slide
+16th August 2018
+15918
+KER/IDK/58G01/2018/211
+Kerala
+Idukki
+Nadukani
+Nadukani-Kachirapadi Road
+9.970993
+77.054832
+Debris
+Flow
+8th August 2018
+15919
+KER/IDK/58G01/2018/212
+Kerala
+Idukki
+Nadukani-1
+Nadukani-Kachirapadi Road
+9.970723
+77.054675
+Debris
+Flow
+9th August 2018
+15920
+KER/IDK/58G01/2018/213
+Kerala
+Idukki
+Ponmudi
+Ponmudy-Marakkanam Road
+9.960236
+77.050507
+Debris
+Slide
+15th August 2018
+15921
+KER/IDK/58G01/2018/214
+Kerala
+Idukki
+Mullarikudi
+Mullarikudi-Muniyara Road
+9.919278
+77.077173
+Debris
+Slide
+15th August 2018
+15922
+KER/IDK/58G01/2018/215
+Kerala
+Idukki
+Perinjankutty
+Perinjankutty-Panikkankudy 
+Road
+9.906031
+77.076524
+Debris
+Flow
+15th August 2018
+15923
+KER/IDK/58G01/2018/216
+Kerala
+Idukki
+Pulickalkavala
+Chinnar-Pulickal Kavala Road
+9.927947
+77.020912
+Debris
+Slide
+15th August 2018
+15924
+KER/IDK/58G01/2018/217
+Kerala
+Idukki
+Irumalakappu
+Irumalakappu-Adivaram Road
+9.92833
+77.029375
+Debris
+Flow
+17th August 2018
+15925
+KER/IDK/58G01/2018/218
+Kerala
+Idukki
+Chinnar Nirappu
+Parathodu-Irumalakappu-
+Chinnar Nirappu Road
+9.91784
+77.050808
+Debris
+Flow
+8th August 2018
+15926
+KER/IDK/58G01/2018/219
+Kerala
+Idukki
+Chinnar Nirappu-1
+Irumalakappu-Chempakapara 
+Road
+9.915213
+77.051721
+Debris
+Slide
+7th August 2018
+15927
+KER/IDK/58G01/2018/220
+Kerala
+Idukki
+Chinnar Nirappu-2
+Irumalakappu-Chempakapara 
+Road
+9.91511
+77.053817
+Debris
+Flow
+7th August 2018
+15928
+KER/IDK/58G01/2018/221
+Kerala
+Idukki
+Kailasam-Adikkinitty
+Perinjamkutty-Adikkinitty Road 9.897343
+77.098639
+Debris
+Slide
+15th August 2018
+15929
+KER/IDK/58G01/2018/222
+Kerala
+Idukki
+Kailasam
+Kailasam-Karithodu Road
+9.896788
+77.103485
+Debris
+Slide
+15th August 2018
+15930
+KER/IDK/58G01/2018/223
+Kerala
+Idukki
+Kailasam-1
+Kailasam-Panikkankudi Road
+9.905716
+77.095274
+Debris
+Slide
+15th August 2018
+15931
+KER/IDK/58G01/2018/224
+Kerala
+Idukki
+Kailasam-2
+Kailasam-Panikkankudi Road
+9.906504
+77.093419
+Debris
+Slide
+15th August 2018
+15932
+KER/IDK/58G01/2018/225
+Kerala
+Idukki
+Kailasam-3
+Kailasam-Panikkankudi Road
+9.907028
+77.092101
+Debris
+Slide
+15th August 2018
+15933
+KER/IDK/58G01/2018/226
+Kerala
+Idukki
+Mullerikudi
+Mullerikudi-Perinjamkutti Road 9.91368
+77.079088
+Debris
+Slide
+18th August 2018
+15934
+KER/IDK/58G01/2018/227
+Kerala
+Idukki
+S-Valavu
+Ponmudi-Vellathooval Road
+9.974254
+77.040455
+Debris
+Slide
+15th August 2018
+15935
+KER/IDK/58G01/2018/228
+Kerala
+Idukki
+S-Valavu
+Vellathooval-Panniyarkutty 
+Road
+9.9757
+77.037546
+Debris
+Slide
+15th July, 8th , 9th and 15th August 
+2018
+15936
+KER/IDK/58G01/2018/229
+Kerala
+Idukki
+Vimalacity
+Vimalacity-Vellathooval-
+Muthirapuzha Road
+9.972498
+77.028973
+Debris
+Slide
+15th August 2018
+15937
+KER/IDK/58G01/2018/230
+Kerala
+Idukki
+Muthirapuzha
+Muthirapuzha-Vallakadavu 
+Road
+9.967911
+77.020629
+Debris
+Slide
+16th August 2018

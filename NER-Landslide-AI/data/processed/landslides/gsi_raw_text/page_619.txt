@@ -1,0 +1,357 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+24437
+NG/KOH/83K2/2015/62
+Nagaland
+Kohima
+ 
+Between Lerie and Pfiichama 
+along Lerie-Pfiichama approach 
+road
+25.652
+94.121
+Debris
+Slide
+2010
+24438
+NG/PHE/83K6/2015/284
+Nagaland
+Phek
+ 
+Pfiitsero-Phesachodu-Chetheba 
+road.
+25.652
+94.288
+Rock
+Slide
+NA
+24439
+NG/KOH/83K2/2015/90
+Nagaland
+Kohima
+ 
+Between Lerie and Pfiichama 
+along Lerie-Pfiichama approach 
+road
+25.652
+94.122
+Debris
+Slide
+2010
+24440
+NG/KOH/83K2/2015/160
+Nagaland
+Kohima
+ 
+On Kohima-Chakhabama road
+25.652
+94.154
+Debris
+Slide
+NA
+24441
+NG/KOH/83K2/2015/115
+Nagaland
+Kohima
+ 
+Kohima-Khonoma-Pedi-Peren 
+SH (at km 16.490)
+25.652
+94.03
+Rock
+Slide
+2014
+24442
+NG/PHE/83K10/2017/6
+Nagaland
+Phek
+ 
+Waziho to Zipu
+25.652361
+94.735889
+Debris
+Slide
+NA
+24443
+NG/PHE/83K14/2017/5
+Nagaland
+Phek
+ 
+Mokie
+25.652639
+94.7705
+Debris
+Slide
+NA
+24444
+NL/KOH/83K02/2014/45
+Nagaland
+Kohima
+Thedziilieziekie
+Kohima-Khonoma-Pedi-Peren 
+SH
+25.65275
+94.032
+Debris
+Slide
+2014
+24445
+NG/KOH/83K2/2015/53
+Nagaland
+Kohima
+ 
+Between Lerie and Pfiichama 
+along Lerie-Pfiichama approach 
+road
+25.653
+94.123
+Debris
+Slide
+2012
+24446
+NG/KOH/83K2/2015/44
+Nagaland
+Kohima
+ 
+Southern downslope of Lerie 
+Helipad
+25.653
+94.121
+Debris
+Slide
+2010
+24447
+NG/PHE/83K10/2017/4
+Nagaland
+Phek
+ 
+Waziho to Zipu
+25.653361
+94.734333
+Debris
+Slide
+NA
+24448
+NG/KOH/83K2/2015/77
+Nagaland
+Kohima
+ 
+On the immediate ESE 
+downslope of Lerie Helipad
+25.654
+94.122
+Rock
+Slide
+2013
+24449
+NG/PHE/83K6/2015/254
+Nagaland
+Phek
+ 
+Pfiitsero-Sakraba-Phek road
+25.654
+94.438
+Debris
+Slide
+2010
+24450
+NG/PHE/83K2/2015/243
+Nagaland
+Phek
+ 
+Chakhabama-Chozuba-
+Zunheboto-Mokokchung  SH
+25.655
+94.234
+Rock cum Debris
+Slide
+2013
+24451
+NG/PHE/83K6/2015/257
+Nagaland
+Phek
+ 
+Pfiitsero-Sakraba-Phek road
+25.655
+94.438
+Debris
+Slide
+2010
+24452
+NL/KOH/83K02/2014/15
+Nagaland
+Kohima
+Forest colony along Kohima Science 
+College road
+Jotsoma village
+25.65653
+94.09061
+Debris
+Slide
+2014
+24453
+NG/PHE/83K6/2015/260
+Nagaland
+Phek
+ 
+Pfiitsero-Sakraba-Phek road
+25.657
+94.439
+Debris
+Slide
+2012
+24454
+NG/KOH/83K2/2015/57
+Nagaland
+Kohima
+ 
+Porterlane, Kohima Town
+25.657
+94.102
+Debris
+Composite
+NA
+24455
+NG/PHE/83K14/2017/66
+Nagaland
+Phek
+ 
+Kuzato to Wazeho
+25.657361
+94.750278
+Rock
+Slide
+NA
+24456
+NL/KOH/83K02/2014/13
+Nagaland
+Kohima
+Jotsoma forest colony road slide
+Jotsoma village (Science college 
+area)
+25.65747
+94.08611
+Debris
+Slide
+2014
+24457
+NL/KOH/83K02/2014/10
+Nagaland
+Kohima
+Dziina
+Kohima-Pedi-Peren road
+25.65778
+94.05683
+Debris
+Slide
+July-August, 2014
+24458
+NG/KOH/83K2/2015/179
+Nagaland
+Kohima
+ 
+AG colony, Kohima Town
+25.659
+94.112
+Debris
+Slide
+1990
+24459
+NG/KOH/83K2/2015/184
+Nagaland
+Kohima
+ 
+Agri colony, Kohima Town
+25.659
+94.089
+Debris
+Composite
+NA
+24460
+NG/KOH/83K2/2015/169
+Nagaland
+Kohima
+ 
+Chandmari colony, Kohima 
+Town
+25.659
+94.107
+Debris
+Slide
+NA
+24461
+NL/KOH/83K02/2014/44
+Nagaland
+Kohima
+Government Primary school, forest 
+colony slide (
+Forest colony Kohima
+25.65967
+94.09297
+Debris
+Slide
+2014
+24462
+NG/PHE/83K10/2017/13
+Nagaland
+Phek
+Kohima
+Kuzato to Wazeho
+25.65975
+94.747083
+Debris
+Slide
+NA
+24463
+NG/KOH/83K2/2015/224
+Nagaland
+Kohima
+ 
+Lower Jail colony, Kohima Town 25.66
+94.096
+Debris
+Composite
+2013
+24464
+NG/PHE/83K14/2017/65
+Nagaland
+Phek
+ 
+Kuzato to Wazeho
+25.660194
+94.7535
+Debris
+Slide
+NA
+24465
+NG/PHE/83K14/2017/64
+Nagaland
+Phek
+ 
+Kuzato to Wazeho
+25.660583
+94.755389
+Debris
+Slide
+NA
+24466
+NAG/KOH/83K02/2008/F-3A
+Nagaland
+Kohima
+PR Hills slide
+ 
+25.66083
+94.10278
+Debris
+Fall
+02 August 2008

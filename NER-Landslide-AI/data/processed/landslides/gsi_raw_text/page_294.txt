@@ -1,0 +1,497 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12612
+KA/UTT/48I12/2020/12
+Karnataka
+Uttar Kannada
+KPCL Ghat Road, Ambikanagar
+KPCL Ghat Road, Ambikanagar
+15.09
+74.65
+Debris
+Slide
+NA
+12613
+KA/UTT/48I12/2020/13
+Karnataka
+Uttar Kannada
+KPCL Ghat Road, Ambikanagar
+KPCL Ghat Road, Ambikanagar
+15.09
+74.65
+Debris
+Slide
+NA
+12614
+KA/UTT/48I12/2020/14
+Karnataka
+Uttar Kannada
+Near Kaneri village
+Near Kaneri village
+15.09
+74.52
+Debris
+Slide
+2019
+12615
+KA/UTT/48I12/2020/4
+Karnataka
+Uttar Kannada
+Ambikanagara (road to PH)
+Ambikanagara (road to PH)
+15.1
+74.65
+Debris
+Flow
+2019
+12616
+KA/UTT/48I12/2020/5
+Karnataka
+Uttar Kannada
+Ambikanagara (road to PH)
+Ambikanagara (road to PH)
+15.1
+74.65
+Debris
+Flow
+2019
+12617
+KA/UTT/48I12/2020/6
+Karnataka
+Uttar Kannada
+Ambikanagara (road to PH)
+Ambikanagara (road to PH)
+15.1
+74.65
+Debris
+Flow
+2019
+12618
+KA/UTT/48I12/2020/9
+Karnataka
+Uttar Kannada
+Ambikanagara (road to PH)
+Ambikanagara (road to PH)
+15.1
+74.65
+Debris
+Slide
+NA
+12619
+KA/UTT/48I12/2020/11
+Karnataka
+Uttar Kannada
+KPCL Ghat Road, Ambikanagar
+KPCL Ghat Road, Ambikanagar
+15.1
+74.65
+Debris
+Slide
+NA
+12620
+KA/UTT/48I08/2018/30
+Karnataka
+Uttar Kannada
+3km E of Jhalavat
+3km E of Jhalavat
+15.108639
+74.371556
+Debris
+Slide
+NA
+12621
+KA/UTT/48I08/2018/31
+Karnataka
+Uttar Kannada
+4 km SW of Kumbarwada
+4 km SW of Kumbarwada
+15.109667
+74.369389
+Debris
+Slide
+NA
+12622
+KA/UTT/48I12/2020/3
+Karnataka
+Uttar Kannada
+Ambikanagara (road to PH)
+Ambikanagara (road to PH)
+15.11
+74.65
+Debris
+Flow
+2019
+12623
+KA/UTT/48I12/2020/10
+Karnataka
+Uttar Kannada
+KPCL Ghat Road, Ambikanagar
+KPCL Ghat Road, Ambikanagar
+15.11
+74.65
+Debris
+Slide
+2020
+12624
+KA/UTT/48I08/2018/11
+Karnataka
+Uttar Kannada
+2km N of Nangal
+2km N of Nangal
+15.148361
+74.435333
+Debris
+Slide
+NA
+12625
+KA/UTT/48I08/2018/08
+Karnataka
+Uttar Kannada
+0.5 km N of Devulli, SH 34
+0.5 km N of Devulli, SH 34
+15.149139
+74.445389
+Debris
+Slide
+NA
+12626
+KA/UTT/48I08/2018/10
+Karnataka
+Uttar Kannada
+1 km NE of Dewali
+1 km NE of Dewali
+15.149417
+74.446028
+Debris
+Slide
+NA
+12627
+KA/UTT/48I08/2018/09
+Karnataka
+Uttar Kannada
+1 km NW of Dewali
+1 km NW of Dewali
+15.149444
+74.447861
+Debris
+Slide
+NA
+12628
+KA/UTT/48I12/2020/1
+Karnataka
+Uttar Kannada
+Kulgi-Phansoli Road
+Kulgi-Phansoli Road
+15.17
+74.63
+Debris
+Slide
+2020
+12629
+KA/UTT/48I12/2020/2
+Karnataka
+Uttar Kannada
+Kulgi-Phansoli Road
+Kulgi-Phansoli Road
+15.17
+74.63
+Earth
+Flow
+2020
+12630
+KA/UTT/48I08/2018/29
+Karnataka
+Uttar Kannada
+2km NW of Terali
+2km NW of Terali
+15.187333
+74.361389
+Debris
+Slide
+NA
+12631
+KA/UTT/48I08/2018/28
+Karnataka
+Uttar Kannada
+2km NW of Terali
+2km NW of Terali
+15.187667
+74.361028
+Debris
+Slide
+NA
+12632
+KA/UTT/48I12/2020/18
+Karnataka
+Uttar Kannada
+ Potoli village
+ Potoli village
+15.19
+74.55
+Debris
+Slide
+2019
+12633
+KA/UTT/48I08/2018/07
+Karnataka
+Uttar Kannada
+1 km NE of Chittegali
+1 km NE of Chittegali
+15.190278
+74.498694
+Debris
+Slide
+NA
+12634
+KA/UTT/48I08/2018/19
+Karnataka
+Uttar Kannada
+Near Tadaki village
+Near Tadaki village
+15.219278
+74.386833
+Debris
+Slide
+NA
+12635
+KA/UTT/48I12/2020/19
+Karnataka
+Uttar Kannada
+ Bapeli village
+ Bapeli village
+15.22
+74.54
+Debris
+Slide
+2019
+12636
+KA/UTT/48I08/2018/18
+Karnataka
+Uttar Kannada
+2.2 km  SW of Kanangaon
+2.2 km  SW of Kanangaon
+15.220639
+74.395472
+Debris
+Slide
+NA
+12637
+KA/UTT/48I08/2018/16
+Karnataka
+Uttar Kannada
+2km  SW of Kanangaon
+2km  SW of Kanangaon
+15.221361
+74.399944
+Debris
+Slide
+NA
+12638
+KA/UTT/48I08/2018/17
+Karnataka
+Uttar Kannada
+2km  SW of Kanangaon
+2km  SW of Kanangaon
+15.223417
+74.398917
+Debris
+Slide
+NA
+12639
+KA/UTT/48I12/2020/20
+Karnataka
+Uttar Kannada
+ Kodli village
+ Kodli village
+15.23
+74.54
+Debris
+Slide
+2019
+12640
+KA/UTT/48I07/2018/38
+Karnataka
+Uttar Kannada
+Aldur village
+Aldur village
+15.263139
+74.33325
+Debris
+Slide
+NA
+12641
+KA/UTT/48I11/2018/03
+Karnataka
+Uttar Kannada
+Near Ganeshgudi
+Near Ganeshgudi
+15.281444
+74.524583
+Soil
+Slide
+NA
+12642
+KA/UTT/48I11/2018/06
+Karnataka
+Uttar Kannada
+2.3 km West of Ganeshgudi, SH 34
+2.3 km West of Ganeshgudi, SH 
+34
+15.282417
+74.523472
+Debris
+Slide
+NA
+12643
+KA/UTT/48I11/2018/04
+Karnataka
+Uttar Kannada
+2km NW of Ganeshgudi, SH 34
+2km NW of Ganeshgudi, SH 34
+15.297722
+74.509556
+Debris
+Slide
+NA
+12644
+KA/UTT/48I11/2018/02
+Karnataka
+Uttar Kannada
+1 km SW of Usoda, SH 28
+1 km SW of Usoda, SH 28
+15.310972
+74.54075
+Debris
+Slide
+NA
+12645
+KA/UTT/48I11/2018/01
+Karnataka
+Uttar Kannada
+2 km SE of Shingargaon.
+2 km SE of Shingargaon.
+15.321111
+74.562417
+Soil
+Slide
+NA
+12646
+KA/UTT/48I07/2018/36
+Karnataka
+Uttar Kannada
+Tadki-Kunang village
+Tadki-Kunang road
+15.324842
+74.382472
+Debris
+Slide
+NA
+12647
+KA/UTT/48I07/2018/35
+Karnataka
+Uttar Kannada
+Tadki-Kunang village
+Tadki-Kunang road
+15.327206
+74.380369
+Debris
+Flow
+NA
+12648
+KA/UTT/48I07/2018/37
+Karnataka
+Uttar Kannada
+Kuvesi village
+Kuveshi road section
+15.347667
+74.348778
+Debris
+Slide
+NA
+12649
+KA/UTT/48I11/2018/05
+Karnataka
+Uttar Kannada
+Near Handibadaganath temple
+Near Handibadaganath temple
+15.394417
+74.581083
+Debris
+Slide
+NA
+12650
+KA/UTT/48I07/2018/34
+Karnataka
+Uttar Kannada
+Castle rock
+Cstle rock railway junction
+15.398753
+74.338233
+Debris
+Slide
+NA
+12651
+KA/BEL/48I07/2018/13
+Karnataka
+Belgaum
+Anmod-Mollem Ghat road
+NH-4A
+15.415419
+74.280017
+Debris
+Slide
+NA
+12652
+KA/BEL/48I07/2018/11
+Karnataka
+Uttar Kannada
+Anmod-Mollem Ghat road
+NH-4A
+15.423686
+74.279558
+Debris
+Slump
+NA
+12653
+KA/BEL/48I07/2018/10
+Karnataka
+Uttar Kannada
+Anmod-Mollem Ghat road
+NH-4A
+15.425225
+74.279814
+Debris
+Slide
+NA
+12654
+KA/BEL/48I07/2018/9
+Karnataka
+Uttar Kannada
+Anmod-Mollem Ghat road
+NH-4A
+15.428328
+74.285953
+Rock
+Slide
+NA
+12655
+KA/BEL/48I07/2018/8
+Karnataka
+Uttar Kannada
+Anmod-Mollem Ghat road
+NH-4A
+15.428539
+74.286106
+Rock
+Slide
+NA

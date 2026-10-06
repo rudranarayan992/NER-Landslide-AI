@@ -1,0 +1,552 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+26199
+SKM/NS/78A04/2017/143
+Sikkim
+West Sikkim
+ 
+SH
+27.166278
+88.144333
+Debris
+Slide
+NA
+26200
+SKM/SS/78A08/2015/213
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.166528
+88.401333
+Debris
+Slide
+NA
+26201
+SKM/SS/78A08/2015/304
+Sikkim
+South Sikkim
+ 
+Perbing-Chuba Road
+27.166611
+88.417528
+Debris
+Slide
+NA
+26202
+SKM/SS/78A08/2015/394
+Sikkim
+South Sikkim
+ 
+Sikkip-Wak-Namchi Road
+27.167611
+88.348889
+Debris
+Slide
+NA
+26203
+SKM/NS/78A04/2017/99
+Sikkim
+West Sikkim
+ 
+SH
+27.167972
+88.224778
+Rock
+Slide
+NA
+26204
+SKM/SS/78A08/2015/211
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.168167
+88.384556
+Debris
+Slide
+NA
+26205
+SKM/SS/78A08/2015/302
+Sikkim
+South Sikkim
+ 
+NULL
+27.169028
+88.486333
+Debris
+Slide
+NA
+26206
+SKM/SS/78A08/2015/198
+Sikkim
+South Sikkim
+ 
+Namchi-Damthang Road
+27.169472
+88.363778
+Debris
+Slide
+NA
+26207
+SKM/SS/78A08/2015/280
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.169583
+88.462361
+Debris
+Slide
+NA
+26208
+SKM/NS/78A04/2017/135
+Sikkim
+West Sikkim
+Bhoreng
+SH
+27.170833
+88.086361
+Earth
+Slide
+NA
+26209
+SKM/NS/78A04/2017/95
+Sikkim
+West Sikkim
+ 
+SH
+27.171083
+88.245417
+Debris
+Slide
+NA
+26210
+SKM/SS/78A08/2015/393
+Sikkim
+South Sikkim
+ 
+Sikkip-Wak-Namchi Road
+27.171139
+88.354611
+Debris
+Slide
+NA
+26211
+SKM/NS/78A04/2017/110
+Sikkim
+West Sikkim
+ 
+SH
+27.171639
+88.159333
+Debris
+Slide
+NA
+26212
+SKM/NS/78A04/2017/111
+Sikkim
+West Sikkim
+ 
+SH
+27.171833
+88.160861
+Debris
+Slide
+NA
+26213
+SKM/NS/78A04/2017/137
+Sikkim
+West Sikkim
+ 
+SH
+27.172083
+88.090333
+Earth
+Slide
+NA
+26214
+SKM/SOUTH/78A08/2017/001
+Sikkim
+South Sikkim
+Gumpa Monastery, Upper Gurpisey
+State Highway (Namchi-
+Damthang Road, South Sikkim)
+27.172228
+88.372
+Debris
+Complex
+2017
+26215
+SKM/SS/78A08/2015/210
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.172333
+88.381444
+Debris
+Slide
+NA
+26216
+SKM/SS/78A08/2015/297
+Sikkim
+South Sikkim
+ 
+Namchi-Jorthang Road
+27.172444
+88.386972
+Rock
+Slide
+NA
+26217
+SKM/NS/78A04/2017/136
+Sikkim
+West Sikkim
+Ribdi
+SH
+27.172444
+88.089528
+Earth
+Slide
+NA
+26218
+SKM/NS/78A04/2017/138
+Sikkim
+West Sikkim
+ 
+SH
+27.173861
+88.092111
+Earth
+Slide
+NA
+26219
+SKM/SS/78A08/2015/296
+Sikkim
+South Sikkim
+ 
+Namchi-Jorthang Road
+27.173917
+88.38525
+Rock
+Slide
+NA
+26220
+SKM/SS/78A08/2015/182
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.174389
+88.452028
+Debris
+Slide
+NA
+26221
+SKM/SS/78A08/2015/295
+Sikkim
+South Sikkim
+ 
+Namchi-Jorthang Road
+27.175
+88.385028
+Rock
+Slide
+NA
+26222
+SKM/SS/78A08/2015/300
+Sikkim
+South Sikkim
+ 
+Namchi-Jorthang Road
+27.175778
+88.402417
+Debris
+Slide
+NA
+26223
+SKM/SS/78A08/2015/305
+Sikkim
+South Sikkim
+ 
+Perbing-Chuba Road
+27.176
+88.429556
+Debris
+Slide
+NA
+26224
+SKM/SS/78A08/2015/299
+Sikkim
+South Sikkim
+ 
+Namchi-Jorthang Road
+27.176944
+88.402056
+Debris
+Slide
+NA
+26225
+SKM/SS/78A08/2015/301
+Sikkim
+South Sikkim
+ 
+Namchi-Jorthang Road
+27.177056
+88.402611
+Rock
+Slide
+NA
+26226
+SKM/SS/78A08/2015/263
+Sikkim
+South Sikkim
+ 
+NULL
+27.177167
+88.369611
+Rock
+Slide
+NA
+26227
+SKM/SS/78A08/2015/306
+Sikkim
+South Sikkim
+ 
+Perbing-Chuba Road
+27.178111
+88.430556
+Debris
+Slide
+NA
+26228
+SKM/ES/78A12/2015/101
+Sikkim
+ East Sikkim
+ 
+Rangpo-Rorathang Road
+27.178889
+88.533097
+Rock
+Slide
+NA
+26229
+SKM/NS/78A04/2017/106
+Sikkim
+West Sikkim
+ 
+SH
+27.179278
+88.190972
+Earth
+Slide
+NA
+26230
+SKM/ES/78A12/2015/141
+Sikkim
+ East Sikkim
+ 
+NH-31A
+27.179639
+88.519778
+Debris
+Slide
+NA
+26231
+SKM/ES/78A12/2015/143
+Sikkim
+ East Sikkim
+ 
+NH-31A
+27.180417
+88.51025
+Rock
+Slide
+NA
+26232
+SKM/ES/78A12/2015/142
+Sikkim
+ East Sikkim
+ 
+NH-31A
+27.180528
+88.518611
+Debris
+Slide
+NA
+26233
+SKM/NS/78A04/2017/105
+Sikkim
+West Sikkim
+Gumpa Dara
+SH
+27.181167
+88.192028
+Debris
+Slide
+NA
+26234
+SKM/WS/78A08/2015/378
+Sikkim
+West Sikkim
+ 
+NULL
+27.181222
+88.309528
+Debris
+Slide
+NA
+26235
+SKM/SS/78A08/2015/298
+Sikkim
+South Sikkim
+ 
+Namchi-Jorthang Road
+27.18175
+88.395778
+Debris
+Slide
+NA
+26236
+SKM/ES/78A12/2015/144
+Sikkim
+ East Sikkim
+ 
+NH-31A
+27.182111
+88.508
+Rock
+Slide
+NA
+26237
+SKM/NS/78A03/2017/82
+Sikkim
+West Sikkim
+Barakheley Dara
+SH
+27.185944
+88.197944
+Debris
+Slide
+NA
+26238
+SKM/NS/78A03/2017/83
+Sikkim
+West Sikkim
+ 
+SH
+27.185972
+88.205833
+Earth
+Slide
+NA
+26239
+SKM/WS/78A08/2015/351
+Sikkim
+West Sikkim
+ 
+legship-Sikkip Road
+27.186361
+88.320417
+Debris
+Slide
+NA
+26240
+SKM/NS/78A03/2017/84
+Sikkim
+West Sikkim
+ 
+SH
+27.186611
+88.206278
+Earth
+Slide
+NA
+26241
+SKM/ES/78A12/2015/102
+Sikkim
+ East Sikkim
+ 
+Rangpo-Rorathang Road
+27.18815
+88.562083
+Debris
+Slide
+NA
+26242
+SKM/ES/78A12/2015/145
+Sikkim
+ East Sikkim
+ 
+NH-31A
+27.188528
+88.501194
+Rock
+Slide
+NA
+26243
+SKM/SS/78A08/2015/197
+Sikkim
+South Sikkim
+ 
+Namchi-Damthang Road
+27.189222
+88.391056
+Debris
+Slide
+NA
+26244
+SKM/ES/78A12/2015/103
+Sikkim
+ East Sikkim
+ 
+Rangpo-Rorathang Road
+27.189261
+88.595686
+Debris
+Slide
+NA
+26245
+SKM/ES/78A12/2015/39
+Sikkim
+ East Sikkim
+Padamchey
+Rangpo-Rorathang Road
+27.19
+88.564472
+Rock
+Fall
+NA
+26246
+SKM/ES/78A12/2015/104
+Sikkim
+ East Sikkim
+ 
+Rangpo-Rorathang Road
+27.190067
+88.596483
+Rock
+Slide
+NA
+26247
+SKM/ES/78A12/2015/105
+Sikkim
+ East Sikkim
+ 
+Rangpo-Rorathang Road
+27.190833
+88.596889
+Debris
+Slide
+NA

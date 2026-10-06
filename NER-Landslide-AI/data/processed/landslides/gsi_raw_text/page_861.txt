@@ -1,0 +1,447 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+34131
+UK/TEH/53J11/2015/2139
+Uttarakhand
+Tehri Garhwal
+ 
+Bisatali-Dharkot (PMGSY road)
+30.409778
+78.512806
+Debris
+Slide
+NA
+34132
+UK/TEH/53J11/2015/2140
+Uttarakhand
+Tehri Garhwal
+ 
+Bisatali-Dharkot (PMGSY road)
+30.409897
+78.514328
+Debris
+Slide
+NA
+34133
+UK/CHA/53N07/2015/1229
+Uttarakhand
+Chamoli
+ 
+Gopeshwar-Pokhri road
+30.410087
+79.306248
+Debris
+Slide
+NA
+34134
+UK/RUD/53N03/2015/782
+Uttarakhand
+Rudraprayag
+ 
+Phalai
+30.410662
+79.035282
+Rock
+Slide
+NA
+34135
+UK/DEH/53F15/2015/504
+Uttarakhand
+Dehradun
+ 
+Kalsi- Kinswalagaon
+30.410868
+77.935274
+Debris
+Slide
+NA
+34136
+UK/CHA/53N07/2013/0029
+Uttarakhand
+Chamoli
+UK_CHA_NH_ 029
+Upstream of Alkhanda – Birhi 
+Confluence
+30.411389
+79.390083
+Rock cum Debris
+Slide
+16th-17th June 2013
+34137
+UK/RUD/53N03/2015/866
+Uttarakhand
+Rudraprayag
+ 
+NH-109
+30.411583
+79.060194
+Rock cum Debris
+Slide
+2013
+34138
+UK/CHA/53N07/2015/1230
+Uttarakhand
+Chamoli
+ 
+ 
+30.411667
+79.294722
+Debris
+Slide
+NA
+34139
+UK/DEH/53J03/2015/1981
+Uttarakhand
+Dehradun
+ 
+Maldeota-Dhumkot road
+30.411932
+78.184551
+Rock
+Slide
+NA
+34140
+UK/DEH/53J03/2015/2019
+Uttarakhand
+Dehradun
+ 
+Maldeota-Dhumkot road
+30.412109
+78.119395
+Rock
+Slide
+NA
+34141
+UK/DEH/53F15/2015/512
+Uttarakhand
+Dehradun
+ 
+Kinswalgaon - Nakatpur
+30.412752
+77.960227
+Rock
+Slide
+NA
+34142
+UK/DEH/53J03/2015/2018
+Uttarakhand
+Dehradun
+ 
+Maldeota-Dhumkot road
+30.413432
+78.115906
+Rock
+Slide
+NA
+34143
+UK/DEH/53J03/2015/1985
+Uttarakhand
+Dehradun
+ 
+Dehradun-Motidhara RF road
+30.413521
+78.128358
+Debris
+Slide
+NA
+34144
+UK/RUD/53J15/2015/1015
+Uttarakhand
+Rudraprayag
+ 
+Jakholi-Guptkashi Road
+30.413539
+78.911542
+Debris
+Slide
+NA
+34145
+UK/DEH/53J03/2015/1997
+Uttarakhand
+Dehradun
+ 
+Maldeota-Dhumkot road
+30.415114
+78.185469
+Rock
+Slide
+NA
+34146
+UK/DEH/53J03/2015/2066
+Uttarakhand
+Dehradun
+ 
+Maldeota-Maluban road
+30.415126
+78.120168
+Rock
+Slide
+NA
+34147
+UK/DEH/53J03/2015/2017
+Uttarakhand
+Dehradun
+ 
+Maldeota-Dhumkot road
+30.415363
+78.118143
+Rock cum Debris
+Slide
+NA
+34148
+UK/DEH/53J03/2015/2062
+Uttarakhand
+Dehradun
+ 
+Dehradun, Marotha-Motidhara 
+RF
+30.41597
+78.122279
+Rock
+Slide
+NA
+34149
+UK/RUD/53N03/2015/783
+Uttarakhand
+Rudraprayag
+ 
+Basta
+30.416861
+79.005306
+Rock
+Slide
+NA
+34150
+UK/TEH/53J11/2015/2188
+Uttarakhand
+Tehri Garhwal
+ 
+Chaundana-Sain
+30.417926
+78.61301
+Debris
+Slide
+NA
+34151
+UK/MussoorieKemptyfalls/53J/0
+3/2021/02
+Uttarakhand
+Dehradun
+N/A
+N/A
+30.418297
+78.077244
+Debris
+Slide
+14 July 2022
+34152
+UK/RUD/53N03/2013/0065
+Uttarakhand
+Rudraprayag
+UK/RUD/NH109/17
+100m u/s of Chandrapuri 
+market
+30.4183
+79.0357
+Rock cum Debris
+ 
+16th-17th June 2013
+34153
+UK/TEH/53J11/2015/2191
+Uttarakhand
+Tehri Garhwal
+ 
+Chaundana-Sain
+30.418403
+78.628581
+Debris
+Slide
+NA
+34154
+UK/TEH/53J11/2015/2142
+Uttarakhand
+Tehri Garhwal
+ 
+Bisatali-Dharkot (PMGSY road)
+30.418806
+78.518167
+Debris
+Slide
+NA
+34155
+UK/DEH/53J03/2015/2023
+Uttarakhand
+Dehradun
+ 
+Dehradun-Rajpur road
+30.42022
+78.078465
+Rock
+Slide
+NA
+34156
+UK/TEH/53J11/2015/2187
+Uttarakhand
+Tehri Garhwal
+ 
+Chaundana-Sain
+30.420445
+78.617552
+Debris
+Slide
+NA
+34157
+UK/DEH/53J03/2015/2015
+Uttarakhand
+Dehradun
+ 
+Maldeota-Dhumkot road
+30.420579
+78.115574
+Rock
+Slide
+2012
+34158
+UK/TEH/53J11/2015/2186
+Uttarakhand
+Tehri Garhwal
+ 
+Chaundana-Sain
+30.420913
+78.622262
+Debris
+Slide
+NA
+34159
+UK/TEH/53J11/2015/2184
+Uttarakhand
+Tehri Garhwal
+ 
+Chaundana-Sain
+30.421711
+78.635468
+Debris
+Slide
+NA
+34160
+UK/TEH/53J11/2015/2185
+Uttarakhand
+Tehri Garhwal
+ 
+Chaundana-Sain
+30.421774
+78.635116
+Rock cum Debris
+Slide
+NA
+34161
+UK/TEH/53J11/2015/2190
+Uttarakhand
+Tehri Garhwal
+ 
+Chaundana-Sain
+30.422083
+78.594472
+Debris
+Slide
+NA
+34162
+UK/DEH/53J03/2015/1996
+Uttarakhand
+Dehradun
+ 
+Raipur-Jharipani road
+30.422732
+78.072022
+Rock
+Slide
+NA
+34163
+UK/MussoorieKemptyfalls/53J/0
+3/2021/03
+Uttarakhand
+Dehradun
+N/A
+N/A
+30.422793
+78.072472
+Rock-cum-debris
+Creep
+17 July 2021
+34164
+UK/TEH/53J15/2015/1084
+Uttarakhand
+Tehri Garhwal
+ 
+Ghanshali-Akhori-Ghanshali 
+Road
+30.423125
+78.807513
+Rock
+Slide
+NA
+34165
+UK/DEH/53F15/2015/511
+Uttarakhand
+Dehradun
+ 
+Kinswalgaon - Nakatpur
+30.423231
+77.945288
+Rock
+Slide
+NA
+34166
+UK/RUD/53N03/2015/867
+Uttarakhand
+Rudraprayag
+ 
+Chandrapuri
+30.423639
+79.067667
+Debris
+Slide
+2013
+34167
+UK/TEH/53J11/2015/2174
+Uttarakhand
+Tehri Garhwal
+ 
+Nanuwa-Chaundana-Mandar
+30.423639
+78.588944
+Debris
+Slide
+NA
+34168
+UK/DEH/53J03/2015/1987
+Uttarakhand
+Dehradun
+ 
+Raipur-Jharipani road
+30.423678
+78.072684
+Rock
+Slide
+NA
+34169
+UK/TEH/53J11/2015/2143
+Uttarakhand
+Tehri Garhwal
+ 
+Bisatali-Dharkot (PMGSY road)
+30.42508
+78.515638
+Debris
+Slide
+NA

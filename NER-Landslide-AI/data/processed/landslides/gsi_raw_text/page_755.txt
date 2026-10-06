@@ -1,0 +1,398 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29709
+WB/DAR/78A04/2021/PDLS/13
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07021025
+88.21281352
+Debris
+Slide
+October 2021
+29710
+WB/DAR/78A04/2021/PDLS/12
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07023372
+88.16628577
+Debris
+Slide
+October 2021
+29711
+WB/DAR/78A08/2015/1159
+West Bengal
+Darjeeling
+ 
+PESHOK
+27.070333
+88.426056
+Debris
+Subsidence
+2015
+29712
+WB/DAR/78A12/2015/1470
+West Bengal
+Darjeeling
+ 
+ 
+27.070341
+88.610255
+Debris
+Slide
+2010
+29713
+WB/DAR/78A08/2021/PDLS/36
+4
+West Bengal
+Kalimpong
+N/A
+N/A
+27.07041412
+88.43028306
+Debris
+Slide
+October 2021
+29714
+WB/DAR/78A08/2021/PDLS/20
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07047475
+88.25164993
+Debris
+Slide
+October 2021
+29715
+WB/DAR/78A04/2021/PDLS/59
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07052405
+88.0907376
+Debris
+Slide
+October 2021
+29716
+WB/DAR/78A04/2021/PDLS/12
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07069157
+88.18494621
+Debris
+Slide
+October 2021
+29717
+WB/DAR/78A12/2015/221
+West Bengal
+Darjeeling
+8km on Lava-Lolegaon road
+8km on Lava-Lolegaon road
+27.07073
+88.610674
+Debris
+Subsidence
+2012
+29718
+WB/DAR/78A12/2015/1272
+West Bengal
+Darjeeling
+ 
+Lava RF
+27.07075
+88.59825
+Debris
+Slide
+2016
+29719
+WB/DAR/78A04/2015/1210
+West Bengal
+Darjeeling
+ 
+BIJANBARI
+27.070889
+88.186333
+Rock cum Debris
+Slide
+2016
+29720
+WB/DAR/78A04/2021/PDLS/12
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07092347
+88.18635035
+Debris
+Slide
+October 2021
+29721
+WB/DAR/78A08/2021/PDLS/20
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07099917
+88.25155492
+Debris
+Slide
+October 2021
+29722
+WB/DARJ/78A08/2012/0311
+West Bengal
+Darjeeling
+ 
+Salikhop near Kalimpong
+27.071
+88.452
+Debris
+Subsidence
+2012
+29723
+WB/DARJ/78A04/0261
+West Bengal
+Darjeeling
+ 
+Darjeeling-Bijanbari Road
+27.071
+88.201
+Debris
+Subsidence
+NA
+29724
+WB/DAR/78A08/2015/1343
+West Bengal
+Darjeeling
+7 MILE, KALIMPONG
+7 MILE KALIMPONG
+27.071139
+88.452722
+Debris
+Slide
+2014
+29725
+WB/DAR/78A04/2021/PDLS/57
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07114104
+88.08917041
+Debris
+Slide
+October 2021
+29726
+WB/DAR/78A16/2015/298
+West Bengal
+Darjeeling
+Ma Durga Slide, On Paren Bindu Road Ma Durga Slide, On Paren Bindu 
+Road
+27.071184
+88.869193
+Debris
+Subsidence
+2005
+29727
+WB/DAR/78A04/2015/25
+West Bengal
+Darjeeling
+Darjeeling-Bijanbari Road_Pul bazar
+Darjeeling-Bijanbari Road
+27.0713
+88.2008
+Debris
+Subsidence
+2011
+29728
+WB/DAR/78A08/2015/1297
+West Bengal
+Darjeeling
+DUNGRA BUSTY
+ALGARA, KALIMPONG
+27.071417
+88.480667
+Debris
+Subsidence
+2016
+29729
+WB/DAR/78A12/2015/220
+West Bengal
+Darjeeling
+8km on Lava-Lolegaon road
+8km on Lava-Lolegaon road
+27.071719
+88.612237
+Debris
+Subsidence
+2012
+29730
+WB/DAR/78A04/2021/PDLS/11
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07196381
+88.1633994
+Debris
+Slide
+October 2021
+29731
+WB/DARJ/78A08/2013/0313
+West Bengal
+Darjeeling
+ 
+ 
+27.072
+88.456
+Debris
+Slide
+NA
+29732
+WB/DAR/78A08/2015/135
+West Bengal
+Darjeeling
+Nushrigaon
+ 
+27.072
+88.456
+Debris
+Slide
+2013
+29733
+WB/DAR/78A04/2021/PDLS/12
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07201078
+88.16317803
+Debris
+Slide
+October 2021
+29734
+WB/DAR/78A04/2021/PDLS/56
+West Bengal
+Darjeeling
+N/A
+N/A
+27.0721483
+88.0896642
+Debris
+Slide
+October 2021
+29735
+WB/DAR/78A04/2021/PDLS/55
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07239404
+88.0917339
+Debris
+Slide
+October 2021
+29736
+WB/DAR/78A08/2015/1517
+West Bengal
+Darjeeling
+ 
+POCHOK
+27.072467
+88.457214
+Debris
+Slide
+2015
+29737
+WB/DAR/78A04/2015/1231
+West Bengal
+Darjeeling
+ 
+BADAREY
+27.072528
+88.166139
+Debris
+Slide
+2016
+29738
+WB/DAR/78A08/2015/154
+West Bengal
+Darjeeling
+8th Mile,
+8th Mile, Kalimpong
+27.072583
+88.45725
+Debris
+Slide
+2015
+29739
+WB/DAR/78A08/2015/149
+West Bengal
+Darjeeling
+8th Mile,
+8th Mile, Kalimpong
+27.072583
+88.45725
+Debris
+Slide
+2015
+29740
+WB/DAR/78A04/2021/PDLS/13
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07260441
+88.20418699
+Debris
+Slide
+October 2021
+29741
+WB/DAR/78A04/2021/PDLS/13
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07279552
+88.20400752
+Debris
+Slide
+October 2021
+29742
+WB/DAR/78A08/2015/1342
+West Bengal
+Darjeeling
+NURSERY GAON,8 MILE, KALIMPONG
+NURSERY GAON,8 MILE, 
+KALIMPONG
+27.072972
+88.454861
+Debris
+Slide
+2015

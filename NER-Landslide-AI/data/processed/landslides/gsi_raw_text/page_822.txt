@@ -1,0 +1,498 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+32463
+UK/PAU/53K05/2016/18
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.972584
+78.418056
+Debris
+Slide
+NA
+32464
+UK/PAU/53O01/2017/57
+Uttarakhand
+Pauri Garhwal
+ 
+ThaplaPitarsainBhandeli road
+29.97273
+79.053429
+Rock
+Slide
+2013
+32465
+UK/BAG/62C01/2015/441
+Uttarakhand
+Bageshwar
+ 
+ 
+29.973664
+80.088992
+Rock
+Slide
+NA
+32466
+UK/PAU/53K13/2016/86
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Pokhardhar
+29.974498
+78.908928
+Rock
+Slide
+NA
+32467
+UK/PAU/53K09/2016/137
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.97476
+78.526085
+Debris
+Slide
+NA
+32468
+UK/HAR/53K1/2016/7
+Uttarakhand
+Haridwar
+ 
+ 
+29.975022
+78.167366
+Rock
+Slide
+NA
+32469
+UK/PAU/53O01/2017/58
+Uttarakhand
+Pauri Garhwal
+ 
+ThaplaPitarsainBhandeli road
+29.975953
+79.048776
+Debris
+Slide
+2011
+32470
+UK/PAU/53K13/2016/17
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.976262
+78.781953
+Debris
+Slide
+NA
+32471
+UK/BAG/62C01/2015/440
+Uttarakhand
+Bageshwar
+ 
+ 
+29.976403
+80.087578
+Rock
+Fall
+NA
+32472
+UK/PAU/53K13/2016/16
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.977
+78.782
+Debris
+Slide
+NA
+32473
+UK/CHA/53O05/2017/68
+Uttarakhand
+Chamoli
+ 
+Downslope of Gaguna
+29.977037
+79.412888
+Rock cum debris
+Slide
+2012
+32474
+UK/BAG/53O13/2013/0040
+Uttarakhand
+Bageshwar
+UK_BAG_SH-11_ 40
+500m downstream of Yuti Nala 
+on the left bank of the Sarju 
+river
+29.977083
+79.912083
+Debris
+Flow
+16th-17th June 2013
+32475
+UK/CHA/53O05/2017/17
+Uttarakhand
+Chamoli
+ 
+Banjani
+29.977449
+79.265359
+Rock
+Slide
+2014
+32476
+UK/BAG/53O09/2018/35
+Uttarakhand
+Bageshwar
+Kulaon
+Kulaon-Baijnath
+29.977511
+79.601111
+Debris
+Slide
+2016
+32477
+UK/PITH/62C05/2013/0028
+Uttarakhand
+Pithoragarh
+UK/Pith/ Munsyari-Jauljibi/LS/0028
+State Highway
+29.97778
+80.315
+Rock cum Debris
+Fall and Flow
+16th-17th June 2013
+32478
+UK/PAU/53O01/2017/68
+Uttarakhand
+Pauri Garhwal
+ 
+NH121
+29.977862
+79.019504
+Rock
+Slide
+2011
+32479
+UK/PAU/53K09/2016/105
+Uttarakhand
+Pauri Garhwal
+N20W of  Urmal
+ 
+29.977912
+78.748356
+Debris
+Slide
+NA
+32480
+UK/PAU/53K09/2016/88
+Uttarakhand
+Pauri Garhwal
+SH-49
+SH-49
+29.978206
+78.661615
+Debris
+Slide
+NA
+32481
+UK/PAU/53O01/2017/67
+Uttarakhand
+Pauri Garhwal
+ 
+NH121
+29.978565
+79.02029
+Rock
+Slide
+2011
+32482
+UK/BAG/62C01/2015/445
+Uttarakhand
+Bageshwar
+ 
+ 
+29.978734
+80.08202
+Rock
+Slide
+NA
+32483
+UK/PAU/53K05/2016/17
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.978842
+78.401747
+Rock
+Slide
+NA
+32484
+UK/BAG/53O13/2013/0041
+Uttarakhand
+Bageshwar
+UK_BAG_SH-11_41
+Yuti Nala
+29.979056
+79.914222
+Debris
+Flow
+16th-17th June 2013
+32485
+UK/PAU/53O01/2017/59
+Uttarakhand
+Pauri Garhwal
+ 
+ThaplaPitarsainBhandeli road
+29.979847
+79.048009
+Rock
+Slide
+NA
+32486
+UK/PAU/53K13/2016/82
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.979904
+78.916882
+Debris
+Slide
+NA
+32487
+UK/PAU/53K09/2016/92
+Uttarakhand
+Pauri Garhwal
+SH-49
+SH-49
+29.979977
+78.657332
+Debris
+Slide
+NA
+32488
+UK/PIT/62C09/2020/7
+Uttarakhand
+Pithoragarh
+ 
+Dahrchula-Mangti
+29.98
+80.69
+Rock
+Slide
+2014
+32489
+UK/PIT/62C09/2020/11
+Uttarakhand
+Pithoragarh
+ 
+Tawa Ghat-Narayan ashram
+29.98
+80.63
+Rock
+Slide
+2019
+32490
+UK/PIT/62C09/2020/12
+Uttarakhand
+Pithoragarh
+ 
+Tawa Ghat-Narayan ashram
+29.98
+80.58
+Debris
+Slide
+2014
+32491
+UK/PIT/62C09/2020/14
+Uttarakhand
+Pithoragarh
+ 
+Tawa Ghat-Narayan ashram
+29.98
+80.61
+Rock
+Slide
+2019
+32492
+UK/PIT/62C09/2020/15
+Uttarakhand
+Pithoragarh
+ 
+Tawa Ghat-Narayan ashram
+29.98
+80.65
+Rock
+Slide
+2018
+32493
+UK/PIT/62C09/2020/19
+Uttarakhand
+Pithoragarh
+ 
+Tawa Ghat-Narayan ashram
+29.98
+80.58
+Rock
+Slide
+2019
+32494
+UK/PIT/62C09/2020/20
+Uttarakhand
+Pithoragarh
+ 
+Tawa Ghat-Narayan ashram
+29.98
+80.58
+Debris
+Slide
+2014
+32495
+UK/PIT/62C09/2020/21
+Uttarakhand
+Pithoragarh
+ 
+Tawa Ghat-Narayan ashram
+29.98
+80.58
+Debris
+Slide
+2014
+32496
+UK/PIT/62C09/2020/25
+Uttarakhand
+Pithoragarh
+ 
+Tawa Ghat-Narayan ashram
+29.98
+80.58
+Debris
+Slide
+2014
+32497
+UK/PAU/53O01/2017/61
+Uttarakhand
+Pauri Garhwal
+ 
+ThaplaPitarsainBhandeli road
+29.980037
+79.046357
+Rock
+Slide
+2011
+32498
+UK/ALM/53O05/2017/38
+Uttarakhand
+Almora
+ 
+Forest
+29.980294
+79.347242
+Rock cum debris
+Fall
+2014
+32499
+UK/BAG/53O13/2015/375
+Uttarakhand
+Bageshwar
+ 
+ 
+29.980556
+79.980889
+Rock cum Debris
+Slide
+NA
+32500
+UK/BAG/53O13/2015/370
+Uttarakhand
+Bageshwar
+ 
+ 
+29.980597
+79.963333
+Rock
+Slide
+NA
+32501
+UK/BAG/53O13/2015/383
+Uttarakhand
+Bageshwar
+ 
+ 
+29.980646
+79.906309
+Rock cum Debris
+Slide
+NA
+32502
+UK/PAU/53O01/2017/60
+Uttarakhand
+Pauri Garhwal
+ 
+ThaplaPitarsainBhandeli road
+29.9809
+79.047787
+Rock
+Slide
+NA
+32503
+UK/PAU/53K05/2016/9
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.981024
+78.470634
+Rock
+Slide
+NA
+32504
+UK/PAU/53K13/2016/81
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Dudharkhal
+29.981548
+78.934153
+Rock
+Slide
+NA
+32505
+UK/CHA/53O05/2017/10
+Uttarakhand
+Chamoli
+ 
+NailKusarkhet road
+29.982199
+79.445041
+Debris
+Slide
+2006
+32506
+UK/PAU/53K09/2016/91
+Uttarakhand
+Pauri Garhwal
+SH-49
+SH-49
+29.982257
+78.64943
+Debris
+Slide
+NA

@@ -1,0 +1,474 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15288
+KRL/IDK/58F/4/2018/297
+KERALA
+IDUKKI
+40 acre, Bison Valley
+40 acre- Komalakudy road
+10.00263932
+77.11953704
+Debris
+flow, F.D: N 
+305
+15th August 2018
+15289
+KRL/IDK/58C13/2018/298
+KERALA
+IDUKKI
+BisonValley 
+10.00042815
+77.11617619
+Debris
+flow
+15th August 2018
+15290
+KRL/IDK/58C13/2018/299
+KERALA
+IDUKKI
+Kurangupara
+9.991094311
+77.10569352
+Slump
+15th August 2018
+15291
+KRL/IDK/58C13/2018/300
+KERALA
+IDUKKI
+Gudumala Tea Estate
+Munnar-Udumalpet road
+10.14937322
+77.10974023
+Debris
+slide
+15th August 2018
+15292
+KRL/IDK/58C13/2018/301
+KERALA
+IDUKKI
+Tata Eucalyptus Plantation
+Munnar-Udumalpet road
+10.15267201
+77.11259907
+Debris
+slide
+15th August 2018
+15293
+KRL/IDK/58F/4/2018/302
+KERALA
+IDUKKI
+Near Vagavurai estate, Lakkam 
+division
+Munnar- Udampalpettu road
+10.18278583
+77.1088738
+Debris
+slide
+15th August 2018
+15294
+KRL/IDK/58F/4/2018/303
+KERALA
+IDUKKI
+Near Vagavurai estate, Lakkam 
+division
+Munnar- Udampalpettu road
+10.18291675
+77.10959544
+Debris
+slide
+15th August 2018
+15295
+KRL/IDK/58F/4/2018/304
+KERALA
+IDUKKI
+Kundala, Pudukkadi
+Munnar-Topstation road
+10.13814384
+77.1903076
+Debris
+slide
+15th August 2018
+15296
+KRL/IDK/58C13/2018/305
+KERALA
+IDUKKI
+Vattavada
+Vattavada-Koviloor road 
+10.17888581
+77.25845105
+Debris
+slide
+15th August 2018
+15297
+KRL/KNR/49M09/2018/001
+Kerala
+Kannur
+Edakkanam Debris Slide
+Edakkanam
+11.97909444
+75.64750278
+Debris
+Slide
+14th August 2018, 15:50 hrs
+15298
+KRL/KNR/48P12/2018/002
+Kerala
+Kannur
+Randamkai Debris Flow
+Randamkai
+12.09170833
+75.69388889
+Debris
+Flow
+08th August 2018, 14:00 hrs
+15299
+KRL/KNR/48P12/2018/003
+Kerala
+Kannur
+Arabikkulam Debris Flow
+Arabikkulam
+12.08867222
+75.69080278
+Debris
+Flow
+08th August 2018, 14:30 hrs
+15300
+KRL/KNR/48P12/2018/004
+Kerala
+Kannur
+Kalanki rock-cum-debris topple
+Vayathur
+12.09855556
+75.69021667
+Rock-cum-debris
+Topple
+08th August 2018, 13:30 hrs
+15301
+KRL/KNR/48P16/2018/005
+Kerala
+Kannur
+Parakkamala rock-cum-debris flow
+Ayyankunnu-Parakkamala
+12.07206111
+75.75855556
+Rock-cum-debris
+Flow
+08th August 2018, 13:30 hrs
+15302
+KRL/KNR/48P16/2018/006
+Kerala
+Kannur
+Parakkamala debris flow-1
+Ayyankunnu-Parakkamala
+12.07092222
+75.75761389
+Debris
+Flow
+08th August 2018, 16:00 hrs
+15303
+KRL/KNR/48P16/2018/007
+Kerala
+Kannur
+Parakkamala debris flow-2
+Ayyankunnu-Parakkamala
+12.07041944
+75.75770833
+Debris
+Flow
+08th August 2018, 16:30 hrs
+15304
+KRL/KNR/48P16/2018/008
+Kerala
+Kannur
+Parakkamala debris flow-3
+Ayyankunnu-Parakkamala
+12.06516667
+75.76377778
+Debris
+Flow
+08th August 2018, 17:00 hrs
+15305
+KRL/KNR/48P12/2018/009
+Kerala
+Kannur
+Anapanthi Kavala Cut slope failure
+Iritty-Virajpeta road
+12.02903333
+75.71350556
+Earth
+Slide
+09th August 2018, 15:30 hrs
+15306
+KRL/KNR/48P16/2018/010
+Kerala
+Kannur
+Valathod debris flow
+Valathod-Randamkadavu
+12.04559722
+75.78068056
+Debris
+Flow
+09th August 2018, 16:00 hrs
+15307
+KRL/KNR/48P16/2018/011
+Kerala
+Kannur
+Uruppamkutty debris flow
+Uruppamkutty
+12.02020833
+75.776525
+Debris
+Flow
+09th August 2018, 23:00 hrs
+15308
+KRL/KNR/48P16/2018/012
+Kerala
+Kannur
+Karikkottakari earth slide
+Edappuzha-Karikkottakari road
+12.00518056
+75.75670833
+Earth
+Slide
+08th August 2018, 16:00 hrs
+15309
+KRL/KNR/48P16/2018/013
+Kerala
+Kannur
+Keezhanganan debris flow
+Keezhanganan
+12.01121389
+75.77821667
+Debris
+Flow
+08th August 2018, 16:00 hrs
+15310
+KRL/KNR/49M13/2018/014
+Kerala
+Kannur
+Chappamala debris flow
+Kottiyoor
+11.85291389
+75.85624722
+Debris
+Flow
+14th August 2018, 17:00 hrs
+15311
+KRL/KNR/49M13/2018/015
+Kerala
+Kannur
+Ambayathodu debris slide
+Kotiyoor-Mananthavadi road
+11.86662222
+75.89026667
+Debris
+Slide
+16th August 2018, 11:30 hrs
+15312
+KRL/KNR/49M13/2018/016
+Kerala
+Kannur
+Nelliyodu debris flow
+Nelliyodu-Kottiyoor road
+11.86084444
+75.86396389
+Debris
+Flow
+08th August 2018, 10:30 hrs
+15313
+KRL/KNR/49M13/2018/017
+Kerala
+Kannur
+Kandappanam earth slide
+Kottiyoor
+11.86204722
+75.87109444
+Earth
+Slide
+16th August 2018, 12:30 hrs
+15314
+KRL/KNR/49M13/2018/018
+Kerala
+Kannur
+Kelakkam Creep (Cracks)
+Kailashampadi
+11.91209167
+75.85948333
+Earth
+Creep
+10th August 2018
+15315
+KRL/KNR/48P12/2018/019
+Kerala
+Kannur
+Thenankayam debris flow
+Payyavoor
+12.12692778
+75.64231389
+Debris
+Flow
+08th August 2018, 07:30 hrs
+15316
+KRL/KNR/48P12/2018/020
+Kerala
+Kannur
+Mukkuzhi debris flow
+Payyavoor
+12.1297
+75.62868056
+Debris
+Flow
+08th August 2018, 15:00 hrs
+15317
+KRL/KNR/48P12/2018/021
+Kerala
+Kannur
+Madakkoli debris flow
+Payyavoor
+12.14786111
+75.60595
+Debris
+Flow
+08th August 2018, 07:30 hrs
+15318
+KRL/KNR/48P12/2018/022
+Kerala
+Kannur
+Purathotti debris flow
+Eruvessi
+12.16221111
+75.56968333
+Debris
+Flow
+08th August 2018, 07:00 hrs
+15319
+KRL/KNR/48P12/2018/023
+Kerala
+Kannur
+Paithalmala debris flow
+Eruvessi
+12.15688056
+75.57745278
+Debris
+Flow
+08th August 2018, 07:30 hrs
+15320
+KRL/KNR/48P12/2018/024
+Kerala
+Kannur
+Arikamala debris flow
+Eruvessi
+12.13916111
+75.5749
+Debris
+Flow
+08th August 2018, 12:00 hrs
+15321
+KL/KTM/58C/14/2018/1
+Kerala
+Kottayam
+Vazhathara Granite Quarry Slide
+Kodunga
+9.648758333
+76.88862222
+Rock cum debris
+Flow
+15th August 2018
+15322
+KL/KTM/58C/14/2018/2
+Kerala
+Kottayam
+Vazhathara Granite Quarry Slide 2
+Kodunga
+9.650013889
+76.88978889
+Rock cum debris
+Flow
+15th August 2018
+15323
+KL/KTM/58C/14/2018/3
+Kerala
+Kottayam
+Kodunga slide 1
+Kodunga
+9.648005556
+76.88960278
+Debris
+Flow
+15th August 2018
+15324
+KL/KTM/58C/14/2018/4
+Kerala
+Kottayam
+Kodunga slide 2
+Kodunga
+9.642869444
+76.89306111
+Debris
+Flow
+15th August 2018
+15325
+KL/KTM/58C/14/2018/5
+Kerala
+Kottayam
+Melethadam slide 1
+Melethadam
+9.653094444
+76.90341944
+Debris
+Slide
+15th August 2018
+15326
+KL/KTM/58C/14/2018/6
+Kerala
+Kottayam
+Melethadam slide 2
+Melethadam
+9.653402778
+76.903175
+Rock cum debris
+flow
+15th August 2018
+15327
+KL/KTM/58C/14/2018/7
+Kerala
+Kottayam
+Melethadam slide 3
+Melethadam
+9.656433333
+76.90389167
+Rock cum debris
+flow
+15th August 2018
+15328
+KL/KTM/58C/14/2018/8
+Kerala
+Kottayam
+Kunthanpara slide
+Kunthnpara
+9.638944444
+76.86823611
+Rock cum debris.
+flow
+15th August 2018
+15329
+KL/KTM/58C/14/2018/9
+Kerala
+Kottayam
+Kunthanpara  slide 2
+Kunthnpara
+9.643716667
+76.86842222
+debris.
+Slide
+15th August 2018

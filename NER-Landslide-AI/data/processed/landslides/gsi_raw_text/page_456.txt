@@ -1,0 +1,432 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+18515
+MN/KAM/83L06/2018/8
+Manipur
+Kamjong
+ 
+Kasom Khullen (cultivation area) 24.684625
+94.264253
+Debris
+Slide
+NA
+18516
+MN/KAN/83L02/2018/5
+Manipur
+Kangpokpi
+ 
+Yeason Village
+24.685
+94.171278
+Rock cum debris
+Slide
+NA
+18517
+MN/NON/83H10/2018/22
+Manipur
+Noney
+ 
+Along Dolang-Sangji road
+24.685056
+93.669
+Debris
+Slide
+NA
+18518
+MN/KAN/83L02/2018/2
+Manipur
+Kangpokpi
+ 
+Salam Patong
+24.686028
+94.145444
+Rock cum debris
+Slide
+NA
+18519
+MN/KAN/83L02/2018/4
+Manipur
+Kangpokpi
+ 
+Yeason Village
+24.68625
+94.170694
+Rock cum debris
+Slide
+NA
+18520
+MN/KAN/83L02/2018/3
+Manipur
+Kangpokpi
+ 
+Salam Patong
+24.686417
+94.153333
+Rock cum debris
+Slide
+NA
+18521
+MN/KAM/83L06/2018/11
+Manipur
+Kamjong
+ 
+Kasom Khullen (cultivation area) 24.686651
+94.258667
+Debris
+Slide
+NA
+18522
+MN/KAM/83L06/2018/12
+Manipur
+Kamjong
+ 
+Kasom Khullen (cultivation area) 24.686833
+94.2605
+Debris
+Slide
+NA
+18523
+MN/KAM/83L06/2018/23
+Manipur
+Kamjong
+ 
+0.5 km N of Kasom Khullen
+24.687667
+94.267306
+Debris
+Slide
+NA
+18524
+MN/UKH/83L02/2018/23
+Manipur
+Ukhrul
+ 
+Hongbei
+24.689139
+94.165472
+Soil
+Slide
+NA
+18525
+MN/NON/83H10/2018/42
+Manipur
+Noney
+ 
+NH_37A, Tungjamarin road.
+24.689806
+93.522583
+Debris
+Slide
+NA
+18526
+MN/JRM/83H02/2020/20
+Manipur
+Jiribam
+ 
+Along JT road
+24.69
+93.12
+Rock
+Slide
+NA
+18527
+MN/KAM/83L06/2018/1
+Manipur
+Kamjong
+ 
+0.5 km NW of Khamlang
+24.691389
+94.255917
+Debris
+Slide
+NA
+18528
+MN/KAM/83L06/2018/25
+Manipur
+Kamjong
+ 
+0.5 km N of Khamlang Village
+24.691944
+94.250333
+Debris
+Slide
+NA
+18529
+MN/KAM/83L06/2018/2
+Manipur
+Kamjong
+ 
+0.4 km W of Khamlang
+24.692373
+94.257477
+Debris
+Slide
+NA
+18530
+MN/KAM/83L06/2018/24
+Manipur
+Kamjong
+ 
+0.3 km N of Khamlang Village
+24.692906
+94.258355
+Debris
+Slide
+NA
+18531
+MN/KAM/83L06/2018/3
+Manipur
+Kamjong
+ 
+0.2 km W of Khmalang
+24.69325
+94.259444
+Debris
+Slide
+NA
+18532
+MN/NON/83H10/2018/7
+Manipur
+Noney
+ 
+Data taken from Sangji village
+24.698392
+93.644183
+Debris
+Slide
+NA
+18533
+MN/NON/83H10/2018/6
+Manipur
+Noney
+ 
+Data taken from Sangji village
+24.699761
+93.650047
+Debris
+Slide
+NA
+18534
+MN/KAN/83L02/2018/8
+Manipur
+Kangpokpi
+ 
+Yairipok-Hongbei road
+24.700278
+94.197611
+Rock cum debris
+Slide
+NA
+18535
+MN/KAN/83L02/2018/9
+Manipur
+Kangpokpi
+ 
+Yairipok-Hongbei road
+24.700417
+94.199306
+Rock cum debris
+Slide
+NA
+18536
+MN/KAN/83L02/2018/10
+Manipur
+Kangpokpi
+ 
+Yairipok-Hongbei road
+24.702722
+94.198722
+Rock cum debris
+Slide
+NA
+18537
+MN/KAN/83L02/2018/7
+Manipur
+Kangpokpi
+ 
+Yairipok-Hongbei road
+24.704083
+94.187361
+Rock cum debris
+Slide
+NA
+18538
+MN/KAN/83L02/2018/11
+Manipur
+Kangpokpi
+ 
+Yairipok-Hongbei road
+24.708417
+94.198278
+Rock cum debris
+Slide
+NA
+18539
+MN/KAN/83L02/2018/12
+Manipur
+Kangpokpi
+ 
+Yairipok-Hongbei road
+24.709111
+94.198528
+Rock cum debris
+Slide
+NA
+18540
+MN/KAN/83L02/2018/13
+Manipur
+Kangpokpi
+ 
+Yairipok-Hongbei road
+24.7135
+94.199417
+Soil
+Slide
+NA
+18541
+MN/KAM/83L06/2018/28
+Manipur
+Kamjong
+ 
+2.2 km S of Assam Rifle Camp 
+Check Gate
+24.714343
+94.360864
+Rock
+Slide
+NA
+18542
+MN/KAN/83L02/2018/14
+Manipur
+Kangpokpi
+ 
+Yairipok-Hongbei road
+24.71475
+94.217917
+Rock cum debris
+Slide
+NA
+18543
+MN/KAN/83L02/2018/19
+Manipur
+Kangpokpi
+ 
+Yairipok-Hongbei road
+24.717889
+94.2235
+Debris
+Slide
+NA
+18544
+MN/NON/83H10/2018/47
+Manipur
+Noney
+ 
+NH_37A, Imphal-Khoupum 
+highway. Towards Toudaijang.
+24.718567
+93.500017
+Debris
+Slide
+NA
+18545
+MN/NON/83H10/2018/46
+Manipur
+Noney
+ 
+Data taken from Khoupum- 
+Nungba highway.
+24.718914
+93.508378
+Debris
+Slide
+NA
+18546
+MN/NON/83H10/2018/45
+Manipur
+Noney
+ 
+Data taken from Khoupum- 
+Nungba highway.
+24.719214
+93.508903
+Debris
+Slide
+NA
+18547
+MN/NON/83H10/2018/44
+Manipur
+Noney
+ 
+Data taken from Khoupum- 
+Nungba highway.
+24.719397
+93.509003
+Debris
+Slide
+NA
+18548
+MN/JRM/83H02/2020/6
+Manipur
+Jiribam
+ 
+Nungkhal -Kolbung road
+24.72
+93.18
+Rock
+Slide
+NA
+18549
+MN/JRM/83H02/2020/7
+Manipur
+Jiribam
+ 
+Nungkhal -Kolbung road
+24.72
+93.18
+Rock
+Slide
+NA
+18550
+MN/JRM/83H02/2020/8
+Manipur
+Jiribam
+ 
+Nungkhal -Kolbung road
+24.72
+93.18
+Earth
+Slide
+NA
+18551
+MN/JRM/83H02/2020/9
+Manipur
+Jiribam
+ 
+Nungkhal -Kolbung road
+24.72
+93.18
+Debris
+Slide
+NA
+18552
+MN/JRM/83H02/2020/17
+Manipur
+Jiribam
+ 
+Nungkhal road
+24.72
+93.14
+Debris
+Slide
+NA

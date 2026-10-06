@@ -1,0 +1,430 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29349
+WB/DAR/78A08/2015/113
+West Bengal
+Darjeeling
+NH-31A _24.9 km (near Geilkhola 
+bridge) from Sevok(Tiger Bridge) 
+towards  Gangtok
+NH31A
+27.030176
+88.428334
+Debris
+Slide
+2011
+29350
+WB/DAR/78A12/2015/186
+West Bengal
+Darjeeling
+21 km from Damdim-Algarah road
+21 km from Damdim
+27.030471
+88.702313
+Debris
+Subsidence
+2007
+29351
+WB/DAR/78A12/2015/1445
+West Bengal
+Darjeeling
+ 
+ 
+27.030686
+88.671122
+Rock cum Debris
+Slide
+NA
+29352
+WB/DAR/78A12/2015/1443
+West Bengal
+Darjeeling
+ 
+ 
+27.030711
+88.669293
+Rock cum Debris
+Slide
+NA
+29353
+WB/DAR/78A12/2015/1444
+West Bengal
+Darjeeling
+ 
+ 
+27.030875
+88.66714
+Rock cum Debris
+Slide
+NA
+29354
+WB/DAR/78A04/2015/1244
+West Bengal
+Darjeeling
+ 
+TARDHURA
+27.031222
+88.196694
+Rock
+Slide
+2015
+29355
+WB/DAR/78A08/2015/1390
+West Bengal
+Darjeeling
+KAMSE VILLAGE,KALIMPONG
+KAMSE VILLAGE,KALIMPONG
+27.031639
+88.473528
+Debris
+Slide
+2015
+29356
+WB/DAR/78A08/2015/104
+West Bengal
+Darjeeling
+Jalapaher Gandhi Road
+ 
+27.032301
+88.26462
+Debris
+Slide
+2009
+29357
+WB/DAR/78A12/2015/1281
+West Bengal
+Darjeeling
+ 
+POCHOK,  GITDUBLING ROAD
+27.032639
+88.612889
+Debris
+Slide
+2014
+29358
+WB/DAR/78A08/2021/PDLS/36
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.03267137
+88.42864524
+Debris
+Slide
+October 2021
+29359
+WB/DAR/78A08/2015/1389
+West Bengal
+Darjeeling
+Deorali, Near Riang 2Km milestone
+BONG BUSTY ,KALIMPONG
+27.033194
+88.481528
+Debris
+Slide
+2015
+29360
+WB/DARJ/78A12/2007/0010
+West Bengal
+Darjeeling
+Paparkheti-II
+1 km from Paprkheti towards 
+Lava
+27.0334
+88.69994
+Debris
+Subsidence
+2007
+29361
+WB/DAR/78A16/2015/289
+West Bengal
+Darjeeling
+On Dalgaon- Rongu road
+On Dalgaon- Rongu road
+27.033542
+88.855017
+Rock
+Slide
+1992
+29362
+WB/DAR/78A12/2015/1533
+West Bengal
+Darjeeling
+ 
+GOKE RANGDU
+27.033881
+88.533103
+Rock cum Debris
+Slide
+2016
+29363
+WB/DAR/78A04/2021/PDLS/44
+West Bengal
+Darjeeling
+N/A
+N/A
+27.03389715
+88.19335018
+Debris
+Slide
+October 2021
+29364
+WB/DAR/78A12/2015/230
+West Bengal
+Darjeeling
+2km from Kankebung on right bank of 
+Menchu Khola
+2km from Kankebung on right 
+bank of Menchu Khola
+27.034
+88.533
+Rock
+Slide
+2012
+29365
+WB/DAR/78A04/2015/1236
+West Bengal
+Darjeeling
+ 
+RISHEEHAT
+27.034083
+88.222417
+Rock
+Slide
+2016
+29366
+WB/DAR/78A12/2015/1446
+West Bengal
+Darjeeling
+ 
+ 
+27.034531
+88.542475
+Rock cum Debris
+Slide
+NA
+29367
+WB/DAR/78A04/2015/1243
+West Bengal
+Darjeeling
+ 
+MARYBONG TG
+27.03475
+88.197444
+Debris
+Subsidence
+2015
+29368
+WB/DAR/78A12/2015/208
+West Bengal
+Darjeeling
+28.0Km. from Damdim on Damdim-
+Algarah road
+1 km from Paparkheti towards  
+Nimgolai
+27.034814
+88.701074
+Rock
+Slide
+2007
+29369
+WB/DAR/78A08/2015/1348
+West Bengal
+Darjeeling
+SEVOK ROAD
+SEVOK ROAD
+27.034972
+88.428611
+Debris
+Subsidence
+2014
+29370
+WB/DARJ/78A04/2009/0242
+West Bengal
+Darjeeling
+ 
+ 
+27.035
+88.23
+Debris
+Slide
+NA
+29371
+WB/DAR/78A04/2015/19
+West Bengal
+Darjeeling
+Darjeeling-Bijanbari Road, Ganga 
+Maiya Park
+ 
+27.035
+88.23
+Debris
+Slide
+2009
+29372
+WB/DAR/78A04/2015/1503
+West Bengal
+Darjeeling
+PYRENI JHORA SUBSIDENCE
+CHIBBO VILLAGE,KALIMPONG
+27.035038
+88.229949
+Debris
+Subsidence
+2015
+29373
+WB/DAR/78A12/2015/1307
+West Bengal
+Darjeeling
+ 
+KHANI
+27.035111
+88.5205
+Rock
+Slide
+2015
+29374
+WB/DAR/78A04/2021/PDLS/45
+West Bengal
+Darjeeling
+N/A
+N/A
+27.0355249
+88.19408314
+Debris
+Slide
+October 2021
+29375
+WB/DAR/78A12/2015/1376
+West Bengal
+Darjeeling
+MELLI ROAD
+KHANI
+27.035889
+88.523694
+Rock cum Debris
+Slide
+2015
+29376
+WB/DAR/78A12/2015/1306
+West Bengal
+Darjeeling
+ 
+W OF KONKEBONG
+27.035889
+88.523667
+Rock
+Slide
+2015
+29377
+WB/DAR/78A12/2015/207
+West Bengal
+Darjeeling
+28.0Km. from Damdim on Damdim-
+Algarah road
+1 km from Paparkheti towards  
+Nimgolai
+27.035974
+88.697759
+Rock
+Slide
+2007
+29378
+WB/DAR/78A12/2015/271
+West Bengal
+Darjeeling
+Pala-Samalbung road
+Pala-Samalbung road
+27.035987
+88.522248
+Rock
+Slide
+2013
+29379
+WB/DAR/78A12/2015/272
+West Bengal
+Darjeeling
+Kankebong
+ 
+27.036
+88.527
+Debris
+Subsidence
+2013
+29380
+WB/DAR/78A12/2015/1534
+West Bengal
+Darjeeling
+ 
+GOKE RANGDU
+27.036009
+88.522237
+Debris
+Subsidence
+2015
+29381
+WB/DAR/78A04/2015/1242
+West Bengal
+Darjeeling
+ 
+MARYBONG TG
+27.036083
+88.197333
+Debris
+Subsidence
+2015
+29382
+WB/DAR/78A12/2015/1304
+West Bengal
+Darjeeling
+ 
+W OF KONKEBONG
+27.036278
+88.530083
+Debris
+Subsidence
+2014
+29383
+WB/DAR/78A12/2015/1303
+West Bengal
+Darjeeling
+ 
+MUNTHUM
+27.036444
+88.538306
+Debris
+Subsidence
+2014
+29384
+WB/DAR/78A12/2015/1305
+West Bengal
+Darjeeling
+ 
+W OF KONKEBONG
+27.0365
+88.528722
+Debris
+Subsidence
+2014
+29385
+WB/DAR/78A16/2015/299
+West Bengal
+Darjeeling
+MURTI
+MURTI
+27.036708
+88.804306
+Debris
+Slide
+2010

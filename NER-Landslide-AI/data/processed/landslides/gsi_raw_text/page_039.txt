@@ -1,0 +1,506 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1264
+ARN/TWNG/78M14/2016/0024 Arunachal Pradesh
+Tawang
+SSB Colony slide
+ 
+27.596639
+91.878972
+Debris
+Slide
+23 April 2016
+1265
+ARN/TWNG/78M14/2016/0025 Arunachal Pradesh
+Tawang
+Q.M. Store slide
+ 
+27.596639
+91.878972
+Debris
+Slide
+23 April 2016
+1266
+ARN/TWG/78M14/2016/0026
+Arunachal Pradesh
+Tawang
+SSB Workshop (South)
+Locality
+27.599
+91.876528
+Debris
+Slide
+2016
+1267
+ARN/TWG/78M14/2016/0027
+Arunachal Pradesh
+Tawang
+SSB Workshop (North)
+Locality
+27.599806
+91.876111
+Debris
+Slide
+2016
+1268
+AP/LSB/83E14/2021/35
+Arunachal Pradesh
+Lower Subansiri
+Ziro-Raga slide 2
+Ziro-Raga
+27.62225
+93.840778
+Debris
+Slide
+NA
+1269
+AP/LSB/83E14/2021/34
+Arunachal Pradesh
+Lower Subansiri
+Ziro-Raga slide 1
+Ziro-Raga
+27.622972
+93.841361
+Debris
+Slide
+NA
+1270
+AP/KRA/83E10/2021/33
+Arunachal Pradesh
+Kra Daadi
+Palin Road slide 2
+Palin Road
+27.637611
+93.637722
+Debris
+Slide
+NA
+1271
+AP/LSB/83E14/2021/36
+Arunachal Pradesh
+Lower Subansiri
+Ziro-Raga slide 3
+Ziro-Raga
+27.63825
+93.857583
+Debris
+Slide
+NA
+1272
+AP/LSB/83E14/2021/37
+Arunachal Pradesh
+Lower Subansiri
+Ziro-Raga slide 4
+Ziro-Raga
+27.649194
+93.874
+Debris
+Slide
+NA
+1273
+AP/KRA/83E10/2021/32
+Arunachal Pradesh
+Kra Daadi
+Palin Road slide 1
+Palin Road
+27.652167
+93.632417
+Debris
+Slide
+NA
+1274
+AP/LSB/83E14/2021/38
+Arunachal Pradesh
+Lower Subansiri
+13 km North of Ziro
+North of Ziro
+27.656
+93.877472
+Soil
+Slide
+NA
+1275
+AP/WSG/83I09/2021/118
+Arunachal Pradesh
+West Siang
+Likabali petrol pump slide
+Likabali petrol pump
+27.662194
+94.702667
+Debris
+Slide
+NA
+1276
+AP/WSG/83I09/2021/117
+Arunachal Pradesh
+West Siang
+Likabali road slide 3
+Likabali road
+27.664972
+94.693861
+Debris
+Slide
+NA
+1277
+AP/LSB/83E14/2021/40
+Arunachal Pradesh
+Lower Subansiri
+Ziro-Raga slide 2
+Ziro-Raga
+27.665417
+93.892222
+Debris
+Slide
+NA
+1278
+AP/LSB/83E14/2021/39
+Arunachal Pradesh
+Lower Subansiri
+Ziro-Raga slide 1
+Ziro-Raga
+27.666556
+93.891861
+Debris
+Slide
+NA
+1279
+AP/KRA/83E10/2021/31
+Arunachal Pradesh
+Kra Daadi
+Palin-Yazuli road slide
+Palin-Yazuli road
+27.668278
+93.629472
+Debris
+Slide
+NA
+1280
+AP/KRA/83E10/2021/30
+Arunachal Pradesh
+Kra Daadi
+Potin-Ziro road slide
+Potin-Ziro road
+27.668611
+93.63
+Debris
+Slide
+NA
+1281
+AP/WSG/83I09/2021/116
+Arunachal Pradesh
+West Siang
+Likabali road slide 2
+Likabali road
+27.683889
+94.682444
+Rock
+Slide
+NA
+1282
+AP/WSG/83I09/2021/115
+Arunachal Pradesh
+West Siang
+Likabali road slide 1
+Likabali road
+27.688
+94.67875
+Rock
+Slide
+NA
+1283
+AP/WSG/83I09/2021/114
+Arunachal Pradesh
+West Siang
+NE of Likabali Police check-post slide
+NE of Likabali Police check-post 27.688583
+94.681
+Rock
+Slide
+NA
+1284
+ARN/KRA/83E10/2017
+Arunachal Pradesh
+Kra Daadi
+Palin landslide
+Palin village
+27.690111
+93.632556
+Debris
+Slide
+2017
+1285
+AP/WSG/83I09/2021/113
+Arunachal Pradesh
+West Siang
+Magi-Likabali road section slide 2
+Magi-Likabali road section
+27.703222
+94.67275
+Rock
+Slide
+NA
+1286
+AP/WSG/83I09/2021/112
+Arunachal Pradesh
+West Siang
+Magi-Likabali road section slide 1
+Magi-Likabali road section
+27.70625
+94.673833
+Rock
+Slide
+NA
+1287
+AP/WSG/83I09/2021/102
+Arunachal Pradesh
+West Siang
+Garu-Siji road section slide 1
+Garu-Siji road section
+27.720444
+94.721528
+Rock
+Slide
+NA
+1288
+AP/KM/83I01/2021/8
+Arunachal Pradesh
+Kamle
+East of Tamen Suspension Bridge slide 
+2
+E of Tamen bridge
+27.751917
+94.023472
+Debris
+Slide
+NA
+1289
+AP/WSG/83I09/2021/111
+Arunachal Pradesh
+West Siang
+Garu-Siji road section slide 9
+Garu-Siji road section
+27.752611
+94.7175
+Rock
+Slide
+NA
+1290
+AP/KM/83I01/2021/7
+Arunachal Pradesh
+Kamle
+East of Tamen Suspension Bridge 
+slide1
+E of Tamen Suspension Bridge
+27.754056
+94.018528
+Debris
+Slide
+NA
+1291
+AP/WSG/83I09/2021/110
+Arunachal Pradesh
+West Siang
+Garu-Siji road section slide 8
+Garu-Siji road section
+27.754806
+94.715444
+Rock
+Slide
+NA
+1292
+AP/KD/83E09/2021/46
+Arunachal Pradesh
+Kra Daadi
+West of Taya slide 1
+W of Taya
+27.756511
+93.417861
+Debris
+Slide
+NA
+1293
+AP/KD/83E09/2021/45
+Arunachal Pradesh
+Kra Daadi
+West of Taya slide 2
+W of Taya
+27.756778
+93.436761
+soil
+Slide
+NA
+1294
+AP/WSG/83I09/2021/109
+Arunachal Pradesh
+West Siang
+Siji Camp slide
+NE of Siji Camp
+27.757417
+94.716167
+Rock
+Slide
+NA
+1295
+AP/LS/83E09/2021/05
+Arunachal Pradesh
+Lower Subansiri
+Tamen slide 2
+Near Tamen
+27.758611
+93.997222
+Debris
+Slide
+NA
+1296
+AP/KD/83E09/2021/42
+Arunachal Pradesh
+Kra Daadi
+Near Dabo slide 2
+Near Dabo
+27.758806
+93.609167
+Debris
+Slide
+NA
+1297
+AP/KM/83I01/2021/9
+Arunachal Pradesh
+Kamle
+3km SE of Raga Village slide
+SE of Raga Village
+27.758889
+94.059833
+Rock
+Slide
+NA
+1298
+AP/KM/83I01/2021/6
+Arunachal Pradesh
+Kamle
+4km S of Raga Village slide
+S of Raga Village
+27.759361
+94.047083
+Rock
+Slide
+NA
+1299
+AP/WSG/83I09/2021/108
+Arunachal Pradesh
+West Siang
+Garu-Siji road section slide 7
+Garu-Siji road section
+27.759556
+94.712333
+Rock
+Slide
+NA
+1300
+AP/WSG/83I09/2021/107
+Arunachal Pradesh
+West Siang
+Garu-Siji road section slide 6
+Garu-Siji road section
+27.760194
+94.712278
+Rock
+Slide
+NA
+1301
+AP/LS/83E09/2021/02
+Arunachal Pradesh
+Lower Subansiri
+Tamen slide 3
+Near Tamen
+27.760889
+93.990806
+Debris
+Slide
+NA
+1302
+AP/LS/83E09/2021/01
+Arunachal Pradesh
+Lower Subansiri
+Tamen slide 1
+Near Tamen
+27.760917
+93.995583
+Rock
+Slide
+NA
+1303
+AP/WSG/83I09/2021/106
+Arunachal Pradesh
+West Siang
+Garu-Siji road section slide 5
+Garu-Siji road section
+27.762
+94.712278
+Debris
+Slide
+NA
+1304
+AP/KD/83E09/2021/41
+Arunachal Pradesh
+Kra Daadi
+Near Dabo slide 1
+Near Dabo
+27.763444
+93.608278
+Debris
+Slide
+NA
+1305
+AP/LS/83E09/2021/03
+Arunachal Pradesh
+Lower Subansiri
+Tamen slide 4
+Near Tamen
+27.763722
+93.992333
+Debris
+Slide
+NA
+1306
+AP/KD/83E09/2021/40
+Arunachal Pradesh
+Kra Daadi
+Upper Mer slide 3
+W of Upper Mer
+27.772194
+93.59325
+Debris
+Slide
+NA
+1307
+AP/LS/83E09/2021/04
+Arunachal Pradesh
+Lower Subansiri
+Tamen slide 5
+Near Tamen
+27.773556
+93.969778
+Debris
+Slide
+NA
+1308
+AP/KD/83E09/2021/39
+Arunachal Pradesh
+Kra Daadi
+Upper Mer slide 4
+Upper Mer
+27.773847
+93.595528
+Debris
+Slide
+NA

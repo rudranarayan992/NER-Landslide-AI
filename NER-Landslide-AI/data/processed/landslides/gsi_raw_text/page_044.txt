@@ -1,0 +1,421 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1483
+AP/AW/91D8/2022/87
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 11.3 kms 
+along HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.100914
+96.449162
+Debris
+Slide
+NA
+1484
+AP/E-Siang/82P8/2021/LS9
+Arunachal Pradesh
+East Siang
+ Rengging Slide, LS-9
+NH-13
+28.101031
+95.282364
+Debris
+Slide
+NA
+1485
+AP/E-Siang/82P8/2021/LS10
+Arunachal Pradesh
+East Siang
+ Rengging Slide,  LS-10
+NH-13
+28.101692
+95.271861
+Debris
+Slide
+NA
+1486
+AP/AW/91D8/2022/86
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 11.5 kms 
+along HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.102005
+96.448473
+Debris
+Slide
+NA
+1487
+AP/E-Siang/82P8/2021/LS11
+Arunachal Pradesh
+East Siang
+LS-11
+Mebo to Jeru road, NH-513,
+28.103902
+95.27946
+Debris
+Slide
+NA
+1488
+AP/AW/91D8/2022/85
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 12 kms along 
+HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.105572
+96.447685
+Rock
+Slide
+NA
+1489
+AP/AW/91D8/2022/84
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 12.1 kms 
+along HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.105952
+96.447724
+Rock
+Slide
+NA
+1490
+AP/AW/91D8/2022/83
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 12.2 kms 
+along HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.106321
+96.447245
+Debris
+Slide
+NA
+1491
+AP/E-Siang/82P8/2021/LS12
+Arunachal Pradesh
+East Siang
+LS-12
+Towards Takilalung, NH-513
+28.106358
+95.268592
+Earth
+Slide
+NA
+1492
+AR/ANJ/91D12/2014/03
+Arunachal Pradesh
+Anjaw
+3.5 km slide
+HMC road
+28.10714
+96.54489
+Rock
+Fall
+2013
+1493
+AP/E-Siang/82P8/2021/LS13
+Arunachal Pradesh
+East Siang
+LS-13, towards Mebo
+Romdung, NH-52
+28.109161
+95.269084
+Debris
+Slide
+NA
+1494
+AR/ANJ/93D12/2014/47
+Arunachal Pradesh
+Anjaw
+ 
+H.M.C. Road
+28.11142
+96.54528
+Rock
+Slide
+2012
+1495
+AP/E-Siang/82P8/2021/LS14
+Arunachal Pradesh
+East Siang
+LS-14
+Towards Aholi from Mebo, NH-
+52
+28.113119
+95.270938
+Debris
+Slide
+NA
+1496
+AP/E-Siang/82P8/2021/LS15
+Arunachal Pradesh
+East Siang
+LS-15
+NH-52
+28.113846
+95.273389
+Debris
+Slide
+NA
+1497
+AP/E-Siang/82P8/2021/LS16
+Arunachal Pradesh
+East Siang
+LS-16
+NH-52
+28.114617
+95.273722
+Debris
+Slide
+NA
+1498
+AP/E-Siang/82P8/2022/LS50
+Arunachal Pradesh
+East Siang
+Rengging Slide
+NH-13, Rengging Slide
+28.114742
+95.273582
+Debris
+Slide
+NA
+1499
+AR/ANJ/93D12/2014/46
+Arunachal Pradesh
+Anjaw
+ 
+H.M.C. Road
+28.11594
+96.54689
+Rock
+Slide
+2012
+1500
+AP/E-Siang/82P8/2021/LS17
+Arunachal Pradesh
+East Siang
+North east of Mebo Village, LS-17
+NH-52
+28.117222
+95.273075
+Debris
+Slide
+NA
+1501
+AR/ANJ/91D12/2014/07
+Arunachal Pradesh
+Anjaw
+5.4 km HMC slide
+HMC road
+28.11781
+96.54906
+Debris
+Flow
+2013
+1502
+AR/S/82P04/2022/006
+Arunachal Pradesh
+East Siang
+NH-13 Slide 6
+NH-13
+28.131694
+95.136186
+Debris
+slide
+NA
+1503
+AR/US/82P04/2022/026
+Arunachal Pradesh
+West Siang
+Northwest of Rotung Slide 1
+NH-13
+28.133611
+95.11125
+Debris
+Slide
+NA
+1504
+AR/S/82P04/2022/028
+Arunachal Pradesh
+Siang
+Pangin Slide 1
+NH-13
+28.133611
+95.11125
+Debris
+Slide
+NA
+1505
+AR/WS/82L16/2022/090
+Arunachal Pradesh
+West Siang
+Pakam Slide
+NH-13
+28.133778
+94.788
+Soil
+Slide
+NA
+1506
+AR/WSI/82L12/2021/12
+Arunachal Pradesh
+West Siang
+Yomcha-Aalo Road Slide
+Yomcha-Aalo Road
+28.133963
+94.611953
+Rock-cum-Debris
+Slide
+NA
+1507
+AR/WSI/82L12/2021/13
+Arunachal Pradesh
+West Siang
+Yomcha-Aalo Road Slide
+Yomcha-Aalo Road
+28.134238
+94.620133
+Rock-cum-Debris
+Slide
+NA
+1508
+AR/S/82P04/2022/005
+Arunachal Pradesh
+East Siang
+NH-13 Slide 5
+NH-13
+28.135056
+95.145444
+Soil
+slide
+NA
+1509
+AR/WSI/82L12/2021/14
+Arunachal Pradesh
+West Siang
+Yomcha-Aalo Road Slide
+Yomcha-Aalo Road
+28.137762
+94.62431
+Rock-cum-Debris
+Topple
+NA
+1510
+AP/E-Siang/82P8/2021/LS18
+Arunachal Pradesh
+East Siang
+ North east of Mebo Village, LS-18
+NH-52
+28.138811
+95.254821
+Debris
+Slide
+NA
+1511
+AP/E-Siang/82P8/2021/LS19
+Arunachal Pradesh
+East Siang
+LS-19
+NH-52
+28.14005
+95.266592
+Debris
+Slide
+NA
+1512
+AP/E-Siang/82P8/2021/LS21
+Arunachal Pradesh
+East Siang
+LS-21
+NH-52
+28.140639
+95.292122
+Rock
+Wedge failure
+NA
+1513
+AP/E-Siang/82P8/2021/LS20
+Arunachal Pradesh
+East Siang
+LS-20
+NH-52
+28.140915
+95.266966
+Rock
+Wedge failure
+NA
+1514
+AR/US/82P04/2022/089
+Arunachal Pradesh
+West Siang
+N of Pakam Slide 1
+NH-13
+28.141139
+94.786583
+Soil
+Slide
+NA
+1515
+AR/ES/82P/8/2021/01
+Arunachal Pradesh
+East Siang
+N/A
+N/A
+28.14116
+95.27472
+Debris/unconsolidat
+ed material
+Debris slide 
+and subsidence
+1950, 2021
+1516
+AP/E-Siang/82P8/2022/LS51
+Arunachal Pradesh
+East Siang
+Rengging Slide
+NH-13, Towards Rengging
+28.141514
+95.289198
+Debris
+Slide
+NA
+1517
+AP/E-Siang/82P8/2022/LS52
+Arunachal Pradesh
+East Siang
+Rengging Slide
+NH-13, Rengging Slide
+28.142304
+95.288126
+Debris
+Slide
+NA
+1518
+AR/ES/82P04/2022/001
+Arunachal Pradesh
+East Siang
+NH-13 Slide 1
+NH-13
+28.1425
+95.239194
+Debris
+Slide
+NA

@@ -1,0 +1,402 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+4493
+HP/SOL/53A16/2017/122
+Himachal Pradesh
+Solan
+ 
+PIPLUGHAT BAHADURPUR 
+ROAD
+31.199833
+76.912444
+Debris
+Slide
+NA
+4494
+HP/SHI/53E16/2016/102
+Himachal Pradesh
+Shimla
+ 
+Near Dali, NH-72-Dali link road
+31.1999
+77.8576
+Rock
+Slide
+NA
+4495
+HP/SOL/53A16/2017/18
+Himachal Pradesh
+Solan
+ 
+ARKI PIPLUGHAT ROAD
+31.199944
+76.91975
+Debris
+Slide
+NA
+4496
+HP/SHI/53E04/2017/129
+Himachal Pradesh
+Shimla
+ 
+HALOG SILAHARA ROAD
+31.2
+77.057028
+Rock
+Slide
+NA
+4497
+HP/SHI/53E16/2016/187
+Himachal Pradesh
+Shimla
+ 
+CHANSIL GHATICHANSIL GHATI- 
+TIKRI ROAD
+31.2003
+77.9917
+Debris
+Slide
+NA
+4498
+HP/SHI/53E16/2016/145
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANSIL GHATITIKRI-
+DODRA KWAR ROAD
+31.2005
+77.9895
+Debris
+Slide
+NA
+4499
+HP/SHI/53E04/2017/47
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.200556
+77.14975
+Rock
+Slide
+NA
+4500
+HP/SOL/53A16/2017/124
+Himachal Pradesh
+Solan
+ 
+PIPLUGHAT BAHADURPUR 
+ROAD
+31.200611
+76.910222
+Rock
+Slide
+NA
+4501
+HP/SHI/53E16/2016/188
+Himachal Pradesh
+Shimla
+ 
+CHANSIL GHATICHANSIL GHATI- 
+TIKRI ROAD
+31.2007
+77.9923
+Debris
+Slide
+NA
+4502
+HP/SHI/53E04/2017/49
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.200889
+77.146306
+Rock
+Slide
+NA
+4503
+HP/SOL/53A12/2017/67
+Himachal Pradesh
+Solan
+ 
+NH 21, SWARGHAT
+31.201194
+76.684028
+Debris
+Slide
+NA
+4504
+HP/SOL/53A12/2017/41
+Himachal Pradesh
+Solan
+ 
+NH 21A
+31.201194
+76.684028
+Debris
+Slide
+NA
+4505
+HP/SHI/53E04/2017/147
+Himachal Pradesh
+Shimla
+ 
+SH 16
+31.201278
+77.152417
+Rock
+Slide
+NA
+4506
+HP/SHI/53E04/2017/130
+Himachal Pradesh
+Shimla
+ 
+HALOG SILAHARA ROAD
+31.201306
+77.057139
+Rock
+Slide
+NA
+4507
+HP/SHI/53E16/2016/189
+Himachal Pradesh
+Shimla
+ 
+CHANSIL GHATICHANSIL GHATI- 
+TIKRI ROAD
+31.2017
+77.9934
+Debris
+Slide
+NA
+4508
+HP/SHI/53E16/2016/190
+Himachal Pradesh
+Shimla
+ 
+CHANSIL GHATICHANSIL GHATI- 
+TIKRI ROAD
+31.202
+77.994
+Debris
+Slide
+NA
+4509
+HP/SOL/53A16/2017/125
+Himachal Pradesh
+Solan
+ 
+PIPLUGHAT BAHADURPUR 
+ROAD
+31.202111
+76.905917
+Debris
+Slide
+NA
+4510
+HP/SOL/53A16/2017/19
+Himachal Pradesh
+Solan
+ 
+ARKI PIPLUGHAT ROAD
+31.2025
+76.917917
+Debris
+Slide
+NA
+4511
+HP/SOL/53A16/2017/126
+Himachal Pradesh
+Solan
+ 
+PIPLUGHAT BAHADURPUR 
+ROAD
+31.202528
+76.898972
+Rock
+Slide
+NA
+4512
+HP/SHI/53E04/2017/141
+Himachal Pradesh
+Shimla
+ 
+SH 16
+31.202667
+77.133444
+Debris
+Slide
+NA
+4513
+HP/SHI/53E16/2016/191
+Himachal Pradesh
+Shimla
+ 
+CHANSIL GHATICHANSIL GHATI- 
+TIKRI ROAD
+31.203
+77.995
+Debris
+Slide
+NA
+4514
+HP/SHI/53E16/2016/146
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANSIL GHATITIKRI-
+DODRA KWAR ROAD
+31.203
+77.9897
+Debris
+Slide
+NA
+4515
+HP/SHI/53E04/2017/50
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.203056
+77.136056
+Rock
+Slide
+NA
+4516
+HP/SHI/53E08/2016/80
+Himachal Pradesh
+Shimla
+ 
+KaligarMatiyana-Rohru Road
+31.20314
+77.407928
+Rock
+Slide
+NA
+4517
+HP/SHI/53E04/2017/144
+Himachal Pradesh
+Shimla
+#N/A
+#N/A
+31.203194
+77.136056
+Rock
+Slide
+NA
+4518
+HP/SHI/53E04/2017/131
+Himachal Pradesh
+Shimla
+ 
+HALOG SILAHARA ROAD
+31.204444
+77.059361
+Rock
+Slide
+NA
+4519
+HP/SHI/53E08/2016/92
+Himachal Pradesh
+Shimla
+ 
+Kaligar - Matiyana-Rohru Road
+31.204536
+77.409523
+Rock cum debris
+Slide
+NA
+4520
+HP/SHI/53E04/2017/101
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.205
+77.176667
+Debris
+Slide
+NA
+4521
+HP/SHI/53E16/2016/144
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANSIL GHATITIKRI-
+DODRA KWAR ROAD
+31.2051
+77.9945
+Debris
+Slide
+NA
+4522
+HP/SHI/53E04/2017/102
+Himachal Pradesh
+Shimla
+ 
+BASANTPUR
+31.20525
+77.189361
+Rock
+Slide
+NA
+4523
+HP/SHI/53E04/2017/132
+Himachal Pradesh
+Shimla
+ 
+HALOG SILAHARA ROAD
+31.205528
+77.059861
+Rock
+Slide
+NA
+4524
+HP/SHI/53E16/2016/142
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANSIL GHATITIKRI-
+DODRA KWAR ROAD
+31.2057
+77.9899
+Debris
+Slide
+NA
+4525
+HP/SHI/53E16/2016/143
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANSIL GHATITIKRI-
+DODRA KWAR ROAD
+31.2061
+77.9943
+Debris
+Slide
+NA
+4526
+HP/SHI/53E16/2016/196
+Himachal Pradesh
+Shimla
+ 
+SANDASU-KASHDHAR 
+ROADSANDASU-KASHDHAR 
+ROAD
+31.2062
+77.7924
+Debris
+Fall
+NA

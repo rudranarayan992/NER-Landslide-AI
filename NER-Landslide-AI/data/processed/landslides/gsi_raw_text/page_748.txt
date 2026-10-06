@@ -1,0 +1,395 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29485
+WB/DAR/78A08/2015/1393
+West Bengal
+Darjeeling
+ 
+ 
+27.047458
+88.455044
+Debris
+Slide
+2013
+29486
+WB/DAR/78A08/2015/1392
+West Bengal
+Darjeeling
+ 
+ 
+27.047505
+88.451315
+Rock cum Debris
+Slide
+2013
+29487
+WB/DAR/78A08/2015/1394
+West Bengal
+Darjeeling
+ 
+ 
+27.047591
+88.450923
+Rock
+Slide
+2013
+29488
+WB/DAR/78A08/2015/1395
+West Bengal
+Darjeeling
+ 
+ 
+27.047727
+88.449906
+Rock cum Debris
+Slide
+2013
+29489
+WB/DAR/78A08/2015/107
+West Bengal
+Darjeeling
+Lower Bhutia Busty
+ 
+27.04775
+88.273611
+Debris
+Slide
+2009
+29490
+WB/DAR/78A04/2015/1237
+West Bengal
+Darjeeling
+ 
+RISHEEHAT
+27.047778
+88.20625
+Rock
+Slide
+2016
+29491
+WB/DAR/78A08/2015/1396
+West Bengal
+Darjeeling
+ 
+ 
+27.047886
+88.459909
+Debris
+Slide
+2013
+29492
+WB/DAR/78A04/2021/PDLS/29
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.04823382
+88.28148759
+Debris
+Slide
+October 2021
+29493
+WB/DAR/78A12/2015/258
+West Bengal
+Darjeeling
+Pala Village, Pala- Deorali- Loegaon 
+Road
+Pala- Deorali- Loegaon Road
+27.048296
+88.580506
+Rock
+Slide
+2013
+29494
+WB/DAR/78A04/2021/PDLS/29
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.04829716
+88.28048012
+Debris
+Slide
+October 2021
+29495
+WB/DAR/78A04/2021/PDLS/14
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.0484665
+88.20299156
+Debris
+Slide
+October 2021
+29496
+WB/DAR/78A12/2015/211
+West Bengal
+Darjeeling
+35 km from Damdim on Damdim-
+Labha-Algara road
+Paparkheti - Lava road
+27.048546
+88.688213
+Debris
+Slide
+2007
+29497
+WB/DAR/78A04/2021/PDLS/29
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.04859357
+88.27865865
+Debris
+Slide
+October 2021
+29498
+WB/DAR/78A08/2015/1397
+West Bengal
+Darjeeling
+ 
+ 
+27.048661
+88.46002
+Rock cum Debris
+Slide
+2013
+29499
+WB/DAR/78A04/2021/PDLS/29
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.04868853
+88.28111972
+Debris
+Slide
+October 2021
+29500
+WB/DAR/78A04/2021/PDLS/14
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.04879643
+88.20346894
+Debris
+Slide
+October 2021
+29501
+WB/DARJ/78A08/2013/0312
+West Bengal
+Darjeeling
+ 
+ 
+27.049
+88.44
+Debris
+Slide
+2013
+29502
+WB/DAR/78A08/2015/42
+West Bengal
+Darjeeling
+Around 8km. West of Darjeeling town 
+(near to Lebong)
+Around 8km. West of Darjeeling 
+town (near to Lebong)
+27.049
+88.287
+Debris
+Flow
+2006
+29503
+WB/DAR/78A08/2015/133
+West Bengal
+Darjeeling
+Chibo-Pashyor slide,Kalimpong
+ 
+27.049
+88.44
+Debris
+Slide
+2013
+29504
+WB/DAR/78A04/2021/PDLS/29
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.04936932
+88.27971597
+Debris
+Slide
+October 2021
+29505
+WB/DAR/78A04/2021/PDLS/29
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.04938508
+88.2799682
+Debris
+Slide
+October 2021
+29506
+WB/DAR/78A04/2021/PDLS/14
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.04945502
+88.2035163
+Debris
+Slide
+October 2021
+29507
+WB/DAR/78A08/2015/1407
+West Bengal
+Darjeeling
+ 
+ 
+27.049484
+88.458125
+Debris
+Slide
+2013
+29508
+WB/DAR/78A12/2015/160
+West Bengal
+Darjeeling
+39.3km  from Damdim on Damdim-
+Labha-Algara road
+Located between Km. 39 & 40 
+on Damdim-Labha- Algarah-
+Gorubathan road
+27.0495
+88.68093
+Rock cum Debris
+Subsidence
+1965
+29509
+WB/DAR/78A04/2015/1250
+West Bengal
+Darjeeling
+ 
+TINDHUREY
+27.049528
+88.218833
+Rock
+Slide
+2014
+29510
+WB/DAR/78A08/2015/80
+West Bengal
+Darjeeling
+Harsing Hatta, Lebong on Badamtam 
+TE road
+Harsing Hatta, Lebong on 
+Badamtam TE road
+27.04956
+88.27853
+Debris
+Slide
+2007
+29511
+WB/DAR/78A08/2015/67
+West Bengal
+Darjeeling
+NH-55, just below the Goethals School 
+play ground
+NH-55, just below the Goethals 
+School play ground
+27.049701
+88.46359
+Debris
+Slide
+2007
+29512
+WB/DAR/78A04/2015/1202
+West Bengal
+Darjeeling
+ 
+MANEY
+27.049778
+88.169944
+Debris
+Slide
+2016
+29513
+WB/DAR/78A08/2015/65
+West Bengal
+Darjeeling
+Kalimpong City
+Kalimpong City
+27.049804
+88.460653
+Debris
+Slide
+2007
+29514
+WB/DAR/78A08/2015/1536
+West Bengal
+Darjeeling
+ 
+GITDUBLING
+27.049808
+88.460576
+Debris
+Slide
+2014
+29515
+WB/DAR/78A04/2015/17
+West Bengal
+Darjeeling
+Lizahill Tea Garden
+On Darjeeling-Bijanbari Road
+27.04999
+88.20818
+Debris
+Subsidence
+2007
+29516
+WB/DARJ/78A04/2007/0240
+West Bengal
+Darjeeling
+ 
+On Darjeeling-Bijanbari Road
+27.05
+88.208
+Debris
+Subsidence
+NA
+29517
+WB/DARJ/78A08/2007/0320
+West Bengal
+Darjeeling
+ 
+Kalimpong City
+27.05
+88.461
+Debris
+Slide
+NA

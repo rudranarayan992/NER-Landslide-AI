@@ -1,0 +1,389 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28667
+WB/DAR/78B01/2015/350
+West Bengal
+Darjeeling
+Soureni-5, within Soureni Tea Garden Soureni TG
+26.85017
+88.19347
+Debris
+Slide
+2015
+28668
+WB/DAR/78B01/2015/337
+West Bengal
+Darjeeling
+Paul dhura-2, 700 m north of Tingling 
+view point
+Paul dhura
+26.850307
+88.191728
+Debris
+Slide
+2015
+28669
+WB/DAR/78B01/2015/347
+West Bengal
+Darjeeling
+Soureni-2, near Soureni Tea Garden  
+(along tea garden road)
+Soureni TG
+26.851503
+88.193331
+Debris
+Slide
+2015
+28670
+WB/DAR/78B05/2021/PDLS/04
+West Bengal
+Darjeeling
+N/A
+N/A
+26.85183899
+88.33381667
+Rock
+Slide
+October 2021
+28671
+WB/DAR/78B01/2015/348
+West Bengal
+Darjeeling
+Soureni-3, within Soureni Tea Garden Soureni TG
+26.851894
+88.194263
+Debris
+Slide
+2015
+28672
+WB/DAR/78B01/2015/346
+West Bengal
+Darjeeling
+Soureni-1, near Soureni tea garden 
+factory
+Soureni TG
+26.852059
+88.193387
+Debris
+Slide
+2015
+28673
+WB/JAL/78F01/2015/1154
+West Bengal
+Jalpaiguri
+ 
+ 
+26.852464
+89.104824
+Debris
+Slide
+2011
+28674
+WB/DAR/78B01/2015/349
+West Bengal
+Darjeeling
+Soureni-4, within Soureni Tea Garden Soureni TG
+26.852817
+88.194913
+Debris
+Slide
+2015
+28675
+WB/DAR/78B05/2021/PDLS/05
+West Bengal
+Darjeeling
+N/A
+N/A
+26.85286562
+88.33408032
+Debris
+Slide
+October 2021
+28676
+WB/DAR/78B05/2015/643
+West Bengal
+Darjeeling
+Gairigaon, NH55
+Gairigaon, NH55
+26.853548
+88.335636
+Rock
+Slide
+2015
+28677
+WB/DAR/78B05/2021/PDLS/14
+West Bengal
+Darjeeling
+N/A
+N/A
+26.85364516
+88.30275863
+Rock
+Slide
+October 2021
+28678
+WB/DAR/78B01/2015/358
+West Bengal
+Darjeeling
+Mechi-2, on left bank of Jhora flowing 
+south of Mechi Tea Garden
+Mechi TG
+26.853924
+88.18756
+Debris
+Slide
+2015
+28679
+WB/DAR/78B05/2015/570
+West Bengal
+Darjeeling
+TINDHARIA
+ 
+26.854096
+88.337308
+Rock
+Slide
+2014
+28680
+WB/DAR/78B05/2015/490
+West Bengal
+Darjeeling
+Tindharia
+Tindharia
+26.855
+88.337
+Rock
+Slide
+2008
+28681
+WB/DAR/78B01/2015/359
+West Bengal
+Darjeeling
+Mechi TG, Chaundhura Basic school
+Mechi TG
+26.855013
+88.186654
+Debris
+Slide
+2015
+28682
+WB/DAR/78B01/2015/396
+West Bengal
+Darjeeling
+Singboli Slide
+Singboli TG on right bank of 
+Balason River
+26.855278
+88.233972
+Debris
+Slide
+2015
+28683
+WB/DAR/78B05/2021/PDLS/12
+West Bengal
+Darjeeling
+N/A
+N/A
+26.85532667
+88.29857084
+Debris
+Slide
+October 2021
+28684
+WB/DAR/78B05/2015/559
+West Bengal
+Darjeeling
+Bhariani
+Bhariani
+26.8554
+88.2782
+Debris
+Slide
+2013
+28685
+WB/JAL/78F01/2015/1155
+West Bengal
+Jalpaiguri
+ 
+ 
+26.855543
+89.105251
+Debris
+Slide
+2013
+28686
+WB/DAR/78B05/2021/PDLS/13
+West Bengal
+Darjeeling
+N/A
+N/A
+26.85564213
+88.29862476
+Debris
+Slide
+October 2021
+28687
+WB/DAR/78B01/2021/PDLS/16
+West Bengal
+Darjeeling
+N/A
+N/A
+26.85623103
+88.21196271
+Rock
+Slide
+October 2021
+28688
+WB/DAR/78B05/2021/PDLS/06
+West Bengal
+Darjeeling
+N/A
+N/A
+26.85658011
+88.32787368
+Rock
+Slide
+October 2021
+28689
+WB/DAR/78B05/2015/500
+West Bengal
+Darjeeling
+Mahanadi WLS
+ 
+26.856957
+88.438311
+Debris
+Slide
+2010
+28690
+WB/DAR/78B05/2015/639
+West Bengal
+Darjeeling
+Gayabari, RS, NH55
+Gayabari, RS, NH55
+26.857
+88.313611
+Debris
+Slide
+2015
+28691
+WB/DAR/78B05/2021/PDLS/07
+West Bengal
+Darjeeling
+N/A
+N/A
+26.85771133
+88.31404769
+Rock
+Slide
+October 2021
+28692
+WB/DAR/78B05/2015/640
+West Bengal
+Darjeeling
+Mane, NHH55, 49
+Mane, NHH55, 49
+26.858056
+88.333333
+Rock
+Slide
+2015
+28693
+WB/DAR/78B05/2015/652
+West Bengal
+Darjeeling
+Goarishankar
+Goarishankar
+26.859302
+88.293514
+Rock
+Slide
+2015
+28694
+WB/DAR/78B05/2015/535
+West Bengal
+Darjeeling
+Reshambari
+ 
+26.859408
+88.250242
+Debris
+Slide
+2011
+28695
+WB/DAR/78B05/2015/710
+West Bengal
+Darjeeling
+on Kurseong to Rohini road
+on Kurseong to Rohini road
+26.859556
+88.293444
+Debris
+Slide
+2015
+28696
+WB/DAR/78B05/2015/572
+West Bengal
+Darjeeling
+MAKAIBARI
+ 
+26.860424
+88.274444
+Debris
+Slide
+2014
+28697
+WB/DAR/78B01/2015/360
+West Bengal
+Darjeeling
+Soureni Bazar, Eastern slope
+Soureni Bazar
+26.860446
+88.19659
+Debris
+Slide
+2015
+28698
+WB/DAR/78B05/2015/416
+West Bengal
+Darjeeling
+Makaibari
+ 
+26.860617
+88.278861
+Rock
+Slide
+2001
+28699
+WB/DAR/78B05/2015/538
+West Bengal
+Darjeeling
+Adjacent to workshop of Makaibari 
+Tea garden
+Pankhabari Road
+26.860652
+88.259765
+Rock
+Slide
+2011
+28700
+WB/DAR/78B05/2015/445
+West Bengal
+Darjeeling
+Mahanadi WLS
+ 
+26.860752
+88.399417
+Debris
+Slide
+2004

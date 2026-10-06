@@ -1,0 +1,533 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+6015
+HP/MAN/53E06/2016/89
+Himachal Pradesh
+Mandi
+ 
+Maringa
+31.657352
+77.389573
+Rock
+Fall
+NA
+6016
+HP/MAN/53E02/2015/168
+Himachal Pradesh
+Mandi
+#N/A
+#N/A
+31.657861
+77.102667
+Debris
+Slide
+NA
+6017
+HP/MAN/53E02/2015/123
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.657889
+77.102667
+Rock cum debris
+Slide
+NA
+6018
+HP/KUL/53E06/2016/86
+Himachal Pradesh
+Kullu
+ 
+N of Sharai
+31.658059
+77.329405
+Rock
+Slide
+NA
+6019
+HP/KUL/53E06/2016/45
+Himachal Pradesh
+Kullu
+ 
+Sapnil
+31.659024
+77.387225
+Rock
+Slide
+NA
+6020
+HP/MAN/53E02/2015/170
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.659278
+77.1045
+Debris
+Slide
+NA
+6021
+HP/MAN/53E02/2015/169
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.659333
+77.103639
+Debris
+Slide
+NA
+6022
+HP/MAN/53E02/2015/124
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.659639
+77.10275
+Rock cum debris
+Slide
+NA
+6023
+HP/KUL/53E06/2016/122
+Himachal Pradesh
+Kullu
+ 
+N of Ropa
+31.659997
+77.329747
+Rock
+Slide
+NA
+6024
+HP/MAN/53E06/2016/10
+Himachal Pradesh
+Mandi
+ 
+Bochhari
+31.661163
+77.294513
+Rock
+Slide
+NA
+6025
+HP/MAN/53A14/2015/296
+Himachal Pradesh
+Mandi
+ 
+Mandlog,Near milestone 8 of 
+SH 32, river bank
+31.662
+76.901
+Rock
+Slide
+NA
+6026
+HP/MAN/53A14/2015/297
+Himachal Pradesh
+Mandi
+ 
+Mandlog,Near milestone 8 of 
+SH 32, river bank
+31.662
+76.901
+Rock
+Slide
+NA
+6027
+HP/MAN/53A14/2015/298
+Himachal Pradesh
+Mandi
+ 
+Mandlog,Near milestone 8 of 
+SH 32, river bank
+31.662
+76.901
+Rock
+Slide
+NA
+6028
+HP/MAN/53A14/2015/299
+Himachal Pradesh
+Mandi
+ 
+Mandlog,Near milestone 8 of 
+SH 32, river bank
+31.662
+76.901
+Rock
+Slide
+NA
+6029
+HP/MAN/53E02/2015/171
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.662639
+77.097361
+Debris
+Slide
+NA
+6030
+HP/MAN/53E02/2015/173
+Himachal Pradesh
+Mandi
+ 
+ 
+31.662917
+77.096917
+Debris
+Slide
+NA
+6031
+HP/MAN/53E02/2015/125
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.662944
+77.096861
+Rock cum debris
+Slide
+NA
+6032
+HP/MAN/53E02/2015/119
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.663333
+77.095833
+Debris
+Slide
+NA
+6033
+HP/MAN/53E02/2015/120
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.663333
+77.095833
+Debris
+Slide
+NA
+6034
+HP/KUL/53E06/2016/84
+Himachal Pradesh
+Kullu
+ 
+Gushala
+31.664198
+77.33112
+Rock
+Slide
+NA
+6035
+HP/KUL/53E06/2016/14
+Himachal Pradesh
+Kullu
+ 
+S of Ghatghar
+31.664402
+77.335612
+Rock
+Slide
+NA
+6036
+HP/MAN/53E02/2015/175
+Himachal Pradesh
+Mandi
+ 
+ 
+31.664722
+77.097333
+Debris
+Slide
+NA
+6037
+HP/MAN/53E02/2015/174
+Himachal Pradesh
+Mandi
+ 
+ 
+31.664833
+77.099444
+Debris
+Slide
+NA
+6038
+HP/MAN/53E06/2016/15
+Himachal Pradesh
+Mandi
+ 
+S of Bauni
+31.665344
+77.29937
+Debris
+Slide
+NA
+6039
+HP/MAN/53E02/2015/172
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.665444
+77.097361
+Debris
+Slide
+NA
+6040
+HP/KUL/53E06/2016/118
+Himachal Pradesh
+Kullu
+ 
+Manglaur, NH 305
+31.665695
+77.308252
+Rock cum debris
+Slide
+NA
+6041
+HP/MAN/53E06/2016/27
+Himachal Pradesh
+Mandi
+ 
+Bauni
+31.666007
+77.299401
+Debris
+Slide
+NA
+6042
+HP/MAN/53E02/2015/181
+Himachal Pradesh
+Mandi
+ 
+ 
+31.666667
+77.086778
+Rock cum debris
+Slide
+NA
+6043
+HP/KIN/53I06/2018/2
+Himachal Pradesh
+Kinnaur
+ 
+North of Spellow
+31.667555
+78.459116
+Rock
+Slide
+NA
+6044
+HP/MAN/53E06/2016/50
+Himachal Pradesh
+Mandi
+ 
+N of Thanal, NH 305
+31.667562
+77.302261
+Debris
+Slide
+NA
+6045
+HP/MAN/53E02/2015/177
+Himachal Pradesh
+Mandi
+ 
+Near Bagi
+31.668472
+77.090667
+Debris
+Slide
+NA
+6046
+HP/MAN/53E02/2015/180
+Himachal Pradesh
+Mandi
+ 
+ 
+31.668472
+77.088333
+Rock cum debris
+Slide
+NA
+6047
+HP/MAN/53E02/2015/176
+Himachal Pradesh
+Mandi
+ 
+ 
+31.668472
+77.090667
+Debris
+Slide
+NA
+6048
+HP/MAN/53E02/2015/121
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.668556
+77.088389
+Debris
+Slide
+NA
+6049
+HP/MAN/53E02/2015/178
+Himachal Pradesh
+Mandi
+ 
+ 
+31.669
+77.088417
+Debris
+Slide
+NA
+6050
+HP/MAN/53E02/2015/179
+Himachal Pradesh
+Mandi
+ 
+ 
+31.669333
+77.087611
+Rock cum debris
+Slide
+NA
+6051
+HP/KUL/53E06/2016/83
+Himachal Pradesh
+Kullu
+ 
+Manjan
+31.671199
+77.307046
+Rock
+Fall
+NA
+6052
+HP/KUL/53E06/2016/117
+Himachal Pradesh
+Kullu
+ 
+S of Manglaur
+31.671695
+77.315732
+Rock
+Slide
+NA
+6053
+HP/MAN/53A14/2015/347
+Himachal Pradesh
+Mandi
+ 
+Gaira,NH 21
+31.671841
+76.946194
+Rock
+Slide
+NA
+6054
+HP/KUL/53E06/2016/116
+Himachal Pradesh
+Kullu
+ 
+Manglaur P.F
+31.672504
+77.316062
+Rock
+Slide
+1996
+6055
+HP/KUL/53E06/2016/109
+Himachal Pradesh
+Kullu
+ 
+N of Ghatghar
+31.67328
+77.335502
+Rock
+Fall
+NA
+6056
+HP/KUL/53E06/2016/110
+Himachal Pradesh
+Kullu
+ 
+N of Ghatghar
+31.673458
+77.337767
+Rock
+Fall
+NA
+6057
+HP/MAN/53E06/2016/49
+Himachal Pradesh
+Mandi
+ 
+Dari,NH 305
+31.674453
+77.29229
+Debris
+Subsidence
+NA
+6058
+HP/KUL/53E06/2016/66
+Himachal Pradesh
+Kullu
+ 
+Ritua
+31.675502
+77.301262
+Rock
+Slide
+NA
+6059
+HP/MAN/53A14/2015/341
+Himachal Pradesh
+Mandi
+ 
+Salhaini
+31.6757
+76.809728
+Rock cum debris
+Slide
+NA
+6060
+HP/KUL/53E06/2016/108
+Himachal Pradesh
+Kullu
+ 
+Ritua
+31.676184
+77.300374
+Rock cum debris
+Slide
+NA
+6061
+HP/MAN/53A14/2015/342
+Himachal Pradesh
+Mandi
+ 
+Salhaini
+31.676802
+76.810506
+Debris
+Slide
+NA

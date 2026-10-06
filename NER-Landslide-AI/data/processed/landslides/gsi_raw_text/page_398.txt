@@ -1,0 +1,403 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16291
+GA/NGA/48I02/2020/7
+Goa
+North Goa
+Cut Slope failure along Chorla ghat 
+road
+4.8 km east of Keri
+15.61
+74.11
+Debris
+Slide
+2020
+16292
+GA/NGA/48I02/2020/8
+Goa
+North Goa
+Cut Slope failure along Chorla ghat 
+road
+5.4 km east of Keri
+15.61
+74.11
+Debris
+Slide
+NA
+16293
+GA/NGA/48I02/2020/9
+Goa
+North Goa
+Cut Slope failure along Chorla ghat 
+road
+ 4 km south west of Chorla
+15.63
+74.12
+Debris
+Slide
+NA
+16294
+GA/NGA/48I02/2020/10
+Goa
+North Goa
+Cut Slope failure along Chorla ghat 
+road
+3.9 km south west of Chorla
+15.64
+74.12
+Debris
+Slide
+2020
+16295
+GA/NGA/48I02/2020/11
+Goa
+North Goa
+Cut Slope failure along Chorla ghat 
+road
+3.8 km south west of Chorla
+15.64
+74.11
+Debris
+Slide
+2020
+16296
+GO/NG/48E10/2015/08
+Goa
+North Goa
+ 
+South of Mandre
+15.646342
+74.718306
+Debris
+Slide
+NA
+16297
+GA/NGA/48I02/2020/12
+Goa
+North Goa
+Cut Slope failure along Chorla ghat 
+road
+2.9 km west of Chorla
+15.65
+74.12
+Debris
+Slide
+2020
+16298
+GA/NGA/48I02/2020/13
+Goa
+North Goa
+Cut Slope failure along Chorla ghat 
+road
+2 km west of Chorla
+15.65
+74.13
+Debris
+Slide
+2020
+16299
+GA/NGA/48I02/2020/14
+Goa
+North Goa
+Cut Slope failure along Chorla ghat 
+road
+1.9 km west of Chorla
+15.65
+74.13
+Debris
+Slide
+2020
+16300
+GA/NGA/48I02/2020/15
+Goa
+North Goa
+Cut Slope failure along Chorla ghat 
+road
+1.8 km west of Chorla
+15.65
+74.13
+Debris
+Slide
+NA
+16301
+GO/NG/48E14/2015/11
+Goa
+North Goa
+ 
+South of Parnem
+15.717903
+74.793694
+Debris
+Slide
+NA
+16302
+GO/NG/48E10/2015/09
+Goa
+North Goa
+ 
+South east of Kiranpani
+15.718819
+74.721806
+Debris
+Slide
+NA
+16303
+GO/NG/48E10/2015/10
+Goa
+North Goa
+ 
+Kiranpani
+15.722144
+74.720583
+Debris
+Slide
+NA
+16304
+MH/SIN/48E13/2016/47
+Maharashtra
+Sindhudurg
+Banda- Dodamarg area
+Banda-Dodamarg Area
+15.743528
+73.941
+Debris
+Slide
+2016
+16305
+MH/SIN/48E13/2016/48
+Maharashtra
+Sindhudurg
+Aronda-Malwad road
+Aronda-Malwad Road
+15.755333
+73.73075
+Debris
+Slide
+2016
+16306
+MH/SIN/48E13/2016/42
+Maharashtra
+Sindhudurg
+Shirwal Dam area
+Shirwal Dam Area
+15.774194
+74
+Rock cum Debris
+Slide
+2016
+16307
+MH/KOL/48I01/2017/15
+Maharashtra
+Kolhapur
+ 
+Road from Nidali to Shirwal
+15.774444
+74.000278
+Rock cum debris
+Subsidence
+NA
+16308
+MH/SIN/48E13/2016/39
+Maharashtra
+Sindhudurg
+Shirwal Dam area
+Shirwal Dam Area
+15.776333
+73.985917
+Earth
+Slide
+2016
+16309
+MH/SIN/48E13/2016/40
+Maharashtra
+Sindhudurg
+Shirwal Dam area
+Shirwal Dam Area
+15.776778
+73.987639
+Rock cum Debris
+Slide
+2016
+16310
+MH/SIN/48E13/2016/41
+Maharashtra
+Sindhudurg
+Shirwal Dam area
+Shirwal Dam Area
+15.777278
+73.989139
+Debris
+Slide
+2016
+16311
+MH/SIN/48E13/2016/44
+Maharashtra
+Sindhudurg
+Digne Galel road
+Digne Galel Road
+15.788611
+73.874667
+Debris
+Slide
+2016
+16312
+MH/SIN/48E13/2016/45
+Maharashtra
+Sindhudurg
+Digne Galel road
+Digne Galel Road
+15.789667
+73.874333
+Debris
+Slide
+2016
+16313
+MH/SIN/48E13/2016/46
+Maharashtra
+Sindhudurg
+Digne Galel road
+Digne Galel Road
+15.790722
+73.8705
+Debris
+Slide
+2016
+16314
+MH/SIN/48E13/2016/43
+Maharashtra
+Sindhudurg
+Banda-Goa Border
+Banda-Goa Border
+15.798694
+73.864583
+Debris
+Slide
+2016
+16315
+MH/SIN/48E13/2016/31
+Maharashtra
+Sindhudurg
+Talkat ghat
+Talkat Ghat Road
+15.802306
+73.946806
+Earth
+Slide
+2015
+16316
+MH/KOL/48I01/2017/6
+Maharashtra
+Kolhapur
+ 
+Road from Tilari Nagar to Konal 15.8025
+74.167222
+Rock
+Fall
+NA
+16317
+MH/SIN/48I01/2017/12
+Maharashtra
+Sindhudurg
+ 
+Road from Kharadi to Konal 
+Katta
+15.803611
+74.129722
+Debris
+Slide
+NA
+16318
+MH/SIN/48E13/2016/32
+Maharashtra
+Sindhudurg
+Talkat ghat
+Talkat Ghat Road
+15.803833
+73.947556
+Earth
+Slide
+2015
+16319
+MH/KOL/48I01/2017/4
+Maharashtra
+Kolhapur
+ 
+Road from Tilari Nagar to Konal 15.804167
+74.1625
+Rock cum debris
+Slide
+NA
+16320
+MH/KOL/48I01/2017/3
+Maharashtra
+Kolhapur
+ 
+Road from Tilari Nagar to Konal 15.804722
+74.160556
+Rock cum debris
+Slide
+NA
+16321
+MH/KOL/48I01/2017/5
+Maharashtra
+Kolhapur
+ 
+Road from Tilari Nagar to Konal 15.806667
+74.165
+Rock cum debris
+Slide
+NA
+16322
+MH/SIN/48E13/2016/38
+Maharashtra
+Sindhudurg
+Talkat-Kumbhavde
+Talkat-Kumbhavde Road
+15.812083
+73.970278
+Earth
+Slide
+2016
+16323
+MH/SIN/48E13/2016/35
+Maharashtra
+Sindhudurg
+Talkat-Kumbhavde
+Talkat-Kumbhavde Road
+15.815583
+73.976694
+Rock
+Slide
+2016
+16324
+MH/SIN/48E13/2016/36
+Maharashtra
+Sindhudurg
+Talkat-Kumbhavde
+Talkat-Kumbhavde Road
+15.816
+73.9765
+Rock cum Debris
+Slide
+2016
+16325
+MH/SIN/48E13/2016/37
+Maharashtra
+Sindhudurg
+Talkat-Kumbhavde
+Talkat-Kumbhavde Road
+15.816528
+73.976167
+Debris
+Slide
+2016

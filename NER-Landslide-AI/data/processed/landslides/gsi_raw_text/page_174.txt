@@ -1,0 +1,507 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+7432
+HP/KAN/43P15/2020/88
+Himachal Pradesh
+Kangra
+ 
+Sahhera
+32.31
+75.89
+Debris
+Slide
+2005
+7433
+HP/CHA/52D03/2020/12
+Himachal Pradesh
+Chamba
+Daintha
+Daintha-Chyur link road
+32.31
+76.05
+Debris
+Slide
+NA
+7434
+HP/CHA/52D03/2020/20
+Himachal Pradesh
+Chamba
+Kut village
+ 
+32.31
+76.05
+Debris
+Slide
+2017
+7435
+HP/CHA/52D03/2020/21
+Himachal Pradesh
+Chamba
+Chyur Village
+ 
+32.31
+76.05
+Debris
+Slide
+NA
+7436
+HP/CHA/52D03/2020/22
+Himachal Pradesh
+Chamba
+Chyur village
+ 
+32.31
+76.06
+Debris
+Slide
+NA
+7437
+HP/CHA/52D03/2020/53
+Himachal Pradesh
+Chamba
+Chyur
+Godra-Siyun link road
+32.31
+76.05
+Debris
+Slide
+NA
+7438
+HP/CHA/52D03/2020/57
+Himachal Pradesh
+Chamba
+Chyur
+Daintha-Chyur link road
+32.31
+76.05
+Debris
+Slide
+2015
+7439
+HP/CHA/52D03/2020/58
+Himachal Pradesh
+Chamba
+Chyur
+Daintha-Chyur link road
+32.31
+76.06
+Debris
+Slide
+NA
+7440
+HP/CHA/52D03/2020/62
+Himachal Pradesh
+Chamba
+Chyur
+ 
+32.31
+76.06
+Debris
+Slide
+2015
+7441
+HP/CHA/52D03/2020/63
+Himachal Pradesh
+Chamba
+Chyur
+ 
+32.31
+76.06
+Debris
+Slide
+2010
+7442
+HP/CHA/52D03/2020/69
+Himachal Pradesh
+Chamba
+Near Chyur
+Daintha-Chayur link road
+32.31
+76.06
+Debris
+Slide
+NA
+7443
+HP/CHA/52D03/2020/73
+Himachal Pradesh
+Chamba
+Sihunta
+SH-28
+32.31
+76.08
+Debris
+Slide
+2014
+7444
+HP/KAN/52D03/2020/117
+Himachal Pradesh
+Kangra
+ 
+Near Boh Village
+32.31
+76.17
+Debris
+Slide
+2017
+7445
+HP/CHA/52D11/2020/61
+Himachal Pradesh
+Chamba
+ 
+Sukra-Holi-Naya Gaon Rd
+32.31
+76.58
+Debris
+Slide
+NA
+7446
+HP/CHA/52D11/2020/121
+Himachal Pradesh
+Chamba
+ 
+Sukra-Holi-Naya Gaon Rd
+32.31
+76.57
+Debris
+Slide
+NA
+7447
+HP/KUL/52H03/2015/78
+Himachal Pradesh
+Kullu
+ 
+Marhi-Palchan Road NH-21
+32.3145
+77.1829
+Debris
+Slide
+NA
+7448
+HP/KUL/52H03/2015/77
+Himachal Pradesh
+Kullu
+ 
+Marhi-Palchan Road NH-21
+32.3155
+77.1837
+Debris
+Slide
+NA
+7449
+HP/KUL/52H03/2015/48
+Himachal Pradesh
+Kullu
+ 
+Palchan-Rohtang Tunnel
+32.3166
+77.1547
+Debris
+Slide
+NA
+7450
+HP/KUL/52H03/2015/74
+Himachal Pradesh
+Kullu
+ 
+Marhi-Palchan Road NH-21
+32.3191
+77.2034
+Debris
+Slide
+NA
+7451
+HP/KUL/52H03/2015/47
+Himachal Pradesh
+Kullu
+ 
+Palchan-Rohtang Tunnel
+32.3196
+77.1526
+Debris
+Slide
+NA
+7452
+HP/CHA/52D03/2020/19
+Himachal Pradesh
+Chamba
+Bhajan village
+Tundi-Bhajan link road
+32.32
+76.05
+Debris
+Slide
+2017
+7453
+HP/CHA/52D03/2020/61
+Himachal Pradesh
+Chamba
+Kut village
+ 
+32.32
+76.05
+Debris
+Slide
+NA
+7454
+HP/CHA/52D03/2020/64
+Himachal Pradesh
+Chamba
+ Bharari village
+Tundi-Bharari link road
+32.32
+76.05
+Rock
+Slide
+2017
+7455
+HP/CHA/52D11/2020/123
+Himachal Pradesh
+Chamba
+ 
+Sukra-Holi-Naya Gaon Rd
+32.32
+76.56
+Debris
+Slide
+NA
+7456
+HP/CHA/52D11/2020/124
+Himachal Pradesh
+Chamba
+ 
+Sukra-Holi-Naya Gaon Rd
+32.32
+76.56
+Debris
+Slide
+NA
+7457
+HP/KUL/52H03/2015/115
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3205
+77.1514
+Debris
+Slide
+NA
+7458
+HP/KUL/52H03/2015/46
+Himachal Pradesh
+Kullu
+ 
+Palchan-Rohtang Tunnel
+32.3209
+77.1507
+Rock
+Slide
+NA
+7459
+HP/KUL/52H03/2015/75
+Himachal Pradesh
+Kullu
+ 
+Marhi-Palchan Road NH-21
+32.3218
+77.203
+Debris
+Slide
+NA
+7460
+HP/KUL/52H03/2015/114
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3225
+77.1495
+Debris
+Flow
+NA
+7461
+HP/KUL/52H03/2015/76
+Himachal Pradesh
+Kullu
+ 
+Marhi-Palchan Road NH-21
+32.3244
+77.2043
+Debris
+Slide
+NA
+7462
+HP/KUL/52H03/2015/73
+Himachal Pradesh
+Kullu
+ 
+Marhi-Palchan Road NH-21
+32.3247
+77.2073
+Debris
+Slide
+NA
+7463
+HP/KUL/52H03/2015/72
+Himachal Pradesh
+Kullu
+ 
+Marhi-Palchan Road NH-21
+32.3252
+77.2077
+Debris
+Slide
+NA
+7464
+HP/KUL/52H03/2015/113
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3253
+77.1493
+Debris
+Slide
+NA
+7465
+HP/KUL/52H03/2015/71
+Himachal Pradesh
+Kullu
+ 
+Marhi-Palchan Road NH-21
+32.3275
+77.2105
+Debris
+Slide
+NA
+7466
+HP/KAN/43P15/2020/84
+Himachal Pradesh
+Kangra
+ 
+Maira village
+32.33
+75.82
+Debris
+Slide
+2010
+7467
+HP/CHA/52D03/2020/74
+Himachal Pradesh
+Chamba
+Samot
+ 
+32.33
+76.08
+Debris
+Slide
+2017
+7468
+HP/CHA/52D11/2020/125
+Himachal Pradesh
+Chamba
+ 
+Holi Bazar
+32.33
+76.55
+Debris
+Slide
+NA
+7469
+HP/CHA/52D11/2020/126
+Himachal Pradesh
+Chamba
+ 
+Sukra-Holi-Naya Gaon Rd
+32.33
+76.55
+Debris
+Slide
+NA
+7470
+HP/CHA/52D11/2020/129
+Himachal Pradesh
+Chamba
+ 
+Holi
+32.33
+76.55
+Debris
+Slide
+NA
+7471
+HP/KUL/52H03/2015/70
+Himachal Pradesh
+Kullu
+ 
+Marhi-Palchan Road NH-21
+32.3312
+77.2123
+Rock
+Topple
+NA
+7472
+HP/KUL/52H03/2015/111
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3331
+77.1457
+Debris
+Slide
+NA
+7473
+HP/KUL/52H03/2015/112
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3331
+77.1457
+Debris
+Slide
+NA
+7474
+HP/KUL/52H03/2015/69
+Himachal Pradesh
+Kullu
+ 
+Marhi-Palchan Road NH-21
+32.3338
+77.2155
+Debris
+Slide
+NA
+7475
+HP/KUL/52H03/2015/109
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3341
+77.1442
+Rock
+Slide
+NA
+7476
+HP/KUL/52H03/2015/110
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3341
+77.1442
+Debris
+Slide
+NA

@@ -1,0 +1,376 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12183
+KA/UTT/48J16/2018/76
+Karnataka
+Uttar Kannada
+0.3Km SW of Samase
+Tumari-Kalasavalli inter link 
+road
+14.049914
+74.853911
+Debris
+Slide
+NA
+12184
+KA/UTT/48J16/2018/75
+Karnataka
+Uttar Kannada
+Samase
+Tumari-Kalasavalli inter link 
+road
+14.052469
+74.860161
+Soil
+Slide
+NA
+12185
+KA/UTT/48J16/2018/46
+Karnataka
+Uttar Kannada
+Kalur
+Bakkod-Banakuli interlink road
+14.058392
+74.8035
+Soil
+Slide
+NA
+12186
+KA/UTT/48J16/2018/47
+Karnataka
+Uttar Kannada
+Kalur 1
+Bakkod-Banakuli interlink road
+14.059347
+74.80565
+Soil
+Slide
+NA
+12187
+KA/SHI/48N04/2020/1
+Karnataka
+Shimoga
+Genasinakuni- Heggodu road
+Genasinakuni- Heggodu road
+14.06
+75.04
+Earth
+Slide
+2019
+12188
+KA/UTT/48J16/2018/48
+Karnataka
+Uttar Kannada
+Kalur 2
+Bakkod-Banakuli interlink road
+14.062503
+74.808583
+Soil
+Slide
+NA
+12189
+KA/UTT/48J16/2018/51
+Karnataka
+Uttar Kannada
+0.8 KM NNw of Sulemakki
+Murakki-Chadravalli interlink 
+road
+14.065306
+74.832344
+Soil
+Slide
+NA
+12190
+KA/UTT/48J16/2018/77
+Karnataka
+Uttar Kannada
+Kandavalli
+Tumari-BanUTTulli inter link 
+road
+14.073758
+74.821681
+Debris
+Slide
+NA
+12191
+KA/UTT/48J16/2018/49
+Karnataka
+Uttar Kannada
+BanUTTuli
+Bakkod-Banakuli interlink road
+14.077044
+74.811725
+Soil
+Slide
+NA
+12192
+KA/UTT/48J16/2018/50
+Karnataka
+Uttar Kannada
+BanUTTuli 1
+Bakkod-Banakuli interlink road
+14.079661
+74.811728
+Soil
+Slide
+NA
+12193
+KA/UTT/48J12/2018/32
+Karnataka
+Uttar Kannada
+Kavati
+Bhatkal-Kargal road
+14.080858
+74.742881
+Soil
+Slide
+NA
+12194
+KA/UTT/48J12/2018/33
+Karnataka
+Uttar Kannada
+Kavati 1
+Bhatkal-Kargal road
+14.080917
+74.743478
+Soil
+Slide
+NA
+12195
+KA/SHI/48N04/2020/3
+Karnataka
+Shimoga
+Avinahalli-Chikkamattur road
+Avinahalli-Chikkamattur road
+14.09
+75
+Debris
+Slide
+NA
+12196
+KA/UTT/48J12/2018/09
+Karnataka
+Uttar Kannada
+Nagavalli
+Bhatkal-Kargal road
+14.091894
+74.670994
+Soil
+Slide
+NA
+12197
+KA/UTT/48J12/2018/10
+Karnataka
+Uttar Kannada
+Nagavalli  1
+Bhatkal-Kargal road
+14.096
+74.675528
+Soil
+Slide
+NA
+12198
+KA/UTT/48J12/2018/11
+Karnataka
+Uttar Kannada
+Nagavalli 2
+Bhatkal-Kargal road
+14.096253
+74.678681
+Soil
+Slide
+NA
+12199
+KA/SHI/48N04/2020/2
+Karnataka
+Shimoga
+Vill.  Mumbala
+Vill.  Mumbala
+14.1
+75.21
+Debris
+Slide
+NA
+12200
+KA/UTT/48J16/2018/79
+Karnataka
+Uttar Kannada
+Naduvaddahalli
+Karkikoppa-Naduvaddahalli 
+inter link road
+14.112739
+74.980333
+Soil
+Slide
+NA
+12201
+KA/UTT/48J16/2018/85
+Karnataka
+Uttar Kannada
+Naduvaddahalli
+Karkikoppa-Sidebail inter link 
+road
+14.114
+74.976431
+Soil
+Slide
+NA
+12202
+KA/UTT/48J16/2018/78
+Karnataka
+Uttar Kannada
+Vaddahalli
+Karkikoppa-Naduvaddahalli 
+inter link road
+14.119419
+74.986361
+Debris
+Slide
+NA
+12203
+KA/UTT/48J16/2018/82
+Karnataka
+Uttar Kannada
+Ramanagadde 1
+Tumbe-Ramanagadde inter link 
+road
+14.120367
+74.973403
+Debris
+Slide
+NA
+12204
+KA/UTT/48J16/2018/80
+Karnataka
+Uttar Kannada
+Ramanagadde
+Tumbe-Ramanagadde inter link 
+road
+14.120372
+74.971867
+Debris
+Slide
+NA
+12205
+KA/UTT/48J16/2018/81
+Karnataka
+Uttar Kannada
+Tumbe
+Tumbe-Ramanagadde inter link 
+road
+14.127425
+74.970967
+Soil
+Slide
+NA
+12206
+KA/UTT/48J16/2018/83
+Karnataka
+Uttar Kannada
+Marakatte
+Karikikoppa-Kerehalli interlink 
+road
+14.127831
+74.961164
+Debris
+Slide
+NA
+12207
+KA/UTT/48J16/2018/84
+Karnataka
+Uttar Kannada
+0.4Km NNE of Marakatte
+NULL
+14.128722
+74.963661
+Debris
+Slide
+NA
+12208
+KA/UTT/48J12/2018/35
+Karnataka
+Uttar Kannada
+Bellur
+Bilagar-Bellur interlink road
+14.137206
+74.700028
+Debris
+Slide
+NA
+12209
+KA/UTT/48J12/2018/34
+Karnataka
+Uttar Kannada
+Togachi
+NULL
+14.143389
+74.722225
+Soil
+Slide
+NA
+12210
+KA/UTT/48J16/2018/66
+Karnataka
+Uttar Kannada
+Aravadi
+Aravadi-HUTTklu inter link road 14.147194
+74.791139
+Debris
+Slide
+NA
+12211
+KA/UTT/48J16/2018/67
+Karnataka
+Uttar Kannada
+0.62Km NNW of Talaguni
+Jog-Kargal road
+14.165567
+74.818631
+Debris
+Slide
+NA
+12212
+KA/UK/48J08/2015/225
+Karnataka
+Uttar Kannada
+ 
+NH-17
+14.167197
+74.493886
+Debris
+Slide
+NA
+12213
+KA/UTT/48J12/2018/86
+Karnataka
+Uttar Kannada
+1.2Km Surimane
+Nagarbastikere-Surimane 
+interlink road
+14.170025
+74.713867
+Debris
+Slide
+NA
+12214
+KA/UTT/48J12/2018/87
+Karnataka
+Uttar Kannada
+1.04Km NE of Geripal
+Nagarbastikere-Surimane 
+interlink road
+14.173411
+74.734375
+Debris
+Slide
+NA

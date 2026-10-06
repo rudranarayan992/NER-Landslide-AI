@@ -1,0 +1,337 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+24409
+NG/KOH/83G14/2015/2
+Nagaland
+Kohima
+ 
+Between Khonoma & Dziilekie
+25.645
+93.992
+Debris
+Slide
+2015
+24410
+NG/KOH/83K2/2015/63
+Nagaland
+Kohima
+ 
+Kohima-Khonoma-Pedi-Peren 
+SH
+25.646
+94.033
+Debris
+Slide
+2013
+24411
+NG/KOH/83K2/2015/197
+Nagaland
+Kohima
+ 
+On Kohima-Chakhabama road
+25.646
+94.177
+Debris
+Subsidence
+NA
+24412
+NG/PER/83G14/2015/29
+Nagaland
+Peren
+ 
+South of Sainik School, Punglwa 25.646
+93.843
+Debris
+Slide
+2010
+24413
+NG/PHE/83K6/2015/324
+Nagaland
+Phek
+ 
+Phek-Lanye road.
+25.646
+94.479
+Debris
+Composite
+NA
+24414
+NG/PHE/83K6/2015/328
+Nagaland
+Phek
+ 
+Pholami village
+25.646
+94.378
+Debris
+Subsidence
+NA
+24415
+NG/PHE/83K14/2017/4
+Nagaland
+Phek
+ 
+Waziho to Mokie
+25.646389
+94.766389
+Debris
+Slide
+NA
+24416
+NG/PHE/83K6/2015/288
+Nagaland
+Phek
+ 
+Pholami village
+25.647
+94.378
+Debris
+Slide
+2014
+24417
+NG/PHE/83K6/2015/298
+Nagaland
+Phek
+ 
+Pfiitsero-Sakraba-Phek road
+25.647
+94.361
+Debris
+Slide
+2015
+24418
+NG/PHE/83K6/2015/294
+Nagaland
+Phek
+ 
+Phek-Lanye road.
+25.647
+94.481
+Debris
+Subsidence
+NA
+24419
+NG/KOH/83K2/2015/173
+Nagaland
+Kohima
+ 
+NW downslope of Pfiichama 
+village, along Lerie-Pfiichama 
+approach road (right bank of 
+stream)
+25.648
+94.124
+Debris
+Slide
+NA
+24420
+NG/KOH/83K2/2015/113
+Nagaland
+Kohima
+ 
+Between Lerie and Pfiichama 
+along Lerie-Pfiichama approach 
+road
+25.649
+94.121
+Debris
+Slide
+2013
+24421
+NG/PHE/83K6/2015/336
+Nagaland
+Phek
+ 
+Pfiitsero-Sakraba-Phek road
+25.649
+94.441
+Rock
+Slide
+2014
+24422
+NG/PHE/83K10/2017/5
+Nagaland
+Phek
+ 
+Waziho to Zipu
+25.649428
+94.737028
+Debris
+Slide
+NA
+24423
+NG/KOH/83K2/2015/85
+Nagaland
+Kohima
+ 
+Kohima-Khonoma-Pedi-Peren 
+SH (at km 16.490)
+25.65
+94.03
+Rock
+Slide
+2014
+24424
+NG/KOH/83K2/2015/37
+Nagaland
+Kohima
+ 
+Between Lerie and Pfiichama 
+along Lerie-Pfiichama approach 
+road (below road bench)
+25.65
+94.122
+Debris
+Slide
+2014
+24425
+NG/KOH/83K2/2015/34
+Nagaland
+Kohima
+ 
+Between Lerie and Pfiichama 
+along Lerie-Pfiichama approach 
+road
+25.65
+94.122
+Debris
+Slide
+2013
+24426
+NG/PHE/83K10/2017/25
+Nagaland
+Phek
+ 
+LanezhoKizare road
+25.650111
+94.510556
+Debris
+Slide
+NA
+24427
+NG/PHE/83K10/2017/24
+Nagaland
+Phek
+ 
+LanezhoKizare road
+25.650556
+94.5095
+Rock
+Slide
+NA
+24428
+NL/KOH/83K02/2014/46
+Nagaland
+Kohima
+St. Bosco School Khonama rock slide
+Kohima-Khonoma-Pedi-Peren 
+SH (at km 16.490)
+25.65072
+94.03294
+Rock
+Slide
+2014
+24429
+NG/KOH/83K2/2015/99
+Nagaland
+Kohima
+ 
+Southeastern downslope of 
+Lerie
+25.651
+94.119
+Debris
+Slide
+2010
+24430
+NG/PHE/83K6/2015/270
+Nagaland
+Phek
+ 
+Pfiitsero-Phesachodu-Chetheba 
+road.
+25.651
+94.289
+Rock
+Slide
+NA
+24431
+NG/KOH/83K2/2015/50
+Nagaland
+Kohima
+ 
+Mohonkhola colony
+25.651
+94.097
+Debris
+Slide
+2009
+24432
+NG/KOH/83K2/2015/52
+Nagaland
+Kohima
+ 
+Between Lerie and Pfiichama 
+along Lerie-Pfiichama approach 
+road
+25.651
+94.121
+Debris
+Slide
+2011
+24433
+NG/KOH/83K2/2015/40
+Nagaland
+Kohima
+ 
+Southeastern downslope of 
+Lerie
+25.651
+94.119
+Debris
+Slide
+2010
+24434
+NG/KOH/83K2/2015/118
+Nagaland
+Kohima
+ 
+Southeastern downslope of 
+Lerie
+25.651
+94.12
+Debris
+Slide
+2010
+24435
+NG/PHE/83K10/2017/26
+Nagaland
+Phek
+ 
+LanezhoKizare road
+25.651
+94.514833
+Rock
+Slide
+NA
+24436
+NG/PHE/83K10/2017/27
+Nagaland
+Phek
+ 
+LanezhoKizare road
+25.651528
+94.52225
+Rock
+Slide
+NA

@@ -1,0 +1,454 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28813
+WB/DAR/78B05/2015/579
+West Bengal
+Darjeeling
+MAHANADI WLS
+ 
+26.896043
+88.465511
+Rock
+Slide
+2014
+28814
+WB/DAR/78B05/2015/587
+West Bengal
+Darjeeling
+Mahanadi WLS
+ 
+26.89653
+88.461562
+Rock
+Slide
+2014
+28815
+WB/DAR/78B05/2015/434
+West Bengal
+Darjeeling
+Mahanadi Wild life
+ 
+26.897156
+88.439336
+Debris
+Slide
+2004
+28816
+WB/DAR/78B05/2015/402
+West Bengal
+Darjeeling
+NH55  At Km 52 from Siliguri
+At Km 52 from Siliguri on NH 55 26.897654
+88.288877
+Rock
+Flow
+1998
+28817
+WB/DAR/78B05/2015/563
+West Bengal
+Darjeeling
+Mahanadi WLS
+ 
+26.897797
+88.422378
+Debris
+Slide
+2013
+28818
+WB/DAR/78B05/2015/444
+West Bengal
+Darjeeling
+Mahanadi WLS
+ 
+26.897877
+88.47225
+Rock
+Slide
+2004
+28819
+WB/DAR/78B01/2021/PDLS/19
+West Bengal
+Darjeeling
+N/A
+N/A
+26.89797473
+88.173442
+Debris
+Slide
+October 2021
+28820
+WB/DAR/78B05/2015/708
+West Bengal
+Darjeeling
+Kharey Khola
+NH-55
+26.898056
+88.286639
+Rock
+Slide
+2015
+28821
+WB/DAR/78B05/2015/415
+West Bengal
+Darjeeling
+Khundrukbasti
+ 
+26.89822
+88.310981
+Debris
+Slide
+2001
+28822
+WB/DAR/78B05/2015/439
+West Bengal
+Darjeeling
+Mahanadi WLS
+ 
+26.898262
+88.447834
+Debris
+Slide
+2004
+28823
+WB/DAR/78B05/2015/633
+West Bengal
+Darjeeling
+Goethals MH55
+Goethals MH55
+26.898286
+88.286762
+Debris
+Slide
+2015
+28824
+WB/DAR/78B05/2015/578
+West Bengal
+Darjeeling
+MAHANADI WLS
+ 
+26.898939
+88.425523
+Debris
+Slide
+2014
+28825
+WB/DAR/78B09/2015/831
+West Bengal
+Darjeeling
+NG75  TIRI
+ 
+26.899079
+88.532117
+Debris
+Slide
+2015
+28826
+WB/DAR/78B05/2015/438
+West Bengal
+Darjeeling
+MahanadiWLS
+ 
+26.899613
+88.448605
+Debris
+Slide
+2004
+28827
+WB/DAR/78B05/2015/474
+West Bengal
+Darjeeling
+NG68 NW OF TIRI
+ 
+26.900007
+88.499911
+Debris
+Slide
+2006
+28828
+WB/DAR/78B09/2015/743
+West Bengal
+Darjeeling
+NG69 NW OF TIRI
+ 
+26.900332
+88.50427
+Debris
+Slide
+2015
+28829
+WB/DAR/78B05/2015/514
+West Bengal
+Darjeeling
+Mahanadi Wild life
+ 
+26.90045
+88.427362
+Debris
+Slide
+2010
+28830
+WB/DAR/78B01/2021/PDLS/20
+West Bengal
+Darjeeling
+N/A
+N/A
+26.9005964
+88.16646107
+Debris
+Slide
+October 2021
+28831
+WB/DAR/78B05/2015/561
+West Bengal
+Darjeeling
+Mhaldiram
+Mhaldiram
+26.900657
+88.307456
+Debris
+Slide
+2013
+28832
+WB/DAR/78B05/2015/522
+West Bengal
+Darjeeling
+Mahaldiram
+Mahaldiram road
+26.900861
+88.307667
+Rock
+Slide
+2010
+28833
+WB/DAR/78B05/2015/424
+West Bengal
+Darjeeling
+NH31A_Coronation Bridge
+NH31A
+26.901222
+88.471667
+Rock
+Slide
+2003
+28834
+WB/DAR/78B05/2015/482
+West Bengal
+Darjeeling
+Goethals School Slide
+NH-55, just below the Goethals 
+School play ground
+26.90128
+88.28801
+Debris
+Slide
+2007
+28835
+WB/DAR/78B05/2015/518
+West Bengal
+Darjeeling
+NH 10 cornation bridge
+ 
+26.901453
+88.47085
+Debris
+Slide
+2010
+28836
+WB/DAR/78B09/2015/742
+West Bengal
+Darjeeling
+NG76  TIRI
+ 
+26.901466
+88.536081
+Debris
+Slide
+2015
+28837
+WB/DAR/78B05/2015/576
+West Bengal
+Darjeeling
+Mahanadi WLS
+ 
+26.901728
+88.436869
+Debris
+Slide
+2014
+28838
+WB/DAR/78B05/2015/690
+West Bengal
+Darjeeling
+NG3, TISTA CHEL RF, NEAR 
+CORONATION BRIDGE
+ 
+26.901861
+88.47693
+Rock
+Slide
+2015
+28839
+WB/DAR/78B05/2015/483
+West Bengal
+Darjeeling
+Lower Kharay
+KurseongCity
+26.90201
+88.27802
+Debris
+Slide
+2007
+28840
+WB/DAR/78B05/2015/499
+West Bengal
+Darjeeling
+Pangre Khola
+ 
+26.902132
+88.342783
+Debris
+Slide
+2010
+28841
+WB/DAR/78B01/2021/PDLS/21
+West Bengal
+Darjeeling
+N/A
+N/A
+26.90213233
+88.16521821
+Debris
+Slide
+October 2021
+28842
+WB/DAR/78B01/2021/PDLS/22
+West Bengal
+Darjeeling
+N/A
+N/A
+26.90232173
+88.16524029
+Debris
+Slide
+October 2021
+28843
+WB/DAR/78B09/2015/746
+West Bengal
+Darjeeling
+NG70 NW OF TIRI
+ 
+26.902379
+88.511576
+Debris
+Slide
+2015
+28844
+WB/DAR/78B01/2021/PDLS/23
+West Bengal
+Darjeeling
+N/A
+N/A
+26.90252984
+88.16518201
+Debris
+Slide
+October 2021
+28845
+WB/DAR/78B09/2015/829
+West Bengal
+Darjeeling
+NG74 NW OF TIRI
+ 
+26.902743
+88.513733
+Debris
+Slide
+2015
+28846
+WB/DAR/78B05/2015/511
+West Bengal
+Darjeeling
+Babukhola
+ 
+26.90301
+88.327982
+Debris
+Slide
+2010
+28847
+WB/DAR/78B01/2021/PDLS/24
+West Bengal
+Darjeeling
+N/A
+N/A
+26.90306691
+88.16464378
+Debris
+Slide
+October 2021
+28848
+WB/DAR/78B09/2015/745
+West Bengal
+Darjeeling
+NG72 NW OF TIRI
+ 
+26.903347
+88.511425
+Debris
+Slide
+2015
+28849
+WB/DAR/78B09/2015/744
+West Bengal
+Darjeeling
+NG71 NW OF TIRI
+ 
+26.903425
+88.510909
+Debris
+Slide
+2015
+28850
+WB/DAR/78B05/2015/484
+West Bengal
+Darjeeling
+Goethals School Slide
+Old Slide on NH-55 near 
+Goethals School
+26.90376
+88.28957
+Debris
+Slide
+2007
+28851
+WB/DAR/78B05/2015/510
+West Bengal
+Darjeeling
+Mahanadi
+Mahanadi
+26.903893
+88.413924
+Rock
+Slide
+2010
+28852
+WB/DAR/78B05/2015/631
+West Bengal
+Darjeeling
+Khahre Basti
+Khahre Basti
+26.904167
+88.287444
+Debris
+Slide
+2015

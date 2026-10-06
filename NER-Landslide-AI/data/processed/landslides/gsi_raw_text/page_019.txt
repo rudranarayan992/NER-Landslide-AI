@@ -1,0 +1,305 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+620
+AS/CAC/83D09/2025/5
+Assam
+Cachar
+Ujan Nagar Landslide
+Ujan Nagar
+24.95794
+92.73201
+Debris
+Slide
+ April 2025
+621
+AS/CAC/83D09/2025/6
+Assam
+Cachar
+Thandacharra Landslide
+Borkhola
+24.95054
+92.731458
+Earth
+Slide
+ June 2025
+622
+AS/CAC/83D09/2025/7
+Assam
+Cachar
+Natun Basti Landslide
+Borkhola
+24.94756
+92.73097
+Earth
+Slide
+ June 2025
+623
+ASM/DH/83G04/2022-23/014
+Assam
+Dima Hasao
+South Bagetar Slide 1
+South Bagetar
+25.16736
+93.00953
+Debris
+Slide
+15 May 2022
+624
+ASM/DH/83G04/2022-23/017
+Assam
+Dima Hasao
+Kana Basti Slide 2
+Kana Basti, Haflong
+25.16023
+93.01084
+Debris
+Slide
+14 May 2022
+625
+ASM/DH/83G04/2022-23/018
+Assam
+Dima Hasao
+Natun Basti  Slide 1
+Natun Basti, Haflong
+25.162389
+93.010222
+Debris
+Slide
+14th April 2022
+626
+ASM/DH/83G04/2022-23/019
+Assam
+Dima Hasao
+Natun Basti  Slide 2
+Natun Basti, Haflong
+25.1625278
+93.0103333
+Debris
+Slide
+14th – 15th April 2022
+627
+ASM/DH/83G04/2022-23/020
+Assam
+Dima Hasao
+Natun Basti  Slide 3
+Natun Basti, Haflong
+25.162472
+93.01044
+Debris
+Slide
+14th – 15th April 2022
+628
+ASM/DH/83G04/2022-23/009
+Assam
+Dima Hasao
+Fiangpui Subsidence
+Fiangpui, Haflong
+25.17175
+93.00726
+Debris
+Subsidence
+14th – 16th May 2022
+629
+ASM/DH/83G04/2022-23/028
+Assam
+Dima Hasao
+Bethany Slide 1
+Bethany, Haflong
+25.16649
+93.01092
+Debris
+Slide
+14th - 15thMay 2022
+630
+ASM/DH/83G04/2022-23/029
+Assam
+Dima Hasao
+Dibarai Slide
+Dibarai village
+25.170194
+93.007389
+Debris
+Slide
+15th May 2022
+631
+ASM/DH/83G04/2022-23/046
+Assam
+Dima Hasao
+Fiangpui Slide 2
+Fiangpui, Haflong 
+25.17144
+93.005694
+Debris
+Slide
+14th  – 15th  May 2022
+632
+ASM/DH/83G04/2022-23/015
+Assam
+Dima Hasao
+South Bagetar Slide 2
+South Bagetar
+25.16579
+93.00948
+Debris
+Slide
+14 May 2022
+633
+ASM/DH/83G04/2022-23/016
+Assam
+Dima Hasao
+Kana Basti Slide 1
+Kana Basti, Haflong
+25.15859
+93.01292
+Debris
+Slide
+14 May 2022
+634
+AS/KAMRUP(M)/78N16/2014-
+15/0006
+Assam
+Kamrup (Metro)
+Dakhingaon, slide.
+Near Kahilipara-Ganesh mandir 
+road.
+26.13441667
+91.74875
+Debris
+Flow
+22 September 2014
+635
+AS/KAMRUP(M)/78N16/2014-
+15/0008
+Assam
+Kamrup (Metro)
+Lichubagan  Landslide
+Hegrabari Road, near 
+Ganeshguri, Guwahati.
+26.15461111
+91.80086111
+Earth
+Flow
+NA
+636
+AS/KAMRUP(M)/78N16/2014-
+15/0007
+Assam
+Kamrup (Metro)
+Ganeshpur-Lalmati Slide
+About 500 m south of Game 
+village, Lalmati, NH-37
+26.10711111
+91.78916667
+Earth
+Flow
+23 September 2014
+637
+AS/KAMRUP/78N12/2015-
+16/0004
+Assam
+Kamrup 
+Jorabat-Khanapara
+About 200 m North of NH-31, In 
+front of IIT(G) approach
+26.09961111
+91.87811111
+Earth
+Slide the loose 
+soil from top 
+(already cut in 
+the area) due 
+to heavy rain.
+25 September 2014
+638
+AS/KAMRUP/78N12/2015-
+16/0003
+Assam
+Kamrup 
+Kalapahar, Binobha Nagar.
+Paltan Bazar-Lakhra Road
+26.14944444
+91.748
+Earth
+Slide
+23rd September 2014
+639
+AS/KAMRUP/78N12/2015-
+16/0002
+Assam
+Kamrup 
+Landslide on the road 1km to 
+Bhubaneswari Temple, Nilachal Pahar, 
+Guwahati.
+Kamakhya Pahar to 
+Bhubaneswari Temple Road.
+26.16658333
+91.71480556
+Rock
+Slide
+NA
+640
+ASM/DH/83G04/2022-23/027
+Assam
+Dima Hasao
+Mahadev Tilla Slide 1
+Mahadev Tilla, Haflong
+25.15556
+93.021583
+Debris
+Slide
+14 May 2022
+641
+ASM/DH/83G04/2022-23/008
+Assam
+Dima Hasao
+Mahadev Tilla Subsidence
+Mahadev Tilla, Haflong
+25.156483
+93.018367
+Debris
+Subsidence
+2016 and 14th – 16th May 2022
+642
+ASM/DH/83G04/2022-23/026
+Assam
+Dima Hasao
+Lower Songpijang Slide 1
+Lower Sonpijang, Haflong
+25.158138
+93.024778
+Earth
+Slide
+15 May 2022
+643
+ASM/DH/83G4/ PD/2016/55
+Assam
+Dima Hasao (N.C. Hills)
+Nutan Lampur slide -1
+NH 54, near Nutan Lampur
+25.24194444
+93.14319444
+Debris
+Slide 
+22 May 2016
+644
+ASM/DH/83G4/ PD/2016/04
+Assam
+Dima Hasao (N.C. Hills)
+Mupa – Langting  RF Rock slide
+NH 54, Mupa – Langting 
+Reserved Forest, 
+25.41733333
+93.12908333
+Rock
+Slide 
+22 May 2016

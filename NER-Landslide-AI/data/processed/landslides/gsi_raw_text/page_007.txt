@@ -1,0 +1,396 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+217
+AS/DIH/83G08/2020/1
+Assam
+Dima Hasao
+ 
+Data collected from Mahur-
+Toulpui road.
+25.2
+93.25
+Rock
+Slide
+NA
+218
+AS/DIH/83G08/2020/43
+Assam
+Dima Hasao
+ 
+ Mahur-Toulpui road.
+25.2
+93.25
+Rock
+Slide
+NA
+219
+AS/DIM/83G4/2015/50
+Assam
+Dima Hasao
+Heuwangbram
+Near Heuwangbram ,NH-54
+25.201
+93.122
+Earth
+Slide
+2014
+220
+AS/DIM/83G4/2015/48
+Assam
+Dima Hasao
+Riao
+Near Riao Village.
+25.204
+93.059
+Earth
+Slide
+NA
+221
+ASM/DH/83G4/2016/54
+Assam
+Dima Hasao
+Phaiding slide
+Phaiding, Haflong
+25.204556
+93.138889
+Debris
+Slide
+2016
+222
+AS/DIM/83G4/2015/46
+Assam
+Dima Hasao
+Pangmol-2
+Near Pangmol village
+25.205
+93.059
+Earth
+Slide
+NA
+223
+AS/DIM/83G4/2015/47
+Assam
+Dima Hasao
+Riao
+Near Riao village.
+25.205
+93.008
+Earth
+Slide
+NA
+224
+ASM/DH/83G4/2016/07
+Assam
+Dima Hasao
+Haflong – Gunjung slide-1
+Near  Gunjung village road 
+section
+25.205528
+93.020139
+Rock cum Debris
+Slide
+2016
+225
+AS/DIM/83G4/2015/53
+Assam
+Dima Hasao
+Semdikhar
+Semdikhar,NH-54
+25.206
+93.126
+Earth
+Slide
+2014
+226
+ASM/DH/83G4/2016/03
+Assam
+Dima Hasao
+Heuwangberam subsidence zone-1
+NH 54, Heuwangberam
+25.207389
+93.122778
+Debris
+Subsidence
+2016
+227
+AS/DIM/83G4/2015/51
+Assam
+Dima Hasao
+Heuwangbram
+Near Heuwangbram ,NH-54
+25.208
+93.121
+Earth
+Slide
+2014
+228
+AS/DIH/83G08/2020/12
+Assam
+Dima Hasao
+ 
+Data collected from Mahur-
+Toulpui road.
+25.21
+93.25
+Debris
+Slide
+NA
+229
+AS/DIH/83G08/2020/25
+Assam
+Dima Hasao
+ 
+Laisong Bazar to Hejaichak  road 25.21
+93.31
+Debris
+Slide
+NA
+230
+AS/DIH/83G08/2020/27
+Assam
+Dima Hasao
+ 
+Namna river, Laisong Bazar
+25.21
+93.31
+Debris
+Slide
+2018
+231
+ASM/DH/83G4/2016/36
+Assam
+Dima Hasao
+Haflong – Gunjung road section slide-
+07
+Near  Gunjung village road
+25.214944
+93.021611
+Debris
+Slide
+2016
+232
+AS/DIM/83C16/2017/05
+Assam
+Dima Hasao
+Robi Nala Slide
+MichiduiHaflong road
+25.216881
+92.982245
+Debris
+Slide
+NA
+233
+ASM/DH/83G4/2016/38
+Assam
+Dima Hasao
+Haflong – Gunjung road section slide-
+09
+Haflong town, Dima Hasao
+25.216944
+93.011361
+Rock cum Debris
+Slide
+2016
+234
+ASM/DH/83G4/2016/37
+Assam
+Dima Hasao
+Haflong – Gunjung road section slide-
+08
+Near  Gunjung village road 
+section
+25.2185
+93.013111
+Debris
+Slide
+2016
+235
+AS/DIH/83G08/2020/2
+Assam
+Dima Hasao
+ 
+Laisong bazar to Chhota Laisong 
+road
+25.22
+93.29
+Debris
+Slide
+NA
+236
+AS/DIH/83G08/2020/7
+Assam
+Dima Hasao
+ 
+Along Jenam river, Laisong area 25.22
+93.29
+Debris
+Slide
+NA
+237
+AS/DIH/83G08/2020/9
+Assam
+Dima Hasao
+ 
+Hejaichak to Hangrum road
+25.22
+93.34
+Debris
+Slide
+NA
+238
+AS/DIH/83G08/2020/10
+Assam
+Dima Hasao
+ 
+Hejaichak to Hangrum road
+25.22
+93.34
+Debris
+Slide
+NA
+239
+AS/DIH/83G08/2020/13
+Assam
+Dima Hasao
+ 
+Hejaichak to Hangrum road
+25.22
+93.35
+Debris
+Slide
+NA
+240
+AS/DIH/83G08/2020/24
+Assam
+Dima Hasao
+ 
+Laisong Bazar to Hejaichak  road 25.22
+93.32
+Debris
+Slide
+NA
+241
+AS/DIH/83G08/2020/47
+Assam
+Dima Hasao
+ 
+ Laisong bazar to Chhota 
+Laisong road
+25.22
+93.29
+Rock
+Slide
+NA
+242
+AS/DH/83G04/2018/003
+Assam
+Dima Hasao
+Phiding slide
+Near Phiding Railway Station. 
+Between Mahur and Phiding RS, 
+NFR.
+25.224278
+93.222861
+Debris
+Slide
+14 June 2018
+243
+AS/NC/83G04/2009-10/AS-6
+Assam
+Dima Hasao
+Mahur-Wadringdisa slide
+ 
+25.229556
+93.1556
+Debris
+Slide
+02 April 2010
+244
+AS/DIH/83G08/2020/28
+Assam
+Dima Hasao
+ 
+Kipeilua village
+25.23
+93.34
+Debris
+Slide
+NA
+245
+AS/DIH/83G08/2020/45
+Assam
+Dima Hasao
+ 
+Along Jenam river, Laisong area 25.23
+93.29
+Debris
+Slide
+2018
+246
+AS/DIM/83C16/2018/26
+Assam
+Dima Hasao
+Kalimkhu
+Kalimkhu (MauldemNew 
+Sangbar road)
+25.238045
+92.801279
+Soil
+Slide
+NA
+247
+AS/DIH/83G08/2020/4
+Assam
+Dima Hasao
+ 
+Laisong bazar to Chhota Laisong 
+road
+25.24
+93.28
+Debris
+Slide
+NA
+248
+AS/DIH/83G08/2020/5
+Assam
+Dima Hasao
+ 
+Laisong bazar to Chhota Laisong 
+road
+25.24
+93.27
+Debris
+Slide
+NA
+249
+AS/DIH/83G08/2020/6
+Assam
+Dima Hasao
+ 
+ Chhota Laisong-Hegolo  road
+25.24
+93.27
+Debris
+Slide
+NA
+250
+AS/DIM/83G4/2015/52
+Assam
+Dima Hasao
+Heuwangbram
+Near Heuwangbram ,NH-54
+25.242
+93.14
+Earth
+Slide
+2014

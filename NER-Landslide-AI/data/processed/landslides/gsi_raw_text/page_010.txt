@@ -1,0 +1,326 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+313
+ASM/DIM/83C15/2017/15
+Assam
+Dima Hasao
+Amrudisa Slide
+Near  Amrudisa  village
+25.441757
+92.907383
+Earth
+Slide
+NA
+314
+ASM/DIM/83C15/2017/07
+Assam
+Dima Hasao
+Dalmia cement plant slide.
+Dalmia cement plant, 16 kilo.
+25.443082
+92.989873
+Earth
+Slide
+NA
+315
+AS/DIM/83G07/2017/18
+Assam
+Dima Hasao
+Nkio–Prasadimdik slide No.8
+Nkio–Prasadimdik road section. 25.443417
+93.421444
+Debris
+Slide
+NA
+316
+AS/DIM/83G07/2017/11
+Assam
+Dima Hasao
+Nkio Prasadimdik slide No.1
+NkioPrasadimdik road section
+25.443639
+93.431444
+Debris
+Slide
+NA
+317
+AS/DIM/83G07/2017/13
+Assam
+Dima Hasao
+Nkio–Prasadimdik slide No.3
+Nkio–Prasadimdik road section. 25.443861
+93.426222
+Debris
+Slide
+NA
+318
+AS/DIM/83G07/2017/17
+Assam
+Dima Hasao
+Nkio–Prasadimdik slide No.7
+Nkio–Prasadimdik road section. 25.443972
+93.422778
+Debris
+Slide
+NA
+319
+AS/DIM/83G07/2017/12
+Assam
+Dima Hasao
+Nkio–Prasadimdik slide No.2
+Nkio–Prasadimdik road section. 25.444028
+93.4265
+Debris
+Slide
+NA
+320
+AS/DIM/83G07/2017/14
+Assam
+Dima Hasao
+Nkio–Prasadimdik slide No.4
+Nkio–Prasadimdik road section. 25.444167
+93.425528
+Rock cum debris
+Slide
+NA
+321
+AS/DIM/83G07/2017/15
+Assam
+Dima Hasao
+Nkio Prasadimdik slide No.5
+Nkio Prasadimdik road section.
+25.444194
+93.424694
+Debris
+Slide
+NA
+322
+AS/DIM/83G07/2017/16
+Assam
+Dima Hasao
+Nkio–Prasadimdik slide No.6
+Nkio–Prasadimdik road section. 25.444306
+93.423944
+Debris
+Slide
+NA
+323
+AS/DIM/83G07/2017/54
+Assam
+Dima Hasao
+Kepre–Koladisa–Prasadimdik  slide 
+No.10
+Kepre–Koladisa–Prasadimdik   
+road section
+25.446056
+93.408583
+Debris
+Slide
+NA
+324
+AS/DIM/83G07/2017/45
+Assam
+Dima Hasao
+Kepre–Koladisa Prasadimdik  slide 
+No.1
+Kepre–Koladisa  Prasadimdik   
+road section
+25.447528
+93.364417
+Rock cum debris
+Slide
+NA
+325
+AS/DIM/83G07/2017/46
+Assam
+Dima Hasao
+Kepre–Koladisa–Prasadimdik  slide 
+No.2
+Kepre–Koladisa–Prasadimdik   
+road section
+25.449056
+93.370861
+Debris
+Slide
+NA
+326
+AS/DIM/83G07/2017/53
+Assam
+Dima Hasao
+Kepre–Koladisa–Prasadimdik  slide 
+No.9
+Kepre–Koladisa–Prasadimdik   
+road section
+25.452278
+93.394333
+Soil
+Slide
+NA
+327
+AS/DIM/83G07/2017/52
+Assam
+Dima Hasao
+Kepre–Koladisa–Prasadimdik  slide 
+No.8
+Kepre–Koladisa–Prasadimdik   
+road section
+25.453167
+93.394667
+Soil
+Slide
+NA
+328
+AS/DIM/83G07/2017/47
+Assam
+Dima Hasao
+Kepre–Koladisa–Prasadimdik  slide 
+No.3
+Kepre–Koladisa–Prasadimdik   
+road section
+25.453528
+93.371194
+Debris
+Slide
+NA
+329
+AS/DIM/83G07/2017/48
+Assam
+Dima Hasao
+Kepre–Koladisa–Prasadimdik  slide 
+No.4
+Kepre–Koladisa–Prasadimdik   
+road section
+25.453611
+93.371389
+Debris
+Slide
+NA
+330
+AS/DIM/83G07/2017/50
+Assam
+Dima Hasao
+Kepre–Koladisa–Prasadimdik  slide 
+No.6
+Kepre–Koladisa–Prasadimdik   
+road section
+25.454083
+93.375972
+Debris
+Slide
+NA
+331
+AS/DIM/83G07/2017/49
+Assam
+Dima Hasao
+Kepre–Koladisa–Prasadimdik  slide 
+No.5
+Kepre–Koladisa–Prasadimdik   
+road section
+25.455333
+93.374472
+Debris
+Slide
+NA
+332
+AS/DIM/83G07/2017/51
+Assam
+Dima Hasao
+Kepre–Koladisa–Prasadimdik slide 
+No.7
+Kepre–Koladisa–Prasadimdik   
+road section
+25.462361
+93.384306
+Debris
+Slide
+NA
+333
+AS/DIM/83G2/2015/07
+Assam
+Dima Hasao
+ 
+NH 54, near Langting, Dima 
+Hasao (NC Hills)
+25.50669
+93.10536
+Debris
+Slide
+2015
+334
+ASM/DIM/83C15/2017/16
+Assam
+Dima Hasao
+16 Kilo Slide-II
+Near Limestone Quarry of 
+Dalmia cement plant
+25.513567
+92.784825
+Debris cum earth
+Subsidence
+NA
+335
+ASM/DIM/83C15/2017/07
+Assam
+Dima Hasao
+Dalmia cement plant slide.
+Dalmia cement plant, 16 kilo.
+25.51402
+92.765435
+Debris cum earth
+Slide
+NA
+336
+ASM/DIM/83C10/2016/32
+Assam
+Dima Hasao
+Lumsajor (Kopili Power house road)
+Kopili road
+25.569
+92.71653
+Debris
+Slide
+NA
+337
+ASM/DIM/83C10/2016/33
+Assam
+Dima Hasao
+S of Namghar (NEEPCO colony)
+Kopili road
+25.57994
+92.72822
+Debris
+Slide
+NA
+338
+AS/DIM/83G2/2015/04
+Assam
+Dima Hasao
+ 
+NH 54, about 1.5 km West of 
+Purana Dibolong
+25.61092
+93.09178
+Debris
+Slide
+2015
+339
+AS/DIM/83G2/2015/06
+Assam
+Dima Hasao
+ 
+NH 54, 3 km North of Hatikhali
+25.64897
+93.12083
+Debris
+Slide
+2015

@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+2896
+HP/SOL/53F02/2017/97
+Himachal Pradesh
+Solan
+ 
+NarayangadMajara road
+30.706817
+77.197603
+Rock
+Slide
+NA
+2897
+HP/SIR/53F06/2017/160
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.707643
+77.386619
+Rock
+Slide
+NA
+2898
+HP/SIR/53F06/2017/169
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.707723
+77.401891
+Rock
+Slide
+NA
+2899
+HP/SIR/53F06/2017/168
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.708128
+77.400789
+Rock
+Slide
+NA
+2900
+HP/SIR/53F06/2017/171
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.708258
+77.404764
+Rock
+Slide
+NA
+2901
+HP/SIR/53F06/2017/170
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.708839
+77.404807
+Rock
+Slide
+NA
+2902
+HP/SIR/53F06/2017/167
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.708975
+77.395913
+Rock
+Slide
+NA
+2903
+HP/SOL/53F02/2017/98
+Himachal Pradesh
+Solan
+ 
+NarayangadMajara road
+30.709138
+77.195191
+Rock
+Slide
+NA
+2904
+HP/SIR/53F06/2017/166
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.709742
+77.39457
+Rock
+Slide
+NA
+2905
+HP/SIR/53F06/2017/154
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.710037
+77.380767
+Rock
+Slide
+NA
+2906
+HP/SIR/53F06/2017/165
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.710069
+77.394031
+Rock
+Slide
+NA
+2907
+HP/SIR/53F06/2017/163
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.711237
+77.392727
+Rock
+Slide
+NA
+2908
+HP/SIR/53F06/2017/157
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.711406
+77.388971
+Rock
+Slide
+NA
+2909
+HP/SIR/53F06/2017/162
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.711432
+77.391595
+Rock
+Slide
+NA
+2910
+HP/SIR/53F06/2017/164
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.711665
+77.395123
+Rock
+Slide
+NA
+2911
+HP/SIR/53F06/2017/158
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.711674
+77.390179
+Rock
+Slide
+NA
+2912
+HP/SIR/53F06/2017/161
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.711701
+77.391694
+Rock
+Slide
+NA
+2913
+HP/SIR/53F06/2017/156
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.712014
+77.38795
+Rock
+Slide
+NA
+2914
+HP/SIR/53F10/2017/272
+Himachal Pradesh
+Sirmur
+ 
+Shri Kyari R.F.
+30.712209
+77.67226
+Rock
+Slide
+NA
+2915
+HP/SIR/53F06/2017/159
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.712291
+77.389805
+Rock
+Slide
+NA
+2916
+HP/SIR/53F10/2017/150
+Himachal Pradesh
+Sirmur
+ 
+Shri Kyari R.F.
+30.712602
+77.664866
+Rock
+Slide
+NA
+2917
+HP/SIR/53F06/2017/155
+Himachal Pradesh
+Sirmur
+ 
+South of Chinar
+30.713057
+77.386936
+Rock
+Slide
+NA
+2918
+HP/SIR/53F10/2017/273
+Himachal Pradesh
+Sirmur
+ 
+Shri Kyari R.F.
+30.713681
+77.672466
+Rock
+Slide
+NA
+2919
+HP/SIR/53F10/2017/270
+Himachal Pradesh
+Sirmur
+ 
+Shri Kyari R.F.
+30.714397
+77.662803
+Rock
+Slide
+NA
+2920
+HP/SIR/53F10/2017/271
+Himachal Pradesh
+Sirmur
+ 
+Shri Kyari R.F.
+30.714812
+77.662951
+Rock
+Slide
+NA
+2921
+HP/SIR/53F10/2017/274
+Himachal Pradesh
+Sirmur
+ 
+Shri Kyari R.F.
+30.715237
+77.668257
+Rock
+Slide
+NA
+2922
+HP/SIR/53F10/2017/269
+Himachal Pradesh
+Sirmur
+ 
+Shri Kyari R.F.
+30.715865
+77.667312
+Rock
+Slide
+NA
+2923
+HP/SIR/53F06/2017/266
+Himachal Pradesh
+Sirmur
+ 
+East of Kufar
+30.718982
+77.361832
+Rock
+Slide
+NA
+2924
+HP/SIR/53F10/2017/76
+Himachal Pradesh
+Sirmur
+ 
+Rapail, PaontaShillai road
+30.719302
+77.695346
+Rock
+Slide
+NA
+2925
+HP/SIR/53F10/2017/149
+Himachal Pradesh
+Sirmur
+ 
+West of Tikar
+30.720006
+77.67533
+Rock
+Slide
+NA
+2926
+HP/SIR/53F10/2017/148
+Himachal Pradesh
+Sirmur
+ 
+West of Tikar
+30.720029
+77.674827
+Rock
+Slide
+NA
+2927
+HP/SIR/53F10/2017/147
+Himachal Pradesh
+Sirmur
+ 
+West of Tikar
+30.721078
+77.676601
+Rock
+Slide
+NA
+2928
+HP/SIR/53F06/2017/264
+Himachal Pradesh
+Sirmur
+ 
+East of Kufar
+30.721337
+77.372189
+Rock
+Slide
+NA
+2929
+HP/SIR/53F06/2017/265
+Himachal Pradesh
+Sirmur
+ 
+East of Kufar
+30.721646
+77.364822
+Rock
+Slide
+NA
+2930
+HP/SIR/53F06/2017/267
+Himachal Pradesh
+Sirmur
+ 
+East of Kufar
+30.722552
+77.367069
+Rock
+Slide
+NA
+2931
+HP/SIR/53F06/2017/370
+Himachal Pradesh
+Sirmur
+ 
+East of Kufar
+30.722871
+77.364923
+Rock
+Slide
+NA
+2932
+HP/SIR/53F06/2017/263
+Himachal Pradesh
+Sirmur
+ 
+East of Kufar
+30.723503
+77.367245
+Rock
+Slide
+NA
+2933
+HP/SIR/53F06/2017/369
+Himachal Pradesh
+Sirmur
+ 
+East of Kufar
+30.723516
+77.364084
+Rock
+Slide
+NA
+2934
+HP/SIR/53F10/2017/146
+Himachal Pradesh
+Sirmur
+ 
+West of Tikar
+30.723534
+77.675492
+Rock
+Slide
+NA
+2935
+HP/SIR/53F06/2017/371
+Himachal Pradesh
+Sirmur
+ 
+East of Kufar
+30.723605
+77.363598
+Rock
+Slide
+NA
+2936
+HP/SIR/53F06/2017/368
+Himachal Pradesh
+Sirmur
+ 
+East of Kufar
+30.725697
+77.37016
+Rock
+Slide
+NA
+2937
+HP/SIR/53F06/2017/262
+Himachal Pradesh
+Sirmur
+ 
+East of Kufar
+30.725926
+77.366081
+Rock
+Slide
+NA
+2938
+HP/SIR/53F06/2017/277
+Himachal Pradesh
+Sirmur
+ 
+Khurkuna
+30.72611
+77.332449
+Rock
+Slide
+NA
+2939
+HP/SIR/53F10/2017/145
+Himachal Pradesh
+Sirmur
+ 
+Katara
+30.726343
+77.675688
+Rock
+Slide
+NA
+2940
+HP/SIR/53F10/2017/144
+Himachal Pradesh
+Sirmur
+ 
+Katara
+30.726467
+77.673878
+Rock
+Slide
+NA
+2941
+HP/SIR/53F06/2017/272
+Himachal Pradesh
+Sirmur
+ 
+Khurkuna
+30.727121
+77.331929
+Rock
+Slide
+NA
+2942
+HP/SIR/53F06/2017/273
+Himachal Pradesh
+Sirmur
+ 
+Khurkuna
+30.728517
+77.330487
+Rock
+Slide
+NA
+2943
+HP/SIR/53F10/2017/143
+Himachal Pradesh
+Sirmur
+ 
+Katara
+30.729178
+77.677944
+Rock
+Slide
+NA
+2944
+HP/SIR/53F06/2017/276
+Himachal Pradesh
+Sirmur
+ 
+Khurkuna
+30.730205
+77.336433
+Rock
+Slide
+NA
+2945
+HP/SIR/53F10/2017/142
+Himachal Pradesh
+Sirmur
+ 
+Katara
+30.730258
+77.678059
+Rock
+Slide
+NA
+2946
+HP/SIR/53F06/2017/259
+Himachal Pradesh
+Sirmur
+ 
+North of Kufar
+30.7313
+77.357153
+Rock
+Slide
+NA

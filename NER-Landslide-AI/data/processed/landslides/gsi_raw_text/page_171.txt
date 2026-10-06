@@ -1,0 +1,522 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+7285
+HP/KAN/52D08/2018/125
+Himachal Pradesh
+Kangra
+BANDI
+NH 503; MCLEODGANJ ROAD
+32.237075
+76.312012
+Debris
+Subsidence
+NA
+7286
+HP/CHA/52D04/2018/86
+Himachal Pradesh
+Chamba
+ 
+West of Kun
+32.23716
+76.150805
+Debris
+Slide
+NA
+7287
+HP/KAN/52D04/2018/69
+Himachal Pradesh
+Kangra
+ 
+South of Boru
+32.237196
+76.225353
+Debris
+Slide
+NA
+7288
+HP/KAN/52D08/2018/45
+Himachal Pradesh
+Kangra
+ 
+NH 503; MCLEODGANJ ROAD
+32.2374
+76.31237
+Debris
+Slide
+NA
+7289
+HP/CHA/52D04/2018/67
+Himachal Pradesh
+Chamba
+ 
+North of Hatli
+32.237922
+76.177866
+Debris
+Slide
+NA
+7290
+HP/KAN/52D08/2018/50
+Himachal Pradesh
+Kangra
+JOL
+DHIRA-NAGROTA ROAD
+32.23797
+76.306028
+Debris
+Slide
+NA
+7291
+HP/CHA/52D04/2018/84
+Himachal Pradesh
+Chamba
+ 
+West of Kun
+32.238737
+76.148261
+Debris
+Slide
+NA
+7292
+HP/KAN/52D04/2018/65
+Himachal Pradesh
+Kangra
+ 
+Kotla
+32.23896
+76.044144
+Rock cum debris
+Slide
+NA
+7293
+HP/KAN/52D04/2018/115
+Himachal Pradesh
+Kangra
+ 
+Bahnala P.F
+32.239832
+76.192717
+Debris
+Slide
+NA
+7294
+HP/KAN/52D04/2018/75
+Himachal Pradesh
+Kangra
+ 
+Basa
+32.24011
+76.213625
+Debris
+Slide
+NA
+7295
+HP/KAN/52D04/2018/54
+Himachal Pradesh
+Kangra
+ 
+Kotla, NH 20
+32.240216
+76.042152
+Rock cum debris
+Slide
+NA
+7296
+HP/KAN/52D04/2018/55
+Himachal Pradesh
+Kangra
+ 
+Kotla, NH 20
+32.240472
+76.042013
+Rock cum debris
+Slide
+NA
+7297
+HP/KAN/52D04/2018/99
+Himachal Pradesh
+Kangra
+ 
+Bahnala P.F
+32.240866
+76.191812
+Debris
+Slide
+NA
+7298
+HP/KAN/52D08/2018/24
+Himachal Pradesh
+Kangra
+ 
+TIHRI ROAD
+32.24157
+76.31438
+Debris
+Slide
+2018
+7299
+HP/KAN/52D04/2018/116
+Himachal Pradesh
+Kangra
+ 
+Bahnala P.F
+32.241667
+76.192102
+Debris
+Slide
+NA
+7300
+HP/KAN/52D04/2018/104
+Himachal Pradesh
+Kangra
+ 
+Kotla
+32.242296
+76.04451
+Rock
+Slide
+NA
+7301
+HP/KAN/52D04/2018/103
+Himachal Pradesh
+Kangra
+ 
+Kotla
+32.242358
+76.044964
+Rock
+Slide
+NA
+7302
+HP/KAN/52D04/2018/120
+Himachal Pradesh
+Kangra
+ 
+Basa
+32.24244
+76.214742
+Debris
+Slide
+NA
+7303
+HP/CHA/52D04/2018/66
+Himachal Pradesh
+Chamba
+ 
+North of Hatli
+32.242479
+76.178223
+Debris
+Slide
+NA
+7304
+HP/CHA/52D04/2018/85
+Himachal Pradesh
+Chamba
+ 
+North of Hatli
+32.242778
+76.172318
+Debris
+Slide
+NA
+7305
+HP/KAN/52D04/2018/121
+Himachal Pradesh
+Kangra
+ 
+Basa
+32.242818
+76.21532
+Debris
+Slide
+NA
+7306
+HP/CHA/52D04/2018/78
+Himachal Pradesh
+Chamba
+ 
+South of Chalehra
+32.242894
+76.146665
+Debris
+Slide
+NA
+7307
+HP/KAN/52D08/2018/106
+Himachal Pradesh
+Kangra
+ 
+DHARAMKOT ROAD
+32.243056
+76.329487
+Debris
+Slide
+NA
+7308
+HP/KAN/52D04/2018/102
+Himachal Pradesh
+Kangra
+ 
+North of Kotla
+32.243335
+76.045539
+Rock
+Slide
+NA
+7309
+HP/KAN/52D08/2018/54
+Himachal Pradesh
+Kangra
+ 
+TOTARANI
+32.24342
+76.3053
+Debris
+Slide
+2017
+7310
+HP/KAN/52D04/2018/97
+Himachal Pradesh
+Kangra
+ 
+Basa
+32.243428
+76.213299
+Debris
+Slide
+NA
+7311
+HP/CHA/52D04/2018/77
+Himachal Pradesh
+Chamba
+ 
+Chalehra, Dramman chamba 
+road
+32.243557
+76.14488
+Rock cum debris
+Slide
+NA
+7312
+HP/KAN/52D04/2018/60
+Himachal Pradesh
+Kangra
+ 
+Balha,NH 20
+32.243598
+76.036407
+Rock
+Slide
+NA
+7313
+HP/KUL/52H04/2015/96
+Himachal Pradesh
+Kullu
+ 
+Alaini-Hamta pass Road
+32.2439
+77.2267
+Debris
+Subsidence
+NA
+7314
+HP/CHA/52D04/2018/83
+Himachal Pradesh
+Chamba
+ 
+Chalehra
+32.244023
+76.146741
+Debris
+Slide
+NA
+7315
+HP/KAN/52D04/2018/112
+Himachal Pradesh
+Kangra
+ 
+Bahnala P.F
+32.24419
+76.187058
+Debris
+Slide
+NA
+7316
+HP/KAN/52D04/2018/122
+Himachal Pradesh
+Kangra
+ 
+Basa
+32.244451
+76.211477
+Debris
+Slide
+NA
+7317
+HP/KAN/52D04/2018/108
+Himachal Pradesh
+Kangra
+ 
+North of  Kotla
+32.244471
+76.045496
+Rock
+Slide
+NA
+7318
+HP/CHA/52D04/2018/91
+Himachal Pradesh
+Chamba
+ 
+Chalehra, Dramman chamba 
+road
+32.244481
+76.145027
+Debris
+Slide
+NA
+7319
+HP/KAN/52D04/2018/111
+Himachal Pradesh
+Kangra
+ 
+Bahnala P.F
+32.244779
+76.187455
+Debris
+Slide
+NA
+7320
+HP/KAN/52D04/2018/109
+Himachal Pradesh
+Kangra
+ 
+Bahnala  P.F
+32.245045
+76.187158
+Debris
+Slide
+NA
+7321
+HP/CHA/52D04/2018/79
+Himachal Pradesh
+Chamba
+ 
+Chalehra, Dramman chamba 
+road
+32.245063
+76.145409
+Debris
+Slide
+NA
+7322
+HP/KAN/52D04/2018/110
+Himachal Pradesh
+Kangra
+ 
+Bahnala P.F
+32.245175
+76.187354
+Debris
+Slide
+NA
+7323
+HP/KAN/52D08/2018/53
+Himachal Pradesh
+Kangra
+ 
+STOWARI ROAD
+32.2453
+76.30535
+Debris
+Slide
+NA
+7324
+HP/KAN/52D04/2018/107
+Himachal Pradesh
+Kangra
+ 
+North of Kotla
+32.245973
+76.045979
+Rock
+Slide
+NA
+7325
+HP/KAN/52D08/2018/9
+Himachal Pradesh
+Kangra
+ 
+STOWARI
+32.24615
+76.29033
+Debris
+Slide
+NA
+7326
+HP/CHA/52D04/2018/89
+Himachal Pradesh
+Chamba
+ 
+Chalehra, Dramman chamba 
+road
+32.246512
+76.145102
+Rock cum debris
+Slide
+NA
+7327
+HP/KAN/52D04/2018/114
+Himachal Pradesh
+Kangra
+ 
+Bahnala R.F
+32.247324
+76.189124
+Debris
+Slide
+NA
+7328
+HP/KAN/52D04/2018/113
+Himachal Pradesh
+Kangra
+ 
+Bahnala P. F
+32.247389
+76.188071
+Debris
+Slide
+NA
+7329
+HP/KAN/52D04/2018/117
+Himachal Pradesh
+Kangra
+ 
+Khareri
+32.248071
+76.195928
+Soil
+Slide
+NA
+7330
+HP/KAN/52D08/2018/8
+Himachal Pradesh
+Kangra
+ 
+TIHRI ROAD
+32.24817
+76.2886
+Debris
+Slide
+NA

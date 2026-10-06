@@ -1,0 +1,543 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+34836
+UK/DEH/53J02/2015/1923
+Uttarakhand
+Dehradun
+ 
+Koisi-Nainbag road
+30.604433
+78.011184
+Rock cum Debris
+Slide
+NA
+34837
+UK/DEH/53F14/2015/445
+Uttarakhand
+Dehradun
+ 
+Saini - Chakrata- Korwa
+30.604906
+77.874803
+Debris
+Slide
+NA
+34838
+UK/THE/53J10/2015/13
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.605361
+78.610194
+Debris
+Slide
+NA
+34839
+UK/CHA/53N10/2013/0009
+Uttarakhand
+Chamoli
+UK_CHA_NH_ 009
+About 100 m downstream of 
+Ghat village.
+30.6055
+79.569294
+Debris
+Flow
+16th-17th June 2013
+34840
+UK/THE/53J10/2015/14
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.605528
+78.610944
+Debris
+Slide
+NA
+34841
+UK/DEH/53F14/2015/589
+Uttarakhand
+Dehradun
+ 
+Saini -Badanu
+30.6057
+77.90118
+Debris
+Slide
+NA
+34842
+UK/DEH/53F14/2015/592
+Uttarakhand
+Dehradun
+ 
+Saini -Badanu
+30.605997
+77.872547
+Debris
+Slide
+NA
+34843
+UK/UTT/53J06/2015/897
+Uttarakhand
+Uttarkashi
+ 
+L/b of river Bhagirathi
+30.606089
+78.322836
+Rock cum Debris
+Slide
+NA
+34844
+UK/UTT/53J06/2013/0036
+Uttarakhand
+Uttarkashi
+UK_UTT_NH134_ L36
+NH-134, Badethi slide
+30.6061
+78.3144
+Debris
+Slide
+16th-17th June 2013
+34845
+UK/THE/53J10/2015/76
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.606417
+78.639278
+Debris
+Slide
+NA
+34846
+UK/RUD/53N02/2015/592
+Uttarakhand
+Rudraprayag
+ 
+before Batoli
+30.606608
+79.186532
+Debris
+Slide
+NA
+34847
+UK/DEH/53F14/2015/472
+Uttarakhand
+Dehradun
+ 
+Koti- Kalsi
+30.606711
+77.79464
+Rock
+Slide
+NA
+34848
+UK/UTT/53J06/2013/0037
+Uttarakhand
+Uttarkashi
+UK_UTT_NH134_ L37
+Dharasu Powerhouse slide
+30.6072
+78.3202
+Debris
+Slide
+16th-17th June 2013
+34849
+UK/DEH/53F14/2015/591
+Uttarakhand
+Dehradun
+ 
+Saini -Badanu
+30.607455
+77.882208
+Debris
+Slide
+NA
+34850
+UK/THE/53J10/2015/8
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.607694
+78.594944
+Debris
+Slide
+NA
+34851
+UK/DEH/53F14/2015/558
+Uttarakhand
+Dehradun
+ 
+Saini -Kyawa-Saini
+30.60779
+77.894889
+Debris
+Slide
+NA
+34852
+UK/UTT/53J10/2015/155
+Uttarakhand
+Uttarkashi
+ 
+ 
+30.60825
+78.513278
+Debris
+Slide
+NA
+34853
+UK/UTT/53J06/2015/910
+Uttarakhand
+Uttarkashi
+ 
+Badethi-Banchaura road
+30.608627
+78.312432
+Debris
+Fall
+2007
+34854
+UK/THE/53J10/2015/12
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.608806
+78.602167
+Rock
+Slide
+NA
+34855
+UK/THE/53J10/2015/9
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.609139
+78.594028
+Debris
+Slide
+NA
+34856
+UK/THE/53J10/2015/10
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.609333
+78.599917
+Rock
+Slide
+NA
+34857
+UK/TEH/53J14/2015/266
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.610936
+78.839278
+Debris
+Slide
+2015
+34858
+UK/THE/53J10/2015/11
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.61125
+78.602194
+Debris
+Slide
+NA
+34859
+UK/UTT/53J06/2013/0038
+Uttarakhand
+Uttarkashi
+UK_UTT_NH134_ L38
+Dharasu bridge slide
+30.6116
+78.315
+Rock cum Debris
+Slide
+16th-17th June 2013
+34860
+UK/DEH/53F14/2015/473
+Uttarakhand
+Dehradun
+ 
+Koti- Kalsi
+30.611778
+77.785927
+Debris
+Slide
+NA
+34861
+UK/DEH/53F14/2015/474
+Uttarakhand
+Dehradun
+ 
+Koti- Kalsi
+30.611806
+77.7847
+Debris
+Slide
+NA
+34862
+UK/UTT/53J06/2015/907
+Uttarakhand
+Uttarkashi
+ 
+Rishikesh-Gangotri road, R/b of 
+river Bhagirathi
+30.612222
+78.316667
+Rock cum Debris
+Fall
+2005
+34863
+UK/DEH/53J02/2015/1924
+Uttarakhand
+Dehradun
+ 
+Koisi-Nainbag road
+30.61325
+78.014694
+Rock
+Slide
+NA
+34864
+UK/CHA/53N10/2013/0008
+Uttarakhand
+Chamoli
+UK_CHA_NH_ 008
+Near Ghat village.
+30.6135
+79.565917
+Debris
+Fall
+16th-17th June 2013
+34865
+UK/THE/53J10/2015/75
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.613861
+78.636889
+Debris
+Slide
+NA
+34866
+UK/UTT/53J06/2013/0039
+Uttarakhand
+Uttarkashi
+UK_UTT_NH134_ L39
+NH-134, Dharasu slide
+30.6144
+78.3169
+NA
+ 
+16th-17th June 2013
+34867
+UK/RUD/53N02/2015/593
+Uttarakhand
+Rudraprayag
+ 
+ 
+30.6145
+79.200667
+Debris
+Slide
+2013
+34868
+UK/TEH/53J02/2015/1941
+Uttarakhand
+Tehri Garhwal
+ 
+Nainbag-Sendul road
+30.614639
+78.167111
+Debris
+Slide
+NA
+34869
+UK/THE/53J10/2015/113
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.614833
+78.642389
+Rock
+Slide
+NA
+34870
+UK/UTT/53J06/2015/906
+Uttarakhand
+Uttarkashi
+ 
+R/b of Khurmola gad
+30.615
+78.316667
+Debris
+Composite
+2009
+34871
+UK/DEH/53F14/2015/587
+Uttarakhand
+Dehradun
+ 
+Saini -Badanu
+30.615509
+77.899515
+Debris
+Slide
+NA
+34872
+UK/UTT/53J02/2015/1949
+Uttarakhand
+Uttarkashi
+ 
+Nainbag-Miyani-Patthar Khol 
+road
+30.61554
+78.218778
+Rock
+Slide
+NA
+34873
+UK/THE/53J10/2015/112
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.61575
+78.642056
+Debris
+Flow
+NA
+34874
+UK/UTT/53J10/2015/156
+Uttarakhand
+Uttarkashi
+ 
+ 
+30.615833
+78.5125
+Debris
+Slide
+NA
+34875
+UK/TEH/53J14/2015/267
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.616222
+78.8445
+Debris
+Slide
+NA
+34876
+UK/RUD/53J14/2015/197
+Uttarakhand
+Rudraprayag
+ 
+ 
+30.616511
+78.990261
+Debris
+Slide
+NA
+34877
+UK/RUD/53J14/2015/194
+Uttarakhand
+Rudraprayag
+ 
+ 
+30.616528
+78.982278
+Debris
+Slide
+NA
+34878
+UK/TEH/53J14/2015/268
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.616756
+78.844958
+Rock
+Slide
+NA
+34879
+UK/THE/53J10/2015/7
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.616917
+78.585944
+Rock
+Slide
+NA
+34880
+UK/RUD/53J14/2015/196
+Uttarakhand
+Rudraprayag
+ 
+ 
+30.618889
+78.986472
+Rock
+Slide
+NA
+34881
+UK/TEH/53J02/2015/1918
+Uttarakhand
+Tehri Garhwal
+ 
+Miyani-Sendul road
+30.619056
+78.089278
+Rock
+Slide
+NA
+34882
+UK/UTT/53J02/2015/1940
+Uttarakhand
+Uttarkashi
+ 
+Nainbag-Sendul road
+30.619417
+78.165222
+Rock cum Debris
+Slide
+NA
+34883
+UK/RUD/53J14/2015/192
+Uttarakhand
+Rudraprayag
+ 
+ 
+30.620389
+78.988611
+Rock
+Slide
+NA

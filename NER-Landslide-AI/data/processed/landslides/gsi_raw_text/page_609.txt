@@ -1,0 +1,257 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+24095
+MIZ/LUN/84A12/2025/142
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH 
+Sekhum to N. Mualthuam
+23.119722
+92.742868
+Debris
+Slide
+July 2025
+24096
+MIZ/LUN/84A12/2025/143
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH 
+Sekhum to N. Mualthuam
+23.119344
+92.742996
+Debris
+Slide
+June 2025
+24097
+MIZ/LUN/84A12/2025/144
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Mualthuam N
+23.119163
+92.743039
+Debris
+Slide and Flow
+July 2025
+24098
+MIZ/LUN/84A12/2025/145
+Mizoram
+Lunglei
+Below Mualthuam N
+23.116585
+92.745325
+Earth
+Slide
+June 2025
+24099
+MIZ/LUN/84A12/2025/146
+Mizoram
+Lunglei
+Mualthuam N
+23.118272
+92.742799
+Debris
+Slide and flow
+June 2025
+24100
+MIZ/LUN/84A12/2025/150
+Mizoram
+Lunglei
+Mualthuam N
+23.11239
+92.745417
+Earth
+Slide
+01 June 2025
+24101
+MIZ/LUN/84A12/2025/151
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Mualthuam N Venghnuai
+23.11349
+92.745057
+Earth
+Slide
+July 2024
+24102
+MIZ/LUN/84A12/2025/152
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Mualthuam N Venghnuai
+23.113126
+92.74564
+Earth
+Slide
+02 June 2025
+24103
+MIZ/LUN/84A12/2025/153
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Mualthuam N Venghnuai
+23.112284
+92.746288
+Debris
+Slide
+July 2023
+24104
+MIZ/LUN/84A12/2025/154
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Mualthuam N Venghnuai
+23.108018
+92.746279
+Earth
+Slide
+30 May 2025
+24105
+MIZ/LUN/84A12/2025/155
+Mizoram
+Lunglei
+Mualthuam N
+23.10565
+92.745979
+Debris
+Slide
+30 May 2025
+24106
+MIZ/LUN/84A12/2025/156
+Mizoram
+Lunglei
+Mualthuam N
+23.105869
+92.746616
+Earth
+Slide
+NA
+24107
+MIZ/LUN/84A12/2025/157
+Mizoram
+Lunglei
+Mualthuam N
+23.104623
+92.747711
+Debris
+Slide and flow
+1 June 2025
+24108
+MIZ/LUN/84A12/2025/158
+Mizoram
+Lunglei
+Mualthuam N
+23.104711
+92.747784
+Debris
+Slide and flow
+August 2024
+24109
+MIZ/LUN/84A12/2025/159
+Mizoram
+Lunglei
+Mualthuam N
+23.103993
+92.74869
+Debris
+Slide and flow
+30 May2025
+24110
+MIZ/LUN/84A12/2025/160
+Mizoram
+Lunglei
+Mualthuam N
+23.10357
+92.748737
+Debris
+Slide
+July 2024
+24111
+MIZ/LUN/84A16/2025/161
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+south of Mualthuam N
+23.100785
+92.751508
+Earth
+Slide
+30 May 2025
+24112
+MIZ/LUN/84A16/2025/162
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+south of Mualthuam N
+23.099615
+92.752199
+Earth
+Slide
+06 June 2025
+24113
+MIZ/LUN/84A16/2025/163
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Mualthuam N to Saichhoh
+23.098261
+92.751461
+Earth
+Slide
+June 2025
+24114
+MIZ/LUN/84A16/2025/164
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Near MPWD milestone 6kms to 
+Haulawng
+23.09459
+92.753733
+Earth
+Slide and flow
+13 September 2025
+24115
+MIZ/LUN/84A16/2025/165
+Mizoram
+Lunglei
+Below Aizawl-Thenzawl-Lunglei 
+SH, Mualthuam N to Saichhoh
+23.092076
+92.752286
+Earth
+Slide
+13 September 2025
+24116
+MIZ/LUN/84A16/2025/166
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Mualthuam N to Saichhoh
+23.091619
+92.752299
+Earth
+Slide
+July 2025
+24117
+MIZ/LUN/84A16/2025/167
+Mizoram
+Lunglei
+below Aizawl-Thenzawl-Lunglei 
+SH, Mualthuam N area
+23.089822
+92.751916
+Debris
+Slide
+September 2025

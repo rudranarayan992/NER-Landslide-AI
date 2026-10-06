@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+8298
+HP/CHA/43P13/2017/64
+Himachal Pradesh
+Chamba
+ 
+ 
+32.844858
+75.96884
+Debris
+Slide
+NA
+8299
+HP/CHA/43P13/2017/48
+Himachal Pradesh
+Chamba
+ 
+ 
+32.846052
+75.968727
+Debris
+Slide
+NA
+8300
+HP/CHA/52D01/2020/18
+Himachal Pradesh
+Chamba
+ 
+Seru
+32.85
+76.18
+Debris
+Slide
+NA
+8301
+HP/CHA/52D01/2020/19
+Himachal Pradesh
+Chamba
+ 
+Seru
+32.85
+76.18
+Debris
+Slide
+NA
+8302
+HP/CHA/52D01/2020/20
+Himachal Pradesh
+Chamba
+ 
+Chunwas
+32.85
+76.18
+Debris
+Slide
+NA
+8303
+HP/CHA/52D01/2020/21
+Himachal Pradesh
+Chamba
+ 
+Seru
+32.85
+76.18
+Debris
+Slide
+NA
+8304
+HP/CHA/52D01/2020/45
+Himachal Pradesh
+Chamba
+ 
+Galain village
+32.85
+76.05
+Debris
+Slide
+NA
+8305
+HP/CHA/52D01/2020/48
+Himachal Pradesh
+Chamba
+ 
+Chinwas
+32.85
+76.19
+Rock
+Fall
+NA
+8306
+HP/CHA/52D01/2020/64
+Himachal Pradesh
+Chamba
+ 
+Chinwas
+32.85
+76.19
+Debris
+Slide
+NA
+8307
+HP/CHA/52D01/2020/71
+Himachal Pradesh
+Chamba
+ 
+Gudesh
+32.85
+76.15
+Debris
+Slide
+NA
+8308
+HP/CHA/52D01/2020/83
+Himachal Pradesh
+Chamba
+ 
+Chinwas
+32.85
+76.19
+Debris
+Slide
+NA
+8309
+HP/CHA/43P13/2017/4
+Himachal Pradesh
+Chamba
+ 
+ 
+32.854806
+75.962289
+Debris
+Slide
+NA
+8310
+HP/CHA/52D01/2020/1
+Himachal Pradesh
+Chamba
+Gudesh nala slide
+Gudesh Village
+32.86
+76.17
+Debris
+Slide
+NA
+8311
+HP/CHA/52D01/2020/7
+Himachal Pradesh
+Chamba
+Jukwani slide
+Jukwani
+32.86
+76.15
+Debris
+Slide
+NA
+8312
+HP/CHA/52D01/2020/14
+Himachal Pradesh
+Chamba
+Jukwani subsidence
+Jukwani
+32.86
+76.15
+Debris
+Subsidence
+NA
+8313
+HP/CHA/52D01/2020/36
+Himachal Pradesh
+Chamba
+Gudesh slide
+Jukwani
+32.86
+76.15
+Debris
+Slide
+NA
+8314
+HP/CHA/43P13/2017/24
+Himachal Pradesh
+Chamba
+ 
+ 
+32.860325
+75.8388
+Rock cum debris
+Slide
+NA
+8315
+HP/CHA/43P13/2017/49
+Himachal Pradesh
+Chamba
+ 
+ 
+32.86054
+75.952093
+Debris
+Slide
+NA
+8316
+HP/CHA/43P13/2017/65
+Himachal Pradesh
+Chamba
+ 
+ 
+32.864675
+75.948195
+Debris
+Slide
+NA
+8317
+HP/CHA/43P13/2017/90
+Himachal Pradesh
+Chamba
+ 
+ 
+32.866287
+75.946836
+Debris
+Slide
+NA
+8318
+HP/CHA/43P13/2017/6
+Himachal Pradesh
+Chamba
+ 
+ 
+32.868405
+75.953
+Debris
+Slide
+NA
+8319
+HP/CHA/43P13/2017/66
+Himachal Pradesh
+Chamba
+ 
+ 
+32.868815
+75.948224
+Debris
+Slide
+NA
+8320
+HP/CHA/52D01/2020/33
+Himachal Pradesh
+Chamba
+Sukriala nala slide
+Sukriala
+32.87
+76.16
+Debris
+Slide
+NA
+8321
+HP/CHA/43P13/2017/37
+Himachal Pradesh
+Chamba
+ 
+ 
+32.871081
+75.951573
+Debris
+Slide
+NA
+8322
+HP/CHA/43P13/2017/50
+Himachal Pradesh
+Chamba
+ 
+ 
+32.87156
+75.948783
+Debris
+Slide
+NA
+8323
+HP/CHA/43P13/2017/75
+Himachal Pradesh
+Chamba
+ 
+ 
+32.872053
+75.952071
+Debris
+Slide
+NA
+8324
+HP/CHA/43P13/2017/67
+Himachal Pradesh
+Chamba
+ 
+ 
+32.872354
+75.947795
+Debris
+Slide
+NA
+8325
+HP/CHA/43P13/2017/68
+Himachal Pradesh
+Chamba
+ 
+ 
+32.873668
+75.953889
+Debris
+Slide
+NA
+8326
+HP/CHA/43P13/2017/69
+Himachal Pradesh
+Chamba
+ 
+ 
+32.874046
+75.943986
+Debris
+Slide
+NA
+8327
+HP/CHA/43P13/2017/7
+Himachal Pradesh
+Chamba
+ 
+ 
+32.875218
+75.958388
+Rock cum debris
+Slide
+NA
+8328
+HP/CHA/43P13/2017/1
+Himachal Pradesh
+Chamba
+ 
+ 
+32.875934
+75.948789
+Debris
+Slide
+NA
+8329
+HP/CHA/43P13/2017/87
+Himachal Pradesh
+Chamba
+ 
+ 
+32.876377
+75.986441
+Rock cum debris
+Slide
+NA
+8330
+HP/CHA/43P13/2017/19
+Himachal Pradesh
+Chamba
+ 
+ 
+32.87658
+75.959122
+Rock cum debris
+Slide
+NA
+8331
+HP/CHA/43P13/2017/30
+Himachal Pradesh
+Chamba
+ 
+ 
+32.876673
+75.824719
+Rock cum debris
+Slide
+NA
+8332
+HP/CHA/43P13/2017/35
+Himachal Pradesh
+Chamba
+ 
+ 
+32.87845
+75.947306
+Debris
+Slide
+NA
+8333
+HP/CHA/43P13/2017/31
+Himachal Pradesh
+Chamba
+ 
+ 
+32.878856
+75.827196
+Rock cum debris
+Slide
+NA
+8334
+HP/CHA/43P13/2017/81
+Himachal Pradesh
+Chamba
+ 
+ 
+32.87911
+75.968636
+Rock cum debris
+Slide
+NA
+8335
+HP/CHA/43P13/2017/12
+Himachal Pradesh
+Chamba
+ 
+ 
+32.87972
+75.955597
+Debris
+Slide
+NA
+8336
+HP/CHA/43P13/2017/43
+Himachal Pradesh
+Chamba
+ 
+ 
+32.879908
+75.941909
+Debris
+Slide
+NA
+8337
+HP/CHA/52D01/2020/32
+Himachal Pradesh
+Chamba
+ 
+Sukriala
+32.88
+76.16
+Debris
+Slide
+NA
+8338
+HP/CHA/43P13/2017/70
+Himachal Pradesh
+Chamba
+ 
+ 
+32.880274
+75.968609
+Rock cum debris
+Slide
+NA
+8339
+HP/CHA/43P13/2017/71
+Himachal Pradesh
+Chamba
+ 
+ 
+32.880883
+75.967458
+Rock cum debris
+Slide
+NA
+8340
+HP/CHA/43P13/2017/56
+Himachal Pradesh
+Chamba
+ 
+ 
+32.881151
+75.935298
+Debris
+Slide
+NA
+8341
+HP/CHA/43P13/2017/13
+Himachal Pradesh
+Chamba
+ 
+ 
+32.881398
+75.941654
+Debris
+Slide
+NA
+8342
+HP/CHA/43P13/2017/91
+Himachal Pradesh
+Chamba
+ 
+ 
+32.881518
+75.968332
+Rock cum debris
+Slide
+NA
+8343
+HP/CHA/43P13/2017/51
+Himachal Pradesh
+Chamba
+ 
+ 
+32.882848
+75.971185
+Rock cum debris
+Slide
+NA
+8344
+HP/CHA/43P13/2017/25
+Himachal Pradesh
+Chamba
+ 
+ 
+32.883245
+75.964755
+Rock cum debris
+Slide
+NA
+8345
+HP/CHA/43P13/2017/82
+Himachal Pradesh
+Chamba
+ 
+ 
+32.883812
+75.966235
+Rock cum debris
+Slide
+NA
+8346
+HP/CHA/43P13/2017/38
+Himachal Pradesh
+Chamba
+ 
+ 
+32.884444
+75.975404
+Rock cum debris
+Slide
+NA
+8347
+HP/CHA/43P13/2017/39
+Himachal Pradesh
+Chamba
+ 
+ 
+32.884612
+75.999739
+Rock cum debris
+Slide
+NA
+8348
+HP/CHA/43P13/2017/58
+Himachal Pradesh
+Chamba
+ 
+ 
+32.884777
+75.974426
+Rock cum debris
+Slide
+NA

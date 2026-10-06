@@ -1,0 +1,571 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+9515
+JK/DOD/43O12/2018/128
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.06207
+75.629705
+Debris
+Slide
+NA
+9516
+JK/DOD/43O12/2018/294
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.06222
+75.624582
+Debris
+Slide
+NA
+9517
+JK/KIS/43O16/2018/140
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.062477
+75.976609
+Rock
+Slide
+NA
+9518
+JK/DOD/43O12/2018/195
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.062776
+75.623695
+Debris
+Slide
+NA
+9519
+JK/KIS/43O16/2018/185
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.064051
+75.97766
+Rock
+Fall
+NA
+9520
+JK/DOD/43O12/2018/255
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.064317
+75.62711
+Rock
+Slide
+NA
+9521
+JK/DOD/43O12/2018/352
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.064495
+75.626018
+Rock
+Slide
+NA
+9522
+JK/KIS/43O16/2018/117
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.064751
+75.979001
+Rock
+Fall
+NA
+9523
+JK/DOD/43O12/2018/375
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.064807
+75.626862
+Debris
+Slide
+NA
+9524
+JK/DOD/43O12/2018/386
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.065248
+75.623665
+Rock
+Slide
+NA
+9525
+JK/KIS/43O16/2018/3
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.06543
+75.979561
+Rock
+Fall
+NA
+9526
+JK/DOD/43O12/2018/130
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.065829
+75.61809
+Debris
+Slide
+NA
+9527
+JK/DOD/43O12/2018/232
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.066046
+75.616907
+Debris
+Slide
+NA
+9528
+JK/DOD/43O12/2018/317
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.066177
+75.630397
+Rock
+Slide
+NA
+9529
+JK/DOD/43O12/2018/318
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.066264
+75.615796
+Debris
+Slide
+NA
+9530
+JK/DOD/43O12/2018/93
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.066426
+75.615263
+Debris
+Slide
+NA
+9531
+JK/DOD/43O12/2018/397
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.066944
+75.630546
+Debris
+Slide
+NA
+9532
+JK/DOD/43O12/2018/151
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.068724
+75.629427
+Rock
+Slide
+NA
+9533
+JK/DOD/43O12/2018/108
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.069092
+75.629886
+Rock
+Slide
+NA
+9534
+JK/UDH/43O08/2015/38
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+33.069139
+75.314028
+Debris
+Slide
+NA
+9535
+JK/KIS/43O16/2018/166
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.069683
+75.916507
+Debris
+Slide
+NA
+9536
+JK/REA/43K12/2020/3
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.07
+74.74
+Debris
+Slide
+NA
+9537
+JK/UDH/43O08/2015/3
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+33.070808
+75.3125
+Rock cum Debris
+Composite
+NA
+9538
+JK/DOD/43O12/2018/67
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.071669
+75.608715
+Debris
+Slide
+NA
+9539
+JK/REA/43K16/2016/23
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.072608
+74.852455
+Rock cum Debris
+Slide
+NA
+9540
+JK/KIS/43O16/2018/29
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.073447
+75.915024
+Debris
+Slide
+NA
+9541
+JK/DOD/43O12/2018/293
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.074234
+75.606991
+Debris
+Slide
+NA
+9542
+JK/UDH/43O08/2015/2
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+33.076278
+75.308444
+Rock cum Debris
+Composite
+NA
+9543
+JK/DOD/43O12/2018/74
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.077087
+75.604421
+Debris
+Slide
+NA
+9544
+JK/REA/43K16/2016/24
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.077701
+74.866134
+Rock cum Debris
+Slide
+NA
+9545
+JK/REA/43K16/2016/42
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.077831
+74.811805
+Rock
+Slide
+NA
+9546
+JK/UDH/43O04/2015/64
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+33.077833
+75.099361
+Debris
+Slide
+NA
+9547
+JK/REA/43K16/2016/41
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.077995
+74.810554
+Rock
+Slide
+NA
+9548
+JK/DOD/43O16/2018/20
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.078813
+75.755995
+Debris
+Slide
+NA
+9549
+JK/REA/43K16/2016/22
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.079246
+74.840927
+Rock
+Slide
+NA
+9550
+JK/REA/43K12/2020/1
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.08
+74.74
+Debris
+Slide
+NA
+9551
+JK/REA/43K12/2020/2
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.08
+74.73
+Debris
+Slide
+NA
+9552
+JK/KIS/43O16/2018/28
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.080573
+75.911993
+Debris
+Slide
+NA
+9553
+JK/DOD/43O12/2018/225
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.082142
+75.600006
+Debris
+Slide
+NA
+9554
+JK/DOD/43O12/2018/196
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.082407
+75.599808
+Debris
+Slide
+NA
+9555
+JK/DOD/43O12/2018/110
+Jammu & Kashmir (UT)
+Doda
+33.083347
+75.738964
+Debris
+Slide
+NA
+9556
+JK/KIS/43O16/2018/56
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.083458
+75.909353
+Debris
+Slide
+NA
+9557
+JK/UDH/43O08/2015/4
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+33.083742
+75.306833
+Rock cum Debris
+Composite
+NA
+9558
+JK/UDH/43O04/2015/54
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+33.085
+75.192778
+Debris
+Slide
+NA
+9559
+JK/KIS/43O16/2018/147
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.085056
+75.908156
+Rock
+Fall
+NA
+9560
+JK/UDH/43O04/2015/51
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+33.086639
+75.156639
+Debris
+Subsidence
+NA
+9561
+JK/DOD/43O12/2018/221
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.086771
+75.723523
+Rock cum debris
+Slide
+NA
+9562
+JK/DOD/43O12/2018/193
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.087041
+75.616813
+Rock
+Slide
+NA
+9563
+JK/DOD/43O12/2018/315
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.087569
+75.600938
+Rock cum debris
+Slide
+NA
+9564
+JK/UDH/43O04/2015/52
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+33.087639
+75.157972
+Debris
+Slide
+NA
+9565
+JK/DOD/43O12/2018/328
+Jammu & Kashmir (UT)
+Doda
+ 
+ 
+33.087932
+75.57798
+Debris
+Slide
+NA

@@ -1,0 +1,561 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+19595
+6783
+Manipur
+Senapati
+NH-37
+25.417312
+94.080514
+Debris
+slide
+NA
+19596
+6784
+Manipur
+Senapati
+NH-37
+25.46333
+93.987388
+Rock
+slide
+NA
+19597
+6801
+Manipur
+Noney
+NH-37
+24.794493
+93.652745
+Debris
+slide
+2024
+19598
+6802
+Manipur
+Noney
+NH-37
+24.787526
+93.662891
+Debris
+Slide
+2024
+19599
+6803
+Manipur
+Noney
+NH-37
+24.789504
+93.66385
+Debris
+Slide
+Septemebr 2025
+19600
+6822
+Manipur
+Noney
+NH-37
+24.846509
+93.573533
+Debris
+slide
+31 May 2025
+19601
+6831
+Manipur
+Noney
+NH-37
+24.863924
+93.617853
+Debris
+slide
+05 June 2025
+19602
+6839
+Manipur
+Noney
+NH-37
+24.862146
+93.595644
+Debris
+slide
+09 Septemebr 2025
+19603
+6842
+Manipur
+Noney
+24.859576
+93.576244
+Debris
+slide
+1st week of August 2025
+19604
+7384
+Manipur
+Ukhrul
+NH-202
+25.066715
+94.349728
+Soil
+slide
+2024
+19605
+7385
+Manipur
+Ukhrul
+NH-202
+24.984331
+94.228244
+Soil
+slide
+Last week of May 2026
+19606
+MEG/WJH/83C4/2016/51
+Meghalaya
+East Jaintia Hills
+0.13 km SE of Rathacherra
+NH44
+25.033514
+92.435539
+Rock
+Slide
+2016
+19607
+MEG/WJH/83C4/2016/50
+Meghalaya
+East Jaintia Hills
+0.29 km SE of Rathacherra
+NH44
+25.033628
+92.439331
+Debris
+Slide
+2016
+19608
+MEG/WJH/83C4/2016/52
+Meghalaya
+East Jaintia Hills
+Rathacherra
+NH44
+25.034289
+92.435222
+Debris
+Slide
+2015
+19609
+MEG/WJH/83C4/2016/49
+Meghalaya
+East Jaintia Hills
+0.48 km NE of Rathacherra
+NH44
+25.037722
+92.439556
+Debris
+Slide
+2016
+19610
+MEG/WJH/83C4/2016/48
+Meghalaya
+East Jaintia Hills
+0.55km NE of Rathacherra
+NH44
+25.037833
+92.440417
+Debris
+Slide
+2014
+19611
+MEG/WJH/83C4/2016/47
+Meghalaya
+East Jaintia Hills
+0.60 km NE of Rathacherra
+NH40
+25.038186
+92.440725
+Debris
+Slide
+2014
+19612
+MEG/WJH/83C4/2016/53
+Meghalaya
+East Jaintia Hills
+0.46 km N of Rathacherra
+NH44
+25.038361
+92.43675
+Debris
+Slide
+2016
+19613
+MEG/WJH/83C4/2016/78
+Meghalaya
+East Jaintia Hills
+0.55 km N of Rathacherra
+Nh44
+25.039097
+92.436869
+Debris
+Slide
+NA
+19614
+MEG/WJH/83C4/2016/46
+Meghalaya
+East Jaintia Hills
+1.25 km NE of Rathacherra
+NH44
+25.040511
+92.446119
+Debris
+Slide
+2015
+19615
+MEG/WJH/83C4/2016/77
+Meghalaya
+East Jaintia Hills
+1.08 km NE of Rathacherra
+NH44
+25.042189
+92.441964
+Debris
+Slide
+2015
+19616
+MEG/WJH/83C4/2016/79
+Meghalaya
+East Jaintia Hills
+0.91km NNW of Rathacherra
+NH44
+25.042408
+92.434525
+Rock
+Slide
+2015
+19617
+MEG/WJH/83C4/2016/55
+Meghalaya
+East Jaintia Hills
+0.92 km NNW of Rathacherra
+NH44
+25.042556
+92.435028
+Rock
+Slide
+2016
+19618
+MEG/WJH/83C4/2016/54
+Meghalaya
+East Jaintia Hills
+1 km NW of Rathacherra
+NH44
+25.042778
+92.432472
+Rock
+Slide
+2015
+19619
+MEG/WJH/83C4/2016/60
+Meghalaya
+East Jaintia Hills
+0.7km E of Danaubluh
+NH44
+25.043667
+92.425444
+Rock
+Slide
+2016
+19620
+MEG/WJH/83C4/2016/62
+Meghalaya
+East Jaintia Hills
+0.39 km E of Danaubluh
+NH44
+25.043914
+92.423556
+Rock
+Slide
+2015
+19621
+MEG/WJH/83C4/2016/83
+Meghalaya
+East Jaintia Hills
+Danaubluh
+NH44
+25.044056
+92.418778
+Debris
+Slide
+2015
+19622
+MEG/WJH/83C4/2016/56
+Meghalaya
+East Jaintia Hills
+1.23 km NW of Rathacherra
+NH44
+25.044136
+92.430244
+Rock
+Slide
+2016
+19623
+MEG/WJH/83C4/2016/61
+Meghalaya
+East Jaintia Hills
+0.42km E of Danaubluh
+NH44
+25.044417
+92.423908
+Debris
+Slide
+2016
+19624
+MEG/WJH/83C4/2016/59
+Meghalaya
+East Jaintia Hills
+1.38 km NW of Rathacherra
+NH44
+25.044442
+92.427761
+Debris
+Slide
+2016
+19625
+MEG/WJH/83C4/2016/63
+Meghalaya
+East Jaintia Hills
+0.41 km NE of Danaubluh
+Nh44
+25.044733
+92.423675
+Rock
+Slide
+2015
+19626
+MEG/WJH/83C4/2016/57
+Meghalaya
+East Jaintia Hills
+1.29 km NW of Rathacherra
+NH44
+25.044778
+92.430333
+Debris
+Slide
+2015
+19627
+MEG/WJH/83C4/2016/58
+Meghalaya
+East Jaintia Hills
+1.33 km NW of Rathacherra
+NH44
+25.044833
+92.429333
+Debris
+Slide
+2015
+19628
+MEG/WJH/83C4/2016/80
+Meghalaya
+East Jaintia Hills
+Danauubluh 1
+NH44
+25.044947
+92.420261
+Debris
+Slide
+NA
+19629
+MEG/WJH/83C4/2016/82
+Meghalaya
+East Jaintia Hills
+0.24 km NE of Danaubluh
+NH44
+25.045111
+92.4215
+Debris
+Slide
+2016
+19630
+MEG/WJH/83C4/2016/81
+Meghalaya
+East Jaintia Hills
+0.21 km NE of Danaubluh
+NH44
+25.045386
+92.420764
+Debris
+Slide
+2016
+19631
+MEG/WJH/83C4/2016/69
+Meghalaya
+East Jaintia Hills
+Donaskul
+NH44
+25.045389
+92.410444
+Debris
+Slide
+2014
+19632
+MEG/WJH/83C4/2016/84
+Meghalaya
+East Jaintia Hills
+0.18 km NW of Donaskul
+NH44
+25.046181
+92.408878
+Debris
+Slide
+2016
+19633
+MEG/WJH/83C4/2016/88
+Meghalaya
+East Jaintia Hills
+Wakho
+NH44
+25.047194
+92.404806
+Debris
+Slide
+2016
+19634
+MEG/WJH/83C4/2016/85
+Meghalaya
+East Jaintia Hills
+0.26 km NW of Donaskul
+NH44
+25.047444
+92.409156
+Debris
+Slide
+NA
+19635
+MEG/WJH/83C4/2016/87
+Meghalaya
+East Jaintia Hills
+0.11 km NE of Wakho
+┬á
+25.047556
+92.405806
+Debris
+Slide
+2015
+19636
+MEG/WJH/83C4/2016/86
+Meghalaya
+East Jaintia Hills
+0.08 km N of Wakho
+NH44
+25.047906
+92.404822
+Debris
+Slide
+NA
+19637
+MEG/WJH/83C4/2016/89
+Meghalaya
+East Jaintia Hills
+1.81 km SE of Umkiang
+NH44
+25.049744
+92.400678
+Debris
+Slide
+2016
+19638
+MEG/WJH/83C4/2016/90
+Meghalaya
+East Jaintia Hills
+2.10 km SE of Umkiang
+NH44
+25.052236
+92.399047
+Debris
+Slide
+2016
+19639
+MEG/WJH/83C4/2016/91
+Meghalaya
+East Jaintia Hills
+Umkiang
+NH44
+25.056022
+92.394119
+Debris
+Slide
+2016
+19640
+MEG/WJH/83C4/2016/92
+Meghalaya
+East Jaintia Hills
+Umkiang 1
+NH44
+25.062025
+92.386975
+Debris
+Slide
+2013
+19641
+MEG/WJH/83C4/2016/93
+Meghalaya
+East Jaintia Hills
+Umkiang 2
+NH44
+25.068158
+92.380058
+Debris
+Slide
+2016
+19642
+MEG/WJH/83C4/2016/96
+Meghalaya
+East Jaintia Hills
+0.59 km NE of Kuliang
+NH44
+25.073
+92.368778
+Debris
+Slide
+2015
+19643
+MEG/WJH/83C4/2016/94
+Meghalaya
+East Jaintia Hills
+0.93 km E of Kuliang
+NH44
+25.073217
+92.372161
+Debris
+Slide
+2014
+19644
+MEG/WJH/83C4/2016/95
+Meghalaya
+East Jaintia Hills
+0.80 km NE of Kuliang
+NH44
+25.073731
+92.370786
+Rock
+Slide
+2015
+19645
+MEG/WJH/83C4/2016/71
+Meghalaya
+East Jaintia Hills
+0.86 km NE of Kuliang
+NH44
+25.074439
+92.371186
+Rock
+Slide
+NA

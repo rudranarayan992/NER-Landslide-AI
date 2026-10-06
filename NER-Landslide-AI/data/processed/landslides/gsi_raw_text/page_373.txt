@@ -1,0 +1,394 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15409
+KL/TSR/58B/07/2019/06
+Kerala
+Thrissur
+Chattukayyintara  Slide
+Chattukayyintara; Chalakudi-
+Athirapalli road.
+10.30137778
+76.443125
+Debris
+Flow 
+16 August 2018
+15410
+KL/TSR/58B/07/2019/07
+Kerala
+Thrissur
+Chattukayyintara  Slide 2
+Chalakudi-Athirapalli road.
+10.29847222
+76.45830556
+Rock cum debris
+Flow 
+16 August 2018
+15411
+KL/TSR/58B/07/2019/08
+Kerala
+Thrissur
+Vadakkayam slide
+Athirapalli village
+10.30162222
+76.49305833
+Debris
+Flow 
+15th August 2018
+15412
+KL/TSR/58B/11/2019/09
+Kerala
+Thrissur
+Charpa slide
+Road from Chalakudy to 
+Malakkapara, near Charpa 
+water fall
+10.303325
+76.57943056
+Debris
+Slide  
+15th August 2018
+15413
+KL/TSR/58B/11/2019/10
+Kerala
+Thrissur
+Charpa slide 2
+Road from Chalakudy to 
+Malakkapara
+10.308175
+76.62505556
+Debris
+Shallow 
+rotational 
+15th August 2018
+15414
+KL/TSR/58B/11/2019/11
+Kerala
+Thrissur
+Peringalkuthu dam slide
+Peringalkuthu dam
+10.31431944
+76.63327778
+Debris
+Slide 
+16 August 2018
+15415
+KL/TSR/58B/11/2019/12
+Kerala
+Thrissur
+Anakkayam slide
+Anakkayam
+10.30969722
+76.70632778
+Debris
+Flow 
+15th August 2018
+15416
+KL/TSR/58B/11/2019/13
+Kerala
+Thrissur
+Anakkayam slide 2
+Road from Chalakudy to 
+Malakkapara
+10.31246667
+76.71723333
+Debris
+Flow 
+15th August 2018
+15417
+KL/TSR/58B/11/2019/14
+Kerala
+Thrissur
+Anakkayam slide 3
+Road from Chalakudy to 
+Malakkapara
+10.30879444
+76.72221667
+Debris
+Slide  
+15th August 2018
+15418
+KL/TSR/58B/11/2019/15
+Kerala
+Thrissur
+Ambalapara slide 
+Road from Chalakudy to 
+Malakkapara
+10.30745278
+76.72078889
+Debris
+Flow 
+15th August 2018
+15419
+KL/TSR/58B/06/2019/16
+Kerala
+Thrissur
+Kolankundu slide
+Kolankundu village
+10.50783333
+76.33771389
+Debris
+Slide  
+16 August 2018
+15420
+KL/TSR/58B/06/2019/17
+Kerala
+Thrissur
+Kolankundu debris slump
+Kolankundu village
+10.50971111
+76.33816667
+Debris
+Slump     
+16 August 2018
+15421
+KL/TSR/58B/06/2019/18
+Kerala
+Thrissur
+Urulankunnu slide
+Urulankunnu
+10.51307222
+76.34031667
+Debris
+Flow    
+15th August 2018
+15422
+KL/TSR/58B/06/2019/19
+Kerala
+Thrissur
+Payyanam slide1
+Payyanam
+10.51476667
+76.33656389
+Debris
+Flow    
+15th August 2018
+15423
+KL/TSR/58B/06/2019/20
+Kerala
+Thrissur
+Payyanam slide2
+Payyanam
+10.51467222
+76.33638889
+Debris
+Slide   
+15th August 2018
+15424
+KL/TSR/58B/06/2019/21
+Kerala
+Thrissur
+Payyanam slide3
+Payyanam
+10.51561944
+76.33841389
+Debris
+Flow    
+15th August 2018
+15425
+KL/TSR/58B/06/2019/22
+Kerala
+Thrissur
+Ambalapara Debris flow
+Road from Chalakudy to 
+Malakkapara
+10.31242778
+76.73735
+Debris
+Flow    
+15th August 2018
+15426
+KL/TSR/58B/06/2019/23
+Kerala
+Thrissur
+KSEB Dam slide
+KSEB office, Lower Sholayar
+10.31509722
+76.7335
+Debris
+Flow    
+16 August 2018
+15427
+KL/TSR/58B/15/2019/24
+Kerala
+Thrissur
+Chalakudy-Malakkapara road slide
+Road from Chalakudy to 
+Malakkapara
+10.29346111
+76.840075
+Debris
+Slide 
+16 August 2018
+15428
+KL/TSR/58B/15/2019/25
+Kerala
+Thrissur
+Chalakudy-Malakkapara road slide 2
+Road from Chalakudy to 
+Malakkapara
+10.29894722
+76.832175
+Debris
+Slide 
+16 August 2018
+15429
+KL/TSR/58B/15/2019/26
+Kerala
+Thrissur
+Chalakudy-Malakkapara road slide 3
+Road from Chalakudy to 
+Malakkapara
+10.29924167
+76.83186667
+Debris
+Slide 
+16 August 2018
+15430
+KL/TSR/58B/11/2019/27
+Kerala
+Thrissur
+Tavalakuzhi para slide 1
+Tavalakuzhi para
+10.29035278
+76.67788056
+Debris
+Slide 
+16 August 2018
+15431
+KL/TSR/58B/11/2019/28
+Kerala
+Thrissur
+Tavalakuzhi para slide 2
+Tavalakuzhi para
+10.29038889
+76.67469444
+Debris
+Slide 
+16 August 2018
+15432
+KL/TSR/58B/11/2019/29
+Kerala
+Thrissur
+Anakkayam Cutslope failure
+Road from Chalakudy to 
+Malakkapara
+10.30348056
+76.705925
+Debris
+Slide 
+16 August 2018
+15433
+KL/TSR/58B/11/2019/30
+Kerala
+Thrissur
+Chalakudy-Malakkapara road slide 4
+Road from Chalakudy to 
+Malakkapara
+10.30573333
+76.74543611
+Debris
+Slide 
+16 August 2018
+15434
+KL/TSR/58B/11/2019/31
+Kerala
+Thrissur
+Chalakudy-Malakkapara road slide 5
+Road from Chalakudy to 
+Malakkapara
+10.30611944
+76.74497778
+Debris
+Slide 
+16 August 2018
+15435
+KL/TSR/58B/11/2019/32
+Kerala
+Thrissur
+Chalakudy-Malakkapara road slide 6
+Road from Chalakudy to 
+Malakkapara
+10.30677778
+76.74486944
+Debris
+slide
+16 August 2018
+15436
+KL/TSR/58B/15/2019/33
+Kerala
+Thrissur
+Chalakudy-Malakkapara road slide 7
+Road from Chalakudy to 
+Malakkapara
+10.301875
+76.75135833
+Debris
+Slide 
+16 August 2018
+15437
+KL/TSR/58B/06/2019/34
+Kerala
+Thrissur
+Chalakudy-Malakkapara road slide 8
+Road from Chalakudy to 
+Malakkapara
+10.30290278
+76.75796944
+Debris
+Slide 
+16 August 2018
+15438
+KL/TSR/58B/15/2019/35
+Kerala
+Thrissur
+Chalakudy-Malakkapara road slide 9
+Road from Chalakudy to 
+Malakkapara
+10.30138333
+76.78339444
+Debris
+Slide 
+16 August 2018
+15439
+KL/TSR/58B/15/2019/36
+Kerala
+Thrissur
+Chalakudy-Malakkapara road slide 10 Road from Chalakudy to 
+Malakkapara
+10.29795833
+76.82603611
+Debris
+Slide 
+16 August 2018
+15440
+KL/TSR/58B/15/2019/37
+Kerala
+Thrissur
+Chalakudy-Malakkapara road slide 11 Road from Chalakudy to 
+Malakkapara
+10.30053056
+76.82913056
+Debris
+Slide 
+16 August 2018
+15441
+KL/TSR/58B/07/2019/38
+Kerala
+Thrissur
+Puttankadu slide1
+Puttankadu village
+10.48799444
+76.32170278
+Debris
+Slide  
+15 August 2018

@@ -1,0 +1,533 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+32001
+UK/BAG/53O13/2013/0020
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_ 20
+Chirang Village
+29.868472
+79.820389
+Rock cum Debris
+Slide
+16th-17th June 2013
+32002
+UK/BAG/53O13/2015/336
+Uttarakhand
+Bageshwar
+ 
+ 
+29.868485
+79.821005
+Debris
+Slide
+NA
+32003
+UK/PAU/53K13/2016/69
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Dudharkhal
+29.87
+78.797
+Debris
+Slide
+NA
+32004
+UK/PAU/53K09/2016/158
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.870075
+78.501598
+Debris
+Slide
+NA
+32005
+UK/PAU/53K09/2016/132
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.870247
+78.514187
+Debris
+Slide
+NA
+32006
+UK/PITH/62C09/2013/0050
+Uttarakhand
+Pithoragarh
+UK/Pith/ Tawaghat-
+Jauljibi/Vil/BE/0050
+Village Tapoban
+29.87028
+80.55583
+Rock cum Debris
+Slide
+16th-17th June 2013
+32007
+UK/PAU/53K09/2016/173
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.870463
+78.591276
+Debris
+Slide
+NA
+32008
+UK/BAG/53O13/2013/0023
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_23
+Mahatgaon village
+29.870889
+79.842694
+Debris
+Slump
+16th-17th June 2013
+32009
+UK/PAU/53K09/2016/51
+Uttarakhand
+Pauri Garhwal
+Balsog
+ 
+29.871163
+78.593039
+Rock
+Fall
+NA
+32010
+UK/PAU/53K13/2016/73
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Dudharkhal
+29.871429
+78.76241
+Rock
+Slide
+NA
+32011
+UK/PAU/53K13/2016/77
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Dudharkhal
+29.871431
+78.753533
+Debris
+Slide
+NA
+32012
+UK/PAU/53K13/2016/76
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Dudharkhal
+29.871733
+78.753766
+Debris
+Slide
+NA
+32013
+UK/PAU/53K09/2016/179
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.871857
+78.608874
+Debris
+Slide
+NA
+32014
+UK/PAU/53K09/2016/75
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.872021
+78.722121
+Rock
+Slide
+NA
+32015
+UK/PAU/53K13/2016/74
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Dudharkhal
+29.872203
+78.760867
+Debris
+Slide
+NA
+32016
+UK/PAU/53K09/2016/172
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.872211
+78.587204
+Rock
+Slide
+NA
+32017
+UK/PITH/62C09/2013/0049
+Uttarakhand
+Pithoragarh
+UK/Pith/ Tawaghat-
+Jauljibi/Vil/BE/0049
+State Highway
+29.874741
+80.559086
+Rock cum Debris
+Fall
+16th-17th June 2013
+32018
+UK/BAG/53O13/2015/285
+Uttarakhand
+Bageshwar
+ 
+ 
+29.872231
+79.779256
+Debris
+Slide
+NA
+32019
+UK/PAU/53K09/2016/174
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.873477
+78.591181
+Debris
+Slide
+NA
+32020
+UK/PAU/53K13/2016/75
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Dudharkhal
+29.874414
+78.757772
+Rock
+Slide
+NA
+32021
+UK/PAU/53K09/2016/194
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.874434
+78.518676
+Debris
+Slide
+NA
+32022
+UK/PAU/53K09/2016/145
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.874453
+78.514025
+Debris
+Slide
+NA
+32023
+UK/BAG/53O13/2015/338
+Uttarakhand
+Bageshwar
+ 
+ 
+29.874524
+79.876226
+Rock
+Slide
+2014
+32024
+UK/BAG/53O09/2018/2
+Uttarakhand
+Bageshwar
+Patli
+Patli-Bageshwar
+29.874556
+79.627722
+Rock
+Fall
+2013
+32025
+UK/BAG/53O13/2013/0025
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_ 25
+NE of Parai Village on right bank 
+of Pungar nadi
+29.874833
+79.904528
+Rock
+Slide
+16th-17th June 2013
+32026
+UK/PAU/53K09/2016/170
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.875063
+78.585731
+Rock
+Slide
+NA
+32027
+UK/PAU/53K09/2016/187
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.875524
+78.515601
+Debris
+Slide
+NA
+32028
+UK/PITH/62C09/2013/0048
+Uttarakhand
+Pithoragarh
+UK/Pith/ Tawaghat-
+Jauljibi/Vil/BE/0048
+Village Dobat
+29.87694
+80.5625
+Debris cum earth
+Slide
+16th-17th June 2013
+32029
+UK/PAU/53K13/2016/78
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Dudharkhal
+29.877599
+78.752605
+Rock
+Slide
+NA
+32030
+UK/PAU/53K05/2016/14
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.878412
+78.449121
+Rock
+Slide
+NA
+32031
+UK/BAG/53O13/2013/0024
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_ 24
+Naghar Village
+29.878444
+79.898639
+Debris
+Slide
+16th-17th June 2013
+32032
+UK/PAU/53K13/2016/79
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Dudharkhal
+29.879083
+78.75095
+Rock
+Slide
+NA
+32033
+UK/PIT/62C09/2020/2
+Uttarakhand
+Pithoragarh
+ 
+Tawa Ghat-Dharchula-Gothi
+29.88
+80.56
+Debris
+Slide
+2014
+32034
+UK/PAU/53K09/2016/171
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.88012
+78.585108
+Debris
+Slide
+NA
+32035
+UK/BAG/53O13/2015/339
+Uttarakhand
+Bageshwar
+ 
+ 
+29.880266
+79.889626
+Debris
+Slide
+NA
+32036
+UK/PAU/53K13/2016/80
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Dudharkhal
+29.880281
+78.75037
+Rock
+Slide
+NA
+32037
+UK/PAU/53K09/2016/1
+Uttarakhand
+Pauri Garhwal
+Gumkhal ( Lansdown Road)
+ 
+29.880515
+78.675259
+Rock
+Slide
+NA
+32038
+UK/BAG/53O13/2015/397
+Uttarakhand
+Bageshwar
+ 
+ 
+29.880692
+79.982155
+Rock cum Debris
+Slide
+NA
+32039
+UK/PAU/53K05/2016/11
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.880709
+78.45552
+Debris
+Slide
+NA
+32040
+UK/BAG/53O13/2015/387
+Uttarakhand
+Bageshwar
+ 
+ 
+29.881444
+79.927639
+Debris
+Slide
+NA
+32041
+UK/ALM/53O05/2017/15
+Uttarakhand
+Almora
+ 
+Tarag Tal
+29.881623
+79.433404
+Debris
+Flow
+2011
+32042
+UK/PAU/53K09/2016/54
+Uttarakhand
+Pauri Garhwal
+Hatnur
+ 
+29.88169
+78.581074
+Rock
+Slide
+NA
+32043
+UK/ALM/53O05/2017/14
+Uttarakhand
+Almora
+ 
+Tarag Tal
+29.881803
+79.433317
+Debris
+Flow
+2011
+32044
+UK/ALM/53O05/2017/16
+Uttarakhand
+Almora
+ 
+Tarag Tal
+29.881888
+79.428333
+Rock
+Slide
+2011
+32045
+UK/PAU/53K09/2016/151
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.882055
+78.611968
+Debris
+Slide
+NA
+32046
+UK/PAU/53K09/2016/24
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.882401
+78.746014
+Debris
+Slide
+NA
+32047
+UK/ALM/53O05/2017/13
+Uttarakhand
+Almora
+ 
+Tarag Tal
+29.882454
+79.433351
+Debris
+Flow
+2011

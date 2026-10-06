@@ -1,0 +1,450 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20174
+MG/WGH/78K06/2020/14
+Meghalaya
+West Garo Hills
+Tura-Williamnagar road slide no 1
+SH-1, Tura-WilliamnagarRoad, 
+Near Oragitok, Meghalaya
+25.55
+90.33
+Debris
+Slide
+2019
+20175
+MG/WKH/78O06/2017/9
+Meghalaya
+West Khasi Hills
+Siejlieh slide no. 1
+NH44E Nongstoin bypass
+25.550122
+91.250286
+Debris
+Slide
+NA
+20176
+MEG/WKH/78O10/2016/06
+Meghalaya
+West Khasi Hills
+NH44E slide5
+Along NH44E  SW of Mawsawa 
+village
+25.5502
+91.618106
+Earth
+Slide
+2016
+20177
+MG/WKH/78O02/2017/15
+Meghalaya
+West Khasi Hills
+1.2 km NNW of Mawiaban
+NH44E
+25.550608
+91.232894
+Debris
+Slide
+NA
+20178
+MG/WKH/78O02/2017/16
+Meghalaya
+West Khasi Hills
+1.2 km NNW of Mawiaban
+NH44E
+25.551225
+91.232636
+Debris
+Slide
+NA
+20179
+MG/WKH/78O06/2017/16
+Meghalaya
+South West Khasi  Hills
+Pyndengrei slide no 7
+NH44E Nongstoin bypass
+25.55125
+91.297056
+Rock
+Slide
+NA
+20180
+MG/WKH/78O02/2017/17
+Meghalaya
+West Khasi Hills
+1.3 km NNW of Mawiaban
+NH44E
+25.551667
+91.2325
+Debris
+Slide
+NA
+20181
+MG/WJH/83C06/2018/3
+Meghalaya
+West Jaintia hills
+Mynso slide
+1 km east of Mynso
+25.551667
+92.331806
+Rock
+Slide
+NA
+20182
+MG/WKH/78O02/2017/35
+Meghalaya
+West Khasi Hills
+1.9 km NE of Mawkadiang
+Link road from NH44E from 
+Mawliehdein
+25.552647
+91.237072
+Debris
+Slide
+NA
+20183
+MG/WKH/78K14/2018/2
+Meghalaya
+West Khasi Hills
+South-West of  Nongchram Ading
+NH-44E
+25.552992
+90.814503
+Debris
+Slide
+NA
+20184
+MG/WKH/78K14/2018/9
+Meghalaya
+West Khasi Hills
+West of  Nongchram Ading
+NH-44E
+25.553522
+90.815225
+Soil
+Flow
+NA
+20185
+MG/WKH/78O02/2017/18
+Meghalaya
+West Khasi Hills
+1.6 km NNW of Mawiaban
+NH44E
+25.553794
+91.231139
+Debris
+Slide
+NA
+20186
+MG/WKH/78O02/2017/34
+Meghalaya
+West Khasi Hills
+1.8 km NE of Mawkadiang
+Link road from NH44E from 
+Mawliehdein
+25.555256
+91.234944
+Rock
+Slide
+NA
+20187
+MG/EGH/78K14/2018/8
+Meghalaya
+East Garo hills
+South of Nongchram Ading
+NH 44E
+25.557833
+90.818103
+Soil
+Slide
+NA
+20188
+MG/EGH/78K14/2018/7
+Meghalaya
+East Garo hills
+South-West of Nongchram Ading
+NH-44E
+25.558058
+90.809919
+Soil
+Slide
+NA
+20189
+MG/WKH/78O02/2017/19
+Meghalaya
+West Khasi Hills
+1.7 km E of Urkyllong
+NH44E
+25.558442
+91.228547
+Debris
+Slide
+NA
+20190
+MG/WKH/78O02/2017/33
+Meghalaya
+West Khasi Hills
+1.7 km NE of Mawkadiang
+Link road from NH44E from 
+Mawliehdein
+25.558489
+91.230911
+Debris
+Slide
+NA
+20191
+MG/WKH/78O02/2017/32
+Meghalaya
+West Khasi Hills
+1.7 km NE of Mawkadiang
+Link road from NH44E from 
+Mawliehdein
+25.559222
+91.229639
+Debris
+Slide
+NA
+20192
+ME/EKH/83C02/2015/171
+Meghalaya
+East Khasi Hills
+ 
+ 
+25.559778
+92.226278
+Debris
+Slide
+NA
+20193
+MG/WGH/78K06/2020/15
+Meghalaya
+West Garo Hills
+Tura-Williamnagar road slide no 2
+SH-1, Tura-Williamnagar Road
+25.56
+90.34
+Earth
+Slide
+NA
+20194
+MG/WGH/78K06/2020/16
+Meghalaya
+West Garo Hills
+Tura-Williamnagar road slide no 3
+SH-1, Tura-Williamnagar Road, 
+Chinabat, Meghalaya.
+25.56
+90.37
+Debris
+Slide
+2019
+20195
+MG/SWKH/78K14/2018/1
+Meghalaya
+South West Khasi  Hills
+North of Makalbari
+NH-44E
+25.560028
+90.833917
+Soil
+Slide
+NA
+20196
+MG/WKH/78O02/2017/31
+Meghalaya
+West Khasi Hills
+2.2 km E of Urkyllong
+Link road from NH44E from 
+Mawliehdein
+25.560667
+91.228028
+Debris
+Slide
+NA
+20197
+MG/WKH/78O02/2017/30
+Meghalaya
+West Khasi Hills
+2.1 km E of Urkyllong
+Link road from NH44E from 
+Mawliehdein
+25.560931
+91.227694
+Debris
+Slide
+NA
+20198
+MG/WJH/83C06/2018/6
+Meghalaya
+West Jaintia hills
+Mynso quarry slide
+Mynso-Samatan road
+25.561281
+92.330142
+Debris
+Slide
+NA
+20199
+MG/WKH/78O02/2017/21
+Meghalaya
+West Khasi Hills
+0.8 km E of Mawliehdein
+NH44E
+25.563239
+91.225711
+Debris
+Slide
+NA
+20200
+MG/WJH/83C06/2018/4
+Meghalaya
+East Jaintia Hills
+Mynso quarry slide
+Mynso-Samatan road
+25.563472
+92.329689
+Rock
+Slide
+NA
+20201
+MG/WKH/78O02/2017/57
+Meghalaya
+West Khasi Hills
+2.4 km E of mawliehdein
+Urkali  Nongkhniang road
+25.565333
+91.225667
+Debris
+Slide
+NA
+20202
+MG/WKH/78O02/2017/20
+Meghalaya
+West Khasi Hills
+1.3 km E of Mawliehdein
+NH44E
+25.565489
+91.220686
+Debris
+Slide
+NA
+20203
+MG/SGH/78K14/2018/3
+Meghalaya
+South Garo hills
+Rongjeng slide
+NH44E
+25.565569
+90.808153
+Soil
+Slide
+NA
+20204
+MEGH/EKH/78O14/2007/D-17
+Meghalaya
+East Khasi Hills
+Nongrimbah slide
+ 
+25.56667
+91.90194
+Debris
+Slide
+08 September 2007
+20205
+MEG/WKH/78O10/2016/11
+Meghalaya
+West Khasi Hills
+Pyrda village slide1
+2 km SE of Pyrda village
+25.568056
+91.737944
+Rock
+Slide
+2016
+20206
+MEG/WKH/78O10/2016/12
+Meghalaya
+West Khasi Hills
+Pyrda village slide2
+About 2 km SE of Pyrda village
+25.568106
+91.737919
+Debris
+Slide
+2016
+20207
+ME/EKJ/78O14/2015/28
+Meghalaya
+East Khasi Hills
+ 
+Near Nongumlong
+25.568837
+91.833286
+Rock
+Slide
+NA
+20208
+MG/WKH/78O02/2017/22
+Meghalaya
+West Khasi Hills
+Urkali
+NH44E
+25.569222
+91.217222
+Debris
+Slide
+NA
+20209
+ME/EKH/83C02/2015/182
+Meghalaya
+East Khasi Hills
+ 
+ 
+25.569278
+92.2025
+Debris
+Slide
+NA
+20210
+ME/EKH/83C02/2015/183
+Meghalaya
+East Khasi Hills
+ 
+1km W of Nartiang
+25.569333
+92.202139
+Debris
+Slide
+NA
+20211
+MG/WKH/78O02/2017/23
+Meghalaya
+West Khasi Hills
+0.3 km w of Urkali
+NH44E
+25.569778
+91.21575
+Debris
+Slide
+NA
+20212
+MG/WGH/78G14/2020/2
+Meghalaya
+West Garo Hills
+NA
+NA
+25.57
+89.98
+Debris
+Slide
+NA

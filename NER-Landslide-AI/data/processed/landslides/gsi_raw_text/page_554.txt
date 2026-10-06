@@ -1,0 +1,371 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21964
+MZ/CHA/84E02/2017/0086
+Mizoram
+Champhai
+ 
+2.5km towards Chimluang 
+project road from junction
+23.639272
+93.066239
+Soil
+Slide
+NA
+21965
+MZ/AIZ/84E02/2017/30
+Mizoram
+Aizawl
+ 
+13.5km S OF Dulte
+23.639484
+93.032189
+Debris
+Slide
+NA
+21966
+MZ/CHA/84E06/2017/14
+Mizoram
+Champhai
+ 
+5km NW of Vapar
+23.640073
+93.315306
+Rock
+Slide
+NA
+21967
+MZ/CHA/84E06/2017/8
+Mizoram
+Champhai
+ 
+6km N of Vapar
+23.640448
+93.343559
+Debris
+Slide
+NA
+21968
+MZ/CHA/84E02/2017/0081
+Mizoram
+Champhai
+ 
+2 km N of kawlkulh (Ngopa 
+road)
+23.640693
+93.084944
+Rock
+Slide
+2017
+21969
+MZ/CHA/84E02/2017/0080
+Mizoram
+Champhai
+ 
+2.2km N of Kawlkulh (Ngopa 
+road)
+23.64119
+93.085929
+Rock
+Slide
+NA
+21970
+MZ/CHA/84E02/2017/0085
+Mizoram
+Champhai
+ 
+1km towards Chimluang project 
+road from junction
+23.644469
+93.068299
+Soil
+Slide
+NA
+21971
+MZ/AIZ/84A14/2015/109
+Mizoram
+Aizawl
+ 
+East of Ruallung village, on 
+Ruallung-Mualpheng road
+23.6445
+92.990194
+Debris
+Slide
+NA
+21972
+MZ/CHA/84E02/2017/12
+Mizoram
+Champhai
+ 
+3.5km N OF kawlkulh towards 
+Dulte
+23.644962
+93.076363
+Debris
+Slide
+NA
+21973
+MZ/CHA/84E02/2017/0119
+Mizoram
+Champhai
+ 
+Near Chimluang road project
+23.646848
+93.068776
+Debris
+Slide
+NA
+21974
+MZ/CHA/84E06/2017/21
+Mizoram
+Champhai
+ 
+7km NW of Vapar
+23.647342
+93.303877
+Rock
+Slide
+NA
+21975
+MZ/CHA/84E06/2017/2
+Mizoram
+Champhai
+ 
+7.5km NW of Vapar
+23.647375
+93.303415
+Debris
+Slide
+NA
+21976
+MZ/CHA/84E02/2017/0120
+Mizoram
+Champhai
+ 
+3km E of Dulte
+23.647593
+93.068219
+Debris
+Slide
+NA
+21977
+MZ/CHA/84E06/2017/13
+Mizoram
+Champhai
+ 
+8km NW of Vapar
+23.647667
+93.299727
+Debris
+Slide
+NA
+21978
+MZ/CHA/84E06/2017/9
+Mizoram
+Champhai
+ 
+9km NW of Vapar
+23.648967
+93.291988
+Debris
+Slide
+NA
+21979
+MZ/AIZ/84E02/2017/32
+Mizoram
+Aizawl
+ 
+15km S of Dulte
+23.650925
+93.030704
+Debris
+Slide
+NA
+21980
+MZ/AIZ/84A10/2015/193
+Mizoram
+Aizawl
+ 
+1km Southwest of Samtlang, N. 
+Lungleng - Aizawl Rd
+23.652972
+92.6985
+Debris
+Slide
+NA
+21981
+MZ/AIZ/84E02/2017/37
+Mizoram
+Aizawl
+ 
+20.5km E of Keifang
+23.653812
+93.029927
+Debris
+Slide
+NA
+21982
+MZ/CHA/84E06/2017/24
+Mizoram
+Champhai
+ 
+1km S of Murlen
+23.654025
+93.287022
+Debris
+Slide
+NA
+21983
+MZ/AIZ/84A14/2015/113
+Mizoram
+Aizawl
+ 
+About 17 Km from Seling on SH 
+Seling-Keifang.
+23.654361
+92.932389
+Rock
+Slide
+NA
+21984
+MZ/AIZ/84A14/2015/101
+Mizoram
+Aizawl
+ 
+South of Keifang village on SH 
+Keifang-Seling road.
+23.654556
+92.965056
+Debris
+Slide
+NA
+21985
+MZ/AIZ/84A10/2015/190
+Mizoram
+Aizawl
+ 
+west of Samtlang, N. Lungleng - 
+Aizawl Rd
+23.65475
+92.690083
+Rock
+Slide
+NA
+21986
+MZ/AIZ/84A14/2015/102
+Mizoram
+Aizawl
+ 
+NW of Lenchim village, 
+Mualpheng-Lenchim Rd
+23.655417
+92.957167
+Debris
+Slide
+NA
+21987
+MZ/AIZ/84A14/2015/104
+Mizoram
+Aizawl
+ 
+About 3km South of Keifang 
+village on SH Keifang-Seling 
+road.
+23.656556
+92.964611
+Rock
+Slide
+NA
+21988
+MZ/AIZ/84E02/2017/29
+Mizoram
+Aizawl
+ 
+8.6km E of Saitual
+23.657
+93.028012
+Rock
+Slide
+NA
+21989
+MZ/CHA/84E06/2017/16
+Mizoram
+Champhai
+ 
+0.5 km S of Murlen
+23.657018
+93.286924
+Debris
+Slide
+NA
+21990
+MZ/CHA/84E02/2017/0082
+Mizoram
+Champhai
+ 
+6.8km N of kawlkulh (Ngopa 
+road)
+23.657186
+93.087169
+Debris
+Slide
+NA
+21991
+MZ/MAM/84A10/2015/176
+Mizoram
+Mamit
+ 
+North of W Lungdar, PMGSY 
+Darung - W Lungdar - 
+Chungtlang - Rulpuihlim
+23.657194
+92.5905
+Rock
+Slide
+NA
+21992
+MZ/AIZ/84A10/2015/192
+Mizoram
+Aizawl
+ 
+2.5 km West of Samtlang, 
+N.Lungleng - Aizawl Rd
+23.657278
+92.704583
+Debris
+Slide
+NA
+21993
+MZ/AIZ/84A14/2015/105
+Mizoram
+Aizawl
+ 
+2.9 km south of Keifang village 
+on SH Keifang-Seling road
+23.657444
+92.963889
+Rock
+Slide
+NA
+21994
+MZ/CHA/84E06/2017/3
+Mizoram
+Champhai
+ 
+11.5km N of Vapar
+23.657642
+93.349683
+Debris
+Slide
+NA

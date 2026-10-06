@@ -1,0 +1,553 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+17896
+LA/KAR/52C05/2020/1
+UT: Ladakh
+Kargil
+ 
+NH301
+33.89
+76.33
+Debris
+Slide
+NA
+17897
+LA/KAR/52C05/2020/2
+UT: Ladakh
+Kargil
+ 
+NH301
+33.89
+76.33
+Debris
+Slide
+NA
+17898
+LA/KAR/52C05/2020/3
+UT: Ladakh
+Kargil
+ 
+NH301
+33.97
+76.34
+Rock
+Fall
+NA
+17899
+LA/KAR/52C05/2020/4
+UT: Ladakh
+Kargil
+ 
+NH301
+34
+76.36
+Rock
+Slide
+NA
+17900
+LA/KAR/52C08/2020/1
+UT: Ladakh
+Kargil
+ 
+NH301
+34.01
+76.35
+Debris
+Slide
+NA
+17901
+LA/KAR/43N16/2020/24
+UT: Ladakh
+Kargil
+ 
+ 
+34.05
+75.94
+Rock
+Fall
+NA
+17902
+LA/KAR/52B04/2020/15
+UT: Ladakh
+Kargil
+ 
+ 
+34.05
+76.22
+Rock
+Fall
+NA
+17903
+LA/KAR/43N16/2020/22
+UT: Ladakh
+Kargil
+ 
+ 
+34.06
+75.98
+Rock
+Fall
+NA
+17904
+LA/KAR/43N16/2020/23
+UT: Ladakh
+Kargil
+ 
+ 
+34.07
+75.98
+Rock
+Fall
+NA
+17905
+LA/KAR/43N16/2020/26
+UT: Ladakh
+Kargil
+ 
+ 
+34.07
+75.93
+Debris
+Slide
+NA
+17906
+LA/KAR/43N16/2020/29
+UT: Ladakh
+Kargil
+ 
+ 
+34.07
+75.93
+Debris
+Slide
+NA
+17907
+LA/KAR/52B04/2020/12
+UT: Ladakh
+Kargil
+ 
+On the way to Parkachik-
+Rangdum Road, NH 301
+34.08
+76.1
+Debris
+Slide
+NA
+17908
+LA/KAR/52B04/2020/13
+UT: Ladakh
+Kargil
+ 
+ 
+34.08
+76.08
+Debris
+Flow
+NA
+17909
+LA/KAR/52B04/2020/17
+UT: Ladakh
+Kargil
+ 
+Parkachik- Rangdum Road, NH 
+301
+34.08
+76.01
+Rock
+Fall
+NA
+17910
+LA/KAR/52B04/2020/18
+UT: Ladakh
+Kargil
+ 
+ 
+34.08
+76.02
+Rock
+Fall
+NA
+17911
+LA/KAR/52B04/2020/21
+UT: Ladakh
+Kargil
+ 
+ 
+34.08
+76.07
+Rock
+Fall
+NA
+17912
+LA/KAR/43N16/2020/21
+UT: Ladakh
+Kargil
+ 
+ 
+34.09
+75.95
+Rock
+Slide
+NA
+17913
+LA/KAR/52B04/2020/14
+UT: Ladakh
+Kargil
+ 
+ 
+34.09
+76.01
+Rock
+Fall
+NA
+17914
+LA/KAR/52B04/2020/16
+UT: Ladakh
+Kargil
+ 
+ 
+34.09
+76.01
+Rock
+Fall
+NA
+17915
+LA/KAR/43N16/2020/31
+UT: Ladakh
+Kargil
+ 
+ 
+34.1
+75.95
+Debris
+Slide
+NA
+17916
+LA/KAR/43N16/2020/25
+UT: Ladakh
+Kargil
+ 
+ 
+34.19
+75.94
+Rock
+Fall
+NA
+17917
+LA/KAR/43N16/2020/27
+UT: Ladakh
+Kargil
+ 
+ 
+34.19
+75.93
+Debris
+Slide
+NA
+17918
+LA/KAR/43N16/2020/28
+UT: Ladakh
+Kargil
+ 
+ 
+34.22
+75.95
+Debris
+Slide
+NA
+17919
+LA/KAR/52B04/2020/19
+UT: Ladakh
+Kargil
+ 
+ 
+34.22
+76.16
+Debris
+Slide
+NA
+17920
+LA/KAR/52B04/2020/22
+UT: Ladakh
+Kargil
+ 
+ 
+34.22
+76.15
+Debris
+Slide
+NA
+17921
+LA/KAR/52B04/2020/20
+UT: Ladakh
+Kargil
+ 
+ 
+34.23
+76.1
+Rock
+Slide
+NA
+17922
+LA/KAR/52B04/2020/23
+UT: Ladakh
+Kargil
+ 
+ 
+34.23
+76.11
+Debris
+Slide
+NA
+17923
+LA/KAR/43N16/2020/30
+UT: Ladakh
+Kargil
+ 
+ 
+34.24
+75.97
+Debris
+Slide
+NA
+17924
+LA/KAR/52B04/2020/24
+UT: Ladakh
+Kargil
+ 
+ 
+34.24
+76.06
+Debris
+Slide
+NA
+17925
+LA/KAR/43N15/2020/17
+UT: Ladakh
+Kargil
+ 
+ 
+34.25
+75.97
+Rock
+Slide
+NA
+17926
+LA/LEH/52B15/2020/19
+UT: Ladakh
+Leh
+ 
+ 
+34.26
+76.84
+Rock
+Slide
+NA
+17927
+LA/KAR/43N15/2020/11
+UT: Ladakh
+Kargil
+ 
+ 
+34.29
+75.95
+Rock
+Slide
+NA
+17928
+LA/LEH/52B11/2020/1
+UT: Ladakh
+Leh
+ 
+NH01
+34.29
+76.71
+Debris
+Slide
+NA
+17929
+LA/LEH/52B11/2020/2
+UT: Ladakh
+Leh
+ 
+NH01
+34.29
+76.72
+Rock
+Fall
+NA
+17930
+LA/LEH/52B11/2020/3
+UT: Ladakh
+Leh
+ 
+NH01
+34.29
+76.72
+Rock
+Slide
+NA
+17931
+LA/LEH/52B11/2020/4
+UT: Ladakh
+Leh
+ 
+NH01
+34.29
+76.72
+Rock
+Slide
+NA
+17932
+LA/LEH/52B12/2020/1
+UT: Ladakh
+Leh
+ 
+NH01
+34.29
+76.71
+Debris
+Subsidence
+NA
+17933
+LA/LEH/52B15/2020/1
+UT: Ladakh
+Leh
+ 
+NH01 OLA
+34.29
+76.79
+Debris
+Slide
+NA
+17934
+LA/LEH/52B15/2020/18
+UT: Ladakh
+Leh
+ 
+Link road to Wanla
+34.29
+76.81
+Debris
+Slide
+NA
+17935
+LA/LEH/52B15/2020/21
+UT: Ladakh
+Leh
+ 
+NH01
+34.29
+76.79
+Rock
+Slide
+NA
+17936
+LA/LEH/52B15/2020/25
+UT: Ladakh
+Leh
+ 
+NH01
+34.29
+76.81
+Rock
+Slide
+NA
+17937
+LA/LEH/52B15/2020/5
+UT: Ladakh
+Leh
+ 
+NH01
+34.29
+76.81
+Debris
+Subsidence
+NA
+17938
+LA/LEH/52B15/2020/6
+UT: Ladakh
+Leh
+ 
+NH01
+34.29
+76.81
+Rock
+Slide
+NA
+17939
+LA/LEH/52B15/2020/7
+UT: Ladakh
+Leh
+ 
+NH01
+34.29
+76.81
+Rock
+Slide
+NA
+17940
+LA/LEH/52B15/2020/9
+UT: Ladakh
+Leh
+ 
+NH01
+34.29
+76.81
+Debris
+Slide
+NA
+17941
+LA/KAR/43N15/2020/12
+UT: Ladakh
+Kargil
+ 
+ 
+34.3
+75.93
+Debris
+Slide
+NA
+17942
+LA/KAR/43N15/2020/18
+UT: Ladakh
+Kargil
+ 
+ 
+34.3
+75.94
+Rock
+Slide
+NA
+17943
+LA/KAR/43N15/2020/5
+UT: Ladakh
+Kargil
+ 
+ 
+34.3
+75.94
+Rock
+Slide
+NA
+17944
+LA/LEH/52B15/2020/12
+UT: Ladakh
+Leh
+ 
+NH01
+34.3
+76.99
+Debris
+Slide
+NA

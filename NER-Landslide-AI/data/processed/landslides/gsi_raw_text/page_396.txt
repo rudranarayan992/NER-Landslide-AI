@@ -1,0 +1,416 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16218
+KL/IDK/58G/01/2025/PDLS/18
+Kerala
+Idukki
+Soolappara Debris slide
+Soolappara, Paruthod village
+9.854678
+77.234769
+Debris
+Slide 
+2025
+16219
+KL/IDK/58G/01/2025/PDLS/19
+Kerala
+Idukki
+Kunthalampara Debris flow
+Kunthalampara, V.T Padi
+9.733907
+77.117741
+Debris
+Flow
+2025
+16220
+KER/KHZ/49M15/2025/01
+Kerala
+Kozhikode
+Thamarassery
+Kozhikode–Kollegal National 
+Highway (NH 766)
+11.51339444
+76.01924444
+Rock
+Slide
+26 August 2025
+16221
+KER/KOZ/49M15/2025/01
+Kerala
+Kozhikode
+Kattippara
+Kattippara, Mannathiyett
+11.47475
+75.92625
+Rock
+Slide
+26 July 2025
+16222
+KER/KOZ/49M14/2025/02
+Kerala
+Kozhikode
+Cheedikuzhi debris flow
+Cheedikuzhi
+11.520975
+75.89981389
+Debris
+Flows
+16 July 2025
+16223
+KER/KOZ/49M14/2025/3
+Kerala
+Kozhikode
+Kuttiyadi churam slide 1
+SH-54
+11.72522222
+75.81052778
+Debris
+Slide
+16 July 2025
+16224
+KER/KOZ/49M14/2025/4
+Kerala
+Kozhikode
+Kuttiyadi Churam Slide 2
+SH-54
+11.72566667
+75.81052778
+Rock/Debris
+Fall
+6 July 2025
+16225
+KER/KOZ/49M14/2025/5
+Kerala
+Kozhikode
+Kuttiyadi Churam- 10th hairpin bend
+SH-54
+11.72976111
+75.81385278
+Debris
+Slide
+16 July 2025 at 01:00 hrs
+16226
+KER/KOZ/49M14/2025/5
+Kerala
+Kozhikode
+Pakranthalam
+Opp to 10th hairpin turn 
+Kuttiyadi churam
+11.72481667
+75.81764167
+Debris
+Slide
+2025
+16227
+KER/KAN/49M13/2025/7
+Kerala
+Kannur
+Palchuram slide
+Palchuram Ghat road 
+(Mananthawadi in Wayanad - 
+Kannur)
+11.84484722
+75.91622222
+Debris
+Slide
+20th July 2025
+16228
+KER/MLP/58A4/2025/01
+Kerala
+Malappuram
+Morayur
+Ayyadan malai area, Morayur 
+village
+11.14075
+76.01466667
+Earth
+Rotational
+26th June 2025
+16229
+KER/WYD/58A03/2025/01
+Kerala
+Wayanad
+Meenakshi Bridge
+Meppadi- Chooralmala road
+11.52101944
+76.13565
+Debris
+Slide
+Jun-24
+16230
+KER/KOZ/49M14/2025/02
+Kerala
+Malappuram
+Nadugani-Vazhikadavu Road-1
+SH-28
+11.43813889
+76.39222222
+Debris
+Slide
+Jul-25
+16231
+KER/KOZ/49M14/2025/03
+Kerala
+Malappuram
+Nadugani-Vazhikadavu Road-2
+SH-29
+11.42211111
+76.38263889
+Rock
+Slide
+Jul-25
+16232
+KER/PAL/58A12/2025/05
+Kerala
+Palakkad
+Mukkali rock slide
+Mannarkadu-Anakkatty Road
+11.04488889
+76.53952778
+Rock
+Slide
+15-Jun-25
+16233
+KER/KOZ/49M14/2025/06
+Kerala
+Kozhikode
+26th mile Thalayad 1
+Talayad –Kakkayam Road
+11.51527778
+76.89536111
+Rock
+Slide
+30 May 2025
+16234
+KER/KOZ/49M14/2025/07
+Kerala
+Kozhikode
+Thalayad 2
+Talayad –Kakkayam Road
+11.51652778
+75.89355556
+Debris
+Slide
+30 May 2025
+16235
+KER/KOL/58D13/2025/01
+Kerala
+Kollam
+Pachamala-Pinnacle view point slide
+Kollam-Kurivikonam Road
+8.97316667
+76.89913889
+Debris
+Flow
+12 October 2025
+16236
+GO/NG/48I04/2015/01
+Goa
+North Goa
+ 
+East of Palolem
+15.014339
+74.037694
+Rock
+Slide
+NA
+16237
+GO/NG/48I04/2015/02
+Goa
+North Goa
+ 
+East of Palolem
+15.017553
+74.034444
+Debris
+Slide
+NA
+16238
+GO/NG/48I04/2015/03
+Goa
+North Goa
+ 
+South west of Kankon
+15.031378
+74.023722
+Debris
+Slide
+NA
+16239
+GO/NG/48I04/2015/04
+Goa
+North Goa
+ 
+North west of Kankon
+15.051183
+74.022444
+Debris
+Slide
+NA
+16240
+GO/NG/48I04/2015/06
+Goa
+North Goa
+ 
+North of Kankon
+15.055383
+74.025556
+Debris
+Slide
+NA
+16241
+GO/NG/48I04/2015/05
+Goa
+North Goa
+ 
+North of Kankon
+15.056369
+74.025861
+Debris
+Slide
+NA
+16242
+GO/SG/48E15/2015/19
+Goa
+South Goa
+ 
+ 
+15.132222
+73.951667
+Debris
+Slide
+NA
+16243
+GO/SG/48E15/2015/18
+Goa
+South Goa
+ 
+S of Betul
+15.135
+73.954444
+Debris
+Subsidence
+NA
+16244
+GO/NG/48I04/2015/07
+Goa
+North Goa
+ 
+North of Rivona
+15.172214
+74.107333
+Debris
+Slide
+NA
+16245
+GA/SGA/48I03/2020/3
+Goa
+South Goa
+Cut Slope failure along Sanverdem – 
+Siroda road
+1.2 km north of Kudchedem
+15.27
+74.1
+Debris
+Slide
+NA
+16246
+GA/SGA/48I03/2020/8
+Goa
+South Goa
+Landslide at Mayna
+2.9 km southeast of Mayna
+15.27
+74.02
+Earth
+Slide
+NA
+16247
+GA/SGA/48I03/2020/4
+Goa
+South Goa
+Cut Slope failure along Sanverdem – 
+Siroda road
+3.6 km north west of 
+Kudchedem
+15.28
+74.08
+Debris
+Slide
+NA
+16248
+GO/SOU/48I07/2018/33
+Goa
+South Goa
+Dudhsagar  landslide
+Dudhsagar railway junction
+15.3325
+74.306333
+Rock
+Slide
+NA
+16249
+GO/SG/48E15/2015/16
+Goa
+South Goa
+ 
+ 
+15.355
+73.976389
+Earth
+Subsidence
+NA
+16250
+GO/SG/48E15/2015/12
+Goa
+South Goa
+ 
+Rasain
+15.37
+73.960278
+Debris
+Slide
+NA
+16251
+GO/SG/48E15/2015/13
+Goa
+South Goa
+ 
+ 
+15.385
+73.951111
+Debris
+Slide
+NA
+16252
+GO/SG/48E15/2015/20
+Goa
+South Goa
+ 
+ 
+15.39
+73.913333
+Earth
+Slide
+NA
+16253
+GO/SG/48E15/2015/22
+Goa
+South Goa
+ 
+ 
+15.391667
+73.903611
+Earth
+Slide
+NA

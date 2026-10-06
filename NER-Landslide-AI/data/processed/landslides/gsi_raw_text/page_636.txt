@@ -1,0 +1,381 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+25120
+NAG/WOKH/83J08/2015/0008
+Nagaland
+Wokha
+ 
+Lungithang Village, 24 km SE of 
+Wokha Town.
+26.026389
+94.331722
+Debris
+Slide
+NA
+25121
+NAG/TUN/83J16/2016/0024
+Nagaland
+Tuensang
+ 
+500 m S of Zungki Riv Bridge
+26.027111
+94.847806
+Rock
+Slide
+NA
+25122
+NAG/ZUN/83J12/2016/0054
+Nagaland
+Zunheboto
+ 
+2 km N of Aghunato
+26.028806
+94.638389
+Debris
+Slide
+NA
+25123
+NAG/TUN/83J16/2016/0023
+Nagaland
+Tuensang
+ 
+4km S of Lasikiur vill
+26.02883
+94.863993
+Rock
+Slide
+NA
+25124
+NAG/ZUNB/83J12/2016/0010
+Nagaland
+Zunheboto
+ 
+Way to Baimho Village from 
+Zunheboto Town.
+26.031742
+94.547354
+Debris
+Slide
+2015
+25125
+NAG/ZUN/83J12/2016/0055
+Nagaland
+Zunheboto
+ 
+2.5 km N of Aghunato
+26.031786
+94.634392
+Rock
+Slide
+NA
+25126
+NAG/WOKH/83J08/2015/0036
+Nagaland
+Wokha
+ 
+Wokha to Kohima road. Near 
+LongsachungNH 61 meetinh 
+point
+26.0325
+94.256
+Rock
+Slide
+NA
+25127
+NAG/ZUN/83J12/2016/0056
+Nagaland
+Zunheboto
+ 
+2.7 km N of Aghunato
+26.032992
+94.633639
+Rock
+Slide
+NA
+25128
+NAG/ZUNB/83J12/2016/0018
+Nagaland
+Zunheboto
+ 
+Zunheboto to Baimho Road
+26.033098
+94.542753
+Rock
+Slide
+2015
+25129
+NAG/WOKH/83J08/2015/0035
+Nagaland
+Wokha
+ 
+Wokha to Kohima road. Near 
+LongsachungNH 61 meetinh 
+point
+26.033361
+94.257111
+Rock
+Slide
+NA
+25130
+NAG/WOKH/83J08/2015/0034
+Nagaland
+Wokha
+ 
+Wokha to Kohima road. Near 
+LongsachungNH 61 meetinh 
+point
+26.033528
+94.257306
+Rock
+Slide
+NA
+25131
+NAG/ZUN/83J12/2016/0003
+Nagaland
+Zunheboto
+ 
+SH, 5km North of Zunheboto 
+Town
+26.034806
+94.519889
+Earth
+Slide
+NA
+25132
+NAG/ZUNH/83J08/2015/ 0088
+Nagaland
+Zunheboto
+ 
+Sukomi Village
+26.034833
+94.458
+Debris
+Slide
+NA
+25133
+NAG/WOKH/83J08/2015/0033
+Nagaland
+Wokha
+ 
+Wokha to Kohima 
+road.Longsachung NH 61 
+meetinh point
+26.037139
+94.258306
+Rock
+Slide
+NA
+25134
+NAG/WOK/83J/4/2016/0106
+Nagaland
+Wokha
+ 
+2 km NE of Woroko
+26.037381
+94.037386
+Rock
+Slide
+NA
+25135
+NAG/ZUN/83J12/2016/0057
+Nagaland
+Zunheboto
+ 
+4 km N of Aghunato
+26.037847
+94.635525
+Rock
+Slide
+NA
+25136
+NAG/ZUN/83J12/2016/0019
+Nagaland
+Zunheboto
+ 
+2km SE of Tizu river Bridge
+26.03853
+94.58648
+Debris
+Slide
+NA
+25137
+NAG/ZUN/83J12/2016/0004
+Nagaland
+Zunheboto
+ 
+5 km north of Zunheboto Town 26.0415
+94.522444
+Rock
+Slide
+NA
+25138
+NAG/ZUN/83J12/2016/0005
+Nagaland
+Zunheboto
+ 
+50 m North of L8, along the 
+road
+26.041525
+94.523238
+Rock
+Slide
+NA
+25139
+NG/NOK/83N04/2017/53
+Nagaland
+Noklak
+ 
+wui
+26.041611
+95.075806
+Rock
+Slide
+NA
+25140
+NAG/ZUN/83J12/2016/0006
+Nagaland
+Zunheboto
+ 
+50 m North of L8 along the 
+road.
+26.041658
+94.5241
+Rock
+Slide
+NA
+25141
+NG/NOK/83N04/2017/54
+Nagaland
+Noklak
+ 
+wui
+26.045083
+95.054833
+Debris
+Slide
+NA
+25142
+NAG/ZUN/83J12/2016/0002
+Nagaland
+Zunheboto
+ 
+Beside SH, Asukhomi to 
+Zunheboto
+26.046444
+94.526194
+Earth
+Fall
+NA
+25143
+NAG/ZUN/83J12/2016/0058
+Nagaland
+Zunheboto
+ 
+4.5 km N of Aghunato
+26.049285
+94.635198
+Rock
+Slide
+NA
+25144
+NAG/WOK/83J/4/2016/0090
+Nagaland
+Wokha
+ 
+1 km NW of Pyotchu
+26.053164
+94.045167
+Rock
+Slide
+NA
+25145
+NAG/WOK/83J/4/2016/0089
+Nagaland
+Wokha
+ 
+1 km NW of Pyotchu
+26.053519
+94.044361
+Rock
+Slide
+NA
+25146
+NAG/WOKH/83J08/2015/0006
+Nagaland
+Wokha
+ 
+Longla Village, 17 km SE of 
+Wokha Town.
+26.053667
+94.307917
+Rock
+Slide
+NA
+25147
+NAG/WOK/83J/4/2016/0088
+Nagaland
+Wokha
+ 
+1 km NW of Pyotchu
+26.055011
+94.044322
+Rock
+Slide
+NA
+25148
+NAG/WOKH/83J08/2015/0007
+Nagaland
+Wokha
+ 
+Longla Village, 17 km SE of 
+Wokha Town.
+26.056167
+94.3065
+Rock
+Slide
+NA
+25149
+NAG/WOK/83J/4/2016/0070
+Nagaland
+Wokha
+ 
+Longsa
+26.059222
+94.2445
+Debris
+Slide
+NA
+25150
+NAG/WOKH/83J08/2015/0015
+Nagaland
+Wokha
+ 
+Longsa Village, 6 km South of 
+Wokha Town.
+26.05925
+94.244472
+Rock
+Slide
+NA
+25151
+NAG/WOKH/83J08/2015/0016
+Nagaland
+Wokha
+ 
+0.5 km West of NH-61, on the 
+way to Longsa Village.
+26.05925
+94.251972
+Debris
+Slide
+NA

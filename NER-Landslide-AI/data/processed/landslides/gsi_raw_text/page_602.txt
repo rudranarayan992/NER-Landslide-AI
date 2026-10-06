@@ -1,0 +1,359 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+23900
+MIZ/LUNG/84A12/2025/188
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.203107
+92.577972
+Debris
+Flow
+01 June 2025 
+23901
+MIZ/LUNG/84A12/2025/189
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.203903
+92.576807
+Debris
+Flow
+01 June 2025 
+23902
+MIZ/LUNG/84A12/2025/190
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.204282
+92.576174
+Debris
+Flow
+01 June 2025 
+23903
+MIZ/LUNG/84A12/2025/191
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.204481
+92.575792
+Earth
+Slide
+01 June 2025 
+23904
+MIZ/LUNG/84A12/2025/192
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.205193
+92.574684
+Debris
+Flow
+01 June 2025 
+23905
+MIZ/LUNG/84A12/2025/193
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.214589
+92.572672
+Debris
+Slide
+01 June 2025 
+23906
+MIZ/LUNG/84A12/2025/194
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.212919
+92.558022
+Debris
+Flow
+01 June 2025 
+23907
+MIZ/LUNG/84A12/2025/195
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.207082
+92.509726
+Debris
+Slide
+01 June 2025 
+23908
+MIZ/LUNG/84A12/2025/196
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.195616
+92.546251
+Debris
+Slide
+01 June 2025 
+23909
+MIZ/LUNG/84A12/2025/197
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.19796
+92.543304
+Debris
+Slide
+01 June 2025 
+23910
+MIZ/LUNG/84A12/2025/198
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.190022
+92.554302
+Debris
+Flow
+01 June 2025 
+23911
+MIZ/LUNG/84A12/2025/199
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.21035
+92.539589
+Debris
+Slide
+01 June 2025 
+23912
+MIZ/LUNG/84A12/2025/200
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.208921
+92.541174
+Earth
+Slide
+01 June 2025 
+23913
+MIZ/LUNG/84A12/2025/201
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.208823
+92.53749
+Debris
+Slide
+01 June 2025 
+23914
+MIZ/LUNG/84A12/2025/202
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.206239
+92.491221
+Debris
+Slide
+01 June 2025 
+23915
+MIZ/LUNG/84A12/2025/203
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.20549
+92.543278
+Earth
+Slide
+01 June 2025 
+23916
+MIZ/LUNG/84A12/2025/204
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.219631
+92.563324
+Debris
+Slide
+01 June 2025 
+23917
+MIZ/LUNG/84A12/2025/205
+Mizoram
+Lunglei
+Tleu
+23.204981
+92.534603
+Debris
+Slide
+01 June 2025 
+23918
+MIZ/LUNG/84A12/2025/206
+Mizoram
+Lunglei
+Tleu
+23.206253
+92.533605
+Debris
+Slide
+01 June 2025 
+23919
+MIZ/LUNG/84A12/2025/207
+Mizoram
+Lunglei
+Tleu to West Bunghmun
+23.209857
+92.500587
+Debris
+Slide
+01 June 2025 
+23920
+MIZ/LUNG/84A08/2025/208
+Mizoram
+Lunglei
+Tleu to West Bunghmun
+23.206239
+92.491221
+Debris
+Slide
+01 June 2025 
+23921
+MIZ/LUNG/84A08/2025/209
+Mizoram
+Lunglei
+Tleu to West Bunghmun
+23.199961
+92.488796
+Debris
+Slide
+01 June 2025 
+23922
+MIZ/LUNG/84A08/2025/210
+Mizoram
+Lunglei
+West Bunghmun
+23.17824
+92.491031
+Debris
+Slide
+01 June 2025 
+23923
+MIZ/LUNG/84A08/2025/211
+Mizoram
+Lunglei
+West Bunghmun 
+23.180969
+92.488193
+Debris
+Slide
+01 June 2025 
+23924
+MIZ/LUNG/84A08/2025/212
+Mizoram
+Lunglei
+West Bunghmun cemetary
+23.180354
+92.486971
+Debris
+Slide
+01 June 2025 
+23925
+MIZ/LUNG/84A08/2025/213
+Mizoram
+Lunglei
+West Bunghmun
+23.182466
+92.487731
+Debris
+Flow
+01 June 2025 
+23926
+MIZ/LUNG/84A12/2025/214
+Mizoram
+Lunglei
+Tleu
+23.204706
+92.533825
+Debris
+Flow
+01 June 2025 
+23927
+MIZ/LUNG/84A11/2025/215
+Mizoram
+Lunglei
+West Bungtlang
+23.251004
+92.63667
+Debris
+Flow
+01 June 2025 
+23928
+MIZ/SER/84A16/2025/216
+Mizoram
+Serchhip
+Keitum 
+23.234898
+92.911307
+Earth
+Slide
+01 June 2025 
+23929
+MIZ/SER/84A16/2025/217
+Mizoram
+Serchhip
+Serchhip to Khawbung S road
+23.225619
+92.924909
+Earth
+Slide
+01 June 2025 
+23930
+MIZ/SER/84A16/2025/218
+Mizoram
+Serchhip
+Serchhip to Khawbung S road
+23.223807
+92.944448
+Debris
+Flow
+01 June 2025 
+23931
+MIZ/SER/84A16/2025/219
+Mizoram
+Serchhip
+Khawlailung
+23.21795
+92.998007
+Debris
+Slide
+01 June 2025 
+23932
+MIZ/SER/84A16/2025/220
+Mizoram
+Serchhip
+Khawlailung
+23.217324
+92.99812
+Debris
+Flow
+01 June 2025 

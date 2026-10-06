@@ -1,0 +1,391 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+17083
+MH/RAIG/47F04/2008/0027
+Maharashtra
+Raigarh (Raygad)
+ 
+Main District Road; Govele - 
+Harkol road
+18.146389
+73.225833
+Debris
+Slide
+NA
+17084
+MH/RAI/47F04/2019/6
+Maharashtra
+Raigad
+ 
+Govele-Goregaon Road
+18.1468
+73.22605
+Rock
+Fall
+NA
+17085
+MH/RAIG/47F04/2008/0034
+Maharashtra
+Raigarh (Raygad)
+ 
+Near Phalsop, ON Ambet - 
+Baghmandala road
+18.146944
+73.236389
+Debris
+Slide
+NA
+17086
+MH/RAIG/47F04/2008/0025
+Maharashtra
+Raigarh (Raygad)
+ 
+Alsude- Govele road, near 
+Kalkicha road
+18.147778
+73.233611
+Debris
+Slide
+NA
+17087
+MH/RAI/47F12/2020/3
+Maharashtra
+Raigad
+-
+Parmachi-Ambeshivtar road 
+section
+18.15
+73.62
+Rock
+Fall
+NA
+17088
+MH/RAI/47F12/2020/4
+Maharashtra
+Raigad
+Parmachi Landslide
+Parmachi-Ambeshivtar road 
+section
+18.15
+73.62
+Debris
+Slide
+NA
+17089
+MH/RAIG/47F04/2008/0038
+Maharashtra
+Raigarh (Raygad)
+ 
+Ghonse - Nivachiwadi road
+18.151667
+73.1675
+Rock
+Subsidence
+NA
+17090
+MH/RAIG/47F04/2008/0056
+Maharashtra
+Raigarh (Raygad)
+ 
+SH 90, Tala - Sai - Mhasala Road 18.1575
+73.165833
+Debris
+Slide
+NA
+17091
+MH/RAI/47F08/2020/9
+Maharashtra
+Raigad
+Nandgaon-Kalkaichakond
+Nandgaon-Kalkaichakond road 
+section
+18.16
+73.42
+Debris
+Slide
+NA
+17092
+MH/RAI/47F12/2020/5
+Maharashtra
+Raigad
+-
+Parmachi-Ambeshivtar road 
+section
+18.16
+73.62
+Debris
+Slide
+NA
+17093
+MH/RAIG/47F04/2008/0042
+Maharashtra
+Raigarh (Raygad)
+ 
+Mhasala - Dhorje - Kurtudi road 18.161667
+73.14
+Debris
+Slide
+NA
+17094
+MH/RAI/47F12/2020/1
+Maharashtra
+Raigad
+Solamkond Slide
+Dahiwadi-Solamkond Sevte 
+road section
+18.17
+73.54
+Debris
+Slide
+NA
+17095
+MH/RAIG/47F08/2008/0071
+Maharashtra
+Raigarh (Raygad)
+ 
+Main District Road, Kulsum - 
+Goregaon Road
+18.178333
+73.2575
+Debris
+Slide
+NA
+17096
+MH/RAI/47F12/2020/2
+Maharashtra
+Raigad
+-
+Waki Budruk-Sutarkond-
+Ranwadi road section
+18.18
+73.58
+Rock
+Fall
+NA
+17097
+MH/RAIG/47F08/2008/0070
+Maharashtra
+Raigarh (Raygad)
+ 
+Dahivali road
+18.180278
+73.265833
+Debris
+Flow
+NA
+17098
+MH/RAIG/47F08/2008/0072
+Maharashtra
+Raigarh (Raygad)
+ 
+Dagsheli village, Kulsum - 
+Goregaon Road
+18.180556
+73.260278
+Debris
+Flow
+NA
+17099
+MH/RAIG/47F04/2008/0054
+Maharashtra
+Raigarh (Raygad)
+ 
+SH 90, Tala - Mhasala road
+18.183056
+73.189444
+Debris
+Slide
+NA
+17100
+MH/RAIG/47F04/2008/0050
+Maharashtra
+Raigarh (Raygad)
+ 
+Mhasala - Mangaon road 
+(Morbi ghat)
+18.201389
+73.200278
+Debris
+Slide
+NA
+17101
+MH/RAIG/47F04/2008/0049
+Maharashtra
+Raigarh (Raygad)
+ 
+Mhasala - Mangaon road 
+(Morbi ghat)
+18.201667
+73.201944
+Debris
+Slide
+NA
+17102
+MH/RAIG/47F04/2008/0048
+Maharashtra
+Raigarh (Raygad)
+ 
+Mhasala- Mangaon road (Morbi 
+ghat)
+18.204167
+73.205833
+Debris
+Slide
+NA
+17103
+MH/RAI/47F04/2019/1
+Maharashtra
+Raigad
+Ganesh Nagar Slide
+Kurdalwada-Majgaon Road
+18.20512
+73.0972
+Debris
+Slide
+NA
+17104
+MH/RAIG/47F04/2008/0047
+Maharashtra
+Raigarh (Raygad)
+ 
+Mhasala - Mangaon road 
+(Morbi Ghat)
+18.209167
+73.212778
+Debris
+Slide
+NA
+17105
+MH/RAI/47F08/2020/8
+Maharashtra
+Raigad
+-
+Mahad-Nate-Koturde road 
+section
+18.21
+73.39
+Debris
+Slide
+NA
+17106
+MH/RAIG/47F04/2008/0046
+Maharashtra
+Raigarh (Raygad)
+ 
+Mhasala - Mangaon road 
+(Morbi Ghat)
+18.218056
+73.226667
+Debris
+Slide
+NA
+17107
+MH/RAIG/47B16/2008/0005
+Maharashtra
+Raigarh (Raygad)
+ 
+MSH 4, Borli - Dighi Road
+18.220833
+72.976111
+Rock
+Slide
+NA
+17108
+MH/RAIG/47B16/2008/0006
+Maharashtra
+Raigarh (Raygad)
+ 
+MSH 4, Borli - Dighi Road
+18.220833
+72.976111
+NA
+ 
+NA
+17109
+MH/RAIG/47F04/2008/0045
+Maharashtra
+Raigarh (Raygad)
+ 
+Mangaon-Mhasala road,  Morbi 
+ghat
+18.221944
+73.2275
+Debris
+Slide
+NA
+17110
+MH/RAIG/47F04/2008/0053
+Maharashtra
+Raigarh (Raygad)
+ 
+SH 90, Tala-Mhasala Road
+18.2225
+73.156111
+Debris
+Flow
+NA
+17111
+MH/RAIG/47F04/2008/0044
+Maharashtra
+Raigarh (Raygad)
+ 
+ 
+18.225833
+73.081944
+Debris
+Slide
+NA
+17112
+MH/RAIG/47B16/2008/0007
+Maharashtra
+Raigarh (Raygad)
+ 
+MSH 4; Borli - Dighi Road
+18.226111
+72.975833
+NA
+Slide
+NA
+17113
+MH/RAIG/47F04/2008/0055
+Maharashtra
+Raigarh (Raygad)
+ 
+SH 90, Tala - Mhasala road
+18.229722
+73.154722
+Debris
+Slide
+NA
+17114
+MH/RAIG/47B16/2008/0003
+Maharashtra
+Raigarh (Raygad)
+MHRAIG038
+MSH 4, Borli - Dighi Road
+18.238889
+72.970833
+Rock
+Fall
+NA
+17115
+MH/RAI/47F12/2020/18
+Maharashtra
+Pune
+-
+Varandh Ghat
+18.24
+73.66
+Debris
+Slide
+NA

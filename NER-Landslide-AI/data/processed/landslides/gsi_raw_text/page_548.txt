@@ -1,0 +1,371 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21799
+MZ/SER/84A11/2017/151
+Mizoram
+Aizawl
+ 
+About 100m west if Sumsuih, 
+SH-Aizawl-Thenzawl-Lunglei 
+Road
+23.470794
+92.741413
+Rock
+Slide
+2016
+21800
+MZ/CHA/84E07/2017/43
+Mizoram
+Champhai
+ 
+Champhai  Tuipui road
+23.470917
+93.296417
+Rock
+Slide
+NA
+21801
+MZ/AIZ/84A11/2016/104
+Mizoram
+Aizawl
+ 
+About 10.5km South of Damdia, 
+SH-Sialsuk-Samlukhai-Damdia 
+Road
+23.470964
+92.692902
+Rock
+Slide
+2016
+21802
+MZ/CHA/84E03/2017/33
+Mizoram
+Champhai
+ 
+KhawzawlChamphai Rd
+23.471889
+93.246333
+Debris
+Slide
+NA
+21803
+MZ/CHA/84E03/2017/34
+Mizoram
+Champhai
+ 
+ChamphaiKhawzawl Rd
+23.473258
+93.241869
+Debris
+Slide
+NA
+21804
+MZ/CHA/84E03/2017/36
+Mizoram
+Champhai
+ 
+ChamphaiKhawzawl Rd
+23.473361
+93.222167
+Debris
+Slide
+NA
+21805
+MZ/CHA/84E03/2017/37
+Mizoram
+Champhai
+ 
+ChamphaiKhawzawl Rd
+23.473611
+93.243069
+Debris
+Slide
+NA
+21806
+MZ/CHA/84E07/2017/44
+Mizoram
+Champhai
+ 
+Aizawl  Champhai road
+23.473662
+93.312845
+Debris
+Slide
+NA
+21807
+MZ/CHA/84E03/2017/38
+Mizoram
+Champhai
+ 
+Near water fall
+23.473778
+93.239194
+Rock
+Slide
+NA
+21808
+MZ/CHA/84E03/2017/39
+Mizoram
+Champhai
+ 
+ChamphaiKhawzawl Rd
+23.474056
+93.225889
+Debris
+Slide
+NA
+21809
+MZ/CHA/84E03/2017/40
+Mizoram
+Champhai
+ 
+ChamphaiKhawzawl Rd
+23.474194
+93.229667
+Rock
+Slide
+NA
+21810
+MZ/CHA/84E07/2017/45
+Mizoram
+Champhai
+ 
+Kanan Veng, Champhai
+23.474472
+93.322667
+Debris
+Slide
+NA
+21811
+MZ/CHA/84E03/2017/41
+Mizoram
+Champhai
+ 
+ChamphaiKhawzawl Rd
+23.474528
+93.241611
+Debris
+Slide
+NA
+21812
+MZ/CHA/84E03/2017/42
+Mizoram
+Champhai
+ 
+ChamphaiKhawzawl Rd
+23.474611
+93.241556
+Debris
+Slide
+NA
+21813
+MZ/CHA/84E07/2017/46
+Mizoram
+Champhai
+ 
+Vengsang, Champhai (Near PHE 
+office)
+23.474639
+93.314167
+Debris
+Slide
+NA
+21814
+MZ/CHA/84E03/2017/45
+Mizoram
+Champhai
+ 
+13km from ChamphaiKhawzawl 
+Rd
+23.474833
+93.229
+Debris
+Slide
+NA
+21815
+MZ/CHA/84E03/2017/46
+Mizoram
+Champhai
+ 
+ChamphaiKhawzawl Rd
+23.475139
+93.241028
+Rock
+Slide
+NA
+21816
+MZ/MAM/84A11/2017/139
+Mizoram
+Mamit
+ 
+North of Darlung village, SH-
+Aibawk-Darlung- Buarpui-
+Lunglei Road
+23.475392
+92.605749
+Rock
+Slide
+2015
+21817
+MZ/CHA/84E07/2017/49
+Mizoram
+Champhai
+ 
+Vengsang, Champhai
+23.475522
+93.313978
+Debris
+Slide
+2017
+21818
+MZ/SER/84A15/2016/128
+Mizoram
+Serchhip
+ 
+Southwest of Hmuntha, PMGSY 
+Chhingchhip-Hmuntha Road
+23.476232
+92.913652
+Rock
+Slide
+2015
+21819
+MZ/CHA/84E03/2017/47
+Mizoram
+Champhai
+ 
+KhawzawlChamphai Rd
+23.476694
+93.238556
+Debris
+Slide
+NA
+21820
+MZ/SER/84A11/2017/146
+Mizoram
+Aizawl
+ 
+About 1.5km Northwest of 
+Thiak, SH-Aizawl-Thenzawl-
+Lunglei Road
+23.476702
+92.705854
+Rock
+Slide
+NA
+21821
+MZ/CHA/84E07/2017/50
+Mizoram
+Champhai
+ 
+Champhai
+23.476989
+93.377213
+Rock
+Slide
+NA
+21822
+MZ/SER/84A15/2016/84
+Mizoram
+Serchhip
+ 
+Mualpui Veng, Chhinchhip, NH-
+54 Aizawl-Serchhip-Lunglei 
+Road
+23.477108
+92.857281
+Debris
+Slide
+2016
+21823
+MZ/SER/84A15/2016/113
+Mizoram
+Serchhip
+ 
+South of Hmangkawn, 
+Chawilung - Hmangkawn road
+23.477601
+92.818801
+Rock
+Slide
+2016
+21824
+MZ/CHA/84E03/2017/49
+Mizoram
+Champhai
+ 
+About 15.5km from Khawzawl 
+to Champhai
+23.477778
+93.236333
+Rock
+Slide
+NA
+21825
+MZ/CHA/84E03/2017/48
+Mizoram
+Champhai
+ 
+KhawzawlChamphai Rd
+23.477806
+93.236611
+Rock
+Slide
+NA
+21826
+MZ/CHA/84E07/2017/51
+Mizoram
+Champhai
+ 
+South of Vengsang
+23.477806
+93.310111
+Debris
+Slide
+NA
+21827
+MZ/SER/84A15/2016/58
+Mizoram
+Serchhip
+ 
+About 500m from Chhingchhip, 
+PMGSY Chhingchhip-Hualto 
+Road
+23.47803
+92.861256
+Rock
+Slide
+2016
+21828
+MZ/SER/84A15/2016/57
+Mizoram
+Serchhip
+ 
+Chhingchhip Area, PMGSY 
+Chhingchhip-Hualto Road
+23.47831
+92.865466
+Debris
+Slide
+NA
+21829
+MZ/CHA/84E07/2017/52
+Mizoram
+Champhai
+ 
+Vengsang, Champhai
+23.478556
+93.311722
+Debris
+Slide
+NA

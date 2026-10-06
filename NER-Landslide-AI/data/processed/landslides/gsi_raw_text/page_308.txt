@@ -1,0 +1,444 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+13165
+KL/IDU/58F04/2019/764
+Kerala
+Idukki
+Aaram mile
+Estate road
+10.08
+77.05
+Earth
+Subsidence
+2018
+13166
+KL/IDU/58F04/2019/765
+Kerala
+Idukki
+Seval kudi
+Estate road
+10.08
+77.05
+Debris
+Flow
+2019
+13167
+KL/IDU/58B16/2019/454
+Kerala
+Idukki
+Aaram mile
+Pambumkayam-Mankulam road 10.09
+76.93
+Debris
+Slide
+2018
+13168
+KL/IDU/58B16/2019/455
+Kerala
+Idukki
+Chikkanad kudi
+Pambumkayam-Mankulam road 10.09
+76.93
+Debris
+Slide
+2018
+13169
+KL/IDU/58F04/2019/512
+Kerala
+Idukki
+Aaram mile
+Munnar - Mattupetti road
+10.09
+77.06
+Debris
+Slide
+2019
+13170
+KL/IDU/58F04/2019/513
+Kerala
+Idukki
+Seval kudi
+Munnar - Mattupetti road
+10.09
+77.08
+Debris
+Slide
+NA
+13171
+KL/IDU/58F04/2019/514
+Kerala
+Idukki
+Aanakkulam
+Munnar - Mattupetti road
+10.09
+77.09
+Debris
+Slide
+2018
+13172
+KL/IDU/58F04/2019/545
+Kerala
+Idukki
+Chikkanad kudi
+NH 49
+10.09
+77.06
+Debris
+Slide
+NA
+13173
+KL/IDU/58F04/2019/546
+Kerala
+Idukki
+Parakudi
+Grahamsland estate road
+10.09
+77.07
+Debris
+Slide
+NA
+13174
+KL/IDU/58F04/2019/547
+Kerala
+Idukki
+Aanachal
+Grahamsland estate road
+10.09
+77.07
+Debris
+Flow
+NA
+13175
+KL/IDU/58F04/2019/551
+Kerala
+Idukki
+Aanakkulam
+Grahamsland estate road
+10.09
+77.09
+Debris
+Flow
+NA
+13176
+KL/IDU/58F04/2019/556
+Kerala
+Idukki
+Thalumkandam
+Grahamsland estate road
+10.09
+77.09
+Debris
+Slide
+NA
+13177
+KL/IDU/58F04/2019/557
+Kerala
+Idukki
+Mankulam
+Grahamsland estate-Mattupatti 
+road
+10.09
+77.1
+Debris
+Slide
+NA
+13178
+KL/IDU/58F04/2019/558
+Kerala
+Idukki
+Mankulam
+Grahamsland estate-Mattupatti 
+road
+10.09
+77.11
+Debris
+Slide
+NA
+13179
+KL/IDU/58F04/2019/559
+Kerala
+Idukki
+Perumbamkoottu
+Grahamsland estate-Mattupatti 
+road
+10.09
+77.11
+Debris
+Slide
+NA
+13180
+KL/IDU/58F04/2019/560
+Kerala
+Idukki
+Seval kudi
+Grahamsland estate-Mattupatti 
+road
+10.09
+77.11
+Debris
+Slide
+NA
+13181
+KL/IDU/58F04/2019/561
+Kerala
+Idukki
+Aaram mile
+Grahamsland estate-Mattupatti 
+road
+10.09
+77.11
+Debris
+Slide
+NA
+13182
+KL/IDU/58F04/2019/595
+Kerala
+Idukki
+Perumbamkoottu
+Estate road
+10.09
+77.02
+Debris
+Slide
+NA
+13183
+KL/IDU/58F04/2019/596
+Kerala
+Idukki
+Seval kudi
+Estate road
+10.09
+77
+Debris
+Slide
+2019
+13184
+KL/IDU/58B16/2019/597
+Kerala
+Idukki
+Aaram mile
+Estate road
+10.09
+76.98
+Debris
+Slide
+NA
+13185
+KL/IDU/58B16/2019/598
+Kerala
+Idukki
+Aaram mile
+Estate road
+10.09
+76.98
+Debris
+Slide
+NA
+13186
+KL/IDU/58F04/2019/606
+Kerala
+Idukki
+Aanakkulam
+Mattupatti-Mannamala road
+10.09
+77.17
+Debris
+Slide
+NA
+13187
+KL/IDU/58F04/2019/607
+Kerala
+Idukki
+Near Pallivasal
+Mattupatti-Mannamala road
+10.09
+77.17
+Debris
+Slide
+NA
+13188
+KL/IDU/58F04/2019/608
+Kerala
+Idukki
+Chithirapuram
+Mattupatti-Mannamala road
+10.09
+77.17
+Debris
+Slide
+NA
+13189
+KL/IDU/58F04/2019/668
+Kerala
+Idukki
+Seval kudi
+Munnar-Marayur Highway
+10.09
+77.06
+Debris
+Slide
+NA
+13190
+KL/IDU/58F04/2019/669
+Kerala
+Idukki
+Aaram mile
+Munnar-Marayur Highway
+10.09
+77.06
+Debris
+Slide
+NA
+13191
+KL/IDU/58F04/2019/686
+Kerala
+Idukki
+Seval kudi
+Munnar colony road
+10.09
+77.07
+Debris
+Slide
+NA
+13192
+KL/IDU/58F04/2019/687
+Kerala
+Idukki
+Aaram mile
+Munnar colony road
+10.09
+77.07
+Debris
+Slide
+NA
+13193
+KL/IDU/58F04/2019/688
+Kerala
+Idukki
+Aaram mile
+Munnar colony road
+10.09
+77.07
+Debris
+Slide
+NA
+13194
+KL/IDU/58F04/2019/689
+Kerala
+Idukki
+Chikkanad kudi
+Munnar colony road
+10.09
+77.07
+Debris
+Slide
+NA
+13195
+KL/IDU/58F04/2019/690
+Kerala
+Idukki
+Parakudi
+Munnar colony road
+10.09
+77.07
+Debris
+Slide
+NA
+13196
+KL/IDU/58F04/2019/776
+Kerala
+Idukki
+Seval kudi
+Estate road
+10.09
+77.05
+Debris
+Slide
+NA
+13197
+KL/IDU/58F04/2019/781
+Kerala
+Idukki
+Aanachal
+Nallathanni Tea estate
+10.09
+77.05
+Debris
+Slide
+2019
+13198
+KL/EKM/58B16/2019/476
+Kerala
+Ernakulam
+Aaram mile
+Kollapara
+10.1
+76.8
+Debris
+Slide
+2019
+13199
+KL/IDU/58B16/2019/503
+Kerala
+Idukki
+Mankulam
+Kallar-Mankulam road
+10.1
+76.93
+Debris
+Flow
+2019
+13200
+KL/IDU/58B16/2019/504
+Kerala
+Idukki
+Mankulam
+Kallar-Mankulam road
+10.1
+76.93
+Debris
+Slide
+2019
+13201
+KL/IDU/58F04/2019/507
+Kerala
+Idukki
+Aaram mile
+Munnar-Marayur Highway
+10.1
+77.06
+Debris
+Slump
+NA
+13202
+KL/IDU/58F04/2019/554
+Kerala
+Idukki
+Chithirapuram
+Mattupatti
+10.1
+77.12
+Debris
+Slide
+NA
+13203
+KL/IDU/58F04/2019/581
+Kerala
+Idukki
+Chikkanad kudi
+Mattupatti-Mannamala road
+10.1
+77.16
+Debris
+Flow
+NA

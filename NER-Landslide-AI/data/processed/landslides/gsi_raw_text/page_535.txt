@@ -1,0 +1,287 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21469
+MZ/SER/84A16/2018/38
+Mizoram
+Serchhip
+ 
+East of Keitum Village (Keitum-
+Khawlailawng Section)
+23.222778
+92.92778
+Debris
+Slide
+NA
+21470
+MZ/SER/84A16/2018/45
+Mizoram
+Serchhip
+ 
+Tuichang river-Khawlailawng 
+Section
+23.222778
+92.943611
+Rock
+Slide
+NA
+21471
+MZ/SER/84A16/2018/44
+Mizoram
+Serchhip
+ 
+Tuichang river-Khawlailawng 
+Section (near Tuichang river)
+23.222853
+92.941536
+Rock
+Slide
+2018
+21472
+MZ/SER/84A16/2018/43
+Mizoram
+Serchhip
+ 
+Tuichang river-Khawlailawng 
+Section
+23.222925
+92.940842
+Rock
+Slide
+2018
+21473
+MZ/SER/84A16/2018/39
+Mizoram
+Serchhip
+ 
+East of Keitum Village (Keitum-
+Khawlailawng Section)
+23.223055
+92.931114
+Debris
+Slide
+NA
+21474
+MZ/SER/84A16/2018/37
+Mizoram
+Serchhip
+ 
+East of Keitum Village (Keitum-
+Khawlailawng Section)
+23.223555
+92.92672
+Debris
+Slide
+NA
+21475
+MZ/SER/84A16/2018/40
+Mizoram
+Serchhip
+ 
+East of Keitum Village (Keitum-
+Khawlailawng Section, near the 
+bridge)
+23.223957
+92.936401
+Debris
+Slide
+NA
+21476
+MZ/LUN/84A16/2018/19
+Mizoram
+Lunglei
+ 
+Northern outskirts of S. Zote 
+Village
+23.225542
+92.798363
+Rock
+Fall
+NA
+21477
+MZ/LUN/84A12/2018/52
+Mizoram
+Lunglei
+ 
+West Bungtlang-Changpui 
+Section (Herticulture link road 
+junction)
+23.226894
+92.638527
+Debris
+Slide
+NA
+21478
+MZ/SER/84A16/2018/36
+Mizoram
+Serchhip
+ 
+East of Keitum Village (Keitum-
+Khawlailawng Section)
+23.227602
+92.923164
+Debris
+Slide
+NA
+21479
+MZ/SER/84A16/2018/34
+Mizoram
+Serchhip
+ 
+0.5 km East of Keitum Village
+23.228361
+92.916832
+Debris
+Slide
+NA
+21480
+MZ/SER/84A16/2018/35
+Mizoram
+Serchhip
+ 
+0.7 km East of Keitum Village 
+(Keitum-Khawlailawng Section)
+23.23
+92.919724
+Debris
+Slide
+NA
+21481
+MZ/LUN/84A16/2018/18
+Mizoram
+Lunglei
+ 
+~1 km N of S. Zote Village
+23.23035
+92.79808
+Debris
+Slide
+NA
+21482
+MZ/LUN/84A12/2018/26
+Mizoram
+Lunglei
+ 
+Buarpui-Kawlhawk Section 
+(PMGSY road)
+23.230371
+92.673973
+Debris
+Slide
+NA
+21483
+MZ/LUN/84A12/2018/27
+Mizoram
+Lunglei
+ 
+Buarpui-Kawlhawk Section 
+(PMGSY road)
+23.230371
+92.673973
+Debris
+Slide
+NA
+21484
+MZ/LUN/84A12/2018/25
+Mizoram
+Lunglei
+ 
+Buarpui-Kawlhawk Section 
+(PMGSY road)
+23.231653
+92.673714
+Rock
+Slide
+NA
+21485
+MZ/LUN/84A12/2018/24
+Mizoram
+Lunglei
+ 
+Buarpui-Kawlhawk Section 
+(PMGSY road)
+23.235651
+92.673058
+Rock
+Slide
+NA
+21486
+MZ/CHA/84E08/2017/7
+Mizoram
+Champhai
+ 
+Sazep village
+23.237767
+93.308461
+Soil
+Slide
+NA
+21487
+MZ/LUN/84A12/2018/50
+Mizoram
+Lunglei
+ 
+West Bungtlang-Changpui 
+Section
+23.242306
+92.640587
+Debris
+Slide
+NA
+21488
+MZ/LUN/84A12/2018/51
+Mizoram
+Lunglei
+ 
+West Bungtlang-Changpui 
+Section
+23.242306
+92.640587
+Debris
+Slide
+NA
+21489
+MZ/SER/84A16/2018/17
+Mizoram
+Serchhip
+ 
+Thenzawl-S. Zote Section (3 km 
+NW of S. Zote PMGSY road)
+23.242828
+92.798134
+Rock
+Fall
+NA
+21490
+MZ/SER/84A16/2018/21
+Mizoram
+Serchhip
+ 
+Serchhip-Keitum section
+23.243479
+92.904846
+Debris
+Slide
+NA
+21491
+MZ/SER/84F01/2018/18
+Mizoram
+Champhai
+ 
+8.5km SE of East Lungdar on 
+PMGSY East Lungdar - Biate 
+Road
+23.244541
+93.099533
+Debris
+Slide
+2017

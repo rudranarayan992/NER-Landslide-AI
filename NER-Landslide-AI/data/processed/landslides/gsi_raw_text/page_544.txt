@@ -1,0 +1,213 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21707
+MZ/SER/84A15/2016/76
+Mizoram
+Serchhip
+ 
+Southwest of Tuikum River 
+Bridge,Chhingchhip, PMGSY 
+Chhingchhip-Hmuntha Road
+23.43481
+92.873933
+Rock
+Slide
+2016
+21708
+MZ/SER/84A15/2016/75
+Mizoram
+Serchhip
+ 
+Southeast of Sainik 
+School,Chhingchhip, PMGSY 
+Chhingchhip-Hmuntha Road
+23.435405
+92.871814
+Debris
+Slide
+2015
+21709
+MZ/SER/84A15/2016/77
+Mizoram
+Serchhip
+ 
+Southwest of Tuikum River 
+Bridge,Chhingchhip, PMGSY 
+Chhingchhip-Hmuntha Road
+23.436999
+92.875456
+Rock
+Slide
+2016
+21710
+MZ/SER/84A15/2016/78
+Mizoram
+Serchhip
+ 
+Southwest of Tuikum River 
+Bridge,Chhingchhip, PMGSY 
+Chhingchhip-Hmuntha Road
+23.438997
+92.877502
+Rock
+Slide
+2016
+21711
+MZ/CHA/84E03/2017/18
+Mizoram
+Champhai
+ 
+Chawngtlai Tualte road.
+23.439142
+93.222581
+Rock
+Slide
+NA
+21712
+MZ/AIZ/84A11/2016/101
+Mizoram
+Aizawl
+ 
+Southeast of Lungsai village,  SH-
+Sialsuk-Samlukhai-Damdia Road
+23.439894
+92.702301
+Debris
+Slide
+2016
+21713
+MZ/AIZ/84A11/2016/100
+Mizoram
+Aizawl
+ 
+About 3km Southeast of Lungsai 
+village,  SH-Sialsuk-Samlukhai-
+Damdia Road
+23.440648
+92.703726
+Rock
+Slide
+2016
+21714
+MZ/SER/84A15/2016/71
+Mizoram
+Serchhip
+ 
+South of Sainik 
+School,Chhingchhip, PMGSY 
+Chhingchhip-Hmuntha Road
+23.440711
+92.864298
+Rock
+Slide
+2016
+21715
+MZ/SER/84A15/2016/79
+Mizoram
+Serchhip
+ 
+Northwest of Tuikum River 
+Bridge,Chhingchhip, PMGSY 
+Chhingchhip-Hmuntha Road
+23.440973
+92.87909
+Debris
+Slide
+2016
+21716
+MZ/SER/84A15/2016/72
+Mizoram
+Serchhip
+ 
+South of Sainik 
+School,Chhingchhip, PMGSY 
+Chhingchhip-Hmuntha Road
+23.44129
+92.865395
+Rock
+Slide
+2016
+21717
+MZ/CHA/84E03/2017/19
+Mizoram
+Champhai
+ 
+Chawngtalai  Tualte road
+23.442083
+93.223472
+Soil
+Slide
+NA
+21718
+MZ/SER/84A15/2016/73
+Mizoram
+Serchhip
+ 
+Southeast of Sainik 
+School,Chhingchhip, PMGSY 
+Chhingchhip-Hmuntha Road
+23.442118
+92.868912
+Rock
+Slide
+2016
+21719
+MZ/AIZ/84A11/2016/102
+Mizoram
+Aizawl
+ 
+About 15km south of Damdia, 
+SH-Sialsuk-Samlukhai-Damdia 
+Road
+23.442296
+92.695903
+Debris
+Slide
+2016
+21720
+MZ/SER/84A15/2016/70
+Mizoram
+Serchhip
+ 
+Southwest of Sainik 
+School,Chhingchhip, PMGSY 
+Chhingchhip-Hmuntha Road
+23.443793
+92.862106
+Debris
+Slide
+2015
+21721
+MZ/SER/84A15/2016/47
+Mizoram
+Serchhip
+ 
+About 4km South of 
+Chhingchhip, NH-54 Aizawl-
+Serchhip-Lunglei Road
+23.443878
+92.85593
+Rock
+Slide
+2016
+21722
+MZ/CHA/84E03/2017/20
+Mizoram
+Champhai
+ 
+Chawntalai  Tualte road
+23.445083
+93.223889
+Debris
+Slide
+NA

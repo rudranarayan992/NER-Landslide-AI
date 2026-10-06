@@ -1,0 +1,280 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+17698
+MH/RAT/47G10/2021 /89
+Maharashtra
+Ratnagiri/Chiplun
+Pedhambe 
+16 km east of Chiplun via Pimpli 
+Khurd-Pedhambe road
+17.51040556
+73.64358056
+Debris
+Slide
+July 2021
+17699
+MH/RAT/47G10/2021/90
+Maharashtra
+Ratnagiri/Chiplun
+Kadwad 
+21 km east of Chiplun via Pimpli 
+Khurd-Kolkavne road
+17.55276944
+73.67138611
+Debris
+Slide
+22 July 2021 at 11:00PM 
+17700
+MH/RAT/47G| I/202 1 /91
+Maharashtra
+Ratnagiri/Chiplun
+Kolakwadi 
+15 km Southeast of Chiplun via 
+Shirgaon Alore-Kolakwadi road.
+17.46531667
+73.65798611
+Soil
+Subsidence
+July 2021
+17701
+MH/RAT/47G1|/2021/92
+Maharashtra
+Ratnagiri/Chiplun
+Kolakwadi 
+15 km Southeast of Chiplun via 
+Shirgaon Alore-Kolakwadi road.
+17.46844444
+73.64800556
+Debris
+Fall
+ 23 July 2021, 6:00 AM
+17702
+MH/RAT/47G11/2021/93
+Maharashtra
+Ratnagiri/Chiplun
+Kolakwadi 
+17 km Southeast of Chiplun via 
+Shirgaon Alore-Kolakwadi road.
+17.47154722
+73.67496944
+Debris
+Slide
+July 2021
+17703
+MH/RAT/47G11/2021/94
+Maharashtra
+Ratnagiri/Chiplun
+Kolakwadi 
+16km SE of Chiplun via Shirgaon 
+Alore-Kolakwadi road.
+17.49155833
+73.66298333
+Debris
+Slide
+22 July 2021, 5 p.m
+17704
+MH/RAT/47G11/2021/95A
+Maharashtra
+Ratnagiri/Chiplun
+Kolakwadi 
+16km SE of Chiplun via Shirgaon 
+Alore-Kolakwadi road.
+17.48968333
+73.65828889
+Debris
+Subsidense
+July 2021
+17705
+MH/RAT/47G11/2021/95B
+Maharashtra
+Ratnagiri/Chiplun
+Kolakwadi 
+16km SE of Chiplun via Shirgaon 
+Alore-Kolakwadi road.
+17.48419722
+73.65946389
+Soil
+Slide
+July 2021
+17706
+MH/RAT/47G11/2021/96
+Maharashtra
+Ratnagiri/Chiplun
+Kolakwadi 
+16km SE of Chiplun via Shirgaon 
+Alore-Kolakwadi road.
+17.48303611
+73.66305556
+Soil
+Subsidense
+July 2021
+17707
+MH/RAT/47G11/2021 /97
+Maharashtra
+Ratnagiri/Chiplun
+Kolakwadi 
+17km SE of Chiplun via Shirgaon 
+Alore-Kolakwadi road.
+17.47794167
+73.64941111
+-do-
+-do-
+2005
+17708
+MH/RAT/47G11/2021/98
+Maharashtra
+Ratnagiri/Chiplun
+Yegaon 
+30 km SE of Chiplun via Agave-
+Nandgaon
+17.32003333
+73.59618889
+Soil
+Subsidense
+July 2021
+17709
+MH/RAT/47G05/2021/07
+Maharashtra
+Ratnagiri/Khed
+Kashedi 
+19 km distance by Khed-Kashedi 
+road
+17.87527778
+73.42377778
+Debris
+Slide
+19-22 July 2021
+17710
+MH/RAT/47G05/2021/08
+Maharashtra
+Ratnagiri/Khed
+Khawti 
+18 km by Khed Khawat1 tar 
+road.
+17.87586111
+73.42325
+Debris
+Slide
+19-22 July 2022
+17711
+MH/RAT/47G05/2021/09
+Maharashtra
+Ratnagiri/Khed
+Khawti 
+14 km by NH-66
+17.84491667
+73.41088889
+Debris
+Slide
+July 2021
+17712
+MH/RAT/47G09/2021/10
+Maharashtra
+Ratnagiri/Khed
+Birmani 
+30 km by Khed-Birmani tar rond 17.83240278
+73.56304444
+Soil
+Subsidense
+July 2021
+17713
+MHRAT/47G09/2021/11
+Maharashtra
+Ratnagiri/Khed
+Birmani 
+31 km by Khed-Birmani tar rond 17.83455
+73.56541944
+Debris
+Slide with flow
+July 2021
+17714
+MH/RAT/47G10/2021/12A
+Maharashtra
+Ratnagiri/Khed
+Ambawali 
+15 km by Khed-Ambawali road
+17.72055
+73.54215833
+Debris
+Slide, 
+Subsidense
+July 2022
+17715
+MH/RAT/47G10/2021/12B
+Maharashtra
+Ratnagiri/Khed
+Ambawali 
+15 km by Khed-Ambawali road
+17.72015
+73.54350278
+Debris
+Slide, 
+Subsidense
+July 2022
+17716
+MH/RAT/47G09/2021/13A
+Maharashtra
+Ratnagiri/Khed
+Sanghar 
+19km by Khed-Sanghar road.
+17.75813611
+73.55866389
+Debris
+Slide, 
+Subsidense
+July 2021
+17717
+MH/RAT/47G09/2021/13B
+Maharashtra
+Ratnagiri/Khed
+Sanghar 
+19km by Khed-Sanghar road.
+17.75813889
+73.55761111
+Debris
+Slide, 
+Subsidense
+July 2021
+17718
+MH/RAT/47G10/2021/14
+Maharashtra
+Ratnagiri/Khed
+Khopi 
+22km by Khed-Khopi tar road.
+17.68961111
+73.56861111
+Debris
+Slide
+July 2021
+17719
+MH/RAT/47GI0/2021/16A
+Maharashtra
+Ratnagiri/Khed
+Sheldi 
+29 kmby Khed-Sheldi road.
+17.64111111
+73.52652778
+Debris
+Slide
+July 2021
+17720
+MH/RAT/47GI0/2021/16B
+Maharashtra
+Ratnagiri/Khed
+Sheldi 
+30 kmby Khed-Sheldi road.
+17.64130833
+73.52652778
+Debris
+Slide
+July 2021

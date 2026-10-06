@@ -1,0 +1,540 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+6509
+HP/KUL/53E01/2015/89
+Himachal Pradesh
+Kullu
+ 
+Parashar road
+31.848917
+77.142917
+Earth
+Composite
+2012
+6510
+HP/KAN/52D08/2018/8
+Himachal Pradesh
+Kangra
+ 
+TIHRI ROAD
+31.8491
+76.3448
+Debris
+Slide
+NA
+6511
+HP/MAN/53A13/2015/190
+Himachal Pradesh
+Mandi
+ 
+Silh P.F
+31.849107
+76.816352
+Rock
+Slide
+NA
+6512
+HP/MAN/53A13/2015/126
+Himachal Pradesh
+Mandi
+ 
+Near Saman,SH-19
+31.84933
+76.78247
+Debris
+Slide
+NA
+6513
+HP/KAN/52D08/2018/27
+Himachal Pradesh
+Kangra
+ 
+INDRUNAG BANGOTU ROAD
+31.84937
+76.34563
+Rock cum debris
+Slide
+NA
+6514
+HP/KUL/53E01/2015/90
+Himachal Pradesh
+Kullu
+ 
+Road under construction
+31.849444
+77.144583
+Rock
+Slide
+NA
+6515
+HP/KAN/52A05/2018/66
+Himachal Pradesh
+Kangra
+ 
+ 
+31.84945
+76.34623
+Rock cum debris
+Slide
+NA
+6516
+HP/KAN/53A05/2018/14
+Himachal Pradesh
+Kangra
+ 
+ 
+31.84958
+76.34317
+Rock cum debris
+Slide
+NA
+6517
+HP/KUL/53E01/2015/82
+Himachal Pradesh
+Kullu
+ 
+Parashar road
+31.849611
+77.133889
+Rock cum debris
+Slide
+NA
+6518
+HP/MAN/53A13/2015/15
+Himachal Pradesh
+Mandi
+ 
+Near Samnan, SH 19
+31.84966
+76.78436
+Rock
+Slide
+NA
+6519
+HP/KUL/53E01/2015/81
+Himachal Pradesh
+Kullu
+ 
+Parashar road
+31.849722
+77.132778
+Rock cum debris
+Slide
+NA
+6520
+HP/MAN/53A13/2015/124
+Himachal Pradesh
+Mandi
+ 
+Near Saman,SH-19
+31.85006
+76.78559
+Debris
+Slide
+NA
+6521
+HP/KAN/53A05/2018/56
+Himachal Pradesh
+Kangra
+ 
+ 
+31.85008
+76.35043
+Rock cum debris
+Slide
+NA
+6522
+HP/KUL/53E01/2015/83
+Himachal Pradesh
+Kullu
+ 
+Parashar road
+31.850306
+77.134917
+Rock cum debris
+Slide
+NA
+6523
+HP/MAN/53A13/2015/125
+Himachal Pradesh
+Mandi
+ 
+Near Saman,SH-19
+31.85034
+76.78274
+Debris
+Slide
+NA
+6524
+HP/KAN/52D08/2018/6
+Himachal Pradesh
+Kangra
+ 
+ 
+31.8504
+76.34558
+Rock cum debris
+Slide
+NA
+6525
+HP/KAN/52D08/2018/31
+Himachal Pradesh
+Kangra
+ 
+ 
+31.85044
+76.34003
+Rock cum debris
+Slide
+NA
+6526
+HP/KAN/52D08/2018/70
+Himachal Pradesh
+Kangra
+ 
+RAKKAR TANG ROAD
+31.85063
+76.3399
+Rock cum debris
+Slide
+NA
+6527
+HP/KUL/53E01/2015/76
+Himachal Pradesh
+Kullu
+ 
+Bajaura -Mandi road
+31.850833
+77.132667
+Debris
+Slide
+NA
+6528
+HP/MAN/53A13/2015/123
+Himachal Pradesh
+Mandi
+ 
+Saman,SH 19
+31.85084
+76.78827
+Rock
+Slide
+NA
+6529
+HP/KUL/53E01/2015/80
+Himachal Pradesh
+Kullu
+ 
+Parashar road
+31.850917
+77.134167
+Rock cum debris
+Slide
+NA
+6530
+HP/KAN/52D08/2018/32
+Himachal Pradesh
+Kangra
+ 
+MCLEODGANJ ROAD
+31.85096
+76.33942
+Rock cum debris
+Slide
+NA
+6531
+HP/KAN/53A05/2018/20
+Himachal Pradesh
+Kangra
+ 
+ 
+31.85124
+76.350416
+Rock cum debris
+Slide
+NA
+6532
+HP/KAN/52D08/2018/22
+Himachal Pradesh
+Kangra
+ 
+ 
+31.85157
+76.33873
+Rock cum debris
+Slide
+NA
+6533
+HP/KUL/53E01/2015/77
+Himachal Pradesh
+Kullu
+ 
+Bajaura -Mandi road
+31.851611
+77.134167
+Debris
+Slide
+NA
+6534
+HP/KUL/53E01/2015/78
+Himachal Pradesh
+Kullu
+ 
+Parashar road junction
+31.851611
+77.134167
+Debris
+Slide
+NA
+6535
+HP/KAN/53A05/2018/19
+Himachal Pradesh
+Kangra
+KANDI
+ 
+31.85168
+76.35387
+Rock cum debris
+Slide
+NA
+6536
+HP/KAN/53A05/2018/63
+Himachal Pradesh
+Kangra
+ 
+ 
+31.85178
+76.35227
+Rock cum debris
+Slide
+NA
+6537
+HP/KUL/53E01/2015/79
+Himachal Pradesh
+Kullu
+ 
+Parashar road
+31.851861
+77.135778
+Debris
+Slide
+NA
+6538
+HP/KUL/53E01/2015/49
+Himachal Pradesh
+Kullu
+ 
+NH21
+31.85225
+77.2395
+Debris
+Slide
+2007
+6539
+HP/KAN/53A05/2018/43
+Himachal Pradesh
+Kangra
+ 
+ 
+31.85226
+76.33824
+Rock cum debris
+Slide
+NA
+6540
+HP/KAN/53A01/2018/21
+Himachal Pradesh
+Kangra
+ 
+South of Bikas
+31.852331
+76.154142
+Debris
+Slide
+NA
+6541
+HP/KAN/53A01/2018/37
+Himachal Pradesh
+Kangra
+ 
+South of lower Bihan
+31.852405
+76.154308
+Debris
+Slide
+NA
+6542
+HP/MAN/53A13/2015/122
+Himachal Pradesh
+Mandi
+ 
+Saman,SH 19
+31.85285
+76.78841
+Rock
+Slide
+NA
+6543
+HP/KUL/53E01/2015/84
+Himachal Pradesh
+Kullu
+ 
+Parashar road
+31.852917
+77.139389
+Rock cum debris
+Slide
+NA
+6544
+HP/KAN/53A05/2018/53
+Himachal Pradesh
+Kangra
+ 
+ 
+31.85304
+76.33794
+Rock cum debris
+Slide
+NA
+6545
+HP/KAN/52D08/2018/7
+Himachal Pradesh
+Kangra
+ 
+SIKOH-GAGGAL ROAD
+31.85319
+76.33794
+Debris
+Slide
+NA
+6546
+HP/KUL/53E01/2015/85
+Himachal Pradesh
+Kullu
+ 
+Parashar road
+31.853306
+77.139
+Debris
+Slide
+2012
+6547
+HP/KUL/53E01/2015/86
+Himachal Pradesh
+Kullu
+ 
+Parashar road
+31.853667
+77.138667
+Earth
+Composite
+NA
+6548
+HP/KAN/52D08/2018/29
+Himachal Pradesh
+Kangra
+ 
+INDRUNAG BANGOTU ROAD
+31.85369
+76.33789
+Debris
+Slide
+NA
+6549
+HP/KUL/53E01/2015/87
+Himachal Pradesh
+Kullu
+ 
+Parashar road
+31.853833
+77.138194
+Earth
+Composite
+NA
+6550
+HP/KAN/52D08/2018/30
+Himachal Pradesh
+Kangra
+ 
+MCLEODGANJ ROAD
+31.853939
+76.338689
+Debris
+Slide
+NA
+6551
+HP/MAN/53A13/2015/7
+Himachal Pradesh
+Mandi
+ 
+Near Saman,SH-19
+31.85431
+76.79018
+Rock
+Slide
+NA
+6552
+HP/MAN/53A13/2015/5
+Himachal Pradesh
+Mandi
+ 
+South of Chirchakha,SH 19
+31.85438
+76.78944
+Rock
+Slide
+NA
+6553
+HP/MAN/53A13/2015/121
+Himachal Pradesh
+Mandi
+ 
+Near Saman,SH-19
+31.85439
+76.78974
+Rock
+Slide
+NA
+6554
+HP/KAN/52D08/2018/25
+Himachal Pradesh
+Kangra
+ 
+TIHRI ROAD
+31.85441
+76.33808
+Rock cum debris
+Slide
+NA
+6555
+HP/MAN/53A13/2015/8
+Himachal Pradesh
+Mandi
+ 
+Near Samnan, SH 19
+31.85446
+76.7907
+Rock
+Slide
+NA
+6556
+HP/MAN/53A13/2015/6
+Himachal Pradesh
+Mandi
+ 
+Near Saman,SH-19
+31.85457
+76.791
+Rock
+Slide
+NA

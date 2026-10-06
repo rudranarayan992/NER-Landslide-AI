@@ -1,0 +1,390 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21199
+MZ/LUN/84B05/2020/23
+Mizoram
+Lunglei
+Tlabung Higher secondary school slide 
+1
+200m from Tlabung Higher 
+secondary school on SH- 
+Tlabung -Tiperghat Road
+22.9
+92.48
+Debris
+Slide
+2017
+21200
+MZ/LUN/84B05/2020/24
+Mizoram
+Lunglei
+SE of Chawnpui veng slide 2
+1.3 Km SE of Chawnpui veng-
+Chawlung road
+22.9
+92.49
+Debris
+Slide
+2018
+21201
+MZ/LUN/84B05/2020/25
+Mizoram
+Lunglei
+SE of Chawnpui  slide 3
+1.5 Km SE of Chawnpui -
+Chawlung road
+22.9
+92.49
+Rock
+Slide
+2018
+21202
+MZ/LUN/84B05/2020/27
+Mizoram
+Lunglei
+West of Kamlabagan slide
+West of Kamlabagan near the 
+road Junction of Kamlabagan - 
+Bindasora Road
+22.9
+92.46
+Rock
+Slide
+2017
+21203
+MZ/LUN/84B05/2020/33
+Mizoram
+Lunglei
+Bawnveng Village slide 2
+Near Bawnveng Village
+22.9
+92.47
+Rock
+Slide
+2017
+21204
+MZ/LUN/84B05/2020/36
+Mizoram
+Lunglei
+Tlabung Higher secondary school slide 
+2
+300m from Tlabung Higher 
+secondary school on SH- 
+Tlabung -Tiperghat Road
+22.9
+92.47
+Debris
+Slide
+2017
+21205
+MZ/LUN/84B05/2020/37
+Mizoram
+Lunglei
+South of Tlabung slide
+4 km South of Tlabung on SH - 
+Tlabung -Tiperghat road
+22.9
+92.48
+Debris
+Slide
+2017
+21206
+MZ/LUN/84B13/2018/94
+Mizoram
+Lunglei
+ 
+11 Km S of Leite
+22.901035
+92.87265
+Soil
+Slide
+NA
+21207
+MZ/LUN/84B13/2018/95
+Mizoram
+Lunglei
+ 
+10 Km S of Leite
+22.901287
+92.882271
+Debris
+Slide
+NA
+21208
+MIZO/LUN/84B13/2005/E-19
+Mizoram
+Lunglei
+Lunglei-7 slide
+ 
+22.9015
+92.83319
+Debris
+Fall
+NA
+21209
+MIZO/LUN/84B13/2005/E-20
+Mizoram
+Lunglei
+Pachang slide
+ 
+22.90175
+92.83233
+Debris
+Slide
+NA
+21210
+MZ/LUN/84B13/2018/97
+Mizoram
+Lunglei
+ 
+Darzo-Tuipui
+22.902401
+92.941025
+Rock
+Fall
+NA
+21211
+MZ/LUN/84B13/2018/96
+Mizoram
+Lunglei
+ 
+New Dawn
+22.902414
+92.829948
+Debris
+Slide
+NA
+21212
+MZ/LUN/84B13/2018/98
+Mizoram
+Lunglei
+ 
+Zohnuai-Junction from Serkawn 22.903807
+92.757401
+Rock
+Fall
+NA
+21213
+MZ/LUN/84B09/2018/18
+Mizoram
+Lunglei
+ 
+Tuichawng-Siphirtlang road
+22.904324
+92.546265
+Soil
+Slide
+NA
+21214
+MIZO/LUN/84B13/2005/E-17
+Mizoram
+Lunglei
+Lunglei-5 slide
+ 
+22.90442
+92.72281
+Rock cum Debris
+Slide
+NA
+21215
+MZ/LUN/84B13/2018/99
+Mizoram
+Lunglei
+ 
+Tuipui D
+22.906252
+92.93174
+Debris
+Slide
+2018
+21216
+MZ/LUN/84B13/2018/100
+Mizoram
+Lunglei
+ 
+Below Diet in Lunglei Junction
+22.908125
+92.767128
+Debris
+Slide
+NA
+21217
+MZ/LUN/84B13/2018/101
+Mizoram
+Lunglei
+ 
+Tuipui D- Hnathial
+22.908737
+92.930191
+Debris
+Slide
+NA
+21218
+MZ/LUN/84B05/2020/1
+Mizoram
+Lunglei
+Chanmari Veng, Tlabung slide 1
+Chanmari Veng, Tlabung on 
+Bypass SH- Tlabung - Lungsen - 
+Lunglei Road
+22.91
+92.47
+Debris
+Slide
+2016
+21219
+MZ/LUN/84B05/2020/16
+Mizoram
+Lunglei
+Tlabung Tourist Lodge slide
+Near Tlabung Tourist Lodge on 
+SH - Tiperaghat - Tlabung - 
+Lunglei Road
+22.91
+92.47
+Debris
+Slide
+2017
+21220
+MZ/LUN/84B05/2020/17
+Mizoram
+Lunglei
+Chanmari Veng, Tlabung slide 2
+Chanmari veng,Tlabung
+22.91
+92.47
+Debris
+Slide
+2018
+21221
+MZ/LUN/84B05/2020/26
+Mizoram
+Lunglei
+NW of Kamlabagan slide 2
+1 km NW of Kamlabagan on 
+Kamlabagan - Bindasora road
+22.91
+92.46
+Debris
+Slide
+2017
+21222
+MZ/LUN/84B13/2018/102
+Mizoram
+Lunglei
+ 
+Hnathial- Tuipui D
+22.91165
+92.929871
+Debris
+Slide
+2018
+21223
+MZ/LUN/84B13/2018/103
+Mizoram
+Lunglei
+ 
+Lunglei Zotlang
+22.91312
+92.754616
+Debris
+Slide
+NA
+21224
+MZ/LUN/84B13/2018/104
+Mizoram
+Lunglei
+ 
+Lunglei Zotlang
+22.913414
+92.754501
+Debris
+Slide
+NA
+21225
+MZ/LUN/84B09/2018/19
+Mizoram
+Lunglei
+ 
+Tuichawng-Tlabung road
+22.913624
+92.508827
+Debris
+Slide
+NA
+21226
+MZ/LUN/84B13/2018/105
+Mizoram
+Lunglei
+ 
+Lunglei Zotlang
+22.914276
+92.753403
+Rock
+Slide
+NA
+21227
+MZ/LUN/84B13/2018/106
+Mizoram
+Lunglei
+ 
+Hnathial- Tuipui D
+22.914797
+92.928406
+Debris
+Slide
+NA
+21228
+MZ/LUN/84B13/2018/107
+Mizoram
+Lunglei
+ 
+Hnathial- Tuipui D
+22.915947
+92.928337
+Rock
+Slide
+2018
+21229
+MZ/LUN/84B13/2018/108
+Mizoram
+Lunglei
+ 
+Hnathial- Tuipui D
+22.916008
+92.927841
+Soil
+Slide
+NA
+21230
+MZ/LUN/84B13/2018/109
+Mizoram
+Lunglei
+ 
+Near Transformer
+22.917629
+92.75267
+Debris
+Slide
+NA
+21231
+MZ/LUN/84B13/2018/110
+Mizoram
+Lunglei
+ 
+Hnathial- Tuipui D
+22.920202
+92.927345
+Debris
+Slide
+NA

@@ -1,0 +1,350 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+251
+ASM/DIM/83C15/2017/03
+Assam
+Dima Hasao
+Kobak Slide.
+New Sangbar_ Kobak District 
+Road.
+25.257696
+92.809603
+Earth
+Slide
+NA
+252
+AS/DIM/83G07/2017/65
+Assam
+Dima Hasao
+Thingje–Hereilo slide No.1
+Thingje–Hereilo  road section
+25.263528
+93.390611
+Rock
+Slide
+NA
+253
+AS/DIM/83G07/2017/66
+Assam
+Dima Hasao
+Thingje–Hereilo slide No.2
+Thingje–Hereilo  road section
+25.264056
+93.409528
+Rock cum debris
+Slide
+NA
+254
+AS/DIM/83G07/2017/27
+Assam
+Dima Hasao
+Guilong–Semkhor slide No.1
+Guilong–Semkhor  road section 25.278472
+93.252972
+Rock cum debris
+Slide
+NA
+255
+AS/DIM/83G07/2017/28
+Assam
+Dima Hasao
+Guilong–Semkhor slide No.2
+Guilong–Semkhor  road section 25.278917
+93.253194
+Rock cum debris
+Slide
+NA
+256
+AS/DIM/83G07/2017/29
+Assam
+Dima Hasao
+Guilong–Semkhor slide No.3
+Guilong–Semkhor road section. 25.282861
+93.296111
+Debris
+Slide
+NA
+257
+ASM/DIM/83C15/2017/04
+Assam
+Dima Hasao
+Kobak
+New Sangbar-Kobak Road
+25.290089
+92.799175
+Debris cum earth
+Slide
+NA
+258
+AS/DIM/83G07/2017/5
+Assam
+Dima Hasao
+Nchen–Ngaulong slide No.2
+Nchen–Ngaulong road section.
+25.308028
+93.471028
+Debris
+Slide
+NA
+259
+AS/DIM/83G7/2017/6
+Assam
+Dima Hasao
+Nchen–Ngaulong slide No.3
+Nchen–Ngaulong road section.
+25.309111
+93.470694
+Debris
+Slide
+NA
+260
+ASM/DIM/83C15/2017/06
+Assam
+Dima Hasao
+Vaitongsip
+New Sangbar-Kobak road
+25.320232
+92.818091
+Earth
+Slide
+NA
+261
+ASM/DIM/83C15/2017/05
+Assam
+Dima Hasao
+Vaitongsip
+New Sangbar-Kobak Road
+25.323731
+92.80751
+Earth
+Slide
+NA
+262
+AS/DIM/83G07/2017/64
+Assam
+Dima Hasao
+Digarkaro Phaipha Slide No.2
+Digarkaro–Phaipha road 
+section.
+25.328139
+93.334056
+Rock cum debris
+Slide
+NA
+263
+AS/DIM/83G07/2017/63
+Assam
+Dima Hasao
+Digarkaro–Phaipha Slide No.1
+Digarkaro–Phaipha road 
+section.
+25.332083
+93.334639
+Debris
+Slide
+NA
+264
+ASM/DIM/83C15/2017/10
+Assam
+Dima Hasao
+Vaitongsip Slide
+Vaitongsip village
+25.336054
+92.82053
+Earth
+Slide
+NA
+265
+AS/DIM/83G07/2017/19
+Assam
+Dima Hasao
+Nutan Hajong–Nablaidisa slide No.1
+Nutan Hajong–Nablaidisa road 
+section
+25.362583
+93.257722
+Debris
+Slide
+NA
+266
+AS/DIM/83G07/2017/20
+Assam
+Dima Hasao
+Nutan Hajong–Nablaidisa slide No.2
+Nutan Hajong–Nablaidisa road 
+section.
+25.369972
+93.260306
+Rock cum debris
+Slide
+NA
+267
+AS/DIM/83G4/2015/23
+Assam
+Dima Hasao
+Mupa slide
+North to Mupa
+25.387
+93.12
+Earth
+Flow
+NA
+268
+AS/DIM/83G07/2017/44
+Assam
+Dima Hasao
+Kepre Tongikro Mongjang slide No.13 Approx. 500 m NW of 
+Mongjang.
+25.394111
+93.410417
+Rock cum debris
+Slide
+NA
+269
+ASM/DIM/83C15/2017/14
+Assam
+Dima Hasao
+Gunjang Slide
+South to Dehangi (Gunjang-
+Haflong road)
+25.395431
+92.990267
+Earth
+Slide
+NA
+270
+AS/DIM/83G07/2017/30
+Assam
+Dima Hasao
+Nobdi Langting–Phath slide.
+Nobdi Langting–Phath road 
+section
+25.398083
+93.297528
+Soil
+Slide
+NA
+271
+AS/DIM/83G07/2017/43
+Assam
+Dima Hasao
+Kepre Tongikro Mongjang slide No.12 Kepre Tongikro Mongjang road 
+section.
+25.402333
+93.407583
+Soil
+Slide
+NA
+272
+AS/DIM/83G07/2017/41
+Assam
+Dima Hasao
+Kepre Tongikro Mongjang slide No.10 Kepre Tongikro Mongjang road 
+section.
+25.402472
+93.390444
+Debris
+Slide
+NA
+273
+AS/DIM/83G07/2017/42
+Assam
+Dima Hasao
+Kepre Tongikro Mongjang slide No.11 Kepre Tongikro Mongjang road 
+section.
+25.4025
+93.392194
+Soil
+Slide
+NA
+274
+AS/DIM/83G4/2015/24
+Assam
+Dima Hasao
+Dedaodip slide
+Dedaodip,NH-54
+25.404
+93.132
+Earth
+Slide
+NA
+275
+AS/DIM/83G4/2015/25
+Assam
+Dima Hasao
+Dedaodip slide
+Dedaodip,NH-54
+25.405
+93.133
+Earth
+Slide
+NA
+276
+AS/DIM/83G07/2017/40
+Assam
+Dima Hasao
+Kepre Tongikro Mongjang slide No.9
+Kepre Tongikro Mongjang road 
+section.
+25.405
+93.372194
+Rock cum debris
+Slide
+NA
+277
+ASM/DIM/83C15/2017/02
+Assam
+Dima Hasao
+Bagha Slide
+Umrangso_Dehangi Highway
+25.40837
+92.82826
+Rock
+Slide
+NA
+278
+AS/DIM/83G07/2017/21
+Assam
+Dima Hasao
+Digar nala slide No.1
+Nablaidisa–Nobdi Langting road 
+section
+25.408497
+93.283436
+Soil
+Slide
+NA
+279
+AS/DIM/83G07/2017/22
+Assam
+Dima Hasao
+Digar nala slide No.2
+Nablaidisa Nobdi Langting road 
+section.
+25.410611
+93.284
+Soil
+Slide
+NA
+280
+AS/DIM/83G07/2017/23
+Assam
+Dima Hasao
+Digar nala slide No.3
+Nobdi Langting–Darangbra road 
+section.
+25.416056
+93.284222
+Soil
+Slide
+NA

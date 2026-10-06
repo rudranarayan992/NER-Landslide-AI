@@ -1,0 +1,369 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27815
+TN/NIL/58A11/2025/2
+Tamil Nadu
+Nilgiri
+NIL-2
+Anbu Anna colony
+11.38372222
+76.69333333
+earth
+Slide
+25 May 2025
+27816
+TN/NIL/58A11/2025/3
+Tamil Nadu
+Nilgiri
+NIL-3
+Masinagudi-Ooty Road
+11.48652778
+76.68563889
+Rock 
+Fall
+26 May 2025
+27817
+TN/NIL/58A11/2025/4
+Tamil Nadu
+Nilgiri
+NIL-4
+Masinagudi-Ooty Road
+11.48583333
+76.68605556
+Rock 
+Fall
+26 May 2025
+27818
+TN/NIL/58A11/2025/5
+Tamil Nadu
+Nilgiri
+NIL-5
+Ithalar, Bembatty
+11.33669444
+76.64225
+Earth 
+Slide 
+26 May 2025
+27819
+TN/NIL/58A11/2025/6
+Tamil Nadu
+Nilgiri
+NIL-6
+Ithalar hatty
+11.34302778
+76.63919444
+Earth
+Slide
+30 July 2024
+27820
+TN/NIL/58A11/2025/7
+Tamil Nadu
+Nilgiri
+NIL-7
+Emerald Sathya Nagar
+11.32233333
+76.62216667
+Earth
+Slide
+25 May 2025
+27821
+TN/NIL/58A11/2025/8
+Tamil Nadu
+Nilgiri
+NIL-8
+Lawrence Avalanche junction 
+Emerald
+11.31261111
+76.62380556
+Earth
+Slide
+26 May 2025
+27822
+TN/NIL/58A11/2025/9
+Tamil Nadu
+Nilgiri
+NIL-9
+Near Mukkimalai hairpin bend 
+no. 14
+11.29147222
+76.64566667
+Earth
+slide
+26 May 2025
+27823
+TN/NIL/58A11/2025/10
+Tamil Nadu
+Nilgiri
+NIL-10
+Pannimedu Kundah Palam – 1 
+11.28111111
+76.64833333
+soil
+Slide
+26 May 2025
+27824
+TN/NIL/58A11/2025/11
+Tamil Nadu
+Nilgiri
+NIL-11
+Pannimedu Kundah Palam – 2 
+11.28091667
+76.648
+Debris
+Slide
+26 May 2025
+27825
+TN/NIL/58A11/2025/12
+Tamil Nadu
+Nilgiri
+NIL-12
+Pannimedu Kundah Palam – 3 
+11.28088889
+76.64761111
+Debris
+Slide
+26 May 2025
+27826
+TN/NIL/58A11/2025/13
+Tamil Nadu
+Nilgiri
+NIL-13
+Pannimedu Colony, Kundah 
+Palam – 4 
+11.28072222
+76.64813889
+Soil
+Slide
+26 May 2025
+27827
+TN/NIL/58A11/2025/14
+Tamil Nadu
+Nilgiri
+NIL-14
+Cheranur, Kil Kudah-2, 
+Mariamman temple
+11.25669444
+76.62744444
+Debris
+Slide
+26 May 2025
+27828
+TN/NIL/58A12/2025/15
+Tamil Nadu
+Nilgiri
+NIL-15
+Mel Kundah, Thiashola - 
+Kinnakorai road
+11.21705556
+76.60447222
+Debris
+Slide
+26 May 2025
+27829
+TN/NIL/58A11/2025/16
+Tamil Nadu
+Nilgiri
+NIL-16
+Gudalur Ooty road 
+(Naduvattam)
+11.49063889
+76.52758333
+Debris
+Slide
+26 May 2025
+27830
+TN/NIL/58A2/2025/17
+Tamil Nadu
+Nilgiri
+NIL-17
+Cholady near cherambadi
+11.52344444
+76.24775
+Earth
+Slide
+25 May 2025
+27831
+TN/NIL/58A2/2025/18
+Tamil Nadu
+Nilgiri
+NIL-18
+Cholady near cherambadi
+11.52475
+76.24763889
+Debris
+Slide
+26 May 2025
+27832
+TN/NIL/58A7/2025/19
+Tamil Nadu
+Nilgiri
+NIL-19
+O-Valley-2 Sea forth village 
+11.42786111
+76.45422222
+Earth
+Slide
+2017
+27833
+TN/NIL/58A7/2025/20
+Tamil Nadu
+Nilgiri
+NIL-20
+Seapuram, O’ Valley
+11.42336111
+76.46347222
+Rock
+Fall
+3 July 2024
+27834
+TN/NIL/58A15/2025/1
+Tamil Nadu
+Nilgiri
+ONR-1
+Near DSP. Office mount 
+pleasant road
+11.3426
+76.7901
+Debris
+Slide
+17 October 2025
+27835
+TN/NIL/58A15/2025/2
+Tamil Nadu
+Nilgiri
+ONR-2
+Near Palavasi petrol bunk
+11.3494
+76.7872
+Debris
+Slide
+14 October 2025
+27836
+TN/NIL/58A15/2025/3
+Tamil Nadu
+Nilgiri
+ONR-3
+Coonoor to Ooty road near 
+Coonoor town
+11.3494
+76.7959
+Earth
+Slide
+19 October 2025
+27837
+TN/NIL/58A15/2025/4
+Tamil Nadu
+Nilgiri
+ONR-4
+Udhagai to Coonoor road Near 
+Aruvankad
+11.3533
+76.785
+Debris
+Slide
+21 October 2025
+27838
+TN/NIL/58A15/2025/5
+Tamil Nadu
+Nilgiri
+ONR-5
+Coonoor to Udhagai road
+11.359
+76.7817
+Rock and Debris
+Fall near the 
+head and 
+crown and slide 
+at body and toe 
+of the slide
+22 October 2025
+27839
+TN/NIL/58A15/2025/6
+Tamil Nadu
+Nilgiri
+ONR-6
+TTK Road
+11.3445
+76.7924
+Debris
+Slide
+17 October 2025
+27840
+TN/NIL/58A15/2025/7
+Tamil Nadu
+Nilgiri
+ONR-7
+Coonoor - Vennar pet Rd.
+11.3509
+76.7929
+Debris
+Slide
+20 October 2025
+27841
+TN/NIL/58A15/2025/8
+Tamil Nadu
+Nilgiri
+ONR-8
+Mel Vannarapettai Near 
+Sarasini front house
+11.3551
+76.7902
+NA
+-
+NA
+27842
+TN/NIL/58A15/2025/9 
+Tamil Nadu
+Nilgiri
+ONR-9
+Attadi road
+11.3571
+76.8083
+Earth
+Slide
+19 October 2025
+27843
+TN/NIL/58A15/2025/10
+Tamil Nadu
+Nilgiri
+ONR-10
+Coonoor to Kattabettu road 
+near Bandishola
+11.3665
+76.8167
+Debris
+Slide
+18 October 2025
+27844
+TN/NIL/58A15/2025/11
+Tamil Nadu
+Nilgiri
+ONR-11
+Coonoor to Kattabettu Road
+11.3752
+76.8165
+Loose debris
+Slide
+17 October 2025
+27845
+TN/NIL/58A15/2025/12
+Tamil Nadu
+Nilgiri
+ONR-12
+In backside of Tmt. Jayabhatathi 
+house, Forestdale
+11.3669
+76.7992
+Earth
+Slide
+22 October 2025

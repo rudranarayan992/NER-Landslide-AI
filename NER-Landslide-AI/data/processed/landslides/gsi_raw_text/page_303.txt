@@ -1,0 +1,390 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12953
+KL/IDU/58B16/2019/409
+Kerala
+Idukki
+Near Pallivasal
+Vellathuval-Koobanpara road
+10.01
+76.98
+Debris
+Slide
+2008
+12954
+KL/IDU/58B16/2019/410
+Kerala
+Idukki
+Chithirapuram
+Vellathuval-Koobanpara road
+10.01
+76.98
+Debris
+Slide
+2018
+12955
+KL/IDU/58B16/2019/424
+Kerala
+Idukki
+Aanakkulam
+Thalanirappan kudi
+10.01
+76.93
+Debris
+Slide
+2019
+12956
+KL/IDU/58B16/2019/425
+Kerala
+Idukki
+Aanakkulam
+Thalanirappan kudi
+10.01
+76.92
+Debris
+Slide
+2019
+12957
+KL/IDU/58B16/2019/426
+Kerala
+Idukki
+Aanakkulam
+201 acre - Mezhukumchal road
+10.01
+76.95
+Debris
+Slide
+2016
+12958
+KL/IDU/58B16/2019/428
+Kerala
+Idukki
+Chithirapuram
+Adimali-Rajakkad road
+10.01
+76.96
+Debris
+Slide
+2018
+12959
+KL/IDU/58B16/2019/429
+Kerala
+Idukki
+Thalumkandam
+Adimali-Rajakkad road
+10.01
+76.96
+Debris
+Slide
+2018
+12960
+KL/IDU/58B16/2019/430
+Kerala
+Idukki
+Thalumkandam
+Adimali-Rajakkad road
+10.01
+76.96
+Debris
+Slide
+2018
+12961
+KL/IDU/58B16/2019/432
+Kerala
+Idukki
+Mankulam
+Adimali-Rajakkad road
+10.01
+76.96
+Debris
+Slide
+2018
+12962
+KL/IDU/58F04/2019/483
+Kerala
+Idukki
+Thalumkandam
+Anachal-moonnar road
+10.01
+77.01
+Debris
+Slide
+NA
+12963
+KL/IDU/58F04/2019/511
+Kerala
+Idukki
+Aanachal
+Kunjithanni-Devikulam road
+10.01
+77.09
+Debris
+Slide
+2018
+12964
+KL/IDU/58F04/2019/518
+Kerala
+Idukki
+Chithirapuram
+Kunjithanni-Pottankadu road
+10.01
+77.07
+Debris
+Slide
+NA
+12965
+KL/IDU/58F04/2019/520
+Kerala
+Idukki
+Thalumkandam
+Muttukadu-Vathukappu road
+10.01
+77.16
+Debris
+Slide
+2018
+12966
+KL/IDU/58F04/2019/523
+Kerala
+Idukki
+Perumbamkoottu
+Muttukadu-Vathukappu road
+10.01
+77.17
+Debris
+Slide
+NA
+12967
+KL/IDU/58F04/2019/589
+Kerala
+Idukki
+Near Pallivasal
+Iruttukanam
+10.01
+77.01
+Debris
+Slide
+2019
+12968
+KL/IDU/58F04/2019/590
+Kerala
+Idukki
+Chithirapuram
+Iruttukanam
+10.01
+77.01
+Debris
+Slide
+2018
+12969
+KL/IDU/58F04/2019/592
+Kerala
+Idukki
+Thalumkandam
+Chenkulam-Anachal road
+10.01
+77.03
+Debris
+Slide
+2018
+12970
+TN/IDU/58F08/2016/47
+Kerala
+Idukki
+ 
+Mundal to Bodimettu road
+10.0187
+77.259219
+Debris
+Slide
+NA
+12971
+KL/IDU/58F04/2019/382
+Kerala
+Idukki
+Aaram mile
+Anachal- Kunjithanni road
+10.02
+77.05
+Debris
+Slide
+NA
+12972
+KL/IDU/58F04/2019/383
+Kerala
+Idukki
+Chikkanad kudi
+Anachal- Kunjithanni road
+10.02
+77.06
+Debris
+Slide
+NA
+12973
+KL/IDU/58B16/2019/399
+Kerala
+Idukki
+Aaram mile
+Adimali-Mannankandam road
+10.02
+76.96
+Debris
+Slide
+2018
+12974
+KL/IDU/58B16/2019/400
+Kerala
+Idukki
+Aaram mile
+Mannankandam- Kallar road
+10.02
+76.96
+Debris
+Slide
+2018
+12975
+KL/IDU/58B16/2019/401
+Kerala
+Idukki
+Chikkanad kudi
+Mannankandam- Kallar road
+10.02
+76.97
+Debris
+Slide
+2019
+12976
+KL/IDU/58B16/2019/402
+Kerala
+Idukki
+Parakudi
+Mannankandam- Kallar road
+10.02
+76.98
+Debris
+Slide
+2018
+12977
+KL/IDU/58F04/2019/405
+Kerala
+Idukki
+Seval kudi
+Kunjithanni
+10.02
+77.06
+Debris
+Slide
+NA
+12978
+KL/IDU/58F04/2019/406
+Kerala
+Idukki
+Aanakkulam
+Iruttukkanam-Chithirapuram 
+road
+10.02
+77.01
+Debris
+Slide
+2019
+12979
+KL/IDU/58B16/2019/413
+Kerala
+Idukki
+Mankulam
+Kunjithanni-Muttanmudi road
+10.02
+77.06
+Debris
+Slide
+NA
+12980
+KL/IDU/58B16/2019/418
+Kerala
+Idukki
+Aaram mile
+Adimali
+10.02
+76.96
+Debris
+Slide
+2018
+12981
+KL/IDU/58B16/2019/444
+Kerala
+Idukki
+Aanakkulam
+Machiplavu-Plamala road
+10.02
+76.93
+Debris
+Slide
+2018
+12982
+KL/IDU/58B16/2019/458
+Kerala
+Idukki
+Aaram mile
+Adimali- Mezhukumchal road
+10.02
+76.91
+Debris
+Slide
+2018
+12983
+KL/IDU/58B16/2019/459
+Kerala
+Idukki
+Seval kudi
+Adimali- Mezhukumchal road
+10.02
+76.89
+Debris
+Slide
+2018
+12984
+KL/IDU/58B16/2019/460
+Kerala
+Idukki
+Aanakkulam
+Neriyamangalam-Adimali 
+Highway
+10.02
+76.92
+Debris
+Slide
+2018
+12985
+KL/IDU/58B16/2019/462
+Kerala
+Idukki
+Aanakkulam
+Neriyamangalam-Adimali 
+Highway
+10.02
+76.94
+Debris
+Slide
+2018
+12986
+KL/IDU/58B16/2019/463
+Kerala
+Idukki
+Near Pallivasal
+Neriyamangalam-Adimali 
+Highway
+10.02
+76.93
+Debris
+Slide
+2019

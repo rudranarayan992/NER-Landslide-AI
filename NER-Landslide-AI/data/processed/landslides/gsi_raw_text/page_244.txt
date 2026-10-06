@@ -1,0 +1,562 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+10637
+JK/KIS/43O11/2020/62
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.44
+75.58
+Debris
+Slide
+NA
+10638
+JK/KIS/43O11/2020/66
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.44
+75.58
+Debris
+Slide
+NA
+10639
+JK/KIS/43O11/2020/67
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.44
+75.58
+Debris
+Slide
+NA
+10640
+JK/KIS/43O11/2020/69
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.44
+75.61
+Debris
+Slide
+NA
+10641
+JK/KIS/43O11/2020/70
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.44
+75.61
+Debris
+Slide
+NA
+10642
+JK/KIS/43O15/2020/16
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.44
+75.8
+Debris
+Slide
+NA
+10643
+JK/RAM/43O03/2018/72
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.441425
+75.09079
+Debris
+Slide
+NA
+10644
+JK/RAM/43O03/2018/103
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.445076
+75.19973
+Rock cum debris
+Slide
+NA
+10645
+JK/RAM/43O03/2018/35
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.449925
+75.195541
+Debris
+Slide
+NA
+10646
+JK/KIS/43O11/2020/29
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.45
+75.6
+Rock
+Slide
+NA
+10647
+JK/KIS/43O11/2020/30
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.45
+75.6
+Rock
+Slide
+NA
+10648
+JK/KIS/43O11/2020/107
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.45
+75.75
+Debris
+Slide
+NA
+10649
+JK/KIS/43O15/2020/44
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.45
+75.77
+Rock
+Slide
+NA
+10650
+JK/RAM/43O03/2018/36
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.450512
+75.195297
+Debris
+Slide
+NA
+10651
+JK/RAM/43O03/2018/34
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.453358
+75.195755
+Debris
+Slide
+NA
+10652
+JK/KIS/43O11/2020/20
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.46
+75.56
+Rock
+Slide
+NA
+10653
+JK/KIS/43O11/2020/106
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.46
+75.73
+Debris
+Slide
+NA
+10654
+JK/KIS/43O11/2020/63
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.46
+75.56
+Debris
+Slide
+NA
+10655
+JK/KIS/43O11/2020/64
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.46
+75.56
+Debris
+Slide
+NA
+10656
+JK/KIS/43O11/2020/65
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.46
+75.56
+Debris
+Slide
+NA
+10657
+JK/KIS/43O11/2020/84
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.46
+75.57
+Debris
+Slide
+NA
+10658
+JK/RAM/43O03/2018/77
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.461193
+75.087387
+Debris
+Slide
+NA
+10659
+JK/RAM/43O03/2018/41
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.462364
+75.084618
+Debris
+Slide
+NA
+10660
+JK/KIS/43O11/2020/19
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.47
+75.52
+Rock
+Slide
+NA
+10661
+JK/ANA/43O07/2018/17
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.476662
+75.414261
+Rock cum debris
+Slide
+NA
+10662
+JK/KIS/43O11/2020/100
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.48
+75.59
+Rock
+Slide
+NA
+10663
+JK/KIS/43O11/2020/101
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.48
+75.6
+Rock
+Slide
+NA
+10664
+JK/ANA/43O07/2018/11
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.489971
+75.340393
+Debris
+Slide
+NA
+10665
+JK/KIS/43O11/2020/102
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.49
+75.6
+Rock
+Slide
+NA
+10666
+JK/RAM/43O03/2018/51
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.497315
+75.199059
+Rock cum debris
+Slide
+NA
+10667
+JK/KIS/43O10/2020/25
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+Faro, NH 301
+33.5
+75.62
+Debris
+Creep
+NA
+10668
+JK/KIS/43O10/2020/52
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+Parkachik
+33.5
+75.59
+Rock
+Slide
+NA
+10669
+JK/KIS/43O10/2020/73
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.5
+75.58
+Debris
+Slide
+NA
+10670
+JK/KIS/43O15/2020/87
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.5
+75.97
+Rock
+Slide
+NA
+10671
+JK/KIS/43O10/2020/15
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.51
+75.58
+Rock
+Slide
+NA
+10672
+JK/KIS/43O10/2020/20
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.51
+75.59
+Rock
+Fall
+NA
+10673
+JK/KIS/43O10/2020/24
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+Umba village
+33.51
+75.59
+Debris
+Slide
+NA
+10674
+JK/KIS/43O10/2020/26
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+Umba village
+33.51
+75.57
+Rock
+Slide
+NA
+10675
+JK/KIS/43O10/2020/27
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+Faro
+33.51
+75.58
+Earth
+Creep
+NA
+10676
+JK/KIS/43O10/2020/28
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+Faro, NH 301
+33.51
+75.58
+Debris
+Fall
+NA
+10677
+JK/KIS/43O10/2020/29
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+Karpokhar
+33.51
+75.58
+Rock
+Fall
+NA
+10678
+JK/KIS/43O10/2020/30
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+Way to Umba
+33.51
+75.58
+Rock
+Fall
+NA
+10679
+JK/KIS/43O10/2020/35
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.51
+75.58
+Debris
+Slide
+NA
+10680
+JK/KIS/43O10/2020/36
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.51
+75.58
+Debris
+Slide
+NA
+10681
+JK/KIS/43O10/2020/38
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.51
+75.58
+Debris
+Slide
+NA
+10682
+JK/KIS/43O10/2020/4
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.51
+75.58
+Rock
+Fall
+NA
+10683
+JK/KIS/43O10/2020/5
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.51
+75.58
+Rock
+Slide
+NA
+10684
+JK/KIS/43O10/2020/53
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+Parkachik, NH301
+33.51
+75.58
+Rock
+Fall
+NA
+10685
+JK/KIS/43O10/2020/55
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+Purtukchey ,NH 301
+33.51
+75.58
+Debris
+Slide
+NA
+10686
+JK/KIS/43O10/2020/6
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.51
+75.59
+Rock
+Fall
+NA

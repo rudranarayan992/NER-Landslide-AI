@@ -1,0 +1,519 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20579
+MEG/SG/78K11/2022/05
+Meghalaya
+South Garo Hills
+NongalBibra village
+Nongal Bibra
+25.45939722
+90.70860278
+Debris
+Slide
+17 June 2022 at 3.000hrs
+20580
+MEG/SG/78K11/2022/06
+Meghalaya
+South Garo Hills
+Nongal Bibra village
+Nongal Bibra
+25.45903056
+90.70813333
+Debris
+Slide
+17 June 2022 at 3.000hrs
+20581
+MEG/EKH/78O11/2022/07
+Meghalaya
+East Khasi Hills
+Nongsoung-Laitlarem road
+Laitlarem slide
+25.44835
+91.59150278
+Debris
+Slide
+15 June 2022, 8.00 to 9.00hrs
+20582
+MEG/EKH/78O11/2022/08
+Meghalaya
+East Khasi Hills
+Nongsoung –Laitlarem road
+Laitlarem slide
+25.44743611
+91.59103889
+Debris
+Slide
+15 June 2022, 8.00 to 9.00hrs
+20583
+MEG/EKH/78O11/2022/09
+Meghalaya
+East Khasi Hills
+Nongspung – Laitlarem village road
+Laitlarem slide
+25.44716111
+91.59067778
+Debris
+Slide
+15 June 2022, 8.00 to 9.00hrs
+20584
+MEG/EJH/83C08/2022/10
+Meghalaya
+East Jaintia Hills
+NH-06,Near Toll gate Lumshnong
+Lumshnong slide
+25.16400556
+92.38702778
+Debris
+Slide
+NA
+20585
+MEG/EKH/78O15/2022/11
+Meghalaya
+East Khasi Hills
+NH-206
+Saitbakon slide.
+25.296
+91.932
+Rock
+Slide
+4 April,2022
+20586
+MEG/EKH/78O15/2022/12
+Meghalaya
+East Khasi Hills
+NH-206, north of Soshur view point
+Soshur slide
+25.345
+91.891
+Rock
+Slide
+March-April 2022
+20587
+MEG/EKH/78O15/2022/13
+Meghalaya
+East Khasi Hills
+Umblai village
+Umblai slide
+25.35861111
+91.97208333
+Debris
+Slide
+4 April 2022 at 7.00hrs
+20588
+MEG/EKH/78O15/2022/14
+Meghalaya
+East Khasi Hills
+Umblai village
+Umblai slide
+25.35908333
+91.97433333
+Debris
+flow
+4 April 2022 at 7.00hrs
+20589
+MEG/EKH/78O15/2022/15
+Meghalaya
+East Khasi Hills
+Lynshing  village,  along  Mawkynrew  
+to  Lynshing  road
+section.
+Lynshing slide
+25.39611111
+91.99194444
+Debris
+Slide
+4 April 2022 at 7.00hrs
+20590
+MEG/EKH/78O15/2023/01
+Meghalaya
+East Khasi Hills
+NH-40
+Ryngngain slide, before 
+Lyngkyrdem village
+25.365263
+91.878497
+Rock
+Slide
+13 April 2023
+20591
+MEG/WKH/78O6/2023-24/1
+Meghalaya
+West Khasi Hills
+Pyndengrei village, Nongstoin
+Pyndengrei slide
+25.52901389
+91.26188611
+Debris
+Slide
+17 June 2023 at 4:00 AM.
+20592
+MEG/WJH/83C03/2023-24/2
+Meghalaya
+West Jaintia Hills
+Pynthor Langtein village
+Pynthor Langtein slide
+25.41955556
+92.16194444
+Earth
+Slide
+10 August 2023
+20593
+ME/EWK/2025/1
+Meghalaya
+Eastern-West Khasi Hill
+Kynshi
+25.55256111
+91.61870278
+Debris
+Fall
+28 June 2024
+20594
+6892
+Meghalaya
+South West Khasi  Hills
+Wamney
+Village Road
+25.39295833
+91.55163333
+Debris
+Slide
+28 May 2024
+20595
+6874
+Meghalaya
+South West Khasi  Hills
+Jakarm
+Mawkyrwat-Shillong Road
+25.37129167
+91.48003056
+Debris
+Fall
+15 June 2024
+20596
+ME/SWK/2025/4
+Meghalaya
+South West Khasi  Hills
+Mawkyllung
+Mawkyllung-Nongstoin Road
+25.40288611
+91.43424167
+Debris
+Fall
+28 May 2024
+20597
+6891
+Meghalaya
+West Khasi Hills
+Mawrok Sohsat
+Mairang-Nongstoin Road
+25.531739
+91.296177
+Debris
+Slide
+02 July 2024
+20598
+ME/WKH/2025/6
+Meghalaya
+West Khasi Hills
+Sohpian
+Mairang-Nongstoin Road
+25.540056
+91.314142
+Debris
+Fall
+02 July 2024
+20599
+ME/WKH/2025/7
+Meghalaya
+East Khasi Hills
+Mowing Rim
+Shillong-Umiam Road
+25.62790278
+91.88801944
+Debris
+Fall
+28 May 2024 at 4.00 hrs
+20600
+ME/EKH/2025/8
+Meghalaya
+East Khasi Hills
+Mowing Rim
+Shillong-Umiam Road
+25.630403
+91.8899195
+Debris
+Subsidence
+28 May 2024 at 4.00 hrs
+20601
+ME/EKH/2025/9
+Meghalaya
+East Khasi Hills
+Mowing Rim
+Shillong-Umiam Road
+25.630858
+91.887601
+Debris
+Slide
+28 May 2024 at 4.00 hrs
+20602
+6890
+Meghalaya
+East Khasi Hills
+Rymbai Petrol Pump(BPCL)
+Shillong-Umiam Road
+25.641242
+91.894137
+Debris
+Fall
+02 July 2024
+20603
+4694
+Meghalaya
+East Khasi Hills
+Mowing Rim
+Umiam Road
+25.65057222
+91.89351389
+Debris
+Fall
+02 July 2024
+20604
+6889
+Meghalaya
+East Khasi Hills
+Umiam Lake
+Umiam Road
+25.64887222
+91.89692778
+Debris
+Slide
+02 July 2024
+20605
+6885
+Meghalaya
+East Khasi Hills
+Mawphlang
+Mawphlang-Weiloi Road
+25.44693056
+91.74096667
+Debris
+Topple/Fall
+28 May 2024, morning
+20606
+ME/EKH/2025/14
+Meghalaya
+East Khasi Hills
+Ummawiong
+Lyngiang-Tynsad Road
+25.41384722
+91.67856111
+Debris
+Slide
+28 May 2024, morning
+20607
+6884
+Meghalaya
+East Khasi Hills
+Mawlynnu(Sixteen)
+Weiloi-Mawsynram Road
+25.34508889
+91.60050278
+Debris
+Slide
+28 May 2024, morning
+20608
+ME/SWK/2025/16
+Meghalaya
+South West Khasi  Hills
+Mawiang
+SH-3
+25.619397
+91.61704
+Debris
+Slide
+30 May 2025
+20609
+4695
+Meghalaya
+Eastern-West Khasi Hill
+Mawblei
+SH-3
+25.65443889
+91.62390833
+Debris
+Fall
+30 May 2025
+20610
+4696
+Meghalaya
+Eastern-West Khasi Hill
+Nongkhlaw
+SH-3
+25.65443889
+91.63345833
+Debris
+Slide
+30 May 2025
+20611
+4697
+Meghalaya
+Eastern-West Khasi Hill
+Nongkhlaw
+SH-3
+25.65977222
+91.63440556
+Debris
+Fall
+30 May 2025
+20612
+ME/EKH/2025/20
+Meghalaya
+East Khasi Hills
+Umiam Hydal Project
+GS Road
+25.65308889
+91.89803889
+Debris
+Slide
+01 July 2024
+20613
+4699
+Meghalaya
+East Khasi Hills
+Umiam Hydal Project
+GS Road
+25.65341111
+91.89819444
+Debris
+Slide
+01 July 2024
+20614
+ME/RIB/2025/22
+Meghalaya
+Ri-Bhoi
+Umiam Hydal Project
+GS Road
+25.66315
+91.90180278
+Debris
+Fall
+30 May 2025
+20615
+4701
+Meghalaya
+Ri-Bhoi
+Umsawlum A
+GS Road
+25.67032222
+91.90487222
+Debris
+Slide
+30 May 2025
+20616
+ME/RIB/2025/24
+Meghalaya
+Ri-Bhoi
+Umiam Flyover
+Guwahati-Shillong Road
+25.67517222
+91.8983
+Debris
+Fall
+30 June 2024
+20617
+ME/EKH/2025/25
+Meghalaya
+East Khasi Hills
+Lewmawiong
+NH-206
+25.42315556
+91.86329167
+Debris
+Slide
+31 May 2025
+20618
+4702
+Meghalaya
+East Khasi Hills
+Lait-Sohphie
+AH-2
+25.30127778
+91.92198889
+Debris
+Slide
+30 May 2025
+20619
+4700
+Meghalaya
+Ri-Bhoi
+Umiam 
+NH-6
+25.67546111
+91.89726944
+Rock
+Topple/Fall
+30 June 2024
+20620
+ME/RIB/2025/28
+Meghalaya
+Ri-Bhoi
+NH-6
+25.67761389
+91.89865833
+Debris
+Slide
+30 May 2025
+20621
+ME/EWK/2026/29
+Meghalaya
+Eastern-West Khasi Hill
+Umkrem
+Umkrem
+25.49551944
+91.49585278
+Debris
+Slide
+02 July 2025
+20622
+ME/EWK/2026/30
+Meghalaya
+South West Khasi  Hills
+Mawpud
+Ranikor
+25.28247222
+91.36413333
+Debris
+Slide
+30 May 2025
+20623
+ME/SWK/2026/31
+Meghalaya
+South West Khasi  Hills
+Mawpud
+Ranikor
+25.28090556
+91.36584722
+Debris
+Slide
+30 May 2025
+20624
+ME/RIB/2026/32
+Meghalaya
+Ri-Bhoi
+Umbang 1
+NH-6
+25.68255833
+91.90111389
+Debris
+Slide
+30 June 2024

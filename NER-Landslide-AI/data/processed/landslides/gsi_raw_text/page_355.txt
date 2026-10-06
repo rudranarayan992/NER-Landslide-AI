@@ -1,0 +1,402 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14755
+406
+Kerala
+Idukki
+Padinjaru Methottil
+Poomala- Padinjaru Methottil  
+Road
+9.855504
+76.852807
+Debris
+Flow
+15th August 2018
+14756
+407
+Kerala
+Idukki
+Thadiyina
+Koovakandam=- Thadiyina Road 9.82866
+76.866659
+Debris
+Slide
+15th August 2018
+14757
+408
+Kerala
+Idukki
+Thadiyina
+Koovakandam=- Thadiyina Road 9.828145
+76.866473
+Debris
+Subsidence
+16th August 2018
+14758
+409
+Kerala
+Idukki
+Kozhipally
+Naliyani - Kozhipally road
+9.820806
+76.871099
+Debris
+Slide
+15th August 2018
+14759
+410
+Kerala
+Idukki
+Mattam City
+Pannimattao- Mottamudi Road 9.840678
+76.832971
+Debris
+Slide
+15th August 2018
+14760
+411
+Kerala
+Idukki
+Venniyani
+Manjickal- Venniyani Road
+9.877324
+76.845116
+Debris
+Flow
+15th August 2018
+14761
+412
+Kerala
+Idukki
+Venniyani
+Manjickal- Venniyani Road
+9.877183
+76.845973
+Debris
+Slide
+15th August 2018
+14762
+413
+Kerala
+Idukki
+Venniyani
+Manjickal-  Nenniani Road
+9.876945
+76.846673
+Rock-cum-debris
+Slide
+15th August 2018
+14763
+414
+Kerala
+Idukki
+Venniyani
+Manjickal- Venniyani Road
+9.875297
+76.848642
+Debris
+Slide
+15th August 2018
+14764
+415
+Kerala
+Idukki
+Venniyani
+Manjickal- Venniyani Road
+9.875604
+76.848726
+Debris
+Slide
+15th August 2018
+14765
+416
+Kerala
+Idukki
+Venniyani
+Manjickal- Venniyani Road
+9.875848
+76.848728
+Debris
+Slide
+15th August, 2018
+14766
+417
+Kerala
+Idukki
+Venniyani
+Manjickal- Venniyani Road
+9.874873
+76.848531
+Debris
+Slide
+15th August 2018
+14767
+418
+Kerala
+Idukki
+Venniyani
+Manjickal- Venniyani Road
+9.870913
+76.84705
+Debris
+Flow
+15th August 2018
+14768
+419
+Kerala
+Idukki
+Venniyani
+Manjickal- Venniyani Road
+9.870136
+76.846863
+Debris
+Flow
+15th August 2018
+14769
+420
+Kerala
+Idukki
+Venniyani
+Venniyani junction - concrete 
+road
+9.865639
+76.847577
+Debris
+Flow
+15th August 2018
+14770
+421
+Kerala
+Idukki
+Venniyani
+Venniyani  - Paramada  road
+9.864715
+76.848018
+Debris
+Subsidence
+15th August 2018
+14771
+422
+Kerala
+Idukki
+Venniyani
+Venniyani  - Molakkad concrete 
+road
+9.86717
+76.848688
+Debris
+Slide
+15th August 2018
+14772
+423
+Kerala
+Idukki
+Venniyani
+Venniyani  - Paramada  road
+9.867655
+76.849283
+Debris
+Slide
+15th August 2018
+14773
+424
+Kerala
+Idukki
+Moolakkad
+Peringassery - Moolakkad Road 9.861111
+76.852778
+Debris
+Flow
+15th August 2018
+14774
+425
+Kerala
+Idukki
+Moolakkad
+Peringassery - Moolakkad Road 9.859167
+76.855556
+Debris
+Flow
+15th August 2018
+14775
+426
+Kerala
+Idukki
+Moolakkad
+Peringassery - Moolakkad Road 9.861544
+76.865667
+Debris
+Slide
+15th August 2018
+14776
+427
+Kerala
+Idukki
+Moolakkad
+Peringassery - Moolakkad Road 9.871944
+76.867222
+Debris
+Flow
+15th August 2018
+14777
+428
+Kerala
+Idukki
+Moolakkad
+Peringassery - Moolakkad Road 9.856918
+76.871813
+Debris
+Slide
+15th August 2018
+14778
+429
+Kerala
+Idukki
+Moolakkad
+ Moolakkad - Alkallur Road
+9.858592
+76.873099
+Debris
+Flow
+15th August 2018
+14779
+430
+Kerala
+Idukki
+Kallikkallu
+Kallikallu- Chelakkad Road
+9.841969
+76.885748
+Debris
+Slide
+16th August 2018
+14780
+431
+Kerala
+Idukki
+Villumthandu
+Uppukunnu-Villamthandu Road 9.842744
+76.89423
+Debris
+Slide
+15th August 2018
+14781
+432
+Kerala
+Idukki
+Kallickal
+Uppukunnu-Villamthandu Road 9.843841
+76.888867
+Debris
+Slide
+16th August 2018
+14782
+433
+Kerala
+Idukki
+Peringasseri
+Peringassery - Idukki  Road
+9.860248
+76.861385
+Debris
+Slide
+15th August 2018
+14783
+434
+Kerala
+Idukki
+Peringasseri
+Peringassery - Idukki  Road
+9.855592
+76.863036
+Debris
+Slide
+15th August 2018
+14784
+435
+Kerala
+Idukki
+Kallickal
+Kallickal Road
+9.840603
+76.885914
+Debris
+Slide
+15th August 2018
+14785
+436
+Kerala
+Idukki
+Kallickal
+Kallickal Road
+9.838783
+76.888009
+Debris
+Slide
+15th August 2018
+14786
+437
+Kerala
+Idukki
+Uppukkunnu
+Uppukunnu- LP School  Road
+9.846759
+76.881117
+Debris
+Slide
+16th August 2018
+14787
+438
+Kerala
+Idukki
+Uppukkunnu
+Uppukunnu- Rationkda- 
+Plantation Road
+9.840886
+76.879006
+Debris
+Slide
+16th August 2018
+14788
+439
+Kerala
+Idukki
+Uppukkunnu
+Uppukunnu
+9.840603
+76.879387
+Debris
+Slide
+16th August 2018
+14789
+440
+Kerala
+Idukki
+Venniyani
+Peringassery- venniyani Road
+9.868611
+76.85
+Debris
+Flow
+15th August 2018
+14790
+441
+Kerala
+Idukki
+Venniyani
+One private Road
+9.873292
+76.850017
+Debris
+Flow
+16th August 2018

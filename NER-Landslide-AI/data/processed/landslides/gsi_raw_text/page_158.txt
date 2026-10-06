@@ -1,0 +1,512 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+6650
+HP/MAN/53A13/2015/77
+Himachal Pradesh
+Mandi
+ 
+Padhar,NH 20, near Sr sec 
+school
+31.883911
+76.91401
+Debris
+Slide
+NA
+6651
+HP/MAN/53A13/2015/32
+Himachal Pradesh
+Mandi
+ 
+Padhar,NH 20,30m from S195 
+towards joginder nagar
+31.884434
+76.914288
+Debris
+Slide
+NA
+6652
+HP/MAN/53A10/2018/26
+Himachal Pradesh
+Mandi
+ 
+ 
+31.884861
+76.605056
+Debris
+Slide
+NA
+6653
+HP/MAN/53A09/2018/77
+Himachal Pradesh
+Mandi
+ 
+ 
+31.885083
+76.732333
+Rock cum debris
+Slide
+NA
+6654
+HP/MAN/53A09/2018/78
+Himachal Pradesh
+Mandi
+ 
+Lad Badol-Kothi Rd
+31.885556
+76.732694
+Debris
+Slide
+NA
+6655
+HP/MAN/53A09/2018/79
+Himachal Pradesh
+Mandi
+ 
+Lad Badol-Kothi Rd
+31.885889
+76.733222
+Debris
+Slide
+NA
+6656
+HP/MAN/53A09/2018/80
+Himachal Pradesh
+Mandi
+ 
+Lad Badol-Kothi Rd
+31.888083
+76.733667
+Rock cum debris
+Slide
+NA
+6657
+HP/KAN/53A05/2018/2
+Himachal Pradesh
+Kangra
+ 
+SAPRI ROAD
+31.89185
+76.3107
+Rock
+Slide
+NA
+6658
+HP/MAN/53A09/2018/81
+Himachal Pradesh
+Mandi
+ 
+Lad Badol-Kothi Rd
+31.891861
+76.733944
+Debris
+Slide
+NA
+6659
+HP/MAN/53A09/2018/82
+Himachal Pradesh
+Mandi
+ 
+Lad Badol-Khaddar Rd
+31.892778
+76.733611
+Debris
+Slide
+NA
+6660
+HP/MAN/53A09/2018/83
+Himachal Pradesh
+Mandi
+ 
+Lad Badol-Kothi Rd
+31.893944
+76.733667
+Debris
+Slide
+NA
+6661
+HP/MAN/53A13/2015/88
+Himachal Pradesh
+Mandi
+ 
+Balhi,SH 19
+31.89447
+76.788223
+Debris
+Slide
+NA
+6662
+HP/KAN/53A09/2018/84
+Himachal Pradesh
+Kangra
+ 
+Kathla-Rajnagar road
+31.894528
+76.629194
+Debris
+Slide
+NA
+6663
+HP/MAN/53A13/2015/33
+Himachal Pradesh
+Mandi
+ 
+south of Gwali,NH 20
+31.895
+76.907
+Debris
+Slide
+NA
+6664
+HP/KAN/53A05/2018/3
+Himachal Pradesh
+Kangra
+ 
+SAPRI ROAD
+31.89548
+76.30475
+Rock
+Slide
+NA
+6665
+HP/KAN/52D08/2018/4
+Himachal Pradesh
+Kangra
+ 
+SAPRI ROAD
+31.89548
+76.30475
+Rock
+Slide
+NA
+6666
+HP/KAN/52D08/2018/5
+Himachal Pradesh
+Kangra
+ 
+SAPRI ROAD
+31.89548
+76.30475
+Rock
+Slide
+NA
+6667
+HP/MAN/53A09/2018/85
+Himachal Pradesh
+Mandi
+ 
+Lad Badol-Kothi Rd
+31.896111
+76.736583
+Debris
+Slide
+2018
+6668
+HP/MAN/53A09/2018/86
+Himachal Pradesh
+Mandi
+ 
+Lad Badol-Kothi Rd
+31.897722
+76.735583
+Debris
+Slide
+NA
+6669
+HP/MAN/53A13/2015/87
+Himachal Pradesh
+Mandi
+ 
+Langa,SH19
+31.899865
+76.789381
+Rock
+Slide
+NA
+6670
+HP/MAN/53A09/2018/87
+Himachal Pradesh
+Mandi
+ 
+Lad Badol-Kothi Rd
+31.900222
+76.730278
+Rock
+Slide
+NA
+6671
+HP/MAN/53A09/2018/88
+Himachal Pradesh
+Mandi
+ 
+Lad Badol-Kothi Rd
+31.900778
+76.730333
+Debris
+Slide
+NA
+6672
+HP/MAN/53A13/2015/80
+Himachal Pradesh
+Mandi
+ 
+1km NW of Gwali, NH 20
+31.901451
+76.898703
+Debris
+Slide
+NA
+6673
+HP/HAM/53A09/2018/89
+Himachal Pradesh
+Hamirpur
+ 
+Jaha-Baldwara road
+31.901583
+76.511944
+Debris
+Slide
+NA
+6674
+HP/MAN/53A13/2015/81
+Himachal Pradesh
+Mandi
+ 
+NW of Gwali,NH 20
+31.903
+76.899
+Debris
+Slide
+NA
+6675
+HP/MAN/53A13/2015/86
+Himachal Pradesh
+Mandi
+ 
+Bajrehr,SH19
+31.904771
+76.790617
+Rock
+Slide
+NA
+6676
+HP/HAM/53A09/2018/90
+Himachal Pradesh
+Hamirpur
+ 
+SH-05
+31.905472
+76.531028
+Debris
+Slide
+2018
+6677
+HP/MAN/53A09/2018/91
+Himachal Pradesh
+Mandi
+ 
+Lad Badol-Kothi Rd
+31.905917
+76.728139
+Rock cum debris
+Slide
+NA
+6678
+HP/MAN/53A13/2015/82
+Himachal Pradesh
+Mandi
+ 
+SE of Khund,NH 20
+31.906282
+76.892974
+Debris
+Slide
+NA
+6679
+HP/KAN/53A05/2018/15
+Himachal Pradesh
+Kangra
+ 
+ 
+31.90815
+76.29312
+Debris
+Slide
+NA
+6680
+HP/HAM/53A09/2018/92
+Himachal Pradesh
+Hamirpur
+ 
+SH 05
+31.908556
+76.510389
+Debris
+Slide
+2018
+6681
+HP/MAN/53A09/2018/93
+Himachal Pradesh
+Mandi
+ 
+ 
+31.908778
+76.666611
+Debris
+Slide
+NA
+6682
+HP/MAN/53A09/2018/94
+Himachal Pradesh
+Mandi
+ 
+ 
+31.909778
+76.668444
+Debris
+Slide
+2017
+6683
+HP/HAM/53A09/2018/95
+Himachal Pradesh
+Hamirpur
+ 
+SH 04
+31.909861
+76.686861
+Debris
+Slide
+NA
+6684
+HP/MAN/53A13/2017/09
+Himachal Pradesh
+Mandi
+Kotrupi Landslide
+Near Padhar (towards Joginder 
+Nagar); Mandi - Joginder Nagar -
+Pathankot NH - 154, Tehsil 
+Padhar, Dist. Mandi
+31.91044
+76.89064
+Debris
+Complex
+1977
+6685
+HP/MAN/53A10/2018/27
+Himachal Pradesh
+Mandi
+ 
+ 
+31.9105
+76.667972
+Debris
+Slide
+NA
+6686
+HP/KAN/53A09/2018/96
+Himachal Pradesh
+Kangra
+ 
+Ropri - Bhora road
+31.910694
+76.667778
+Debris
+Slide
+NA
+6687
+HP/KAN/53A09/2018/97
+Himachal Pradesh
+Kangra
+ 
+Ropri - Bhora road
+31.910722
+76.667833
+Debris
+Slide
+NA
+6688
+HP/MAN/53A09/2018/98
+Himachal Pradesh
+Mandi
+ 
+ 
+31.911917
+76.636083
+Debris
+Slide
+NA
+6689
+HP/MAN/53A09/2018/99
+Himachal Pradesh
+Mandi
+ 
+ 
+31.913194
+76.553694
+Rock cum debris
+Slide
+NA
+6690
+HP/HAM/53A09/2018/100
+Himachal Pradesh
+Hamirpur
+ 
+SH-04
+31.913222
+76.5085
+Debris
+Slide
+2018
+6691
+HP/MAN/53A09/2018/101
+Himachal Pradesh
+Mandi
+ 
+ 
+31.913278
+76.554056
+Debris
+Slide
+NA
+6692
+HP/KAN/53A05/2018/47
+Himachal Pradesh
+Kangra
+ 
+JWALAJI ROAD
+31.914864
+76.286644
+Rock cum debris
+Slide
+NA
+6693
+HP/MAN/53A13/2015/85
+Himachal Pradesh
+Mandi
+ 
+Naluragaon,SH 19
+31.916431
+76.793381
+Debris
+Slide
+NA
+6694
+HP/MAN/53A09/2018/102
+Himachal Pradesh
+Mandi
+ 
+Lad Badol-Kothi Rd
+31.91675
+76.717778
+Rock cum debris
+Slide
+NA

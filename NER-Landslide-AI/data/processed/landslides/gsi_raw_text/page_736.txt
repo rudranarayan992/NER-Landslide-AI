@@ -1,0 +1,494 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29069
+WB/DAR/78B09/2015/731
+West Bengal
+Darjeeling
+S OF DALAPCHAND
+ 
+26.975963
+88.59693
+Debris
+Slide
+2014
+29070
+WB/DAR/78B09/2015/732
+West Bengal
+Darjeeling
+S OF DALAPCHAND
+ 
+26.976701
+88.596011
+Debris
+Slide
+2014
+29071
+WB/DAR/78B05/2015/457
+West Bengal
+Darjeeling
+NG93 BARA SURUK
+ 
+26.976988
+88.472955
+Debris
+Slide
+2004
+29072
+WB/DAR/78B05/2021/PDLS/34
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+26.97701511
+88.42381095
+Rock
+Slide
+October 2021
+29073
+WB/DAR/78B09/2015/730
+West Bengal
+Darjeeling
+S OF DALAPCHAND
+ 
+26.977246
+88.598538
+Debris
+Slide
+2014
+29074
+WB/DAR/78B09/2015/794
+West Bengal
+Darjeeling
+NG34 S of Pemling
+ 
+26.97733
+88.588897
+Debris
+Slide
+2015
+29075
+WB/DAR/78B05/2015/666
+West Bengal
+Darjeeling
+Ribindra BH, Mangpo
+Ribindra BH, Mangpo
+26.977333
+88.378417
+Debris
+Slide
+2015
+29076
+WB/DAR/78B09/2015/793
+West Bengal
+Darjeeling
+NG32 S of Pemling
+ 
+26.978475
+88.58499
+Debris
+Slide
+2015
+29077
+WB/DAR/78B05/2015/539
+West Bengal
+Darjeeling
+NG92 NW OF UPPER DONG
+ 
+26.979403
+88.451651
+Debris
+Slide
+2011
+29078
+WB/DAR/78B05/2015/497
+West Bengal
+Darjeeling
+Mungpoo-Rambhi Road
+Mungpoo-Rambhi Road
+26.980303
+88.317581
+Debris
+Slide
+2009
+29079
+WB/DAR/78B09/2015/768
+West Bengal
+Darjeeling
+NW OF PABRINGTAR
+NW OF PABRINGTAR
+26.980556
+88.532472
+Rock
+Slide
+2015
+29080
+WB/DAR/78B09/2015/800
+West Bengal
+Darjeeling
+NG39 S of Lolegaon
+ 
+26.980791
+88.553794
+Debris
+Slide
+2015
+29081
+WB/DAR/78B05/2015/613
+West Bengal
+Darjeeling
+BARA SURUK
+ 
+26.980876
+88.47488
+Debris
+Slide
+2014
+29082
+WB/DAR/78B09/2015/797
+West Bengal
+Darjeeling
+NG37 S of Lolegaon
+ 
+26.980925
+88.550841
+Rock
+Slide
+2015
+29083
+WB/DAR/78B01/2021/PDLS/37
+West Bengal
+Darjeeling
+N/A
+N/A
+26.98107904
+88.13190211
+Debris
+Slide
+October 2021
+29084
+WB/DAR/78B09/2015/798
+West Bengal
+Darjeeling
+NG38 S of Lolegaon
+ 
+26.981198
+88.552579
+Debris
+Slide
+2015
+29085
+WB/DAR/78B09/2015/792
+West Bengal
+Darjeeling
+NG32 SSW of Pemling
+ 
+26.981309
+88.576236
+Debris
+Slide
+2015
+29086
+WB/DAR/78B09/2015/712
+West Bengal
+Darjeeling
+At around 55km. On Dam Dim-Labha-
+Algara road (North of Gorubathan)
+At around 55km. On Dam Dim-
+Labha-Algara road (Just north of 
+Gorubathan)
+26.981764
+88.702091
+Debris
+Subsidence
+1965
+29087
+WB/DAR/78B01/2015/327
+West Bengal
+Darjeeling
+Simana Slide
+From Simana to Sukhiyapokri on
+SH 12
+26.982297
+88.142416
+Debris
+Slide
+2011
+29088
+WB/DAR/78B05/2015/611
+West Bengal
+Darjeeling
+SURUK KHOLA
+ 
+26.98318
+88.459694
+Rock
+Slide
+2014
+29089
+WB/DAR/78B09/2015/796
+West Bengal
+Darjeeling
+NG36 S of Lolegaon
+ 
+26.983514
+88.550485
+Rock
+Slide
+2015
+29090
+WB/DAR/78B05/2015/596
+West Bengal
+Darjeeling
+RAMBI KHOLA
+ 
+26.983593
+88.401204
+Rock
+Slide
+2014
+29091
+WB/DAR/78B05/2015/612
+West Bengal
+Darjeeling
+SURUK KHOLA
+ 
+26.983927
+88.461843
+Rock
+Slide
+2014
+29092
+WB/DAR/78B05/2015/491
+West Bengal
+Darjeeling
+Rongbull sidaline
+Rongbull sidaline
+26.984
+88.277
+Rock
+Slide
+2009
+29093
+WB/DAR/78B09/2015/738
+West Bengal
+Darjeeling
+MANZING
+MANZING
+26.984222
+88.644556
+Rock
+Slide
+2015
+29094
+WB/DAR/78B09/2015/758
+West Bengal
+Darjeeling
+KHASMAT/NIMBUNG PHATAK
+KHASMAT/NIMBUNG PHATAK
+26.984361
+88.566194
+Rock
+Slide
+2015
+29095
+WB/DAR/78B09/2015/759
+West Bengal
+Darjeeling
+NIMBONG RF
+NIMBONG RF
+26.984556
+88.564278
+Rock
+Slide
+2015
+29096
+WB/DAR/78B05/2015/689
+West Bengal
+Darjeeling
+SidhaLine NH55
+ 
+26.984573
+88.27775
+Debris
+Slide
+2015
+29097
+WB/DAR/78B09/2015/791
+West Bengal
+Darjeeling
+NG31 SSW of Pemling
+ 
+26.984716
+88.584729
+Rock
+Slide
+2015
+29098
+WB/DAR/78B05/2015/609
+West Bengal
+Darjeeling
+SURUK KHOLA
+ 
+26.984996
+88.465284
+Debris
+Slide
+2014
+29099
+WB/DAR/78B09/2015/716
+West Bengal
+Darjeeling
+16km.from Damdim towards  Lava
+16km.from Damdim towards  
+Lava
+26.985201
+88.700452
+Rock
+Slide
+2007
+29100
+WB/DAR/78B05/2015/458
+West Bengal
+Darjeeling
+NG94 NAZUK RF
+ 
+26.98612
+88.455019
+Debris
+Slide
+2004
+29101
+WB/DAR/78B09/2015/760
+West Bengal
+Darjeeling
+N of KHASMAI RH
+N of KHASMAI RH
+26.986286
+88.579528
+Rock
+Slide
+2015
+29102
+WB/DAR/78B09/2015/776
+West Bengal
+Darjeeling
+Lolegaon Rd junction
+Lolegaon Rd junction
+26.986361
+88.568639
+Rock
+Slide
+2015
+29103
+WB/DAR/78B09/2015/766
+West Bengal
+Darjeeling
+Nimbong RF
+Nimbong RF
+26.986528
+88.563139
+Debris
+Slide
+2015
+29104
+WB/DAR/78B05/2015/433
+West Bengal
+Darjeeling
+NG106 Nazuk  RF, SURUK KHOLA
+ 
+26.986622
+88.465663
+Debris
+Slide
+2004
+29105
+WB/DAR/78B09/2015/779
+West Bengal
+Darjeeling
+NIMBONG RF
+NIMBONG RF
+26.986639
+88.562861
+Rock
+Slide
+2015
+29106
+WB/DAR/78B05/2015/460
+West Bengal
+Darjeeling
+NG96 NAZUK RF
+ 
+26.987192
+88.455216
+Debris
+Slide
+2004
+29107
+WB/DAR/78B09/2015/795
+West Bengal
+Darjeeling
+NG35 S of Lolegaon
+ 
+26.987586
+88.553254
+Debris
+Slide
+2015
+29108
+WB/DARJ/78B09/2007/0002
+West Bengal
+Darjeeling
+Gorubathan-II
+16 km from Damdin towards 
+Lava
+26.98763
+88.6994
+Rock
+Slide
+2007
+29109
+WB/DAR/78B09/2015/713
+West Bengal
+Darjeeling
+At 16.6km from Dam Dim on Dam Dim-
+Labha-Algara road
+At 16.6km from Dam Dim on 
+Dam Dim-Labha-Algara road
+26.98763
+88.69939
+Rock
+Subsidence
+1965
+29110
+WB/DAR/78B05/2015/459
+West Bengal
+Darjeeling
+NG95 NAZUK RF
+ 
+26.987943
+88.455813
+Debris
+Slide
+2004
+29111
+WB/DAR/78B09/2015/767
+West Bengal
+Darjeeling
+NIMBONG RF
+NIMBONG RF
+26.988417
+88.540056
+Rock
+Fall
+2015

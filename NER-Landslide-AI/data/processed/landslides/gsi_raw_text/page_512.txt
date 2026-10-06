@@ -1,0 +1,540 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20672
+MZ/SAI/84F04/2020/13
+Mizoram
+Saiha
+South of Laki slide
+South of Laki village
+22.14
+93
+Rock
+Slide
+NA
+20673
+MZ/LAW/84B12/2020/28
+Mizoram
+Lawngtlai
+Chhippui to Parva road slide 8
+Chhippui to Parva road
+22.15
+92.62
+Debris
+Slide
+NA
+20674
+MZ/LAW/84B12/2020/29
+Mizoram
+Lawngtlai
+Chhippui to Parva road slide 9
+Chhippui to Parva road
+22.15
+92.62
+Debris
+Slide
+2019
+20675
+MZ/LAW/84B12/2020/33
+Mizoram
+Lawngtlai
+Parva I to Devasora road slide
+Parva I to Devasora road
+22.15
+92.63
+Debris
+Slide
+2019
+20676
+MZ/LAW/84B16/2020/3
+Mizoram
+Lawngtlai
+W of Hmawngbu slide
+W of Hmawngbu
+22.15
+92.78
+Debris
+Slide
+2017
+20677
+MZ/LAW/84B16/2020/21
+Mizoram
+Saiha
+South of Tongkolong slide 1
+4 km south of Tongkolong 
+village
+22.15
+92.88
+Debris
+Slide
+2017
+20678
+MZ/LAW/84B16/2020/24
+Mizoram
+Saiha
+West of Laki village slide 1
+West of Laki village
+22.15
+92.99
+Debris
+Slide
+2017
+20679
+MZ/LAW/84B16/2020/25
+Mizoram
+Saiha
+West of Laki village slide 2
+West of Laki village
+22.15
+92.99
+Debris
+Slide
+2017
+20680
+MZ/SAI/84F04/2020/10
+Mizoram
+Saiha
+Laki slide 1
+Laki village
+22.15
+93.01
+Debris
+Slide
+NA
+20681
+MZ/SAI/84F04/2020/11
+Mizoram
+Saiha
+Laki slide 2
+Laki village
+22.15
+93.01
+Debris
+Slide
+NA
+20682
+MZ/SAI/84F04/2020/12
+Mizoram
+Saiha
+Laki slide 3
+Laki village
+22.15
+93.01
+Debris
+Slide
+NA
+20683
+MZ/SAI/84F04/2020/14
+Mizoram
+Saiha
+South of Laki village slide 1
+South of Laki village
+22.15
+93.01
+Debris
+Slide
+NA
+20684
+MZ/SAI/84F04/2020/15
+Mizoram
+Saiha
+South of Laki village slide 2
+South of Laki village
+22.15
+93.01
+Debris
+Slide
+NA
+20685
+MZ/LAW/84B12/2020/24
+Mizoram
+Lawngtlai
+Chhippui to Parva road slide 4
+Chhippui to Parva road
+22.16
+92.62
+Debris
+Slide
+2019
+20686
+MZ/LAW/84B12/2020/26
+Mizoram
+Lawngtlai
+Chhippui to Parva road slide 6
+Chhippui to Parva road
+22.16
+92.62
+Debris
+Slide
+NA
+20687
+MZ/LAW/84B16/2020/2
+Mizoram
+Lawngtlai
+Lunghauna Hmawngbu slide
+Lunghauna Hmawngbu section
+22.16
+92.8
+Debris
+Slide
+2017
+20688
+MZ/SAI/84F04/2020/16
+Mizoram
+Saiha
+South of Laki village slide 3
+South of Laki village
+22.16
+93
+Debris
+Slide
+NA
+20689
+MZ/LAW/84B16/2020/22
+Mizoram
+Saiha
+NW of Laki village slide
+NW of Laki village
+22.17
+92.99
+Debris
+Slide
+2017
+20690
+MZ/SAI/84F04/2020/7
+Mizoram
+Saiha
+North of Laki slide 1
+North of Laki village
+22.17
+93.01
+Debris
+Slide
+NA
+20691
+MZ/SAI/84F04/2020/8
+Mizoram
+Saiha
+North of Laki slide 2
+North of Laki village
+22.17
+93
+Rock
+Slide
+NA
+20692
+MZ/SAI/84F04/2020/9
+Mizoram
+Saiha
+North of Laki slide 3
+North of Laki village
+22.17
+93.01
+Debris
+Slide
+NA
+20693
+MZ/LAW/84B12/2020/14
+Mizoram
+Lawngtlai
+Chhippui village slide 3
+Chhippui village
+22.18
+92.61
+Rock
+Slide
+NA
+20694
+MZ/LAW/84B12/2020/15
+Mizoram
+Lawngtlai
+Chhippui village slide 4
+Chhippui village
+22.18
+92.61
+Rock
+Slide
+NA
+20695
+MZ/LAW/84B12/2020/16
+Mizoram
+Lawngtlai
+Chhippui village slide 5
+Chhippui village
+22.18
+92.61
+Debris
+Slide
+NA
+20696
+MZ/LAW/84B12/2020/17
+Mizoram
+Lawngtlai
+Chhippui village slide 6
+Chhippui village
+22.18
+92.61
+Rock
+Slide
+NA
+20697
+MZ/LAW/84B12/2020/18
+Mizoram
+Lawngtlai
+Chhippui village slide 7
+Chhippui village
+22.18
+92.61
+Rock
+Slide
+2019
+20698
+MZ/LAW/84B12/2020/19
+Mizoram
+Lawngtlai
+Chhippui to Parva road slide 1
+Chhippui to Parva road
+22.18
+92.61
+Rock
+Slide
+2019
+20699
+MZ/LAW/84B12/2020/20
+Mizoram
+Lawngtlai
+Chhippui village slide 8
+Chhippui village
+22.18
+92.61
+Rock
+Slide
+NA
+20700
+MZ/LAW/84B12/2020/21
+Mizoram
+Lawngtlai
+Chhippui village slide 9
+Chhippui village
+22.18
+92.61
+Debris
+Slide
+2019
+20701
+MZ/LAW/84B12/2020/22
+Mizoram
+Lawngtlai
+Chhippui to Parva road slide 2
+Chhippui to Parva road
+22.18
+92.61
+Rock
+Slide
+NA
+20702
+MZ/LAW/84B16/2020/1
+Mizoram
+Lawngtlai
+Hmawngbuchchah slide
+3km north of Hmawngbuchchah 22.18
+92.77
+Debris
+Slide
+2017
+20703
+MZ/SAI/84F04/2020/3
+Mizoram
+Saiha
+South of Khopai slide 1
+South of Khopai village
+22.18
+93.01
+Debris
+Slide
+NA
+20704
+MZ/SAI/84F04/2020/4
+Mizoram
+Saiha
+South of Khopai slide 2
+South of Khopai village
+22.18
+93.01
+Debris
+Slide
+NA
+20705
+MZ/SAI/84F04/2020/5
+Mizoram
+Saiha
+South of Khopai slide 3
+South of Khopai village
+22.18
+93.01
+Debris
+Slide
+NA
+20706
+MZ/SAI/84F04/2020/6
+Mizoram
+Saiha
+North of Khopai slide
+North of Khopai village
+22.18
+93.01
+Debris
+Slide
+NA
+20707
+MZ/SAI/84F04/2020/23
+Mizoram
+Saiha
+Khopai Laki slide
+Khopai Laki section
+22.18
+93.01
+Debris
+Slide
+2017
+20708
+MZ/LAW/84B12/2020/13
+Mizoram
+Lawngtlai
+Chhippui village slide 2
+Chhippui village
+22.19
+92.61
+Rock
+Slide
+NA
+20709
+MZ/LAW/84B12/2020/35
+Mizoram
+Lawngtlai
+Tuichawngtlang slide
+Tuichawngtlang
+22.19
+92.69
+Debris
+Slide
+2019
+20710
+MZ/LAW/84B16/2020/23
+Mizoram
+Saiha
+South of Vahai vilalge slide
+South of Vahai vilalge
+22.19
+92.98
+Debris
+Slide
+2017
+20711
+MZ/SAI/84F04/2020/2
+Mizoram
+Saiha
+Khopai village slide
+Khopai village
+22.19
+93.03
+Debris
+Slide
+NA
+20712
+MZ/LAW/84B12/2020/10
+Mizoram
+Lawngtlai
+N. Fulisora road slide 1
+N. Fulisora road
+22.2
+92.61
+Debris
+Slide
+2017
+20713
+MZ/LAW/84B12/2020/12
+Mizoram
+Lawngtlai
+Chhippui village slide 1
+Chhippui village
+22.2
+92.61
+Rock
+Slide
+NA
+20714
+MZ/SAI/84F04/2020/17
+Mizoram
+Saiha
+Mawhro chapi slide 1
+Mawhro chapi road
+22.2
+93.13
+Debris
+Slide
+2017
+20715
+MZ/LAW/84B12/2020/9
+Mizoram
+Lawngtlai
+Chhippui road slide 3
+Chhippui road
+22.21
+92.61
+Debris
+Slide
+2017
+20716
+MZ/LAW/84B12/2020/11
+Mizoram
+Lawngtlai
+N. Fulisora road slide 2
+N. Fulisora road
+22.21
+92.61
+Debris
+Slide
+2019
+20717
+MZ/LAW/84B16/2020/8
+Mizoram
+Saiha
+SE of Vaihai slide 2
+5km south east of vaihai
+22.21
+92.96
+Debris
+Slide
+2017
+20718
+MZ/LAW/84B16/2020/9
+Mizoram
+Saiha
+SE of Vaihai slide 3
+5km south east of vaihai
+22.21
+92.96
+Debris
+Slide
+2017
+20719
+MZ/SAI/84F04/2020/18
+Mizoram
+Saiha
+Mawhro chapi slide 2
+Mawhro chapi road
+22.21
+93.12
+Debris
+Slide
+2017

@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+6358
+HP/MAN/53A13/2015/175
+Himachal Pradesh
+Mandi
+ 
+North of Saroli,SH 19
+31.80661
+76.76841
+Rock
+Slide
+NA
+6359
+HP/MAN/53A13/2015/176
+Himachal Pradesh
+Mandi
+ 
+North of Saroli,SH 19
+31.8068
+76.76816
+Rock
+Slide
+NA
+6360
+HP/MAN/53A13/2015/194
+Himachal Pradesh
+Mandi
+ 
+Dharampur,SH 17
+31.80721
+76.76618
+Rock
+Slide
+NA
+6361
+HP/KAN/52D08/2018/23
+Himachal Pradesh
+Kangra
+MANED
+ 
+31.8084
+76.37702
+Debris
+Slide
+NA
+6362
+HP/MAN/53A13/2015/238
+Himachal Pradesh
+Mandi
+ 
+Near Kohiyar
+31.8088
+76.85134
+Rock
+Slide
+NA
+6363
+HP/KAN/53A09/2018/32
+Himachal Pradesh
+Kangra
+ 
+Ropri -Bhora road
+31.809
+76.724056
+Debris
+Slide
+NA
+6364
+HP/KAN/53A09/2018/33
+Himachal Pradesh
+Kangra
+ 
+Ropri - Jaisinghpur road
+31.81
+76.731472
+Debris
+Slide
+NA
+6365
+HP/MAN/53A13/2015/177
+Himachal Pradesh
+Mandi
+ 
+North of Saroli,SH 19
+31.81031
+76.76733
+Debris
+Subsidence
+NA
+6366
+HP/MAN/53A13/2015/195
+Himachal Pradesh
+Mandi
+ 
+North of Dharampur,SH 17
+31.81046
+76.76547
+Rock
+Slide
+NA
+6367
+HP/KAN/53A05/2018/55
+Himachal Pradesh
+Kangra
+ 
+ 
+31.81065
+76.37265
+Debris
+Slide
+NA
+6368
+HP/MAN/53A13/2015/178
+Himachal Pradesh
+Mandi
+ 
+North of Saroli,SH 19
+31.81094
+76.76775
+Rock
+Slide
+NA
+6369
+HP/MAN/53A13/2015/179
+Himachal Pradesh
+Mandi
+ 
+North of Saroli,SH 19
+31.81117
+76.76793
+Rock
+Slide
+NA
+6370
+HP/KAN/53A09/2018/34
+Himachal Pradesh
+Kangra
+ 
+ 
+31.8115
+76.717167
+Debris
+Slide
+NA
+6371
+HP/MAN/53A13/2015/196
+Himachal Pradesh
+Mandi
+ 
+North of Dharampur,SH 17
+31.81163
+76.76591
+Rock
+Slide
+NA
+6372
+HP/MAN/53A13/2015/246
+Himachal Pradesh
+Mandi
+ 
+Drang
+31.81203
+76.948498
+Rock cum debris
+Slide
+NA
+6373
+HP/MAN/53A13/2015/180
+Himachal Pradesh
+Mandi
+ 
+Sapri,SH19
+31.81234
+76.77314
+Debris
+Slide
+NA
+6374
+HP/MAN/53A13/2015/181
+Himachal Pradesh
+Mandi
+ 
+Sapri,SH19
+31.81314
+76.77218
+Debris
+Slide
+NA
+6375
+HP/KAN/53A05/2018/42
+Himachal Pradesh
+Kangra
+ 
+ 
+31.81362
+76.36972
+Rock cum debris
+Slide
+NA
+6376
+HP/MAN/53A13/2015/182
+Himachal Pradesh
+Mandi
+ 
+Sapri,SH19
+31.81366
+76.77269
+Rock
+Slide
+NA
+6377
+HP/MAN/53A10/2018/16
+Himachal Pradesh
+Mandi
+ 
+NH-70
+31.814056
+76.724972
+Debris
+Flow
+NA
+6378
+HP/KAN/53A09/2018/35
+Himachal Pradesh
+Kangra
+ 
+Ropri - Jaisinghpur road
+31.814583
+76.746667
+Debris
+Slide
+NA
+6379
+HP/MAN/53A13/2015/199
+Himachal Pradesh
+Mandi
+ 
+Kanda Pattan,SH 17
+31.81467
+76.77016
+Rock
+Slide
+NA
+6380
+HP/HAM/53A09/2018/36
+Himachal Pradesh
+Hamirpur
+ 
+Sivnagar - Kotlu road
+31.814722
+76.750056
+Rock cum debris
+Slide
+2013
+6381
+HP/MAN/53A13/2015/236
+Himachal Pradesh
+Mandi
+ 
+South of Tungal
+31.81477
+76.85091
+Rock
+Slide
+NA
+6382
+HP/MAN/53A13/2015/197
+Himachal Pradesh
+Mandi
+ 
+Chalus PF
+31.815
+76.783
+Rock
+Slide
+NA
+6383
+HP/MAN/53A13/2015/183
+Himachal Pradesh
+Mandi
+ 
+Rora SH-19
+31.81504
+76.77245
+Rock
+Slide
+NA
+6384
+HP/MAN/53A10/2018/17
+Himachal Pradesh
+Mandi
+ 
+NH-70
+31.815472
+76.727333
+Debris
+Flow
+NA
+6385
+HP/MAN/53A13/2015/184
+Himachal Pradesh
+Mandi
+ 
+Rora SH-19
+31.81549
+76.77228
+Rock
+Slide
+NA
+6386
+HP/MAN/53A10/2018/18
+Himachal Pradesh
+Mandi
+ 
+NH-70
+31.815972
+76.726972
+Debris
+Slide
+NA
+6387
+HP/MAN/53A13/2015/188
+Himachal Pradesh
+Mandi
+ 
+Rora SH-19
+31.81638
+76.77595
+Debris
+Slide
+NA
+6388
+HP/MAN/53A13/2015/187
+Himachal Pradesh
+Mandi
+ 
+Rora SH-19
+31.81645
+76.77537
+Debris
+Slide
+NA
+6389
+HP/MAN/53A13/2015/186
+Himachal Pradesh
+Mandi
+ 
+Rora SH-19
+31.81667
+76.77393
+Rock
+Slide
+NA
+6390
+HP/MAN/53A13/2015/234
+Himachal Pradesh
+Mandi
+ 
+Tungal
+31.81674
+76.84864
+Rock
+Slide
+NA
+6391
+HP/MAN/53A13/2015/185
+Himachal Pradesh
+Mandi
+ 
+Rora SH-19
+31.81676
+76.77355
+Rock
+Slide
+NA
+6392
+HP/MAN/53A13/2015/202
+Himachal Pradesh
+Mandi
+ 
+Jagna,SH 17
+31.81685
+76.76793
+Rock cum debris
+Slide
+NA
+6393
+HP/MAN/53A13/2015/198
+Himachal Pradesh
+Mandi
+ 
+CHALUS PF
+31.817
+76.783
+Rock
+Slide
+NA
+6394
+HP/MAN/53A13/2015/14
+Himachal Pradesh
+Mandi
+ 
+Chhamaill, SH 17
+31.81707
+76.76057
+Debris
+Slide
+NA
+6395
+HP/MAN/53A13/2015/235
+Himachal Pradesh
+Mandi
+ 
+Tungal
+31.81717
+76.84873
+Rock
+Slide
+NA
+6396
+HP/MAN/53A13/2015/78
+Himachal Pradesh
+Mandi
+ 
+Rora SH-19
+31.81717
+76.77777
+Rock
+Slide
+NA
+6397
+HP/MAN/53A10/2018/19
+Himachal Pradesh
+Mandi
+ 
+NH-70
+31.818111
+76.714778
+Debris
+Flow
+NA
+6398
+HP/MAN/53A13/2015/200
+Himachal Pradesh
+Mandi
+ 
+Kanda Pattan,SH 17
+31.81812
+76.76788
+Debris
+Slide
+NA
+6399
+HP/MAN/53A13/2015/233
+Himachal Pradesh
+Mandi
+ 
+South of Tarehr
+31.81827
+76.84812
+Rock
+Slide
+NA
+6400
+HP/MAN/53A13/2015/201
+Himachal Pradesh
+Mandi
+ 
+Kanda Pattan,SH 17
+31.81839
+76.76722
+Debris
+Slide
+NA
+6401
+HP/MAN/53A13/2015/171
+Himachal Pradesh
+Mandi
+ 
+Rora SH-19
+31.81866
+76.77951
+Rock
+Slide
+NA
+6402
+HP/MAN/53A13/2015/13
+Himachal Pradesh
+Mandi
+ 
+Jangah, SH 17
+31.81891
+76.76629
+Debris
+Slide
+NA
+6403
+HP/KAN/53A09/2018/37
+Himachal Pradesh
+Kangra
+ 
+ 
+31.819
+76.712528
+Debris
+Slide
+NA
+6404
+HP/KAN/52A05/2018/65
+Himachal Pradesh
+Kangra
+ 
+ 
+31.81923
+76.37945
+Debris
+Slide
+NA
+6405
+HP/MAN/53A13/2015/170
+Himachal Pradesh
+Mandi
+ 
+Rora SH-19
+31.81966
+76.78008
+Debris
+Slide
+NA
+6406
+HP/MAN/53A13/2015/169
+Himachal Pradesh
+Mandi
+ 
+Rora SH-19
+31.82012
+76.78067
+Rock
+Slide
+NA
+6407
+HP/MAN/53A13/2015/168
+Himachal Pradesh
+Mandi
+ 
+Rora SH-19
+31.82071
+76.7805
+Rock
+Slide
+NA
+6408
+HP/MAN/53A13/2015/232
+Himachal Pradesh
+Mandi
+ 
+Tarehr
+31.82178
+76.84476
+Debris
+Slide
+NA

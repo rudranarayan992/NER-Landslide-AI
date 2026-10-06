@@ -1,0 +1,449 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12305
+KA/UK/48J07/2015/194
+Karnataka
+Uttar Kannada
+ 
+Kasaba Gundibail/Jogmat village 14.286172
+74.448842
+Debris
+Slide
+NA
+12306
+KA/UK/48J11/2014/43
+Karnataka
+Uttar Kannada
+ 
+Hadinbail
+14.286222
+74.511278
+Rock
+Fall
+NA
+12307
+KA/UK/48J11/2014/59
+Karnataka
+Uttar Kannada
+ 
+Sasiguli village
+14.28725
+74.686306
+Rock
+Slide
+NA
+12308
+KA/UK/48J11/2014/55
+Karnataka
+Uttar Kannada
+ 
+Road section near Sasiguli
+14.288222
+74.6915
+Debris
+Slide
+NA
+12309
+KA/UK/48J11/2014/58
+Karnataka
+Uttar Kannada
+ 
+Hulgibail
+14.28825
+74.692472
+Debris
+Slide
+NA
+12310
+KA/UK/48J11/2014/52
+Karnataka
+Uttar Kannada
+ 
+Road section near Heravalli
+14.288722
+74.542278
+Debris
+Slide
+NA
+12311
+KA/UK/48J11/2014/54
+Karnataka
+Uttar Kannada
+ 
+Road section near Sasiguli
+14.288833
+74.693306
+Debris
+Slide
+NA
+12312
+KA/UK/48J11/2014/53
+Karnataka
+Uttar Kannada
+ 
+Road section near 
+Mettinagadde
+14.290722
+74.701028
+Debris
+Slide
+NA
+12313
+KA/UK/48J11/2014/57
+Karnataka
+Uttar Kannada
+ 
+Hulgibail
+14.291778
+74.695083
+Debris
+Slide
+NA
+12314
+KA/UK/48J11/2014/56
+Karnataka
+Uttar Kannada
+ 
+Sasiguli village
+14.293111
+74.696556
+Debris
+Slide
+NA
+12315
+KA/UK/48J07/2015/195
+Karnataka
+Uttar Kannada
+ 
+1 km from Honavar Areangadi 
+road on NH-17
+14.294267
+74.442725
+Debris
+Slide
+NA
+12316
+KA/UK/48J07/2015/188
+Karnataka
+Uttar Kannada
+ 
+On NH-206
+14.297
+74.475506
+Debris
+Slide
+NA
+12317
+KA/UK/48J07/2015/186
+Karnataka
+Uttar Kannada
+ 
+On NH-206
+14.297014
+74.471497
+Debris
+Slide
+NA
+12318
+KA/UK/48J07/2015/187
+Karnataka
+Uttar Kannada
+ 
+On NH-206(within 20m from 
+S15)
+14.297056
+74.472044
+Debris
+Slide
+NA
+12319
+KA/UK/48J07/2015/189
+Karnataka
+Uttar Kannada
+ 
+On NH-206
+14.297567
+74.475619
+Debris
+Slide
+NA
+12320
+KA/UK/48J07/2015/192
+Karnataka
+Uttar Kannada
+ 
+On NH-206(next to S19)
+14.298681
+74.475822
+Debris
+Slide
+NA
+12321
+KA/UK/48J07/2015/191
+Karnataka
+Uttar Kannada
+ 
+On NH-206(next to S19)
+14.301492
+74.487336
+Debris
+Slide
+NA
+12322
+KA/UK/48J07/2015/193
+Karnataka
+Uttar Kannada
+ 
+Baskeri area
+14.303511
+74.483756
+Debris
+Slide
+NA
+12323
+KA/UK/48J07/2015/190
+Karnataka
+Uttar Kannada
+ 
+On NH-206
+14.304397
+74.486889
+Debris
+Slide
+NA
+12324
+KA/UK/48J08/2015/219
+Karnataka
+Uttar Kannada
+ 
+NH-17
+14.306669
+74.491472
+Debris
+Slide
+NA
+12325
+KA/UK/48J11/2014/41
+Karnataka
+Uttar Kannada
+ 
+Darbejeddi
+14.332056
+74.545861
+Rock
+Slide
+NA
+12326
+KA/UK/48J07/2015/208
+Karnataka
+Uttar Kannada
+ 
+Haldipur village
+14.334578
+74.435539
+Debris
+Slide
+NA
+12327
+KA/UK/48J11/2014/42
+Karnataka
+Uttar Kannada
+ 
+Chikkoli
+14.337917
+74.567028
+Rock
+Slide
+NA
+12328
+KA/UK/48J11/2014/46
+Karnataka
+Uttar Kannada
+ 
+Near Karikan Parmeshwari 
+temple
+14.349944
+74.508361
+Debris
+Slide
+NA
+12329
+KA/UK/48J11/2014/47
+Karnataka
+Uttar Kannada
+ 
+Karikan Parmeshwari temple
+14.350194
+74.507242
+Debris
+Slide
+NA
+12330
+KA/UK/48J07/2015/213
+Karnataka
+Uttar Kannada
+ 
+Haldipur village( primary health 
+centre)
+14.350817
+74.433283
+Debris
+Slide
+NA
+12331
+KA/UK/48J07/2015/198
+Karnataka
+Uttar Kannada
+ 
+In and around Divgi village
+14.3521
+74.449561
+Debris
+Slide
+NA
+12332
+KA/UK/48J07/2015/214
+Karnataka
+Uttar Kannada
+ 
+Suwarnagadde village
+14.357747
+74.4182
+Debris
+Slide
+NA
+12333
+KA/UK/48J07/2015/216
+Karnataka
+Uttar Kannada
+ 
+on NH-17 in and around Devgiri 
+village
+14.368361
+74.410456
+Debris
+Slide
+NA
+12334
+KA/UK/48J07/2015/209
+Karnataka
+Uttar Kannada
+ 
+Ukeri village
+14.389433
+74.431697
+Debris
+Slide
+NA
+12335
+KA/UK/48J11/2014/87
+Karnataka
+Uttar Kannada
+ 
+SH48
+14.389806
+74.665028
+Debris
+Slide
+NA
+12336
+KA/UK/48J11/2014/86
+Karnataka
+Uttar Kannada
+ 
+SH48
+14.391972
+74.662222
+Debris
+Slide
+NA
+12337
+KA/UK/48J11/2014/83
+Karnataka
+Uttar Kannada
+ 
+SH48
+14.396889
+74.664222
+Debris
+Slide
+NA
+12338
+KA/UK/48J11/2014/85
+Karnataka
+Uttar Kannada
+ 
+SH48
+14.397139
+74.666472
+Debris
+Slide
+NA
+12339
+KA/UK/48J11/2014/84
+Karnataka
+Uttar Kannada
+ 
+SH48
+14.397333
+74.665833
+Debris
+Slide
+NA
+12340
+KA/UK/48J07/2015/174
+Karnataka
+Uttar Kannada
+ 
+In and around Kujali village area 
+(Laterite quarry )
+14.407583
+74.449869
+Debris
+Slide
+NA
+12341
+KA/UK/48J07/2015/173
+Karnataka
+Uttar Kannada
+ 
+In and around Kalkeri 
+village/Basti Devsthana(Laterite 
+quarry)
+14.411639
+74.434944
+Debris
+Slide
+NA
+12342
+KA/UK/48J07/2015/185
+Karnataka
+Uttar Kannada
+ 
+APMC Kumta Arc
+14.420217
+74.414311
+Debris
+Slide
+NA
+12343
+KA/UK/48J07/2015/205
+Karnataka
+Uttar Kannada
+ 
+chitrang school
+14.430736
+74.40605
+Debris
+Slide
+NA

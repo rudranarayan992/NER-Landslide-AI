@@ -1,0 +1,383 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29650
+WB/DAR/78A12/2015/1465
+West Bengal
+Darjeeling
+ 
+ 
+27.064508
+88.606233
+Debris
+Slide
+2010
+29651
+WB/DAR/78A12/2015/1466
+West Bengal
+Darjeeling
+ 
+ 
+27.064605
+88.529822
+Debris
+Slide
+2010
+29652
+WB/DARJ/78A08/2007/0315
+West Bengal
+Darjeeling
+ 
+South of Alubari-Phulbari 
+village, just below  Alubari road
+27.065
+88.466
+Rock
+Slide
+2007
+29653
+WB/DAR/78A08/2015/33
+West Bengal
+Darjeeling
+NH-31A 30 km from Sevok(Tiger 
+Bridge) towards  Gangtok
+Km 30 on NH 31A
+27.065048
+88.428134
+Debris
+Subsidence
+1968
+29654
+WB/DAR/78A04/2021/PDLS/62
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06519661
+88.09437673
+Debris
+Slide
+October 2021
+29655
+WB/DAR/78A04/2021/PDLS/14
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06537708
+88.20798188
+Debris
+Slide
+October 2021
+29656
+WB/DAR/78A12/2015/1468
+West Bengal
+Darjeeling
+ 
+ 
+27.06539
+88.530093
+Debris
+Slide
+2014
+29657
+WB/DAR/78A08/2015/1467
+West Bengal
+Darjeeling
+ 
+ 
+27.065465
+88.293073
+Rock cum Debris
+Slide
+2010
+29658
+WB/DAR/78A12/2015/1382
+West Bengal
+Darjeeling
+WAY TO KUWAPANI
+SH-12
+27.065556
+88.667583
+Rock
+Slide
+2012
+29659
+WB/DAR/78A04/2021/PDLS/13
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06561069
+88.18369284
+Rock
+Slide
+October 2021
+29660
+WB/DAR/78A04/2021/PDLS/13
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06562252
+88.1833602
+Rock
+Slide
+October 2021
+29661
+WB/DAR/78A04/2021/PDLS/13
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06573316
+88.18415797
+Rock
+Slide
+October 2021
+29662
+WB/DAR/78A08/2015/83
+West Bengal
+Darjeeling
+Roy Villa, Darjeeling-Lebong Road, 
+below Raj Bhavan
+Roy Villa, Darjeeling-Lebong 
+Road, below Raj Bhavan
+27.06583
+88.28196
+Debris
+Slide
+2007
+29663
+WB/DAR/78A04/2021/PDLS/13
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06592272
+88.18415996
+Debris
+Slide
+October 2021
+29664
+WB/DARJ/78A08/1968/0275
+West Bengal
+Darjeeling
+ 
+Km 30 on NH 31A
+27.066
+88.432
+Earth
+Subsidence
+NA
+29665
+WB/DAR/78A08/2015/158
+West Bengal
+Darjeeling
+Sadudhara
+Sadudhara, near Agriculture 
+University, Kalimpong
+27.066028
+88.476472
+Rock
+Slide
+2015
+29666
+WB/DAR/78A08/2015/151
+West Bengal
+Darjeeling
+Sadudhara
+Sadudhara, near Agriculture 
+University, Kalimpong
+27.066028
+88.476472
+Rock
+Slide
+2015
+29667
+WB/DAR/78A08/2015/126
+West Bengal
+Darjeeling
+Lower Sindebung near Bhamegaon
+Lower Sindebung near 
+Bhamegaon
+27.066152
+88.49369
+Debris
+Slide
+2012
+29668
+WB/DAR/78A08/2015/1365
+West Bengal
+Darjeeling
+Bong Busty (Near Sadhu Jhora), 
+Kalimpong
+BONG BUSTY,KALIMPONG
+27.066222
+88.474194
+Debris
+Slide
+2015
+29669
+WB/DAR/78A04/2015/1469
+West Bengal
+Darjeeling
+ 
+ 
+27.066264
+88.239635
+Debris
+Slide
+2014
+29670
+WB/DAR/78A04/2021/PDLS/13
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06630959
+88.18431528
+Rock
+Slide
+October 2021
+29671
+WB/DAR/78A08/2015/1514
+West Bengal
+Darjeeling
+MELLI ROAD
+MELLI ROAD, KALIMPONG
+27.066407
+88.429101
+Debris
+Slide
+2014
+29672
+WB/DAR/78A08/2015/84
+West Bengal
+Darjeeling
+Chitrey (near Kalimpong road 
+crossing)
+Chitrey (near Kalimpong road 
+crossing
+27.066408
+88.429132
+Debris
+Slide
+2007
+29673
+WB/DAR/78A08/2015/152
+West Bengal
+Darjeeling
+Teesta bazar
+Teesta bazar
+27.0665
+88.428333
+Rock
+Slide
+2015
+29674
+WB/DAR/78A08/2015/148
+West Bengal
+Darjeeling
+Teesta bazar
+Teesta bazar
+27.0665
+88.428333
+Rock
+Slide
+2015
+29675
+WB/DAR/78A04/2015/1220
+West Bengal
+Darjeeling
+ 
+LAMAGAON
+27.066667
+88.161861
+Debris
+Subsidence
+2014
+29676
+WB/DAR/78A08/2015/141
+West Bengal
+Darjeeling
+Near Peshoke bridge
+Kalimpong Sub-division
+27.066759
+88.426606
+Debris
+Subsidence
+2015
+29677
+WB/DAR/78A08/2015/1319
+West Bengal
+Darjeeling
+ 
+Near Peshoke bridge,
+Kalimpong Sub-division.
+27.06689
+88.426754
+Debris
+Subsidence
+2015
+29678
+WB/DARJ/78A08/2007/0276
+West Bengal
+Darjeeling
+ 
+Chitrey (near Kalimpong road 
+crossing)
+27.067
+88.433
+Debris
+Slide
+NA
+29679
+WB/DARJ/78A08/2007/0314
+West Bengal
+Darjeeling
+ 
+Alubari-Phulbari village
+27.067
+88.467
+Debris
+Subsidence
+2007
+29680
+WB/DAR/78A04/2015/1218
+West Bengal
+Darjeeling
+ 
+BIJANBARI
+27.067002
+88.189484
+Rock
+Slide
+2014
+29681
+WB/DAR/78A08/2021/PDLS/20
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06722315
+88.25083738
+Debris
+Slide
+October 2021

@@ -1,0 +1,421 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16326
+MH/SIN/48E13/2016/34
+Maharashtra
+Sindhudurg
+Talkat-Kumbhavde
+Talkat-Kumbhavde Road
+15.816889
+73.978167
+Debris
+Slide
+2016
+16327
+MH/SIN/48E13/2016/33
+Maharashtra
+Sindhudurg
+Talkat-Kumbhavde
+Talkat-Kumbhavde Road
+15.817306
+73.978
+Rock
+Slide
+2016
+16328
+MH/KOL/48I01/2017/10
+Maharashtra
+Kolhapur
+ 
+Road from Isapur to Pargarh
+15.824444
+74.048056
+Rock cum debris
+Slide
+NA
+16329
+MH/KOL/48I01/2017/9
+Maharashtra
+Kolhapur
+ 
+Road from Isapur to Pargarh
+15.824722
+74.049444
+Rock cum debris
+Slide
+NA
+16330
+MH/KOL/48I01/2017/1
+Maharashtra
+Kolhapur
+ 
+Village road from Motanwadi to 
+Pargarh
+15.825472
+74.056389
+Debris
+Slide
+NA
+16331
+MH/KOL/48I01/2017/2
+Maharashtra
+Kolhapur
+ 
+Village road from Motanwadi to 
+Pargarh
+15.825556
+74.0575
+Debris
+Slide
+NA
+16332
+MH/SIN/48I01/2017/14
+Maharashtra
+Sindhudurg
+ 
+Road from Choukul to Bhekurli
+15.831111
+74.026111
+Debris
+Slide
+NA
+16333
+MH/SIN/48E13/2016/30
+Maharashtra
+Sindhudurg
+Jholomba
+Jholomba Road
+15.834722
+73.950361
+Earth
+Slide
+2015
+16334
+MH/SIN/48E13/2016/28
+Maharashtra
+Sindhudurg
+Tamboli
+Tamboli Road
+15.838222
+73.90675
+Earth
+Slide
+2015
+16335
+MH/SIN/48E13/2016/27
+Maharashtra
+Sindhudurg
+1 km from Tamboli
+1 km from Tamboli Road
+15.838472
+73.905139
+Rock cum Debris
+Slide
+2016
+16336
+MH/SIN/48E13/2016/06
+Maharashtra
+Sindhudurg
+Gharpi-Asniye
+Gharpi-Asniye Road
+15.840889
+73.928556
+Debris
+Slide
+2016
+16337
+MH/SIN/48E13/2016/29
+Maharashtra
+Sindhudurg
+Phukeri road
+Phukeri Road
+15.841361
+73.956444
+Earth
+Slide
+2015
+16338
+MH/SIN/48E13/2016/80
+Maharashtra
+Sindhudurg
+Phukeri road
+Phukeri Road
+15.843556
+73.956028
+Debris
+Slump
+NA
+16339
+MH/KOL/48I01/2017/8
+Maharashtra
+Kolhapur
+ 
+Road from Choukul to Isapur
+15.844722
+74.062778
+Rock cum debris
+Subsidence
+NA
+16340
+MH/SIN/48E13/2016/14
+Maharashtra
+Sindhudurg
+Gharpi-Asniye
+Gharpi-Asniye Road
+15.855167
+73.951778
+Debris
+Slide
+2016
+16341
+MH/SIN/48E13/2016/13
+Maharashtra
+Sindhudurg
+Gharpi-Asniye
+Gharpi-Asniye Road
+15.8565
+73.953333
+Debris
+Slide
+2016
+16342
+MH/SIN/48E13/2016/12
+Maharashtra
+Sindhudurg
+Gharpi-Asniye
+Gharpi-Asniye Road
+15.856833
+73.953556
+Rock
+Slide
+2016
+16343
+MH/SIN/48E13/2016/11
+Maharashtra
+Sindhudurg
+Gharpi-Asniye
+Gharpi-Asniye Road
+15.858139
+73.955139
+Debris
+Slide
+2016
+16344
+MH/SIN/48E13/2016/15
+Maharashtra
+Sindhudurg
+Gharpi-Asniye
+Gharpi-Asniye Road
+15.85825
+73.949861
+Debris
+Slide
+2016
+16345
+MH/SIN/48E13/2016/10
+Maharashtra
+Sindhudurg
+Gharpi-Asniye
+Gharpi-Asniye Road
+15.860528
+73.955972
+Debris
+Slide
+2016
+16346
+MH/SIN/48E13/2016/16
+Maharashtra
+Sindhudurg
+Konshi
+Konshi Road
+15.863389
+73.92275
+Debris
+Slide
+2016
+16347
+MH/SIN/48E13/2016/77
+Maharashtra
+Sindhudurg
+Gharpi-Asniye
+Gharpi-Asniye Road
+15.86425
+73.966306
+Debris
+Slide
+2016
+16348
+MH/SIN/48E13/2016/08
+Maharashtra
+Sindhudurg
+Gharpi-Asniye
+Gharpi-Asniye Road
+15.864972
+73.957944
+Earth
+Slide
+2016
+16349
+MH/SIN/48E13/2016/09
+Maharashtra
+Sindhudurg
+Gharpi-Asniye
+Gharpi-Asniye Road
+15.865333
+73.957722
+Earth
+Slide
+2016
+16350
+MH/SIN/48E13/2016/07
+Maharashtra
+Sindhudurg
+Gharpi-Asniye
+Gharpi-Asniye Road
+15.866139
+73.975
+Earth
+Slide
+2016
+16351
+MH/SIN/48E13/2016/79
+Maharashtra
+Sindhudurg
+Insuli Ghat
+Insuli Ghat Road
+15.868194
+73.839139
+Earth
+Slump
+NA
+16352
+MH/SIN/48E13/2016/26
+Maharashtra
+Sindhudurg
+Insuli Ghat
+Insuli Ghat Road
+15.868806
+73.838528
+Debris
+Slide
+2016
+16353
+MH/SIN/48E13/2016/25
+Maharashtra
+Sindhudurg
+Insuli Ghat
+Insuli Ghat Road
+15.869167
+73.837917
+Debris
+Slide
+2016
+16354
+MH/SIN/48E13/2016/24
+Maharashtra
+Sindhudurg
+Insuli Ghat
+Insuli Ghat Road
+15.869306
+73.837083
+Debris
+Slide
+2016
+16355
+MH/SIN/48E13/2016/23
+Maharashtra
+Sindhudurg
+Insuli Ghat
+Insuli Ghat Road
+15.869667
+73.836806
+Debris
+Slide
+2016
+16356
+MH/SIN/48E13/2016/22
+Maharashtra
+Sindhudurg
+Insuli Ghat
+Insuli Ghat Road
+15.870417
+73.836694
+Debris
+Slide
+2016
+16357
+MH/SIN/48E13/2016/21
+Maharashtra
+Sindhudurg
+Insuli Ghat
+Insuli Ghat Road
+15.871028
+73.837
+Debris
+Slide
+2016
+16358
+MH/SIN/48E13/2016/05
+Maharashtra
+Sindhudurg
+Danoli-Balaval road
+Danoli-Balaval Road
+15.883222
+73.892056
+Earth
+Slide
+2016
+16359
+MH/SIN/48E13/2016/04
+Maharashtra
+Sindhudurg
+Malanda
+Malanda Road
+15.885722
+73.893222
+Rock cum Debris
+Slide
+2016
+16360
+MH/SIN/48E13/2016/03
+Maharashtra
+Sindhudurg
+Malanda
+Malanda Road
+15.893333
+73.891278
+Earth
+Slide
+2016
+16361
+MH/SIN/48E13/2016/01
+Maharashtra
+Sindhudurg
+Kesari
+Kesari Road
+15.912194
+73.945028
+Rock
+Slide
+2016
+16362
+MH/SIN/48E13/2016/02
+Maharashtra
+Sindhudurg
+Kesari
+Kesari Road
+15.912194
+73.945028
+Earth
+Slide
+2016

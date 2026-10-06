@@ -1,0 +1,412 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20374
+ME/EKH/83C02/2015/158
+Meghalaya
+East Khasi Hills
+ 
+ 
+25.676
+92.157917
+Earth
+Slide
+NA
+20375
+MG/WKH/78O02/2017/101
+Meghalaya
+West Khasi Hills
+Mawthengkut
+Riangdo  Mawthengkut road
+25.678306
+91.07975
+Debris
+Slide
+NA
+20376
+MEGH/WKH/78O02/2007/D-1
+Meghalaya
+West Khasi Hills
+Nongjri (Porthangjah) slide
+ 
+25.68625
+91.118358
+Debris
+Fall
+15 September 2007
+20377
+MEG/WKH/78O10/2016/51
+Meghalaya
+West Khasi Hills
+ 
+NongkhlawPatharkhammah 
+road
+25.687056
+91.6485
+Debris
+Slide
+15 September 2007
+20378
+MEG/WKH/78O10/2016/16
+Meghalaya
+West Khasi Hills
+NongkhlawPatharkhamma R.S4
+NongkhlawPatharkhammah 
+road
+25.687083
+91.650858
+Debris
+Slide
+2016
+20379
+MEG/WKH/78O10/2016/15
+Meghalaya
+West Khasi Hills
+NongkhlawPatharkhamma R.S3
+NongkhlawPatharkhammah 
+road
+25.687314
+91.655378
+Debris
+Slide
+2016
+20380
+MEG/WKH/78O10/2016/17
+Meghalaya
+West Khasi Hills
+NongkhlawPatharkhamma R.S5
+NongkhlawPatharkhammah 
+road
+25.687431
+91.648322
+Debris
+Slide
+2016
+20381
+MEG/WKH/78O10/2016/14
+Meghalaya
+West Khasi Hills
+NongkhlawPatharkhamma R.S2
+NongkhlawPatharkhammah 
+road
+25.687442
+91.656183
+Debris
+Slide
+2016
+20382
+MEG/WKH/78O10/2016/18
+Meghalaya
+West Khasi Hills
+NongkhlawPatharkhamma R.S6
+NongkhlawPatharkhammah 
+road
+25.687856
+91.647944
+Debris
+Slide
+2016
+20383
+MEG/WKH/78O10/2016/13
+Meghalaya
+West Khasi Hills
+NongkhlawPatharkhamma R.S1
+NongkhlawPatharkhammah 
+road
+25.688011
+91.658069
+Debris
+Slide
+2016
+20384
+MG/WKH/78O02/2017/102
+Meghalaya
+West Khasi Hills
+Nongprut
+Riangdo  Boko road
+25.690833
+91.056556
+Debris
+Slide
+NA
+20385
+MG/WKH/78O02/2017/103
+Meghalaya
+West Khasi Hills
+0.5 km E of Nongprut
+Riangdo  Boko road
+25.691444
+91.057
+Debris
+Slide
+NA
+20386
+MEG/WKH/78O10/2016/19
+Meghalaya
+West Khasi Hills
+ 
+NongkhlawPatharkhammah 
+road
+25.691453
+91.645731
+Debris
+Slide
+2016
+20387
+MEG/WKH/78O10/2016/21
+Meghalaya
+West Khasi Hills
+NongkhlawPatharkhamma R.S8
+NongkhlawPatharkhammah 
+road
+25.692933
+91.647703
+Debris
+Slide
+2016
+20388
+MEG/WKH/78O10/2016/20
+Meghalaya
+West Khasi Hills
+NongkhlawPatharkhamma R.S7
+NongkhlawPatharkhammah 
+road
+25.692947
+91.648044
+Debris
+Slide
+2016
+20389
+MG/WKH/78O02/2017/104
+Meghalaya
+West Khasi Hills
+0.6 km E of Nongprut
+Riangdo  Boko road
+25.693222
+91.0555
+Soil
+Slide
+NA
+20390
+MEGH/WKH/78O02/2007/D-2
+Meghalaya
+West Khasi Hills
+Tynrong Mawsaw slide
+ 
+25.69483
+91.11836
+Debris
+Slide
+15 September 2007
+20391
+ME/EKJ/78O14/2015/23
+Meghalaya
+East Khasi Hills
+ 
+NH-40
+25.695552
+91.903777
+Debris
+Slide
+15 September 2007
+20392
+MEG/WKH/78O10/2016/22
+Meghalaya
+West Khasi Hills
+NongkhlawPatharkhamma R.S9
+NongkhlawPatharkhammah 
+road
+25.696489
+91.644528
+Debris
+Slide
+2016
+20393
+ME/EKH/83C02/2015/156
+Meghalaya
+East Khasi Hills
+ 
+Khyndawsao
+25.696556
+92.109694
+Debris
+Fall
+NA
+20394
+MG/WKH/78O02/2017/66
+Meghalaya
+West Khasi Hills
+Nonglang
+Riwang  Langpih road
+25.698111
+91.18275
+Soil
+Slide
+NA
+20395
+MG/WKH/78O02/2017/105
+Meghalaya
+West Khasi Hills
+1.1 km NNE of Nongprut
+Riangdo  Boko road
+25.6985
+91.056611
+Debris
+Slide
+NA
+20396
+MG/WKH/78O02/2017/107
+Meghalaya
+West Khasi Hills
+1.1 km N of Nongprut
+Riangdo  Boko road
+25.698667
+91.054778
+Soil
+Slide
+NA
+20397
+MG/WKH/78O02/2017/106
+Meghalaya
+West Khasi Hills
+1.2 km NNE of Nongprut
+Riangdo  Boko road
+25.699306
+91.055556
+Soil
+Slide
+NA
+20398
+MEG/WKH/78O10/2016/24
+Meghalaya
+West Khasi Hills
+NongkhlawPatharkhamma R.S11
+NongkhlawPatharkhammah 
+road about 4 km NE of 
+Nongkhlaw village
+25.6999
+91.642192
+Debris
+Slide
+2016
+20399
+MEG/WKH/78O10/2016/23
+Meghalaya
+West Khasi Hills
+NongkhlawPatharkhamma R.S10
+NongkhlawPatharkhammah 
+road about 5 km NE of 
+Nongkhlaw village
+25.700053
+91.644486
+Debris
+Slide
+2016
+20400
+ME/EKH/83C02/2015/157
+Meghalaya
+East Khasi Hills
+ 
+Khyndawsao
+25.704083
+92.118833
+Earth
+Fall
+NA
+20401
+ME/EKJ/78O14/2015/24
+Meghalaya
+East Khasi Hills
+ 
+NH-40
+25.708426
+91.896406
+Debris
+Slide
+NA
+20402
+ME/EKJ/78O14/2015/25
+Meghalaya
+East Khasi Hills
+ 
+NH-40
+25.711032
+91.891803
+Debris
+Slide
+NA
+20403
+MG/EGH/78K14/2018/4
+Meghalaya
+East Garo hills
+Southeast of Nongberam
+NULL
+25.716594
+90.822539
+Soil
+Slide
+NA
+20404
+ME/EKH/83C02/2015/162
+Meghalaya
+East Khasi Hills
+ 
+ 
+25.746722
+92.111139
+Earth
+Slide
+NA
+20405
+ME/EKH/83C02/2015/144
+Meghalaya
+East Khasi Hills
+ 
+1 km NE of Umpaitklong
+25.746806
+92.107806
+Earth
+Slide
+NA
+20406
+ME/EKH/83C02/2015/160
+Meghalaya
+East Khasi Hills
+ 
+.6 km N of Umpaitklong
+25.747333
+92.117333
+Earth
+Slide
+NA
+20407
+ME/EKH/83C02/2015/161
+Meghalaya
+East Khasi Hills
+ 
+ 
+25.747597
+92.114167
+Debris
+Slide
+NA
+20408
+MEG/RIB/83C1/2016/7
+Meghalaya
+Ri-Bhoi
+Mawkynrong
+SH
+25.75634
+92.017832
+Rock
+Slide
+2014

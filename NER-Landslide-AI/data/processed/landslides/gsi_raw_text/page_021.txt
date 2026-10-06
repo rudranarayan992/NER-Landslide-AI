@@ -1,0 +1,309 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+670
+ASM/DH/83G4/ PD/2016/25
+Assam
+Dima Hasao
+Mahadev Tila slide-2
+Haflong town, Dima Hasao  (NC 
+Hills)
+25.15561111
+93.02222222
+Debris
+Slide
+17 May 2016
+671
+ASM/DH/83G4/PD/2016/26
+Assam
+Dima Hasao
+Haflong-Jatinga road section slide-01
+Haflong  town, Dima Hasao  (NC 
+Hills)
+25.15658333
+93.01961111
+Debris
+Slide
+22 May 2016
+672
+ASM/DH/83G4/ PD/2016/29
+Assam
+Dima Hasao (N.C. Hills)
+Haflong-Jatinga road section slide-04
+Haflong  town, 
+25.15713889
+93.01719444
+Debris
+Slide 
+27 May 2016
+673
+ASM/DH/83G4/ PD/2016/42
+Assam
+Dima Hasao (N.C. Hills)
+96 km Migrendisa slide
+96 km, Migrendisa – Haflong rail 
+section, near Diyung bridge.
+25.164
+93.04019444
+Debris
+Slide 
+22 May 2016
+674
+ASM/DH/83C16/PD/2016/45
+Assam
+Dima Hasao (N.C. Hills)
+Harangajao Slide
+NH 54, Harangajao, Dima Hasao 25.10638889
+92.86480556
+Debris
+Slide
+May 2016
+675
+ASM/DH/83C16/PD/2016/46
+Assam
+Dima Hasao (N.C. Hills)
+NH 54 Rekho slide- (1)
+NH 54, near Rekho village, Dima 
+Hasao
+25.10941667
+92.88075
+Debris
+Slide
+May 2016
+676
+ASM/DH/83C16/PD/2016/47
+Assam
+Dima Hasao (N.C. Hills)
+NH 54 Rekho slide (2)
+NH 54, near Rekho village, Dima 
+Hasao
+25.10988889
+92.89316667
+Debris
+Slide
+May 2016
+677
+ASM/DH/83C16/PD/2016/48
+Assam
+Dima Hasao (N.C. Hills)
+NH 54 Rekho slide (3)
+NH 54, near Rekho village, Dima 
+Hasao
+25.10877778
+92.92033333
+Debris
+Slide
+May 2016
+678
+ASM/DH/83C16/PD/2016/49
+Assam
+Dima Hasao (N.C. Hills)
+NH 54 Ritzawl slide (1)
+NH 54, near Ritzawl village, 
+Dima Hasao
+25.10897222
+92.92886111
+Debris
+Slide
+May 2016
+679
+ASM/KAM/78N16/2020/001
+Assam
+Kamrup (Metro)
+Kahilipara Slide
+Power grid, Kahilipara
+26.146
+91.756
+Debris
+Slide
+NA
+680
+ASM/DH/83C16/PD/2016/50
+Assam
+Dima Hasao (N.C. Hills)
+NH 54 Ritzawl slide (2)
+NH 54, 2 km west of Ritzawl 
+village, Dima Hasao
+25.11011111
+92.99877778
+Debris
+Slide
+May 2016
+681
+ASM/DH/83C16/PD/2016/51
+Assam
+Dima Hasao (N.C. Hills)
+Ritzawl slide (3)
+NH-54, near Ritzawl village
+25.11077778
+93.00458333
+Debris
+Slide
+2nd week of May 2016
+682
+ASM/DH/83C16/PD/2016/52
+Assam
+Dima Hasao (N.C. Hills)
+NH 54 Ritzawl slide (4)
+NH 54, near Ritzawl village, 
+Dima Hasao
+25.11238889
+93.00575
+Debris
+Slide
+May 2016
+683
+ASM/DH/83G4/PD/2016/43
+Assam
+Dima Hasao (N.C. Hills)
+New Haflong R.S. slide - (2)
+New Haflong Railway Station
+25.14872222
+93.03191667
+Debris
+Creep
+ 17 May 2016
+684
+ASM/DH/83G4/PD/2016/44
+Assam
+Dima Hasao (N.C. Hills)
+New Haflong R. S slide(3)
+New Haflong Railway Station, 
+Dima Hasao  (NC Hills)
+25.14525
+93.02916667
+Debris
+Slide
+ 17 May 2016
+685
+ASM/DH/83G4/ PD/2016/24
+Assam
+Dima Hasao
+Mahadev Tilla-1
+Mahadev Tilla, Haflong,Dima 
+Hasao  (NC Hills)
+25.15572222
+93.02277778
+Earth
+Slide
+22 May 2016
+686
+ASM/DH/83G4/ PD/2016 /35
+Assam
+Dima Hasao
+Haflong – Gunjung road section soil 
+creep-6
+Haflong – Gunjung road section 25.23230556
+93.03333333
+Earth
+Creep 
+ 17 May 2016
+687
+ASM/KAM/78N12/2020/002
+Assam
+Kamrup (Metro)
+Amingaon Ganesh Mandir landslide
+NH-31
+26.21083333
+91.68944444
+Debris
+Slide
+Nil
+688
+ASM/DH/83G04/2022-23/001
+Assam
+Dima Hasao
+New Haflong RS Debris Flow
+New Haflong Railway Station
+25.14264
+93.03182
+Debris
+Flow
+14th to 16th May 2022
+689
+ASM/DH/83G04/2022-23/003
+Assam
+Dima Hasao
+New Haflong RS Slide 1
+New Haflong Railway Station
+25.14722
+93.03128
+Debris
+Slide
+NA
+690
+ASM/DH/83G04/2022-23/002
+Assam
+Dima Hasao
+New Haflong Tunnel No. 9 Slide
+New Haflong Railway Station
+25.143408
+93.02995
+Debris
+Flow
+14th to 16th May 2022
+691
+ASM/DH/83G04/2022-23/004
+Assam
+Dima Hasao
+New Haflong RS Slide 2
+New Haflong Railway Station
+25.14879
+93.031636
+Debris
+Slide
+14th May 2022
+692
+ASM/DH/83G04/2022-23/005
+Assam
+Dima Hasao
+New Haflong RS Slide 3
+New Haflong Railway Station
+25.15144
+93.0331
+Debris
+Slide
+14th May 2022
+693
+ASM/DH/83G4/ PD/2016/06
+Assam
+Dima Hasao (N.C. Hills)
+G. C. Langthasa High school slide
+Near Mahadev Tila, Haflong, 
+25.15669444
+93.01766667
+Debris
+Slide 
+15th May 2022
+694
+ASM/DH/83G4/ PD/2016/07
+Assam
+Dima Hasao (N.C. Hills)
+Haflong – Gunjung slide-1
+Near  Gunjung village road 
+section
+25.20552778
+93.02013889
+Debris
+Slide 
+22 May 2016
+695
+ASM/DH/83G4/ PD/2016/31
+Assam
+Dima Hasao
+Haflong – Gunjung road section slide-
+02
+Haflong – Gunjung road section 25.24597222
+93.02827778
+Debris
+Slide 
+22 May 2016

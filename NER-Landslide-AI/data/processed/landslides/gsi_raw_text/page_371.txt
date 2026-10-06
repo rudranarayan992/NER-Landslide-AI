@@ -1,0 +1,480 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15330
+KL/KTM/58C/14/2018/10
+Kerala
+Kottayam
+Kunthanpara slide 2
+Kunthnpara
+9.644494444
+76.867875
+Rock cum debris.
+flow
+15th August 2018
+15331
+KL/KTM/58C/14/2018/11
+Kerala
+Kottayam
+Chathanplappally slide
+Chathanplappally
+9.630855556
+76.87125
+Rock cum debris.
+flow
+15th August 2018
+15332
+KL/KTM/58C/14/2018/12
+Kerala
+Kottayam
+Mlakkara  slide
+Mlakkara
+9.645325
+76.90501667
+Debris.
+flow
+15th August 2018
+15333
+KL/KTM/58C/14/2018/13
+Kerala
+Kottayam
+Vallyantha  slide
+Vallyantha
+9.646877778
+76.90202778
+Debris.
+flow
+15th August 2018
+15334
+KL/KTM/58C/14/2018/14
+Kerala
+Kottayam
+Vallyantha  slide
+Vallyantha
+9.644319444
+76.89696111
+Debris.
+flow
+15th August 2018
+15335
+KL/KTM/58C/14/2018/15
+Kerala
+Kottayam
+Njerkkadu  slide
+Njerkkadu
+9.638197222
+76.88700556
+Debris.
+flow
+15th August 2018
+15336
+KL/KTM/58C/14/2018/16
+Kerala
+Kottayam
+Melethadam slide 4
+Njerkkadu
+9.659355556
+76.89671944
+Debris
+Slide
+15th August 2018
+15337
+KL/KTM/58C/14/2018/17
+Kerala
+Kottayam
+Melethadam slide 5
+Melethadam
+9.658569444
+76.90202778
+Debris.
+Slide
+15th August 2018
+15338
+KL/KTM/58C/14/2018/18
+Kerala
+Kottayam
+Melethadam slide 6
+Melethadam
+9.65845
+76.90136944
+Debris.
+Slide
+15th August 2018
+15339
+KL/KTM/58C/14/2018/19
+Kerala
+Kottayam
+Melethadam slide 7
+Melethadam
+9.658686111
+76.90151944
+Debris.
+Slide
+15th August 2018
+15340
+KL/KTM/58C/14/2018/20
+Kerala
+Kottayam
+Inchappara debris flow 
+Inchappara
+9.708394444
+76.84967222
+Debris
+Flow 
+15th August 2018
+15341
+KL/KTM/58C/14/2018/21
+Kerala
+Kottayam
+Vellikulam slide 
+Vellikulam
+9.700266667
+76.86585
+Debris
+Slide
+15th August 2018
+15342
+KL/KTM/58C/14/2018/22
+Kerala
+Kottayam
+Attikalam debris flow 
+Attikalam
+9.707702778
+76.88578611
+Debris
+Flow 
+15th August 2018
+15343
+KL/KTM/58C/14/2018/23
+Kerala
+Kottayam
+Attikalam stream bank failure 
+Road from Attikalam to 
+Chottupara 
+9.701488889
+76.88281389
+Debris
+Slide  
+15th August 2018
+15344
+KL/KTM/58C/14/2018/24
+Kerala
+Kottayam
+Mangalagiri Rock-cum-debris Flow
+Mangalagiri
+9.699908333
+76.834475
+Rock-cum-debris
+Flow 
+15th August 2018
+15345
+KL/KTM/58C/14/2018/25
+Kerala
+Kottayam
+Muttam Rock-cum-debris Flow
+Thalanadu Village
+9.731455556
+76.81583333
+Rock-cum-debris
+Flow 
+16 August 2018
+15346
+KL/KTM/58C/14/2018/26
+Kerala
+Kottayam
+Chonamala debris slide 
+Chonamala 
+9.74295
+76.82049167
+Debris
+Slide 
+15 July 2018
+15347
+KL/KTM/58C/14/2018/27
+Kerala
+Kottayam
+Chonamala slide 2
+Road from Chonamala to 
+Illikkakal 
+9.743238889
+76.81921667
+Debris
+Slide 
+16 July 2018
+15348
+KL/KTM/58C/14/2018/28
+Kerala
+Kottayam
+Chonamala - Mel Adukkam cut slope 
+failure 1 
+Road from Chonamala to Mel 
+Adukkam
+9.731683333
+76.821975
+Debris
+Slide 
+15th August 2018
+15349
+KL/KTM/58C/14/2018/29
+Kerala
+Kottayam
+Chonamala debris flow  
+Chonamala 
+9.733877778
+76.82231111
+Debris
+Flow 
+15th August 2018
+15350
+KL/KTM/58C/14/2018/30
+Kerala
+Kottayam
+Chonamala - Mel Adukkam cut slope 
+failure 2
+Road from  Chonamala to Mel 
+Adukkam
+9.73715
+76.82596111
+Debris.
+Slide
+15th August 2018
+15351
+KL/KTM/58C/14/2018/31
+Kerala
+Kottayam
+Periyamala debris flow  
+Periyamala  
+9.741438889
+76.84107222
+Debris
+Flow 
+15th August 2018
+15352
+KL/KTM/58C/14/2018/32
+Kerala
+Kottayam
+Vellani rock cum debris flow  
+Vellani
+9.728494444
+76.8422
+Rock cum debris  
+Flow 
+15th August 2018
+15353
+KL/PTMT/58C/15/2018/01
+Kerala
+Pathanamthitta
+Meenkuzhi slide
+Chittar Village
+9.319213889
+76.95202222
+Debris
+Flow 
+15.08.2018, 12:30 hrs. 
+15354
+KL/PTMT/58C/15/2018/02
+Kerala
+Pathanamthitta
+Meenkuzhi slide
+Chittar Village
+9.31625
+76.94988056
+Debris
+Slide
+15th August 2018
+15355
+KL/PTMT/58C/15/2018/03
+Kerala
+Pathanamthitta
+Transformer Padi slide
+Chittar Village
+9.313819444
+76.95609444
+Debris
+Flow 
+15th August 2018
+15356
+KL/PTMT/58C/15/2018/04
+Kerala
+Pathanamthitta
+Valiyakulangara valley slide 1
+Chittar Village
+9.301730556
+76.98050278
+Debris
+Flow 
+15.08.2018, 11.00 hrs
+15357
+KL/PTMT/58C/15/2018/05
+Kerala
+Pathanamthitta
+Valiyakulangara valley slide 2
+Chittar Village
+9.302208333
+76.97924167
+Debris
+Flow 
+15.08.2018, 13.00 hrs
+15358
+KL/PTMT/58C/15/2018/06
+Kerala
+Pathanamthitta
+Valiyakulangara valley slide 3
+Chittar Village
+9.302861111
+76.97783333
+Debris
+Flow 
+15th August 2018
+15359
+KL/PTMT/58C/15/2018/07
+Kerala
+Pathanamthitta
+Valiyakulangara valley slide 4
+Chittar Village
+9.309877778
+76.96136944
+Soil
+Slide
+15th August 2018
+15360
+KL/PTMT/58C/15/2018/08
+Kerala
+Pathanamthitta
+Mele Poochakkulam 1
+Thannithodu Village
+9.272416667
+76.96925833
+Debris
+Flow 
+15th August 2018
+15361
+KL/PTMT/58C/15/2018/09
+Kerala
+Pathanamthitta
+Mele Poochakkulam  2
+Thannithodu Village
+9.269308333
+76.96805
+Debris
+Flow 
+15th August 2018
+15362
+KL/PTMT/58C/15/2018/10
+Kerala
+Pathanamthitta
+Thannithodu slide
+Thannithodu Village
+9.268941667
+76.96807222
+Debris
+Slide
+15th August 2018
+15363
+KL/PTMT/58C/15/2018/11
+Kerala
+Pathanamthitta
+Thannithodu slide 2
+Thannithodu Village
+9.260186111
+76.96240278
+Debris
+Slide
+15th August 2018
+15364
+KL/PTMT/58C/15/2018/12
+Kerala
+Pathanamthitta
+Mannarakulanji  slide
+Konni Village/Mannarakulanji
+9.298777778
+76.80181667
+Debris
+Slide
+15th August 2018
+15365
+KL/PTMT/58C/15/2018/13
+Kerala
+Pathanamthitta
+Pezhumpara slide
+Konni Village/Pezhumpara.
+9.340930556
+76.85064444
+Debris
+Slide
+15th August 2018
+15366
+KL/PTMT/58C/15/2018/14
+Kerala
+Pathanamthitta
+Maniyar slide 1
+Seethathodu Village/Maniyar.
+9.324669444
+76.87481667
+Soil
+Slide
+16 August 2018
+15367
+KL/PTMT/58C/15/2018/15
+Kerala
+Pathanamthitta
+Maniyar slide 2
+Seethathodu Village/Maniyar.
+9.324291667
+76.87843889
+Soil
+Slide
+15th August 2018
+15368
+KL/PTMT/58C/15/2018/16
+Kerala
+Pathanamthitta
+Koothattukulam slide 1
+Chittar Village/Koothattukulam. 9.332680556
+76.91926667
+Debris
+Slide
+15th August 2018
+15369
+KL/PTMT/58C/15/2018/17
+Kerala
+Pathanamthitta
+Koothattukulam slide 2
+Road from  Pathanamthitta to 
+Vadaserikkara 
+9.332480556
+76.920175
+Soil cum debris
+Slide
+15th August 2018
+15370
+KL/PTMT/58C/15/2018/18
+Kerala
+Pathanamthitta
+Mundanpara slide 1
+Seethathodu Village
+9.30035
+76.99730556
+Debris
+Flow 
+15th August 2018
+15371
+KL/PTMT/58C/15/2018/19
+Kerala
+Pathanamthitta
+Mundanpara slide 2
+Seethathodu Village
+9.301225
+76.98561667
+Debris
+Slide 
+15th August 2018

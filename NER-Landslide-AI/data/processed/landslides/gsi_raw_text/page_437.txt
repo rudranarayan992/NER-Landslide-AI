@@ -1,0 +1,305 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+17748
+MH/SAT/47G15/2021/10B
+Maharashtra
+Satara/Patan
+Ambeghar 
+14km in the southwest of Patan 
+through Morgiri road
+17.28344444
+73.83469444
+Debris
+Slide
+ 2019,23 July 2021
+17749
+MH/SAT/47G15/2021/11A
+Maharashtra
+Satara/Patan
+Varandewadi
+13km in the southwest of Patan 
+through Morgiri road
+17.28300556
+73.83610556
+Debris
+Slide
+23 July 2021 (1:30 am)
+17750
+MH/SAT/47G15/2021/11B
+Maharashtra
+Satara/Patan
+Varandewadi
+13km in the southwest of Patan 
+through Morgiri road
+17.28341667
+73.83572222
+NA
+_
+23 July 2021 (1:30 am)
+17751
+MH/SAT/47G15/2021/12A
+Maharashtra
+Satara/Patan
+Kahir
+Debris Slide 
+17km in the southwest of Patan 
+through Morgiri road.
+17.27477778
+73.815
+Debris
+Slide
+23 July 2021
+17752
+MH/SAT/47G15/2021/12B
+Maharashtra
+Satara/Patan
+Kahir
+17km in the southwest of Patan 
+through Morgiri road.
+17.27469444
+73.81555556
+NA
+ _
+23 July 2021
+17753
+MH/SAT/47G15/2021/12C
+Maharashtra
+Satara/Patan
+Kahir
+17km in the southwest of Patan 
+through Morgiri road.
+17.27455556
+73.81577778
+NA
+_ 
+23 July 2021
+17754
+MH/SAT/47G11/2021/13A
+Maharashtra
+Satara/Patan
+Humbarli
+2.5km north of Koyna Nagar 
+17.41294444
+73.73285
+Debris
+Flow
+22 July 2021, 9 pm
+17755
+MH/SAT/47G11/2021/13B
+Maharashtra
+Satara/Patan
+Humbarli
+2.5km north of Koyna Nagar 
+17.41591667
+73.73747222
+NA
+_
+22 July 2021, 9 pm
+17756
+MH/SAT/47G15/2021/14A
+Maharashtra
+Satara/Patan
+Sidrukwadi
+11km in the southwest of Patan 
+through Morgiri road.
+17.30368611
+73.83680278
+Debris
+Slide
+22 July 2021,8:30 pm
+17757
+MH/SAT/47G15/2021/14B
+Maharashtra
+Satara/Patan
+Sidrukwadi
+11km in the southwest of Patan 
+through Morgiri road.
+17.30275556
+73.83655556
+Debris
+Slide
+22 July 2021,8:30 pm
+17758
+MH/SAT/47G15/2021/14C
+Maharashtra
+Satara/Patan
+Sidrukwadi 
+11km in the southwest of Patan 
+through Morgiri road.
+17.30165556
+73.83625278
+Debris
+Slide
+22 July 2021,8:30 pm
+17759
+MH/SAT/47G15/2021/14D
+Maharashtra
+Satara/Patan
+Sidrukwadi 
+11km in the southwest of Patan 
+through Morgiri road.
+17.30145556
+73.83350556
+Debris
+Slide
+22 July 2021,8:30 pm
+17760
+MH/SAT/47G15/2021/15A
+Maharashtra
+Satara/Patan
+Borgewadi 
+16km through Patan-Tarle-Pali 
+road
+17.44727778
+73.92266667
+Soil
+ Subsidence
+ 22 July 2021,10-11am
+17761
+MH/SAT/47G15/2021/15B
+Maharashtra
+Satara/Patan
+Borgewadi 
+16km through Patan-Tarle-Pali 
+road
+17.44919444
+73.92080556
+Debris
+Slide
+ 22 July 2021,10-11am
+17762
+MH/SAT/47G15/2021/15C
+Maharashtra
+Satara/Patan
+Borgewadi 
+16km through Patan-Tarle-Pali 
+road
+17.44723333
+73.92238889
+NA
+_
+ 22 July 2021,10-11am
+17763
+MH/SAT/47G15/2021/15D
+Maharashtra
+Satara/Patan
+Borgewadi 
+16km through Patan-Tarle-Pali 
+road
+17.44611111
+73.91888889
+NA
+_
+ 22 July 2021,10-11am
+17764
+MH/SAT/47G15/2021/16A
+Maharashtra
+Satara/Patan
+Jugaiwadi
+34km  through Patan-Tarle road 17.466975
+73.91580556
+Debris
+Slide 
+23 July 2021,6.30pm to 6.45pm 
+17765
+MH/SAT/47G15/2021/16B
+Maharashtra
+Satara/Patan
+Jugaiwadi
+34km  through Patan-Tarle road 17.471825
+73.90882222
+Debris
+ Slide 
+23 July 2021,6.30pm to 6.45pm 
+17766
+MH/SAT/47G15/2021/17A
+Maharashtra
+Satara/Patan
+Khudupalewadi
+23km  Patan-Chalkewadi road 
+17.45248889
+73.80168611
+Debris
+ Flow
+Slide
+ 22 July 2021
+17767
+MH/SAT/47G15/2021/17B
+Maharashtra
+Satara/Patan
+Khudupalewadi
+23km  Patan-Chalkewadi road 
+17.45646667
+73.80301667
+Debris
+ Flow
+Slide
+ 22 July 2021
+17768
+MH/SAT/47G16/2021/18A
+Maharashtra
+Satara/Patan
+Jitkarwadi villages 
+38km south of Patan
+17.21103611
+73.88496944
+Debris
+Slide
+ 23 July 2021, 2am
+17769
+MH/SAT/47G16/2021/18B
+Maharashtra
+Satara/Patan
+Jitkarwadi village
+38km south of Patan
+17.21026667
+73.88538889
+Debris
+Slide
+ 23 July 2021, 2am
+17770
+MH/SAT/47G16/2021/19A
+Maharashtra
+Satara/Patan
+Joshewadi Village
+36km southwest of Karad by 
+Karad-Dhebewadi-Kalgaon road
+17.15577778
+73.93897222
+NA
+_
+24 July 2021, 12 noon
+17771
+MH/SAT/47G16/2021/19B
+Maharashtra
+Satara/Patan
+Joshewadi Village
+36km southwest of Karad by 
+Karad-Dhebewadi-Kalgaon road
+17.15505556
+73.93858333
+NA
+_
+24 July 2021, 12 noon
+17772
+MH/SAT/47G16/2021/19C
+Maharashtra
+Satara/Patan
+Joshewadi Village
+36km southwest of Karad by 
+Karad-Dhebewadi-Kalgaon road
+17.15455556
+73.93852778
+NA
+_
+24 July 2021, 12 noon

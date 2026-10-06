@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+9125
+JK/UDH/43P10/2016/95
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.70735
+75.581961
+Rock
+Slide
+NA
+9126
+JK/UDH/43P10/2016/96
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.707436
+75.579939
+Rock
+Slide
+NA
+9127
+JK/UDH/43P10/2016/90
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.707492
+75.585425
+Rock
+Slide
+NA
+9128
+JK/JAM/43P02/2015/167
+Jammu & Kashmir (UT)
+Jammu
+ 
+ 
+32.707675
+75.110706
+Rock
+Slide
+NA
+9129
+JK/UDH/43P10/2016/83
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.707833
+75.573636
+Rock
+Slide
+NA
+9130
+JK/JAM/43P02/2015/165
+Jammu & Kashmir (UT)
+Jammu
+ 
+ 
+32.707836
+75.136414
+Rock
+Slide
+NA
+9131
+JK/UDH/43P10/2016/91
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.708292
+75.585361
+Rock
+Slide
+NA
+9132
+JK/UDH/43P10/2016/99
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.7084
+75.583242
+Rock
+Slide
+NA
+9133
+JK/UDH/43P10/2016/92
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.708514
+75.584411
+Rock
+Slide
+NA
+9134
+JK/UDH/43P10/2016/97
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.70865
+75.5824
+Rock
+Slide
+NA
+9135
+JK/UDH/43P10/2016/100
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.708792
+75.587592
+Rock
+Slide
+NA
+9136
+JK/UDH/43P10/2016/98
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.708794
+75.582317
+Rock
+Slide
+NA
+9137
+JK/UDH/43P10/2016/101
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.708867
+75.587056
+Rock
+Slide
+NA
+9138
+JK/KAT/43P14/2017/291
+Jammu & Kashmir (UT)
+Kathua
+ 
+ 
+32.708868
+75.756932
+Rock
+Fall
+NA
+9139
+JK/KAT/43P14/2017/152
+Jammu & Kashmir (UT)
+Kathua
+ 
+ 
+32.709153
+75.760976
+Debris
+Slide
+NA
+9140
+JK/UDH/43P10/2016/102
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.709194
+75.586
+Rock
+Slide
+NA
+9141
+JK/UDH/43P10/2016/93
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.709231
+75.585364
+Rock
+Slide
+NA
+9142
+JK/UDH/43P10/2016/94
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.710828
+75.582717
+Rock
+Slide
+NA
+9143
+JK/JAM/43P02/2015/173
+Jammu & Kashmir (UT)
+Jammu
+ 
+ 
+32.711422
+75.150731
+Rock
+Slide
+NA
+9144
+JK/KAT/43P10/2016/32
+Jammu & Kashmir (UT)
+Kathua
+ 
+ 
+32.712114
+75.637156
+Rock
+Slide
+NA
+9145
+JK/UDH/43P10/2016/120
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.712458
+75.610922
+Rock cum Debris
+Slide
+NA
+9146
+JK/KAT/43P10/2016/31
+Jammu & Kashmir (UT)
+Kathua
+ 
+ 
+32.712942
+75.63825
+Rock
+Slide
+NA
+9147
+JK/JAM/43P02/2015/166
+Jammu & Kashmir (UT)
+Jammu
+ 
+ 
+32.713289
+75.125033
+Debris
+Slide
+NA
+9148
+JK/UDH/43P10/2016/121
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.713744
+75.610806
+Rock cum Debris
+Slide
+NA
+9149
+JK/UDH/43P10/2016/122
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.714819
+75.608403
+Rock cum Debris
+Slide
+NA
+9150
+JK/UDH/43P10/2016/117
+Jammu & Kashmir (UT)
+Udhampur
+Machedii-Chor road
+ 
+32.715042
+75.608211
+Debris
+Slide
+NA
+9151
+JK/KAT/43P10/2016/30
+Jammu & Kashmir (UT)
+Kathua
+ 
+ 
+32.715308
+75.640586
+Rock
+Slide
+NA
+9152
+JK/KAT/43P14/2017/284
+Jammu & Kashmir (UT)
+Kathua
+ 
+ 
+32.716514
+75.768025
+Rock
+Slide
+NA
+9153
+JK/KAT/43P10/2016/29
+Jammu & Kashmir (UT)
+Kathua
+ 
+ 
+32.717278
+75.639631
+Rock
+Slide
+NA
+9154
+JK/KAT/43P10/2016/28
+Jammu & Kashmir (UT)
+Kathua
+ 
+ 
+32.71755
+75.639028
+Rock
+Slide
+NA
+9155
+JK/UDH/43P10/2016/118
+Jammu & Kashmir (UT)
+Udhampur
+Machedii-Chor road
+ 
+32.719181
+75.604963
+Rock
+Slide
+NA
+9156
+JK/UDH/43P10/2016/132
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.720342
+75.607169
+Rock
+Slide
+NA
+9157
+JK/UDH/43P10/2016/133
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.722042
+75.606994
+Rock
+Slide
+NA
+9158
+JK/UDH/43P10/2016/134
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.722447
+75.606853
+Rock
+Slide
+NA
+9159
+JK/UDH/43P10/2016/136
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.723639
+75.606336
+Rock
+Slide
+NA
+9160
+JK/UDH/43P10/2016/135
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.723839
+75.607747
+Rock
+Slide
+NA
+9161
+JK/UDH/43P10/2016/137
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.723983
+75.605956
+Rock
+Slide
+NA
+9162
+JK/UDH/43P10/2016/138
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.724544
+75.606231
+Rock
+Slide
+NA
+9163
+JK/UDH/43P10/2016/124
+Jammu & Kashmir (UT)
+Udhampur
+Machedii-Chor road
+ 
+32.724568
+75.601865
+Debris
+Slide
+NA
+9164
+JK/UDH/43P10/2016/140
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.725053
+75.608344
+Rock
+Slide
+NA
+9165
+JK/UDH/43P10/2016/139
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.725303
+75.609022
+Rock
+Slide
+NA
+9166
+JK/KAT/43P14/2017/79
+Jammu & Kashmir (UT)
+Kathua
+ 
+ 
+32.727018
+75.808651
+Rock
+Slide
+NA
+9167
+JK/UDH/43P10/2016/146
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.728789
+75.616078
+Rock
+Slide
+NA
+9168
+JK/UDH/43P10/2016/145
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.7292
+75.614817
+Rock
+Slide
+NA
+9169
+JK/UDH/43P10/2016/147
+Jammu & Kashmir (UT)
+Udhampur
+ 
+ 
+32.729325
+75.615833
+Rock
+Slide
+NA
+9170
+JK/UDH/43P10/2016/125
+Jammu & Kashmir (UT)
+Udhampur
+Machedii-Chor road
+ 
+32.731443
+75.599698
+Rock
+Slide
+NA
+9171
+JK/KAT/43P10/2016/26
+Jammu & Kashmir (UT)
+Kathua
+ 
+ 
+32.731625
+75.625231
+Rock
+Slide
+NA
+9172
+JK/KAT/43P10/2016/25
+Jammu & Kashmir (UT)
+Kathua
+ 
+ 
+32.732094
+75.625669
+Rock
+Slide
+NA
+9173
+JK/KAT/43P10/2016/24
+Jammu & Kashmir (UT)
+Kathua
+ 
+ 
+32.732572
+75.625286
+Rock
+Slide
+NA
+9174
+JK/KAT/43P10/2016/27
+Jammu & Kashmir (UT)
+Kathua
+ 
+ 
+32.732681
+75.624856
+Rock
+Slide
+NA
+9175
+JK/KAT/43P10/2016/23
+Jammu & Kashmir (UT)
+Kathua
+ 
+ 
+32.733894
+75.624672
+Rock
+Slide
+NA

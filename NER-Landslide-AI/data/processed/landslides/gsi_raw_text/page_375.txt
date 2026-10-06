@@ -1,0 +1,438 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15485
+KER/WYD/58A2/2018/27
+Kerala
+Wayanad
+Chundel estate 4
+Chundale-Anoth Road
+11.5855
+76.03833333
+Debris
+Flows
+09 August 2018
+15486
+KER/WYD/58A2/2018/28
+Kerala
+Wayanad
+50Acre
+Sugandhagiri forest Rd
+11.54197222
+76.00038889
+Debris
+Flows
+08 August 2018
+15487
+KER/WYD/58A2/2018/29
+Kerala
+Wayanad
+50Acre 2
+Sugandhagiri forest Rd
+11.53919444
+76.00422222
+Debris
+Flows
+08 August 2018
+15488
+KER/WYD/58A2/2018/30
+Kerala
+Wayanad
+Sugandhagiri 1
+Sugandhagiri forest Rd
+11.54044444
+76.01061111
+Debris
+Slide
+08 August 2018
+15489
+KER/WYD/58A2/2018/31
+Kerala
+Wayanad
+Sugandhagiri 2nd unit 1
+Sugandhagiri forest Rd
+11.54502778
+76.01083333
+rock-cum-debris
+Slide
+2014, June 2018,8 August 2018
+15490
+KER/WYD/58A2/2018/32
+Kerala
+Wayanad
+Sugandhagiri 2nd unit 2
+Sugandhagiri forest Rd
+11.54483333
+76.01169444
+Debris
+Flows
+08 August 2018
+15491
+KER/WYD/58A2/2018/33
+Kerala
+Wayanad
+Sugandhagiri 2nd unit 3
+Sugandhagiri forest Rd
+11.54777778
+76.00877778
+Debris
+Flows
+08 August 2018
+15492
+KER/WYD/58A2/2018/34
+Kerala
+Wayanad
+Sugandhagiri 2nd unit 4
+Sugandhagiri forest Rd
+11.54769444
+76.00922222
+Debris
+Flows
+08 August 2018
+15493
+KER/WYD/58A2/2018/35
+Kerala
+Wayanad
+Sugandhagiri 2nd unit 5
+Sugandhagiri forest Rd
+11.54619444
+76.00886111
+Debris
+Flows
+15th August 2018
+15494
+KER/WYD/58A2/2018/36
+Kerala
+Wayanad
+Sugandhagiri 2nd unit 6
+Sugandhagiri forest Rd
+11.54358333
+76.01352778
+Debris
+Flows
+15th August 2018
+15495
+KER/WYD/58A2/2018/37
+Kerala
+Wayanad
+Sugandhagiri 3rd unit
+Sugandhagiri forest Rd
+11.549
+76.00258333
+Debris
+Flows
+08 August 2018
+15496
+KER/WYD/49M14/2018/38
+Kerala
+Wayanad
+Sugandhagiri 4th unit 1
+Sugandhagiri forest Rd
+11.55283333
+75.99897222
+Debris
+Flows
+08 August 2018
+15497
+KER/WYD/49M14/2018/39
+Kerala
+Wayanad
+Sugandhagiri 4th unit 2
+Sugandhagiri forest Rd
+11.55358333
+75.99602778
+rock-cum-debris
+Slide
+15th August 2018
+15498
+KER/WYD/49M14/2018/40
+Kerala
+Wayanad
+Chennayakavala 1
+Sugandhagiri forest
+11.55738889
+75.99847222
+Debris
+Slide
+15th August 2018
+15499
+KER/WYD/58A2/2018/41
+Kerala
+Wayanad
+Chennayakavala 2
+Sugandhagiri forest
+11.55875
+76.00136111
+rock-cum-debris
+Flows
+08 August 2018
+15500
+KER/WYD/58A2/2018/42
+Kerala
+Wayanad
+Chennayakavala 3
+Sugandhagiri forest
+11.55580556
+76.00141667
+Debris
+Slide
+08 August 2018
+15501
+KER/WYD/58A2/2018/43
+Kerala
+Wayanad
+Chennayakavala 4
+Sugandhagiri forest
+11.55508333
+76.00147222
+Debris
+Slide
+08 August 2018
+15502
+KER/WYD/58A2/2018/44
+Kerala
+Wayanad
+kalloor
+Sugandhagiri Kalloor Rd
+11.56458333
+76.00905556
+Debris
+Slide
+15th August 2018
+15503
+KER/WYD/49M14/2018/45
+Kerala
+Wayanad
+Chiriyanaripara
+Padinjarathara-Pulinjal Forest 
+Rd
+11.69177778
+75.94311111
+Debris
+Flows
+08 August 2018
+15504
+KER/WYD/49M14/2018/46
+Kerala
+Wayanad
+Idiyamvayal
+Pozhuthana-Padinjarathara 
+Road
+11.61377778
+75.99705556
+Debris
+Flows
+15th August 2018
+15505
+KER/WYD/49M14/2018/47
+Kerala
+Wayanad
+Kapikalam
+Padinjarathara-Pulinjal Forest 
+Rd
+11.67075
+75.93683333
+Debris
+Flows
+08 August 2018
+15506
+KER/WYD/58A2/2018/48
+Kerala
+Wayanad
+Vellaram kunnu 1
+NH-212
+11.58427778
+76.06791667
+Debris
+08 August 2018
+15507
+KER/WYD/58A2/2018/49
+Kerala
+Wayanad
+Vattappara1
+NH-212
+11.53666667
+76.03577778
+Debris
+Slide
+08 August 2018
+15508
+KER/WYD/58A2/2018/50
+Kerala
+Wayanad
+Vattappara2
+Old Vythiri-Kunnathidavakka 
+Road
+11.53636111
+76.04152778
+Debris
+Slide
+08 August 2018
+15509
+KER/WYD/58A2/2018/51
+Kerala
+Wayanad
+Ayisha plantation1
+Vythiri-Ayisha Plantation Road
+11.54516667
+76.04319827
+rock-cum-debris
+Slide
+08 August 2018
+15510
+KER/WYD/58A2/2018/52
+Kerala
+Wayanad
+Ayisha plantation pond
+Old Vythiri-Kunnathidavakka 
+Road
+11.52961111
+76.04455556
+Debris
+Slide
+08 August 2018
+15511
+KER/WYD/58A2/2018/53
+Kerala
+Wayanad
+Niket
+Vythiri-Niket Forest Road
+11.53786111
+76.059
+Debris
+Slide
+08 August 2018
+15512
+KER/WYD/58A2/2018/54
+Kerala
+Wayanad
+Thalimala charity bridge
+Vythiri-Thalimala Road
+11.54494444
+76.04491667
+rock-cum-debris
+Slide
+08 August 2018
+15513
+KER/WYD/58A2/2018/55
+Kerala
+Wayanad
+Thalimala Ayisha1
+Vythiri-Thailakunnu-Thalimala 
+Road
+11.54602778
+76.04630278
+Debris
+Slide
+08 August 2018
+15514
+KER/WYD/58A2/2018/56
+Kerala
+Wayanad
+Thalimala Ayisha 2
+Vythiri-Thailakunnu-Thalimala 
+Road
+11.54412759
+76.05525848
+Debris
+Slide
+08 August 2018
+15515
+KER/WYD/58A2/2018/57
+Kerala
+Wayanad
+Thalimala ayisha 3
+Vythiri-Thailakunnu-Thalimala 
+Road
+11.54969444
+76.05577778
+rock-cum-debris
+Slide
+08 August 2018
+15516
+KER/WYD/58A2/2018/58
+Kerala
+Wayanad
+Chelode estate
+Chundale-Olivumala Road
+11.56612222
+76.05433333
+rock-cum-debris
+Slide
+08 August 2018
+15517
+KER/WYD/58A2/2018/59
+Kerala
+Wayanad
+Vellaram kunnu 2
+Puzhamudy-VellaramKunnu 
+Road
+11.60555556
+76.05241667
+Debris
+Flows
+15th August 2018
+15518
+KER/WYD/58A2/2018/60
+Kerala
+Wayanad
+Kolpara
+Edapetty-Kolpara forest Road
+11.62550259
+76.10069045
+Debris
+Flows
+09-08-2018
+15519
+KER/WYD/58A2/2018/61
+Kerala
+Wayanad
+Edapetti
+Edapetty-Kolpara forest Road
+11.62494434
+76.10330032
+Debris
+Flows
+09 August 2018
+15520
+KER/WYD/58A2/2018/62
+Kerala
+Wayanad
+Kolpara_Govindan
+Edapetty-Kolpara forest Road
+11.62322222
+76.10641667
+Debris
+Flows
+09 August 2018
+15521
+KER/WYD/58A2/2018/63
+Kerala
+Wayanad
+Meppadi PHC
+Meppadi local Road
+11.55683333
+76.12963889
+Debris
+Slide
+09 August 2018
+15522
+KER/WYD/58A2/2018/64
+Kerala
+Wayanad
+Erumakolli 1
+Meppadi-Chembra Peak Road
+11.55233333
+76.10127778
+Debris
+Flows
+08 August 2018

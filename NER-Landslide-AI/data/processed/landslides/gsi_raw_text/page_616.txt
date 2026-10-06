@@ -1,0 +1,361 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+24342
+NG/PHE/83K6/2015/309
+Nagaland
+Phek
+ 
+Porba agri-link road
+25.614
+94.319
+Rock
+Slide
+NA
+24343
+NG/KOH/83G14/2015/1
+Nagaland
+Kohima
+#N/A
+#N/A
+25.615
+93.944
+Debris
+Slide
+2014
+24344
+NL/KOH/83K02/2014/12
+Nagaland
+Kohima
+Petrol pump station
+NH-29
+25.61597
+94.09208
+Debris
+Slide
+2014
+24345
+NG/PHE/83K6/2015/267
+Nagaland
+Phek
+ 
+Kohima-Pfiitsero-Meluri road 
+(NH150?).
+25.616
+94.484
+Debris
+Slide
+2015
+24346
+NG/KOH/83K2/2015/131
+Nagaland
+Kohima
+ 
+Kisama
+25.617
+94.113
+Rock
+Slide
+NA
+24347
+NG/KOH/83G14/2015/3
+Nagaland
+Kohima
+ 
+Dziecha on Kohima-Khonoma-
+Pedi-Peren SH
+25.617
+93.941
+Debris
+Slide
+2013
+24348
+NG/PHE/83K6/2015/331
+Nagaland
+Phek
+ 
+Kohima-Pfiitsero-Meluri road 
+(NH150?).
+25.618
+94.468
+Rock
+Fall
+NA
+24349
+NG/PHE/83K2/2015/120
+Nagaland
+Phek
+ 
+Kohima-Pfiitsero-Meluri road 
+(NH-150?)
+25.618
+94.209
+Rock
+Slide
+NA
+24350
+NG/PHE/83K2/2015/61
+Nagaland
+Phek
+ 
+SSE of Kezo Town on Kohima-
+Pfiitsero-Meluri road (NH-150?)
+25.619
+94.206
+Debris
+Slide
+2013
+24351
+NG/PHE/83K6/2015/291
+Nagaland
+Phek
+ 
+Phek-Lanye road.
+25.62
+94.485
+Rock
+Slide
+NA
+24352
+NG/PHE/83K6/2015/295
+Nagaland
+Phek
+ 
+Pfiitsero-Sakraba-Phek road
+25.62
+94.332
+Debris
+Slide
+2015
+24353
+NG/PHE/83K14/2017/48
+Nagaland
+Phek
+ 
+Pokhungri to Shilloi
+25.620269
+94.801031
+Debris
+Slide
+NA
+24354
+NL/PHE/83K02/2014/03
+Nagaland
+Phek
+Chakhabama-Pfiitsero road
+Chakabama- Pfutsero road
+25.62067
+94.21483
+Rock
+Topple
+2014
+24355
+NL/PHE/83K02/2014/05
+Nagaland
+Phek
+Chakabama- Pfiitsero road
+SH (Chakabama- Pfiitsero road) 25.62067
+94.21483
+Rock
+Slide
+2014
+24356
+NL/KOH/83K02/2014/03
+Nagaland
+Kohima
+Phesama
+NH 29
+25.621
+94.11806
+Rock cum Debris
+Flow
+12-07-2013
+24357
+NG/PHE/83K2/2015/64
+Nagaland
+Phek
+ 
+Kohima-Meluri road (NH-150?)
+25.621
+94.212
+Rock
+Slide
+2014
+24358
+NG/PHE/83K6/2015/304
+Nagaland
+Phek
+ 
+Pfiitsero-Sakraba-Phek road
+25.621
+94.335
+Rock cum Debris
+Slide
+2015
+24359
+NL/KOH/83K02/2014/34
+Nagaland
+Kohima
+Zarii Bridge slide
+NH-29, Kigwema- Chakhabama 
+road
+25.62153
+94.19439
+Rock cum Debris
+Slide
+2014
+24360
+NG/PHE/83K2/2015/106
+Nagaland
+Phek
+ 
+SSE of Kezo Town on Kohima-
+Pfiitsero-Meluri road (NH-150?)
+25.622
+94.206
+Debris
+Slide
+2010
+24361
+NG/KOH/83K2/2015/230
+Nagaland
+Kohima
+ 
+NH-29
+25.622
+94.114
+Debris
+Composite
+NA
+24362
+NG/PHE/83K2/2015/130
+Nagaland
+Phek
+ 
+Kohima-Pfiitsero-Meluri road 
+(NH-150?)
+25.622
+94.212
+Debris
+Slide
+NA
+24363
+NG/KOH/83K2/2015/236
+Nagaland
+Kohima
+ 
+NH-29, Phesema village
+25.623
+94.113
+Debris
+Composite
+1962
+24364
+NG/PHE/83K6/2015/293
+Nagaland
+Phek
+ 
+Pfiitsero-Sakraba-Phek road
+25.623
+94.354
+Debris
+Slide
+2013
+24365
+NG/PHE/83K6/2015/330
+Nagaland
+Phek
+ 
+Pfiitsero-Sakraba-Phek road
+25.623
+94.336
+Rock cum Debris
+Slide
+2015
+24366
+NG/PHE/83K14/2017/43
+Nagaland
+Phek
+ 
+ 
+25.623364
+94.819272
+Debris
+Slide
+NA
+24367
+NG/PHE/83K2/2015/102
+Nagaland
+Phek
+ 
+SSE of Kezo Town on Kohima-
+Pfiitsero-Meluri road (NH-150?)
+25.624
+94.206
+Debris
+Slide
+2010
+24368
+NG/PHE/83K6/2015/280
+Nagaland
+Phek
+ 
+Pfiitsero-Sakraba-Phek road
+25.624
+94.361
+Debris
+Slide
+2014
+24369
+NG/PHE/83K6/2015/279
+Nagaland
+Phek
+ 
+Pfiitsero-Sakraba-Phek road
+25.624
+94.348
+Debris
+Slide
+2013
+24370
+NG/PHE/83K10/2017/15
+Nagaland
+Phek
+ 
+North of Lanezho
+25.624639
+94.503278
+Debris
+Slide
+NA
+24371
+NG/PHE/83K6/2015/315
+Nagaland
+Phek
+ 
+Pfiitsero-Sakraba-Phek road
+25.625
+94.335
+Debris
+Slide
+2013
+24372
+NG/PHE/83K6/2015/333
+Nagaland
+Phek
+ 
+Pfiitsero-Sakraba-Phek road
+25.625
+94.345
+Debris
+Slide
+2013

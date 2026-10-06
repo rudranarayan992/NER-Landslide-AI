@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+26148
+SKM/ES/78A12/2015/163
+Sikkim
+ East Sikkim
+ 
+Namchi-Namthang Road
+27.157694
+88.522194
+Rock
+Topple
+NA
+26149
+SKM/NS/78A04/2017/119
+Sikkim
+West Sikkim
+ 
+SH
+27.157694
+88.092833
+Debris
+Slide
+NA
+26150
+SKM/NS/78A04/2017/97
+Sikkim
+West Sikkim
+ 
+SH
+27.157806
+88.230306
+Debris
+Slide
+NA
+26151
+SKM/NS/78A04/2017/116
+Sikkim
+West Sikkim
+ 
+SH
+27.157861
+88.090194
+Earth
+Slide
+NA
+26152
+SKM/SS/78A08/2015/273
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.158
+88.347972
+Debris
+Slide
+NA
+26153
+SKM/NS/78A04/2017/140
+Sikkim
+West Sikkim
+ 
+SH
+27.158056
+88.141528
+Debris
+Slide
+NA
+26154
+SKM/SS/78A08/2015/177
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.158111
+88.491722
+Debris
+Slide
+NA
+26155
+SKM/ES/78A2/2015/168
+Sikkim
+ East Sikkim
+ 
+Namchi-Namthang Road
+27.158111
+88.512472
+Debris
+Slide
+NA
+26156
+SKM/WS/78A08/2015/271
+Sikkim
+West Sikkim
+ 
+Namchi-Assangthang Road
+27.158139
+88.344806
+Debris
+Slide
+NA
+26157
+SKM/WS/78A08/2015/270
+Sikkim
+West Sikkim
+ 
+Namchi-Assangthang Road
+27.158222
+88.34325
+Debris
+Slide
+NA
+26158
+SKM/NS/78A04/2017/134
+Sikkim
+West Sikkim
+ 
+SH
+27.158222
+88.100361
+Debris
+Slide
+NA
+26159
+SKM/ES/78A12/2015/164
+Sikkim
+ East Sikkim
+ 
+Namchi-Namthang Road
+27.158361
+88.521833
+Debris
+Slide
+NA
+26160
+SKM/SS/78A08/2015/276
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.158417
+88.420139
+Debris
+Slide
+NA
+26161
+SKM/SS/78A08/2015/303
+Sikkim
+South Sikkim
+ 
+Namthang-Kabrey Road
+27.158583
+88.466306
+Rock
+Fall
+NA
+26162
+SKM/SS/78A08/2015/278
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.158944
+88.427111
+Debris
+Slide
+NA
+26163
+SKM/ES/78A2/2015/169
+Sikkim
+ East Sikkim
+ 
+Namchi-Namthang Road
+27.158972
+88.514611
+Rock
+Fall
+NA
+26164
+SKM/NS/78A04/2017/117
+Sikkim
+West Sikkim
+ 
+SH
+27.158972
+88.090944
+Debris
+Slide
+NA
+26165
+SKM/SS/78A08/2015/309
+Sikkim
+South Sikkim
+ 
+Melli-Phong Road
+27.159194
+88.444361
+Debris
+Slide
+NA
+26166
+SKM/NS/78A04/2017/118
+Sikkim
+West Sikkim
+ 
+SH
+27.159361
+88.09225
+Earth
+Slide
+NA
+26167
+SKM/WS/78A08/2015/294
+Sikkim
+West Sikkim
+ 
+Namchi-Jorthang Road
+27.159472
+88.300028
+Debris
+Slide
+NA
+26168
+SKM/WS/78A08/2015/268
+Sikkim
+West Sikkim
+ 
+Namchi-Assangthang Road
+27.159639
+88.318889
+Debris
+Subsidence
+NA
+26169
+SKM/SS/78A08/2015/234
+Sikkim
+South Sikkim
+ 
+Namchi-Palum Road
+27.159972
+88.379083
+Rock
+Slide
+NA
+26170
+SKM/SS/78A08/2015/277
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.160056
+88.423028
+Debris
+Slide
+NA
+26171
+SKM/NS/78A04/2017/132
+Sikkim
+West Sikkim
+ 
+SH
+27.160056
+88.091806
+Debris
+Slide
+NA
+26172
+SKM/SS/78A08/2015/272
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.160194
+88.415056
+Debris
+Slide
+NA
+26173
+SKM/SS/78A12/2015/170
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.160444
+88.512472
+Rock
+Fall
+NA
+26174
+SKM/SS/78A12/2015/174
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.160722
+88.505889
+Debris
+Slide
+NA
+26175
+SKM/NS/78A04/2017/133
+Sikkim
+West Sikkim
+ 
+SH
+27.161
+88.094306
+Debris
+Slide
+NA
+26176
+SKM/SS/78A12/2015/171
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.161306
+88.512944
+Debris
+Slide
+NA
+26177
+SKM/SS/78A08/2015/274
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.161444
+88.410556
+Debris
+Slide
+NA
+26178
+SKM/SS/78A12/2015/173
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.161917
+88.509639
+Debris
+Slide
+NA
+26179
+SKM/SS/78A08/2015/181
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.162111
+88.491444
+Rock
+Fall
+NA
+26180
+SKM/SS/78A12/2015/172
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.162194
+88.510611
+Debris
+Slide
+NA
+26181
+SKM/SS/78A08/2015/212
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.16275
+88.383306
+Earth
+Slide
+NA
+26182
+SKM/SS/78A08/2015/275
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.162778
+88.413222
+Rock
+Slide
+NA
+26183
+SKM/SS/78A08/2015/179
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.162781
+88.484864
+Debris
+Slide
+NA
+26184
+SKM/NS/78A04/2017/142
+Sikkim
+West Sikkim
+ 
+SH
+27.163472
+88.143083
+Debris
+Slide
+NA
+26185
+SKM/SS/78A08/2015/282
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.163556
+88.458833
+Debris
+Slide
+NA
+26186
+SKM/SS/78A08/2015/214
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.16375
+88.406417
+Rock
+Slide
+NA
+26187
+SKM/SS/78A08/2015/281
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.163861
+88.462306
+Debris
+Slide
+NA
+26188
+SKM/ES/78A12/2015/165
+Sikkim
+ East Sikkim
+ 
+Namchi-Namthang Road
+27.163861
+88.52
+Debris
+Slide
+NA
+26189
+SKM/NS/78A04/2017/141
+Sikkim
+West Sikkim
+ 
+SH
+27.163861
+88.141361
+Debris
+Slide
+NA
+26190
+SKM/NS/78A04/2017/100
+Sikkim
+West Sikkim
+Malbasley
+SH
+27.164472
+88.213889
+Rock
+Slide
+NA
+26191
+SKM/NS/78A04/2017/96
+Sikkim
+West Sikkim
+ 
+SH
+27.1645
+88.228444
+Rock
+Slide
+NA
+26192
+SKM/SS/78A08/2015/396
+Sikkim
+South Sikkim
+ 
+Sikkip-Wak-Namchi Road
+27.164528
+88.348472
+Debris
+Slide
+NA
+26193
+SKM/SS/78A08/2015/308
+Sikkim
+South Sikkim
+ 
+Melli-Phong Road
+27.165
+88.444444
+Debris
+Slide
+NA
+26194
+SKM/SS/78A08/2015/395
+Sikkim
+South Sikkim
+ 
+Sikkip-Wak-Namchi Road
+27.165278
+88.348528
+Debris
+Slide
+NA
+26195
+SKM/NS/78A04/2017/112
+Sikkim
+West Sikkim
+ 
+SH
+27.165333
+88.162028
+Debris
+Slide
+NA
+26196
+SKM/SS/78A08/2015/180
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.165528
+88.496556
+Debris
+Slide
+NA
+26197
+SKM/SS/78A08/2015/178
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.165586
+88.488511
+Debris
+Slide
+NA
+26198
+SKM/SS/78A08/2015/183
+Sikkim
+South Sikkim
+ 
+Namchi-Namthang Road
+27.165833
+88.436667
+Debris
+Slide
+NA

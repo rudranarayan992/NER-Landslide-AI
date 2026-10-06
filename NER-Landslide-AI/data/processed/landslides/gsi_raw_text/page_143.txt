@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+5914
+HP/KUL/53E06/2016/81
+Himachal Pradesh
+Kullu
+ 
+Rangoot
+31.607098
+77.377649
+Rock
+Slide
+NA
+5915
+HP/KUL/53E06/2016/136
+Himachal Pradesh
+Kullu
+ 
+Pori
+31.607265
+77.318201
+Rock
+Slide
+NA
+5916
+HP/KUL/53E06/2016/82
+Himachal Pradesh
+Kullu
+ 
+Rangoot
+31.608047
+77.377497
+Rock
+Slide
+NA
+5917
+HP/KUL/53E06/2016/142
+Himachal Pradesh
+Kullu
+ 
+South of Pandhar
+31.609406
+77.309864
+Debris
+Slide
+NA
+5918
+HP/MAN/53E06/2016/100
+Himachal Pradesh
+Mandi
+ 
+Thonag
+31.609679
+77.277673
+Rock cum debris
+Slide
+NA
+5919
+HP/KUL/53E10/2016/38
+Himachal Pradesh
+Shimla
+ 
+S of Nandi
+31.61025
+77.723806
+Debris
+Slide
+NA
+5920
+HP/MAN/53E02/2015/154
+Himachal Pradesh
+Mandi
+ 
+Badal Road
+31.610444
+77.065111
+Rock cum debris
+Slide
+NA
+5921
+HP/MAN/53E02/2015/155
+Himachal Pradesh
+Mandi
+ 
+Badal Road
+31.610444
+77.065111
+Rock cum debris
+Slide
+NA
+5922
+HP/MAN/53E02/2015/156
+Himachal Pradesh
+Mandi
+ 
+Badal Road
+31.610444
+77.065111
+Rock cum debris
+Slide
+NA
+5923
+HP/MAN/53E06/2016/97
+Himachal Pradesh
+Mandi
+ 
+Swof Tikki
+31.610519
+77.266669
+Rock cum debris
+Slide
+NA
+5924
+HP/MAN/53E06/2016/98
+Himachal Pradesh
+Mandi
+ 
+Batwada
+31.610731
+77.2927
+Rock cum debris
+Slide
+NA
+5925
+HP/MAN/53E06/2016/99
+Himachal Pradesh
+Mandi
+ 
+Batwada
+31.61097
+77.297892
+Rock cum debris
+Slide
+NA
+5926
+HP/KUL/53E06/2016/68
+Himachal Pradesh
+Kullu
+ 
+Kotladhar
+31.611
+77.351
+Rock
+Slide
+NA
+5927
+HP/MAN/53E06/2016/90
+Himachal Pradesh
+Mandi
+ 
+South of Ukhli
+31.611017
+77.295184
+Debris
+Slide
+NA
+5928
+HP/MAN/53E06/2016/101
+Himachal Pradesh
+Mandi
+ 
+Ghanyar
+31.611582
+77.281533
+Rock cum debris
+Slide
+NA
+5929
+HP/MAN/53E06/2016/96
+Himachal Pradesh
+Mandi
+ 
+Batwada
+31.615968
+77.291941
+Rock cum debris
+Slide
+NA
+5930
+HP/MAN/53E02/2015/157
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.616722
+77.065
+Rock cum debris
+Slide
+NA
+5931
+HP/MAN/53E02/2015/158
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.616722
+77.065
+Rock cum debris
+Slide
+NA
+5932
+HP/KUL/53E06/2016/113
+Himachal Pradesh
+Kullu
+ 
+Dogri
+31.617
+77.435
+Rock
+Slide
+NA
+5933
+HP/MAN/53E02/2015/159
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.617222
+77.065333
+Rock cum debris
+Slide
+NA
+5934
+HP/MAN/53E06/2016/8
+Himachal Pradesh
+Mandi
+ 
+Pokhri
+31.619448
+77.295793
+Debris
+Slide
+NA
+5935
+HP/KUL/53E06/2016/112
+Himachal Pradesh
+Kullu
+ 
+Trilokpur
+31.620144
+77.338613
+Rock
+Fall
+NA
+5936
+HP/MAN/53A14/2015/302
+Himachal Pradesh
+Mandi
+ 
+Gadwahan,SH 32
+31.620517
+76.82528
+Debris
+Slide
+NA
+5937
+HP/MAN/53E02/2015/209
+Himachal Pradesh
+Mandi
+ 
+Larji-Sainj road
+31.621111
+77.192722
+Rock cum debris
+Slide
+NA
+5938
+HP/MAN/53E02/2015/161
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.621139
+77.06725
+Rock cum debris
+Slide
+NA
+5939
+HP/MAN/53E02/2015/162
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.621139
+77.06725
+Rock cum debris
+Slide
+NA
+5940
+HP/MAN/53E02/2015/160
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.621333
+77.067417
+Rock cum debris
+Slide
+NA
+5941
+HP/MAN/53A14/2015/300
+Himachal Pradesh
+Mandi
+ 
+Gadwahan,SH 32
+31.621698
+76.825154
+Rock
+Slide
+2010
+5942
+HP/MAN/53A14/2015/301
+Himachal Pradesh
+Mandi
+ 
+Gadwahan,SH 32
+31.621741
+76.825403
+Debris
+Slide
+NA
+5943
+HP/MAN/53E02/2015/210
+Himachal Pradesh
+Mandi
+ 
+Larji-Sainj road
+31.621861
+77.190667
+Rock cum debris
+Slide
+NA
+5944
+HP/MAN/53E02/2015/204
+Himachal Pradesh
+Mandi
+ 
+Bajaura Mandi road
+31.623806
+77.19325
+Debris
+Slide
+NA
+5945
+HP/MAN/53E02/2015/205
+Himachal Pradesh
+Mandi
+ 
+ 
+31.623806
+77.19325
+Debris
+Slide
+NA
+5946
+HP/MAN/53E02/2015/206
+Himachal Pradesh
+Mandi
+ 
+ 
+31.623806
+77.19325
+Debris
+Slide
+NA
+5947
+HP/MAN/53E02/2015/207
+Himachal Pradesh
+Mandi
+ 
+Larji-Sainj road
+31.623806
+77.19325
+Debris
+Slide
+NA
+5948
+HP/MAN/53E02/2015/208
+Himachal Pradesh
+Mandi
+ 
+Larji-Sainj road
+31.623806
+77.19325
+Debris
+Slide
+NA
+5949
+HP/MAN/53E06/2016/56
+Himachal Pradesh
+Mandi
+ 
+Khalwan P.F.
+31.625492
+77.282702
+Debris
+Slide
+NA
+5950
+HP/KUL/53E06/2016/106
+Himachal Pradesh
+Kullu
+ 
+Khuladhar
+31.626379
+77.337103
+Rock
+Slide
+NA
+5951
+HP/KUL/53E06/2016/107
+Himachal Pradesh
+Kullu
+ 
+Khuladhar
+31.626831
+77.332954
+Rock
+Slide
+NA
+5952
+HP/KUL/53E06/2016/9
+Himachal Pradesh
+Kullu
+ 
+Kandhari
+31.629
+77.435
+Debris
+Slide
+NA
+5953
+HP/MAN/53A14/2015/293
+Himachal Pradesh
+Mandi
+ 
+Sapur,SH 32
+31.629626
+76.852282
+Rock
+Slide
+NA
+5954
+HP/MAN/53E02/2015/163
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.632028
+77.074167
+Debris
+Slide
+NA
+5955
+HP/MAN/53E02/2015/167
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.633944
+77.102167
+Debris
+Slide
+NA
+5956
+HP/HAM/53A09/2018/9
+Himachal Pradesh
+Hamirpur
+ 
+SUJANPUR - KHAIRA ROAD
+31.634028
+76.517917
+Debris
+Slide
+NA
+5957
+HP/MAN/53E06/2016/16
+Himachal Pradesh
+Mandi
+ 
+Kathangarh nala
+31.634836
+77.285125
+Rock cum debris
+Slide
+NA
+5958
+HP/MAN/53A14/2015/294
+Himachal Pradesh
+Mandi
+ 
+Balhl,SH 32
+31.635553
+76.843915
+Rock
+Slide
+NA
+5959
+HP/MAN/53A14/2015/295
+Himachal Pradesh
+Mandi
+ 
+East of Rewalsar,SH 32
+31.636746
+76.841414
+Rock
+Slide
+2013
+5960
+HP/MAN/53E02/2015/202
+Himachal Pradesh
+Mandi
+ 
+ 
+31.637361
+77.132417
+Debris
+Slide
+NA
+5961
+HP/MAN/53E02/2015/203
+Himachal Pradesh
+Mandi
+ 
+ 
+31.637361
+77.132417
+Debris
+Slide
+NA
+5962
+HP/MAN/53A10/2018/10
+Himachal Pradesh
+Mandi
+ 
+ 
+31.638361
+76.734028
+Debris
+Slide
+NA
+5963
+HP/MAN/53A14/2015/340
+Himachal Pradesh
+Mandi
+ 
+North of Rewalsar
+31.639253
+76.833769
+Rock
+Slide
+NA
+5964
+HP/KUL/53E06/2016/104
+Himachal Pradesh
+Kullu
+ 
+East of Khanethi
+31.63961
+77.306305
+Rock cum debris
+Slide
+NA

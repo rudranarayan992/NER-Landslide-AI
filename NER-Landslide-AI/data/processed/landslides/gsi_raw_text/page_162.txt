@@ -1,0 +1,562 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+6837
+HP/MAN/53A13/2015/46
+Himachal Pradesh
+Mandi
+ 
+NW of Joginder nagar,NH 20
+31.998167
+76.779903
+Rock
+Fall
+NA
+6838
+HP/MAN/52D16/2015/237
+Himachal Pradesh
+Mandi
+ 
+Barot-Jogindernagar road
+31.9996
+76.8644
+Rock
+Fall
+NA
+6839
+HP/KAN/44M13/2020/11
+Himachal Pradesh
+Kangra
+Dhanuna
+Dhanuna
+32
+75.9
+Debris
+Slide
+2015
+6840
+HP/MAN/52D16/2015/213
+Himachal Pradesh
+Mandi
+ 
+Dul village link road
+32.0016
+76.8001
+Rock
+Slide
+NA
+6841
+HP/MAN/52D16/2015/208
+Himachal Pradesh
+Mandi
+ 
+NH-154
+32.002
+76.7715
+Rock
+Topple
+NA
+6842
+HP/KUL/52H04/2015/154
+Himachal Pradesh
+Kullu
+ 
+Gader village road
+32.0042
+77.1094
+Rock
+Slide
+NA
+6843
+HP/MAN/52D16/2015/236
+Himachal Pradesh
+Mandi
+ 
+Barot-Jogindernagar road
+32.0048
+76.8624
+Debris
+Slide
+NA
+6844
+HP/MAN/52D16/2015/207
+Himachal Pradesh
+Mandi
+ 
+NH-154
+32.0053
+76.7721
+Rock
+Slide
+NA
+6845
+HP/KUL/52H04/2015/155
+Himachal Pradesh
+Kullu
+ 
+NH21
+32.0062
+77.1297
+Debris
+Slide
+NA
+6846
+HP/MAN/52D16/2015/209
+Himachal Pradesh
+Mandi
+ 
+Jogindernagar-Banar link road
+32.0063
+76.7992
+Rock
+Slide
+NA
+6847
+HP/KUL/52H04/2015/160
+Himachal Pradesh
+Kullu
+ 
+Manali-Naggar Road
+32.01126
+77.13817
+Debris
+Slide
+NA
+6848
+HP/KAN/52D04/2018/16
+Himachal Pradesh
+Kangra
+ 
+Ranital, NH 503
+32.01247
+76.230968
+Rock
+Slide
+NA
+6849
+HP/KUL/52H04/2015/161
+Himachal Pradesh
+Kullu
+ 
+Manali-Naggar Road
+32.0135
+77.1373
+Debris
+Subsidence
+2014
+6850
+HP/MAN/52D16/2015/212
+Himachal Pradesh
+Mandi
+ 
+Banar village link road
+32.0138
+76.7852
+Rock
+Slide
+NA
+6851
+HP/KUL/52H04/2015/153
+Himachal Pradesh
+Kullu
+ 
+Jadawan village road
+32.0141
+77.1113
+Debris
+Slide
+NA
+6852
+HP/KAN/52D04/2018/17
+Himachal Pradesh
+Kangra
+ 
+Ranital, NH 503
+32.014727
+76.22974
+Rock cum debris
+Slide
+NA
+6853
+HP/MAN/52D16/2015/206
+Himachal Pradesh
+Mandi
+ 
+NH-154
+32.0165
+76.7433
+Debris
+Slide
+NA
+6854
+HP/MAN/52D16/2015/211
+Himachal Pradesh
+Mandi
+ 
+Near Banar link road
+32.0174
+76.7857
+Rock
+Slide
+NA
+6855
+HP/KAN/52D04/2018/12
+Himachal Pradesh
+Kangra
+ 
+Rasu
+32.018607
+76.227711
+Rock cum debris
+Slide
+NA
+6856
+HP/KAN/52D04/2018/18
+Himachal Pradesh
+Kangra
+ 
+Ranital, NH 503
+32.018717
+76.229077
+Rock
+Slide
+NA
+6857
+HP/MAN/52D16/2015/210
+Himachal Pradesh
+Mandi
+ 
+Galu link road
+32.0201
+76.7798
+Debris
+Slide
+NA
+6858
+HP/KAN/52D04/2018/21
+Himachal Pradesh
+Kangra
+ 
+South of Kahra, NH 503
+32.02044
+76.245217
+Debris
+Subsidence
+NA
+6859
+HP/KAN/52D04/2018/2
+Himachal Pradesh
+Kangra
+ 
+Near Kahra
+32.020477
+76.239295
+Rock
+Slide
+NA
+6860
+HP/KAN/52D04/2018/20
+Himachal Pradesh
+Kangra
+ 
+Near Rasu,NH 503
+32.020507
+76.23929
+Rock
+Slide
+NA
+6861
+HP/KAN/52D04/2018/13
+Himachal Pradesh
+Kangra
+ 
+Rasu, SH 23
+32.020713
+76.224273
+Debris
+Slide
+NA
+6862
+HP/KAN/52D04/2018/10
+Himachal Pradesh
+Kangra
+ 
+Near Rasu
+32.021223
+76.229987
+Debris
+Slide
+NA
+6863
+HP/KAN/52D04/2018/5
+Himachal Pradesh
+Kangra
+ 
+Rasu, SH 23
+32.021223
+76.229987
+Rock
+Slide
+NA
+6864
+HP/KAN/52D04/2018/22
+Himachal Pradesh
+Kangra
+ 
+Kahra, NH 503
+32.02143
+76.245027
+Rock
+Slide
+NA
+6865
+HP/KAN/52D04/2018/3
+Himachal Pradesh
+Kangra
+ 
+Near Kahra
+32.02143
+76.244998
+Rock
+Slide
+NA
+6866
+HP/KAN/52D04/2018/7
+Himachal Pradesh
+Kangra
+ 
+SH 23,NW of Rasu
+32.021435
+76.231333
+Debris
+Slide
+NA
+6867
+HP/KAN/52D04/2018/14
+Himachal Pradesh
+Kangra
+Rasu Subsidence
+Rasu Village, SH 23
+32.02149
+76.227022
+Debris
+Subsidence
+2018
+6868
+HP/KAN/52D04/2018/8
+Himachal Pradesh
+Kangra
+ 
+SH 23,NW of Rasu
+32.021625
+76.231033
+Rock cum debris
+Slide
+NA
+6869
+HP/KAN/52D04/2018/23
+Himachal Pradesh
+Kangra
+ 
+Kahra, NH 503
+32.021847
+76.245353
+Rock
+Slide
+NA
+6870
+HP/KAN/52D04/2018/11
+Himachal Pradesh
+Kangra
+ 
+Gandaun SH 23
+32.02193
+76.221647
+Rock cum debris
+Slide
+NA
+6871
+HP/KUL/52H04/2015/194
+Himachal Pradesh
+Kullu
+ 
+Kais-Soil road
+32.0221
+77.1396
+Debris
+Slide
+NA
+6872
+HP/KAN/52D04/2018/4
+Himachal Pradesh
+Kangra
+ 
+Near Kahra
+32.022117
+76.24557
+Rock
+Slide
+NA
+6873
+HP/KAN/52D04/2018/19
+Himachal Pradesh
+Kangra
+ 
+Rasu
+32.023457
+76.235528
+Rock
+Slide
+NA
+6874
+HP/KAN/52D04/2018/1
+Himachal Pradesh
+Kangra
+ 
+NH20A
+32.023552
+76.245977
+Rock
+Slide
+NA
+6875
+HP/KAN/52D04/2018/24
+Himachal Pradesh
+Kangra
+ 
+Kahra, NH 503
+32.02376
+76.245957
+Rock
+Slide
+NA
+6876
+HP/KAN/52D04/2018/9
+Himachal Pradesh
+Kangra
+ 
+Rasu, SH 23
+32.024048
+76.231201
+Rock
+Slide
+NA
+6877
+HP/KUL/52H04/2015/162
+Himachal Pradesh
+Kullu
+ 
+Manali-Naggar Road
+32.0241
+77.134
+Debris
+Subsidence
+NA
+6878
+HP/KAN/52D04/2018/6
+Himachal Pradesh
+Kangra
+ 
+Rasu, SH 23
+32.024664
+76.229313
+Rock
+Slide
+NA
+6879
+HP/KUL/52H04/2015/152
+Himachal Pradesh
+Kullu
+ 
+Jadawan village road
+32.025
+77.1081
+Debris
+Slide
+NA
+6880
+HP/KAN/52D04/2018/28
+Himachal Pradesh
+Kangra
+ 
+Ghandur
+32.026528
+76.212513
+Debris
+Slide
+NA
+6881
+HP/KUL/52H04/2015/151
+Himachal Pradesh
+Kullu
+ 
+Jadawan village road
+32.0277
+77.0983
+Debris
+Slide
+NA
+6882
+HP/KAN/52D08/2018/112
+Himachal Pradesh
+Kangra
+ 
+ 
+32.02832
+76.4088
+Debris
+Slide
+NA
+6883
+HP/KAN/52D08/2018/51
+Himachal Pradesh
+Kangra
+BAGIYARA
+DHIRA-NAGROTA ROAD
+32.02858
+76.41153
+Debris
+Slide
+NA
+6884
+HP/KUL/52H04/2015/195
+Himachal Pradesh
+Kullu
+ 
+Kais-Soil road
+32.029
+77.1409
+Debris
+Slide
+NA
+6885
+HP/KUL/52H04/2015/163
+Himachal Pradesh
+Kullu
+ 
+Manali-Naggar Road
+32.0294
+77.137
+Rock
+Slide
+NA
+6886
+HP/KUL/52H04/2015/164
+Himachal Pradesh
+Kullu
+ 
+Manali-Naggar Road
+32.033
+77.1365
+Debris
+Slide
+NA

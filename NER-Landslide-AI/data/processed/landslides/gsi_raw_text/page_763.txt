@@ -1,0 +1,319 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29948
+WB/DARJ/78A04/0239
+West Bengal
+Darjeeling
+ 
+15km. North of Darjeeling town 
+on Darjeeling-Naya bazar road
+27.094
+88.25
+Debris
+Subsidence
+NA
+29949
+WB/DARJ/78A04/1980/0246
+West Bengal
+Darjeeling
+ 
+On Barahatta-Lodhama-
+Linsebong road approaching 
+Rammam Hydel Project Stage-II 
+site.
+27.094
+88.102
+Debris
+Slide
+NA
+29950
+WB/DARJ/78A04/1980/0246
+West Bengal
+Darjeeling
+ 
+On Barahatta-Lodhama-
+Linsebong road approaching 
+Rammam Hydel Project Stage-II 
+site.
+27.094
+88.102
+Debris
+Slide
+NA
+29951
+WB/DARJ/78A12/2007/0035
+West Bengal
+Darjeeling
+Upper Dalapchand
+ Algara-Kalimpong road
+27.094
+88.5435
+Debris
+Slide
+2007
+29952
+WB/DARJ/78A12/2007/0033
+West Bengal
+Darjeeling
+Culvert 24/5
+ Algara-Kalimpong road
+27.094
+88.5434
+Debris
+Slide
+2007
+29953
+WB/DAR/78A12/2015/1482
+West Bengal
+Darjeeling
+ 
+ 
+27.094012
+88.655654
+Rock cum Debris
+Slide
+2010
+29954
+WB/DAR/78A08/2021/PDLS/22
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09415708
+88.26231189
+Debris
+Slide
+October 2021
+29955
+WB/DAR/78A08/2015/101
+West Bengal
+Darjeeling
+15km. North of Darjeeling town on 
+Darjeeling-Naya bazar road
+15km. North of Darjeeling town 
+on Darjeeling-Naya bazar road
+27.094394
+88.250742
+Debris
+Subsidence
+2009
+29956
+WB/DAR/78A12/2015/1483
+West Bengal
+Darjeeling
+ 
+ 
+27.0944
+88.655857
+Debris
+Slide
+2014
+29957
+WB/DAR/78A12/2015/195
+West Bengal
+Darjeeling
+Lava -  Algara Road
+Lava -  Algara Road
+27.094496
+88.61065
+Debris
+Subsidence
+2007
+29958
+WB/DAR/78A04/2015/5
+West Bengal
+Darjeeling
+On Linsebong-forebay road  of 
+Rammam Project
+On Linsebong-forebay road 
+(near to Linsebong) of Rammam 
+Hydel Project Stage-II
+27.094536
+88.10201
+Debris
+Slide
+1987
+29959
+WB/DAR/78A04/2015/1500
+West Bengal
+Darjeeling
+RISHOP ROAD SLIDE
+RISHOP ROAD
+27.094618
+88.101956
+Rock
+Slide
+2010
+29960
+WB/DAR/78A08/2021/PDLS/22
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09478303
+88.26297451
+Debris
+Slide
+October 2021
+29961
+WB/DAR/78A04/2021/PDLS/11
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09480555
+88.15434583
+Debris
+Slide
+October 2021
+29962
+WB/DAR/78A08/2021/PDLS/37
+0
+West Bengal
+Kalimpong
+N/A
+N/A
+27.09497812
+88.46427118
+Debris
+Slide
+October 2021
+29963
+WB/DAR/78A04/2015/1259
+West Bengal
+Darjeeling
+ 
+LODHOMA
+27.095056
+88.1035
+Rock
+Slide
+2014
+29964
+WB/DAR/78A12/2015/243
+West Bengal
+Darjeeling
+15th mile on Kalimpong-Algara road
+15th mile on Kalimpong-Algara 
+road
+27.095245
+88.54131
+Debris
+Subsidence
+2013
+29965
+WB/DAR/78A04/2021/PDLS/47
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09526828
+88.10233468
+Rock
+Slide
+October 2021
+29966
+WB/DARJ/78A12/2007/0026
+West Bengal
+Darjeeling
+Algara 5.5 km
+5.5km from Algara towards 
+Lava
+27.0953
+88.6129
+Debris
+Slide
+2007
+29967
+WB/DAR/78A04/2021/PDLS/27
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.0953509
+88.24281856
+Debris
+Slide
+October 2021
+29968
+WB/DARJ/78A12/2007/0034
+West Bengal
+Darjeeling
+WP532
+ Algara-Kalimpong road
+27.0955
+88.5452
+Debris
+Subsidence
+2007
+29969
+WB/DAR/78A04/2021/PDLS/17
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09554301
+88.22608757
+Debris
+Slide
+October 2021
+29970
+WB/DAR/78A04/2015/1212
+West Bengal
+Darjeeling
+ 
+JHAPI
+27.095556
+88.166222
+Debris
+Subsidence
+2014
+29971
+WB/DAR/78A12/2015/198
+West Bengal
+Darjeeling
+4.5 km from Algara towards  Lava
+4.5 km from Algara towards  
+Lava
+27.095564
+88.601497
+Debris
+Subsidence
+2007
+29972
+WB/DAR/78A08/2015/121
+West Bengal
+Darjeeling
+Chota Bhalukop near Kalimpong
+Chota Bhalukop near Kalimpong 27.09558
+88.479401
+Rock
+Slide
+2012
+29973
+WB/DARJ/78A12/2007/0032
+West Bengal
+Darjeeling
+Pagana Gumpha
+ Algara-Kalimpong road,culvert 
+no.24/5 slide retrogressive
+27.0956
+88.5451
+Debris
+Slide
+2007

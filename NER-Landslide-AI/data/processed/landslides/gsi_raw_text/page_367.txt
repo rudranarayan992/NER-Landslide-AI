@@ -1,0 +1,408 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15180
+KRL/IDK/58C13/2018/189
+KERALA
+IDUKKI
+Mulakuvalli
+Mulakuvalli-Maruthupara 
+thandu road
+9.909309234
+76.94729837
+Debris
+slide
+15th August 2018
+15181
+KRL/IDK/58C13/2018/190
+KERALA
+IDUKKI
+Mulakuvalli
+nil
+9.910368366
+76.94859923
+Debris
+slide
+15th August 2018
+15182
+KRL/IDK/58C13/2018/191
+KERALA
+IDUKKI
+Perumkala
+Maniyarankudy- Peppara road
+9.889026138
+76.93285689
+Debris
+slide
+15th August 2018
+15183
+KRL/IDK/58C13/2018/192
+KERALA
+IDUKKI
+Perumkala
+Perumkala- Ambataru colony 
+road.
+9.888201452
+76.93321673
+Debris
+slide
+15th August 2018
+15184
+KRL/IDK/58C13/2018/193
+KERALA
+IDUKKI
+Cheruthoni
+Cheruthoni- Theatrepadi- 
+Girijyoti
+9.853882
+76.95907749
+Debris
+slide
+15th August 2018
+15185
+KRL/IDK/58C13/2018/194
+KERALA
+IDUKKI
+Cheruthoni 17th Colony
+Cheruthoni- Theatrepadi- 
+Girijyoti
+9.853965735
+76.9586678
+Debris
+slide, slope 
+direction: N45
+17th August 2018
+15186
+KRL/IDK/58C13/2018/195
+KERALA
+IDUKKI
+Cheruthoni
+Cheruthoni- Theatrepadi- 
+Girijyoti
+9.85426726
+76.95811354
+Debris
+slide
+15th August 2018
+15187
+KRL/IDK/58C13/2018/196
+KERALA
+IDUKKI
+Cheruthoni
+Mellumpadi Kochu Painavu 
+road
+9.854288346
+76.95915281
+Debris
+slide
+15th August 2018
+15188
+KRL/IDK/58C13/2018/197
+KERALA
+IDUKKI
+Cheruthoni
+Millumpadi-Kochupainavu road 9.854148575
+76.9598721
+Debris
+slide
+15th August 2018
+15189
+KRL/IDK/58C13/2018/198
+KERALA
+IDUKKI
+Cheruthoni
+nil
+9.854675753
+76.9609326
+Debris
+flow
+15th August 2018
+15190
+KRL/IDK/58C13/2018/199
+KERALA
+IDUKKI
+6th cent colony
+nil
+9.855890783
+76.96029259
+Debris
+slide
+15th August 2018
+15191
+KRL/IDK/58C13/2018/200
+KERALA
+IDUKKI
+Thanikandam
+nil
+9.859966538
+76.95425484
+Debris
+slide
+15th August 2018
+15192
+KRL/IDK/58C13/2018/201
+KERALA
+IDUKKI
+Kochupainavu
+Painavu- Thodupuzha road
+9.858502414
+76.95264188
+Debris
+slide
+15th August 2018
+15193
+KRL/IDK/58C13/2018/202
+KERALA
+IDUKKI
+Kochupainavu
+Painavu- Thodupuzha road
+9.858635946
+76.95299817
+Debris
+flow
+15th August 2018
+15194
+KRL/IDK/58C13/2018/203
+KERALA
+IDUKKI
+Kochupainavu
+Painavu- Thodupuzha road
+9.858459116
+76.95231346
+Debris
+flow
+15th August 2018
+15195
+KRL/IDK/58C13/2018/204
+KERALA
+IDUKKI
+Meenmutty
+Painavu- Thodupuzha road
+9.840509272
+76.92976658
+Debris
+slide
+15th August 2018
+15196
+KRL/IDK/58C13/2018/205
+KERALA
+IDUKKI
+Meenmutty
+Painavu- Thodupuzha road
+9.846452294
+76.93383006
+Debris
+slide
+15th August 2018
+15197
+KRL/IDK/58C13/2018/206
+KERALA
+IDUKKI
+Kuyilimala
+Painavu- Thodupuzha road
+9.848979848
+76.93603246
+Debris
+slide
+15th August 2018
+15198
+KRL/IDK/58C13/2018/207
+KERALA
+IDUKKI
+Kuyilimala
+Painavu- Thodupuzha road
+9.850570584
+76.9360782
+Debris
+slide
+15th August 2018
+15199
+KRL/IDK/58C13/2018/208
+KERALA
+IDUKKI
+Kuyilimala
+Painavu- Thodupuzha road
+9.847280184
+76.94078985
+Debris
+slide, D-N250
+15th August 2018
+15200
+KRL/IDK/58C13/2018/208
+KERALA
+IDUKKI
+Kuyilimala
+Painavu- Thodupuzha road
+9.84608162
+76.93856784
+Debris
+slide
+15th August 2018
+15201
+KRL/IDK/58C13/2018/210
+KERALA
+IDUKKI
+Kuyilimala behind the excise office
+Painavu- Thodupuzha road
+9.844834373
+76.94324578
+Debris
+slide
+15th August 2018
+15202
+KRL/IDK/58C13/2018/211
+KERALA
+IDUKKI
+Govt. Engineering College, Idukki
+nil
+9.850453205
+76.93920409
+Debris
+slide
+15th August 2018
+15203
+KRL/IDK/58C13/2018/212
+KERALA
+IDUKKI
+Painavu- Thodupuzha road
+9.848743038
+76.94420752
+Debris
+slide
+15th August 2018
+15204
+KRL/IDK/58C13/2018/213
+KERALA
+IDUKKI
+Painavu- Thodupuzha road
+9.850969945
+76.94523237
+Debris
+slide
+15th August 2018
+15205
+KRL/IDK/58C13/2018/214
+KERALA
+IDUKKI
+Painavu- Thodupuzha road
+9.851785803
+76.94483607
+Debris
+slide
+15th August 2018
+15206
+KRL/IDK/58C13/2018/215
+KERALA
+IDUKKI
+Painavu- Thodupuzha road
+9.8534006
+76.94541069
+Debris
+slide
+15th August 2018
+15207
+KRL/IDK/58C13/2018/216
+KERALA
+IDUKKI
+Idukki-Medical college road
+9.84252051
+76.96507197
+Debris
+slide
+15th August 2018
+15208
+KRL/IDK/58C13/2018/217
+KERALA
+IDUKKI
+Idukki-Medical college road
+9.849399964
+76.96035452
+Debris
+flow
+15th August 2018
+15209
+KRL/IDK/58C13/2018/218
+KERALA
+IDUKKI
+Opposite to the Idukki Medical 
+College
+Cheruthoni- Painavu- 
+Thodupuzha road
+9.849504518
+76.96102967
+Debris
+slide
+15th August 2018
+15210
+KRL/IDK/58C13/2018/219
+KERALA
+IDUKKI
+Opposite to the Idukki Medical 
+College
+Cheruthoni- Painavu- 
+Thodupuzha road
+9.850162377
+76.96137993
+Debris
+slide
+15th August 2018
+15211
+KRL/IDK/58C13/2018/220
+KERALA
+IDUKKI
+Behind Vazhathope grama panchayat 
+market
+9.852182735
+76.96215755
+Debris
+slide
+15th August 2018
+15212
+KRL/IDK/58C13/2018/221
+KERALA
+IDUKKI
+Thanikandam
+Thanikandam- Theatrepadi road 9.865724865
+76.95268441
+Debris
+slide
+15th August 2018
+15213
+KRL/IDK/58C13/2018/222
+KERALA
+IDUKKI
+Thanikandam
+Thanikandam- Theatrepadi road 9.865500043
+76.95248254
+Debris
+slide
+15th August 2018
+15214
+KRL/IDK/58C13/2018/223
+KERALA
+IDUKKI
+Thanikandam
+Thanikandam- Theatrepadi road 9.86493563
+76.95160411
+Debris
+flow
+15th August 2018
+15215
+KRL/IDK/58C13/2018/224
+KERALA
+IDUKKI
+Thanikandam
+Thanikandam- Theatrepadi road 9.864429056
+76.95166493
+Debris
+flow
+15th August 2018

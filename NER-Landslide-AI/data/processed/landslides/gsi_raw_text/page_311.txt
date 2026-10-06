@@ -1,0 +1,508 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+13293
+KL/IDU/58F04/2019/654
+Kerala
+Idukki
+Parakudi
+Estate road
+10.14
+77.04
+Debris
+Slide
+NA
+13294
+KL/IDU/58F04/2019/655
+Kerala
+Idukki
+Aanachal
+Estate road
+10.14
+77.02
+Debris
+Slide
+NA
+13295
+KL/IDU/58F04/2019/675
+Kerala
+Idukki
+Seval kudi
+Mattupatti-kundala road
+10.14
+77.18
+Debris
+Slide
+2019
+13296
+KL/IDU/58F04/2019/676
+Kerala
+Idukki
+Aanakkulam
+Mattupatti-kundala road
+10.14
+77.18
+Debris
+Slide
+2019
+13297
+KL/IDU/58F04/2019/677
+Kerala
+Idukki
+Aanakkulam
+Mattupatti-kundala road
+10.14
+77.19
+Debris
+Slide
+2019
+13298
+KL/IDU/58F04/2019/678
+Kerala
+Idukki
+Aanakkulam
+Mattupatti-kundala road
+10.14
+77.19
+Debris
+Slide
+2019
+13299
+KL/IDU/58F04/2019/706
+Kerala
+Idukki
+Aaram mile
+Iravikulam-Rajamala road
+10.14
+77.03
+Debris
+Slide
+NA
+13300
+KL/IDU/58F04/2019/707
+Kerala
+Idukki
+Chikkanad kudi
+Iravikulam-Rajamala road
+10.14
+77.03
+Debris
+Slide
+NA
+13301
+KL/IDU/58F04/2019/708
+Kerala
+Idukki
+Parakudi
+Iravikulam-Rajamala road
+10.14
+77.03
+Debris
+Slide
+NA
+13302
+KL/IDU/58F04/2019/734
+Kerala
+Idukki
+Chithirapuram
+Estate road
+10.14
+77.07
+Debris
+Flow
+NA
+13303
+KL/IDU/58F04/2019/735
+Kerala
+Idukki
+Thalumkandam
+Estate road
+10.14
+77.07
+Debris
+Slide
+2019
+13304
+KL/IDU/58F04/2019/736
+Kerala
+Idukki
+Thalumkandam
+Estate road
+10.14
+77.07
+Debris
+Slide
+2018
+13305
+KL/IDU/58F04/2019/740
+Kerala
+Idukki
+Seval kudi
+Estate road
+10.14
+77.1
+Debris
+Slide
+NA
+13306
+KL/IDU/58F04/2019/759
+Kerala
+Idukki
+Aaram mile
+Estate road
+10.14
+77.11
+Debris
+Slide
+NA
+13307
+KL/IDU/58F04/2019/760
+Kerala
+Idukki
+Aaram mile
+Estate road
+10.14
+77.11
+Debris
+Slide
+NA
+13308
+KL/IDU/58F04/2019/766
+Kerala
+Idukki
+Aanakkulam
+Estate road
+10.14
+77.1
+Earth
+Subsidence
+2019
+13309
+KL/IDU/58B16/2019/774
+Kerala
+Idukki
+Mankulam
+Estate road
+10.14
+76.96
+Earth
+Slump
+2018
+13310
+KL/IDU/58B16/2019/354
+Kerala
+Idukki
+Aanakkulam
+Anakkulam-Perumbankoottu 
+road
+10.15
+76.91
+Debris
+Slide
+NA
+13311
+KL/EKM/58B12/2019/544
+Kerala
+Ernakulam
+Aaram mile
+Thattekkad-Pooyamkutty road
+10.15
+76.73
+Debris
+Slide
+NA
+13312
+KL/IDU/58F04/2019/660
+Kerala
+Idukki
+Aanakkulam
+Naikolli mala
+10.15
+77.06
+Debris
+Slide
+2019
+13313
+KL/IDU/58F04/2019/691
+Kerala
+Idukki
+Aanachal
+Muunnar-Marayur highway
+10.15
+77.07
+Debris
+Slide
+2019
+13314
+KL/IDU/58F04/2019/692
+Kerala
+Idukki
+Aaram mile
+Muunnar-Marayur highway
+10.15
+77.08
+Debris
+Slide
+2019
+13315
+KL/IDU/58F04/2019/693
+Kerala
+Idukki
+Seval kudi
+Muunnar-Marayur highway
+10.15
+77.08
+Debris
+Slide
+NA
+13316
+KL/IDU/58F04/2019/694
+Kerala
+Idukki
+Aanakkulam
+Muunnar-Marayur highway
+10.15
+77.08
+Debris
+Slide
+NA
+13317
+KL/IDU/58F04/2019/695
+Kerala
+Idukki
+Aanakkulam
+Muunnar-Marayur highway
+10.15
+77.08
+Debris
+Slide
+NA
+13318
+KL/IDU/58F04/2019/696
+Kerala
+Idukki
+Aanakkulam
+Muunnar-Marayur highway
+10.15
+77.09
+Debris
+Slide
+NA
+13319
+KL/IDU/58F04/2019/698
+Kerala
+Idukki
+Chithirapuram
+Muunnar-Marayur highway
+10.15
+77.09
+Debris
+Slide
+NA
+13320
+KL/IDU/58F04/2019/699
+Kerala
+Idukki
+Thalumkandam
+Muunnar-Marayur highway
+10.15
+77.11
+Debris
+Slide
+NA
+13321
+KL/IDU/58F04/2019/700
+Kerala
+Idukki
+Thalumkandam
+Muunnar-Marayur highway
+10.15
+77.11
+Debris
+Slide
+NA
+13322
+KL/IDU/58F04/2019/709
+Kerala
+Idukki
+Aanachal
+Iravikulam-Rajamala road
+10.15
+77.03
+Debris
+Slide
+NA
+13323
+KL/IDU/58F04/2019/710
+Kerala
+Idukki
+Aaram mile
+Iravikulam-Rajamala road
+10.15
+77.02
+Debris
+Slide
+NA
+13324
+KL/IDU/58F04/2019/711
+Kerala
+Idukki
+Seval kudi
+Iravikulam-Rajamala road
+10.15
+77.02
+Debris
+Slide
+NA
+13325
+KL/IDU/58F04/2019/737
+Kerala
+Idukki
+Mankulam
+Estate road
+10.15
+77.08
+Debris
+Slide
+2018
+13326
+KL/IDU/58F04/2019/738
+Kerala
+Idukki
+Mankulam
+Estate road
+10.15
+77.06
+Debris
+Slide
+2018
+13327
+KL/IDU/58F04/2019/742
+Kerala
+Idukki
+Aaram mile
+Estate road
+10.15
+77.08
+Debris
+Slide
+NA
+13328
+KL/IDU/58F04/2019/743
+Kerala
+Idukki
+Chikkanad kudi
+Estate road
+10.15
+77.08
+Rock
+Slide
+NA
+13329
+KL/IDU/58F04/2019/753
+Kerala
+Idukki
+Thalumkandam
+Estate road
+10.15
+77.14
+Earth
+Subsidence
+NA
+13330
+KL/IDU/58F04/2019/754
+Kerala
+Idukki
+Thalumkandam
+Estate road
+10.15
+77.08
+Debris
+Slide
+NA
+13331
+KL/IDU/58F04/2019/761
+Kerala
+Idukki
+Chikkanad kudi
+Estate road
+10.15
+77.12
+Debris
+Slide
+NA
+13332
+KL/IDU/58F04/2019/767
+Kerala
+Idukki
+Aanakkulam
+Estate road
+10.15
+77.11
+Debris
+Slide
+2019
+13333
+KL/IDU/58F04/2019/775
+Kerala
+Idukki
+Perumbamkoottu
+Estate road
+10.15
+77.05
+Earth
+Subsidence
+NA
+13334
+KL/IDU/58F04/2019/777
+Kerala
+Idukki
+Aaram mile
+Estate road
+10.15
+77.11
+Earth
+Subsidence
+NA
+13335
+KL/IDU/58B16/2019/352
+Kerala
+Idukki
+Aanakkulam
+Mankulam-Anakkulam road
+10.16
+76.91
+Debris
+Slide
+2019
+13336
+KL/IDU/58F04/2019/744
+Kerala
+Idukki
+Parakudi
+Estate road
+10.16
+77.08
+Debris
+Slide
+NA
+13337
+KL/IDU/58F04/2019/745
+Kerala
+Idukki
+Aanachal
+Estate road
+10.16
+77.08
+Debris
+Slide
+NA

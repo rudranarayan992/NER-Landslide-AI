@@ -1,0 +1,338 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27163
+TN/COI/58B15/2017/102
+Tamil Nadu
+Coimbatore
+ 
+Near Sholaiyar Nagar
+10.293314
+76.876094
+Soil
+Slide
+NA
+27164
+TN/ANN/58F15/2016/6
+Tamil Nadu
+Dindigul
+ 
+Thandikudi to Batlaguntu road
+10.293864
+77.776428
+Debris
+Slide
+NA
+27165
+TN/ANN/58F11/2016/26
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Palani
+10.294189
+77.548397
+Rock
+Topple
+NA
+27166
+TN/ANN/58F15/2016/5
+Tamil Nadu
+Dindigul
+ 
+Thandikudi to Batlaguntu road
+10.294911
+77.774781
+Debris
+Slide
+NA
+27167
+TN/COI/58F03/2017/104
+Tamil Nadu
+Coimbatore
+ 
+Cinchona fourth division  area
+10.295556
+77.017306
+Debris
+Slide
+NA
+27168
+TN/COI/58F03/2017/105
+Tamil Nadu
+Coimbatore
+ 
+Cinchona fourth division  area
+10.296417
+77.017333
+Rock cum debris
+Slide
+NA
+27169
+TN/COI/58B15/2017/37
+Tamil Nadu
+Coimbatore
+ 
+Sirukundra Tea Estate
+10.297458
+76.968019
+Debris
+Slide
+NA
+27170
+TN/COI/58F03/2017/106
+Tamil Nadu
+Coimbatore
+ 
+Chinnakallar
+10.298056
+77.019083
+Rock cum debris
+Slide
+NA
+27171
+TN/ANN/58F11/2016/29
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Palani
+10.299047
+77.55115
+Debris
+Slide
+NA
+27172
+TN/ANN/58F11/2016/27
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Palani
+10.29965
+77.551875
+Debris
+Slide
+NA
+27173
+TN/COI/58B15/2017/3
+Tamil Nadu
+Coimbatore
+ 
+Sholayar 2nd Division Tea Estate 10.300208
+76.944544
+Soil
+Slide
+NA
+27174
+TN/COI/58B15/2017/4
+Tamil Nadu
+Coimbatore
+ 
+Sholayar 2nd Division Tea Estate 10.300283
+76.946444
+Debris
+Slide
+NA
+27175
+TN/ANN/58F15/2016/4
+Tamil Nadu
+Dindigul
+ 
+Thandikudi to Batlaguntu road
+10.300331
+77.768722
+Debris
+Slide
+NA
+27176
+TN/ANN/58F15/2016/3
+Tamil Nadu
+Dindigul
+ 
+Batalguntu road ( Thandikudi 
+road to Batlaguntu)
+10.300608
+77.769753
+Debris
+Slide
+NA
+27177
+TN/COI/58F03/2017/135
+Tamil Nadu
+Coimbatore
+ 
+China Kallar colony
+10.301
+77.020722
+Debris
+Slide
+NA
+27178
+TN/COI/58F03/2017/134
+Tamil Nadu
+Coimbatore
+ 
+China Kallar colony
+10.301111
+77.020861
+Debris
+Slide
+NA
+27179
+TN/COI/58B15/2017/5
+Tamil Nadu
+Coimbatore
+ 
+Sholayar 1st Division Tea Estate 10.301278
+76.949597
+Rock
+Fall
+NA
+27180
+TN/COI/58B15/2017/119
+Tamil Nadu
+Coimbatore
+ 
+Road from Malakkaparai to 
+Chalakudi
+10.301614
+76.783903
+Rock
+Topple
+NA
+27181
+TN/ANN/58F11/2016/47
+Tamil Nadu
+Dindigul
+ 
+Periyur  to Pachalur Road
+10.302667
+77.712683
+Earth
+Slide
+NA
+27182
+TN/ANN/58F15/2016/1
+Tamil Nadu
+Dindigul
+ 
+Meenachi oothu to Batalguntu 
+road
+10.302983
+77.757842
+Debris
+Slide
+NA
+27183
+TN/ANN/58F15/2016/2
+Tamil Nadu
+Dindigul
+ 
+Batalguntu road ( Thandikudi 
+road to Batlaguntu)
+10.30335
+77.763042
+Debris
+Slide
+NA
+27184
+TN/COI/58B15/2017/99
+Tamil Nadu
+Coimbatore
+N/A
+N/A
+10.304078
+76.867225
+Rock cum debris
+Slide
+NA
+27185
+TN/COI/58B15/2017/100
+Tamil Nadu
+Coimbatore
+ 
+Road from Kalyanapandal to 
+Sholaiyarnagar
+10.304292
+76.86725
+Soil
+Slide
+NA
+27186
+TN/COI/58B15/2017/98
+Tamil Nadu
+Coimbatore
+ 
+Road from Murugali to 
+Kalyanapandal
+10.3056
+76.8584
+Debris
+Slide
+NA
+27187
+TN/COI/58B15/2017/2
+Tamil Nadu
+Coimbatore
+ 
+Sholayar 1st Division Tea Estate 10.305747
+76.943708
+Soil
+Slide
+NA
+27188
+TN/ANN/58F11/2016/28
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Palani
+10.306172
+77.554861
+Earth
+Slide
+NA
+27189
+TN/COI/58B15/2017/1
+Tamil Nadu
+Coimbatore
+ 
+Sholayar 1st Division Tea Estate 10.307786
+76.947572
+Soil
+Slide
+NA
+27190
+TN/COI/58B15/2017/77
+Tamil Nadu
+Coimbatore
+ 
+Road from Vellimalai to 
+Sirukundra
+10.309331
+76.978678
+Debris
+Slide
+NA
+27191
+TN/COI/58B15/2017/79
+Tamil Nadu
+Coimbatore
+ 
+Road Korangamudi village to 
+Monica Estate
+10.309508
+76.910206
+Debris
+Slide
+NA

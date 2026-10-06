@@ -1,0 +1,491 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27469
+TN/NIL/58A11/2015-16/111
+Tamil Nadu
+Nilgiri
+ 
+Kothi Ben C.No: 24/2 towards 
+Devashola
+11.296111
+76.679444
+Debris
+Slide
+NA
+27470
+TN/NIL/58A11/2015-16/112
+Tamil Nadu
+Nilgiri
+ 
+Rock Land, PC.No:21/5
+11.302222
+76.688611
+Debris
+Slide
+NA
+27471
+TN/NIL/58A11/2015-16/100
+Tamil Nadu
+Nilgiri
+ 
+Kanneri to Yedakad village
+11.302222
+76.647778
+Debris
+Slide
+NA
+27472
+TN/NIL/58A11/2015-16/113
+Tamil Nadu
+Nilgiri
+ 
+Rock Land to Devashola
+11.3025
+76.69
+Debris
+Slide
+NA
+27473
+TN/NIL/58A11/2015-16/122
+Tamil Nadu
+Nilgiri
+ 
+MS.No:25/2, Kilinchada towards 
+Kolakombai
+11.302778
+76.745833
+Debris
+Slide
+NA
+27474
+TN/NIL/58A11/2015-16/133
+Tamil Nadu
+Nilgiri
+ 
+Alhada Valley Tea Estate
+11.303611
+76.731667
+Debris
+Slide
+NA
+27475
+TN/NIL/58A11/2015-16/91
+Tamil Nadu
+Nilgiri
+ 
+Gandhi Puthur to Kunda 
+Kotagiri, PC.No: 22/4
+11.303889
+76.631944
+Debris
+Slide
+NA
+27476
+TN/NIL/58A15/2015-16/312
+Tamil Nadu
+Nilgiri
+ 
+North of Thangadu
+11.304167
+76.681944
+Debris
+Slide
+NA
+27477
+TN/NIL/58A11/2015-16/90
+Tamil Nadu
+Nilgiri
+ 
+Gandhi Puthur MS.No:  66/2
+11.305278
+76.626111
+Debris
+Subsidence
+NA
+27478
+TN/NIL/58A11/2015-16/99
+Tamil Nadu
+Nilgiri
+ 
+Kanneri to Yedakad village
+11.308333
+76.653056
+Debris
+Slide
+NA
+27479
+TN/NIL/58A11/2015-16/103
+Tamil Nadu
+Nilgiri
+ 
+PC.No:19/2, Emarald towards 
+Yedakad
+11.308333
+76.623611
+Debris
+Slide
+NA
+27480
+TN/NIL/58A11/2015-16/123
+Tamil Nadu
+Nilgiri
+ 
+2 Km SE of Hulikal village
+11.309722
+76.748611
+Earth
+Slide
+NA
+27481
+TN/NIL/58A11/2015-16/98
+Tamil Nadu
+Nilgiri
+ 
+Kanneri to Yedakad village
+11.309722
+76.6575
+Earth
+Slide
+NA
+27482
+TN/NIL/58A11/2015-16/102
+Tamil Nadu
+Nilgiri
+ 
+Tangadu village
+11.310278
+76.642778
+Debris
+Slide
+NA
+27483
+TN/NIL/58A11/2015-16/97
+Tamil Nadu
+Nilgiri
+ 
+Mandanai village
+11.310556
+76.661944
+Debris
+Slide
+NA
+27484
+TN/NIL/58A11/2015-16/135
+Tamil Nadu
+Nilgiri
+ 
+Kaichola to Devashola village
+11.311667
+76.691111
+Debris
+Slide
+NA
+27485
+TN/NIL/58A11/2015-16/96
+Tamil Nadu
+Nilgiri
+ 
+T.Oranali,HPB.No: 2/9
+11.311667
+76.661944
+Debris
+Slide
+NA
+27486
+TN/NIL/58A11/2015-16/78
+Tamil Nadu
+Nilgiri
+ 
+Emarald village
+11.311944
+76.625556
+Earth
+Slide
+NA
+27487
+TN/NIL/58A11/2015-16/134
+Tamil Nadu
+Nilgiri
+ 
+Kaichola village
+11.311944
+76.698056
+Debris
+Slide
+NA
+27488
+TN/NIL/58A11/2015-16/132
+Tamil Nadu
+Nilgiri
+ 
+Kunnakambe Village
+11.312778
+76.712222
+Debris
+Slide
+NA
+27489
+TN/NIL/58A11/2015-16/340
+Tamil Nadu
+Nilgiri
+ 
+Sillahalla
+11.313611
+76.648333
+Debris
+Slide
+NA
+27490
+TN/NIL/58A11/2015-16/339
+Tamil Nadu
+Nilgiri
+ 
+Sillahalla
+11.313889
+76.650278
+Debris
+Slide
+NA
+27491
+TN/NIL/58A11/2015-16/341
+Tamil Nadu
+Nilgiri
+ 
+Sillahalla
+11.313889
+76.648611
+Debris
+Slide
+NA
+27492
+TN/NIL/58A11/2015-16/342
+Tamil Nadu
+Nilgiri
+ 
+Sillahalla
+11.314444
+76.648333
+Debris
+Slide
+NA
+27493
+TN/NIL/58A15/2015-16/287
+Tamil Nadu
+Nilgiri
+ 
+Sillahalla
+11.31472
+76.64861
+Debris
+Slide
+NA
+27494
+TN/NIL/58A11/2015-16/138
+Tamil Nadu
+Nilgiri
+ 
+Devashola village
+11.314722
+76.686944
+Debris
+Subsidence
+NA
+27495
+TN/NIL/58A11/2015-16/338
+Tamil Nadu
+Nilgiri
+ 
+Sillahalla
+11.315556
+76.65
+Debris
+Slide
+NA
+27496
+TN/NIL/58A11/2015-16/160
+Tamil Nadu
+Nilgiri
+ 
+Emarald village
+11.315833
+76.622222
+Debris
+Slide
+NA
+27497
+TN/NIL/58A11/2015-16/136
+Tamil Nadu
+Nilgiri
+ 
+Kaichola to Devashola village
+11.316389
+76.688333
+Debris
+Slide
+NA
+27498
+TN/NIL/58A11/2015-16/137
+Tamil Nadu
+Nilgiri
+ 
+Devashola village
+11.316389
+76.688333
+Debris
+Slide
+NA
+27499
+TN/NIL/58A11/2015-16/139
+Tamil Nadu
+Nilgiri
+ 
+Devashola village
+11.3175
+76.69
+Debris
+Slide
+NA
+27500
+TN/NIL/58A11/2015-16/141
+Tamil Nadu
+Nilgiri
+ 
+Devashola village
+11.3175
+76.690833
+Debris
+Slide
+NA
+27501
+TN/NIL/58A11/2015-16/75
+Tamil Nadu
+Nilgiri
+ 
+Emarald to Avalanche, 
+MS.No:17/4
+11.318333
+76.624444
+Debris
+Slide
+NA
+27502
+TN/NIL/58A11/2015-16/149
+Tamil Nadu
+Nilgiri
+ 
+Devashola village
+11.318333
+76.691111
+Debris
+Subsidence
+NA
+27503
+TN/NIL/58A15/2015-16/313
+Tamil Nadu
+Nilgiri
+ 
+HPB.No: 1/8, Thangadu to 
+Kathadimattam
+11.318333
+76.678611
+Debris
+Slide
+NA
+27504
+TN/NIL/58A11/2015-16/95
+Tamil Nadu
+Nilgiri
+ 
+Tangadu village
+11.318611
+76.663889
+Debris
+Slide
+NA
+27505
+TN/NIL/58A11/2015-16/94
+Tamil Nadu
+Nilgiri
+ 
+Tangadu village
+11.318889
+76.666389
+Earth
+Slide
+NA
+27506
+TN/NIL/58A11/2015-16/77
+Tamil Nadu
+Nilgiri
+ 
+Emarald village
+11.319444
+76.622222
+Debris
+Slide
+NA
+27507
+TN/NIL/58A15/2015-16/314
+Tamil Nadu
+Nilgiri
+ 
+Thangadu to Kathadimattam
+11.319722
+76.680278
+Debris
+Slide
+NA
+27508
+TN/NIL/58A11/2015-16/131
+Tamil Nadu
+Nilgiri
+ 
+Sunny Dale Tea Estate
+11.320833
+76.726389
+Debris
+Slide
+NA
+27509
+TN/NIL/58A11/2015-16/128
+Tamil Nadu
+Nilgiri
+ 
+2.5 km ESE of Koderi village
+11.320833
+76.726389
+Debris
+Slide
+NA
+27510
+TN/NIL/58A11/2015-16/118
+Tamil Nadu
+Nilgiri
+ 
+Selas village
+11.321111
+76.75
+Debris
+Slide
+NA
+27511
+TN/NIL/58A11/2015-16/129
+Tamil Nadu
+Nilgiri
+ 
+Kanthala towards Kundha
+11.321667
+76.726389
+Debris
+Slide
+NA

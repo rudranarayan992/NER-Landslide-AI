@@ -1,0 +1,519 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11773
+KA/SHI/48O02/2020/41
+Karnataka
+Shimoga
+Nabala village
+Nabala village
+13.55
+75.16
+Debris
+Slide
+NA
+11774
+KA/SHI/48O02/2020/45
+Karnataka
+Chikmagalur
+NH-169, Agumbe road
+Agumbe-Guddekere road
+13.55
+75.12
+Debris
+Slide
+NA
+11775
+KA/SHI/48O06/2020/44
+Karnataka
+Chikmagalur
+Koppa road near Kudregundi
+Kudregundi
+13.55
+75.43
+Debris
+Slide
+NA
+11776
+KA/SHI/48O02/2020/48
+Karnataka
+Shimoga
+Kundadi Gudda
+Kundadi Gudda
+13.56
+75.17
+Rock
+Slide
+NA
+11777
+KA/SHI/48O06/2020/18
+Karnataka
+Shimoga
+Mel koppa
+Mel koppa
+13.57
+75.3
+Debris
+Slide
+NA
+11778
+KA/SHI/48O06/2020/19
+Karnataka
+Shimoga
+Mel koppa
+Mel koppa- Angadimane
+13.57
+75.29
+Debris
+Slide
+NA
+11779
+KA/SHI/48O02/2020/40
+Karnataka
+Shimoga
+Hasakere village area
+Gadikallu-Koppa road
+13.57
+75.33
+Debris
+Slide
+NA
+11780
+KA/SHI/48O06/2020/32
+Karnataka
+Shimoga
+Ajaravalli village
+Ajaravalli village
+13.57
+75.41
+Debris
+Slide
+NA
+11781
+KA/SHI/48O02/2020/50
+Karnataka
+Shimoga
+Kumberkoppa
+NH-169, Koppa Road
+13.57
+75.33
+Debris
+Slide
+NA
+11782
+KA/SHI/48O06/2020/6
+Karnataka
+Shimoga
+Ganapatikatte
+Devangi- Ganapatikatte road
+13.58
+75.31
+Debris
+Slide
+NA
+11783
+KA/SHI/48O06/2020/7
+Karnataka
+Shimoga
+Ganapatikatte
+Ganapatikatte
+13.58
+75.31
+Debris
+Slide
+NA
+11784
+KA/SHI/48O06/2020/8
+Karnataka
+Shimoga
+Ganapatikatte
+Ganapatikatte
+13.58
+75.31
+Debris
+Slide
+NA
+11785
+KA/SHI/48O06/2020/22
+Karnataka
+Shimoga
+Gunavanti
+Gunavanti
+13.59
+75.37
+Debris
+Slide
+NA
+11786
+KA/SHI/48O06/2020/23
+Karnataka
+Shimoga
+Urumakki village
+Gunavati-Golikoppa road 
+section
+13.59
+75.36
+Debris
+Slide
+NA
+11787
+KA/SHI/48O06/2020/24
+Karnataka
+Shimoga
+Urumakki village
+Urumakki village
+13.59
+75.36
+Debris
+Slide
+NA
+11788
+KA/SHI/48O06/2020/25
+Karnataka
+Shimoga
+North of Gunavanti
+South of Golikoppa
+13.59
+75.36
+Debris
+Slide
+NA
+11789
+KA/SHI/48O06/2020/58
+Karnataka
+Shimoga
+Arkilli village
+Arkilli village
+13.59
+75.45
+Debris
+Slide
+NA
+11790
+KA/SHI/48O06/2020/59
+Karnataka
+Shimoga
+Edigere village
+Edigere village
+13.59
+75.41
+Debris
+Slide
+NA
+11791
+KA/SHI/48O02/2020/49
+Karnataka
+Shimoga
+NH-169, Koppa Road
+Hire Kodagi
+13.59
+75.32
+Debris
+Slide
+NA
+11792
+KA/SHI/48O06/2020/9
+Karnataka
+Shimoga
+Nagaravalli
+Gadikallu-Nagaravalli
+13.6
+75.33
+Debris
+Slide
+NA
+11793
+KA/SHI/48O06/2020/12
+Karnataka
+Shimoga
+West of Kalgudge village
+West of Kalgudge
+13.6
+75.3
+Debris
+Slide
+NA
+11794
+KA/SHI/48O06/2020/13
+Karnataka
+Shimoga
+Chakkodi
+Kalgudge-Basavani road section 13.6
+75.28
+Debris
+Slide
+NA
+11795
+KA/SHI/48O06/2020/54
+Karnataka
+Chikmagalur
+South of Kalgudge Village/Koppa road South of Kalgudge Village
+13.6
+75.31
+Debris
+Slide
+NA
+11796
+KA/SHI/48O06/2020/10
+Karnataka
+Shimoga
+2 km north of Nagaravalli
+Gadikallu-Nagaravalli
+13.61
+75.33
+Debris
+Slide
+NA
+11797
+KA/SHI/48O06/2020/11
+Karnataka
+Shimoga
+2 km South of Herambapur
+Ganapatikatte-Gadikallu road 
+section
+13.62
+75.33
+Debris
+Slide
+NA
+11798
+KA/SHI/48O06/2020/14
+Karnataka
+Shimoga
+Madagere village
+Madagere village
+13.62
+75.26
+Debris
+Slide
+NA
+11799
+KA/SHI/48O06/2020/15
+Karnataka
+Shimoga
+West of Madagere village
+West of Madagere village
+13.62
+75.26
+Debris
+Slide
+NA
+11800
+KA/SHI/48O06/2020/16
+Karnataka
+Shimoga
+West of Madagere village
+West of Madagere village
+13.62
+75.26
+Debris
+Slide
+NA
+11801
+KA/SHI/48O06/2020/17
+Karnataka
+Shimoga
+South of Andagere village
+South of Andagere village
+13.62
+75.27
+Debris
+Slide
+NA
+11802
+KA/SHI/48O06/2020/33
+Karnataka
+Shimoga
+Kargese village
+Kargese village
+13.62
+75.38
+Debris
+Slide
+NA
+11803
+KA/SHI/48O06/2020/34
+Karnataka
+Shimoga
+Kargese village
+Kargese village
+13.62
+75.37
+Debris
+Slide
+NA
+11804
+KA/SHI/48O06/2020/55
+Karnataka
+Chikmagalur
+Koppa road NH-169
+North of Hilikere Village
+13.62
+75.29
+Debris
+Slide
+NA
+11805
+KA/SHI/48O06/2020/5
+Karnataka
+Shimoga
+Kampanakodagi
+Devangi road
+13.63
+75.28
+Debris
+Slump
+NA
+11806
+KA/SHI/48O02/2020/34
+Karnataka
+Shimoga
+Annavalli village
+Annavalli village
+13.63
+75.15
+Debris
+Slide
+NA
+11807
+KA/SHI/48O02/2020/35
+Karnataka
+Shimoga
+South of Annavalli village
+South of  Annavalli village
+13.63
+75.15
+Debris
+Slide
+NA
+11808
+KA/SHI/48O06/2020/56
+Karnataka
+Chikmagalur
+Koppa road NH-169
+North of Hilikere Village
+13.63
+75.29
+Debris
+Slide
+NA
+11809
+KA/SHI/48O02/2020/22
+Karnataka
+Shimoga
+East of Suranakodagi village
+Suranakodagi village
+13.64
+75.3
+Debris
+Slide
+NA
+11810
+KA/SHI/48O02/2020/36
+Karnataka
+Shimoga
+Karunepura village
+Karunepura village
+13.64
+75.14
+Debris
+Slide
+NA
+11811
+KA/SHI/48O02/2020/39
+Karnataka
+Shimoga
+Hansa village
+Hansa village
+13.64
+75.13
+Debris
+Slide
+NA
+11812
+KA/SHI/48O02/2020/47
+Karnataka
+Shimoga
+South of Hukkalbailu village
+South of Hukkalbailu village
+13.64
+75.22
+Debris
+Slide
+NA
+11813
+KA/SHI/48O06/2020/57
+Karnataka
+Shimoga
+Ganapatikatte village
+1.8km from Ganapatikatte 
+village
+13.65
+75.32
+Debris
+Slide
+NA
+11814
+KA/SHI/48O02/2020/2
+Karnataka
+Shimoga
+Kuruvalli- Komane road section
+Talabi Village
+13.66
+75.22
+Debris
+Slide
+NA
+11815
+KA/SHI/48O02/2020/23
+Karnataka
+Shimoga
+Lakshmipur village
+Lakshmipur village
+13.66
+75.28
+Debris
+Slide
+NA
+11816
+KA/SHI/48O02/2020/37
+Karnataka
+Shimoga
+Dinda village
+Dinda village
+13.66
+75.14
+Debris
+Slide
+NA
+11817
+KA/SHI/48O02/2020/38
+Karnataka
+Shimoga
+North of Dinda village
+North of Dinda village
+13.66
+75.14
+Debris
+Slide
+NA
+11818
+KA/SHI/48O06/2020/43
+Karnataka
+Chikmagalur
+West of Banagi village
+West of Banagi village
+13.66
+75.47
+Debris
+Slide
+NA

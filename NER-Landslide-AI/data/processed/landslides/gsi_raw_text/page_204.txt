@@ -1,0 +1,413 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+8636
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+---
+Banal village
+31.789722
+76.754722
+Debris
+Slide/Subsidenc
+e
+14 August 2023 (Morning)
+8637
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+---
+Riyur village
+31.782631
+76.755115
+Debris
+Slide/Subsidenc
+e
+14 August 2023 (Morning)
+8638
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+---
+Near Kamksha Devi Temple, 
+Didnu road
+31.78222222
+76.75055556
+Debris
+Slide/Subsidenc
+e
+14 August 2023
+8639
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+---
+Didnu road
+31.781418
+76.756217
+Debris
+Slide
+14 August 2023
+8640
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+Didnu Debris Slide
+Didnu road
+31.78
+76.77055
+Debris
+Slide
+14 August 2023
+8641
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+Baral Slide
+Baral Village, Riyur-Baroti Road
+31.78083
+76.77722
+Debris
+Slide/Subsidenc
+e
+14 August 2023
+8642
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+---
+Near PWD Guest house, Baroti
+31.78527778
+76.78305556
+Debris
+Slide
+14 August 2023
+8643
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+Maloh Slide
+Maloh Village, NH-03
+31.79611
+76.785
+Debris
+Slide/Subsidenc
+e
+14 August 2023
+8644
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+Langerh Slide
+Langerh Village, Baroti-Langerh 
+road.
+31.783611
+76.7825
+Debris
+Slide
+14 August 2023
+8645
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+Brahma Falad Slide
+Brahma Falad Village, Mandap 
+road
+31.756241
+76.791823
+Debris
+Slide/Subsidenc
+e
+14 August 2023
+8646
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+Chanauta Slide
+Chanauta Village
+31.75833
+76.773055
+Debris
+subsidence
+14 August 2023
+8647
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+Bhadyar Slide
+Chhatter Road
+31.76694
+76.7675
+Debris
+Slide
+14 August 2023
+8648
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+---
+Bhadyar Road
+31.7675
+76.76527
+Debris
+Slide
+14 August 2023
+8649
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+Brang slide
+Brang village, Bhadyar Road
+31.761944
+76.768333
+Debris
+Slide
+14 August 2023
+8650
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+Bhadyar slide
+Bhadyar village
+31.76722
+76.77583
+Debris
+Slide
+14 August 2023
+8651
+HP/MAN/53A15/2023/
+Himachal Pradesh
+Mandi
+Phagwaon slide
+Phagwaon village, Kaleru road
+31.480833
+76.963333
+Debris
+Slide/Subsidenc
+e
+14 August 2023 (Morning)
+8652
+HP/MAN/53A15/2023/
+Himachal Pradesh
+Mandi
+Doldhar slide
+Doldhar village
+31.466111
+76.944166
+Debris
+Slide/Subsidenc
+e
+14 August 2023 (Morning)
+8653
+HP/Solan/53F01/2023/01
+Himachal Pradesh
+Solan
+Shamti Slide
+Along Solan-Rajgarh Link Road
+30.88944444
+77.10583333
+Debris
+Subsidence
+NA
+8654
+H.P./SOL/53B13/2023/02
+Himachal Pradesh
+Solan
+Chaki Morh Slide RD 71+300 to 
+71+420
+NH-05/ RD: 71+300 to 
+71+420/Chakki Morh
+30.85222222
+76.99861111
+Debris
+Slide
+NA
+8655
+H.P./SHIMLA/53EO4/2023/03
+Himachal Pradesh
+SHIMLA
+Shiv Mandir, Summer Hill slide
+Summer Hill, Shimla
+31.10416667
+77.14
+Debris
+Slide
+NA
+8656
+H.P./SHIMLA/53EO4/2023/04
+Himachal Pradesh
+SHIMLA
+Krishna Nagar Slide
+Krishna Nagar, Shimla adjoining 
+NH-05
+30.10138889
+77.17055556
+Debris
+Slide
+NA
+8657
+H.P./SHIMLA/53E04/2023/05
+Himachal Pradesh
+Shimla
+Himland
+Cart Road, opposite to HPSIDC 
+building
+31.09527778
+77.17333333
+Debris
+Slide
+14 August,2023
+8658
+H.P./Bilaspur/53A15/2023/06
+Himachal Pradesh
+Bilaspur
+AIIMS Bilaspur Slide
+NH 205
+31.28805556
+76.78472222
+Debris
+Slide
+NA
+8659
+HP/SOL/53B13/2023/
+Himachal Pradesh
+Solan
+Subathu Slide
+Dharampur-Subathu Road
+30.970355
+76.992139
+Debris
+Slide
+14 August 2023
+8660
+HP/Man-kul/2024/1
+Himachal Pradesh
+Mandi
+Kun
+NH-03
+31.45066667
+76.85385278
+Debris
+Slide
+2018, 14 August 2023
+8661
+HP/Man-kul/2024/2
+Himachal Pradesh
+Kullu
+Banala
+NH-03
+31.759575
+77.20756667
+Rock
+Fall
+2010, 11 July 2023
+8662
+HP/Man-kul/2024/3
+Himachal Pradesh
+Kullu
+Panarsa
+NH-03
+31.77500833
+77.19483611
+Debris
+Slide
+2018, 11 July 2023
+8663
+HP/Man-kul/2024/2
+Himachal Pradesh
+Kullu
+Jhiri
+NH-03
+31.8254
+77.17297778
+Rock
+Fall
+2010, 08 July 2023
+8664
+HP/Man-kul/2024/5
+Himachal Pradesh
+Kullu
+Rhuadu-Garsa
+NH-03
+31.85661111
+77.16758056
+Debris
+Slide
+2018,11 July 2023
+8665
+HP/Man-kul/2024/6
+Himachal Pradesh
+Kullu
+Seobagh
+NH-03
+31.99953056
+77.1265
+Debris
+Slide
+11 July 2023
+8666
+HP/Man-kul/2024/6
+Himachal Pradesh
+Kullu
+15- Mile
+NH-03
+31.71223611
+77.31291389
+Debris
+Slide
+08 July 2023
+8667
+HP/Man-kul/2024/6
+Himachal Pradesh
+Kullu
+Kalath
+NH-03
+32.18584167
+77.18534167
+Debris
+Slide
+08 July 2023
+8668
+HP/Man-kul/2024/6
+Himachal Pradesh
+Kullu
+Volvo Bus Stand
+NH-03
+32.23295833
+77.1874
+Debris
+Slide
+08 July 2023
+8669
+HP/MAN/53A14/2024/
+Himachal Pradesh
+Mandi
+Glory Church Slide (Chainage 
+165+090)
+NH-03, Garhan
+31.50055556
+76.87336389
+Debris
+Slide
+NA
+8670
+HP/MAN/53E02/2024/
+Himachal Pradesh
+Mandi
+Garhan Slide (Chainage 204+200)
+NH-03, Garhan
+31.72176667
+77.010675
+Rock
+Slide
+NA

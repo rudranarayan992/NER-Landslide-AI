@@ -1,0 +1,450 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20030
+ME/EKJ/78O15/2015/67
+Meghalaya
+East Khasi Hills
+ 
+Shillong-Sohra road
+25.398345
+91.769704
+Debris
+Slide
+NA
+20031
+ME/EKJ/78O15/2015/86
+Meghalaya
+East Khasi Hills
+ 
+ 
+25.39897
+91.993367
+Debris
+Slide
+NA
+20032
+ME/WJH/883C03/2015/196
+Meghalaya
+West Jaintia Hills
+ 
+1.5km E of Mynriah
+25.400194
+92.015731
+Rock
+Slide
+NA
+20033
+MEGH/WKH/78O11/2007/D-14 Meghalaya
+West Khasi Hills
+Jakrem East slide
+ 
+25.40023
+91.5159
+Debris
+Slide
+16 June 2007
+20034
+MG/SGH/78K11/2018/3
+Meghalaya
+South Garo hills
+Nengkhra-Nongalbibra road slide
+NH-62
+25.40121
+90.71722
+Debris
+Slide
+NA
+20035
+MEGH/WKH/78O07/2007/D-4
+Meghalaya
+West Khasi Hills
+Mawthawiang slide
+ 
+25.4013
+91.45855
+Debris
+Slide
+18 August 2007
+20036
+MG/SGH/78K11/2018/7
+Meghalaya
+South Garo hills
+Nengkhra-Nongalbibra road slide
+NH-62
+25.403061
+90.724166
+Debris
+Slide
+18 August 2007
+20037
+MEGH/WKH/78O07/2007/D-5
+Meghalaya
+West Khasi Hills
+Umjarain East slide
+ 
+25.40547
+91.53712
+Rock cum Debris
+Slide
+18 August 2007
+20038
+ME/EKJ/78O15/2015/87
+Meghalaya
+East Khasi Hills
+ 
+lyngshing approach road
+25.407917
+91.998889
+Rock
+Fall
+18 August 2007
+20039
+ME/EKJ/78O15/2015/68
+Meghalaya
+East Khasi Hills
+ 
+Shillong-Sohra road
+25.408236
+91.778704
+Debris
+Slide
+NA
+20040
+MEGH/EKH/78O15/2008/D-57
+Meghalaya
+East Khasi Hills
+Mawkajem-4 slide
+ 
+25.413306
+91.871139
+Rock
+Slide
+NA
+20041
+ME/EKJ/78O15/2015/60
+Meghalaya
+East Khasi Hills
+ 
+NH- 40
+25.415438
+91.867487
+Rock
+Slide
+NA
+20042
+MG/SWKH/78K15/2018/2
+Meghalaya
+South West Khasi  Hills
+South of Wakpangram
+NULL
+25.416456
+90.802981
+Debris
+Slide
+NA
+20043
+MEGH/JH/83C07/2009/D-28
+Meghalaya
+Jaintia Hills
+Kongong slide
+NH-44 (Shillong - Silchar)
+25.42142
+92.28894
+Debris
+Slide
+NA
+20044
+MEGH/EKH/78O15/2008/D-58
+Meghalaya
+East Khasi Hills
+Mawkajem-5 slide
+ 
+25.422194
+91.869222
+Rock
+Slide
+NA
+20045
+MG/EKH/78O11/2017/7
+Meghalaya
+East Khasi Hills
+ 
+ShillongMawsynram road
+25.423674
+91.721317
+Debris
+Slide
+NA
+20046
+ME/EKJ/78O15/2015/76
+Meghalaya
+East Khasi Hills
+ 
+NH 40 (Shillong-Pynursla road)
+25.423839
+91.862729
+Debris
+Slide
+NA
+20047
+MEGH/WKH/78O07/2007/D-3
+Meghalaya
+West Khasi Hills
+Laitlawsnai slide
+ 
+25.425
+91.405
+Debris
+Slide
+18 August 2007
+20048
+MEGH/EKH/78O15/2008/D-59
+Meghalaya
+East Khasi Hills
+Mawkajem-6 slide
+ 
+25.425944
+91.866
+Rock
+Slide
+NA
+20049
+ME/WJH/83C03/2015/168
+Meghalaya
+West Jaintia Hills
+ 
+2 km SW of Jowai
+25.426194
+92.180472
+Rock
+Slide
+NA
+20050
+ME/WJH/83C03/2015/169
+Meghalaya
+West Jaintia Hills
+ 
+2.5 km SW of Jowai
+25.426306
+92.181278
+Debris
+Slide
+NA
+20051
+ME/WJH/83C03/2015/167
+Meghalaya
+West Jaintia Hills
+ 
+1.5 km SW of Jowai
+25.430111
+92.182167
+Rock
+Slide
+NA
+20052
+MEGH/EKH/78O15/2008/D-60
+Meghalaya
+East Khasi Hills
+Kongong slide
+ 
+25.430167
+91.866528
+Rock
+Slide
+Mar-09
+20053
+ME/WJH/83C03/2015/165
+Meghalaya
+West Jaintia Hills
+ 
+ 
+25.434972
+92.18425
+Debris
+Slide
+NA
+20054
+ME/WJH/83C03/2015/166
+Meghalaya
+West Jaintia Hills
+ 
+1.2 km SW of Jowai
+25.435167
+92.185006
+Debris
+Slide
+NA
+20055
+MEGH/JH/78O15/2009/D-36
+Meghalaya
+Jaintia Hills
+Laitlongkot slide
+NH-40 (Shillong-Pynursla)
+25.43561
+91.862056
+Debris
+Slide
+17 July 2009
+20056
+MG/WKH/78O03/2017/10
+Meghalaya
+West Khasi Hills
+0.3 km SSW of Nongraingap
+Maweit  Nongraingap road
+25.436306
+91.050361
+Debris
+Slide
+NA
+20057
+MG/WKH/78O03/2017/9
+Meghalaya
+West Khasi Hills
+Nongraingap
+Maweit  Nongraingap road
+25.436706
+91.051053
+Debris
+Slide
+NA
+20058
+MG/WKH/78O03/2017/8
+Meghalaya
+West Khasi Hills
+Maweit
+Maweit  Nongraingap road
+25.436875
+91.06105
+Debris
+Slide
+NA
+20059
+ME/EKJ/78O15/2015/77
+Meghalaya
+East Khasi Hills
+ 
+NH 40 (Shillong-Pynursla road)
+25.437036
+91.857168
+Debris
+Slide
+NA
+20060
+ME/EKJ/78O15/2015/141
+Meghalaya
+East Khasi Hills
+ 
+1.5 km SE of Lum Thangding
+25.438495
+91.862917
+Rock
+Slide
+NA
+20061
+ME/WJH/83C03/2015/145
+Meghalaya
+West Jaintia Hills
+ 
+0.5 km W of Jowai
+25.439833
+92.181333
+Debris
+Slide
+NA
+20062
+ME/WJH/883C03/2015/195
+Meghalaya
+West Jaintia Hills
+ 
+ 
+25.439889
+92.181083
+Debris
+Slide
+NA
+20063
+MG/SWKH/78K15/2018/1
+Meghalaya
+South West Khasi  Hills
+West of Riangud
+NULL
+25.440153
+90.881372
+Debris
+Slide
+NA
+20064
+MEGH/WKH/78O07/2007/D-13 Meghalaya
+West Khasi Hills
+Mawpon slide
+ 
+25.44465
+91.34622
+Debris
+Slide
+17 July 2007
+20065
+MG/EKH/78O11/2017/6
+Meghalaya
+East Khasi Hills
+ 
+ShillongMawsynram road
+25.446933
+91.742919
+Rock
+Slide
+NA
+20066
+MEGH/JH/83C03/2009/D-29
+Meghalaya
+Jaintia Hills
+Jowai slide
+NH-44 along Shillong - Jowai
+25.44889
+92.19417
+Rock cum Debris
+Slide
+March 2009
+20067
+ME/EKJ/78O15/2015/88
+Meghalaya
+East Khasi Hills
+ 
+ 
+25.449349
+91.817118
+Debris
+Slide
+NA
+20068
+ME/WJH/83C03/2015/172
+Meghalaya
+West Jaintia Hills
+ 
+ 
+25.450464
+92.095806
+Debris
+Slide
+NA
+20069
+ME/EKJ/78O15/2015/69
+Meghalaya
+East Khasi Hills
+ 
+Shillong-Sohra road
+25.450628
+91.817767
+Debris
+Slide
+2015

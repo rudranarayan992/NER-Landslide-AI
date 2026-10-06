@@ -1,0 +1,543 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+25650
+NG/MON/83N2/2017/29
+Nagaland
+Mon
+ 
+Near Longwa
+26.666917
+95.203583
+Soil
+Slide
+NA
+25651
+NG/MOK/83J10/2017/25
+Nagaland
+Mokokchung
+ 
+TuliMolungkimong rd.
+26.66725
+94.614028
+Rock
+Slide
+NA
+25652
+NG/MOK/83J10/2017/3
+Nagaland
+Mokokchung
+ 
+Tamlu village
+26.673278
+94.743833
+Soil
+Slide
+NA
+25653
+NG/MOK/83J10/2017/6
+Nagaland
+Mokokchung
+ 
+Tamlu village
+26.673639
+94.744139
+Soil
+Slide
+NA
+25654
+NG/MOK/83J10/2017/4
+Nagaland
+Mokokchung
+ 
+Tamlu village
+26.674139
+94.74625
+Soil
+Slide
+NA
+25655
+NG/MOK/83J10/2017/5
+Nagaland
+Mokokchung
+ 
+Tamlu village
+26.674306
+94.746306
+Soil
+Slide
+NA
+25656
+NG/MON/83N2/2017/31
+Nagaland
+Mon
+ 
+Near Phomching
+26.678833
+95.19475
+Rock
+Slide
+NA
+25657
+NG/MOK/83J10/2017/21
+Nagaland
+Mokokchung
+ 
+Yajang A village
+26.68
+94.534661
+Rock
+Slide
+NA
+25658
+NG/MOK/83J10/2017/10
+Nagaland
+Mokokchung
+ 
+TuliAmguri rd
+26.680722
+94.639306
+Debris
+Slide
+NA
+25659
+NG/MOK/83J10/2017/11
+Nagaland
+Mokokchung
+ 
+TuliAmguri rd
+26.684139
+94.639083
+Debris
+Slide
+NA
+25660
+NG/MOK/83J10/2017/22
+Nagaland
+Mokokchung
+ 
+Yajang A village
+26.686961
+94.544
+Rock
+Slide
+NA
+25661
+NG/MOK/83J10/2017/23
+Nagaland
+Mokokchung
+ 
+Yajang A village
+26.688831
+94.546019
+Debris
+Slide
+NA
+25662
+NG/MON/83N2/2017/32
+Nagaland
+Mon
+ 
+Near Phomching
+26.693167
+95.17475
+Soil
+Subsidence
+NA
+25663
+NG/MON/83N2/2017/21
+Nagaland
+Mon
+ 
+Near Yuting
+26.694917
+95.07275
+Debris
+Slide
+NA
+25664
+NG/MOK/83J10/2017/12
+Nagaland
+Mokokchung
+ 
+TuliAmguri rd
+26.695194
+94.636194
+Rock
+Slide
+NA
+25665
+NG/MON/83N2/2017/20
+Nagaland
+Mon
+ 
+Near Yuting
+26.697111
+95.077083
+Rock
+Slide
+NA
+25666
+NG/MOK/83J10/2017/13
+Nagaland
+Mokokchung
+ 
+TuliAmguri rd
+26.697833
+94.635056
+Rock
+Slide
+NA
+25667
+NG/MOK/83J10/2017/14
+Nagaland
+Mokokchung
+ 
+TuliAmguri rd
+26.698583
+94.635167
+Rock
+Slide
+NA
+25668
+NG/MON/83N2/2017/22
+Nagaland
+Mon
+ 
+Near Yuting
+26.699056
+95.079417
+Rock
+Slide
+NA
+25669
+NL/MOK/83J10/2014/05
+Nagaland
+Mokokchung
+Wameken
+State Highway (Tuli - Wameken 
+– Kangtsung - Anaki road)
+26.70069
+94.64383
+Rock cum Debris
+Slide
+11-08-2013
+25670
+NG/MOK/83J10/2017/15
+Nagaland
+Mokokchung
+ 
+TuliAmguri rd
+26.701222
+94.635083
+Debris
+Slide
+NA
+25671
+NG/MON/83N2/2017/23
+Nagaland
+Mon
+ 
+Near Yuting
+26.7015
+95.079361
+Debris
+Slide
+NA
+25672
+NG/MOK/83J10/2017/16
+Nagaland
+Mokokchung
+ 
+TuliAmguri rd
+26.703194
+94.633917
+Debris
+Slide
+NA
+25673
+NG/MON/83N2/2017/19
+Nagaland
+Mon
+ 
+Near Yuting
+26.706028
+95.078361
+Debris
+Slide
+NA
+25674
+NG/MON/83N2/2017/38
+Nagaland
+Mon
+ 
+Near Tangnyu
+26.706194
+95.110333
+Debris
+Slide
+NA
+25675
+NG/MOK/83J10/2017/17
+Nagaland
+Mokokchung
+ 
+TuliAmguri rd
+26.706389
+94.631167
+Debris
+Slide
+NA
+25676
+NL/MOK/83J10/2014/06
+Nagaland
+Mokokchung
+Kangtsung-1
+State Highway (Tuli to Anaki 
+road)
+26.70675
+94.70475
+Earth
+Slide
+11 August 2013, around 23:00hrs
+25677
+NL/MOK/83J10/2014/07
+Nagaland
+Mokokchung
+Kangtsung-2
+State Highway (Tuli to Anaki 
+road)
+26.70744
+94.70858
+Earth
+Slide
+11 August 2013, around 23:00hrs
+25678
+NG/MON/83N2/2017/67
+Nagaland
+Mon
+ 
+Near Mon Town
+26.710611
+95.020278
+Debris
+Slide
+NA
+25679
+NG/MON/83N2/2017/9
+Nagaland
+Mon
+ 
+Near Mon Town
+26.711222
+95.074222
+Debris
+Slide
+NA
+25680
+NG/MON/83N2/2017/70
+Nagaland
+Mon
+ 
+Near Mon Town
+26.71125
+95.016722
+Rock
+Slide
+NA
+25681
+NG/MON/83N2/2017/68
+Nagaland
+Mon
+ 
+Near Mon Town
+26.711639
+95.014944
+Debris
+Slide
+NA
+25682
+NG/MON/83N2/2017/69
+Nagaland
+Mon
+ 
+Near Mon Town
+26.712306
+95.012583
+Rock
+Slide
+NA
+25683
+NG/MON/83N2/2017/5
+Nagaland
+Mon
+ 
+Techahan Ward, Mon Town
+26.7175
+95.03125
+Debris
+Slide
+NA
+25684
+NG/MON/83N2/2017/4
+Nagaland
+Mon
+ 
+Techahan Ward, Mon Town
+26.718556
+95.033222
+Soil
+Slide
+NA
+25685
+NG/MOK/83J10/2017/20
+Nagaland
+Mokokchung
+ 
+Anaki C village
+26.719056
+94.657528
+Debris
+Slide
+NA
+25686
+NG/MOK/83J10/2017/19
+Nagaland
+Mokokchung
+ 
+Anaki C village
+26.719417
+94.660667
+Debris
+Slide
+NA
+25687
+NG/MON/83N2/2017/10
+Nagaland
+Mon
+ 
+Near Mon Town
+26.722722
+95.043361
+Soil
+Slide
+NA
+25688
+NG/MON/83N2/2017/16
+Nagaland
+Mon
+ 
+Mon Town
+26.723
+95.029139
+Rock
+Slide
+NA
+25689
+NG/MON/83N2/2017/11
+Nagaland
+Mon
+ 
+Near Mon Town
+26.724278
+95.042833
+Soil
+Slide
+NA
+25690
+NG/MON/83N2/2017/12
+Nagaland
+Mon
+ 
+Near Mon Town
+26.724278
+95.042833
+Soil
+Slide
+NA
+25691
+NG/MON/83N2/2017/6
+Nagaland
+Mon
+ 
+Chingai Ward, Mon Town
+26.724639
+95.031528
+Debris
+Slide
+NA
+25692
+NG/MON/83N2/2017/7
+Nagaland
+Mon
+ 
+Tungpang Ward, Mon Town
+26.724833
+95.025861
+Debris
+Slide
+NA
+25693
+NG/MON/83N2/2017/17
+Nagaland
+Mon
+ 
+Mon Town
+26.725083
+95.023861
+Debris
+Slide
+NA
+25694
+NG/MON/83N2/2017/18
+Nagaland
+Mon
+ 
+Mon Town
+26.725444
+95.022
+Debris
+Slide
+NA
+25695
+NG/MON/83N2/2017/8
+Nagaland
+Mon
+ 
+Thamnan Ward, Mon Town
+26.726667
+95.027278
+Soil
+Slide
+NA
+25696
+NG/MON/83N2/2017/1
+Nagaland
+Mon
+ 
+Chingai Ward, Mon Town
+26.727722
+95.033056
+Debris
+Slide
+NA
+25697
+NG/MON/83N2/2017/13
+Nagaland
+Mon
+ 
+Near Mon Town
+26.727889
+95.040389
+Soil
+Slide
+NA

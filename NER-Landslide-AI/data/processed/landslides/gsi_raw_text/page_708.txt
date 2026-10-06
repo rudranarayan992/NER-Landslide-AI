@@ -1,0 +1,350 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27916
+Tamil 
+Nadu/Coimbatore/58B/15/2018
+/01.
+Tamil Nadu
+Coimbatore
+Slide 01
+SH-78/ Varatuparai
+10.351675
+76.93656111
+Debris
+Slide
+10 June 2018
+27917
+Tamil 
+Nadu/Coimbatore/58B/15/2018
+/02.
+Tamil Nadu
+Coimbatore
+Slide 02
+Sholaiyar dam
+10.30816944
+76.88727222
+Soil/earth
+Slide
+09 June 2018
+27918
+Tamil 
+Nadu/Coimbatore/58B/15/2018
+/03.
+Tamil Nadu
+Coimbatore
+Slide 03
+SH-78/ Valparai
+10.32735278
+76.96034167
+Soil
+Slide
+09 June 2018
+27919
+Tamil 
+Nadu/Coimbatore/58B/15/2018
+/04.
+Tamil Nadu
+Coimbatore
+Slide 04
+SH-78
+10.37085833
+76.99396667
+Soil
+Slide
+09 June 2018
+27920
+Tamil 
+Nadu/Coimbatore/58B/15/2018
+/05
+Tamil Nadu
+Coimbatore
+Slide 05
+SH-78
+10.38453333
+76.99467222
+Soil
+Slide
+10 June 2018
+27921
+Tamil 
+Nadu/Dindigul/58F/11/2018/01
+Tamil Nadu
+Dindigul
+Slide 01
+SH-156
+10.27858333
+77.565575
+Debris
+Slide
+18 November 2018
+27922
+Tamil 
+Nadu/Dindigul/58F/11/2018/02
+Tamil Nadu
+Dindigul
+Slide 02
+Near Kurusadi
+10.27690833
+77.55985833
+Debris
+Flow
+18 November 2018
+27923
+Tamil 
+Nadu/Dindigul/58F/11/2018/03
+Tamil Nadu
+Dindigul
+Slide 03
+SH-156
+10.26785
+77.55747222
+Debris
+Slide
+18 November 2018
+27924
+Tamil 
+Nadu/Dindigul/58F/11/2018/04
+Tamil Nadu
+Dindigul
+Slide 04
+Chinnapalam
+10.26056667
+77.467925
+Debris
+Slide
+18 November 2018
+27925
+Tamil 
+Nadu/Dindigul/58F/7/2018/05
+Tamil Nadu
+Dindigul
+Slide 03
+Road from Chinnapalam to 
+Vilpatti
+10.25370278
+77.47976944
+Debris
+Slide
+18 November 2018
+27926
+TN/NIL/58A/11/2019/01
+Tamil Nadu
+Nilgiri
+Nondimedu cut slope failure
+NH-67, near Nondimedu
+11.40039
+76.71645
+Debris
+Slide
+16 November 2019
+27927
+TN/NIL/58A/11/2019/02
+Tamil Nadu
+Nilgiri
+NH-67 debris flow
+NH-67
+11.39668
+76.71731
+Debris
+Flow
+16 November 2019
+27928
+TN/NIL/58A/11/2019/03
+Tamil Nadu
+Nilgiri
+NH-67 cut slope failure 1
+NH-67
+11.39112
+76.7178
+Debris
+Slide
+16 November 2019
+27929
+TN/NIL/58A/11/2019/04
+Tamil Nadu
+Nilgiri
+NH-67 cut slope failure 2
+NH-67
+11.39108
+76.71756
+Debris
+Slide
+16 November 2019
+27930
+TN/NIL/58A/11/2019/05
+Tamil Nadu
+Nilgiri
+NH-67 cut slope failure 3
+NH-67
+11.39002
+76.71868
+Debris
+Slide
+16 November 2019
+27931
+TN/NIL/58A/11/2019/06
+Tamil Nadu
+Nilgiri
+Manthada road cut slope failure
+Manthada
+11.38885
+76.72575
+Debris
+Slide
+16 November 2019
+27932
+TN/NIL/58A/11/2019/07
+Tamil Nadu
+Nilgiri
+NH -67 rock fall
+NH- 67
+11.38797
+76.73164
+Rock
+Fall
+16 November 2019
+27933
+TN/NIL/58A/15/2019/08
+Tamil Nadu
+Nilgiri
+NH-67 cut slope failure 4
+NH-67
+11.38733
+76.73406
+Debris
+Slide
+16 November 2019
+27934
+TN/NIL/58A/15/2019/09
+Tamil Nadu
+Nilgiri
+Annai Velankani Nagar debris slide
+Annai Velankani Nagar, 
+Coonoor
+11.347847
+76.789084
+Debris
+Slide
+16 November 2019
+27935
+TN/NIL/58A/15/2019/10
+Tamil Nadu
+Nilgiri
+Krishnapuram stream bank erosion
+Krishnapuram, Coonoor
+11.348423
+76.792504
+Soil
+Flow
+16 November 2019
+27936
+TN/NIL/58A/15/2019/11
+Tamil Nadu
+Nilgiri
+Gandhipuram rock fall
+Gandhipuram
+11.34123
+76.79759
+Debris cum rock
+Fall
+16 November 2019
+27937
+TN/NIL/58A/15/2019/12
+Tamil Nadu
+Nilgiri
+Gandhipuram road debris slide
+Near Gandhipuram
+11.33963
+76.79743
+Debris
+Slide
+16 November 2019
+27938
+TN/NIL/58A/15/2019/13
+Tamil Nadu
+Nilgiri
+Gandhipuram debris slide
+Gandhipuram
+11.33669
+76.79845
+Debris
+Slide
+16 November 2019
+27939
+TN/NIL/58A/15/2019/14
+Tamil Nadu
+Nilgiri
+Reactivated Sagayamatha hospital 
+slide
+Down slope of Sagayamatha 
+hospital, Coonoor
+11.33453
+76.7958
+Debris
+Flow
+16 November 2019
+27940
+TN/NIL/58A/15/2019/16
+Tamil Nadu
+Nilgiri
+Katteri road subsidence
+Near Katteri road junction
+11.33591
+76.79098
+Debris
+Subsidence
+16 November 2019
+27941
+TN/NIL/58A/15/2019/17
+Tamil Nadu
+Nilgiri
+Burliar road cut slope failure 1
+NH-67, near Burliar
+11.33217
+76.79413
+Debris
+Slide
+16 November 2019
+27942
+TN/NIL/58A/15/2019/18
+Tamil Nadu
+Nilgiri
+Burliar road cut slope failure 2
+NH-67, near Burliar
+11.3307
+76.79916
+Debris
+Slide
+16 November 2019
+27943
+TN/NIL/58A/15/2019/19
+Tamil Nadu
+Nilgiri
+Burliar road cut slope failure 3
+NH-67, near Burliar
+11.32999
+76.803
+Debris
+Slide
+16 November 2019
+27944
+TN/NIL/58A/15/2019/20
+Tamil Nadu
+Nilgiri
+Burliar road cut slope failure 4
+NH-67, near Burliar
+11.3353
+76.81397
+Debris
+Slide
+16 November 2019

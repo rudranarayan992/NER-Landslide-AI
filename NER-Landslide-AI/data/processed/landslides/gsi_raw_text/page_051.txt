@@ -1,0 +1,362 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1724
+AR/ANJ/91D12/2014/08
+Arunachal Pradesh
+Anjaw
+Chipra rock slide
+HMC road
+28.28331
+96.58094
+Rock
+Slide and 
+topple
+NA
+1725
+AR/ANJ/91D11/2014/17
+Arunachal Pradesh
+Anjaw
+ 
+HMC road
+28.28386
+96.58275
+Debris
+Slide
+2013
+1726
+AP/LDV/82P16/2022/153
+Arunachal Pradesh
+Lower Dibang Valley
+ From Mayudia Pass 10.75 kms along 
+NH-313 towards Hunli
+ NH-313 (Roing-Anini road)
+28.286447
+95.920837
+Rock
+Slide
+NA
+1727
+AR/ESI/82L15/2022/59
+Arunachal Pradesh
+East Siang
+Sangram Bridge-Boleng Road Slide
+Sangram Bridge-Boleng Road
+28.287317
+94.947651
+Rock-cum-Debris
+Slide
+NA
+1728
+AR/ANJ/91D11/2014/35
+Arunachal Pradesh
+Anjaw
+ 
+H. M. C. Road
+28.28778
+96.57928
+Rock
+Slide
+2013
+1729
+AP/LDV/82P15/2022/12
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 32 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.289254
+95.785468
+Rock
+Slide
+NA
+1730
+AR/US/82P04/2022/025
+Arunachal Pradesh
+Upper Siang
+Pasighat-Yingkiong road Slide 16
+NH-513
+28.291556
+95.199111
+Debris
+Slide
+NA
+1731
+AP/DV/82P15/2022/13
+Arunachal Pradesh
+Dibang Valley
+0.7 km west of landslide no. 12
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.291703
+95.77618
+Rock
+Slide
+NA
+1732
+AP/LDV/82P16/2022/154
+Arunachal Pradesh
+Lower Dibang Valley
+65kms landslide. From Mayudia Pass 
+11.9 kms along NH-313 towards Hunli
+ NH-313 (Roing-Anini road)
+28.296668
+95.92282
+Debris
+Slide
+NA
+1733
+AP/DV/82P15/2022/11
+Arunachal Pradesh
+Dibang Valley
+ From Roing 33.4 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.297476
+95.791016
+Debris
+Slide
+NA
+1734
+AR/US/82P04/2022/024
+Arunachal Pradesh
+Upper Siang
+Pasighat-Yingkiong road Slide 15
+NH-513
+28.301694
+95.195361
+Debris
+Slide
+NA
+1735
+AR/ESI/82L15/2022/60
+Arunachal Pradesh
+East Siang
+Sangram Bridge-Boleng Road Slide
+Sangram Bridge-Boleng Road
+28.303771
+94.948727
+Rock-cum-Debris
+Slide
+NA
+1736
+AP/LDV/82P16/2022/117
+Arunachal Pradesh
+Lower Dibang Valley
+ From Hunli 10.2 km along HMH road
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.308592
+95.971041
+Debris
+Slide
+NA
+1737
+AP/LDV/82P16/2022/116
+Arunachal Pradesh
+Lower Dibang Valley
+ From Hunli 10.4 km along HMH road
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.308841
+95.973238
+Debris
+Slide
+NA
+1738
+AP/LDV/82P16/2022/109
+Arunachal Pradesh
+Lower Dibang Valley
+ From Hunli 9.5 km along HMH road
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.308943
+95.966462
+Debris
+Slide
+NA
+1739
+AP/LDV/82P15/2022/19
+Arunachal Pradesh
+Dibang Valley
+13 km NE of Dambuk
+ NH-313 (Roing-Pasighat road)
+28.309002
+95.754702
+Rock
+Slide
+NA
+1740
+AP/LDV/82P16/2022/108
+Arunachal Pradesh
+Lower Dibang Valley
+ From Hunli 9.66 km along HMH road
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.309676
+95.967453
+Debris
+Slide
+NA
+1741
+AP/LDV/82P16/2022/112
+Arunachal Pradesh
+Lower Dibang Valley
+ From Hunli 11.7 km along HMH road
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.30984
+95.984084
+Rock
+Slide
+NA
+1742
+AP/LDV/82P16/2022/151
+Arunachal Pradesh
+Lower Dibang Valley
+ Hunli landslide. From Mayudia Pass 
+27.6 kms along NH-313 towards Hunli
+ NH-313 (Roing-Anini road)
+28.309975
+95.952909
+Rock
+Fall
+NA
+1743
+AR/US/82P04/2022/019
+Arunachal Pradesh
+Upper Siang
+Pasighat-Yingkiong road Slide 10
+NH-513
+28.3105
+95.197472
+Soil
+Slide
+NA
+1744
+AR/WSI/82L11/2021/16
+Arunachal Pradesh
+West Siang
+Kamba-Kaying road slide
+Aalo-Kaying Highway
+28.310626
+94.675637
+Debris
+Slide
+NA
+1745
+AP/LDV/82P16/2022/113
+Arunachal Pradesh
+Lower Dibang Valley
+ From Hunli 11.4 km along HMH road
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.31085
+95.979868
+Debris
+Slide
+NA
+1746
+AR/ANJ/91D11/2014/34
+Arunachal Pradesh
+Anjaw
+Chaglogamnala slide
+Village road
+28.31211
+96.61719
+Debris
+Topple
+2013
+1747
+AP/LDV/82P16/2022/114
+Arunachal Pradesh
+Lower Dibang Valley
+ From Hunli 11 km along HMH road
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.312731
+95.975665
+Debris
+Slide
+NA
+1748
+AP/LDV/82P16/2022/115
+Arunachal Pradesh
+Lower Dibang Valley
+ From Hunli 11.1 km along HMH road
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.312795
+95.97654
+Debris
+Slide
+NA
+1749
+AP/LDV/82P16/2022/110
+Arunachal Pradesh
+Lower Dibang Valley
+ From Hunli 8.3 km along HMH road
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.313528
+95.966611
+Rock
+Slide
+NA
+1750
+AP/LDV/82P16/2022/118
+Arunachal Pradesh
+Lower Dibang Valley
+ From Hunli 7.6 km along HMH road
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.314581
+95.966345
+Debris
+Slide
+NA
+1751
+AP/LDV/82P16/2022/111
+Arunachal Pradesh
+Lower Dibang Valley
+N/A
+N/A
+28.315484
+95.982181
+Rock
+Slide
+NA
+1752
+AR/ANJ/91D11/2014/33
+Arunachal Pradesh
+Anjaw
+Toflagam slide
+H.M.C. Road
+28.31658
+96.61508
+Debris
+Slide
+2013
+1753
+AP/LDV/82P16/2022/120
+Arunachal Pradesh
+Lower Dibang Valley
+ From Hunli 2.1 km along HMH road
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.31731
+95.956718
+Debris
+Slide
+NA

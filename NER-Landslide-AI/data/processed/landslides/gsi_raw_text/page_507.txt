@@ -1,0 +1,432 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20475
+ME/RIB/78N12/2015/103
+Meghalaya
+Ri-Bhoi
+Pahamsubar
+En-route to Pahamsubar
+26.027028
+91.88175
+Earth
+Slide
+NA
+20476
+ME/RIB/78N12/2015/104
+Meghalaya
+Ri-Bhoi
+Dokduki
+En-route to Dokduki, Ri-Bhoi, 
+Meghalaya
+26.027583
+91.886556
+Debris
+Slide
+NA
+20477
+ML/RIB/78N16/2014/01
+Meghalaya
+Ri-Bhoi
+17 mile A
+GS road
+26.02897
+91.87197
+Earth
+Slide
+2014
+20478
+ME/RIB/78N12/2015/106
+Meghalaya
+Ri-Bhoi
+Markang
+Markang, Ri-Bhoi, Meghalaya
+26.032028
+91.989528
+Debris
+Slide
+NA
+20479
+ME/RIB/78N16/2015/110
+Meghalaya
+Ri-Bhoi
+16th mile
+16th mile, NH-40, Ri-Bhoi, 
+Meghalaya
+26.033583
+91.867083
+Earth
+Slide
+NA
+20480
+MG/RIB/83B04/2018/2
+Meghalaya
+Ri-Bhoi
+Umsiang-Markanduba road slide
+Sonalkuchi, Umsiang-
+Markanduba road
+26.0591
+92.236
+Rock cum debris
+Slide
+NA
+20481
+MG/RIB/83B04/2018/1
+Meghalaya
+Ri-Bhoi
+Umsiang-Markanduba road slide
+Umsiang-Markanduba road
+26.061
+92.241
+Rock cum debris
+Slide
+NA
+20482
+ME/RBH/78N16/2015/114
+Meghalaya
+Ri-Bhoi
+Umnowe
+Umnowe, Ri-Bhoi, Meghalaya
+26.075944
+91.820806
+Debris
+Slide
+NA
+20483
+ME/RBH/78N16/2015/113
+Meghalaya
+Ri-Bhoi
+Nongspong
+Nongspong, Meghalaya
+26.08125
+91.798278
+Debris
+Slide
+NA
+20484
+ME/RIB/78N12/2015/101
+Meghalaya
+Ri-Bhoi
+Umpher
+Umpher, Meghalaya
+26.086389
+91.879083
+Earth
+Slide
+NA
+20485
+AS/KAM/78N16/2015/76
+Meghalaya
+Ri-Bhoi
+Barpathar
+Barpathar Quarry
+26.086975
+91.7831
+Rock cum Debris
+Slide
+NA
+20486
+3344
+Meghalaya
+West Jaintia Hills
+NULL
+NULL
+25.47704743
+92.16831285
+Debris
+Slide
+25 May 2020
+20487
+3348
+Meghalaya
+West Jaintia Hills
+NULL
+NULL
+25.46307925
+92.25426106
+Soil
+Slide
+26 May 2020
+20488
+3215
+Meghalaya
+East Khasi Hills
+NULL
+NULL
+25.5667327
+91.9146185
+Debris
+Slide
+04 October 2024
+20489
+3351
+Meghalaya
+West Jaintia Hills
+NULL
+NULL
+25.28422636
+92.11294194
+Debris
+Slide
+26 June 2020
+20490
+3345
+Meghalaya
+West Jaintia Hills
+NULL
+NULL
+25.2842285
+92.11314877
+Rock
+Slide
+26 May 2020
+20491
+ME/SWKH/78O07/2024/4 
+Meghalaya
+South West Khasi  Hills
+Manad slide-1
+Manad village
+25.29967
+91.46108
+Debris
+Slide
+15 June 2024
+20492
+ME/SWKH/78O07/2024/5
+Meghalaya 
+South West Khasi  Hills
+Manad slide-2
+Manad village
+25.29667
+91.45986
+Debris
+Slide
+17 June 2024 at 6:00AM
+20493
+ME/SWKH/78O07/2024/6
+Meghalaya 
+South West Khasi  Hills
+Manad slide-3
+Manad village
+25.2975
+91.46167
+Debris
+Slide
+17 June 2024 (8:00 to 9:00 AM)
+20494
+ME/SWKH/78O072024/7
+Meghalaya 
+South West Khasi  Hills
+Manad slide-4
+Manad village
+25.29739
+91.46201
+Debris
+Slide
+17 June 2024
+20495
+ME/SWKH/78O07/2024/8
+Meghalaya 
+South West Khasi  Hills
+Lummawbah village slide
+Lummawbah village
+25.29778
+91.45972
+Debris
+Slide
+15 June 2024(1:00 AM)
+20496
+ME/RIB/78O13/2024/09 
+Meghalaya
+Ri-Bhoi
+Umsamlem slide
+Umsamlem village
+25.809088
+91.875238
+Earth
+Slide
+6 July 2025 at 10:20 hrs
+20497
+ME/RIB/78O13/2024/10
+Meghalaya 
+Ri-Bhoi
+Umran Dairy slide
+Umran Dairy village
+25.781246
+91.874475
+Earth
+Slide
+6 July 2024
+20498
+4693
+Meghalaya
+East Khasi Hills
+NULL
+NULL
+25.640581
+91.89212
+Debris
+Fall
+NA
+20499
+ME/EKH/78O15/2025/01
+Meghalaya
+East Khasi Hills
+11thMile slide 1
+NH-206
+25.465167
+91.824944
+Debris
+Slide
+30 May 2025 at 05:40 AM
+20500
+ME/EKH/78O15/2025/02
+Meghalaya
+East Khasi Hills
+Laitlyngkot- Pomlum slide 1
+NH-206
+25.422278
+91.867694
+Rock
+Slide
+30 May 2025
+20501
+ME/EKH/78O15/2025/03
+Meghalaya
+East Khasi Hills
+Laitlyngkot-Pomlum slide 2
+NH-206
+25.43480556
+91.85952778
+Debris
+Slide
+30 May 2025
+20502
+ME/EKH/78O15/2025/04
+Meghalaya
+East Khasi Hills
+11th Mile slide2
+NH-206
+25.48716667
+91.81936111
+Debris
+Slide
+30 May 2025
+20503
+ME/EKH/78O15/2025/05
+Meghalaya
+East Khasi Hills
+Lumkyntung landslide
+Lumkyntung village
+25.456896
+91.826145
+Debris
+Slide
+30 May 2025 (around 11.00 Hrs).
+20504
+ME/EJH/83C08/2025/06
+Meghalaya
+East Jaintia Hills
+DonarSkul landslide
+NH-06
+25.048054
+92.409245
+Debris
+Slide
+2021,11 May 2025 around 10.30 pm
+20505
+ME/EKH/78O15/2025/07
+Meghalaya
+East Khasi Hills
+Mawrah Debris slide 
+Laitkroh –Khadarshnog road 
+sector
+25.369056
+91.775046
+Debris
+Slide
+NA
+20506
+ME/EKH/78O15/2025/08
+Meghalaya
+East Khasi Hills
+Mawrah Rock slide
+Laitkroh –Khadarshnog road 
+sector
+25.366201
+91.767213
+Rock
+Slide
+31 May 2025
+20507
+ME/EKH/78O15/2025/09
+Meghalaya
+East Khasi Hills
+Mawkhnai landslide
+Laitkroh –Khadarshnog road 
+sector
+25.355042
+91.767525
+Debris
+Slide
+31 May 2025
+20508
+ME/EKH/78O15/2025/10 
+Meghalaya
+East Khasi Hills
+War-War landslide
+Laitkroh –Khadarshnog road 
+sector
+25.340415
+91.774142
+Debris
+Slide
+31 May 2025
+20509
+ML/RB/2014-2015/08
+Meghalaya
+Ri-Bhoi
+Pemangla slide ( around 22mile from 
+Guwahati)
+GS road NH-40
+25.95608333
+91.86413889
+Variably thick in-situ 
+soil over the 
+weathered bedrock 
+of
+granite.
+Slide
+25-26, August, 2014, 23 September 
+2014
+20510
+ML- 93/2011
+Meghalaya
+West Khasi Hills
+Riangdo Landslide
+Riangdo Village
+25.67341667
+91.06625
+Debris
+Slide
+Second week of May 2011
+20511
+ML-1/2010
+Meghalaya
+East Khasi Hills
+Wall collase of mosque
+NA
+25.57711111
+91.88141667
+NA
+NA
+27 August 2010

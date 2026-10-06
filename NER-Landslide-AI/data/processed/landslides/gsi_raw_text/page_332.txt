@@ -1,0 +1,282 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14038
+KRL/PKD/58A12/2018/200
+Kerala
+Palakkad
+Mannarkkad, Silent valley road
+11.046935
+76.540858
+Debris
+slide
+Initiated on 16/8/2018
+14039
+KRL/PKD/58A12/2018/201
+Kerala
+Palakkad
+Mannarkkad, Silent valley road
+11.04922
+76.53708
+Debris
+slide
+Initiated on 16/8/2018
+14040
+KRL/PKD/58A12/2018/202
+Kerala
+Palakkad
+Near Attapadi, Mannarkkad 
+taluk
+11.078735
+76.587101
+Debris
+slide
+Initiated on 16/8/2018
+14041
+KRL/PKD/58A12/2018/21
+Kerala
+Palakkad
+Pambunthodu slide
+Pambunthodu, Palakayam 
+village
+11.032583
+76.551617
+Debris
+slide
+Initiated on October, 2017, 
+Reactivated on 16/8/18
+14042
+KRL/PKD/58A8/2018/09
+Kerala
+Palakkad
+Karadiyod landslide 
+Karadiyod, Kottoppadam-1 
+Village, Mannarkkad taluk
+11.04794
+76.400202
+Debris
+Flow
+Initiated on 16/8/2018
+14043
+KRL/PKD/58A8/2018/10
+Kerala
+Palakkad
+Karadiyod landslide  II
+Karadiyod, Kottoppadam-1 
+Village, Mannarkkad taluk
+11.047271
+76.399846
+Debris
+Flow
+Initiated on 16/8/2018
+14044
+KRL/PKD/58A8/2018/13
+Kerala
+Palakkad
+Kottoppadam Slide-1
+Kottoppadam- Ambalappara 
+tribal colony
+11.06427
+76.389909
+Debris
+slide
+Initiated on 16/8/2018
+14045
+KRL/PKD/58A8/2018/14
+Kerala
+Palakkad
+Kottoppadam Slide-1I
+Kottoppadam- Ambalappara 
+tribal colony
+11.061407
+76.389548
+Debris
+slide
+Initiated on 16/8/2018
+14046
+KRL/PKD/58A8/2018/15
+Kerala
+Palakkad
+Kottoppadam Slide-III
+Kottoppadam- Ambalappara 
+tribal colony
+11.057151
+76.384281
+Debris
+slide
+Initiated on 16/8/2018
+14047
+KRL/PKD/58A8/2018/16
+Kerala
+Palakkad
+Uppukulam slide
+Uppukulam, Allanallur III village, 
+Mannarkad Taluk
+11.084665
+76.367865
+Rock cum debris
+slide
+Initiated on 13/8/2018,
+14048
+KRL/PKD/58A8/2018/18
+Kerala
+Palakkad
+Karappadam slide
+Karappadam, Payyanadam 
+village
+11.042363
+76.440553
+Debris
+slide
+Initiated on 15/8/2018
+14049
+KRL/PKD/58A8/2018/19
+Kerala
+Palakkad
+Puthuvapadam slide
+Puthuvapadam
+11.050725
+76.430832
+Debris
+slide
+Initiated on 16/8/2018, 
+14050
+KRL/PKD/58A8/2018/20
+Kerala
+Palakkad
+Puthuvapadam slide II
+Puthuvapadam
+11.040144
+76.431199
+Debris
+slide
+Initiated on 16/8/2018, 
+14051
+KRL/PKD/58A8/2018/30
+Kerala
+Palakkad
+Thodukad colony
+Thodukad colony, Mannarkad 
+Taluk
+11.063095
+76.37715
+Debris
+slide
+Initiated on 16/8/2018, 
+14052
+KRL/PKD/58B10/2018/100
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.52186
+76.628728
+Debris
+slide
+Initiated on 16/8/2018, 
+14053
+KRL/PKD/58B10/2018/101
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.520022
+76.629233
+Debris
+slide
+Initiated on 16/8/2018, 
+14054
+KRL/PKD/58B10/2018/102
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.518808
+76.629248
+rock cum debris
+Flow
+Initiated on 16/8/2018, 
+14055
+KRL/PKD/58B10/2018/103
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.523363
+76.635342
+Debris
+slide
+Initiated on 16/8/2018, 
+14056
+KRL/PKD/58B10/2018/104
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.524095
+76.63604
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14057
+KRL/PKD/58B10/2018/105
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.52508
+76.636973
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14058
+KRL/PKD/58B10/2018/106
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.526457
+76.637498
+Debris
+slide
+Initiated on 16/8/2018, 
+14059
+KRL/PKD/58B10/2018/107
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.52658
+76.638208
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14060
+KRL/PKD/58B10/2018/108
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.52648
+76.639218
+rock cum debris
+slide
+Initiated on 16/8/2018, 

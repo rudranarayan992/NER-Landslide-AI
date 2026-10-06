@@ -1,0 +1,408 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+19718
+MG/EKH/78O12/2017/33
+Meghalaya
+East Khasi Hills
+Shella slide
+250 m N of Shella village(Along 
+shella river)
+25.181969
+91.637545
+Debris
+Slide
+2017
+19719
+MG/EKH/78O12/2017/23
+Meghalaya
+East Khasi Hills
+ 
+Along Hat MawdonShella 
+bypass road
+25.182254
+91.618979
+Rock
+Slide
+NA
+19720
+MEG/WJH/83C4/2016/26
+Meghalaya
+East Khasi Hills
+0.5 km NE of Dawki
+Dawki┬á Muktapur road (Near 
+petrol pump)
+25.184381
+92.029531
+Debris
+Slide
+2005
+19721
+MG/EKH/78O08/2017/6
+Meghalaya
+East Khasi Hills
+ 
+1.5 Km SE of Balat  Sonatola 
+road
+25.18676
+91.396515
+Debris
+Slide
+NA
+19722
+MG/EKH/78O16/2017/12
+Meghalaya
+East Khasi Hills
+ 
+along sohrashella bypass from 
+Sohbar village
+25.188327
+91.761486
+Rock
+Slide
+NA
+19723
+MEG/WJH/83C4/2016/25
+Meghalaya
+West Jaintia Hills
+4.5 km NE of Dawki
+Dawki  Muktapur road
+25.188444
+92.074139
+Debris
+Slide
+NA
+19724
+MEG/WJH/83C4/2016/30
+Meghalaya
+West Jaintia Hills
+5.5 km NE of┬á Dawki┬á
+Dawki Muktapur road
+25.189106
+92.079564
+Debris
+Slide
+2010
+19725
+MG/EKH/78O08/2017/1
+Meghalaya
+East Khasi Hills
+ 
+ 
+25.18955
+91.453997
+Rock
+Slide
+NA
+19726
+MEG/WJH/83C4/2016/24
+Meghalaya
+East Khasi Hills
+2 km W of Dawki
+NH40
+25.191111
+92.003389
+Debris
+Slide
+2016
+19727
+MG/SWK/78O04/2017/7
+Meghalaya
+South West Khasi  Hills
+ 
+SH4
+25.191366
+91.040468
+Rock
+Slide
+NA
+19728
+MEG/WJH/83C4/2016/28
+Meghalaya
+West Jaintia Hills
+Amlari
+Amlari Syndai road
+25.191611
+92.155361
+Debris
+Slide
+2016
+19729
+MEG/WJH/83C4/2016/122
+Meghalaya
+East Jaintia Hills
+1.5 km W of Narphu
+NH44
+25.192422
+92.37705
+Debris
+Slide
+2016
+19730
+MG/EKH/78O12/2017/53
+Meghalaya
+East Khasi Hills
+ 
+Along LawbahHat Mawdon
+25.196781
+91.574727
+Rock
+Slide
+NA
+19731
+MEG/WJH/83C4/2016/17
+Meghalaya
+West Jaintia Hills
+1.7 km S of Satpator
+Laremshiap road
+25.197283
+92.1991
+Debris
+Slide
+2016
+19732
+MEG/WJH/83C4/2016/18
+Meghalaya
+West Jaintia Hills
+0.5 km SW of Power station
+Myntdu Leshka power station 
+road
+25.197283
+92.2225
+Debris
+Slide
+2016
+19733
+MG/SWK/78O04/2017/4
+Meghalaya
+South West Khasi  Hills
+ 
+SH4
+25.197881
+91.139559
+Rock
+Slide
+NA
+19734
+MG/EKH/78O16/2017/9
+Meghalaya
+East Khasi Hills
+ 
+Along the NongshkenLakading 
+road
+25.199311
+91.858857
+Debris
+Slide
+NA
+19735
+MEG/WJH/83C4/2016/16
+Meghalaya
+West Jaintia Hills
+1.15 km S of Satpator
+Laremshiap road
+25.200333
+92.200472
+Debris
+Slide
+2016
+19736
+MG/EKH/78O12/2017/80
+Meghalaya
+East Khasi Hills
+ 
+Nag Nag village
+25.200934
+91.63449
+Debris
+Slide
+NA
+19737
+MEGH/WKH/78O04/2008/D-26 Meghalaya
+West Khasi Hills
+Rajai slide
+ 
+25.201
+91.234
+Debris
+Fall
+12 August 2008
+19738
+MG/EKH/78O12/2017/8
+Meghalaya
+East Khasi Hills
+ 
+Approach road to Mustoh
+25.20111
+91.640451
+Rock
+Slide
+NA
+19739
+MEGH/WKH/78O04/2008/D-27 Meghalaya
+West Khasi Hills
+Shipur slide
+ 
+25.20283
+91.20908
+Debris
+Fall
+10 August 2008
+19740
+MEG/WJH/83C4/2016/15
+Meghalaya
+West Jaintia Hills
+1.5 km S of Satpator
+Laremshiap road
+25.202886
+92.201147
+Debris
+Slide
+2016
+19741
+MG/EKH/78O12/2017/4
+Meghalaya
+East Khasi Hills
+ 
+along sohrashella bypass from 
+Sohbar village
+25.204882
+91.742535
+Debris
+Slide
+NA
+19742
+MG/EKH/78O12/2017/39
+Meghalaya
+East Khasi Hills
+ 
+Along LawbahHat Mawdon
+25.205078
+91.57517
+Debris
+Slide
+NA
+19743
+MG/EKH/78O16/2017/6
+Meghalaya
+East Khasi Hills
+ 
+Along sohrashella bypass from 
+Sohbar village
+25.205307
+91.755686
+Debris
+Slide
+NA
+19744
+MG/EKH/78O16/2017/2
+Meghalaya
+East Khasi Hills
+ 
+along sohrashella bypass from 
+Sohbar village
+25.205465
+91.755789
+Debris
+Slide
+NA
+19745
+MG/EKH/78O12/2017/5
+Meghalaya
+East Khasi Hills
+ 
+along sohrashella bypass from 
+Sohbar village
+25.205623
+91.736208
+Debris
+Slide
+NA
+19746
+MG/EKH/78O12/2017/30
+Meghalaya
+East Khasi Hills
+ 
+<Null>
+25.205651
+91.599771
+Rock
+Slide
+NA
+19747
+MG/EKH/78O16/2017/5
+Meghalaya
+East Khasi Hills
+ 
+Along sohrashella bypass from 
+Sohbar village
+25.206426
+91.75498
+Rock
+Slide
+NA
+19748
+MG/EKH/78O12/2017/26
+Meghalaya
+East Khasi Hills
+ 
+along sohrashella bypass from 
+Sohbar village
+25.20655
+91.744914
+Debris
+Slide
+NA
+19749
+MG/EKH/78O12/2017/32
+Meghalaya
+East Khasi Hills
+ 
+Along SohraMawlong road
+25.206573
+91.738428
+Debris
+Slide
+NA
+19750
+MG/EKH/78O12/2017/64
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.206686
+91.73898
+Debris
+Slide
+NA
+19751
+MG/SWK/78O04/2017/3
+Meghalaya
+South West Khasi  Hills
+Rajai slide
+About 1 km NE of Rajai village
+25.206763
+91.231417
+Rock
+Slide
+NA
+19752
+MG/EKH/78O12/2017/65
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.206885
+91.740497
+Debris
+Slide
+NA

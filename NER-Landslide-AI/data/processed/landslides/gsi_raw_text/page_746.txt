@@ -1,0 +1,415 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29420
+WB/DAR/78A12/2015/228
+West Bengal
+Darjeeling
+Near Yok - Printam Village on 
+Kalimpong-Sindebung road
+Near Yok - Printam Village on 
+Kalimpong-Sindebung road
+27.040725
+88.529764
+Rock
+Slide
+2012
+29421
+WB/DAR/78A12/2015/1449
+West Bengal
+Darjeeling
+ 
+ 
+27.040977
+88.687254
+Rock cum Debris
+Slide
+2014
+29422
+WB/DAR/78A12/2015/1385
+West Bengal
+Darjeeling
+NORTH OF PHAPERKHETI
+SH-12
+27.041083
+88.696528
+Rock
+Slide
+2012
+29423
+WB/DARJ/78A12/2007/0011
+West Bengal
+Darjeeling
+Parparkheti-III
+Parakheti-Lava road
+27.0412
+88.6931
+Debris
+Slide
+2007
+29424
+WB/DAR/78A12/2015/1450
+West Bengal
+Darjeeling
+ 
+ 
+27.041213
+88.682819
+Rock cum Debris
+Slide
+2014
+29425
+WB/DAR/78A12/2015/209
+West Bengal
+Darjeeling
+29.0Km. from Damdim on Damdim-
+Algarah road
+1km. from Paparkheti towards  
+Lava
+27.041267
+88.695343
+Debris
+Subsidence
+2007
+29426
+WB/DAR/78A04/2015/1203
+West Bengal
+Darjeeling
+ 
+RELLING
+27.041306
+88.157083
+Rock cum Debris
+Slide
+2014
+29427
+WB/DAR/78A08/2015/77
+West Bengal
+Darjeeling
+NH-31A 26.30 km from Sevok(Tiger 
+Bridge) on owards Gangtok
+26.30 km from Sevok(Tiger 
+Bridge) on NH-31A towards  
+Gangtok
+27.041515
+88.427008
+Rock
+Slide
+2007
+29428
+WB/DAR/78A08/2015/1515
+West Bengal
+Darjeeling
+CHIBBO (OC JHORA)
+CHIBBO
+27.041532
+88.42701
+Debris
+Slide
+2010
+29429
+WB/DAR/78A08/2015/105
+West Bengal
+Darjeeling
+Pandam Tea Estate,near House of 
+Bikash Rai, Kulungdara village
+ 
+27.041611
+88.279083
+Rock cum Debris
+Subsidence
+2009
+29430
+WB/DAR/78A08/2015/1512
+West Bengal
+Darjeeling
+KAMSE VILLAGE,KALIMPONG
+KAMSE VILLAGE,KALIMPONG
+27.041644
+88.278825
+Debris
+Slide
+2015
+29431
+WB/DAR/78A12/2015/1451
+West Bengal
+Darjeeling
+ 
+ 
+27.041807
+88.670377
+Debris
+Slide
+NA
+29432
+WB/DAR/78A08/2015/1351
+West Bengal
+Darjeeling
+SEVOK ROAD
+SEVOK ROAD
+27.041944
+88.428194
+Debris
+Subsidence
+2015
+29433
+WB/DAR/78A16/2015/290
+West Bengal
+Darjeeling
+Below Jhalung Colony
+Below Jhalung Colony
+27.041977
+88.875156
+Debris
+Slide
+1993
+29434
+WB/DAR/78A12/2015/270
+West Bengal
+Darjeeling
+Pala Yok road
+Pala Yok road
+27.042
+88.527
+Debris
+Slide
+2013
+29435
+WB/DAR/78A12/2015/1535
+West Bengal
+Darjeeling
+ 
+RAMMAM ADIRT-3 SHAFT
+27.042045
+88.526935
+Debris
+Slide
+2015
+29436
+WB/DAR/78A12/2015/229
+West Bengal
+Darjeeling
+Near Yok - Printam Village on 
+Kalimpong-Sindebung road
+Near Yok - Printam Village on 
+Kalimpong-Sindebung road
+27.042173
+88.532785
+Rock
+Slide
+2012
+29437
+WB/DAR/78A12/2015/1298
+West Bengal
+Darjeeling
+ 
+PALA
+27.042389
+88.527306
+Debris
+Subsidence
+2014
+29438
+WB/DAR/78A08/2015/1176
+West Bengal
+Darjeeling
+ 
+KOLBONG
+27.042472
+88.395417
+Debris
+Subsidence
+2015
+29439
+WB/DAR/78A12/2015/1301
+West Bengal
+Darjeeling
+ 
+KHOLA TAR
+27.0425
+88.538667
+Debris
+Subsidence
+2015
+29440
+WB/DAR/78A12/2015/1313
+West Bengal
+Darjeeling
+ 
+SAMTHAR
+27.042694
+88.559361
+Debris
+Slide
+2015
+29441
+WB/DARJ/78A12/2007/0012
+West Bengal
+Darjeeling
+WP 509
+Parakheti-Lava road
+27.0427
+88.6934
+Debris
+Slide
+2007
+29442
+WB/DAR/78A04/2015/24
+West Bengal
+Darjeeling
+Darjeeling-Bijanbari Road, Maribong 
+Tea Garden Factory
+Darjeeling-Bijanbari Road
+27.0427
+88.1985
+Debris
+Slide
+2011
+29443
+WB/DARJ/78A04/0260
+West Bengal
+Darjeeling
+ 
+Darjeeling-Bijanbari Road
+27.043
+88.199
+Debris
+Slide
+NA
+29444
+WB/DAR/78A08/2015/106
+West Bengal
+Darjeeling
+Pandam Tea Estate, Kulungdara 
+village
+ 
+27.043
+88.279278
+Debris
+Slide
+2009
+29445
+WB/DAR/78A12/2015/210
+West Bengal
+Darjeeling
+29.5Km. from Damdim on Damdim-
+Algarah road
+Paparkheti - Lava road
+27.043006
+88.694048
+Debris
+Slide
+2007
+29446
+WB/DAR/78A04/2021/PDLS/15
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.04311644
+88.19838769
+Debris
+Slide
+October 2021
+29447
+WB/DAR/78A04/2021/PDLS/15
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.04312478
+88.19846843
+Debris
+Slide
+October 2021
+29448
+WB/DARJ/78A12/2007/0013
+West Bengal
+Darjeeling
+Kuapani WP510
+Parakheti-Lava road
+27.0433
+88.0687
+Debris
+Slide
+2007
+29449
+WB/DAR/78A04/2021/PDLS/15
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.04333102
+88.19863193
+Debris
+Slide
+October 2021
+29450
+WB/DAR/78A08/2015/1387
+West Bengal
+Darjeeling
+Deorali, Lower Bong basty
+BONG BUSTY ,KALIMPONG
+27.043444
+88.481444
+Rock
+Slide
+2016
+29451
+WB/DAR/78A12/2015/281
+West Bengal
+Darjeeling
+Phaperkheti
+Lava
+27.043444
+88.695639
+Debris
+Slide
+2015
+29452
+WB/DAR/78A12/2015/283
+West Bengal
+Darjeeling
+Phaperkheti
+Paparkheti Lava)
+Kalimpong
+Sub-division.
+27.043444
+88.695639
+Debris
+Slide
+2015
+29453
+WB/DAR/78A12/2015/134
+West Bengal
+Darjeeling
+Chibo-Pashyor slide,Kalimpong
+ 
+27.043519
+88.695969
+Debris
+Slide
+2013
+29454
+WB/DAR/78A12/2015/1498
+West Bengal
+Darjeeling
+ 
+ 
+27.043519
+88.695969
+Debris
+Slide
+2013

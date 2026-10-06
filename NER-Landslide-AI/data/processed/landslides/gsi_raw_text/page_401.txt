@@ -1,0 +1,371 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16405
+MH/SIN/48E13/2016/70
+Maharashtra
+Sindhudurg
+Ghotge-Durgawadi
+Ghotge-Durgawadi Road
+16.172972
+73.883639
+Debris
+Slide
+2016
+16406
+MH/KOL/47L04/2017/3
+Maharashtra
+Kolhapur
+ 
+Road from Dhavalwadi to Navle 16.188056
+74.078889
+Debris
+Slide
+NA
+16407
+MH/KOL/47L04/2017/2
+Maharashtra
+Kolhapur
+ 
+Village road from Nandoli 
+towards Deulwadi
+16.190556
+74.081667
+Debris
+Slide
+NA
+16408
+MH/SIN/48E13/2016/71
+Maharashtra
+Sindhudurg
+Ghotge-Durgawadi
+Ghotge-Durgawadi Road
+16.191389
+73.895472
+Rock cum Debris
+Slide
+2016
+16409
+MH/SIN/48E13/2016/72
+Maharashtra
+Sindhudurg
+Ghotge-Durgawadi
+Ghotge-Durgawadi Road
+16.191417
+73.89625
+Rock cum Debris
+Slide
+2016
+16410
+MH/SIN/48E13/2016/83
+Maharashtra
+Sindhudurg
+Ghotge-Durgawadi
+Ghotge-Durgawadi Road
+16.192306
+73.893
+Debris
+Slide
+NA
+16411
+MH/SIN/48E13/2016/61
+Maharashtra
+Sindhudurg
+Shirshinge-Shivapur road
+Shirshinge-Shivapur Road
+16.202167
+73.807222
+Debris
+Slide
+2016
+16412
+MH/SIN/48E13/2016/91
+Maharashtra
+Sindhudurg
+Ghotge road
+Ghotge Road
+16.208111
+73.819528
+Debris
+Slide
+NA
+16413
+MAH/RAD/47L03/2015/74
+Maharashtra
+Radhanagari
+Dangarwada
+Radhanagari- Gargoti Rd
+16.251
+74.038
+Debris
+Slide
+NA
+16414
+MAH/RAD/47L03/2015/73
+Maharashtra
+Radhanagari
+Dangarwada
+Radhanagari- Gargoti Rd
+16.254
+74.038
+Earth
+Slide
+NA
+16415
+MAH/RAD/47L03/2015/75
+Maharashtra
+Radhanagari
+Dangarwada
+Radhanagari- Gargoti Rd
+16.255
+74.039
+Debris
+Slide
+NA
+16416
+MAH/GAR/47L03/2015/30
+Maharashtra
+Gargoti
+Kasanwadi
+Shivapurpetha- Chopadewadi 
+Rd
+16.256
+74.137
+Debris
+Slide
+NA
+16417
+MAH/GAR/47L03/2015/31
+Maharashtra
+Gargoti
+Kasanwadi
+Shivapurpetha- Chopadewadi 
+Rd
+16.256
+74.136
+Debris
+Slide
+NA
+16418
+MAH/RAD/47H15/2015/86
+Maharashtra
+Radhanagari
+Satichamal
+SH-116, Radhanagari-Phonda 
+Ghat Rd
+16.343
+73.892
+Debris
+Slide
+NA
+16419
+MAH/KAN/47H15/2015/65
+Maharashtra
+Kankavli
+ 
+SH-116, Radhanagari-Phonda 
+Ghat Rd
+16.356
+73.834
+Debris
+Slide
+NA
+16420
+MAH/KAN/47H15/2015/66
+Maharashtra
+Kankavli
+ 
+SH-116, Radhanagari-Phonda 
+Ghat Rd
+16.357
+73.833
+Debris
+Slide
+NA
+16421
+MAH/KAN/47H15/2015/64
+Maharashtra
+Kankavli
+ 
+SH-116, Radhanagari-Phonda 
+Ghat Rd
+16.358
+73.838
+Debris
+Slide
+NA
+16422
+MAH/KAN/47H15/2015/60
+Maharashtra
+Kankavli
+ 
+SH-116, Radhanagari-Phonda 
+Ghat Rd
+16.358
+73.847
+Debris
+Slide
+NA
+16423
+MAH/KAN/47H15/2015/61
+Maharashtra
+Kankavli
+ 
+Radhanagari- Phonda Rd  SH-
+116
+16.358
+73.846
+Debris
+Slide
+NA
+16424
+MAH/KAN/47H15/2015/62
+Maharashtra
+Kankavli
+ 
+SH-116, Radhanagari-Phonda 
+Ghat Rd
+16.359
+73.845
+Debris
+Slide
+NA
+16425
+MAH/KAN/47H15/2015/69
+Maharashtra
+Kankavli
+ 
+SH-116, Radhanagari-Phonda 
+Ghat Rd
+16.359
+73.825
+Debris
+Slide
+NA
+16426
+MAH/KAN/47H15/2015/59
+Maharashtra
+Kankavli
+ 
+Radhanagari- Phonda Rd  SH-
+116Chopadewadi Rd
+16.359
+73.848
+Debris
+Slide
+NA
+16427
+MAH/KAN/47H15/2015/63
+Maharashtra
+Kankavli
+ 
+SH-116, Radhanagari-Phonda 
+Ghat Rd
+16.36
+73.843
+Rock
+Slide
+NA
+16428
+MAH/KAN/47H15/2015/58
+Maharashtra
+Kankavli
+ 
+SH-116, Radhanagari-Phonda 
+Ghat Rd
+16.361
+73.849
+Debris
+Slide
+NA
+16429
+MAH/KAN/47H15/2015/68
+Maharashtra
+Kankavli
+ 
+Radhanagari- Phonda Rd SH-
+116
+16.362
+73.823
+Debris
+Slide
+NA
+16430
+MAH/KAN/47H15/2015/57
+Maharashtra
+Kankavli
+ 
+60Km stone, SH116 (Devgarh to 
+Nipani)
+16.363
+73.851
+Debris
+Slide
+NA
+16431
+MAH/KAN/47H15/2015/56
+Maharashtra
+Kankavli
+ 
+SH-116, Radhanagari-Phonda 
+Ghat Rd
+16.368
+73.857
+Debris
+Slide
+NA
+16432
+MAH/RAD/47L03/2015/76
+Maharashtra
+Radhanagari
+Lingewadi
+Aini-Ategaon-Panori Rd
+16.375
+74.043
+Debris
+Slide
+NA
+16433
+MAH/KAN/47H15/2015/67
+Maharashtra
+Kankavli
+ 
+Radhanagari- Phonda Rd SH-
+116
+16.378
+73.857
+Rock
+Slide
+NA
+16434
+MAH/KAN/47H15/2015/55
+Maharashtra
+Kankavli
+ 
+SH-116, Radhanagari-Phonda 
+Ghat Rd
+16.379
+73.858
+Debris
+Slide
+NA
+16435
+MAH/KAN/47H15/2015/53
+Maharashtra
+Kankavli
+ 
+SH116 (Devgarh to Nipani)
+16.38
+73.857
+Debris
+Slide
+NA

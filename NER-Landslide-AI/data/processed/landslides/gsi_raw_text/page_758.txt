@@ -1,0 +1,393 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29798
+WB/DAR/78A08/2021/PDLS/21
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.0790225
+88.2537921
+Debris
+Slide
+October 2021
+29799
+WB/DAR/78A08/2021/PDLS/21
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07908524
+88.25384322
+Debris
+Slide
+October 2021
+29800
+WB/DAR/78A04/2015/1226
+West Bengal
+Darjeeling
+ 
+SAMALBONG
+27.07925
+88.180583
+Debris
+Subsidence
+2014
+29801
+WB/DAR/78A04/2021/PDLS/16
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07925847
+88.20618433
+Debris
+Slide
+October 2021
+29802
+WB/DAR/78A12/2015/190
+West Bengal
+Darjeeling
+45.5.0km from Damdim on Damdim-
+Labha-Algara road
+Paparkheti - Lava road
+27.079291
+88.668805
+Debris
+Slide
+2007
+29803
+WB/DAR/78A08/2015/36
+West Bengal
+Darjeeling
+NH-31A 33 km from Sevok(Tiger 
+Bridge) towards  Gangtok
+Km 33 on NH 31A
+27.079578
+88.441225
+Debris
+Subsidence
+1969
+29804
+WB/DAR/78A08/2021/PDLS/36
+7
+West Bengal
+Kalimpong
+N/A
+N/A
+27.07970441
+88.4354331
+Rock
+Slide
+October 2021
+29805
+WB/DAR/78A04/2021/PDLS/52
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07993947
+88.09193812
+Debris
+Slide
+October 2021
+29806
+WB/DARJ/78A08/1969/0280
+West Bengal
+Darjeeling
+ 
+Km 33 on NH 31A
+27.08
+88.442
+Debris
+Subsidence
+NA
+29807
+WB/DARJ/78A08/2007/0332
+West Bengal
+Darjeeling
+ 
+Kalimpong City
+27.08
+88.489
+Debris
+Subsidence
+NA
+29808
+WB/DARJ/78A08/2007/0333
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08
+88.335
+Rock
+Slide
+2007
+29809
+WB/DAR/78A08/2015/74
+West Bengal
+Darjeeling
+Kalimpong City
+Kalimpong City
+27.08
+88.4887
+Debris
+Subsidence
+2007
+29810
+WB/DAR/78A08/2015/1513
+West Bengal
+Darjeeling
+ 
+POCHOK,  GITDUBLING ROAD
+27.080022
+88.332964
+Debris
+Subsidence
+2015
+29811
+WB/DAR/78A04/2021/PDLS/16
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08002204
+88.20872382
+Debris
+Slide
+October 2021
+29812
+WB/DAR/78A08/2015/1327
+West Bengal
+Darjeeling
+BHALUKHOP SLIDE
+KALIMPONG
+27.080056
+88.474667
+Rock
+Slide
+2012
+29813
+WB/DAR/78A04/2015/1196
+West Bengal
+Darjeeling
+ 
+PUL BAZAR
+27.080083
+88.208833
+Rock
+Slide
+2015
+29814
+WB/DAR/78A08/2015/75
+West Bengal
+Darjeeling
+Simgbong Division Road, Glenbern T.E. Simgbong Division Road, 
+Glenbern T.E.
+27.080127
+88.333187
+Rock
+Slide
+2007
+29815
+WB/DAR/78A12/2015/1471
+West Bengal
+Darjeeling
+ 
+ 
+27.08024
+88.537935
+Debris
+Slide
+2010
+29816
+WB/DAR/78A04/2021/PDLS/50
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08040884
+88.09078287
+Debris
+Slide
+October 2021
+29817
+WB/DAR/78A08/2015/115
+West Bengal
+Darjeeling
+NH-31A
+NH31A
+27.080872
+88.446457
+Debris
+Slide
+2011
+29818
+WB/DAR/78A08/2015/87
+West Bengal
+Darjeeling
+NH-31A 33.15 km from Sevok(Tiger 
+Bridge) towards  Gangtok
+33.15 km from Sevok(Tiger 
+Bridge) on NH-31A towards  
+Gangtok
+27.081041
+88.451458
+Debris
+Flow
+2007
+29819
+WB/DAR/78A04/2021/PDLS/53
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08105244
+88.09160601
+Debris
+Slide
+October 2021
+29820
+WB/DAR/78A12/2015/1472
+West Bengal
+Darjeeling
+ 
+ 
+27.081287
+88.536762
+Debris
+Slide
+2012
+29821
+WB/DAR/78A12/2015/201
+West Bengal
+Darjeeling
+Jaksing village, Pandoo GP, Kurseong 
+Block
+Jaksing village, Pandoo GP, 
+Kurseong Block
+27.0814
+88.5072
+Debris
+Slide
+2007
+29822
+WB/DAR/78A12/2015/1473
+West Bengal
+Darjeeling
+ 
+ 
+27.081494
+88.535867
+Debris
+Slide
+2012
+29823
+WB/DAR/78A08/2015/150
+West Bengal
+Darjeeling
+Chisopani,
+Chisapani, Kalimpong.
+27.081607
+88.48978
+Rock
+Slide
+2015
+29824
+WB/DAR/78A08/2015/156
+West Bengal
+Darjeeling
+Chisopani,
+Chisapani, Kalimpong.
+27.081646
+88.490146
+Rock
+Slide
+2015
+29825
+WB/DARJ/78A08/2011/0281
+West Bengal
+Darjeeling
+ 
+NH31A
+27.082
+88.446
+Debris
+Slide
+NA
+29826
+WB/DARJ/78A08/2007/0282
+West Bengal
+Darjeeling
+ 
+33.15 km from Sevok(Tiger 
+Bridge) on NH-31A towards 
+Gangtok
+27.082
+88.452
+Debris
+Flow
+NA
+29827
+WB/DARJ/78A08/2006/0307
+West Bengal
+Darjeeling
+ 
+2 km from Kalimpong town 
+towards Algara
+27.082
+88.464
+Rock cum Debris
+Flow
+2006
+29828
+WB/DAR/78A08/2015/39
+West Bengal
+Darjeeling
+2 km from Kalimpong town towards  
+Algara
+2 km from Kalimpong town 
+towards  Algara
+27.082
+88.464
+Rock cum Debris
+Flow
+2006
+29829
+WB/DAR/78A04/2021/PDLS/11
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08209627
+88.15967166
+Debris
+Slide
+October 2021
+29830
+WB/DAR/78A08/2015/1357
+West Bengal
+Darjeeling
+MELLI ROAD
+MELLI ROAD, KALIMPONG
+27.08225
+88.446028
+Debris
+Slide
+2014

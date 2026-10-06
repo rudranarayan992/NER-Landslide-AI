@@ -1,0 +1,189 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+8535
+HP/SIR/53F/10 /2017/01
+Himachal Pradesh
+Sirmur
+27.150 to 27.250 Km. Minor Slope 
+Failure/ Disturbed Zone
+27.150 to 27.250 Km., Paonta 
+Sahib - Sataun - Shilai Road NH-
+707 (Old No. 72B), Dist. Sirmaur, 
+H.P.
+30.58886389
+77.65825833
+Rock cum debris
+Slide
+NA
+8536
+HP/SIR/53F/10 /2017/02
+Himachal Pradesh
+Sirmur
+26.650 to 26.800 Km.  Landslide
+26.650 to 26.800 Km., Paonta 
+Sahib - Sataun - Shilai Road NH-
+707 (Old No. 72B), Dist. Sirmur, 
+H.P.
+30.58992778
+77.65168056
+Rock cum debris
+Slide
+NA
+8537
+HP/SIR/53F/10 /2017/03
+Himachal Pradesh
+Sirmur
+24.0 to 24.100 Km. Landslide
+24.0  to  24.100  Km.,  Paonta  
+Sahib  -  Sataun  -  Shilai  Road  
+NH-707  (Old  No.
+72B), Dist. Sirmaur, H.P.
+30.57501667
+77.65348056
+Rock cum debris
+Fall
+NA
+8538
+HP/SIR/53F/10 /2017/04
+Himachal Pradesh
+Sirmur
+19.550 to 19.750 Km.  Landslide
+19.550 to 19.750 Km.,   Paonta 
+Sahib - Sataun - Shilai Road NH-
+707 (Old No.
+72B), Dist. Sirmaur, H.P.
+30.56023056
+77.64343333
+Debris
+Fall/Slide
+NA
+8539
+HP/SIR/53F06/2017/05
+Himachal Pradesh
+Sirmur
+8.000 to 8.100 Km. (Jangirug -1) 
+Landslide
+8.000 to 8.100 Km., Jangirug 
+Village, Dist. Sirmaur, H.P. on 
+Kumarhatti -
+Sarahan - Nahan road (NH-
+907A).
+30.58376389
+77.2963
+Rock cum debris
+Slide
+2017
+8540
+HP/SIR/53F06/2017/06
+Himachal Pradesh
+Sirmur
+8.200 to 8.300 Km. (Jangirug -2) 
+Landslide
+8.200 to 8.300 Km., Jangirug 
+Village, Dist. Sirmaur, H.P. on 
+Kumarhatti -
+Sarahan - Nahan road (NH-
+907A).
+30.58581111
+77.2964
+Rock cum debris
+Slide
+2017
+8541
+HP/SIR/53F06/2017/07
+Himachal Pradesh
+Sirmur
+13.800 to 14.000 Km. (Renuka Do 
+Sadka) Landslide
+13.800 to 14.000 Km.,Renuka 
+Do Sadka road junction, District  
+Sirmaur,
+H.P. on Kumarhatti - Sarahan-
+Nahan road (NH-907A).
+30.59701389
+77.29059722
+Rock cum debris
+Slide
+2017
+8542
+HP/SIR/53F06/2017/08
+Himachal Pradesh
+Sirmur
+15.200 to 15.350 Km. (Ladu Landslide) 15.200 to 15.350 Km., Ladu 
+Village,Dist. Sirmaur, H.P. on 
+Kumarhatti -
+Sarahan-Nahan road (NH-
+907A).
+30.61211111
+77.288475
+Rock
+Slide
+2017
+8543
+HP/SIR/53F06/2017/09
+Himachal Pradesh
+Sirmur
+61.900 to 62.000 Km. (Gadshaya 
+Landslide)
+61.900  to  62.000  Km.,  
+Gadshaya  Village,  District  
+Sirmaur,  H.P.  on
+Kumarhatti - Sarahan - Nahan 
+road (NH-907A).
+30.82098889
+77.09651111
+Rock cum debris
+Slide
+2017
+8544
+HP/KUL/53E06/2017/02
+Himachal Pradesh
+Kullu
+Mashnoo Nala Landslide
+Near  Khanar  Village,  Dist.  
+Kullu,  H.P.  on  Sainj  -  Anni  -  
+Jalouri  -
+Aut road (NH-305).
+31.5267
+77.40256944
+Debris
+Slide
+NA
+8545
+HP/KUL/53E06/2017/03
+Himachal Pradesh
+Kullu
+Kot Nala Landslide
+Near Khanar Village, Dist. Kullu, 
+H.P. on Sainj - Anni - Jalouri - 
+Aut road
+(NH-305).
+31.51934444
+77.41823889
+Debris
+Slide
+NA
+8546
+HP/KUL/53E07/2017/04
+Himachal Pradesh
+Kullu
+Banigad Landslide
+Near  Banigad  Village,  Dist.  
+Kullu,  H.P.  on  Sainj  - Anni  -  
+Jalouri  -  Aut
+road (NH-305).
+31.46465
+77.42683056
+Debris
+Slide
+2016

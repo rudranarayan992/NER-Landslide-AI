@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1309
+AP/WSG/83I09/2021/105
+Arunachal Pradesh
+West Siang
+Garu-Siji road section slide 4
+Garu-Siji road section
+27.773972
+94.7135
+Rock
+Slide
+NA
+1310
+AP/WSG/83I09/2021/104
+Arunachal Pradesh
+West Siang
+Garu-Siji road section slide 3
+Garu-Siji road section
+27.777278
+94.715583
+Debris
+Slide
+NA
+1311
+AP/KD/83E09/2021/44
+Arunachal Pradesh
+Kra Daadi
+Near Pitak slide 1
+Near Pitak
+27.78
+93.456231
+Debris
+Slide
+NA
+1312
+AP/KD/83E09/2021/43
+Arunachal Pradesh
+Kra Daadi
+Near Pitak slide 2
+Near Pitak
+27.781792
+93.477942
+Debris
+Slide
+NA
+1313
+AP/KK/83E09/2021/36
+Arunachal Pradesh
+Kurung Kumey
+Lower Gida slide
+Lower Gida
+27.782139
+93.546139
+Debris
+Slide
+NA
+1314
+AP/KD/83E09/2021/38
+Arunachal Pradesh
+Kra Daadi
+Upper Mer slide 1
+N of Upper Mer
+27.783667
+93.600806
+Debris
+Slide
+NA
+1315
+AP/WSG/83I09/2021/103
+Arunachal Pradesh
+West Siang
+Garu-Siji road section slide 2
+Garu-Siji road section
+27.786833
+94.720111
+Rock
+Slide
+NA
+1316
+AP/WSG/83I09/2021/101
+Arunachal Pradesh
+West Siang
+Siji Camp slide
+NE of Siji Camp
+27.788194
+94.724194
+Rock
+Slide
+NA
+1317
+AP/KK/83E09/2021/34
+Arunachal Pradesh
+Kurung Kumey
+Powak Korar slide
+Powak Korar
+27.788389
+93.526528
+Debris
+Slide
+NA
+1318
+AP/KK/83E09/2021/35
+Arunachal Pradesh
+Kurung Kumey
+Sangme slide
+Sangme
+27.788639
+93.539667
+Debris
+Slide
+NA
+1319
+AR/LS/83I13/2022/102
+Arunachal Pradesh
+Lower Siang
+Old Deka village Slide 1
+Old Deka road
+27.790489
+94.958147
+Debris
+Slide
+NA
+1320
+AR/LS/83I13/2022/103
+Arunachal Pradesh
+Upper Siang
+Old Deka village Slide 2
+Old Deka road
+27.793761
+94.959097
+Debris
+Slide
+NA
+1321
+AP/WSG/83I09/2021/100
+Arunachal Pradesh
+West Siang
+Garu-Siji road section slide 1
+Garu-Siji road section
+27.793917
+94.728806
+Rock
+Slide
+NA
+1322
+AP/WSG/83I09/2021/99
+Arunachal Pradesh
+West Siang
+Garo- Basar road slide 7
+Garo-Basar road section
+27.794333
+94.73075
+Rock
+Slide
+NA
+1323
+AP/KD/83E09/2021/37
+Arunachal Pradesh
+Kra Daadi
+Upper Mer slide 2
+N of Upper Mer
+27.794583
+93.597306
+Debris
+Slide
+NA
+1324
+AP/WSG/83I09/2021/98
+Arunachal Pradesh
+West Siang
+Garo- Basar road slide 6
+Garo-Basar road section
+27.797389
+94.735333
+Rock
+Slide
+NA
+1325
+AP/US/83E09/2021/06
+Arunachal Pradesh
+Upper Subansiri
+Belo village slide
+Belo village
+27.797806
+93.96175
+Debris
+Slide
+NA
+1326
+AP/KK/83E09/2021/33
+Arunachal Pradesh
+Kurung Kumey
+Tachek slide
+Tachek
+27.801194
+93.541944
+Debris
+Slide
+NA
+1327
+AP/KK/83E09/2021/32
+Arunachal Pradesh
+Kurung Kumey
+Byasi village slide 1
+Byasi village
+27.801194
+93.541667
+Debris
+Slide
+NA
+1328
+AP/KK/83E09/2021/31
+Arunachal Pradesh
+Kurung Kumey
+Byasi village slide 2
+Byasi village
+27.803972
+93.543083
+Debris
+Slide
+NA
+1329
+AP/WSG/83I09/2021/97
+Arunachal Pradesh
+West Siang
+Garo- Basar road slide 5
+Garo-Basar road section
+27.804361
+94.715056
+Rock
+Slide
+NA
+1330
+AP/WSG/83I09/2021/96
+Arunachal Pradesh
+West Siang
+Ego- Basar road slide 2
+Ego-Basar road section
+27.804944
+94.719861
+Rock
+Slide
+NA
+1331
+AP/KM/83I01/2021/3
+Arunachal Pradesh
+Kamle
+Hardampo slide
+Hardampo
+27.813833
+94.134333
+Debris
+Slide
+NA
+1332
+AP/KK/83E09/2021/18
+Arunachal Pradesh
+Kurung Kumey
+Rowa village slide
+Near Rowa village
+27.814806
+93.521
+Rock
+Slide
+NA
+1333
+AP/KM/83I01/2021/4
+Arunachal Pradesh
+Kamle
+Orokem slide
+Orokem
+27.81975
+94.138722
+Debris
+Slide
+NA
+1334
+AP/US/83E09/2021/17
+Arunachal Pradesh
+Upper Subansiri
+Gangte village slide
+Gangte village
+27.81975
+93.945556
+Debris
+Slide
+NA
+1335
+AP/WSG/83I09/2021/94
+Arunachal Pradesh
+West Siang
+Garo- Basar road slide 4
+Garo-Basar road section
+27.821278
+94.730278
+Debris
+Slide
+NA
+1336
+AP/KM/83I01/2021/1
+Arunachal Pradesh
+Kamle
+4km NE of Raga slide
+NE of Raga
+27.821861
+94.104806
+Debris
+Slide
+NA
+1337
+AP/WSG/83I09/2021/95
+Arunachal Pradesh
+West Siang
+Ego- Basar road slide 1
+Ego-Basar road section
+27.821889
+94.730417
+Debris
+Slide
+NA
+1338
+AP/KM/83I01/2021/2
+Arunachal Pradesh
+Kamle
+Kemlico slide
+Kemlico
+27.822556
+94.135417
+Debris
+Slide
+NA
+1339
+AP/WSG/83I09/2021/93
+Arunachal Pradesh
+West Siang
+Garo- Basar road slide 3
+Garo-Basar road section
+27.823139
+94.732972
+Debris
+Slide
+NA
+1340
+AP/WSG/83I09/2021/92
+Arunachal Pradesh
+West Siang
+Garo- Basar road slide 2
+Garo-Basar road section
+27.824889
+94.739556
+Debris
+Slide
+NA
+1341
+AP/WSG/83I09/2021/91
+Arunachal Pradesh
+West Siang
+Garo- Basar road slide 1
+Garo-Basar road section
+27.825694
+94.747
+Rock
+Slide
+NA
+1342
+AP/US/83E09/2021/11
+Arunachal Pradesh
+Upper Subansiri
+Radum village slide 2
+Radum village
+27.827472
+93.972556
+Debris
+Slide
+NA
+1343
+AP/US/83E09/2021/10
+Arunachal Pradesh
+Upper Subansiri
+Radum village slide 1
+Radum village
+27.827806
+93.972167
+Debris
+Slide
+NA
+1344
+AP/LS/83E09/2021/09
+Arunachal Pradesh
+Lower Subansiri
+Riaga slide 2
+Near Riaga
+27.82925
+93.911194
+Debris
+Slide
+NA
+1345
+AP/KM/83I01/2021/5
+Arunachal Pradesh
+Kamle
+2km NW of Godak Village slide
+NW of Godak Village
+27.8305
+94.157444
+Rock
+Fall
+NA
+1346
+AP/LS/83E09/2021/08
+Arunachal Pradesh
+Lower Subansiri
+Riaga slide 1
+Near Riaga
+27.830944
+93.917028
+soil
+Slide
+NA
+1347
+AP/KK/83E09/2021/19
+Arunachal Pradesh
+Kurung Kumey
+Nibi village slide
+Nibi village
+27.83275
+93.504417
+Debris
+Slide
+NA
+1348
+AP/US/83E09/2021/12
+Arunachal Pradesh
+Upper Subansiri
+Hebang village slide
+Hebang village
+27.833306
+93.978611
+Debris
+Slide
+NA
+1349
+AR/WS/82I13/2022/092
+Arunachal Pradesh
+West Siang
+Likabali-Aalo road Slide 1
+Silapathar- Rilu road
+27.834083
+94.768972
+Debris
+Slide
+NA
+1350
+AP/LS/83E09/2021/07
+Arunachal Pradesh
+Lower Subansiri
+Baring village slide
+Baring village
+27.8345
+93.933694
+Debris
+Slide
+NA
+1351
+AP/US/83E09/2021/13
+Arunachal Pradesh
+Upper Subansiri
+Luba village slide 3
+Luba village
+27.83875
+93.977278
+Debris
+Slide
+NA
+1352
+AP/US/83E09/2021/14
+Arunachal Pradesh
+Upper Subansiri
+Luba village slide 2
+Luba village
+27.83975
+93.977444
+Debris
+Slide
+NA
+1353
+AR/WS/83I13/2022/091
+Arunachal Pradesh
+West Siang
+S of Rilu village Slide
+Near Rilu village
+27.839817
+94.778642
+Debris
+Slide
+NA
+1354
+AP/US/83E09/2021/15
+Arunachal Pradesh
+Upper Subansiri
+Luba village slide 4
+Luba village
+27.840167
+93.980861
+Debris
+Slide
+NA
+1355
+AR/WS/82I13/2022/093
+Arunachal Pradesh
+West Siang
+Likabali-Aalo road Slide 2
+Silapathar- Basar road
+27.840972
+94.771167
+Debris
+Slide
+NA
+1356
+AP/US/83E09/2021/16
+Arunachal Pradesh
+Upper Subansiri
+Luba village slide 1
+Luba village
+27.844444
+93.973944
+Debris
+Slide
+NA
+1357
+AR/WS/83I13/2022/094
+Arunachal Pradesh
+West Siang
+Likabali-Aalo road Slide 3
+Silapathar- Basar road
+27.847111
+94.783139
+Debris
+Slide
+NA
+1358
+AP/KK/83E09/2021/30
+Arunachal Pradesh
+Kurung Kumey
+New Dillang slide
+Dillang new
+27.854583
+93.484722
+Debris
+Slide
+NA
+1359
+AR/WS/83I13/2022/096
+Arunachal Pradesh
+West Siang
+Likabali-Aalo road Slide 5
+Likabali-Aalo road
+27.858889
+94.78875
+Debris
+Slide
+NA

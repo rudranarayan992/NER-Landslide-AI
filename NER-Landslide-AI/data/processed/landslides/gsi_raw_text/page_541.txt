@@ -1,0 +1,460 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21612
+MZ/CHA/84E07/2017/70
+Mizoram
+Champhai
+ 
+Hruikawn Rd
+23.36545
+93.377907
+Rock
+Fall
+NA
+21613
+MZ/CHA/84E07/2017/73
+Mizoram
+Champhai
+ 
+Hruikawn Rd (Zokhawthar)
+23.366333
+93.380028
+Debris
+Slide
+NA
+21614
+MZ/CHA/84E07/2017/75
+Mizoram
+Champhai
+ 
+Hruikawn Rd (Zokhawthar)
+23.366694
+93.380139
+Rock
+Fall
+NA
+21615
+MZ/CHA/84E07/2017/77
+Mizoram
+Champhai
+ 
+Hruikawn Rd (Zokhawthar)
+23.367333
+93.380083
+Soil
+Slide
+NA
+21616
+MZ/CHA/84E07/2017/78
+Mizoram
+Champhai
+ 
+Hruikawn Rd (Zokhawthar)
+23.367806
+93.381139
+Debris
+Flow
+NA
+21617
+MZ/CHA/84E07/2017/79
+Mizoram
+Champhai
+ 
+ZokhawtharHruikawn Rd
+23.368361
+93.379667
+Debris
+Slide
+NA
+21618
+MZ/CHA/84E07/2017/80
+Mizoram
+Champhai
+ 
+ZokhawtharHruikawn Rd
+23.368386
+93.380632
+Soil
+Slide
+NA
+21619
+MZ/CHA/84E07/2017/81
+Mizoram
+Champhai
+ 
+2.3 km Dilkawn
+23.369857
+93.296657
+Debris
+Slide
+NA
+21620
+MZ/CHA/84E03/2017/62
+Mizoram
+Champhai
+ 
+South of Khawhai
+23.370167
+93.120444
+Rock
+Slide
+NA
+21621
+MZ/CHA/84E07/2017/82
+Mizoram
+Champhai
+ 
+Zakhowthar Melbuk Rd
+23.373849
+93.383061
+Debris
+Slide
+NA
+21622
+MZ/CHA/84E03/2017/63
+Mizoram
+Champhai
+ 
+Khawhai Dil
+23.37492
+93.1185
+Rock
+Slide
+NA
+21623
+MZ/CHA/84E07/2017/83
+Mizoram
+Champhai
+Zokhawthar slide 4
+Zakhowthar Melbuk Rd
+23.375634
+93.384499
+Debris
+Slide
+2017
+21624
+MZ/CHA/84E07/2017/85
+Mizoram
+Champhai
+ 
+Zakhowthar Melbuk Rd
+23.375972
+93.384639
+Rock
+Slide
+NA
+21625
+MZ/CHA/84E07/2017/86
+Mizoram
+Champhai
+ 
+Zakhowthar Melbuk Rd
+23.376472
+93.384778
+Debris
+Slide
+NA
+21626
+MZ/CHA/84E07/2017/87
+Mizoram
+Champhai
+ 
+Zakhowthar Melbuk Rd
+23.3765
+93.384861
+Debris
+Slide
+NA
+21627
+MZ/CHA/84E03/2017/65
+Mizoram
+Champhai
+ 
+Chalrang village
+23.378571
+93.218843
+Soil
+Slide
+NA
+21628
+MZ/CHA/84E07/2017/88
+Mizoram
+Champhai
+ 
+Zakhowthar Melbuk Rd
+23.379469
+93.385565
+Soil
+Slide
+NA
+21629
+MZ/CHA/84E07/2017/90
+Mizoram
+Champhai
+ 
+Zakhowthar Melbuk Rd
+23.379732
+93.383565
+Rock
+Slide
+NA
+21630
+MZ/CHA/84E07/2017/89
+Mizoram
+Champhai
+ 
+Zakhowthar Melbuk Rd
+23.379812
+93.384813
+Rock
+Slide
+NA
+21631
+MZ/CHA/84E03/2017/66
+Mizoram
+Champhai
+ 
+Near Khawhai school
+23.38075
+93.13075
+Soil
+Slide
+NA
+21632
+MZ/CHA/84E03/2017/67
+Mizoram
+Champhai
+ 
+Near Khawhai junction
+23.380806
+93.128917
+Rock
+Slide
+NA
+21633
+MZ/CHA/84E03/2017/68
+Mizoram
+Champhai
+Khawhai slide
+Khawhai  Tung Tan road
+23.381167
+93.112917
+Rock
+Slide
+NA
+21634
+MZ/CHA/84E07/2017/92
+Mizoram
+Champhai
+ 
+Zakhowthar Melbuk Rd
+23.382417
+93.384944
+Soil
+Slide
+NA
+21635
+MZ/CHA/84E03/2017/69
+Mizoram
+Champhai
+Khawhai slide
+khawhai  Tung Tan road
+23.382695
+93.116001
+Debris
+Slide
+NA
+21636
+MZ/SER/84A15/2016/30
+Mizoram
+Serchhip
+ 
+Chhiahtlang Village, NH-54 
+Aizawl-Serchhip-Lunglei Road
+23.383745
+92.845792
+Debris
+Slide
+NA
+21637
+MZ/CHA/84E03/2017/70
+Mizoram
+Champhai
+ 
+Khawhai  Tung Tan road
+23.383778
+93.115972
+Soil
+Slide
+NA
+21638
+MZ/CHA/84E03/2017/71
+Mizoram
+Champhai
+ 
+West of Chalrang village
+23.384222
+93.145528
+Rock
+Slide
+NA
+21639
+MZ/SER/84A15/2016/63
+Mizoram
+Serchhip
+ 
+Chhaitlang vengchung, NH-54 
+Aizawl-Serchhip-Lunglei Road
+23.385211
+92.844697
+Debris
+Slide
+2016
+21640
+MZ/SER/84A15/2016/64
+Mizoram
+Serchhip
+ 
+Near District Jail, Serchhip, 
+Chhingchhip-Sialhau Road
+23.38533
+92.855433
+Debris
+Slide
+2016
+21641
+MZ/CHA/84E03/2017/72
+Mizoram
+Champhai
+ 
+West of Chalrang village
+23.387194
+93.147806
+Soil
+Slide
+NA
+21642
+MZ/SER/84A15/2016/129
+Mizoram
+Serchhip
+ 
+North of Sialhau, PMGSY 
+Thentlang-Sialhau Road
+23.387328
+92.933397
+Rock
+Slide
+2016
+21643
+MZ/CHA/84E07/2017/93
+Mizoram
+Champhai
+ 
+Kelkang village
+23.388162
+93.312962
+Debris
+Slide
+NA
+21644
+MZ/SER/84A15/2016/31
+Mizoram
+Serchhip
+ 
+Near Presbyterian Kohran, 
+Chhiahtlang, NH-54 Aizawl-
+Serchhip-Lunglei Road
+23.388377
+92.845102
+Rock
+Slide
+2014
+21645
+MZ/CHA/84E03/2017/73
+Mizoram
+Champhai
+Champhai slide
+Jail Veng Rd, Champhai
+23.388585
+93.2446
+Rock
+Slide
+NA
+21646
+MZ/CHA/84E07/2017/94
+Mizoram
+Champhai
+ 
+0.8km towards Mualkawi
+23.390204
+93.311043
+Rock
+Slide
+NA
+21647
+MZ/CHA/84E07/2017/95
+Mizoram
+Champhai
+ 
+MelbukMulkawi Rd
+23.391352
+93.376359
+Rock
+Fall
+NA
+21648
+MZ/CHA/84E07/2017/96
+Mizoram
+Champhai
+ 
+MelbukMulkawi Rd
+23.391983
+93.376078
+Debris
+Slide
+NA
+21649
+MZ/CHA/84E07/2017/97
+Mizoram
+Champhai
+ 
+MelbukMulkawi Rd
+23.392598
+93.375863
+Rock
+Fall
+NA
+21650
+MZ/CHA/84E07/2017/98
+Mizoram
+Champhai
+ 
+East of Melbuk
+23.393194
+93.378917
+Debris
+Slide
+NA
+21651
+MZ/AIZ/84A11/2016/111
+Mizoram
+Aizawl
+ 
+About 500m of Sialsuk Junction 
+towards Thenzawl, SH-Aizawl-
+Thenzawl-Lunglei Road
+23.393332
+92.758148
+Rock
+Slide
+2016

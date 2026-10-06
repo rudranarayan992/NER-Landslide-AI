@@ -1,0 +1,515 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+19912
+MEGH/EKH/78O15/2008/D-45
+Meghalaya
+East Khasi Hills
+Pynursla-3 slide
+ 
+25.311778
+91.917528
+Rock
+Slide
+NA
+19913
+ME/WJH/83C03/2015/170
+Meghalaya
+West Jaintia Hills
+ 
+7km S of Jarain
+25.312667
+92.130417
+Debris
+Slide
+NA
+19914
+ML/SWKH/78O07/2014/01
+Meghalaya
+South West Khasi  Hills
+Tynnai Ground crack
+Tynnai Village
+25.31458
+91.45242
+Rock
+Creep
+6 August 2013
+19915
+MEGH/WKH/78O07/2007/D-10 Meghalaya
+West Khasi Hills
+Tynnai (West) slide
+ 
+25.31488
+91.44913
+Rock cum Debris
+Slide
+19 July 2007
+19916
+MEGH/WKH/78O07/2007/D-11 Meghalaya
+West Khasi Hills
+Rangjadong slide
+ 
+25.31488
+91.33367
+Debris
+Slide
+19 July 2007
+19917
+ME/EKJ/78O15/2015/140
+Meghalaya
+East Khasi Hills
+ 
+1 km SW of Myllad village
+25.315176
+91.923021
+Rock
+Slide
+19 July 2007
+19918
+MG/EJH/83C11/2018/13
+Meghalaya
+East Jaintia Hills
+Thuruk slide no 1
+Lura-Thuruk road
+25.316069
+92.685461
+Rock
+Slide
+NA
+19919
+MG/EJH/83C11/2018/15
+Meghalaya
+East Jaintia Hills
+Thuruk slide no 3
+Lura-Thuruk road
+25.316519
+92.692311
+Debris
+Slide
+NA
+19920
+MG/EJH/83C11/2018/16
+Meghalaya
+East Jaintia Hills
+Thuruk slide no 4
+Lura-Thuruk road
+25.316519
+92.692
+Soil
+Fall
+NA
+19921
+MG/EJH/83C11/2018/14
+Meghalaya
+East Jaintia Hills
+Thuruk slide no 2
+Lura-Thuruk road
+25.316589
+92.687186
+Soil
+Slide
+NA
+19922
+MG/EJH/83C11/2018/18
+Meghalaya
+East Jaintia Hills
+Thuruk slide no 6
+Lura-Thuruk road
+25.318161
+92.687219
+Rock
+Slide
+NA
+19923
+MEGH/WKH/78O07/2007/D-12 Meghalaya
+West Khasi Hills
+Tynnai East slide
+ 
+25.31848
+91.45262
+Debris
+Fall
+19 July 2007
+19924
+ME/EKJ/78O15/2015/134
+Meghalaya
+East Khasi Hills
+ 
+Approach road to Nongsder
+25.320833
+91.9275
+Rock
+Slide
+19 July 2007
+19925
+ME/EKJ/78O15/2015/133
+Meghalaya
+East Khasi Hills
+ 
+Approach road to Nongsder
+25.321102
+91.927514
+Rock
+Slide
+NA
+19926
+MG/EJH/83C11/2018/19
+Meghalaya
+East Jaintia Hills
+Tongseng slide
+Tongseng agri link road
+25.321975
+92.504228
+Soil
+Slide
+NA
+19927
+ME/EKJ/78O15/2015/132
+Meghalaya
+East Khasi Hills
+ 
+Approach road to Nongsder
+25.322897
+91.927752
+Rock
+Slide
+NA
+19928
+ME/EKJ/78O15/2015/126
+Meghalaya
+East Khasi Hills
+ 
+myllad approach raod
+25.324583
+91.940667
+Debris
+Slide
+NA
+19929
+ME/EKJ/78O15/2015/125
+Meghalaya
+East Khasi Hills
+ 
+Myllad approach raod
+25.324806
+91.942194
+Debris
+Slide
+NA
+19930
+ME/EKJ/78O15/2015/127
+Meghalaya
+East Khasi Hills
+ 
+Myllad approach raod
+25.324861
+91.938389
+Debris
+Slide
+NA
+19931
+ME/EKJ/78O15/2015/124
+Meghalaya
+East Khasi Hills
+ 
+Myllad approach raod
+25.324889
+91.943417
+Debris
+Slide
+NA
+19932
+ME/EKJ/78O15/2015/128
+Meghalaya
+East Khasi Hills
+ 
+Myllad approach raod
+25.325889
+91.935222
+Debris
+Slide
+NA
+19933
+MG/EKH/78O11/2017/4
+Meghalaya
+East Khasi Hills
+ 
+village approach road
+25.326032
+91.659568
+Rock
+Slide
+NA
+19934
+ME/EKJ/78O15/2015/130
+Meghalaya
+East Khasi Hills
+ 
+Approach road to Nongsder
+25.326063
+91.931808
+Debris
+Slide
+NA
+19935
+ME/EKJ/78O15/2015/131
+Meghalaya
+East Khasi Hills
+ 
+Approach road to Nongsder
+25.326204
+91.932463
+Debris
+Slide
+NA
+19936
+ME/EKJ/78O15/2015/129
+Meghalaya
+East Khasi Hills
+ 
+Myllad approach raod
+25.326694
+91.933972
+Debris
+Slide
+NA
+19937
+ME/EKJ/78O15/2015/107
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (Shillong-Dauki road)
+25.32765
+91.893414
+Debris
+Slide
+NA
+19938
+MG/EKH/78O11/2017/15
+Meghalaya
+East Khasi Hills
+ 
+vilalge approach road
+25.331209
+91.67737
+Rock
+Slide
+NA
+19939
+MG/EKH/78O11/2017/12
+Meghalaya
+East Khasi Hills
+ 
+village approach road
+25.331948
+91.661011
+Rock
+Slide
+NA
+19940
+ME/EKJ/78O15/2015/143
+Meghalaya
+East Khasi Hills
+ 
+1.2 km NE of Myllad village
+25.332836
+91.934395
+Rock
+Slide
+NA
+19941
+MG/EJH/83C11/2018/12
+Meghalaya
+East Jaintia Hills
+Bomkhosngi slide
+Bomkhosngi-Saipung road
+25.333758
+92.589778
+Soil
+Slide
+NA
+19942
+ME/EKJ/78O15/2015/72
+Meghalaya
+East Khasi Hills
+ 
+khrang approach road
+25.338631
+91.777559
+Rock
+Slide
+NA
+19943
+ME/EKJ/78O15/2015/71
+Meghalaya
+East Khasi Hills
+ 
+khrang approach road
+25.338711
+91.775111
+Rock
+Fall
+NA
+19944
+MG/EJH/83C11/2018/11
+Meghalaya
+East Jaintia Hills
+Daistong slide no 4
+2 km north of Daistong
+25.339339
+92.584781
+Rock
+Fall
+NA
+19945
+ME/WJH/883C03/2015/194
+Meghalaya
+West Jaintia Hills
+ 
+ 
+25.341306
+92.009611
+Rock
+Slide
+NA
+19946
+MG/EJH/83C11/2018/21
+Meghalaya
+East Jaintia Hills
+Daistong slide no 6
+Daistong village
+25.342269
+92.58225
+Debris
+Slide
+NA
+19947
+ME/WJH/83C03/2015/174
+Meghalaya
+West Jaintia Hills
+ 
+ 
+25.343028
+92.0625
+Rock
+Slide
+NA
+19948
+MG/EJH/83C11/2018/20
+Meghalaya
+East Jaintia Hills
+Daistong slide no 5
+1 km north of Daistong village
+25.343111
+92.584269
+Rock
+Slide
+NA
+19949
+ME/WJH/83C03/2015/173
+Meghalaya
+West Jaintia Hills
+ 
+2.5km NW of Mynsang
+25.343528
+92.069028
+Rock
+Slide
+NA
+19950
+MG/EJH/83C11/2018/10
+Meghalaya
+East Jaintia Hills
+Daistong slide no-3
+1 km North of Daistong
+25.343939
+92.5849
+Rock
+Slide
+NA
+19951
+MEG/EKH/78O15/2021/02
+Meghalaya
+East Khasi Hills
+NA
+NA
+25.345
+91.891
+Rock
+Slide
+March-April 2022
+19952
+ME/EKJ/78O15/2015/106
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (Shillong-Dauki road)
+25.34555
+91.891461
+Rock
+Slide
+NA
+19953
+MEGH/EKH/78O15/2008/D-46
+Meghalaya
+East Khasi Hills
+Lingkardem slide
+ 
+25.345611
+91.895
+Rock
+Slide
+NA
+19954
+ME/WJH/883C03/2015/187
+Meghalaya
+West Jaintia Hills
+ 
+ 
+25.346111
+92.00675
+Rock
+Slide
+NA
+19955
+ME/EKJ/78O15/2015/59
+Meghalaya
+East Khasi Hills
+ 
+NH-40
+25.346641
+91.891987
+Rock
+Fall
+NA
+19956
+ME/WJH/883C03/2015/188
+Meghalaya
+West Jaintia Hills
+ 
+ 
+25.346972
+92.008278
+Rock
+Slide
+NA
+19957
+ME/WJH/883C03/2015/190
+Meghalaya
+West Jaintia Hills
+ 
+ 
+25.347353
+92.010558
+Rock
+Slide
+NA

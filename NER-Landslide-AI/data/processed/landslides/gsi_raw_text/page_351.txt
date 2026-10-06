@@ -1,0 +1,357 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14616
+267
+Kerala
+Idukki
+Chinnaparakkudi
+Adimali - Chinnaprarkkudi road
+9.998928
+76.942668
+Debris
+Slide
+15th August, 2018
+14617
+268
+Kerala
+Idukki
+S P Kudi
+Adimali - Chinnaprarkkudi road
+10.008157
+76.934999
+Debris
+Slide
+15th August, 2018
+14618
+269
+Kerala
+Idukki
+S P Kudi
+Adimali - Chinnaprarkkudi road
+10.007979
+76.934532
+Debris
+Slide
+15th August, 2018
+14619
+270
+Kerala
+Idukki
+S P Kudi
+Adimali - Chinnaprarkkudi road
+10.008478
+76.932793
+Debris
+Slide
+14th August, 2018
+14620
+271
+Kerala
+Idukki
+Thalathorappan
+Adimali - Chinnaprarkkudi road
+10.007057
+76.925216
+Debris
+Flow
+15th August, 2018
+14621
+272
+Kerala
+Idukki
+Pazhayapallichal
+Irumbupalam - Pazhampallichal 
+road
+10.060927
+76.830843
+Debris
+Slide
+15th August, 2018
+14622
+273
+Kerala
+Idukki
+Pazhayapallichal
+Irumbupalam - Pazhampallichal 
+road
+10.062068
+76.830604
+Debris
+Slide
+16th August, 2018
+14623
+274
+Kerala
+Idukki
+Plakkayam
+Padikkappu - Kattamudi road
+10.043702
+76.88945
+Debris
+Flow
+15th August, 2018
+14624
+275
+Kerala
+Idukki
+Plakkayam
+Padikkappu - Kattamudi road
+10.045443
+76.901089
+Debris
+Slide
+8th August, 2018
+14625
+276
+Kerala
+Idukki
+Kunjipettykudy
+Padikkappu - Kattamudi road
+10.042278
+76.912363
+Debris
+Slide
+9th August, 2018
+14626
+277
+Kerala
+Idukki
+Kunjipettykudy
+Padikkappu - Kattamudi road
+10.042103
+76.912845
+Debris
+Slide
+9th August, 2018
+14627
+278
+Kerala
+Idukki
+Kunjipettykudy
+Padikkappu - Kattamudi road
+10.04169
+76.910918
+Debris
+Slide
+9th August, 2018
+14628
+279
+Kerala
+Idukki
+Kattamudi
+Padikkappu - Kattamudi road
+10.041956
+76.919657
+Debris
+Flow
+14th August, 2018
+14629
+280
+Kerala
+Idukki
+Kattamudikudy
+Padikkappu - Kattamudi road 
+(unmetalled)
+10.042933
+76.924169
+Debris
+Slide
+8th August, 2018
+14630
+281
+Kerala
+Idukki
+Kattamudikudy
+Padikkappu - Kattamudi road 
+(unmetalled)
+10.041862
+76.914002
+Debris
+Slide
+9th August, 2018
+14631
+282
+Kerala
+Idukki
+Plamala
+Peechad - Plamalakudi road
+10.053132
+76.942389
+Debris
+Flow
+15th August, 2018
+14632
+283
+Kerala
+Idukki
+Jnavalpparakkudi
+Peechad - Plamalakudi road
+10.063173
+76.931832
+Debris
+Slide
+15th August, 2018
+14633
+284
+Kerala
+Idukki
+Kudakkallu kudi
+Peechad - Kudakallukudi road
+10.060098
+76.928977
+Debris
+Slide
+July, 2018
+14634
+285
+Kerala
+Idukki
+Kudakkallu kudi
+Peechad - Kudakallukudi road
+10.060082
+76.928721
+Debris
+Slide
+8th August, 2018
+14635
+286
+Kerala
+Idukki
+Kudakkallu kudi
+Peechad - Kudakallukudi road
+10.060891
+76.926327
+Debris
+Slide
+15th August, 2018
+14636
+287
+Kerala
+Idukki
+Kudakkallu kudi
+Peechad - Kudakallukudi road
+10.060595
+76.925942
+Debris
+Flow
+8th August, 2018
+14637
+288
+Kerala
+Idukki
+Kudakkallu kudi
+Peechad - Kudakallukudi road
+10.060128
+76.930063
+Debris
+Slide
+15th August, 2018
+14638
+289
+Kerala
+Idukki
+Kandachal
+Peechad - Kudakallukudi road
+10.058896
+76.941338
+Debris
+Flow
+15th August, 2018
+14639
+290
+Kerala
+Idukki
+Cheeyyappara
+Ernakulam - Munnar road
+10.052865
+76.830616
+Debris
+Slide
+15th August, 2018
+14640
+291
+Kerala
+Idukki
+Cheeyyappara
+Ernakulam - Munnar road
+10.052144
+76.831825
+Debris
+Slide
+15th August, 2018
+14641
+292
+Kerala
+Idukki
+Cheeyyappara
+Ernakulam - Munnar road
+10.050389
+76.835281
+Debris
+Slide
+15th August, 2018
+14642
+293
+Kerala
+Idukki
+Valara
+Ernakulam - Munnar road
+10.048843
+76.838474
+Debris
+Slide
+15th August, 2018
+14643
+294
+Kerala
+Idukki
+Valara
+Ernakulam - Munnar road
+10.047849
+76.840083
+Debris
+Slide
+15th August, 2018
+14644
+295
+Kerala
+Idukki
+Valara
+Ernakulam - Munnar road
+10.041342
+76.842965
+Debris
+Slide
+15th August, 2018
+14645
+296
+Kerala
+Idukki
+Koompanpara
+Adimali - Munnar NH
+10.011409
+76.979942
+Debris
+Slide
+15th August, 2018
+14646
+297
+Kerala
+Idukki
+Pallikkunnu
+Mangulam - Pallikunnu road
+10.120112
+76.932126
+Debris
+Flow
+9th August, 2018

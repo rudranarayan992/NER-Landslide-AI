@@ -1,0 +1,424 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12042
+KA/UDU/48K13/2020/73
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.89
+74.84
+Debris
+Slide
+NA
+12043
+KA/UDU/48K13/2020/74
+Karnataka
+Udupi
+ Nagodi- Kollur road
+ Nagodi- Kollur road
+13.89
+74.84
+Earth
+Slide
+NA
+12044
+KA/SHI/48K13/2020/79
+Karnataka
+Shimoga
+Government high school, Sampekatte Government high school, 
+Sampekatte
+13.89
+74.95
+Debris
+Slide
+NA
+12045
+KA/SHI/48K13/2020/84
+Karnataka
+Shimoga
+Vill. Sunkadavaramane
+Vill. Sunkadavaramane
+13.89
+74.93
+Debris
+Flow
+NA
+12046
+KA/SHI/48O05/2020/32
+Karnataka
+Shimoga
+Maskani
+Maskani
+13.89
+75.33
+Earth
+Slide
+2020
+12047
+KA/SHI/48O05/2020/33
+Karnataka
+Shimoga
+Maskami-1
+Maskami-1
+13.89
+75.33
+Earth
+Slide
+2020
+12048
+KA/SHI/48O05/2020/34
+Karnataka
+Shimoga
+Maskami-2
+Maskami-2
+13.89
+75.33
+Earth
+Slide
+2020
+12049
+KA/SHI/48O05/2020/35
+Karnataka
+Shimoga
+Maskami-3
+Maskami-3
+13.89
+75.33
+Debris
+Slide
+2020
+12050
+KA/SHI/48O01/2020/44
+Karnataka
+Shimoga
+Sunkal-2
+Sunkal-2
+13.89
+75.19
+Debris
+Slide
+2020
+12051
+KA/SHI/48O01/2020/45
+Karnataka
+Shimoga
+Sunkal
+Sunkal
+13.89
+75.19
+Debris
+Slide
+2019
+12052
+KA/SHI/48O01/2020/46
+Karnataka
+Shimoga
+Sunkal-1
+Sunkal-1
+13.89
+75.19
+Debris
+Slide
+2020
+12053
+KA/SHI/48O01/2020/47
+Karnataka
+Shimoga
+Malur
+Malur
+13.89
+75.17
+Debris
+Slide
+2020
+12054
+KA/SHI/48O01/2020/48
+Karnataka
+Shimoga
+Malur-1
+Malur-1
+13.89
+75.17
+Earth
+Slide
+2020
+12055
+KA/SHI/48O01/2020/54
+Karnataka
+Shimoga
+Nagarahalli
+Nagarahalli
+13.89
+75.2
+Earth
+Slide
+2020
+12056
+KA/SHI/48K13/2020/8
+Karnataka
+Shimoga
+Kumbli-Sampekatte road, near village 
+Ambiladi
+Kumbli-Sampekatte road, near 
+village Ambiladi
+13.9
+74.91
+Debris
+Slide
+NA
+12057
+KA/SHI/48K13/2020/9
+Karnataka
+Shimoga
+Kumbli-Sampekatte road
+Kumbli-Sampekatte road
+13.9
+74.91
+Debris
+Slide
+NA
+12058
+KA/SHI/48K13/2020/18
+Karnataka
+Shimoga
+Belur-Madvi road, Near Vill. Madvi
+Belur-Madvi road, Near Vill. 
+Madvi
+13.9
+74.92
+Earth
+Slide
+NA
+12059
+KA/SHI/48K13/2020/19
+Karnataka
+Shimoga
+Belur-Madvi road, Near Vill. Madvi
+Belur-Madvi road, Near Vill. 
+Madvi
+13.9
+74.92
+Earth
+Slide
+NA
+12060
+KA/UDU/48K13/2020/37
+Karnataka
+Udupi
+ Kollur-Nagodi road
+ Kollur-Nagodi road
+13.9
+74.82
+Debris
+Slide
+NA
+12061
+KA/UDU/48K13/2020/38
+Karnataka
+Udupi
+ Kollur-Nagodi road
+ Kollur-Nagodi road
+13.9
+74.82
+Debris
+Slide
+NA
+12062
+KA/UDU/48K13/2020/39
+Karnataka
+Udupi
+ Kollur-Nagodi road
+ Kollur-Nagodi road
+13.9
+74.82
+Debris
+Slide
+NA
+12063
+KA/SHI/48K13/2020/40
+Karnataka
+Shimoga
+ Vill.Holegaru; Nittur-Nagodi road
+ Vill.Holegaru; Nittur-Nagodi 
+road
+13.9
+74.86
+Debris
+Slide
+NA
+12064
+KA/UDU/48K13/2020/49
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.9
+74.84
+Debris
+Slide
+NA
+12065
+KA/UDU/48K13/2020/50
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.9
+74.82
+Debris
+Slide
+NA
+12066
+KA/UDU/48K13/2020/51
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.9
+74.83
+Debris
+Slide
+NA
+12067
+KA/UDU/48K13/2020/52
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.9
+74.83
+Debris
+Slide
+NA
+12068
+KA/UDU/48K13/2020/53
+Karnataka
+Udupi
+ Kollur-Nagodi road
+ Kollur-Nagodi road
+13.9
+74.83
+Debris
+Slide
+NA
+12069
+KA/UDU/48K13/2020/65
+Karnataka
+Udupi
+ Nagodi-Kollur road
+ Nagodi-Kollur road
+13.9
+74.83
+Debris
+Slide
+NA
+12070
+KA/UDU/48K13/2020/67
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.9
+74.83
+Earth
+Slide
+NA
+12071
+KA/UDU/48K13/2020/68
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.9
+74.83
+Debris
+Slide
+NA
+12072
+KA/UDU/48K13/2020/69
+Karnataka
+Udupi
+ Nagodi- Kollur road
+ Nagodi- Kollur road
+13.9
+74.84
+Debris
+Slide
+NA
+12073
+KA/SHI/48K13/2020/75
+Karnataka
+Shimoga
+Vill. Deviyaramane
+Vill. Deviyaramane
+13.9
+74.94
+Earth
+Slide
+2018
+12074
+KA/SHI/48K13/2020/77
+Karnataka
+Shimoga
+Vill. Deviyaramane
+Vill. Deviyaramane
+13.9
+74.94
+Earth
+Slide
+2018
+12075
+KA/SHI/48O05/2020/36
+Karnataka
+Shimoga
+Jiregemane
+Jiregemane
+13.9
+75.3
+Debris
+Slide
+2020
+12076
+KA/SHI/48O05/2020/38
+Karnataka
+Shimoga
+Jiregemane-2
+Jiregemane-2
+13.9
+75.3
+Debris
+Slide
+2020
+12077
+KA/SHI/48O05/2020/39
+Karnataka
+Shimoga
+Jiregemane-3
+Jiregemane-3
+13.9
+75.3
+Earth
+Slide
+2020
+12078
+KA/SHI/48K13/2020/2
+Karnataka
+Shimoga
+Hoshalli
+Hoshalli
+13.91
+74.93
+Debris
+Slide
+NA

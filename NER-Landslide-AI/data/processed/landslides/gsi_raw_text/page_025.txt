@@ -1,0 +1,292 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+765
+AS/KAMRUP(M)/78N16/2014-
+15/0003
+Assam
+Kamrup (Metro)
+Bamunimaidan, South Railway Colony 
+slide.
+SH: Zoo Tiniali-Narengi Road. 
+Localtiy: Bamunimaidan, South 
+Railway Colony (Near Hatigar), 
+Guwahati.
+26.17672222
+91.78672222
+Earth
+Flow
+27 june 2014
+766
+ASM/KAMRUP(M)/78N16/2016-
+17/057
+Assam
+Kamrup (Metro)
+Jyotinagar Slide
+Akashi Nagar, Jyoti Nagar, 
+Guwahati.
+26.1895
+91.78716667
+Earth
+Slide
+18 April 2016
+767
+ASM/DH/83G3/ PD/2017 /02
+Assam
+Dima Hasao (N.C. Hills)
+Mupa slide 
+Between Mupa and Dinhaku 
+Railway Station, 
+25.40586111
+93.11097222
+Debris
+Slide
+20 May 2017
+768
+ASM/DH/83G3/ PD/2017 /01
+Assam
+Dima Hasao (N.C. Hills)
+Boila bridge slide
+Between Mupa and Dinhaku  
+Bridge approach no102, at  km 
+51/9 as 52/1 
+25.39155556
+93.11316667
+Soil
+Subsidence
+03 June 2017
+769
+AS/KRP/78N/16/2018/003
+Assam
+Kamrup
+Hastinapur landslide
+Hastinapur Near Jorabat 
+opposite of cow bazaar.
+26.11266667
+91.85388889
+Debris
+Slide
+24 August 2018
+770
+ASM/CHR/83H01/2020/001
+Assam
+Cachar
+Kanakpur Slide
+Kanakpur Pt. III, Lakhipur, 
+Joypur
+24.92097
+93.07306
+Earth
+Slide
+02 June 2020
+771
+AS/KRP/78N16/2018/002
+Assam
+Kamrup
+Kharghuli slide
+Kharghuli area, near Kharghuli 
+post office in Guwahati.
+26.19530556
+91.76563889
+Debris
+Slide
+31 August 2018
+772
+AS/KAMRUP/78N12/2015-
+16/0001
+Assam
+Kamrup
+Jayguru Kalipahar Slide
+About 200 m North of NH-31, In 
+north of IIT(G) approach
+26.21111111
+91.68416667
+Debris
+Toppled the 
+wedged 
+weathered 
+rocks blocks.
+01 September 2015
+773
+ASM/KAM/78N16/2020/001
+Assam
+Kamrup (Metro)
+Hirimbapur landslide
+Kharghuli
+26.19330556
+91.77725
+Debris
+Slide
+28 June 2020
+774
+ASM/KAM/78N16/2020/002
+Assam
+Kamrup (Metro)
+Ambher landslide
+12th mile near Jorabat
+26.09150556
+91.87898611
+Earth
+Slide
+12 July 2020
+775
+ASM/KAM/78N12/2020/003
+Assam
+Kamrup (Metro)
+Gauripur landslide
+NH-31
+26.21305556
+91.6925
+Rock
+Fall
+26 June 2020
+776
+ASM/K(M)/78N16/2022-23/003 Assam
+Kamrup (Metro)
+Salbari
+Near Noonmati bazaar road
+26.1916
+91.80361
+Debris
+Slide
+16 June 2022
+777
+ASM/K(M)/78N16/2022-23/001 Assam
+Kamrup (Metro)
+Upper Luitpur
+Upper Luitpur
+26.19322
+91.77033
+Earth
+Slide
+16 June 2022
+778
+ASM/K(M)/78N16/2022-23/002 Assam
+Kamrup (Metro)
+Anandanagar
+Anandanagar
+26.18789
+91.79493
+Earth
+Slide
+17 June 2022
+779
+ASM/DH/83G04/2022-23/023
+Assam
+Dima Hasao
+Disgao Raji Slide
+Disgao Raji, Haflong
+25.17136
+93.01102
+Debris
+Slide
+14 May 2022
+780
+ASM/DH/83G04/2022-23/010
+Assam
+Dima Hasao
+Fiangpui Slide 1
+Fiangpui, Haflong
+25.169861
+93.002528
+Debris
+Slide
+15th May 2022
+781
+ASM/DH/83G04/2022-23/012
+Assam
+Dima Hasao
+Lower Haflong Slide 1
+Lower Haflong , Haflong
+25.18972
+93.02011
+Debris
+Slide
+14th – 15th May 2022
+782
+ASM/DH/83G04/2022-23/013
+Assam
+Dima Hasao
+Lower Haflong Road Slide
+Lower Haflong Road
+25.18625
+93.01629
+Debris
+Slide
+14th – 15th  2022
+783
+ASM/DH/83G04/2022-23/030
+Assam
+Dima Hasao
+Merryland Slide
+Merryland colony
+25.177416
+93.00975
+Debris
+Slide
+16 May 2022
+784
+ASM/DH/83G04/2022-23/006
+Assam
+Dima Hasao
+77/1  Km rail track Slide
+Phiding–Daotuhaja rail section
+25.2316944
+93.1614167
+Earth
+Slide
+14th – 15th  May 2022
+785
+ASM/DH/83G04/2022-23/022
+Assam
+Dima Hasao
+Lower Haflong Slide 2
+Lower Haflong
+25.18919
+93.02118
+Debris
+Slide
+15 May 2022
+786
+AS/KRM/83D06/2014-15/0001
+Assam
+Karimganj
+Satkaragul (Pathariya Hills RF),
+NH-44. Satkaragul Village near 
+Nilambazar, Nilambazar Circle, 
+Karimganj.
+24.70619444
+92.28997222
+Earth
+Flow
+10 May 2014
+787
+ASM/DH/83G04/2022-23/021
+Assam
+Dima Hasao
+Moulhoi Slide 1
+Gilgal Veng, Moulhoi, Haflong
+25.17623
+93.01326
+Debris
+Slide
+14 May 2022
+788
+AS-32/2005
+Assam
+Kamrup (Metro)
+Maligaon petrol pump 
+26.15958333
+91.72388889
+NA
+NIL
+24 & 25 Aug. 2005

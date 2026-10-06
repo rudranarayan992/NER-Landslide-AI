@@ -1,0 +1,440 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+19792
+MG/SWK/78O04/2017/5
+Meghalaya
+South West Khasi  Hills
+ 
+AlongNonghyllam  Ranikor road 25.221572
+91.185833
+Debris
+Slide
+NA
+19793
+MG/EKH/78O12/2017/67
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.22175
+91.693006
+Rock
+Slide
+NA
+19794
+MG/EKH/78O12/2017/45
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.222221
+91.742134
+Debris
+Slide
+2017
+19795
+MG/EKH/78O16/2017/1
+Meghalaya
+East Khasi Hills
+ 
+Along approach road to Laitiam 
+village
+25.222304
+91.763619
+Debris
+Slide
+NA
+19796
+MG/EKH/78O12/2017/35
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.222501
+91.714409
+Rock
+Slide
+NA
+19797
+MG/EKH/78O16/2017/8
+Meghalaya
+East Khasi Hills
+ 
+Along approach road to Laitiam 25.222528
+91.765256
+Debris
+Slide
+NA
+19798
+MG/EKH/78O12/2017/38
+Meghalaya
+East Khasi Hills
+ 
+Along Mawlong  Tyrna road
+25.222564
+91.691398
+Rock
+Slide
+NA
+19799
+MG/EKH/78O16/2017/11
+Meghalaya
+East Khasi Hills
+ 
+Along approach road to Laitiam 
+village
+25.223307
+91.762345
+Debris
+Slide
+NA
+19800
+MG/EKH/78O12/2017/70
+Meghalaya
+East Khasi Hills
+ 
+Laitkynsew view point road
+25.223553
+91.671157
+Rock
+Slide
+NA
+19801
+MG/EKH/78O16/2017/10
+Meghalaya
+East Khasi Hills
+ 
+Along approach road to Laitiam 
+vilalge
+25.223708
+91.76661
+Debris
+Slide
+NA
+19802
+MG/EKH/78O12/2017/2
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.223769
+91.740164
+Debris
+Slide
+2017
+19803
+MG/EKH/78O12/2017/37
+Meghalaya
+East Khasi Hills
+ 
+Along Mawlong  Tyrna road
+25.224417
+91.689893
+Debris
+Slide
+NA
+19804
+MG/EKH/78O12/2017/40
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.224506
+91.704403
+Rock
+Slide
+NA
+19805
+MG/EKH/78O12/2017/14
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.224654
+91.735929
+Debris
+Slide
+NA
+19806
+MG/EKH/78O12/2017/17
+Meghalaya
+East Khasi Hills
+ 
+<Null>
+25.224808
+91.696177
+Debris
+Slide
+NA
+19807
+MG/EKH/78O16/2017/3
+Meghalaya
+East Khasi Hills
+ 
+Approach road to 
+SohlaitNongshken
+25.225772
+91.863037
+Debris
+Slide
+NA
+19808
+MG/EKH/78O12/2017/27
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.226046
+91.701458
+Rock
+Slide
+NA
+19809
+MG/EKH/78O16/2017/4
+Meghalaya
+East Khasi Hills
+ 
+Along the approach road to 
+Laitiam village
+25.226751
+91.754441
+Debris
+Slide
+2017
+19810
+MEG/WJH/83C4/2016/04
+Meghalaya
+West Jaintia Hills
+2km NE of Nongtalang 
+Amsohmeheleng
+NH40E
+25.226806
+92.090611
+Debris
+Slide
+2015
+19811
+MG/EKH/78O12/2017/49
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.227063
+91.691293
+Rock
+Slide
+NA
+19812
+MG/EKH/78O12/2017/79
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.227183
+91.690972
+Rock
+Slide
+NA
+19813
+MG/EKH/78O12/2017/15
+Meghalaya
+East Khasi Hills
+ 
+Along approach road to Laitiam 
+village
+25.227249
+91.748917
+Debris
+Slide
+2017
+19814
+MG/EKH/78O12/2017/52
+Meghalaya
+East Khasi Hills
+ 
+Along Mawlong  Tyrna road
+25.22784
+91.688252
+Rock
+Slide
+NA
+19815
+MG/EKH/78O12/2017/21
+Meghalaya
+East Khasi Hills
+ 
+Along Mawlong  Tyrna road
+25.228005
+91.687913
+Rock
+Slide
+NA
+19816
+MG/EKH/78O12/2017/51
+Meghalaya
+East Khasi Hills
+ 
+Along Mawlong  Tyrna road
+25.228272
+91.687776
+Rock
+Slide
+NA
+19817
+MG/EKH/78O12/2017/57
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.228344
+91.693332
+Debris
+Slide
+NA
+19818
+MEG/WJH/83C4/2016/13
+Meghalaya
+West Jaintia Hills
+4.1 km E of  Pdengshakap
+Laremshiap road
+25.228472
+92.187806
+Debris
+Slide
+2016
+19819
+MG/EKH/78O16/2017/13
+Meghalaya
+East Khasi Hills
+ 
+NH40 (PynurslaDawki road)
+25.228755
+91.963018
+Rock
+Slide
+NA
+19820
+MG/EKH/78O12/2017/56
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.229161
+91.693249
+Debris
+Slide
+NA
+19821
+MEG/WJH/83C4/2016/22
+Meghalaya
+West Jaintia Hills
+0.85 km SW of Power station
+Myntdu Leshka power station 
+road
+25.229167
+92.2235
+Debris
+Slide
+2016
+19822
+MG/EKH/78O12/2017/25
+Meghalaya
+East Khasi Hills
+ 
+<Null>
+25.229706
+91.745297
+Rock
+Slide
+NA
+19823
+MG/EKH/78O12/2017/74
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.229822
+91.693551
+Debris
+Slide
+NA
+19824
+MEG/WJH/83C4/2016/21
+Meghalaya
+West Jaintia Hills
+0.79 km SW of Power station
+Myntdu Leshka power station 
+road
+25.229972
+92.223278
+Debris
+Slide
+2016
+19825
+MEG/WJH/83C4/2016/20
+Meghalaya
+West Jaintia Hills
+0.94 km SW of Power station
+Myntdu Leshka power station 
+road
+25.230047
+92.221119
+Rock
+Slide
+2016
+19826
+MG/EKH/78O12/2017/59
+Meghalaya
+East Khasi Hills
+ 
+Along Mawlong  Tyrna road
+25.230063
+91.688941
+Rock
+Slide
+NA
+19827
+MEG/WJH/83C4/2016/19
+Meghalaya
+West Jaintia Hills
+0.84 km SW of Power station
+Myntdu Leshka power station 
+road
+25.231383
+92.2215
+Debris
+Slide
+2016
+19828
+MEG/WJH/83C4/2016/12
+Meghalaya
+West Jaintia Hills
+3.14 km E of Pdengshakap
+Laremshiap road
+25.232417
+92.178881
+Debris
+Slide
+2016
+19829
+MEG/WJH/83C4/2016/23
+Meghalaya
+West Jaintia Hills
+1.87 km W of Power station
+Myntdu Leshka power station 
+road
+25.233583
+92.209583
+Debris
+Slide
+2015

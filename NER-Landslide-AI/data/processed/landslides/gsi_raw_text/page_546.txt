@@ -1,0 +1,343 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21747
+MZ/SER/84A15/2016/52
+Mizoram
+Serchhip
+ 
+Near Sainik School Junction, 
+Chhingchhip,  NH-54 Aizawl-
+Serchhip-Lunglei Road
+23.457031
+92.857686
+Debris
+Slide
+2016
+21748
+MZ/SER/84E03/2017/5
+Mizoram
+Serchhip
+Vanchengpui slide
+Rullam Vangchengpui Rd
+23.457083
+93.007639
+Rock
+Slide
+NA
+21749
+MZ/CHA/84E03/2017/26
+Mizoram
+Champhai
+ 
+Champhai
+23.45769
+93.041184
+Rock
+Slide
+NA
+21750
+MZ/CHA/84E07/2017/19
+Mizoram
+Champhai
+ 
+500m east of Tuipui bridge 
+towards Champhai
+23.457971
+93.263265
+Rock
+Slide
+2017
+21751
+MZ/SER/84A15/2016/81
+Mizoram
+Serchhip
+ 
+Jhum cultivation, Hmuntha, 
+PMGSY Chhingchhip-Hmuntha 
+Road
+23.458124
+92.9053
+Debris
+Slide
+2016
+21752
+MZ/CHA/84E07/2017/20
+Mizoram
+Champhai
+ 
+700m east of Tuipui bridge 
+towards Champhai
+23.45835
+93.263247
+Rock
+Slide
+2017
+21753
+MZ/CHA/84E07/2017/21
+Mizoram
+Champhai
+ 
+20.5 Km east of Khawzawl
+23.458538
+93.260555
+Debris
+Slide
+NA
+21754
+MZ/SER/84A15/2016/80
+Mizoram
+Serchhip
+ 
+Jhum cultivation, Hmuntha, 
+PMGSY Chhingchhip-Hmuntha 
+Road
+23.458593
+92.905313
+Debris
+Slide
+2016
+21755
+MZ/CHA/84E07/2017/22
+Mizoram
+Champhai
+ 
+NE of Tuipui bridge (Aizawl 
+Champhai road)
+23.458778
+93.263222
+Rock
+Slide
+NA
+21756
+MZ/SER/84A15/2016/53
+Mizoram
+Serchhip
+ 
+Chhingchhip, NH-54 Aizawl-
+Serchhip-Lunglei Road
+23.459019
+92.856803
+Debris
+Slide
+2016
+21757
+MZ/CHA/84E07/2017/23
+Mizoram
+Champhai
+ 
+Champhai Zokhawthar road
+23.459039
+93.324774
+Rock
+Slide
+NA
+21758
+MZ/CHA/84E03/2017/27
+Mizoram
+Champhai
+ 
+Champhai
+23.459737
+93.044479
+Rock
+Slide
+NA
+21759
+MZ/SER/84A15/2016/54
+Mizoram
+Serchhip
+ 
+Chhingchhip, NH-54 Aizawl-
+Serchhip-Lunglei Road
+23.459786
+92.855821
+Debris
+Slide
+2016
+21760
+MZ/SER/84E03/2017/6
+Mizoram
+Serchhip
+ 
+Rullam Road
+23.46025
+93.01125
+Rock
+Slide
+NA
+21761
+MZ/SER/84A11/2017/152
+Mizoram
+Aizawl
+ 
+About 900m Northwest of 
+Hmuifan, SH-Aizawl-Thenzawl-
+Lunglei Road
+23.460697
+92.747293
+Rock
+Slide
+2016
+21762
+MZ/SER/84A15/2016/59
+Mizoram
+Serchhip
+ 
+Chhingchhip, Near VLT drug 
+Store, NH-54 Aizawl-Serchhip-
+Lunglei Road
+23.460792
+92.855527
+Rock
+Slide
+2014
+21763
+MZ/MAM/84A11/2017/142
+Mizoram
+Mamit
+Darlung Slide
+Road Junction of Darlung-Reiek 
+at Darlung,SH-Darlung-Reiek 
+Road
+23.460968
+92.597217
+Debris
+Slide
+2010
+21764
+MZ/CHA/84E03/2017/28
+Mizoram
+Champhai
+ 
+North of Chawngtalai, 
+Chawntalai  Khawzawl road
+23.461083
+93.205278
+Debris
+Slide
+NA
+21765
+MZ/CHA/84E07/2017/25
+Mizoram
+Champhai
+Champhai slide
+Champhai  Zokhawthar Bypass 
+road
+23.461111
+93.320472
+Debris
+Slide
+NA
+21766
+MZ/SER/84E03/2017/7
+Mizoram
+Serchhip
+ 
+Rullam Rd
+23.461248
+93.012863
+Rock
+Slide
+NA
+21767
+MZ/SER/84E03/2017/8
+Mizoram
+Serchhip
+ 
+Rullam Rd
+23.462173
+93.014317
+Rock
+Slide
+NA
+21768
+MZ/CHA/84E07/2017/26
+Mizoram
+Champhai
+ 
+ChungtekuaTuipui Rd
+23.46243
+93.262259
+Soil
+Slide
+NA
+21769
+MZ/CHA/84E07/2017/47
+Mizoram
+Champhai
+ 
+Champhai  Zokhawthar Bypass 
+road
+23.462667
+93.317472
+Debris
+Slide
+NA
+21770
+MZ/CHA/84E07/2017/48
+Mizoram
+Champhai
+ 
+Champhai  Zokhawthar Bypass 
+road
+23.462667
+93.317472
+Debris
+Slide
+NA
+21771
+MZ/SER/84A15/2016/60
+Mizoram
+Serchhip
+ 
+Chhingchhip, NH-54 Aizawl-
+Serchhip-Lunglei Road
+23.462805
+92.856093
+Debris
+Slide
+2016
+21772
+MZ/CHA/84E03/2017/30
+Mizoram
+Champhai
+Vanchengpui slide
+Near Vanchengpui  Rullam 
+junction
+23.462917
+93.04575
+Rock
+Slide
+NA
+21773
+MZ/SER/84E03/2017/9
+Mizoram
+Serchhip
+ 
+Rullam Road
+23.463222
+93.015694
+Debris
+Slide
+NA
+21774
+MZ/SER/84E03/2017/10
+Mizoram
+Serchhip
+ 
+Rullam Rd
+23.463765
+93.018316
+Rock
+Slide
+NA

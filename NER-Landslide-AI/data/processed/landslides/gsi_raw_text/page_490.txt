@@ -1,0 +1,437 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+19830
+MG/EKH/78O16/2017/7
+Meghalaya
+East Khasi Hills
+ 
+Approach road to 
+SohlaitNongshken
+25.234097
+91.866071
+Debris
+Slide
+NA
+19831
+MG/EKH/78O12/2017/78
+Meghalaya
+East Khasi Hills
+ 
+Along Mawlong  Tyrna road
+25.23416
+91.690216
+Rock
+Slide
+NA
+19832
+MEG/WJH/83C4/2016/03
+Meghalaya
+West Jaintia Hills
+2.98 km NE of  Nongtalang 
+Amsohmeheleng
+NH40E
+25.234922
+92.095531
+Debris
+Slide
+2015
+19833
+MG/EKH/78O12/2017/58
+Meghalaya
+East Khasi Hills
+ 
+Along Mawlong  Tyrna road
+25.234952
+91.689803
+Debris
+Slide
+NA
+19834
+MG/EKH/78O12/2017/75
+Meghalaya
+East Khasi Hills
+ 
+Along Mawlong  Tyrna road
+25.234966
+91.690051
+Debris
+Slide
+NA
+19835
+MG/EKH/78O12/2017/24
+Meghalaya
+East Khasi Hills
+ 
+Along Mawlong  Tyrna road
+25.23572
+91.68776
+Debris
+Slide
+NA
+19836
+MEG/WJH/83C4/2016/02
+Meghalaya
+West Jaintia Hills
+3.16 km NE of  Nongtalang 
+Amsohmeheleng
+NH40E
+25.236428
+92.096172
+Debris
+Slide
+2015
+19837
+MG/EKH/78O12/2017/68
+Meghalaya
+East Khasi Hills
+ 
+Along Mawlong  Tyrna road
+25.236582
+91.688857
+Debris
+Slide
+NA
+19838
+MEGH/EKH/78O08/2008/D-25
+Meghalaya
+East Khasi Hills
+Throngpleng slide
+Trongpleng – Wawsynram – 
+Balat Road
+25.23707
+91.43212
+Debris
+Slide
+16th &17th August ,2008
+19839
+MG/EKH/78O12/2017/69
+Meghalaya
+East Khasi Hills
+ 
+<Null>
+25.237221
+91.679456
+Rock
+Slide
+NA
+19840
+MEG/WJH/83C4/2016/01
+Meghalaya
+West Jaintia Hills
+3.29 km NE of  Nongtalang 
+Amsohmeheleng
+NH40E
+25.237361
+92.096992
+Debris
+Slide
+2015
+19841
+MG/SWK/78O04/2017/2
+Meghalaya
+South West Khasi  Hills
+ 
+<Null>
+25.239068
+91.174728
+Debris
+Slide
+NA
+19842
+MEGH/SGH/78K12/2007/D-21
+Meghalaya
+South Garo hills
+Baghmara slide
+ 
+25.23908
+90.63944
+Debris
+Slide
+2nd week of August 2007
+19843
+MG/EKH/78O12/2017/7
+Meghalaya
+East Khasi Hills
+ 
+<Null>
+25.240315
+91.733388
+Rock
+Fall
+NA
+19844
+MG/EKH/78O12/2017/60
+Meghalaya
+East Khasi Hills
+ 
+Approach road to Tyrna village
+25.240338
+91.677786
+Debris
+Slide
+NA
+19845
+MG/EKH/78O16/2017/15
+Meghalaya
+East Khasi Hills
+ 
+Approach road to 
+SohlaitNongshken
+25.24327
+91.866626
+Debris
+Slide
+NA
+19846
+MG/EKH/78O12/2017/1
+Meghalaya
+East Khasi Hills
+ 
+<Null>
+25.243358
+91.747094
+Rock
+Slide
+2017
+19847
+MG/EKH/78O16/2017/14
+Meghalaya
+East Khasi Hills
+ 
+Approach road to 
+SohlaitNongshken
+25.243671
+91.866854
+Debris
+Slide
+NA
+19848
+MG/EKH/78O12/2017/3
+Meghalaya
+East Khasi Hills
+ 
+<Null>
+25.243783
+91.738698
+Rock
+Slide
+NA
+19849
+MEG/WJH/83C4/2016/11
+Meghalaya
+West Jaintia Hills
+4.10 km NE of Nongtalang 
+Amsohmeheleng
+NH40E
+25.247014
+92.096144
+Debris
+Slide
+NA
+19850
+MG/EKH/78O12/2017/6
+Meghalaya
+East Khasi Hills
+ 
+300 m SSW of Nongriat village
+25.247226
+91.671435
+Rock
+Slide
+NA
+19851
+MG/EKH/78O08/2017/3
+Meghalaya
+East Khasi Hills
+ 
+Along MawsynramBalat road
+25.24736
+91.451647
+Debris
+Slide
+NA
+19852
+MG/EKH/78O08/2017/5
+Meghalaya
+East Khasi Hills
+ 
+Along MawsynramBalat road
+25.247518
+91.450545
+Debris
+Slide
+NA
+19853
+MG/WKH/78O07/2017/4
+Meghalaya
+South West Khasi  Hills
+Mawpud road slide
+Mawpud road
+25.251211
+91.454514
+Debris
+Slide
+NA
+19854
+MEGH/WGH/78K03/2007/D-20 Meghalaya
+ West Garo Hills
+Khoronggiri slide
+Road (NH - 62)
+25.25419
+90.21486
+Debris
+Slide
+2nd week of August 2007
+19855
+ME/EKJ/78O15/2015/115
+Meghalaya
+East Khasi Hills
+ 
+Tangamng approach road
+25.256259
+91.868197
+Debris
+Slide
+NA
+19856
+ME/EKJ/78O15/2015/116
+Meghalaya
+East Khasi Hills
+ 
+Tangamng approach road
+25.257286
+91.871763
+Debris
+Slide
+NA
+19857
+ME/EKJ/78O15/2015/117
+Meghalaya
+East Khasi Hills
+ 
+Tangamng approach road
+25.257449
+91.87187
+Debris
+Slide
+NA
+19858
+MEG/WJH/83C4/2016/123
+Meghalaya
+East Jaintia Hills
+3 km S of Umtyra
+NH44
+25.258603
+92.38555
+Debris
+Slide
+2016
+19859
+ME/EKJ/78O15/2015/118
+Meghalaya
+East Khasi Hills
+ 
+Tangamng approach road
+25.259326
+91.872712
+Debris
+Slide
+NA
+19860
+ME/EKJ/78O15/2015/119
+Meghalaya
+East Khasi Hills
+ 
+Tangamng approach road
+25.2608
+91.8736
+Rock
+Slide
+NA
+19861
+MEG/WJH/83C4/2016/124
+Meghalaya
+East Jaintia Hills
+2.7km S of Umtyra
+NH44
+25.261117
+92.385231
+Debris
+Slide
+2016
+19862
+MEG/WJH/83C4/2016/125
+Meghalaya
+East Jaintia Hills
+2.58 km S of Umtyra
+NH44
+25.2625
+92.384639
+Debris
+Slide
+2016
+19863
+ME/WJH/883C03/2015/197
+Meghalaya
+West Jaintia Hills
+ 
+ 
+25.262931
+92.203628
+Rock
+Slide
+NA
+19864
+ME/WJH/83C03/2015/185
+Meghalaya
+West Jaintia Hills
+ 
+ 
+25.263806
+92.203
+Rock
+Slide
+NA
+19865
+MEG/WJH/83C4/2016/126
+Meghalaya
+East Jaintia Hills
+2.3 km S of Umtyra
+NH44
+25.264575
+92.381497
+Debris
+Slide
+2016
+19866
+MG/EKH/78O11/2017/17
+Meghalaya
+East Khasi Hills
+ 
+Along MawsynramLawbah
+25.265048
+91.591553
+Rock
+Slide
+NA
+19867
+ME/WJH/83C03/2015/178
+Meghalaya
+West Jaintia Hills
+ 
+Leshka
+25.265158
+92.202239
+Rock
+Slide
+NA

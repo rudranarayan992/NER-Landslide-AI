@@ -1,0 +1,563 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+6409
+HP/KAN/53A09/2018/38
+Himachal Pradesh
+Kangra
+ 
+ 
+31.821944
+76.706222
+Debris
+Slide
+NA
+6410
+HP/MAN/53A13/2015/41
+Himachal Pradesh
+Mandi
+ 
+Chalus PF,SH19
+31.82212
+76.78088
+Rock
+Slide
+NA
+6411
+HP/MAN/53E01/2015/2
+Himachal Pradesh
+Mandi
+ 
+NH21
+31.823611
+77.172778
+Rock
+Slide
+NA
+6412
+HP/MAN/53A13/2015/40
+Himachal Pradesh
+Mandi
+ 
+Padgah,SH19
+31.8237
+76.78149
+Rock
+Slide
+NA
+6413
+HP/MAN/53E01/2015/24
+Himachal Pradesh
+Mandi
+ 
+Jhanjheli-Thunag road
+31.824361
+77.07825
+Rock cum debris
+Slide
+NA
+6414
+HP/MAN/53A13/2015/39
+Himachal Pradesh
+Mandi
+ 
+Padgah,SH19
+31.82445
+76.78181
+Rock
+Slide
+NA
+6415
+HP/MAN/53A13/2015/38
+Himachal Pradesh
+Mandi
+ 
+Padgah,SH19
+31.82507
+76.78219
+Rock
+Slide
+NA
+6416
+HP/KAN/53A01/2018/15
+Himachal Pradesh
+Kangra
+ 
+South of Tutru
+31.825687
+76.163185
+Debris
+Slide
+NA
+6417
+HP/MAN/53A13/2015/167
+Himachal Pradesh
+Mandi
+ 
+Padgah,SH19
+31.82644
+76.78247
+Rock
+Slide
+NA
+6418
+HP/MAN/53A13/2015/141
+Himachal Pradesh
+Mandi
+ 
+Kotla,SH 19
+31.82705
+76.77353
+Rock
+Slide
+NA
+6419
+HP/MAN/53E01/2015/1
+Himachal Pradesh
+Mandi
+ 
+NH21
+31.827111
+77.173139
+Debris
+Slide
+NA
+6420
+HP/MAN/53A13/2015/142
+Himachal Pradesh
+Mandi
+ 
+Kotla,SH 19
+31.82712
+76.77416
+Rock
+Slide
+2009
+6421
+HP/MAN/53A13/2015/132
+Himachal Pradesh
+Mandi
+ 
+Kotla,SH 19
+31.8274
+76.77311
+Rock
+Slide
+NA
+6422
+HP/MAN/53A13/2015/166
+Himachal Pradesh
+Mandi
+ 
+Padgah,SH19
+31.82791
+76.78319
+Rock
+Slide
+NA
+6423
+HP/MAN/53A13/2015/143
+Himachal Pradesh
+Mandi
+ 
+Near Kotla ,SH 19
+31.82796
+76.77492
+Rock
+Slide
+NA
+6424
+HP/KAN/53A01/2018/13
+Himachal Pradesh
+Kangra
+ 
+Tutru ,NH 503
+31.828367
+76.166147
+Debris
+Slide
+NA
+6425
+HP/KAN/53A01/2018/14
+Himachal Pradesh
+Kangra
+ 
+Tutru, NH 503
+31.828487
+76.166673
+Debris
+Slide
+NA
+6426
+HP/KAN/53A01/2018/17
+Himachal Pradesh
+Kangra
+ 
+Tutru, NH 503
+31.828487
+76.166673
+Debris
+Slide
+NA
+6427
+HP/MAN/53A13/2015/144
+Himachal Pradesh
+Mandi
+ 
+Near Kotla ,SH 20
+31.82864
+76.77512
+Debris
+Slide
+NA
+6428
+HP/MAN/53A13/2015/165
+Himachal Pradesh
+Mandi
+ 
+Padgah,SH19
+31.82872
+76.78319
+Rock
+Slide
+NA
+6429
+HP/MAN/53A13/2015/145
+Himachal Pradesh
+Mandi
+ 
+Near Kotla ,SH 21
+31.82921
+76.77631
+Rock
+Slide
+NA
+6430
+HP/MAN/53A13/2015/131
+Himachal Pradesh
+Mandi
+ 
+Kotla,SH 19
+31.82931
+76.77351
+Rock
+Slide
+NA
+6431
+HP/MAN/53A13/2015/146
+Himachal Pradesh
+Mandi
+ 
+Near Kotla ,SH 22
+31.82971
+76.77674
+Rock
+Slide
+NA
+6432
+HP/MAN/53A13/2015/148
+Himachal Pradesh
+Mandi
+ 
+Near Kotla ,SH 24
+31.82976
+76.77769
+Debris
+Slide
+NA
+6433
+HP/MAN/53A13/2015/147
+Himachal Pradesh
+Mandi
+ 
+Near Kotla ,SH 23
+31.82978
+76.7772
+Rock
+Slide
+NA
+6434
+HP/MAN/53A13/2015/130
+Himachal Pradesh
+Mandi
+ 
+Kotla,SH 19
+31.82982
+76.77392
+Rock
+Slide
+NA
+6435
+HP/MAN/53A13/2015/149
+Himachal Pradesh
+Mandi
+ 
+Near Kotla ,SH 25
+31.82986
+76.77832
+Debris
+Slide
+NA
+6436
+HP/MAN/53A10/2018/20
+Himachal Pradesh
+Mandi
+ 
+NH-70
+31.830222
+76.604833
+Debris
+Slide
+NA
+6437
+HP/KUL/53E01/2015/16
+Himachal Pradesh
+Kullu
+ 
+ 
+31.830417
+77.114444
+Rock
+Slide
+NA
+6438
+HP/MAN/53A13/2015/231
+Himachal Pradesh
+Mandi
+ 
+Tuna
+31.83045
+76.84137
+Debris
+Slide
+NA
+6439
+HP/MAN/53A13/2015/230
+Himachal Pradesh
+Mandi
+ 
+Tuna,beas river and rana khad 
+confluence
+31.83047
+76.84137
+Debris
+Slide
+NA
+6440
+HP/MAN/53A13/2015/150
+Himachal Pradesh
+Mandi
+ 
+Near Kotla ,SH 26
+31.83077
+76.77972
+Rock
+Slide
+NA
+6441
+HP/MAN/53A13/2015/163
+Himachal Pradesh
+Mandi
+ 
+Kotla,SH 19
+31.83092
+76.79063
+Rock
+Slide
+NA
+6442
+HP/MAN/53A13/2015/164
+Himachal Pradesh
+Mandi
+ 
+Padgah,SH19
+31.83105
+76.78773
+Rock
+Slide
+NA
+6443
+HP/KUL/53E01/2015/44
+Himachal Pradesh
+Kullu
+ 
+Chail Chawk-Jhanjheli road
+31.831306
+77.202972
+Rock
+Slide
+NA
+6444
+HP/MAN/53A13/2015/151
+Himachal Pradesh
+Mandi
+ 
+Near Kotla ,SH 27
+31.83138
+76.7802
+Rock
+Slide
+NA
+6445
+HP/KAN/53A01/2018/33
+Himachal Pradesh
+Kangra
+ 
+South of Dhaliara, NH 503
+31.831677
+76.173662
+Debris
+Slide
+NA
+6446
+HP/MAN/53A13/2015/162
+Himachal Pradesh
+Mandi
+ 
+Chimnun,SH 19
+31.8319
+76.78986
+Rock
+Slide
+NA
+6447
+HP/MAN/53A13/2015/152
+Himachal Pradesh
+Mandi
+ 
+Near Kotla ,SH 28
+31.83195
+76.78039
+Rock
+Slide
+NA
+6448
+HP/MAN/53A13/2015/129
+Himachal Pradesh
+Mandi
+ 
+Neri,SH 19
+31.83223
+76.77492
+Debris
+Slide
+NA
+6449
+HP/MAN/53A13/2015/157
+Himachal Pradesh
+Mandi
+ 
+Kotla,SH 19
+31.832256
+76.78209
+Rock
+Slide
+NA
+6450
+HP/MAN/53A10/2018/21
+Himachal Pradesh
+Mandi
+ 
+Hawni-Brang Road
+31.832278
+76.511833
+Debris
+Slide
+NA
+6451
+HP/KUL/53E01/2015/45
+Himachal Pradesh
+Kullu
+ 
+NH21
+31.832306
+77.201722
+Rock cum debris
+Slide
+NA
+6452
+HP/MAN/53A13/2015/156
+Himachal Pradesh
+Mandi
+ 
+Kotla,SH 19
+31.83234
+76.78176
+Rock
+Slide
+NA
+6453
+HP/MAN/53A13/2015/153
+Himachal Pradesh
+Mandi
+ 
+Kotla,SH 19
+31.83236
+76.78048
+Rock
+Slide
+NA
+6454
+HP/MAN/53A13/2015/154
+Himachal Pradesh
+Mandi
+ 
+Kotla,SH 19
+31.83236
+76.78048
+Rock
+Slide
+NA
+6455
+HP/MAN/53A13/2015/155
+Himachal Pradesh
+Mandi
+ 
+Kotla,SH 19
+31.83236
+76.78048
+Rock
+Slide
+NA
+6456
+HP/MAN/53A13/2015/158
+Himachal Pradesh
+Mandi
+ 
+Kotla,SH 19
+31.83247
+76.78291
+Rock
+Slide
+NA
+6457
+HP/MAN/53A10/2018/22
+Himachal Pradesh
+Mandi
+ 
+NH-70
+31.8325
+76.511694
+Debris
+Slide
+NA
+6458
+HP/MAN/53A13/2015/159
+Himachal Pradesh
+Mandi
+ 
+Kotla,SH 19
+31.83253
+76.78349
+Rock
+Slide
+NA

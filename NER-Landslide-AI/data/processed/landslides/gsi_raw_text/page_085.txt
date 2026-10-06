@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+3238
+HP/SOL/53F01/2017/4
+Himachal Pradesh
+Solan
+ 
+GadiyarChakki road
+30.855199
+77.010924
+Rock
+Fall
+NA
+3239
+HP/SOL/53F01/2017/288
+Himachal Pradesh
+Solan
+ 
+BhojnagarTarol road
+30.855326
+77.049184
+Rock
+Slide
+NA
+3240
+HP/SOL/53F01/2017/287
+Himachal Pradesh
+Solan
+ 
+BhojnagarTarol road
+30.8556
+77.050326
+Rock
+Slide
+NA
+3241
+HP/SOL/53F01/2017/313
+Himachal Pradesh
+Solan
+ 
+KumarhattiNahan road
+30.856004
+77.07917
+Rock
+Slide
+NA
+3242
+HP/SOL/53F01/2017/291
+Himachal Pradesh
+Solan
+ 
+BhojnagarTarol road
+30.856082
+77.096689
+Rock
+Slide
+NA
+3243
+HP/SOL/53F01/2017/107
+Himachal Pradesh
+Solan
+ 
+NH22
+30.856111
+77.001116
+Rock
+Slide
+NA
+3244
+HP/SOL/53F01/2017/289
+Himachal Pradesh
+Solan
+ 
+BhojnagarTarol road
+30.856188
+77.046687
+Rock
+Slide
+NA
+3245
+HP/SOL/53F01/2017/427
+Himachal Pradesh
+Solan
+ 
+BhojnagarTarol road
+30.857107
+77.044856
+Rock
+Slide
+NA
+3246
+HP/SOL/53F01/2017/157
+Himachal Pradesh
+Solan
+ 
+GadiyarChakki road
+30.858194
+77.007802
+Rock
+Slide
+NA
+3247
+HP/SOL/53F01/2017/290
+Himachal Pradesh
+Solan
+ 
+BhojnagarTarol road
+30.85861
+77.096204
+Rock
+Slide
+NA
+3248
+HP/SOL/53F01/2017/240
+Himachal Pradesh
+Solan
+ 
+KumarhattiOcchghat road
+30.858641
+77.11864
+Rock
+Slide
+NA
+3249
+HP/SOL/53F01/2017/294
+Himachal Pradesh
+Solan
+ 
+GadiyarChakki road
+30.85886
+77.00514
+Rock
+Slide
+NA
+3250
+HP/SOL/53F01/2017/49
+Himachal Pradesh
+Solan
+ 
+BhojnagarTarol road
+30.858941
+77.046024
+Debris
+Slide
+NA
+3251
+HP/SOL/53F01/2017/45
+Himachal Pradesh
+Solan
+ 
+BhojnagarTarol road
+30.85945
+77.042591
+Rock
+Fall
+NA
+3252
+HP/SOL/53F01/2017/46
+Himachal Pradesh
+Solan
+ 
+BhojnagarChakki road
+30.859618
+77.041466
+Rock
+Fall
+NA
+3253
+HP/SOL/53F01/2017/108
+Himachal Pradesh
+Solan
+ 
+NH22
+30.860233
+77.000804
+Rock
+Slide
+NA
+3254
+HP/SOL/53F01/2017/158
+Himachal Pradesh
+Solan
+ 
+GadiyarChakki road
+30.860287
+77.008933
+Rock
+Slide
+NA
+3255
+HP/SOL/53F01/2017/57
+Himachal Pradesh
+Solan
+ 
+TarolChakki Mor road
+30.86048
+77.039956
+Debris
+Slide
+NA
+3256
+HP/SOL/53F01/2017/298
+Himachal Pradesh
+Solan
+ 
+GadiyarChakki road
+30.860706
+77.003727
+Rock
+Slide
+NA
+3257
+HP/SOL/53F01/2017/295
+Himachal Pradesh
+Solan
+ 
+GadiyarChakki road
+30.860808
+77.00536
+Rock
+Slide
+NA
+3258
+HP/SOL/53F01/2017/346
+Himachal Pradesh
+Solan
+ 
+NaragGiripul road
+30.861102
+77.197102
+Rock
+Slide
+NA
+3259
+HP/SOL/53F01/2017/159
+Himachal Pradesh
+Solan
+ 
+GadiyarChakki road
+30.86112
+77.005487
+Rock
+Slide
+NA
+3260
+HP/SOL/53F01/2017/299
+Himachal Pradesh
+Solan
+ 
+GadiyarChakki road
+30.861306
+77.003751
+Rock
+Slide
+NA
+3261
+HP/SOL/53F01/2017/239
+Himachal Pradesh
+Solan
+ 
+KumarhattiOcchghat road
+30.861475
+77.09962
+Rock
+Slide
+NA
+3262
+HP/SOL/53F01/2017/297
+Himachal Pradesh
+Solan
+ 
+GadiyarChakki road
+30.861625
+77.00412
+Rock
+Slide
+NA
+3263
+HP/SOL/53B13/2017/44
+Himachal Pradesh
+Solan
+ 
+ParwanooKasauli road
+30.861673
+76.952354
+Debris
+Slide
+NA
+3264
+HP/SOL/53F01/2017/54
+Himachal Pradesh
+Solan
+ 
+TarolChakki Mor road
+30.86184
+77.03938
+Debris
+Slide
+NA
+3265
+HP/SOL/53B13/2017/179
+Himachal Pradesh
+Solan
+ 
+ParwanooKasauli road
+30.862182
+76.953132
+Rock
+Slide
+NA
+3266
+HP/SOL/53F01/2017/376
+Himachal Pradesh
+Solan
+ 
+NaragGiripul road
+30.862192
+77.199179
+Rock
+Slide
+NA
+3267
+HP/SOL/53F01/2017/296
+Himachal Pradesh
+Solan
+ 
+GadiyarChakki road
+30.862305
+77.005283
+Rock
+Slide
+NA
+3268
+HP/SOL/53F01/2017/58
+Himachal Pradesh
+Solan
+ 
+TarolChakki Mor road
+30.8625
+77.0377
+Debris
+Slide
+NA
+3269
+HP/SOL/53B13/2017/97
+Himachal Pradesh
+Solan
+ 
+NH22
+30.862703
+76.999853
+Rock
+Slide
+NA
+3270
+HP/SOL/53F01/2017/375
+Himachal Pradesh
+Solan
+ 
+NaragGiripul road
+30.863008
+77.192756
+Rock
+Slide
+NA
+3271
+HP/SOL/53F01/2017/361
+Himachal Pradesh
+Solan
+ 
+NaragGiripul road
+30.86357
+77.201186
+Rock
+Slide
+NA
+3272
+HP/SOL/53F01/2017/241
+Himachal Pradesh
+Solan
+ 
+KumarhattiOcchghat road
+30.863941
+77.120751
+Rock
+Slide
+NA
+3273
+HP/SOL/53B13/2017/45
+Himachal Pradesh
+Solan
+ 
+ParwanooKasauli road
+30.864411
+76.950736
+Debris
+Slide
+NA
+3274
+HP/SOL/53F01/2017/29
+Himachal Pradesh
+Solan
+ 
+NaragGiripul road
+30.864469
+77.197555
+Rock
+Fall
+NA
+3275
+HP/SOL/53F01/2017/292
+Himachal Pradesh
+Solan
+ 
+GadiyarChakki road
+30.86451
+77.032936
+Rock
+Slide
+NA
+3276
+HP/SOL/53B13/2017/98
+Himachal Pradesh
+Solan
+ 
+NH22
+30.864601
+76.999161
+Rock
+Slide
+NA
+3277
+HP/SIR/53F05/2017/58
+Himachal Pradesh
+Sirmur
+ 
+Haban
+30.864664
+77.304244
+Debris
+Slide
+NA
+3278
+HP/SOL/53F01/2017/247
+Himachal Pradesh
+Solan
+ 
+SH06
+30.864699
+77.157447
+Rock
+Slide
+NA
+3279
+HP/SOL/53F01/2017/409
+Himachal Pradesh
+Solan
+ 
+KumarhattiOcchghat road
+30.864743
+77.120331
+Rock
+Slide
+NA
+3280
+HP/SIR/53F05/2017/37
+Himachal Pradesh
+Sirmur
+ 
+Koti Mawga
+30.864797
+77.304378
+Debris
+Slide
+NA
+3281
+HP/SOL/53F01/2017/59
+Himachal Pradesh
+Solan
+ 
+GharyarChakki road
+30.8649
+77.032752
+Debris
+Slide
+NA
+3282
+HP/SOL/53F01/2017/196
+Himachal Pradesh
+Solan
+ 
+KumarhattiOcchghat road
+30.864962
+77.089633
+Rock
+Slide
+NA
+3283
+HP/SOL/53B13/2017/52
+Himachal Pradesh
+Solan
+ 
+NH22
+30.865213
+76.997495
+Rock
+Slide
+NA
+3284
+HP/SOL/53F01/2017/366
+Himachal Pradesh
+Solan
+ 
+KumarhattiOcchghat road
+30.865255
+77.120327
+Rock
+Slide
+NA
+3285
+HP/SOL/53F01/2017/62
+Himachal Pradesh
+Solan
+ 
+KumarhattiOcchghat road
+30.865541
+77.123096
+Debris
+Slide
+NA
+3286
+HP/SOL/53F01/2017/338
+Himachal Pradesh
+Solan
+ 
+KumarhattiOcchghat road
+30.865573
+77.125035
+Rock
+Slide
+NA
+3287
+HP/SOL/53F01/2017/56
+Himachal Pradesh
+Solan
+ 
+TarolChakki Mor road
+30.865971
+77.040589
+Debris
+Slide
+NA
+3288
+HP/SIR/53F05/2017/20
+Himachal Pradesh
+Sirmur
+ 
+Ser Jagas
+30.866
+77.274
+Rock
+Fall
+NA

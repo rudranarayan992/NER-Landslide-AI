@@ -1,0 +1,368 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20512
+ML-2/2010
+Meghalaya
+East Khasi Hills
+Meghalaya Police's C.I.D Quarters 
+NA
+25.56183333
+91.86855556
+NA
+NA
+28 June 2010
+20513
+ML-3/2010
+Meghalaya
+East Khasi Hills
+Lumsohra
+NA
+25.57188889
+91.90127778
+NA
+NA
+28 June 2010
+20514
+ML-4/2010
+Meghalaya
+East Khasi Hills
+CathedralChurch
+NA
+25.56852778
+91.89219444
+NA
+NA
+28 June 2010
+20515
+ML-5A/2010
+Meghalaya
+Jaintia Hills
+Tongseng Landslide
+NA
+25.13561111
+92.3805
+NA
+NA
+11th and 12th May 2010
+20516
+ML-5B/2010
+Meghalaya
+Jaintia Hills
+Tongseng Landslide
+NA
+25.13561111
+92.3805
+NA
+NA
+11th and 12th May 2010
+20517
+ML-6/2010
+Meghalaya
+Jaintia Hills
+Tongseng Landslide
+NA
+25.13561111
+92.3805
+NA
+NA
+22 April 2010
+20518
+ML-7/2010
+Meghalaya
+Jaintia Hills
+Tongseng Landslide
+NA
+25.13486111
+92.382
+NA
+NA
+22 April 2010
+20519
+ML-8/2010
+Meghalaya
+Jaintia Hills
+Sonapur
+NA
+25.12383333
+92.38519444
+NA
+NA
+22 April 2010
+20520
+ML-9/2010
+Meghalaya
+Jaintia Hills
+Kulyng Slide
+NA
+25.07533333
+92.36341667
+NA
+NA
+22 April 2010
+20521
+ML-10/2010
+Meghalaya
+Jaintia Hills
+Umkiang Slide
+NA
+25.05108333
+92.40219444
+NA
+NA
+22 April 2010
+20522
+ML-11/2010
+Meghalaya
+Jaintia Hills
+Dona Slide
+NA
+25.04305556
+92.42041667
+NA
+NA
+22 April 2010
+20523
+ML-12/2010
+Meghalaya
+Jaintia Hills
+Ratachera Slide
+NA
+25.04222222
+92.44127778
+NA
+NA
+22 April 2010
+20524
+ML-01/2012-13
+Meghalaya
+West Khasi Hills
+Pynden Shallang slide
+NA
+25.36497222
+91.02411111
+NA
+NA
+01 May 2012 at 3 AM
+20525
+ML-02/2012-13
+Meghalaya
+Jaintia Hills
+West Khasi Hills
+NA
+25.26361111
+92.38557778
+NA
+NA
+26 June 2012, at 3AM
+20526
+ML-03/2012-13
+Meghalaya
+Jaintia Hills
+Nongshning slide
+NA
+25.26005556
+92.38863889
+NA
+NA
+26 June 2012, at 3AM
+20527
+ML-04/2012-13
+Meghalaya
+Jaintia Hills
+Tanshang slide
+NA
+25.14702778
+92.37883333
+NA
+NA
+26 June 2012, at 3AM
+20528
+ML-05/2012-13
+Meghalaya
+Jaintia Hills
+Tanshang slide II
+NA
+25.14702778
+92.37883333
+NA
+NA
+26 June 2012, at 3AM
+20529
+ML-06/2012-13
+Meghalaya
+Jaintia Hills
+Tongseng slide
+NA
+25.14341667
+92.37805556
+NA
+NA
+26 June 2012, at 3AM
+20530
+ML-07/2012-13
+Meghalaya
+Jaintia Hills
+Tongseng slide
+NA
+25.13427778
+92.38511111
+NA
+NA
+26 June 2012, at 3AM
+20531
+ML-08/2012-13
+Meghalaya
+Jaintia Hills
+Sonapur slide
+NA
+25.09022222
+92.35805556
+NA
+NA
+26 June 2012, at 3AM
+20532
+ML-09/2012-13
+Meghalaya
+Jaintia Hills
+Sonapur slide
+NA
+25.09055556
+92.35972222
+NA
+NA
+26 June 2012, at 3AM
+20533
+ML-10/2012-13
+Meghalaya
+Jaintia Hills
+Sonapur Mandir slide
+NA
+25.08772222
+92.36086111
+NA
+NA
+26 June 2012, at 3AM
+20534
+ML-11/2012-13
+Meghalaya
+Ri-Bhoi
+19th Mile slide
+NA
+26.00361111
+92.86361111
+NA
+NA
+26 July 2012 at 5AM
+20535
+ML-13/2012-13
+Meghalaya
+West Khasi Hills
+Porsohsat slide
+NA
+25.53086111
+91.29780556
+NA
+NA
+21 August 2012 at 10:30am
+20536
+ML/EKH/2014/03
+MEGHALAYA
+East Khasi Hills
+Barapathar Slide
+Barapathar (Opposite Hindu 
+Gorkha Samshan Ghat - 
+Crematorium)
+25.97283333
+91.86545
+NA
+NA
+23. 09. 2014
+20537
+ML/RB/2014/04
+Meghalaya
+Ri-Bhoi
+Umling Slide (adjacent to Kargil Petrol 
+Pump on NH-40)
+Guwahati-Shillong road (NH-40) 25.97255556
+91.86241667
+Debris with 
+embedded rock 
+boulders (a variably 
+thick column of the 
+in-situ sandy soil and 
+thin cover of slope 
+wash resting over 
+the weathered 
+bedrock)
+Slide
+2012, 05 October 2014 at 5.30pm
+20538
+ML- 94/2011
+Meghalaya
+Ri-Bhoi
+Umsaw Khwan slide
+25.67469444
+91.88652778
+Earth
+slide
+26 June 2011
+20539
+ML/Ri-Bhoi/2015-2016/09
+Meghalaya
+Ri-Bhoi
+NH-40 GS road, 5 km south of 
+Byrnihat
+Byrnihat Slide
+26.02611111
+91.86827778
+Debris
+Slide
+NA
+20540
+ML/EKH/2015/07
+Meghalaya
+East Khasi Hills
+Mawlatang village
+Mawlatang slide
+25.24416667
+91.79397222
+Large boulder laden 
+debris (large boulder 
+approx. 4×5m resting 
+on very steep slope)
+Slide
+NA
+20541
+ML/EKH/78O14/2019-20/01
+Meghalaya
+East Khasi Hills
+Malki, East Khasi Hills district, 
+Meghalaya
+Malki Slide
+25.563
+91.885
+Debris
+Slide
+9 July 2019 at 2.00 pm
+20542
+MEG/EKH/SHILLONG/02
+Meghalaya
+East Khasi Hills
+Rynjah
+Rynjah GSI Office slide
+25.56663056
+91.91370556
+Rock (with thin 
+overburden/debris)
+Slide
+10 July 2019

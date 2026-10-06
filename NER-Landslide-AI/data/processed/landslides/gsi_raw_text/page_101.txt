@@ -1,0 +1,553 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+4020
+HP/SOL/53A16/2017/209
+Himachal Pradesh
+Solan
+ 
+MATULI
+31.086222
+76.832222
+Debris
+Slide
+NA
+4021
+HP/SHI/53E16/2016/56
+Himachal Pradesh
+Shimla
+ 
+NEAR DARKOTI
+31.0863
+77.7894
+Debris
+Slide
+NA
+4022
+HP/SOL/53A16/2017/199
+Himachal Pradesh
+Solan
+ 
+SH 16,RAMSHAHR
+31.086306
+76.80425
+Debris
+Slide
+NA
+4023
+HP/SOL/53A16/2017/208
+Himachal Pradesh
+Solan
+ 
+MATULI
+31.086361
+76.831778
+Debris
+Slide
+NA
+4024
+HP/SOL/53A16/2017/200
+Himachal Pradesh
+Solan
+ 
+SH 16,RAMSHAHR
+31.086472
+76.8075
+Debris
+Slide
+NA
+4025
+HP/SOL/53A16/2017/207
+Himachal Pradesh
+Solan
+ 
+MATULI
+31.086806
+76.830861
+Debris
+Slide
+NA
+4026
+HP/SOL/53A16/2017/218
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.086806
+76.885722
+Debris
+Slide
+NA
+4027
+HP/SOL/53A16/2017/216
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.086861
+76.8615
+Debris
+Slide
+NA
+4028
+HP/SOL/53A16/2017/201
+Himachal Pradesh
+Solan
+ 
+SH 16,RAMSHAHR
+31.086861
+76.808417
+Rock
+Slide
+NA
+4029
+HP/SOL/53A16/2017/180
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.086917
+76.775611
+Rock
+Slide
+NA
+4030
+HP/SOL/53A16/2017/202
+Himachal Pradesh
+Solan
+ 
+SH 16,RAMSHAHR
+31.087028
+76.811083
+Debris
+Slide
+NA
+4031
+HP/SOL/53A16/2017/57
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.087167
+76.883083
+Debris
+Slide
+NA
+4032
+HP/SHI/53E16/2016/159
+Himachal Pradesh
+Shimla
+ 
+KATINDA
+31.0873
+77.8043
+Debris
+Fall
+NA
+4033
+HP/SOL/53A16/2017/206
+Himachal Pradesh
+Solan
+ 
+MATULI
+31.087361
+76.830667
+Debris
+Slide
+NA
+4034
+HP/SOL/53A16/2017/217
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.087722
+76.860333
+Debris
+Slide
+NA
+4035
+HP/SOL/53A16/2017/70
+Himachal Pradesh
+Solan
+ 
+BHANER
+31.087722
+76.849583
+Debris
+Slide
+NA
+4036
+HP/SOL/53A16/2017/76
+Himachal Pradesh
+Solan
+ 
+MATULI
+31.08775
+76.833778
+Debris
+Slide
+NA
+4037
+HP/SOL/53A16/2017/75
+Himachal Pradesh
+Solan
+ 
+MATULI
+31.087917
+76.834194
+Debris
+Slide
+NA
+4038
+HP/SOL/53A16/2017/58
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.088028
+76.87375
+Rock
+Slide
+NA
+4039
+HP/SOL/53A16/2017/119
+Himachal Pradesh
+Solan
+ 
+KUNIHAR PAPLOTA  ROAD
+31.088194
+76.948861
+Rock
+Slide
+NA
+4040
+HP/SOL/53A16/2017/118
+Himachal Pradesh
+Solan
+ 
+KUNIHAR PAPLOTA  ROAD
+31.088361
+76.950861
+Rock
+Slide
+NA
+4041
+HP/SHI/53E04/2017/20
+Himachal Pradesh
+Shimla
+ 
+BANOG
+31.088417
+77.193639
+Rock
+Slide
+NA
+4042
+HP/SOL/53A16/2017/64
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.088417
+76.85875
+Rock
+Slide
+NA
+4043
+HP/SOL/53A16/2017/69
+Himachal Pradesh
+Solan
+ 
+BHANER
+31.088472
+76.850972
+Rock
+Slide
+NA
+4044
+HP/SOL/53A16/2017/255
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.088486
+76.773674
+Debris
+Slide
+NA
+4045
+HP/SOL/53A16/2017/59
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.089056
+76.870417
+Rock
+Topple
+NA
+4046
+HP/SOL/53A16/2017/203
+Himachal Pradesh
+Solan
+ 
+MATULI
+31.089083
+76.827833
+Debris
+Slide
+NA
+4047
+HP/SOL/53A16/2017/66
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.089083
+76.856528
+Debris
+Slide
+NA
+4048
+HP/SOL/53A16/2017/117
+Himachal Pradesh
+Solan
+ 
+PAPLOTA
+31.089222
+76.951167
+Debris
+Slide
+NA
+4049
+HP/SHI/53E04/2017/148
+Himachal Pradesh
+Shimla
+ 
+SH 16
+31.089389
+77.063667
+Rock
+Slide
+NA
+4050
+HP/SOL/53A16/2017/204
+Himachal Pradesh
+Solan
+ 
+MATULI
+31.089444
+76.83
+Rock
+Slide
+NA
+4051
+HP/SOL/53A16/2017/65
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.089694
+76.857472
+Rock
+Slide
+NA
+4052
+HP/SHI/53E16/2016/62
+Himachal Pradesh
+Shimla
+ 
+NEAR KATINDA VILLAGE 
+KATINDA LINK ROAD
+31.0898
+77.8061
+Debris
+Slide
+NA
+4053
+HP/SOL/53A16/2017/205
+Himachal Pradesh
+Solan
+ 
+MATULI
+31.089889
+76.828972
+Rock
+Slide
+NA
+4054
+HP/SOL/53A16/2017/67
+Himachal Pradesh
+Solan
+ 
+DIGAL
+31.09
+76.855944
+Debris
+Slide
+NA
+4055
+HP/SHI/53E16/2016/63
+Himachal Pradesh
+Shimla
+ 
+NEAR KATINDA VILLAGE 
+KATINDA LINK ROAD
+31.0902
+77.8061
+Debris
+Slide
+NA
+4056
+HP/SOL/53A16/2017/68
+Himachal Pradesh
+Solan
+ 
+DIGAL
+31.0905
+76.854389
+Debris
+Slide
+NA
+4057
+HP/SHI/53E12/2016/69
+Himachal Pradesh
+Shimla
+ 
+Kothara
+31.091038
+77.667861
+Rock cum debris
+Slide
+NA
+4058
+HP/SHI/53E12/2016/13
+Himachal Pradesh
+Shimla
+ 
+ 
+31.09104
+77.667862
+Rock
+Slide
+NA
+4059
+HP/SHI/53E16/2016/73
+Himachal Pradesh
+Shimla
+ 
+DHANASAR
+31.0912
+77.8413
+Debris
+Slide
+NA
+4060
+HP/SHI/53E12/2016/22
+Himachal Pradesh
+Shimla
+ 
+Kariali Village road
+31.091306
+77.729639
+Rock cum debris
+Slide
+NA
+4061
+HP/SOL/53A16/2017/60
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.091306
+76.865694
+Debris
+Slide
+NA
+4062
+HP/SHI/53E12/2016/65
+Himachal Pradesh
+Shimla
+ 
+Kothara village, SH-10
+31.09132
+77.6657
+Rock
+Slide
+NA
+4063
+HP/SHI/53E04/2017/185
+Himachal Pradesh
+Shimla
+ 
+NH 88
+31.091366
+77.12689
+Rock
+Slide
+NA
+4064
+HP/SOL/53A16/2017/116
+Himachal Pradesh
+Solan
+ 
+PAPLOTA
+31.091778
+76.946611
+Debris
+Slide
+NA
+4065
+HP/SHI/53E16/2016/58
+Himachal Pradesh
+Shimla
+ 
+NEAR KUDDUNH-72-
+31.0925
+77.7918
+Debris
+Slide
+NA
+4066
+HP/SHI/53E16/2016/21
+Himachal Pradesh
+Shimla
+ 
+NH-72NH-72
+31.0926
+77.7936
+Debris
+Slide
+NA
+4067
+HP/SOL/53A16/2017/61
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.092667
+76.866111
+Debris
+Slide
+NA
+4068
+HP/SOL/53A16/2017/77
+Himachal Pradesh
+Solan
+ 
+BANROTA
+31.093083
+76.797778
+Debris
+Slide
+NA

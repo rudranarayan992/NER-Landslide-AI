@@ -1,0 +1,411 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+24560
+NG/KOH/83K2/2015/48
+Nagaland
+Kohima
+ 
+T-Khel Model village road
+25.679
+94.096
+Debris
+Slide
+2013
+24561
+NG/KOH/83K2/2015/132
+Nagaland
+Kohima
+ 
+Western downslope of Christ 
+King Higher Secondary School, 
+Kohima Village
+25.68
+94.117
+Debris
+Slide
+NA
+24562
+NG/PHE/83K6/2015/312
+Nagaland
+Phek
+ 
+Chakhabama-Chozuba-
+Zunheboto SH
+25.68
+94.287
+Debris
+Slide
+2015
+24563
+NG/PHE/83K14/2017/68
+Nagaland
+Phek
+ 
+Laruri village
+25.680167
+94.837944
+Debris
+Slide
+NA
+24564
+NL/KOH/83K02/2014/14
+Nagaland
+Kohima
+Jotsoma village science college road
+Jotsoma village
+25.68044
+94.07336
+Rock cum Debris
+Flow
+2014
+24565
+NG/PHE/83K14/2017/44
+Nagaland
+Phek
+ 
+ 
+25.680917
+94.792014
+Debris
+Slide
+NA
+24566
+NG/PHE/83K6/2015/335
+Nagaland
+Phek
+ 
+Chakhabama-Chozuba-
+Zunheboto SH
+25.681
+94.285
+Debris
+Slide
+2015
+24567
+NG/PHE/83K6/2015/338
+Nagaland
+Phek
+ 
+Pfiitsero-Sakraba-Phek road
+25.681
+94.387
+Debris
+Slide
+2015
+24568
+NAG/DIM/NIT/83G13/2019/LS1
+.
+Nagaland
+Dimapur
+#N/A
+#N/A
+25.68176111
+94.06811944
+Soil
+Slide
+26-10-2019
+24569
+NG/KOH/83K2/2015/107
+Nagaland
+Kohima
+ 
+On Bye-Pass road to Jotsoma 
+from NH-29
+25.682
+94.052
+Debris
+Slide
+2010
+24570
+NG/KOH/83K2/2015/154
+Nagaland
+Kohima
+ 
+Kohima-Chakhabama road (part 
+of NH-150)
+25.682
+94.131
+Debris
+Composite
+2010
+24571
+NG/KOH/83K2/2015/136
+Nagaland
+Kohima
+ 
+ 
+25.682
+94.094
+Debris
+Slide
+2013
+24572
+NG/KOH/83K2/2015/183
+Nagaland
+Kohima
+ 
+On Kohima-Chakhabama-
+Pfiitsero-Meluri road (NH150?)
+25.682
+94.12
+Debris
+Subsidence
+1988
+24573
+NG/KOH/83K2/2015/150
+Nagaland
+Kohima
+ 
+T-Khel Model village road
+25.682
+94.096
+Debris
+Slide
+2011
+24574
+NG/PHE/83K14/2017/62
+Nagaland
+Phek
+ 
+Kuzato to Wazeho
+25.682333
+94.760111
+Rock
+Slide
+NA
+24575
+NG/KOH/83K2/2015/209
+Nagaland
+Kohima
+ 
+ 
+25.683
+94.099
+Debris
+Slide
+2006
+24576
+NG/KOH/83K2/2015/38
+Nagaland
+Kohima
+ 
+ 
+25.683
+94.038
+Debris
+Slide
+2016
+24577
+NG/KOH/83K2/2015/156
+Nagaland
+Kohima
+ 
+On Bye-Pass road to Jotsoma 
+from NH-29
+25.683
+94.054
+Debris
+Subsidence
+NA
+24578
+NG/KOH/83K2/2015/167
+Nagaland
+Kohima
+ 
+Kohima-Chakhabama road (part 
+of NH-150)
+25.683
+94.119
+Debris
+Composite
+NA
+24579
+NL/KOH/83K02/2014/29
+Nagaland
+Kohima
+Kohima Ring road
+Ring road
+25.68375
+94.12436
+Debris
+Slide
+2014
+24580
+NG/KOH/83K2/2015/45
+Nagaland
+Kohima
+ 
+Secretariat-BSF Camp road
+25.684
+94.119
+Debris
+Slide
+2013
+24581
+NG/KOH/83K2/2015/146
+Nagaland
+Phek
+ 
+ 
+25.684
+94.246
+Debris
+Slide
+NA
+24582
+NG/KOH/83K2/2015/84
+Nagaland
+Kohima
+ 
+Secretariat-BSF Camp road
+25.685
+94.12
+Debris
+Slide
+2013
+24583
+NG/KOH/83K2/2015/219
+Nagaland
+Kohima
+ 
+ 
+25.685
+94.059
+Rock
+Slide
+1940
+24584
+NL/KOH/83K02/2014/28
+Nagaland
+Kohima
+Kohima ring road
+Ring road
+25.68525
+94.12347
+Debris
+Slide
+2014
+24585
+NG/KOH/83K2/2015/87
+Nagaland
+Kohima
+ 
+Secretariat-BSF Camp road
+25.686
+94.119
+Debris
+Slide
+2015
+24586
+NG/KOH/83K2/2015/47
+Nagaland
+Kohima
+ 
+Right bank of Dziiza river along 
+NH-29.
+25.686
+94.043
+Debris
+Slide
+2013
+24587
+NG/KMA/83K2/2016/01
+Nagaland
+Kohima
+Landslide at Chainage 171.2 km on 
+Dimapur-Kohima (NH-2).
+Dimapur-Kohima highway (NH-
+29).
+25.68625
+94.043194
+Debris
+Slide
+ 2013, 25 July 2015, 09 July 2016 
+24588
+NL/KOH/83K02/2014/07
+Nagaland
+Kohima
+Between Jotsama bypass road & 
+Dziidza river
+NH-29
+25.68658
+94.05319
+Debris
+Slide
+Aug-14
+24589
+NAG/KOH/83K02/2008/F-2
+Nagaland
+Kohima
+Kohima slide
+ 
+25.68667
+94.06361
+NA
+Slide
+02.08.2008
+24590
+NG/KOH/83K2/2015/159
+Nagaland
+Kohima
+ 
+Secretariat-BSF Camp road
+25.687
+94.12
+Debris
+Composite
+NA
+24591
+NG/KOH/83K2/2015/170
+Nagaland
+Kohima
+ 
+ 
+25.687
+94.062
+Debris
+Slide
+2006
+24592
+NL/KOH/83K02/2014/27
+Nagaland
+Kohima
+Secretariat ring road
+Secretariat ring road
+25.68703
+94.12442
+Debris
+Slide
+2014
+24593
+NL/KOH/83K02/2014/30
+Nagaland
+Kohima
+Rusoma village
+Rusoma village road
+25.68772
+94.14044
+Debris
+Slide
+2014
+24594
+NG/KOH/83K2/2015/101
+Nagaland
+Kohima
+ 
+BSF Camp-Riisoma village road
+25.688
+94.137
+Rock
+Slide
+2012

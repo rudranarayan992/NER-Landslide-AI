@@ -1,0 +1,350 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29831
+WB/DAR/78A08/2021/PDLS/36
+8
+West Bengal
+Kalimpong
+N/A
+N/A
+27.08242708
+88.55212466
+Rock
+Slide
+October 2021
+29832
+WB/DAR/78A08/2015/88
+West Bengal
+Darjeeling
+NH-31A 33.40km from Sevok(Tiger 
+Bridge) towards  Gangtok
+33.40km from Sevok(Tiger 
+Bridge) on NH-31A towards  
+Gangtok
+27.082507
+88.456444
+Debris
+Flow
+2007
+29833
+WB/DAR/78A08/2015/1314
+West Bengal
+Darjeeling
+ 
+GING
+27.082528
+88.291278
+Debris
+Slide
+2015
+29834
+WB/DAR/78A04/2015/1227
+West Bengal
+Darjeeling
+ 
+SAMALBONG
+27.082556
+88.18475
+Rock
+Slide
+2015
+29835
+WB/DAR/78A08/2015/1356
+West Bengal
+Darjeeling
+MELLI ROAD NEAR BAZAR
+MELLI ROAD, KALIMPONG
+27.082833
+88.449639
+Debris
+Slide
+2014
+29836
+WB/DAR/78A08/2021/PDLS/21
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08292554
+88.25645767
+Debris
+Slide
+October 2021
+29837
+WB/DAR/78A04/2021/PDLS/51
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08301578
+88.08638061
+Debris
+Slide
+October 2021
+29838
+WB/DAR/78A08/2021/PDLS/21
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08321321
+88.25659198
+Debris
+Slide
+October 2021
+29839
+WB/DAR/78A04/2021/PDLS/49
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08383594
+88.09469898
+Debris
+Slide
+October 2021
+29840
+WB/DARJ/78A08/2007/0283
+West Bengal
+Darjeeling
+ 
+33.40km from Sevok(Tiger 
+Bridge) on NH-31A towards 
+Gangtok
+27.084
+88.455
+Debris
+Flow
+NA
+29841
+WB/DAR/78A04/2015/1233
+West Bengal
+Darjeeling
+ 
+SOOM TG
+27.084111
+88.236861
+Debris
+Subsidence
+2013
+29842
+WB/DARJ/78A12/2007/0020
+West Bengal
+Darjeeling
+Lava-I
+0.5 km from Lava towards 
+Algara
+27.0842
+88.6613
+Debris
+Slide
+2007
+29843
+WB/DAR/78A12/2015/1474
+West Bengal
+Darjeeling
+ 
+ 
+27.084286
+88.535723
+Debris
+Slide
+2014
+29844
+WB/DAR/78A08/2021/PDLS/36
+9
+West Bengal
+Kalimpong
+N/A
+N/A
+27.08446637
+88.45253704
+Rock
+Slide
+October 2021
+29845
+WB/DAR/78A08/2015/155
+West Bengal
+Darjeeling
+Chisopani,
+Chisapani, Kalimpong.
+27.084611
+88.493139
+Rock
+Slide
+2015
+29846
+WB/DAR/78A08/2015/142
+West Bengal
+Darjeeling
+Chisopani,
+Chisapani, Kalimpong.
+27.084611
+88.493139
+Rock
+Slide
+2015
+29847
+WB/DAR/78A08/2015/1366
+West Bengal
+Darjeeling
+SHISHOPANI,TEERPAI,KALIMPONG
+SHISHOPANI,TEERPAI,KALIMPO
+NG
+27.085056
+88.490389
+Debris
+Slide
+2016
+29848
+WB/KAL/78A12/2021/PDLS/299 West Bengal
+Kalimpong
+N/A
+N/A
+27.08533784
+88.52618689
+Debris
+Slide
+October 2021
+29849
+WB/DAR/78A12/2015/1531
+West Bengal
+Darjeeling
+ 
+GOKE-BIJANBARI ROAD
+27.085501
+88.66037
+Debris
+Subsidence
+2015
+29850
+WB/DAR/78A12/2015/166
+West Bengal
+Darjeeling
+Lava Slide,  48.0 km from Damdim on 
+Damdim-Labha-Algara road
+Between Km. 48 & 49 on 
+Damdim-Labha-Algarah road
+27.085561
+88.664364
+Rock cum Debris
+Slide
+1975
+29851
+WB/DAR/78A08/2015/34
+West Bengal
+Darjeeling
+NH-31A  Melli Slide-I
+Near Km. 33 from Sevoke on NH 
+31A
+27.085666
+88.45783
+Debris
+Slide
+1968
+29852
+WB/DAR/78A08/2015/1539
+West Bengal
+Darjeeling
+Bong Busty (Near Sadhu Jhora), 
+Kalimpong
+BONG BUSTY,KALIMPONG
+27.085709
+88.457853
+Debris
+Slide
+2015
+29853
+WB/DAR/78A12/2015/1381
+West Bengal
+Darjeeling
+LOWER SANTUK
+LOWER SANTUK,SW OF MIRIK
+27.085722
+88.563167
+Debris
+Slide
+2015
+29854
+WB/DAR/78A04/2021/PDLS/16
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08577856
+88.21534113
+Debris
+Slide
+October 2021
+29855
+WB/DAR/78A08/2021/PDLS/21
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08580223
+88.25780085
+Debris
+Slide
+October 2021
+29856
+WB/DAR/78A04/2021/PDLS/11
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08580475
+88.15879206
+Debris
+Slide
+October 2021
+29857
+WB/DAR/78A12/2015/191
+West Bengal
+Darjeeling
+1 km from Lava towards  Gorubathan 1 km from Lava towards  
+Gorubathan
+27.085837
+88.660368
+Debris
+Slide
+2007
+29858
+WB/DAR/78A04/2021/PDLS/16
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08590337
+88.21552402
+Rock
+Slide
+October 2021
+29859
+WB/DAR/78A04/2021/PDLS/28
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08630895
+88.25261254
+Debris
+Slide
+October 2021

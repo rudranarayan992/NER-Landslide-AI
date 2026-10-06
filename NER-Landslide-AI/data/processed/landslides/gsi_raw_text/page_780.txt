@@ -1,0 +1,434 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30440
+7015
+West Bengal
+Kalimpong
+mission compound
+Near SUMI School
+27.074239
+88.473046
+Debris
+15 December 2025
+30441
+7016
+West Bengal
+Kalimpong
+Bhalukhop
+27.074316
+88.465779
+Debris
+NA
+30442
+7017
+West Bengal
+Kalimpong
+27.072786
+88.470388
+Debris
+NA
+30443
+7018
+West Bengal
+Kalimpong
+26.997288
+88.220903
+Soil
+NA
+30444
+7019
+West Bengal
+Kalimpong
+Kalimpong KM
+27.069533
+88.461859
+Debris
+NA
+30445
+7020
+West Bengal
+Kalimpong
+27.074161
+88.4731445
+Debris
+NA
+30446
+7021
+West Bengal
+Kalimpong
+Bhalukhop (near SUMI School)
+27.074294
+88.473016
+Debris
+NA
+30447
+7023
+West Bengal
+Kalimpong
+27.074291
+88.473394
+Debris
+NA
+30448
+7024
+West Bengal
+Kalimpong
+27.074202
+88.473101
+Rock
+NA
+30449
+7149
+West Bengal
+Darjeeling
+27.06355
+88.343122
+Soil
+Slide
+NA
+30450
+46
+West Bengal
+Darjeeling
+Right bank of teesta/200m 
+north of Siti Khola
+26.93788889
+88.44172222
+Rock
+slide
+NA
+30451
+47
+West Bengal
+Darjeeling
+North of Rambi
+26.99366667
+88.42594444
+Debris
+slide
+NA
+30452
+48
+West Bengal
+Darjeeling
+At km stone Sivok 19 km
+26.99666667
+88.42730556
+rock
+slide
+NA
+30453
+49
+West Bengal
+Darjeeling
+300m north of teesta 10km 
+stone
+26.99880556
+88.43158333
+rock
+slide
+NA
+30454
+50
+West Bengal
+Darjeeling
+27.014
+88.43597222
+Debris
+fill slope failure 
+due to toe 
+cutting
+2015
+30455
+51
+West Bengal
+Darjeeling
+27.02344444
+88.43369444
+Debris
+bank erosion 
+by river
+2015
+30456
+1
+West Bengal
+Darjeeling
+SH12 over Rakti river
+26.80380556
+88.29666667
+Debris
+bank erosion 
+by river
+2015
+30457
+2
+West Bengal
+Darjeeling
+SH12 near village Basua
+26.82972222
+88.23338889
+Debris
+subsidence
+2015
+30458
+3
+West Bengal
+Darjeeling
+26.846
+88.22416667
+Debris
+slide
+2015
+30459
+4
+West Bengal
+Darjeeling
+Singboli
+26.84672222
+88.22425
+Debris
+slide
+2015
+30460
+5
+West Bengal
+Darjeeling
+Singboli
+26.84783333
+88.22425
+Debris
+slide
+2015
+30461
+6
+West Bengal
+Darjeeling
+Singboli
+26.84736111
+88.22436111
+Debris
+slide
+2015
+30462
+7
+West Bengal
+Darjeeling
+on SH12 near Singboli TG
+26.84972222
+88.21802778
+Debris
+slide
+2015
+30463
+8
+West Bengal
+Darjeeling
+Limbu dhura
+26.848
+88.19030556
+Debris
+slide
+2015
+30464
+9
+West Bengal
+Darjeeling
+Limbu dhura & Paul dhura
+26.84755556
+88.19166667
+Debris
+slide & flow
+2015
+30465
+10
+West Bengal
+Darjeeling
+limbu dhura
+26.84677778
+88.19027778
+Debris
+slide
+2015
+30466
+11
+West Bengal
+Darjeeling
+limbu dhura
+26.84552778
+88.19072222
+Debris
+slide
+2015
+30467
+12
+West Bengal
+Darjeeling
+near tingling view point
+26.84541667
+88.19186111
+Debris
+slide
+2015
+30468
+13
+West Bengal
+Darjeeling
+paul dhura
+26.85033333
+88.19208333
+Debris
+slide & flow
+2015
+30469
+14
+West Bengal
+Darjeeling
+paul dhura
+26.85002778
+88.19233333
+Debris
+slide & flow
+2015
+30470
+15
+West Bengal
+Darjeeling
+paul dhura
+26.84936111
+88.19258333
+Debris
+slide & flow
+2015
+30471
+16
+West Bengal
+Darjeeling
+Dhuseni Gaon
+26.83811111
+88.20297222
+Debris
+subsidence
+2015
+30472
+17
+West Bengal
+Darjeeling
+Dhuseni Gaon
+26.83736111
+88.20333333
+Debris
+subsidence
+2015
+30473
+18
+West Bengal
+Darjeeling
+Thulung Gaon
+26.88819444
+88.20216667
+Debris
+slide
+2015
+30474
+19
+West Bengal
+Darjeeling
+200m SW of Thulung Gaon 
+location 22
+26.88702778
+88.20094444
+Debris
+slide
+2015
+30475
+20
+West Bengal
+Darjeeling
+100m SW of Thulung Gaon 
+location 22
+26.88766667
+88.20147222
+Debris
+slide
+2015
+30476
+21
+West Bengal
+Darjeeling
+Soureni TG
+26.85202778
+88.19341667
+Debris
+slide
+2015
+30477
+22
+West Bengal
+Darjeeling
+Soureni TG
+26.85147222
+88.19336111
+Debris
+slide
+2015
+30478
+23
+West Bengal
+Darjeeling
+Soureni TG
+26.85191667
+88.19422222
+Debris
+slide
+2015
+30479
+24
+West Bengal
+Darjeeling
+Soureni TG
+26.85280556
+88.19488889
+Debris
+slide & flow
+2015
+30480
+25
+West Bengal
+Darjeeling
+Soureni TG
+26.85013889
+88.1935
+Debris
+slide & flow
+2015
+30481
+26
+West Bengal
+Darjeeling
+Soureni TG
+26.84908333
+88.19411111
+Debris
+slide
+2015
+30482
+27
+West Bengal
+Darjeeling
+Toklan, on Soureni Bazar to 
+Toklan road
+26.86552778
+88.19272222
+Debris
+slide
+2015

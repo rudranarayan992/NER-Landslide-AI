@@ -1,0 +1,143 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+35905
+UK_CHA_NH58_ L8 
+Uttarakhand
+Chamoli
+Patalganga Slide
+National/ State Highway: NH-
+58, Important 
+location/landmark: Patalganga, 
+Village: Patalganga, Tehsil: 
+Joshimath
+30.487
+79.48726944
+rock cum debris 
+Slide
+6th and 17th June, 2013, 14-15th 
+August 2014
+35906
+UK_CHA_NH58_ L9 
+Uttarakhand
+Chamoli
+Helang Slide
+National/ State Highway: NH-
+58, Important 
+location/landmark: 500 m 
+upstream of Helang Bridge, 
+Village: Helang, Tehsil: 
+Joshimath
+30.5305
+79.51225
+rock cum debris 
+Slide
+16th & 17th June 2013 and 15 August 
+2014, 16 June 2013, 14 August 2014
+35907
+UK_CHA_NH58_ L11 
+Uttarakhand
+Chamoli
+Animath Slide
+National/ State Highway: NH-
+58, Important 
+location/landmark: BRO 
+Chainage 468.300 km (On NH-
+58, d/s of Tapovan-Vishnugad 
+powerhouse), Village: Animath, 
+Tehsil: Joshimath
+30.53175
+79.51594444
+Rock 
+Slide
+16th and 17th June 2013, 14 August 
+2014
+35908
+UK_RUD_NH58_ L12 
+Uttarakhand
+Chamoli
+Kumera Slide
+National/ State Highway: NH-
+58, Important 
+location/landmark: 3 km down 
+stream of Gaucher township, 
+Village: Kamera, Tehsil: 
+Karanprayag
+30.5895
+79.88555556
+rock cum debris 
+Slide
+17 June 2013, August 2014
+35909
+UK_RUD_NH109_ L13 
+Uttarakhand
+Rudraprayag
+Kund Slide
+National/ State Highway: NH-
+109, Important 
+location/landmark: On the left 
+bank of Mandakini river, about 
+1.5 km d/s of Kund bridge., 
+Village: Kund, Tehsil: 
+30.49344444
+79.08769444
+Overburden and 
+RBM 
+Slide
+17 June 2013, August 2014
+35910
+UK_RUD_NH109_ L14 
+Uttarakhand
+Rudraprayag
+Semi Slide
+National/ State Highway: NH-
+109, Important 
+location/landmark: Semi village, 
+Village: Semi, Tehsil: Okhimath
+30.51555556
+79.08472222
+Overburden/ Debris, 
+soil and RBM
+Slide
+16 June 2013 and August 2014
+35911
+Uttarakhand
+Uttarakhand
+Rudraprayag
+Kakragad Slide
+National/ State Highway: NH-
+109, Important 
+location/landmark: On the left 
+bank of Mandakini river, about 
+80 m d/s of confluence of 
+Mandakini and Kakra gad., 
+Village: , Tehsil: Okhimath
+30.48783333
+79.08502778
+Rock and debris
+Slide
+17 June 2013, 01 August 2014
+35912
+UK_RUD_NH109_ L16 
+Uttarakhand
+Rudraprayag
+Rampur- Nyalsu Slid
+National/ State Highway: NH-
+109, Important 
+location/landmark: Near 
+Rampur village, Village: Rampur-
+Nyalsu , Tehsil: 
+30.61894444
+79.01105556
+Muck/fill material 
+Slide
+16 June 2013, 7 August 2014

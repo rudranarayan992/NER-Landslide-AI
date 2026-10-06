@@ -1,0 +1,508 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+25887
+NL/KOH/83G13/2023/38
+Nagaland
+Kohima
+Chakhabama
+Kohima-Zunhoboto road
+25.67009167
+94.22525278
+Rock
+Slide
+NA
+25888
+NL/KOH/83K02/2023/39
+Nagaland
+Kohima
+Chakhabama
+Kohima-Zunhoboto road
+25.66883889
+94.21054444
+Debris
+Slide
+NA
+25889
+NL/KOH/83K02/2023/40
+Nagaland
+Kohima
+Jotsoma
+NH29
+25.68611667
+94.04302778
+Debris
+Slide
+Sep-23
+25890
+NL/KOH/83K02/2023/41
+Nagaland
+Kohima
+Dzubza
+NH29
+25.65587222
+94.12442778
+Debris
+Slide
+October 2023
+25891
+NL/KOH/83K02/2023/42
+Nagaland
+Kohima
+Dzubza
+NH29
+25.65823056
+94.12258333
+Debris
+Slide
+August 2023
+25892
+NL/KOH/83K02/2023/43
+Nagaland
+Kohima
+Peducha-Zadima road
+Peducha-Zadima road
+25.65852222
+94.12213056
+Debris
+Slide
+August 2023
+25893
+NL/KOH/83K02/2023/44
+Nagaland
+Kohima
+Peducha-Zadima road
+Peducha-Zadima road
+25.65253889
+94.11867222
+Debris
+Slide
+NA
+25894
+NL/KOH/83K02/2023/45
+Nagaland
+Kohima
+Peducha-Zadima road
+Peducha-Zadima road
+25.65137778
+94.12166667
+Debris
+Slide
+NA
+25895
+NL/KOH/83K01/2023/46
+Nagaland
+Kohima
+Kohima-Nuiland road
+Kohima-Nuiland road
+25.77368056
+94.03548611
+Debris
+Subsidence
+August 2023
+25896
+NL/KOH/83K01/2023/47
+Nagaland
+Kohima
+Kohima-Nuiland road
+Kohima-Nuiland road
+25.77601111
+94.03071389
+Debris
+Subsidence
+August 2023
+25897
+NL/KOH/83K01/2023/48
+Nagaland
+Kohima
+Kohima-Nuiland road
+Kohima-Nuiland road
+25.79148889
+94.01525556
+Rock
+Slide
+NA
+25898
+NL/KOH/83K01/2023/49
+Nagaland
+Kohima
+Kohima-Nuiland road
+Kohima-Nuiland road
+25.79835556
+94.00099444
+Debris
+Slide
+NA
+25899
+NL/KOH/83K01/2023/50
+Nagaland
+Kohima
+Kohima-Nuiland road
+Kohima-Nuiland road
+25.79595
+93.99585278
+Rock
+Slide
+NA
+25900
+NL/KOH/83K01/2023/51
+Nagaland
+Kohima
+Kohima-Nuiland road
+Kohima-Nuiland road
+25.795875
+93.99373611
+Debris
+Slide
+NA
+25901
+NL/KOH/83K01/2023/52
+Nagaland
+Kohima
+Kohima-Nuiland road
+Kohima-Nuiland road
+25.79464167
+93.99172222
+Rock
+Slide
+NA
+25902
+NL/KOH/83K01/2023/53
+Nagaland
+Kohima
+Kohima-Nuiland road
+Kohima-Nuiland road
+25.80414722
+93.98611389
+Debris
+Slide
+NA
+25903
+NL/KOH/83K02/2023/54
+Nagaland
+Kohima
+Kidima
+Kigwema-Chakhabama road
+25.60902222
+94.12846944
+Debris
+Slide
+NA
+25904
+NL/KOH/83K02/2023/55
+Nagaland
+Kohima
+Kidima
+Kigwema-Chakhabama road
+25.52246944
+94.19153333
+Rock
+Slide
+NA
+25905
+NL/KOH/83K02/2023/56
+Nagaland
+Kohima
+Kidima
+Kohima-Nuiland road
+25.87653333
+94.13359167
+Rock
+Slide
+September 2023
+25906
+NL/KOH/83K02/2023/57
+Nagaland
+Kohima
+Tsiesema Bawe
+Kohima-Nuiland road
+25.75056944
+94.08058889
+Debris
+Slide
+NA
+25907
+NL/KOH/83K02/2023/58
+Nagaland
+Kohima
+Kohima-Nuiland road
+Kohima-Nuiland road
+25.85442778
+94.15844444
+Debris
+Slide
+23 August 2018
+25908
+NL/KOH/83K02/2023/59
+Nagaland
+Kohima
+Kohima-Nuiland road
+Kohima-Nuiland road
+25.857991
+94.159346
+Debris
+Slide
+23 August 2018
+25909
+NL/KOH/83K02/2024/001
+Nagaland
+Kohima
+NH 102A/Shajouba
+25.472137
+94.151037
+Debris
+Slide
+2007, 2023
+25910
+NL/KOH/83K02/2024/002
+Nagaland
+Kohima
+NH 102A/Tadubi
+25.481594
+94.141694
+Rock
+Slide
+NA
+25911
+NL/KOH/83K02/2024/003
+Nagaland
+Kohima
+NH-2/Tadubi
+25.52036
+94.1311201
+Debris
+Slide
+01 June 2024
+25912
+NL/KOH/83K02/2024/004
+Nagaland
+Kohima
+NH-2/Khuzama
+25.52164
+94.13426
+Debris
+Slide
+01 June 2024
+25913
+NL/KOH/83K02/2024/005
+Nagaland
+Kohima
+NH-2/Khuzama
+25.52426
+94.1365
+Debris
+Subsidence
+NA
+25914
+NL/KOH/83K02/2024/006
+Nagaland
+Kohima
+NH-2/Khuzama
+25.525094
+94.135798
+Debris
+Subsidence
+01 June 2024
+25915
+NL/KOH/83K02/2024/007
+Nagaland
+Kohima
+NH-2/Khuzama
+25.538422
+94.136039
+Debris
+Slide
+01 June 2024
+25916
+NL/KOH/83K02/2024/008
+Nagaland
+Kohima
+NH-2/Viswema
+25.5651
+94.1390034
+Debris
+Slide
+01 June 2024
+25917
+NL/KOH/83K02/2024/009
+Nagaland
+Kohima
+NH-2/Viswema
+25.6032619
+94.1122188
+Rock
+Slide
+01 June 2024
+25918
+NL/KOH/83K02/2024/010
+Nagaland
+Kohima
+NH-2/Phesema
+25.62154
+94.1122
+Debris
+Slide
+01 June 2024
+25919
+NL/KOH/83K02/2024/011
+Nagaland
+Kohima
+NH-2/Phesema
+25.6291966
+94.10177
+Debris
+Slide
+01 June 2024
+25920
+NL/KOH/83K02/2024/012
+Nagaland
+Kohima
+NH-2/Phesema
+25.6387
+94.10979
+Debris
+Slide
+01 June 2024
+25921
+NL/KOH/83K02/2024/013
+Nagaland
+Kohima
+NH-2/Lerie
+25.648759
+94.10616
+Debris
+Slide
+01 June 2024
+25922
+NL/KOH/83K02/2024/014
+Nagaland
+Kohima
+Jotsoma-Khonoma road
+25.6609
+94.0536
+Debris
+Slide
+2015, 2020, 2023, 23 August  2024
+25923
+NL/MOK/83J07/2025/01
+Nagaland
+Mokokchung
+Longnak landslide
+NH-702D
+26.45278
+94.37526
+Earth
+Slide
+08 July 2025
+25924
+NL/MOK/83J07/2025/02
+Nagaland
+Mokokchung
+Merayim landslide
+NH-702D
+26.423137
+94.382261
+Earth
+Slide
+07 July 2025
+25925
+NL/MOK/83J07/2025/03
+Nagaland
+Mokokchung
+Changki slide_1
+NH-702D
+26.42186
+94.3852
+Rock
+Slide
+07 July 2025
+25926
+NL/MOK/83J07/2025/04
+Nagaland
+Mokokchung
+Changki slide_2
+NH-702D
+26.425346
+94.387013
+Rock
+Slide
+07 July 2025
+25927
+NL/MOK/83J07/2025/05
+Nagaland
+Mokokchung
+Yimkum Slide
+NH-702D, Yimkum sector, 
+Chungtia Village
+26.383648
+94.440751
+Debris
+Slide
+29 July 2025
+25928
+NL/MOK/83J07/2025/06
+Nagaland
+Mokokchung
+Razu slide
+NH-702D, Razu sector, Chungtia 
+village
+26.384347
+94.443397
+Debris
+Slide
+01 July 2024
+25929
+NL/MOK/83J07/2025/07
+Nagaland
+Mokokchung
+Yimlang Slide
+NH-702D, Yimlang sector, 
+Chungtia village
+26.387181
+94.444132
+Rock
+Slide
+01 August 2025
+25930
+NL/MOK/83J07/2025/08
+Nagaland
+Mokokchung
+Sabangya slide
+NH-702D, Sabangya sector, 
+Chungtia village
+26.379798
+94.450751
+Debris
+Slide
+07 July 2025
+25931
+NA/KOH/83K02/2025/01
+Nagaland
+Kohima
+Kisama slide
+NH-2
+25.62083
+94.11572
+Rock
+Slide
+ June 2017, 31 May 2025 at 21:00hrs
+25932
+NL/TSE/83K01/2025/01
+Nagaland
+Tseminyu
+Terogvunyu Village
+NH-2
+25.88165
+94.19023
+Rock
+Slide
+19 January 2025

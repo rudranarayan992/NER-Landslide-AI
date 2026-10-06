@@ -1,0 +1,430 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+19556
+MN/NON/83H10/2024/03
+Manipur 
+Noney
+Longmai Part-III slide
+Longmai (NH-37)
+24.85534
+93.62409
+Debris/overburden 
+materials
+Slide 
+last week of June, 2020, last week of 
+July, 2024.
+19557
+MA/SEN/83K03/2024/01
+Manipur
+Senapati
+Lower Shajouba village landslide
+Tadubi-Ukhrul landslide
+25.471526
+94.151784
+Debris
+Slide
+September 2007, May 2023, June 2024
+19558
+MA/TAM/83H05/2024/01
+Manipur
+Tamenglong
+Dimthanlong landslide
+Dimthanlong
+24.979
+93.496
+Earth
+Slide
+29 July 2024
+19559
+MN/BIS/83H14/2024/01
+Manipur 
+Bishnupur
+Khunjem slide-1
+Thanga Khunjem Leikai
+24.524125
+93.816333
+Debris
+Slide 
+2017, 2018, 2021, 1 August 2024 at 
+15:00hrs
+19560
+MN/BIS/83H14/2024/02
+Manipur 
+Bishnupur
+Khunjem slide-2
+Thanga Khunjem Leikai
+24.517056
+93.817056
+Debris
+Slide 
+2 August 2024.
+19561
+MAN/SNP/83K02/2023/16
+Manipur
+Senapati
+Mao
+NH2
+25.6495419
+94.1068683
+Debris
+Slide
+ Sep 2023
+19562
+MN/SEN/83K03/2025/01
+Manipur
+Senapati
+Shajouba slide
+Shajouba, NH-102A (Tadubi-
+Tulloi-Ukhrul road)
+25.476047
+94.146074
+Earth
+Slide
+2024, 15 September 2025 
+19563
+MN/NON/83H/ 9/2018/0001
+Manipur
+Noney
+NH 37
+24.80111111
+93.65311111
+Debris
+Slide
+NA
+19564
+MN/NON/83H/ 9/2018/0002
+Manipur
+Noney
+NH37
+24.79833333
+93.65505556
+Debris
+Slide
+2018
+19565
+MN/NON/83H/ 9/2018/0003
+Manipur
+Noney
+NH37
+24.79472222
+93.65577778
+Debris
+Slide
+ July 2017,  2018
+19566
+MN/NON/83H/ 9/2018/0004
+Manipur
+Noney
+NH37
+24.78766667
+93.66666667
+Debris
+Slide
+NA
+19567
+MN/NON/83H/ 9/2018/0005
+Manipur
+Noney
+NH37
+24.79825
+93.72408333
+Debris
+Slide
+NA
+19568
+MN/NON/83H/ 9/2018/0007
+Manipur
+Noney
+NH37
+24.7955
+93.73605556
+Rock
+Fall
+2018
+19569
+MN/NON/83H/
+9/2018/0008
+Manipur
+Noney
+NH37
+24.79727778
+93.73777778
+Debris
+Slide
+2018
+19570
+MN/NON/83H/
+9/2018/0009
+Manipur
+Noney
+NH37
+24.798
+93.736
+Debris
+Slide
+NA
+19571
+MN/NON/83H/ 9/2018/0010
+Manipur
+Noney
+NH37
+24.80425
+93.73286111
+Debris
+Slide
+NA
+19572
+MN/NON/83H/ 9/2018/0011
+Manipur
+Noney
+NH37
+24.80863889
+93.73572222
+Debris
+Slide
+NA
+19573
+MN/NON/83H/ 9/2018/0012
+Manipur
+Noney
+NH37
+24.80991667
+93.73611111
+Debris
+Slide
+NA
+19574
+MN/NON/83H/
+9/2018/0013
+Manipur
+Noney
+NH37
+24.81583333
+93.74019444
+Debris
+Slide
+NA
+19575
+MN-33/2011
+Manipur
+TAMENGLONG
+Gadailong slide
+24.985
+93.52113889
+Earth
+Slide
+31 May 2011
+19576
+MN-34/2011
+Manipur
+TAMENGLONG
+Sinam Kuki SLIDE
+24.79083333
+93.72333333
+Rock
+Slide
+6 July 2011
+19577
+ML-93/2011
+Manipur
+West Khasi Hills
+Riangdo Landslide
+25.67341667
+91.06625
+NA
+Nil
+Second week of May 2011
+19578
+ML-94/2011
+Manipur
+Ri-Bhoi
+Umsaw Khwan slide
+25.67469444
+91.88652778
+NA
+Nil
+26 June 2011
+19579
+MN-7/2010
+Manipur
+Tamenglong
+Irang slide
+24.82908333
+93.50694444
+NA
+Nil
+1st week of June 2010
+19580
+MN-8/2010
+Manipur
+Tamenglong
+Irang slide
+24.84563889
+93.50202778
+NA
+Nil
+1st week of June 2010
+19581
+MN-9/2010
+Manipur
+Tamenglong
+Lukhambi slide
+24.86461111
+93.59888889
+NA
+Nil
+1st week of June 2010
+19582
+MN-10/2010
+Manipur
+Tamenglong
+None slide
+24.86469444
+93.62116667
+NA
+Nil
+08 June 2010
+19583
+MN-11/2010
+Manipur
+Tamenglong
+Khumji slide
+24.86297222
+93.62397222
+NA
+Nil
+08 June 2010
+19584
+MN-12/2010
+Manipur
+Tamenglong
+Khoupum slide
+24.73133333
+93.92738889
+NA
+Nil
+28 March 2010
+19585
+Manipur/ Ukhrul/ 83 L5/ 
+2015/01 
+Manipur
+Ukhrul
+Phungyar Landslide
+Phungyar village
+24.82022222
+94.35255556
+Debris
+Deep 
+translational
+30 July 2015
+19586
+Manipur/ Ukhrul/ 83K04/ 2017/ 
+001
+Manipur
+Ukhrul
+Sirarakhong landslide
+Sirarakhong village road to the 
+east of Sirarakhong Baptist
+25.07849444
+94.23608333
+Soil
+Slide
+ 05 April 2017 at 14.00hrs
+19587
+Manipur/Senapati/83K03/2020/
+003
+Manipur
+Senapati
+Khongnem
+NH-2(Imphal_Mao), Khongnem 
+Village
+25.35366667
+94.06508333
+Debris with minor 
+bed rock
+2019,2020
+19588
+MN/KPI/83G016/2022/01
+Manipur
+Kangpokpi
+Lamlenkon landslide
+Imphal-Tamei Road, Tujang 
+Waichong
+25.24868889
+93.85251111
+Rock, detrital
+Slide 
+6 June 2021, 2 August and 26 March 
+2022
+19589
+MN/NON/83H09/2022/01
+Manipur
+Noney
+Tupul Railway station slide
+Tupul Railway station, Tupul
+24.80664722
+93.66738056
+Rock, detrital
+Slide
+30 June 2022 at  00:30 hrs,  30 June 
+2022 at 06:00hrs, 2 July 2022
+19590
+5777
+Manipur
+Noney
+NH-37
+24.786938
+93.657893
+Debris
+Slide
+Septemebr 2025
+19591
+5779
+Manipur
+Noney
+NH-37
+24.788159
+93.663215
+Debris
+fall
+10 Septemebr 2025
+19592
+5780
+Manipur
+Noney
+NH-37
+24.786357
+93.657951
+Debris
+slide
+10 Septemebr 2025
+19593
+6781
+Manipur
+Senapati
+NH-37
+25.415678
+94.085361
+Debris
+slide
+NA
+19594
+6782
+Manipur
+Kangpokpi
+NH-37
+24.791125
+93.72522
+Debris
+slide
+October 2025

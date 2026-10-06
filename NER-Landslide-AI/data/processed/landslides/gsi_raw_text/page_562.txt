@@ -1,0 +1,422 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22172
+MIZ/AIZ/84A09/2016/76
+Mizoram
+Aizawl
+Rangamval Landslide
+Rangamval
+23.750454
+92.69524
+Rock
+Slide
+2014
+22173
+MIZ/AIZ/84A09/2016/80
+Mizoram
+Aizawl
+ 
+Phungchawng section
+23.750676
+92.679635
+Debris
+Slide
+2016
+22174
+MIZO/AIZ/84A10/2007/E-2
+Mizoram
+Aizawl
+Zuangtui slide
+ 
+23.750722
+92.744
+Debris
+Slide
+08 Septemebr 2007
+22175
+MIZ/MAM/84A09/2016/127
+Mizoram
+Mamit
+ 
+ 
+23.751155
+92.571589
+Debris
+Slide
+2016
+22176
+MIZ/LU/84B/13/2018/001
+Mizoram
+Lunglei
+Lunglawn landslide
+LunglawnVeng, SE of Lunglei 
+town.
+23.751528
+91.604533
+Debris
+Slide
+4 June 2018 at 18:30 hrs.
+22177
+MIZO/AIZ/84A10/2007/E-3
+Mizoram
+Aizawl
+Bawng Venglai slide
+ 
+23.751694
+92.731528
+Debris
+Slide
+8 September 2007
+22178
+MZ/CHA/84E05/2017/5
+Mizoram
+Champhai
+ 
+HnahlanVaikhawtlang section
+23.753222
+93.377281
+Rock
+Slide
+NA
+22179
+MIZ/AIZ/84A09/2016/79
+Mizoram
+Aizawl
+ 
+Rangamval section
+23.753417
+92.687556
+Rock
+Slide
+2016
+22180
+MIZ/AIZ/84A09/2016/78
+Mizoram
+Aizawl
+ 
+Gate for Mizoram Truck 
+Owners' Association, 57 km 
+Khawnpui milestone
+23.754359
+92.690207
+Debris
+Slide
+2016
+22181
+MIZ/AIZ/84A09/2016/61
+Mizoram
+Aizawl
+ 
+Aizawl-Sairang road
+23.754475
+92.722754
+Debris
+Slide
+2016
+22182
+MIZ/AIZ/84A09/2016/77
+Mizoram
+Aizawl
+ 
+Gate for Mizoram Truck 
+Owners' Association, 57 km 
+Khawnpui milestone
+23.754493
+92.690145
+Rock
+Slide
+2016
+22183
+MIZ/MAM/84A09/2016/128
+Mizoram
+Mamit
+ 
+ 
+23.757805
+92.561473
+Debris
+Slide
+2016
+22184
+MIZ/AIZ/84A13/2016/46
+Mizoram
+Aizawl
+ 
+~700 m N of Sesawng
+23.760222
+92.848167
+Rock
+Fall
+NA
+22185
+MIZ/MAM/84A09/2016/124
+Mizoram
+Mamit
+ 
+ 
+23.761734
+92.573908
+Debris
+Slide
+2016
+22186
+MIZ/AIZ/84A13/2016/48
+Mizoram
+Aizawl
+ 
+Muanna Veng/ Ramlun 
+Thlangmual
+23.762482
+92.742799
+Rock
+Slide
+NA
+22187
+MIZ/AIZ/84A10/2016/102
+Mizoram
+Mamit
+ 
+Rawpuichhip-Mamit road, NH 
+44A
+23.767139
+92.533889
+Rock
+Slide
+2016
+22188
+MIZ/AIZ/84A10/2016/103
+Mizoram
+Mamit
+ 
+Rawpuichhip-Mamit road, NH 
+44A
+23.767139
+92.533889
+Rock
+Fall
+2016
+22189
+MIZ/AIZ/84A09/2016/100
+Mizoram
+Mamit
+ 
+Rawpuichhip-Mamit road, NH 
+44A
+23.76821
+92.539681
+Debris
+Slide
+2016
+22190
+MIZ/AIZ/84A09/2016/133
+Mizoram
+Aizawl
+ 
+Hunther area
+23.771587
+92.732129
+Debris
+Slide
+NA
+22191
+MZ/AIZ/84E01/2017/75
+Mizoram
+Aizawl
+ 
+ThanglailungSaitual section
+23.777472
+93.009163
+Rock
+Slide
+NA
+22192
+MZ/CHA/84E01/2017/14
+Mizoram
+Champhai
+ 
+NE of Hliappui
+23.777555
+93.112473
+Debris
+Slide
+NA
+22193
+MZ/AIZ/84E01/2017/55
+Mizoram
+Aizawl
+ 
+14 lm from Dilkhan
+23.777805
+93.00489
+Debris
+Slide
+NA
+22194
+MZ/AIZ/84E01/2017/94
+Mizoram
+Aizawl
+ 
+ThanglailungSaitual section
+23.779444
+93.023918
+Debris
+Slide
+NA
+22195
+MIZ/AIZ/84A13/2016/45
+Mizoram
+Aizawl
+ 
+~ 10 m from prev location
+23.78
+92.84
+Debris
+Slide
+2016
+22196
+MZ/MAM/84A05/2020/9
+Mizoram
+Mamit
+Serhmun-Bungmun section slide 1
+Serhmun-Bungmun-
+Kawrtethaeveng  road section
+23.78
+92.36
+Rock
+Slide
+2019
+22197
+MZ/CHA/84E01/2017/45
+Mizoram
+Champhai
+ 
+7.7 km SE of Pawlrang
+23.780138
+93.152916
+Rock
+Slide
+NA
+22198
+MIZ/MAM/84A09/2016/126
+Mizoram
+Mamit
+ 
+ 
+23.780864
+92.577909
+Debris
+Slide
+2016
+22199
+MZ/CHA/84E01/2017/18
+Mizoram
+Champhai
+ 
+7.4 km SE of Pawlrang
+23.782249
+93.148865
+Debris
+Slide
+NA
+22200
+MZ/CHA/84E01/2017/5
+Mizoram
+Champhai
+ 
+5.6 km NE of Hliappui
+23.782249
+93.116165
+Debris
+Slide
+NA
+22201
+MIZ/AIZ/84A09/2016/99
+Mizoram
+Mamit
+ 
+Rawpuichhip-Mamit road, NH 
+44A, ~20 m from previous 
+location
+23.783846
+92.553747
+Debris
+Slide
+2016
+22202
+MIZ/AIZ/84A09/2016/98
+Mizoram
+Mamit
+ 
+Rawpuichhip-Mamit road, NH 
+44A
+23.783956
+92.553695
+Rock
+Fall
+2016
+22203
+MIZ/AIZ/84A13/2016/44
+Mizoram
+Aizawl
+ 
+~5.5  km N of Sesawng on NH 
+150
+23.784222
+92.841972
+Earth
+Flow
+2016
+22204
+MIZ/AIZ/84A09/2016/93
+Mizoram
+Mamit
+ 
+~1.5 km towards Lengte
+23.784278
+92.597111
+Debris
+Slide
+2016
+22205
+MZ/AIZ/84E01/2017/53
+Mizoram
+Aizawl
+ 
+ThanglailungSaitual section
+23.785444
+93.024612
+Soil
+Slide
+NA
+22206
+MZ/CHA/84E01/2017/30
+Mizoram
+Champhai
+ 
+8.5 km SE of Pawlrang
+23.785944
+93.154137
+Rock
+Slide
+NA
+22207
+MIZ/AIZ/84A09/2016/131
+Mizoram
+Aizawl
+ 
+Hunther area
+23.787414
+92.725278
+Debris
+Slide
+NA

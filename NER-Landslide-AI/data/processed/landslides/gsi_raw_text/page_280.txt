@@ -1,0 +1,424 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12079
+KA/SHI/48K13/2020/3
+Karnataka
+Shimoga
+Vill. Malekoppa
+Vill. Malekoppa
+13.91
+74.92
+Debris
+Slide
+NA
+12080
+KA/SHI/48K13/2020/4
+Karnataka
+Shimoga
+Vill. Malekoppa
+Vill. Malekoppa
+13.91
+74.92
+Debris
+Slide
+NA
+12081
+KA/SHI/48K13/2020/7
+Karnataka
+Shimoga
+Sampekatte-Kollur road
+Sampekatte-Kollur road
+13.91
+74.94
+Debris
+Slide
+NA
+12082
+KA/SHI/48K13/2020/17
+Karnataka
+Shimoga
+Belur-Madvi road
+Belur-Madvi road
+13.91
+74.93
+Earth
+Slide
+NA
+12083
+KA/SHI/48K13/2020/22
+Karnataka
+Shimoga
+Nittur-Katkamadi road
+Nittur-Katkamadi road
+13.91
+74.88
+Debris
+Slide
+NA
+12084
+KA/SHI/48K13/2020/23
+Karnataka
+Shimoga
+Nittur-Katkamadi road
+Nittur-Katkamadi road
+13.91
+74.88
+Debris
+Slide
+NA
+12085
+KA/SHI/48K13/2020/41
+Karnataka
+Shimoga
+Vill. Holegaru ; Nittur-Nagodi road
+Vill. Holegaru ; Nittur-Nagodi 
+road
+13.91
+74.86
+Debris
+Slide
+NA
+12086
+KA/SHI/48K13/2020/42
+Karnataka
+Shimoga
+ Vill.Holegaru; Nittur-Nagodi road
+ Vill.Holegaru; Nittur-Nagodi 
+road
+13.91
+74.86
+Debris
+Slide
+NA
+12087
+KA/SHI/48K13/2020/43
+Karnataka
+Shimoga
+ Vill.Holegaru; Nittur-Nagodi road
+ Vill.Holegaru; Nittur-Nagodi 
+road
+13.91
+74.86
+Debris
+Slide
+NA
+12088
+KA/SHI/48K13/2020/44
+Karnataka
+Shimoga
+Nittur -Nagodi road
+Nittur -Nagodi road
+13.91
+74.86
+Debris
+Slide
+NA
+12089
+KA/SHI/48K13/2020/45
+Karnataka
+Shimoga
+Nittur-Nagodi road
+Nittur-Nagodi road
+13.91
+74.86
+Debris
+Slide
+NA
+12090
+KA/SHI/48K13/2020/46
+Karnataka
+Shimoga
+ Nittur-Nagodi road
+ Nittur-Nagodi road
+13.91
+74.86
+Earth
+Slide
+NA
+12091
+KA/SHI/48K13/2020/47
+Karnataka
+Shimoga
+Nittur-Nagodi road
+Nittur-Nagodi road
+13.91
+74.85
+Debris
+Slide
+NA
+12092
+KA/SHI/48K13/2020/48
+Karnataka
+Shimoga
+Vill. Nagodi; Nagodi- Kollur road
+Vill. Nagodi; Nagodi- Kollur road 13.91
+74.85
+Debris
+Slide
+NA
+12093
+KA/SHI/48O05/2020/37
+Karnataka
+Shimoga
+Jiregemane-1
+Jiregemane-1
+13.91
+75.3
+Debris
+Slide
+2020
+12094
+KA/SHI/48O01/2020/68
+Karnataka
+Shimoga
+Huligaru
+Huligaru
+13.91
+75.16
+Earth
+Slide
+2020
+12095
+KA/SHI/48O01/2020/69
+Karnataka
+Shimoga
+Huligaru-1
+Huligaru-1
+13.91
+75.16
+Debris
+Slide
+2020
+12096
+KA/SHI/48O01/2020/70
+Karnataka
+Shimoga
+Huligaru-2
+Huligaru-2
+13.91
+75.16
+Debris
+Slide
+2020
+12097
+KA/SHI/48O01/2020/71
+Karnataka
+Shimoga
+Huligaru-3
+Huligaru-3
+13.91
+75.16
+Debris
+Slide
+2020
+12098
+KA/SHI/48K13/2020/5
+Karnataka
+Shimoga
+Malekoppa- Sidalguni road section
+Malekoppa- Sidalguni road 
+section
+13.92
+74.92
+Debris
+Slide
+NA
+12099
+KA/SHI/48K13/2020/6
+Karnataka
+Shimoga
+Sidalguni-Nittur road section / 
+Milestone-Kollur:22 km
+Sidalguni-Nittur road section / 
+Milestone-Kollur:22 km
+13.92
+74.91
+Debris
+Slide
+NA
+12100
+KA/SHI/48K13/2020/10
+Karnataka
+Shimoga
+Nittur
+Nittur
+13.92
+74.9
+Debris
+Slide
+NA
+12101
+KA/SHI/48K13/2020/11
+Karnataka
+Shimoga
+Nittur-Nagodi road section
+Nittur-Nagodi road section
+13.92
+74.9
+Debris
+Slide
+NA
+12102
+KA/SHI/48K13/2020/12
+Karnataka
+Shimoga
+Nittur-Nagodi road section
+Nittur-Nagodi road section
+13.92
+74.9
+Debris
+Slide
+NA
+12103
+KA/SHI/48K13/2020/13
+Karnataka
+Shimoga
+Nittur-Nagodi road section
+Nittur-Nagodi road section
+13.92
+74.89
+Debris
+Slide
+NA
+12104
+KA/SHI/48K13/2020/20
+Karnataka
+Shimoga
+Nittur-Markutka road
+Nittur-Markutka road
+13.92
+74.9
+Debris
+Slide
+NA
+12105
+KA/SHI/48K13/2020/21
+Karnataka
+Shimoga
+Nittur-Katkamadi road
+Nittur-Katkamadi road
+13.92
+74.88
+Debris
+Slide
+NA
+12106
+KA/SHI/48K13/2020/85
+Karnataka
+Shimoga
+Belur-Nittur road
+Belur-Nittur road
+13.92
+74.92
+Debris
+Slide
+NA
+12107
+KA/SHI/48K13/2020/86
+Karnataka
+Shimoga
+Vill. Sidlukuni
+Vill. Sidlukuni
+13.92
+74.92
+Debris
+Flow
+NA
+12108
+KA/SHI/48K13/2020/87
+Karnataka
+Shimoga
+Vill. Sidlukuni
+Vill. Sidlukuni
+13.92
+74.92
+Debris
+Slide
+NA
+12109
+KA/SHI/48K13/2020/104
+Karnataka
+Shimoga
+Nagodi-Kasgod road
+Nagodi-Kasgod road
+13.92
+74.83
+Debris
+Slide
+NA
+12110
+KA/SHI/48K13/2020/105
+Karnataka
+Shimoga
+Nagodi- Kodanagar road
+Nagodi- Kodanagar road
+13.92
+74.82
+Earth
+Slide
+NA
+12111
+KA/SHI/48O05/2020/20
+Karnataka
+Shimoga
+Hallimangatta
+Hallimangatta
+13.92
+75.37
+Debris
+Flow
+2019
+12112
+KA/SHI/48O01/2020/49
+Karnataka
+Shimoga
+Kannuru
+Kannuru
+13.92
+75.19
+Earth
+Slide
+2020
+12113
+KA/SHI/48O01/2020/50
+Karnataka
+Shimoga
+Herekoppa
+Herekoppa
+13.92
+75.19
+Earth
+Slide
+2020
+12114
+KA/SHI/48O01/2020/51
+Karnataka
+Shimoga
+Kannuru-1
+Kannuru-1
+13.92
+75.18
+Earth
+Slide
+2020
+12115
+KA/SHI/48O01/2020/62
+Karnataka
+Shimoga
+K.Kannuru
+K.Kannuru
+13.92
+75.18
+Earth
+Slide
+2020

@@ -1,0 +1,492 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+535
+AS/KAR/83F03/2018/1
+Assam
+Karbi Anglong
+Bhelughat Slide
+Waterfall road
+26.323083
+93.093167
+Soil
+Slide
+NA
+536
+AS/KAR/83F08/2018/4
+Assam
+Karbi Anglong
+Pinghat Rangpigaon Slide No. 1
+Pinghat Rangpigaon
+26.32685
+93.267639
+Soil
+Slide
+NA
+537
+AS/KAR/83F08/2018/5
+Assam
+Karbi Anglong
+Pinghat Rangpigaon Slide No. 2
+Pinghat Rangpigaon
+26.3287
+93.269194
+Soil
+Slide
+NA
+538
+AS/KAR/83F03/2018/7
+Assam
+Karbi Anglong
+Bhelughat-Bisarpur Terongaon road 
+slide
+Bhelughat-Bisarpur Terongaon 
+road
+26.339833
+93.099972
+Debris
+Slide
+NA
+539
+AS/KAR/83F15/2018/1
+Assam
+Karbi Anglong
+Numaligarh-Silonijan road slide 1
+Numaligarh-Silonijan road
+26.34075
+93.78861
+Soil
+Slide
+NA
+540
+AS/KAR/83F11/2018/2
+Assam
+Karbi Anglong
+Nahor Langso-2
+Daigurung road
+26.3466
+93.7356
+Soil
+Slide
+NA
+541
+AS/KAR/83F08/2018/6
+Assam
+Karbi Anglong
+Dak Ranghanggaon Slide
+Dak Ranghanggaon
+26.347417
+93.2982
+Soil
+Slide
+NA
+542
+AS/KAR/83F11/2018/3
+Assam
+Karbi Anglong
+Nahor Langso-3
+Daigurung road
+26.3477
+93.7399
+Debris
+Slide
+NA
+543
+AS/KAR/83F11/2018/1
+Assam
+Karbi Anglong
+Nahor Langso-1
+Daigurung road
+26.3478
+93.7417
+Soil
+Slide
+NA
+544
+AS/KAR/83F15/2018/2
+Assam
+Karbi Anglong
+Numaligarh-Silonijan road slide 2
+Numaligarh-Silonijan road
+26.34838
+93.78208
+Soil
+Slide
+NA
+545
+AS/KAR/83F15/2018/3
+Assam
+Karbi Anglong
+Thedanghanse- Teranggaon road slide Thedanghanse- Teranggaon 
+road
+26.34938
+93.78091
+Debris
+Slide
+NA
+546
+AS/KAR/83F15/2018/4
+Assam
+Karbi Anglong
+Langsothedong slide
+Langsothedong
+26.35622
+93.77941
+Debris
+Slide
+NA
+547
+AS/BON/78J11/2018/1
+Assam
+Bongaigaon
+Nayapara Railway Tunnel
+Nayapara
+26.3733
+90.5499
+Rock cum debris
+Slide
+NA
+548
+ASM/KAM/78N16/2017/07
+Assam
+Kamrup (Metro)
+Bonda colony slide no. 1
+Babubasti–Panikhaiti road 
+section/Bonda colony, Amgaon
+26.37456
+91.84561
+Earth
+Slide
+04 July 2017
+549
+AS/BON/78J11/2018/2
+Assam
+Bongaigaon
+Shalabhandar Quarry
+Shalabhandar
+26.3848
+90.5943
+Rock
+Slide
+NA
+550
+AS/BON/78J07/2018/1
+Assam
+Bongaigaon
+Majhigaon landslide
+Majhigaon
+26.394
+90.48
+Rock cum debris
+Slide
+NA
+551
+AS/KAR/83F03/2018/8
+Assam
+Karbi Anglong
+Anjukpani- Dumroi road slide
+Anjukpani- Dumroi road
+26.483278
+93.181306
+Debris
+Slide
+NA
+552
+AS/KAR/83F06/2018/6
+Assam
+Karbi Anglong
+Teranggaon slide
+Dathora ΓÇôTeranggaon road.
+26.51925
+93.47147
+Soil
+Slide
+NA
+553
+AS/KAR/83F06/2018/1
+Assam
+Karbi Anglong
+Paniramtokbi slide
+Paniramtokbi
+26.5235
+93.28166
+Debris
+Slide
+NA
+554
+AS/JOR/83J06/2020/9
+Assam
+Jorhat
+ 
+Mariani-Chanki Rd
+26.54
+94.37
+Earth
+Slide
+2019
+555
+AS/JOR/83J06/2020/10
+Assam
+Jorhat
+ 
+Mariani-Chanki Rd
+26.54
+94.37
+Earth
+Slide
+2019
+556
+AS/JOR/83J06/2020/11
+Assam
+Jorhat
+ 
+Mariani-Chanki Rd (New 
+Chungiayimsen)
+26.54
+94.37
+Earth
+Slide
+2019
+557
+AS/JOR/83J06/2020/5
+Assam
+Jorhat
+ 
+Mariani-Chanki Rd
+26.55
+94.36
+Earth
+Slide
+2019
+558
+AS/JOR/83J06/2020/6
+Assam
+Jorhat
+ 
+Mariani-Chanki Rd
+26.55
+94.36
+Earth
+Slide
+2019
+559
+AS/JOR/83J06/2020/7
+Assam
+Jorhat
+ 
+Mariani-Chanki Rd
+26.55
+94.36
+Rock
+Slide
+2019
+560
+AS/JOR/83J06/2020/8
+Assam
+Jorhat
+ 
+Mariani-Chanki Rd
+26.55
+94.36
+Earth
+Slide
+2019
+561
+AS/JOR/83J06/2020/2
+Assam
+Jorhat
+ 
+Mariani-Chanki Rd
+26.56
+94.36
+Earth
+Slide
+2019
+562
+AS/JOR/83J06/2020/3
+Assam
+Jorhat
+ 
+Mariani-Chanki Rd
+26.56
+94.36
+Debris
+Slide
+2019
+563
+AS/JOR/83J06/2020/4
+Assam
+Jorhat
+ 
+Mariani-Chanki Rd
+26.56
+94.36
+Earth
+Slide
+2019
+564
+AS/JOR/83J06/2020/18
+Assam
+Jorhat
+ 
+Mariani-Chanki Rd
+26.56
+94.36
+Earth
+Slide
+NA
+565
+AS/JOR/83J06/2020/19
+Assam
+Jorhat
+ 
+NH702D
+26.56
+94.36
+Debris
+Slide
+NA
+566
+AS/JOR/83J06/2020/20
+Assam
+Jorhat
+ 
+NH702D
+26.56
+94.36
+Earth
+Slide
+NA
+567
+AS/NAG/83F02/2018/1
+Assam
+Nagaon
+Kalapani slide
+Kalapani
+26.56111
+93.04925
+Debris
+Slide
+NA
+568
+AS/NAG/83F02/2018/2
+Assam
+Nagaon
+Amguri tea garden slide.
+Amguri.
+26.56252
+93.05658
+Soil
+Slide
+NA
+569
+AS/JOR/83J06/2020/17
+Assam
+Jorhat
+ 
+NH702D
+26.57
+94.35
+Debris
+Slide
+NA
+570
+AS/NAG/83F02/2018/3
+Assam
+Nagaon
+Deosurgaon road slide.
+Phulaguri
+26.57411
+93.09811
+Debris
+Slide
+NA
+571
+AS/NAG/83F02/2018/7
+Assam
+Nagaon
+NH-37 slide-4
+NH-37
+26.57436
+93.10647
+Debris
+Slide
+NA
+572
+AS/KAR/83F10/2018/1
+Assam
+Karbi Anglong
+Numaligarh-Bokaghat road.
+Arlongchuhu temple area, 
+KekangAdong.
+26.57447
+93.66297
+Soil
+Slide
+NA
+573
+AS/NAG/83F02/2018/4
+Assam
+Nagaon
+NH-37 slide-1
+NH-37, 1 km west of Kaziranga 
+view point.
+26.57455
+93.11244
+Debris
+Slide
+NA
+574
+AS/NAG/83F02/2018/5
+Assam
+Nagaon
+NH-37 slide-2
+NH-37, betweenPheluguri ΓÇô 
+Nehrubasti.
+26.57455
+93.11244
+Debris
+Slide
+NA
+575
+AS/NAG/83F02/2018/6
+Assam
+Nagaon
+NH-37 slide-3
+NH-37
+26.57463
+93.11297
+Debris
+Slide
+NA
+576
+AS/KAR/83F10/2018/4
+Assam
+Karbi Anglong
+Aparlangsali slide
+SH-35, Aparlangsali
+26.57708
+93.65836
+Soil
+Slide
+NA
+577
+AS/KAR/83F06/2018/2
+Assam
+Karbi Anglong
+Bagori quarry slide
+Bagori
+26.57719
+93.10008
+Debris
+Slide
+NA

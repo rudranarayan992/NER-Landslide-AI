@@ -1,0 +1,299 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22020
+MZ/MAM/84A10/2015/172
+Mizoram
+Mamit
+ 
+SW slope of Reiek Tlang, SH 
+Reiek - Chungtlang - Rulpuihlim
+23.674694
+92.597361
+Rock
+Slide
+NA
+22021
+MZ/AIZ/84E02/2017/33
+Mizoram
+Aizawl
+ 
+18.5km E of Keifang (kawlkulh 
+road)
+23.675142
+93.023551
+Debris
+Slide
+NA
+22022
+MZ/MAM/84A10/2015/171
+Mizoram
+Mamit
+ 
+SW slope of Reiek Tlang, SH 
+Reiek - Chungtlang - Rulpuihlim
+23.675722
+92.598639
+Rock
+Slide
+NA
+22023
+MZ/CHA/84E02/2017/0083
+Mizoram
+Champhai
+ 
+2km N of Tawitakawn
+23.677967
+93.087973
+Rock
+Slide
+NA
+22024
+MZ/MAM/84A10/2015/120
+Mizoram
+Mamit
+ 
+South of Chungtlang, SH-Reiek- 
+Mamit-Aizawl
+23.678583
+92.571583
+Rock
+Slide
+NA
+22025
+MZ/AIZ/84E02/2017/34
+Mizoram
+Aizawl
+ 
+16.5 km E of Keifang (Kawlkulh 
+road)
+23.68054
+93.020091
+Debris
+Slide
+NA
+22026
+MZ/MAM/84A10/2015/121
+Mizoram
+Mamit
+ 
+South of Chungtlang, SH-Reiek- 
+Mamit-Aizawl
+23.68075
+92.571917
+Rock
+Slide
+NA
+22027
+MZ/AIZ/84A14/2015/89
+Mizoram
+Aizawl
+ 
+western slope of 1052 peak, S 
+of Thingsultliah Hospital
+23.680931
+92.859617
+Debris
+Slide
+NA
+22028
+MZ/AIZ/84E02/2017/36
+Mizoram
+Aizawl
+ 
+14.5km E of Keifang (Kawlkulh 
+road)
+23.681206
+93.019927
+Debris
+Slide
+NA
+22029
+MZ/AIZ/84A10/2015/191
+Mizoram
+Aizawl
+ 
+Hlimen, Hlimen Landslide on SH-
+Aizawl-Hlimen-Lungleng Rd
+23.681531
+92.718606
+Rock
+Slide
+NA
+22030
+MZ/CHA/84E02/2017/4
+Mizoram
+Champhai
+ 
+14km E of Saitual
+23.681548
+93.030106
+Rock
+Slide
+NA
+22031
+MZ/MAM/84A10/2015/170
+Mizoram
+Mamit
+ 
+Western slope of Reiek Tlang 
+(1485m), SH Reiek - Chungtlang -
+Rulpuihlim
+23.681778
+92.602611
+Rock
+Slide
+NA
+22032
+MZ/AIZ/84A14/2015/65
+Mizoram
+Aizawl
+ 
+About 2km south of 
+thingsulthliah, 1km SW 
+Thingsultliah Hospital
+23.682158
+92.858383
+Debris
+Slide
+NA
+22033
+MZ/MAM/84A10/2015/119
+Mizoram
+Mamit
+ 
+South of Chungtlang, SH-Reiek- 
+Mamit-Aizawl
+23.68225
+92.573694
+Debris
+Slide
+NA
+22034
+MZ/CHA/84E06/2017/27
+Mizoram
+Champhai
+ 
+~1km towards tualcheng from 
+road junction
+23.682274
+93.350321
+Debris
+Slide
+NA
+22035
+MZ/MAM/84A10/2015/169
+Mizoram
+Mamit
+ 
+Western slope of Reiek Tlang 
+(1485m), SH Reiek - Chungtlang -
+Rulpuihlim
+23.682611
+92.602028
+Debris
+Slide
+NA
+22036
+MZ/MAM/84A10/2015/179
+Mizoram
+Mamit
+ 
+Western slope of Reiek Tlang 
+(1485m), SH Reiek - Chungtlang -
+Rulpuihlim
+23.683417
+92.601222
+Rock
+Fall
+NA
+22037
+MZ/MAM/84A10/2015/168
+Mizoram
+Mamit
+ 
+Western slope of Reiek Tlang 
+(1485m), SH Reiek - Chungtlang -
+Rulpuihlim
+23.684222
+92.599917
+Rock
+Slide
+NA
+22038
+MZ/MAM/84A10/2015/134
+Mizoram
+Mamit
+ 
+Chungtlang, SH-Reiek- Mamit-
+Aizawl
+23.684472
+92.573694
+Rock
+Slide
+NA
+22039
+MZ/CHA/84E02/2017/0084
+Mizoram
+Champhai
+ 
+3.5km N of Tawitakwan
+23.684707
+93.088283
+Rock
+Slide
+NA
+22040
+MZ/CHA/84E02/2017/17
+Mizoram
+Champhai
+ 
+13 km E of Saitual
+23.685602
+93.028404
+Rock
+Slide
+NA
+22041
+MZ/AIZ/84E02/2017/39
+Mizoram
+Aizawl
+ 
+14km SE of Keifang
+23.685795
+93.019874
+Rock
+Slide
+NA
+22042
+MZ/CHA/84E02/2017/0064
+Mizoram
+Champhai
+ 
+Towards Pamchung (1km from 
+Rabung)
+23.687031
+93.203106
+Debris
+Slide
+NA
+22043
+MZ/AIZ/84A10/2015/232
+Mizoram
+Aizawl
+ 
+Melthum, SH- Aizawl - Lunglei
+23.687833
+92.722444
+Rock
+Slide
+NA

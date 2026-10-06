@@ -1,0 +1,428 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28598
+WB/JAL/78F05/2015/926
+West Bengal
+Jalpaiguri
+ 
+ 
+26.819548
+89.285973
+Debris
+Slide
+2010
+28599
+WB/JAL/78F05/2015/927
+West Bengal
+Jalpaiguri
+ 
+ 
+26.81963
+89.271791
+Rock cum Debris
+Slide
+2010
+28600
+WB/JAL/78F05/2015/929
+West Bengal
+Jalpaiguri
+ 
+ 
+26.819918
+89.273771
+Debris
+Slide
+2010
+28601
+WB/JAL/78F05/2015/928
+West Bengal
+Jalpaiguri
+ 
+ 
+26.819945
+89.272919
+Debris
+Slide
+2010
+28602
+WB/DAR/78B01/2015/326
+West Bengal
+Darjeeling
+Potong Slide
+Near Putong Village
+26.819972
+88.211056
+Rock
+Slide
+2011
+28603
+WB/DAR/78B05/2015/427
+West Bengal
+Darjeeling
+On Karsyang - Pankhabari - Garidhura 
+road (between Makaibari tea estate 
+and Pankhabari)
+On Karsyang - Pankhabari - 
+Garidhura road (between 
+Makaibari tea estate and 
+Pankhabari)
+26.82
+88.345
+Rock
+Slide
+2003
+28604
+WB/JAL/78F05/2015/930
+West Bengal
+Jalpaiguri
+ 
+ 
+26.820341
+89.286787
+Debris
+Slide
+2010
+28605
+WB/JAL/78F05/2015/919
+West Bengal
+Jalpaiguri
+ 
+ 
+26.823111
+89.287558
+Debris
+Slide
+2006
+28606
+WB/DAR/78B01/2015/319
+West Bengal
+Darjeeling
+At Km. 5.5 from Garidhura on SH 12A 
+(Garidhura-Mirik road)
+At Km. 5.5 from Garidhura on 
+SH 12A (Garidhura-Mirik road)
+26.823927
+88.2345
+Rock
+Slide
+2003
+28607
+WB/DAR/78B05/2015/553
+West Bengal
+Darjeeling
+NH55 Near Rongtong on NH-55 (14/10 
+bend of Toy Train)
+Near Rongtong on NH-55 (14/10 
+bend of Toy Train)
+26.824
+88.341
+Rock
+Slide
+2012
+28608
+WB/DAR/78B05/2015/610
+West Bengal
+Darjeeling
+NH 55, Rangtong
+ 
+26.824612
+88.341454
+Debris
+Slide
+2014
+28609
+WB/DAR/78B01/2015/382
+West Bengal
+Darjeeling
+Khairboni
+ 
+26.824737
+88.190051
+Debris
+Slide
+2015
+28610
+WB/DAR/78B05/2015/418
+West Bengal
+Darjeeling
+NH55 between Km. 64 & 65 from 
+Darjeeling
+In between Km. 64 & 65 from 
+Darjeeling on NH 55
+26.825
+88.339
+Rock
+Slide
+2002
+28611
+WB/DAR/78B01/2015/389
+West Bengal
+Darjeeling
+Dhokali Slide
+Dhokali
+26.825917
+88.2225
+Debris
+Slide
+2015
+28612
+WB/DAR/78B01/2015/333
+West Bengal
+Darjeeling
+Dhokali Slide
+Dhokali
+26.826158
+88.223175
+Debris
+Slide
+2015
+28613
+WB/DAR/78B01/2015/393
+West Bengal
+Darjeeling
+Gayabari Slide
+Gayabari TG on right bank of 
+Balason River
+26.826335
+88.236254
+Rock
+Slide
+2015
+28614
+WB/JAL/78F05/2015/935
+West Bengal
+Jalpaiguri
+ 
+ 
+26.826378
+89.2831
+Debris
+Slide
+2013
+28615
+WB/DAR/78B05/2015/616
+West Bengal
+Darjeeling
+NH 55, Rangtong
+ 
+26.82648
+88.340636
+Debris
+Slide
+2014
+28616
+WB/JAL/78F05/2015/933
+West Bengal
+Jalpaiguri
+ 
+ 
+26.827403
+89.28424
+Debris
+Slide
+2011
+28617
+WB/DAR/78B01/2015/321
+West Bengal
+Darjeeling
+SH-12A_ 9 km from Garidhura
+At Km.9 from Garidhura on SH-
+12A (Garidhura-Mirik road)
+26.828286
+88.233236
+Debris
+Slide
+2003
+28618
+WB/DAR/78B01/2015/334
+West Bengal
+Darjeeling
+SH-12 near Basua village
+Basua
+26.829678
+88.233261
+Debris
+Subsidence
+2015
+28619
+WB/DAR/78B01/2015/320
+West Bengal
+Darjeeling
+Left bank of Dudhia khola around 1 
+km upstream of SH 12A
+Left bank of Dudhia khola 
+around 1 km upstream of SH 
+12A
+26.829985
+88.222548
+Rock
+Slide
+2003
+28620
+WB/DAR/78B05/2015/617
+West Bengal
+Darjeeling
+RAKTI KHOLA, ROHINI
+ 
+26.831465
+88.284931
+Debris
+Slide
+2014
+28621
+WB/DAR/78B01/2015/395
+West Bengal
+Darjeeling
+Gayabari Slide
+Gayabari TG on right bank of 
+Balason River
+26.831897
+88.238292
+Rock
+Slide
+2015
+28622
+WB/DAR/78B05/2015/623
+West Bengal
+Darjeeling
+Mane
+Mane
+26.832861
+88.265194
+Debris
+Slide
+2015
+28623
+WB/DAR/78B01/2021/PDLS/15
+West Bengal
+Darjeeling
+N/A
+N/A
+26.83478761
+88.22487672
+Debris
+Slide
+October 2021
+28624
+WB/DAR/78B01/2015/316
+West Bengal
+Darjeeling
+Ashi Jhora
+Right bank of Ashii Jhora near 
+India-Nepal border
+26.834968
+88.179254
+Rock
+Slide
+2001
+28625
+WB/DAR/78B01/2015/318
+West Bengal
+Darjeeling
+Putung
+ 
+26.835218
+88.177738
+Rock
+Slide
+2003
+28626
+WB/DAR/78B05/2015/618
+West Bengal
+Darjeeling
+PANKHABARI
+ 
+26.837042
+88.269527
+Debris
+Slide
+2014
+28627
+WB/DAR/78B01/2015/341
+West Bengal
+Darjeeling
+Dhuseni Gaon-2,  1.6 km SE of Tingling 
+view point
+Dhuseni Gaon
+26.837582
+88.203182
+Debris
+Subsidence
+2015
+28628
+WB/DAR/78B05/2015/622
+West Bengal
+Darjeeling
+Pankhabari
+Pankhabari
+26.837833
+88.269444
+Rock
+Slide
+2015
+28629
+WB/DAR/78B01/2015/340
+West Bengal
+Darjeeling
+Dhuseni Gaon-1, 1.5 km SE of Tingling 
+view point
+Dhuseni Gaon
+26.838042
+88.202603
+Debris
+Subsidence
+2015
+28630
+WB/DAR/78B05/2015/619
+West Bengal
+Darjeeling
+KAPCHIGAON
+ 
+26.839678
+88.332237
+Debris
+Slide
+2014
+28631
+WB/DAR/78B05/2015/567
+West Bengal
+Darjeeling
+NURBONG
+ 
+26.8405
+88.354647
+Debris
+Slide
+2014
+28632
+WB/DAR/78B05/2015/687
+West Bengal
+Darjeeling
+Birmiretar
+ 
+26.84056
+88.27071
+Debris
+Slide
+2015
+28633
+WB/DAR/78B05/2015/536
+West Bengal
+Darjeeling
+Pankhabari Road
+Pankhabari Road
+26.8406
+88.2694
+Rock
+Slide
+2011

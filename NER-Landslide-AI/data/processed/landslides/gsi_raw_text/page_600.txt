@@ -1,0 +1,522 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+23804
+MIZ/SER/84A16/2025/092
+Mizoram
+Serchhip
+Bungtlang
+23.193401
+92.900218
+Debris
+Flow
+29 May 2025
+23805
+MIZ/SER/84A16/2025/093
+Mizoram
+Serchhip
+Bungtlang
+23.198119
+92.899566
+Debris
+Slide
+31 May 2025
+23806
+MIZ/SER/84A16/2025/094
+Mizoram
+Serchhip
+NH 54
+23.223594
+92.914767
+Debris
+Slide
+31 May 2025
+23807
+MIZ/SER/84A16/2025/095
+Mizoram
+Serchhip
+ NH 54
+23.225227
+92.912496
+Debris
+Slide
+31 May 2025
+23808
+MIZ/SER/84A16/2025/096
+Mizoram
+Serchhip
+P&E Veng, Serchhip
+23.32201
+92.85822
+Debris
+Flow
+31 May 2025 at 02:25am 
+23809
+MIZ/SER/84A15/2025/097
+Mizoram
+Serchhip
+P&E Veng, Serchhip
+23.322039
+92.859147
+Debris
+Slide
+31 May 2025
+23810
+MIZ/SER/84A15/2025/098
+Mizoram
+Serchhip
+P&E Veng, Serchhip
+23.319156
+92.857722
+Debris
+Slide
+31 May 2025
+23811
+MIZ/SER/84A15/2025/099
+Mizoram
+Serchhip
+P&E Veng, Serchhip
+23.317543
+92.858683
+Debris
+Slide
+31 May 2025
+23812
+MIZ/SER/84A15/2025/100
+Mizoram
+Serchhip
+P&E Veng, Serchhip
+23.318568
+92.852294
+Debris
+Slide
+31 May 2025
+23813
+MIZ/SER/84A15/2025/101
+Mizoram
+Serchhip
+P&E Veng, Serchhip
+23.323423
+92.860926
+Earth
+Slide
+31 May 2025
+23814
+MIZ/SER/84A15/2025/102
+Mizoram
+Serchhip
+P&E Veng, Serchhip
+23.319412
+92.855415
+Debris
+Slide
+31 May 2025
+23815
+MIZ/SER/84A15/2025/103
+Mizoram
+Serchhip
+P&E Veng, Serchhip
+23.319184
+92.856725
+Debris
+Flow
+31 May 2025
+23816
+MIZ/SER/84A15/2025/104
+Mizoram
+Serchhip
+Field Veng, Serchhip
+23.309286
+92.850807
+Debris
+Flow
+31 May 2025
+23817
+MIZ/SER/84A15/2025/105
+Mizoram
+Serchhip
+Field Veng, Serchhip
+23.10112
+92.852784
+Earth
+Slide
+31 May 2025
+23818
+MIZ/SER/84A15/2025/106
+Mizoram
+Serchhip
+Ramthlun Veng, Serchhip
+23.309914
+92.853522
+Earth
+Slide
+31 May 2025
+23819
+MIZ/SER/84A15/2025/107
+Mizoram
+Serchhip
+AOC, Serchhip
+23.315273
+92.856524
+Debris
+Slide
+31 May 2025
+23820
+MIZ/SER/84A15/2025/108
+Mizoram
+Serchhip
+Serchhip
+23.311529
+92.85443
+Debris
+Slide
+31 May 2025
+23821
+MIZ/SER/84A15/2025/109
+Mizoram
+Serchhip
+Serchhip
+23.31637
+92.854172
+Debris
+Slide
+31 May 2025
+23822
+MIZ/SER/84A15/2025/110
+Mizoram
+Serchhip
+Chandmari, Serchhip
+23.310074
+92.858498
+Debris
+Slide
+31 May 2025
+23823
+MIZ/SER/84A15/2025/111
+Mizoram
+Serchhip
+Chandmari, Serchhip
+23.309295
+92.860017
+Debris
+Slide
+31 May 2025
+23824
+MIZ/SER/84A15/2025/112
+Mizoram
+Serchhip
+Chandmari, Serchhip
+23.308629
+92.860039
+Earth
+Slide
+31 May 2025
+23825
+MIZ/SER/84A15/2025/113
+Mizoram
+Serchhip
+Serchhip
+23.308778
+92.858357
+Debris
+Slide
+31 May 2025
+23826
+MIZ/SER/84A15/2025/114
+Mizoram
+Serchhip
+Serchhip
+23.300837
+92.855693
+Debris
+Slide
+31 May 2025
+23827
+MIZ/SER/84A15/2025/115
+Mizoram
+Serchhip
+Serchhip
+23.300787
+92.853572
+Debris
+Slide
+31 May 2025
+23828
+MIZ/SER/84A15/2025/116
+Mizoram
+Serchhip
+Serchhip
+23.305323
+92.852358
+Debris
+Slide
+31 May 2025
+23829
+MIZ/SER/84A15/2025/117
+Mizoram
+Serchhip
+Serchhip
+23.30554
+92.854877
+Debris
+Slide
+01 June2025 
+23830
+MIZ/SER/84A15/2025/118
+Mizoram
+Serchhip
+Chandmari, Serchhip
+23.304746
+92.862109
+Debris
+Slide
+08 June 2025 
+23831
+MIZ/SER/84A15/2025/119
+Mizoram
+Serchhip
+Serchhip
+23.298928
+92.857435
+Debris
+Slide
+31 May 2025
+23832
+MIZ/SER/84A15/2025/120
+Mizoram
+Serchhip
+Chandmari, Serchhip
+23.310846
+92.858915
+Debris
+Flow
+31 May 2025
+23833
+MIZ/SER/84A15/2025/121
+Mizoram
+Serchhip
+Chandmari, Serchhip
+23.311335
+92.858026
+Debris
+Slide
+31 May 2025
+23834
+MIZ/SER/84A15/2025/122
+Mizoram
+Serchhip
+Tuikhuah Veng, Serchhip
+23.307089
+92.854209
+Debris
+Slide
+31 May 2025, 01 June 2025
+23835
+MIZ/SER/84A15/2025/123
+Mizoram
+Serchhip
+Saron, Serchhip
+23.3057
+92.852802
+Debris
+Slide
+31 May 2025
+23836
+MIZ/SER/84A15/2025/124
+Mizoram
+Serchhip
+Chhim Veng, Serchhip
+23.307093
+92.856289
+Debris
+Slide
+01 June 2025 
+23837
+MIZ/SER/84A15/2025/125
+Mizoram
+Serchhip
+Chhim Veng, Serchhip
+23.307524
+92.857678
+Debris
+Subsidence
+01 June 2025 
+23838
+MIZ/SER/84A15/2025/126
+Mizoram
+Serchhip
+Chhim Veng, Serchhip
+23.305939
+92.857538
+Debris
+Flow
+01 June 2025 
+23839
+MIZ/SER/84A15/2025/127
+Mizoram
+Serchhip
+Dinthar, Serchhip
+23.303906
+92.853173
+Debris
+Flow
+01 June 2025 
+23840
+MIZ/SER/84A15/2025/128
+Mizoram
+Serchhip
+Dinthar, Serchhip
+23.301381
+92.853078
+Debris
+Flow
+31 May 2025
+23841
+MIZ/SER/84A15/2025/129
+Mizoram
+Serchhip
+Dinthar, Serchhip
+23.299628
+92.855609
+Debris
+Slide
+31 May 2025
+23842
+MIZ/SER/84A15/2025/130
+Mizoram
+Serchhip
+Dinthar, Serchhip
+23.298137
+92.857412
+Earth
+Slide
+29 May 2025 
+23843
+MIZ/SER/84A15/2025/131
+Mizoram
+Serchhip
+Serchhip
+23.293453
+92.858089
+Debris
+Slide
+30 May 2025
+23844
+MIZ/SER/84A15/2025/132
+Mizoram
+Serchhip
+Sailiam Veng, Serchhip
+23.293873
+92.858395
+Debris
+Slide
+31.05.2025 01.06.2025
+23845
+MIZ/SER/84A15/2025/133
+Mizoram
+Serchhip
+Dinthar, Serchhip
+23.298166
+92.858694
+Earth
+Slide
+31 May 2025
+23846
+MIZ/SER/84A15/2025/134
+Mizoram
+Serchhip
+New Serchhip
+23.346456
+92.851511
+Debris
+Slide
+01 June 2025 
+23847
+MIZ/SER/84A15/2025/135
+Mizoram
+Serchhip
+New Serchhip
+23.3466
+92.854847
+Debris
+Slide
+01 June 2025 
+23848
+MIZ/SER/84A15/2025/136
+Mizoram
+Serchhip
+Serchhip Bypass road
+23.291103
+92.864843
+Debris
+Slide
+31.05.2025 09.06.2025
+23849
+MIZ/SER/84A15/2025/137
+Mizoram
+Serchhip
+Serchhip Bypass road
+23.301587
+92.868485
+Debris
+Slide
+31 May 2025
+23850
+MIZ/SER/84A15/2025/138
+Mizoram
+Serchhip
+Serchhip Bypass road
+23.313996
+92.863984
+Debris
+Flow
+31 May 2025
+23851
+MIZ/SER/84A15/2025/139
+Mizoram
+Serchhip
+Serchhip Bypass road
+23.321016
+92.861601
+Debris
+Slide
+31.05.2025 09.06.2025
+23852
+MIZ/SER/84A15/2025/140
+Mizoram
+Serchhip
+Serchhip Bypass road
+23.3228
+92.862406
+Debris
+Slide
+31 May 2025
+23853
+MIZ/SER/84A15/2025/141
+Mizoram
+Serchhip
+NH 54
+23.286141
+92.868152
+Debris
+Slide
+31 May 2025
+23854
+MIZ/SER/84A15/2025/142
+Mizoram
+Serchhip
+NH 54
+23.281219
+92.869608
+Debris
+Flow
+31 May 2025

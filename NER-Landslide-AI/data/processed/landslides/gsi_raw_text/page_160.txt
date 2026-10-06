@@ -1,0 +1,529 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+6745
+HP/MAN/53A13/2015/16
+Himachal Pradesh
+Mandi
+ 
+Jhatingri,barot road,Milestone 5 31.94821
+76.8859
+Rock
+Slide
+NA
+6746
+HP/MAN/53A09/2018/131
+Himachal Pradesh
+Mandi
+ 
+ 
+31.949472
+76.58025
+Debris
+Slide
+NA
+6747
+HP/KAN/44M13/2020/1
+Himachal Pradesh
+Kangra
+ 
+Ban Bilwan
+31.95
+75.94
+Rock
+Slide
+NA
+6748
+HP/KAN/44M13/2020/5
+Himachal Pradesh
+Kangra
+ 
+Near Gatti bala baba temple
+31.95
+75.94
+Debris
+Slide
+2010
+6749
+HP/KAN/44M13/2020/6
+Himachal Pradesh
+Kangra
+ 
+Near Gatti bala baba temple
+31.95
+75.94
+Debris
+Slide
+2000
+6750
+HP/KAN/44M13/2020/7
+Himachal Pradesh
+Kangra
+ 
+Ghatti village
+31.95
+75.94
+Rock
+Slide
+NA
+6751
+HP/KAN/44M13/2020/8
+Himachal Pradesh
+Kangra
+Ban Bilwan
+SH-27
+31.95
+75.93
+Debris
+Slide
+NA
+6752
+HP/KAN/44M13/2020/9
+Himachal Pradesh
+Kangra
+Ban Bilwan
+SH-27
+31.95
+75.93
+Debris
+Slide
+NA
+6753
+HP/KAN/44M13/2020/10
+Himachal Pradesh
+Kangra
+ 
+Ban Bilwan
+31.95
+75.93
+Debris
+Slide
+2017
+6754
+HP/KAN/44M13/2020/12
+Himachal Pradesh
+Kangra
+ 
+Ban Bilwan
+31.95
+75.93
+Debris
+Slide
+2017
+6755
+HP/HAM/53A09/2018/132
+Himachal Pradesh
+Hamirpur
+ 
+SUJANPUR-KHAIRA ROAD
+31.950333
+76.513028
+Debris
+Slide
+2018
+6756
+HP/MAN/53A09/2018/133
+Himachal Pradesh
+Mandi
+ 
+ 
+31.950417
+76.568306
+Debris
+Slide
+NA
+6757
+HP/KAN/53A05/2018/45
+Himachal Pradesh
+Kangra
+ 
+JWALAJI ROAD
+31.95185
+76.43027
+Rock cum debris
+Slide
+NA
+6758
+HP/KAN/53A09/2018/134
+Himachal Pradesh
+Kangra
+ 
+Baijnath Road
+31.953556
+76.566306
+Debris
+Slide
+NA
+6759
+HP/KAN/53A05/2018/48
+Himachal Pradesh
+Kangra
+ 
+ 
+31.95425
+76.26747
+Debris
+Slide
+NA
+6760
+HP/KAN/53A05/2018/52
+Himachal Pradesh
+Kangra
+ 
+ 
+31.95512
+76.43623
+Debris
+Slide
+NA
+6761
+HP/MAN/53A13/2015/54
+Himachal Pradesh
+Mandi
+ 
+Guma, NH 20
+31.9553
+76.8537
+Debris
+Slide
+NA
+6762
+HP/HAM/53A09/2018/135
+Himachal Pradesh
+Hamirpur
+ 
+SH-04
+31.955806
+76.524111
+Debris
+Slide
+2018
+6763
+HP/KUL/53E01/2015/39
+Himachal Pradesh
+Kullu
+ 
+Chail Chawk-Jhanjheli road
+31.956861
+77.115917
+Rock
+Slide
+NA
+6764
+HP/KUL/53E01/2015/7
+Himachal Pradesh
+Kullu
+ 
+NH21
+31.956861
+77.115917
+Debris
+Composite
+2013
+6765
+HP/KUL/53E01/2015/67
+Himachal Pradesh
+Kullu
+ 
+ 
+31.958722
+77.063444
+Rock
+Slide
+NA
+6766
+HP/HAM/53A09/2018/136
+Himachal Pradesh
+Hamirpur
+ 
+Ropri- bhora road
+31.95875
+76.516278
+Debris
+Slide
+2018
+6767
+HP/MAN/53A13/2015/208
+Himachal Pradesh
+Mandi
+ 
+Dilausa 200m from S82 towards 
+Braot
+31.95902
+76.89503
+Rock
+Slide
+NA
+6768
+HP/KUL/53E01/2015/64
+Himachal Pradesh
+Kullu
+ 
+ 
+31.959056
+77.070667
+Rock
+Slide
+NA
+6769
+HP/KUL/53E01/2015/65
+Himachal Pradesh
+Kullu
+ 
+ 
+31.959056
+77.070667
+Rock
+Slide
+NA
+6770
+HP/KUL/53E01/2015/63
+Himachal Pradesh
+Kullu
+ 
+ 
+31.959194
+77.071306
+Rock
+Slide
+NA
+6771
+HP/KUL/53E01/2015/68
+Himachal Pradesh
+Kullu
+ 
+ 
+31.959444
+77.062167
+Rock
+Slide
+NA
+6772
+HP/KUL/53E01/2015/62
+Himachal Pradesh
+Kullu
+ 
+ 
+31.959528
+77.072056
+Rock
+Slide
+NA
+6773
+HP/MAN/53A13/2015/205
+Himachal Pradesh
+Mandi
+ 
+Dilausa,milestone 10
+31.95956
+76.89113
+Debris
+Slide
+NA
+6774
+HP/KAN/44M13/2020/4
+Himachal Pradesh
+Kangra
+Near Pong Dam
+SH-27
+31.96
+75.95
+Debris
+Slide
+NA
+6775
+HP/KUL/53E01/2015/56
+Himachal Pradesh
+Kullu
+ 
+Manikaran road
+31.960278
+77.085667
+Rock
+Slide
+NA
+6776
+HP/KUL/53E01/2015/59
+Himachal Pradesh
+Kullu
+ 
+PMGSY Rarhi road
+31.961333
+77.082861
+Debris
+Slide
+NA
+6777
+HP/KUL/53E01/2015/57
+Himachal Pradesh
+Kullu
+ 
+PMGSY Rarhi road
+31.961333
+77.082861
+Debris
+Slide
+NA
+6778
+HP/KUL/53E01/2015/58
+Himachal Pradesh
+Kullu
+ 
+PMGSY Rarhi road
+31.961333
+77.082861
+Debris
+Slide
+2014
+6779
+HP/KUL/53E01/2015/61
+Himachal Pradesh
+Kullu
+ 
+ 
+31.961611
+77.079639
+Debris
+Slide
+NA
+6780
+HP/KUL/53E01/2015/69
+Himachal Pradesh
+Kullu
+ 
+ 
+31.961861
+77.060889
+Rock
+Slide
+NA
+6781
+HP/KUL/53E01/2015/60
+Himachal Pradesh
+Kullu
+ 
+Bajaura Mandi road
+31.962056
+77.081444
+Rock
+Slide
+NA
+6782
+HP/KUL/53E01/2015/55
+Himachal Pradesh
+Kullu
+ 
+Manikaran road
+31.963806
+77.089167
+Rock
+Slide
+NA
+6783
+HP/KUL/53E01/2015/66
+Himachal Pradesh
+Kullu
+ 
+ 
+31.963889
+77.065028
+Debris
+Slide
+NA
+6784
+HP/HAM/53A09/2018/137
+Himachal Pradesh
+Hamirpur
+ 
+SH-05
+31.964
+76.508083
+Debris
+Slide
+2018
+6785
+HP/KAN/53A09/2018/138
+Himachal Pradesh
+Kangra
+ 
+Tubar- Chadiar road
+31.964444
+76.563944
+Debris
+Slide
+NA
+6786
+HP/MAN/53A09/2018/139
+Himachal Pradesh
+Mandi
+ 
+Rajnagar-Kathala road
+31.964917
+76.564056
+Debris
+Slide
+NA
+6787
+HP/KUL/53E01/2015/54
+Himachal Pradesh
+Kullu
+ 
+ 
+31.965194
+77.089167
+Rock
+Slide
+NA
+6788
+HP/KUL/53E01/2015/70
+Himachal Pradesh
+Kullu
+ 
+ 
+31.965611
+77.055778
+Debris
+Slide
+NA
+6789
+HP/KUL/53E01/2015/71
+Himachal Pradesh
+Kullu
+ 
+ 
+31.965611
+77.055778
+Debris
+Slide
+NA
+6790
+HP/MAN/53A09/2018/140
+Himachal Pradesh
+Mandi
+ 
+ 
+31.965861
+76.67875
+Debris
+Slide
+NA
+6791
+HP/MAN/53A09/2018/141
+Himachal Pradesh
+Mandi
+ 
+ 
+31.965944
+76.564194
+Debris
+Slide
+NA

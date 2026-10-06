@@ -1,0 +1,414 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29186
+WB/DAR/78A04/2021/PDLS/80
+West Bengal
+Darjeeling
+N/A
+N/A
+27.00430259
+88.11775283
+Debris
+Slide
+October 2021
+29187
+WB/DAR/78A16/2015/308
+West Bengal
+Darjeeling
+Samsing Slide
+Samsing
+27.004361
+88.808139
+Debris
+Slide
+2016
+29188
+WB/DAR/78A04/2021/PDLS/85
+West Bengal
+Darjeeling
+N/A
+N/A
+27.0043659
+88.12001101
+Debris
+Slide
+October 2021
+29189
+WB/DAR/78A12/2015/1412
+West Bengal
+Darjeeling
+ 
+ 
+27.004455
+88.725803
+Rock cum Debris
+Slide
+2010
+29190
+WB/DAR/78A04/2015/1180
+West Bengal
+Darjeeling
+ 
+Sukia - Ghoom junction
+27.004528
+88.241
+Rock
+Slide
+2015
+29191
+WB/DAR/78A04/2021/PDLS/81
+West Bengal
+Darjeeling
+N/A
+N/A
+27.00453799
+88.11880331
+Debris
+Slide
+October 2021
+29192
+WB/DAR/78A04/2021/PDLS/83
+West Bengal
+Darjeeling
+N/A
+N/A
+27.00453901
+88.11981116
+Debris
+Slide
+October 2021
+29193
+WB/DAR/78A04/2021/PDLS/84
+West Bengal
+Darjeeling
+N/A
+N/A
+27.00461793
+88.12010421
+Debris
+Slide
+October 2021
+29194
+WB/DAR/78A04/2021/PDLS/82
+West Bengal
+Darjeeling
+N/A
+N/A
+27.00463273
+88.11937871
+Debris
+Slide
+October 2021
+29195
+WB/DAR/78A16/2015/309
+West Bengal
+Darjeeling
+Samsing Slide
+Samsing
+27.004753
+88.808345
+Debris
+Slide
+2016
+29196
+WB/DAR/78A08/2015/1173
+West Bengal
+Darjeeling
+ 
+PUMUNG TG
+27.004833
+88.349556
+Debris
+Subsidence
+2015
+29197
+WB/DAR/78A08/2015/1416
+West Bengal
+Darjeeling
+ 
+ 
+27.004843
+88.278191
+Debris
+Slide
+2010
+29198
+WB/DARJ/78A08/2009/0336
+West Bengal
+Darjeeling
+ 
+ 
+27.005
+88.255
+Rock cum Debris
+Slide
+2009
+29199
+WB/DAR/78A08/2015/110
+West Bengal
+Darjeeling
+NH-31A_ 21km from Sevok(Tiger 
+Bridge) towards  Gangtok
+NH31A
+27.005317
+88.443168
+Debris
+Slide
+2011
+29200
+WB/DAR/78A12/2015/1414
+West Bengal
+Darjeeling
+ 
+ 
+27.005346
+88.5765
+Debris
+Slide
+2011
+29201
+WB/DAR/78A12/2015/1413
+West Bengal
+Darjeeling
+ 
+ 
+27.005486
+88.640127
+Debris
+Slide
+2010
+29202
+WB/DAR/78A12/2015/1415
+West Bengal
+Darjeeling
+ 
+ 
+27.005662
+88.688347
+Debris
+Slide
+2010
+29203
+WB/DAR/78A08/2015/1344
+West Bengal
+Darjeeling
+SEVOK ROAD
+SEVOK ROAD
+27.005667
+88.442306
+Debris
+Slide
+2015
+29204
+WB/DAR/78A12/2015/164
+West Bengal
+Darjeeling
+Downhill of Pemling village
+Downholl of pemling VillGE
+27.006691
+88.601893
+Debris
+Slide
+1968
+29205
+WB/DAR/78A12/2015/1417
+West Bengal
+Darjeeling
+ 
+ 
+27.007217
+88.690442
+Debris
+Slide
+2009
+29206
+WB/DAR/78A12/2015/177
+West Bengal
+Darjeeling
+16km from Bagrakot towards   kafer
+16km from Bagrakot towards   
+kafer
+27.007513
+88.589454
+Debris
+Slide
+1996
+29207
+WB/DAR/78A08/2015/100
+West Bengal
+Darjeeling
+Nehru Gram
+ 
+27.007689
+88.258317
+Rock cum Debris
+Slide
+2009
+29208
+WB/DAR/78A12/2015/1540
+West Bengal
+Darjeeling
+ 
+KANKEBONG
+27.007714
+88.589557
+Rock
+Slide
+2016
+29209
+WB/DARJ/78A04/2006/0255
+West Bengal
+Darjeeling
+ 
+Adjacent to Milangaon 
+Bloomfield within Darjeeling 
+Municipality
+27.008
+88.132
+Rock cum Debris
+Slide
+NA
+29210
+WB/DAR/78A04/2015/14
+West Bengal
+Darjeeling
+Sajan  khola slide
+Adjacent to Milangaon 
+Bloomfield Within Darjeeling 
+Municipality
+27.008
+88.132
+Rock cum Debris
+Slide
+2006
+29211
+WB/DAR/78A12/2015/1418
+West Bengal
+Darjeeling
+ 
+ 
+27.008259
+88.582876
+Debris
+Slide
+2009
+29212
+WB/DAR/78A04/2021/PDLS/74
+West Bengal
+Darjeeling
+N/A
+N/A
+27.00829872
+88.11015269
+Debris
+Slide
+October 2021
+29213
+WB/DAR/78A08/2015/89
+West Bengal
+Darjeeling
+3 mile-Mongpu Road
+ 
+27.008667
+88.295389
+Debris
+Slide
+2009
+29214
+WB/DARJ/78A08/2009/0335
+West Bengal
+Darjeeling
+ 
+ 
+27.009
+88.295
+Debris
+Slide
+2009
+29215
+WB/DAR/78A12/2015/1370
+West Bengal
+Darjeeling
+MELLI ROAD
+PUDUNG
+27.009972
+88.520278
+Debris
+Creep
+2016
+29216
+WB/DAR/78A12/2015/264
+West Bengal
+Darjeeling
+Khani Khola
+ 
+27.010004
+88.533437
+Debris
+Subsidence
+2013
+29217
+WB/DAR/78A08/2015/140
+West Bengal
+Darjeeling
+Alubari Mangar Gaon
+Balason-Ghum road
+27.010139
+88.258722
+Rock
+Slide
+2015
+29218
+WB/DAR/78A12/2015/1422
+West Bengal
+Darjeeling
+ 
+ 
+27.010513
+88.656344
+Debris
+Slide
+2015
+29219
+WB/DAR/78A12/2015/1419
+West Bengal
+Darjeeling
+ 
+ 
+27.010543
+88.587403
+Debris
+Slide
+2013
+29220
+WB/DAR/78A04/2021/PDLS/41
+West Bengal
+Darjeeling
+N/A
+N/A
+27.01056288
+88.22263427
+Rock
+Slide
+October 2021
+29221
+WB/DAR/78A04/2021/PDLS/73
+West Bengal
+Darjeeling
+N/A
+N/A
+27.01088558
+88.1118109
+Debris
+Slide
+October 2021

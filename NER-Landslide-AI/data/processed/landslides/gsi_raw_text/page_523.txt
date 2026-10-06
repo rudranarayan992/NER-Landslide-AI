@@ -1,0 +1,502 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21085
+MZ/LUN/84B13/2018/37
+Mizoram
+Lunglei
+ 
+TNT HOMe
+22.83779
+92.795959
+Debris
+Slide
+NA
+21086
+MZ/LUN/84B13/2018/36
+Mizoram
+Lunglei
+ 
+about 1 Km from TNT along 
+Lunglei- Lawngtlai Rd
+22.837809
+92.798653
+Rock
+Fall
+2018
+21087
+MZ/LUN/84B13/2018/38
+Mizoram
+Lunglei
+ 
+about 1 Km from TNT along 
+Lunglei- Lawngtlai Rd
+22.838051
+92.798889
+Rock
+Fall
+2018
+21088
+MZ/LUN/84B13/2018/39
+Mizoram
+Lunglei
+ 
+Near TNT Home Lunglei
+22.838732
+92.791954
+Debris
+Slide
+2018
+21089
+MZ/LUN/84B13/2018/40
+Mizoram
+Lunglei
+ 
+E Rotlang- S. Mualthuam
+22.83885
+92.89209
+Soil
+Slide
+NA
+21090
+MZ/LUN/84B13/2018/41
+Mizoram
+Lunglei
+ 
+TNT HOMe
+22.838875
+92.792801
+Debris
+Slide
+2018
+21091
+MZ/LUN/84B13/2018/42
+Mizoram
+Lunglei
+ 
+Darzo-Tuipui D
+22.839445
+92.95668
+Debris
+Slide
+NA
+21092
+MZ/LUN/84B13/2018/43
+Mizoram
+Lunglei
+ 
+!5km from junc (Lunglei-
+lawngtlai rd)
+22.841097
+92.792755
+Rock
+Slide
+NA
+21093
+MZ/LUN/84B13/2018/44
+Mizoram
+Lunglei
+ 
+E Rotlang- S. Mualthuam
+22.841455
+92.891235
+Soil
+Slide
+NA
+21094
+MZ/LUN/84B13/2018/45
+Mizoram
+Lunglei
+ 
+Darzo-Tuipui D
+22.841801
+92.951385
+Rock
+Fall
+NA
+21095
+MZ/LUN/84B13/2018/46
+Mizoram
+Lunglei
+ 
+Darzo-Tuipui D
+22.842268
+92.951981
+Debris
+Slide
+NA
+21096
+MZ/LUN/84B13/2018/47
+Mizoram
+Lunglei
+ 
+Darzo-Tuipui D
+22.844219
+92.955048
+Debris
+Slide
+NA
+21097
+MZ/LUN/84B13/2018/48
+Mizoram
+Lunglei
+ 
+Darzo-Tuipui D
+22.844894
+92.944511
+Debris
+Slide
+NA
+21098
+MZ/LUN/84B13/2018/49
+Mizoram
+Lunglei
+ 
+Pachang/Tlabung 61Km stone
+22.845263
+92.674942
+Soil
+Slide
+NA
+21099
+MIZO/LUN/84B13/2005/E-25
+Mizoram
+Lunglei
+Lunglei-12 slide
+ 
+22.84553
+92.79944
+Rock
+Fall
+NA
+21100
+MZ/LUN/84B13/2018/50
+Mizoram
+Lunglei
+ 
+Lunglei-Lawngtlai road
+22.846123
+92.796333
+Rock
+Slide
+NA
+21101
+MZ/LUN/84B13/2018/51
+Mizoram
+Lunglei
+ 
+1.5km N of Hrangchalkawn
+22.846241
+92.804893
+Debris
+Slide
+NA
+21102
+MIZO/LUN/84B13/2005/E-26
+Mizoram
+Lunglei
+Lunglei-13 slide
+ 
+22.84808
+92.79831
+Rock
+Fall
+NA
+21103
+MZ/LUN/84B13/2018/52
+Mizoram
+Lunglei
+ 
+E Rotlang- S. Mualthuam
+22.848185
+92.886963
+Rock
+Slide
+NA
+21104
+MZ/LUN/84B13/2018/53
+Mizoram
+Lunglei
+ 
+Hranchalkawn-Zobawk Road
+22.849134
+92.809334
+Rock
+Slide
+NA
+21105
+MZ/LUN/84B13/2018/54
+Mizoram
+Lunglei
+ 
+abot 200 m E from 
+Hranchalkawn TL area
+22.850847
+92.797028
+Rock
+Slide
+NA
+21106
+MIZO/LUN/84B09/2005/E-5
+Mizoram
+Lunglei
+Pachang slide
+ 
+22.851028
+92.694972
+Debris
+Fall
+NA
+21107
+MIZO/LUN/84B09/2005/E-7
+Mizoram
+Lunglei
+Hawruang slide
+ 
+22.85258
+92.70186
+Rock cum Debris
+Slide
+NA
+21108
+MZ/LUN/84B13/2018/55
+Mizoram
+Lunglei
+ 
+S of Zobawk village
+22.852823
+92.815781
+Debris
+Slide
+NA
+21109
+MZ/LUN/84B13/2018/56
+Mizoram
+Lunglei
+ 
+S of Zobawk village
+22.853046
+92.81588
+Debris
+Slide
+NA
+21110
+MIZO/LUN/84B09/2005/E-6
+Mizoram
+Lunglei
+Pachang-2 slide
+ 
+22.85558
+92.69914
+Rock cum Debris
+Slide
+NA
+21111
+MIZO/LUN/84B09/2005/E-8
+Mizoram
+Lunglei
+Hawruang-2 slide
+ 
+22.85697
+92.70764
+Debris
+Slide
+NA
+21112
+MZ/LUN/84B09/2018/5
+Mizoram
+Lunglei
+ 
+Haurang-Pachang road
+22.857729
+92.704483
+Debris
+Slide
+NA
+21113
+MZ/LUN/84B13/2014/02
+Mizoram
+Lunglei
+Lungmual
+Lungmual, 2nd MAP Residential 
+Complex
+22.86003
+92.75831
+Rock cum Debris
+Flow
+NA
+21114
+MIZO/LUN/84B09/2005/E-9
+Mizoram
+Lunglei
+Hawruang-3 slide
+ 
+22.86025
+92.70778
+Debris
+Slide
+NA
+21115
+MZ/LUN/84B09/2018/6
+Mizoram
+Lunglei
+ 
+Haurang-Pachang road
+22.860407
+92.705795
+Debris
+Slide
+NA
+21116
+MZ/LUN/84B13/2018/57
+Mizoram
+Lunglei
+ 
+E Rotlang- S. Mualthuam
+22.861877
+92.897736
+Debris
+Slide
+NA
+21117
+MZ/LUN/84B09/2018/7
+Mizoram
+Lunglei
+ 
+Haurang-Pachang road
+22.862419
+92.706055
+Rock
+Slide
+NA
+21118
+MZ/LUN/84B13/2018/58
+Mizoram
+Lunglei
+ 
+Zobawk village
+22.862442
+92.826431
+Rock
+Slide
+NA
+21119
+MIZO/LUN/84B09/2005/E-10
+Mizoram
+Lunglei
+Hawruang-4 slide
+ 
+22.86428
+92.71097
+Debris
+Slide
+NA
+21120
+MZ/LUN/84B13/2018/59
+Mizoram
+Lunglei
+ 
+Luangmual
+22.865286
+92.754898
+Rock
+Slide
+NA
+21121
+MZ/LUN/84B13/2018/61
+Mizoram
+Lunglei
+ 
+Zobawk village
+22.865692
+92.825745
+Rock
+Slide
+NA
+21122
+MZ/LUN/84B13/2018/60
+Mizoram
+Lunglei
+ 
+Theriat (Lunglei-Zobawk)
+22.865734
+92.771561
+Rock
+Fall
+NA
+21123
+MZ/LUN/84B13/2018/62
+Mizoram
+Lunglei
+ 
+Theriat
+22.866318
+92.776726
+Debris
+Slide
+NA
+21124
+MZ/LUN/84B13/2018/63
+Mizoram
+Lunglei
+ 
+Theriat village
+22.866783
+92.772026
+Debris
+Slide
+NA
+21125
+MZ/LUN/84B13/2018/64
+Mizoram
+Lunglei
+ 
+Theriat village(Lunglei-Zobawk 
+rd)
+22.866833
+92.774925
+Rock
+Slide
+NA
+21126
+MIZO/LUN/84B13/2005/E-16
+Mizoram
+Lunglei
+Lunglei-4 slide
+ 
+22.86739
+92.75764
+Rock
+Fall
+NA
+21127
+MZ/LUN/84B13/2018/65
+Mizoram
+Lunglei
+ 
+Luangmual
+22.867477
+92.754234
+Rock
+Slide
+NA
+21128
+MZ/LUN/84B13/2018/66
+Mizoram
+Lunglei
+ 
+E Rotlang- S. Mualthuam
+22.867741
+92.898506
+Rock
+Fall
+NA

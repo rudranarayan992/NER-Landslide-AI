@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+26547
+SKM/ES/78A11/2015/160
+Sikkim
+ East Sikkim
+ 
+NULL
+27.369333
+88.714917
+Rock
+Fall
+NA
+26548
+SKM/SS/78A07/2015/341
+Sikkim
+South Sikkim
+ 
+Lingmo village Road
+27.369778
+88.456833
+Debris
+Slide
+NA
+26549
+SKM/ES/78A11/2015/415
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.370083
+88.67925
+Debris
+Slide
+NA
+26550
+SKM/ES/78A11/2015/406
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.370472
+88.686417
+Debris
+Slide
+NA
+26551
+SKM/ES/78A11/2015/408
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.37075
+88.679444
+Debris
+Slide
+NA
+26552
+SKM/ES/78A11/2015/407
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.370861
+88.683167
+Debris
+Slide
+NA
+26553
+SKM/ES/78A07/2015/166
+Sikkim
+ East Sikkim
+ 
+Namchi-Namthang Road
+27.370972
+88.710111
+Rock
+Fall
+NA
+26554
+SKM/ES/78A11/2015/399
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.371472
+88.709722
+Debris
+Slide
+NA
+26555
+SKM/ES/78A11/2015/409
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.371806
+88.677167
+Debris
+Slide
+NA
+26556
+SKM/ES/78A11/2015/404
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.372278
+88.688944
+Debris
+Slide
+NA
+26557
+SKM/ES/78A11/2015/57
+Sikkim
+ East Sikkim
+ 
+North Sikkim Highway
+27.372333
+88.617556
+Rock
+Fall
+NA
+26558
+SKM/ES/78A11/2015/136
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.372806
+88.739139
+Debris
+Slide
+NA
+26559
+SKM/ES/78A11/2015/140
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.373083
+88.720028
+Debris
+Slide
+NA
+26560
+SKM/ES/78A11/2015/397
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.373472
+88.721944
+Debris
+Slide
+NA
+26561
+SKM/ES/78A11/2015/137
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.373472
+88.731722
+Debris
+Slide
+NA
+26562
+SKM/NS/78A11/2015/78
+Sikkim
+North Sikkim
+ 
+Gangtok-Chungthang Road
+27.374583
+88.542444
+Rock
+Fall
+NA
+26563
+SKM/NS/78A11/2015/02
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.374583
+88.542333
+Debris
+Slide
+NA
+26564
+SKM/NS/78A15/2017/147
+Sikkim
+ East Sikkim
+Thengu
+SH
+27.37475
+88.782889
+Rock
+Slide
+NA
+26565
+SKM/ES/78A11/2015/138
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.375028
+88.728278
+Debris
+Slide
+NA
+26566
+SKM/NS/78A11/2015/79
+Sikkim
+North Sikkim
+ 
+Gangtok-Chungthang Road
+27.375139
+88.542833
+Rock
+Fall
+NA
+26567
+SKM/ES/78A11/2015/400
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.375139
+88.708028
+Debris
+Slide
+NA
+26568
+SKM/NS/78A11/2015/01
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.375194
+88.54275
+Rock
+Fall
+NA
+26569
+SKM/ES/78A11/2015/58
+Sikkim
+ East Sikkim
+ 
+North Sikkim Highway
+27.375806
+88.625278
+Rock
+Fall
+NA
+26570
+SKM/ES/78A11/2015/139
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.375833
+88.726722
+Rock
+Slide
+NA
+26571
+SKM/NS/78A15/2017/150
+Sikkim
+ East Sikkim
+Yakla
+SH
+27.376222
+88.799667
+Debris
+Slide
+NA
+26572
+SKM/ES/78A11/2015/59
+Sikkim
+ East Sikkim
+ 
+North Sikkim Highway
+27.376306
+88.629583
+Rock
+Fall
+NA
+26573
+SKM/NS/78A15/2017/144
+Sikkim
+ East Sikkim
+Changu
+SH
+27.376861
+88.766167
+Debris
+Slide
+NA
+26574
+SKM/NS/78A15/2017/145
+Sikkim
+ East Sikkim
+Thengu
+SH
+27.378306
+88.770083
+Debris
+Slide
+NA
+26575
+SKM/ES/78A11/2015/402
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.378417
+88.697222
+Debris
+Slide
+NA
+26576
+SKM/NS/78A11/2015/80
+Sikkim
+North Sikkim
+ 
+Gangtok-Chungthang Road
+27.378444
+88.541667
+Rock
+Fall
+NA
+26577
+SKM/ES/78A11/2015/60
+Sikkim
+ East Sikkim
+ 
+North Sikkim Highway
+27.378611
+88.631083
+Rock
+Fall
+NA
+26578
+SKM/ES/78A11/2015/414
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.378667
+88.699611
+Rock
+Topple
+NA
+26579
+SKM/WS/78A07/2015/357
+Sikkim
+West Sikkim
+ 
+Dhupidara Road
+27.379639
+88.315361
+Debris
+Slide
+NA
+26580
+SKM/ES/78A11/2015/413
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.380806
+88.726
+Debris
+Slide
+NA
+26581
+SKM/NS/78A15/2017/152
+Sikkim
+ East Sikkim
+ 
+SH
+27.380861
+88.812361
+Debris
+Slide
+NA
+26582
+SKM/ES/78A11/2015/61
+Sikkim
+ East Sikkim
+ 
+North Sikkim Highway
+27.381278
+88.632611
+Rock
+Fall
+NA
+26583
+SKM/ES/78A11/2015/411
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.381306
+88.690444
+Debris
+Slide
+NA
+26584
+SKM/ES/78A11/2015/403
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.381556
+88.691806
+Debris
+Slide
+NA
+26585
+SKM/ES/78A11/2015/63
+Sikkim
+ East Sikkim
+ 
+North Sikkim Highway
+27.381917
+88.640333
+Rock
+Fall
+NA
+26586
+SKM/ES/78A11/2015/401
+Sikkim
+ East Sikkim
+ 
+Changhu_Nathula Road
+27.383361
+88.702611
+Debris
+Slide
+NA
+26587
+SKM/WS/78A07/2015/356
+Sikkim
+West Sikkim
+ 
+Dhupidara Road
+27.383611
+88.305806
+Rock
+Topple
+NA
+26588
+SKM/NS/78A15/2017/151
+Sikkim
+ East Sikkim
+Sherethang
+SH
+27.38375
+88.808694
+Debris
+Slide
+NA
+26589
+SKM/ES/78A11/2015/62
+Sikkim
+ East Sikkim
+ 
+North Sikkim Highway
+27.383806
+88.633083
+Rock
+Fall
+NA
+26590
+SKM/ES/78A11/2015/64
+Sikkim
+ East Sikkim
+ 
+North Sikkim Highway
+27.384444
+88.639611
+Rock
+Slide
+NA
+26591
+SKM/WS/78A07/2015/355
+Sikkim
+West Sikkim
+ 
+Dhupidara Road
+27.389222
+88.310972
+Rock
+Fall
+NA
+26592
+SKM/WS/78A07/2015/354
+Sikkim
+West Sikkim
+ 
+Dhupidara Road
+27.393139
+88.310139
+Debris
+Slide
+NA
+26593
+SKM/ES/78A11/2015/65
+Sikkim
+ East Sikkim
+ 
+North Sikkim Highway
+27.394
+88.62525
+Rock
+Slide
+NA
+26594
+SKM/WS/78A07/2015/353
+Sikkim
+West Sikkim
+ 
+Dhupidara Road
+27.395028
+88.307389
+Rock
+Fall
+NA
+26595
+SKM/ES/78A11/2015/66
+Sikkim
+ East Sikkim
+ 
+North Sikkim Highway
+27.395444
+88.623583
+Rock
+Slide
+NA
+26596
+SKM/NS/78A11/2015/04
+Sikkim
+North Sikkim
+Kabi
+North Sikkim Highway
+27.3955
+88.623556
+Debris
+Slide
+NA
+26597
+SKM/WS/78A07/2015/352
+Sikkim
+West Sikkim
+ 
+Dhupidara Road
+27.3955
+88.306889
+Debris
+Slide
+NA

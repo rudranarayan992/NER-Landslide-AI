@@ -1,0 +1,562 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+7853
+HP/CHA/52D07/2020/91
+Himachal Pradesh
+Chamba
+ 
+Chamba Bharmour road
+32.46
+76.33
+Debris
+Slide
+NA
+7854
+HP/CHA/52D07/2020/121
+Himachal Pradesh
+Chamba
+ 
+Tur village
+32.46
+76.3
+Rock
+Slide
+NA
+7855
+HP/CHA/52D07/2020/130
+Himachal Pradesh
+Chamba
+ 
+Right bank of Ravi river
+32.46
+76.46
+Rock
+Slide
+NA
+7856
+HP/CHA/52D11/2020/83
+Himachal Pradesh
+Chamba
+ 
+Thala-Sird Rd
+32.46
+76.52
+Debris
+Slide
+NA
+7857
+HP/CHA/52D11/2020/84
+Himachal Pradesh
+Chamba
+ 
+Thala-Sird Rd
+32.46
+76.52
+Debris
+Slide
+NA
+7858
+HP/CHA/52D11/2020/85
+Himachal Pradesh
+Chamba
+ 
+Thala-Sird Rd
+32.46
+76.52
+Debris
+Slide
+NA
+7859
+HP/CHA/52D11/2020/86
+Himachal Pradesh
+Chamba
+ 
+Thala-Sird Rd
+32.46
+76.52
+Debris
+Slide
+NA
+7860
+HP/CHA/52D11/2020/87
+Himachal Pradesh
+Chamba
+ 
+Thala-Sird Rd
+32.46
+76.52
+Rock
+Slide
+NA
+7861
+HP/CHA/52D11/2020/88
+Himachal Pradesh
+Chamba
+ 
+Thala-Sird Rd
+32.46
+76.51
+Debris
+Slide
+NA
+7862
+HP/CHA/52D11/2020/91
+Himachal Pradesh
+Chamba
+ 
+Thala-Mando Rd
+32.46
+76.57
+Debris
+Slide
+NA
+7863
+HP/CHA/52D11/2020/92
+Himachal Pradesh
+Chamba
+ 
+Thala-Mando Rd
+32.46
+76.56
+Debris
+Slide
+NA
+7864
+HP/CHA/52D11/2020/122
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.46
+76.61
+Debris
+Slide
+NA
+7865
+HP/CHA/52D11/2020/130
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.46
+76.63
+Debris
+Slide
+NA
+7866
+HP/CHA/52D11/2020/142
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.46
+76.65
+Debris
+Slide
+NA
+7867
+HP/CHA/52D11/2020/143
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.46
+76.65
+Debris
+Slide
+NA
+7868
+HP/CHA/52D11/2020/145
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.46
+76.64
+Debris
+Slide
+NA
+7869
+HP/CHA/52D11/2020/146
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.46
+76.64
+Debris
+Slide
+NA
+7870
+HP/CHA/52D11/2020/147
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.46
+76.64
+Debris
+Slide
+NA
+7871
+HP/LAH/52H03/2015/24
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Keylong NH21
+32.464
+77.1389
+Debris
+Slide
+NA
+7872
+HP/LAH/52H03/2015/21
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Keylong NH21
+32.4655
+77.137
+Debris
+Slide
+NA
+7873
+HP/LAH/52H03/2015/22
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Keylong NH21
+32.4655
+77.137
+Debris
+Slide
+NA
+7874
+HP/LAH/52H03/2015/23
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Keylong NH21
+32.4655
+77.137
+Debris
+Slide
+NA
+7875
+HP/CHA/43P15/2020/29
+Himachal Pradesh
+Chamba
+Kumlari
+SH-28
+32.47
+75.92
+Debris
+Slide
+2018
+7876
+HP/CHA/43P15/2020/47
+Himachal Pradesh
+Chamba
+ 
+Bakloh Cant
+32.47
+75.93
+Debris
+Slide
+2017
+7877
+HP/CHA/52D03/2020/28
+Himachal Pradesh
+Chamba
+ 
+Chamera
+32.47
+76.19
+Debris
+Slide
+NA
+7878
+HP/CHA/52D03/2020/29
+Himachal Pradesh
+Chamba
+ 
+Cha,mera,NH-154A
+32.47
+76.2
+Rock
+Slide
+NA
+7879
+HP/CHA/52D03/2020/32
+Himachal Pradesh
+Chamba
+ 
+Karsun,NH-154A
+32.47
+76.22
+Debris
+Slide
+NA
+7880
+HP/CHA/52D03/2020/37
+Himachal Pradesh
+Chamba
+ 
+Weri
+32.47
+76.17
+Rock
+Slide
+NA
+7881
+HP/CHA/52D03/2020/51
+Himachal Pradesh
+Chamba
+ 
+Galold,NH-154A
+32.47
+76.25
+Debris
+Slide
+NA
+7882
+HP/CHA/52D03/2020/59
+Himachal Pradesh
+Chamba
+ 
+Rakh
+32.47
+76.24
+Debris
+Slide
+NA
+7883
+HP/CHA/52D07/2020/7
+Himachal Pradesh
+Chamba
+ 
+Sulla link road
+32.47
+76.43
+Rock
+Slide
+NA
+7884
+HP/CHA/52D07/2020/8
+Himachal Pradesh
+Chamba
+ 
+Sulla link road
+32.47
+76.42
+Rock
+Slide
+NA
+7885
+HP/CHA/52D07/2020/10
+Himachal Pradesh
+Chamba
+ 
+Near chamera III Dam site
+32.47
+76.43
+Rock
+Slide
+NA
+7886
+HP/CHA/52D07/2020/16
+Himachal Pradesh
+Chamba
+ 
+NH154 A near Kharamukh.
+32.47
+76.45
+Rock
+Fall
+NA
+7887
+HP/CHA/52D07/2020/17
+Himachal Pradesh
+Chamba
+ 
+Chamba-Bharmour road.
+32.47
+76.45
+Rock
+Slide
+NA
+7888
+HP/CHA/52D07/2020/33
+Himachal Pradesh
+Chamba
+ 
+Chamba Bharmour road
+32.47
+76.31
+Debris
+Slide
+NA
+7889
+HP/CHA/52D07/2020/35
+Himachal Pradesh
+Chamba
+ 
+Chamba Bharmour road
+32.47
+76.31
+Debris
+Slide
+NA
+7890
+HP/CHA/52D07/2020/37
+Himachal Pradesh
+Chamba
+ 
+Left bank of chamera II
+32.47
+76.26
+Debris
+Slide
+NA
+7891
+HP/CHA/52D07/2020/38
+Himachal Pradesh
+Chamba
+ 
+Left bank of chamera II
+32.47
+76.27
+Debris
+Slide
+NA
+7892
+HP/CHA/52D07/2020/40
+Himachal Pradesh
+Chamba
+ 
+Sunara link road
+32.47
+76.29
+Rock
+Slide
+NA
+7893
+HP/CHA/52D07/2020/52
+Himachal Pradesh
+Chamba
+ 
+Kharamukh
+32.47
+76.45
+Rock
+Slide
+NA
+7894
+HP/CHA/52D07/2020/62
+Himachal Pradesh
+Chamba
+ 
+Bagga
+32.47
+76.25
+Debris
+Slide
+NA
+7895
+HP/CHA/52D07/2020/63
+Himachal Pradesh
+Chamba
+ 
+Kharamukh
+32.47
+76.45
+Rock
+Slide
+NA
+7896
+HP/CHA/52D07/2020/67
+Himachal Pradesh
+Chamba
+ 
+Sunara road
+32.47
+76.27
+Debris
+Slide
+NA
+7897
+HP/CHA/52D07/2020/68
+Himachal Pradesh
+Chamba
+ 
+Sunara link road
+32.47
+76.27
+Debris
+Slide
+NA
+7898
+HP/CHA/52D07/2020/70
+Himachal Pradesh
+Chamba
+ 
+Sunara link road
+32.47
+76.29
+Rock
+Slide
+NA
+7899
+HP/CHA/52D07/2020/71
+Himachal Pradesh
+Chamba
+ 
+Sunara link road
+32.47
+76.29
+Rock
+Slide
+NA
+7900
+HP/CHA/52D07/2020/72
+Himachal Pradesh
+Chamba
+ 
+Sunara link road
+32.47
+76.29
+Rock
+Slide
+NA
+7901
+HP/CHA/52D07/2020/73
+Himachal Pradesh
+Chamba
+ 
+Sunara link road
+32.47
+76.29
+Rock
+Slide
+NA
+7902
+HP/CHA/52D07/2020/84
+Himachal Pradesh
+Chamba
+ 
+Varai link road
+32.47
+76.32
+Rock
+Slide
+NA

@@ -1,0 +1,563 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+8349
+HP/CHA/43P13/2017/44
+Himachal Pradesh
+Chamba
+ 
+ 
+32.884855
+75.943294
+Debris
+Slide
+NA
+8350
+HP/CHA/43P13/2017/88
+Himachal Pradesh
+Chamba
+ 
+ 
+32.884902
+75.966425
+Rock cum debris
+Slide
+NA
+8351
+HP/CHA/43P13/2017/40
+Himachal Pradesh
+Chamba
+ 
+ 
+32.885091
+75.972747
+Rock cum debris
+Slide
+NA
+8352
+HP/CHA/43P13/2017/92
+Himachal Pradesh
+Chamba
+ 
+ 
+32.885501
+75.967482
+Rock cum debris
+Slide
+NA
+8353
+HP/CHA/43P13/2017/8
+Himachal Pradesh
+Chamba
+ 
+ 
+32.886792
+75.972082
+Rock cum debris
+Slide
+NA
+8354
+HP/CHA/43P13/2017/57
+Himachal Pradesh
+Chamba
+ 
+ 
+32.887127
+75.913929
+Debris
+Slide
+NA
+8355
+HP/CHA/43P13/2017/32
+Himachal Pradesh
+Chamba
+ 
+ 
+32.887581
+75.976036
+Rock cum debris
+Slide
+NA
+8356
+HP/CHA/43P13/2017/89
+Himachal Pradesh
+Chamba
+ 
+ 
+32.889069
+75.976934
+Rock cum debris
+Slide
+NA
+8357
+HP/CHA/43P13/2017/17
+Himachal Pradesh
+Chamba
+ 
+ 
+32.889922
+75.926098
+Debris
+Slide
+NA
+8358
+HP/CHA/52D01/2020/8
+Himachal Pradesh
+Chamba
+ 
+Kiora village
+32.89
+76.14
+Debris
+Slide
+NA
+8359
+HP/CHA/52D01/2020/9
+Himachal Pradesh
+Chamba
+ 
+Kiora village
+32.89
+76.14
+Debris
+Slide
+NA
+8360
+HP/CHA/52D01/2020/10
+Himachal Pradesh
+Chamba
+ 
+Kiora village
+32.89
+76.15
+Debris
+Slide
+NA
+8361
+HP/CHA/52D01/2020/29
+Himachal Pradesh
+Chamba
+ 
+Kiora Village
+32.89
+76.15
+Debris
+Slide
+NA
+8362
+HP/CHA/43P13/2017/45
+Himachal Pradesh
+Chamba
+ 
+ 
+32.891023
+75.977702
+Rock cum debris
+Slide
+NA
+8363
+HP/CHA/43P13/2017/18
+Himachal Pradesh
+Chamba
+ 
+ 
+32.893503
+75.846912
+Debris
+Slide
+NA
+8364
+HP/CHA/43P13/2017/72
+Himachal Pradesh
+Chamba
+ 
+ 
+32.894674
+75.924937
+Debris
+Slide
+NA
+8365
+HP/CHA/43P13/2017/5
+Himachal Pradesh
+Chamba
+ 
+ 
+32.894777
+75.921563
+Debris
+Slide
+NA
+8366
+HP/CHA/43P13/2017/22
+Himachal Pradesh
+Chamba
+ 
+ 
+32.89491
+75.825338
+Debris
+Slide
+NA
+8367
+HP/CHA/43P13/2017/41
+Himachal Pradesh
+Chamba
+ 
+ 
+32.897523
+75.824973
+Debris
+Slide
+NA
+8368
+HP/CHA/52D01/2020/11
+Himachal Pradesh
+Chamba
+ 
+Dhamwas
+32.9
+76.15
+Debris
+Slide
+NA
+8369
+HP/CHA/52D01/2020/13
+Himachal Pradesh
+Chamba
+ 
+Dilni P.F
+32.9
+76.19
+Rock
+Slide
+NA
+8370
+HP/CHA/52D01/2020/68
+Himachal Pradesh
+Chamba
+Bairagarh slide
+near Bairagarh, Tissa-Sach Pass-
+Killar road
+32.9
+76.17
+Debris
+Slide
+NA
+8371
+HP/CHA/52D01/2020/74
+Himachal Pradesh
+Chamba
+ 
+Bairagarh
+32.9
+76.17
+Debris
+Slide
+NA
+8372
+HP/CHA/43P13/2017/3
+Himachal Pradesh
+Chamba
+ 
+ 
+32.900325
+75.921526
+Debris
+Slide
+NA
+8373
+HP/CHA/43P13/2017/55
+Himachal Pradesh
+Chamba
+ 
+ 
+32.900998
+75.916339
+Debris
+Slide
+NA
+8374
+HP/CHA/43P13/2017/54
+Himachal Pradesh
+Chamba
+ 
+ 
+32.902054
+75.917693
+Debris
+Slide
+NA
+8375
+HP/CHA/43P13/2017/15
+Himachal Pradesh
+Chamba
+ 
+ 
+32.903675
+75.917836
+Debris
+Slide
+NA
+8376
+HP/CHA/43P13/2017/33
+Himachal Pradesh
+Chamba
+ 
+ 
+32.905034
+75.922868
+Debris
+Slide
+NA
+8377
+HP/CHA/43P13/2017/20
+Himachal Pradesh
+Chamba
+ 
+ 
+32.905685
+75.920686
+Debris
+Slide
+NA
+8378
+HP/CHA/43P13/2017/52
+Himachal Pradesh
+Chamba
+ 
+ 
+32.905932
+75.848834
+Debris
+Slide
+NA
+8379
+HP/CHA/43P13/2017/9
+Himachal Pradesh
+Chamba
+ 
+ 
+32.906017
+75.914551
+Debris
+Slide
+NA
+8380
+HP/CHA/43P13/2017/14
+Himachal Pradesh
+Chamba
+ 
+ 
+32.906118
+75.908971
+Debris
+Slide
+NA
+8381
+HP/CHA/43P13/2017/10
+Himachal Pradesh
+Chamba
+ 
+ 
+32.906994
+75.918593
+Debris
+Slide
+NA
+8382
+HP/CHA/43P13/2017/28
+Himachal Pradesh
+Chamba
+ 
+ 
+32.907556
+75.827418
+Debris
+Slide
+NA
+8383
+HP/CHA/43P13/2017/23
+Himachal Pradesh
+Chamba
+ 
+ 
+32.907809
+75.907323
+Debris
+Slide
+NA
+8384
+HP/CHA/43P13/2017/59
+Himachal Pradesh
+Chamba
+ 
+ 
+32.90804
+75.913012
+Debris
+Slide
+NA
+8385
+HP/CHA/52D01/2020/73
+Himachal Pradesh
+Chamba
+ 
+Junas P.F
+32.91
+76.14
+Debris
+Slide
+NA
+8386
+HP/CHA/52D01/2020/75
+Himachal Pradesh
+Chamba
+ 
+kharku
+32.91
+76.15
+Debris
+Slide
+NA
+8387
+HP/CHA/43P13/2017/60
+Himachal Pradesh
+Chamba
+ 
+ 
+32.910277
+75.880926
+Rock cum debris
+Slide
+NA
+8388
+HP/CHA/43P13/2017/74
+Himachal Pradesh
+Chamba
+ 
+ 
+32.910956
+75.880876
+Rock cum debris
+Slide
+NA
+8389
+HP/CHA/43P13/2017/95
+Himachal Pradesh
+Chamba
+ 
+ 
+32.911003
+75.908917
+Debris
+Slide
+NA
+8390
+HP/CHA/43P13/2017/47
+Himachal Pradesh
+Chamba
+ 
+ 
+32.911304
+75.907181
+Debris
+Slide
+NA
+8391
+HP/CHA/43P13/2017/26
+Himachal Pradesh
+Chamba
+ 
+ 
+32.911665
+75.897202
+Debris
+Slide
+NA
+8392
+HP/CHA/43P13/2017/73
+Himachal Pradesh
+Chamba
+ 
+ 
+32.91255
+75.901352
+Debris
+Slide
+NA
+8393
+HP/CHA/43P13/2017/34
+Himachal Pradesh
+Chamba
+ 
+ 
+32.914107
+75.904167
+Debris
+Slide
+NA
+8394
+HP/CHA/43P13/2017/21
+Himachal Pradesh
+Chamba
+ 
+ 
+32.914687
+75.90669
+Debris
+Slide
+NA
+8395
+HP/CHA/43P13/2017/11
+Himachal Pradesh
+Chamba
+ 
+ 
+32.916109
+75.904373
+Debris
+Slide
+NA
+8396
+HP/CHA/43P13/2017/93
+Himachal Pradesh
+Chamba
+ 
+ 
+32.916468
+75.879924
+Debris
+Slide
+NA
+8397
+HP/CHA/43P13/2017/46
+Himachal Pradesh
+Chamba
+ 
+ 
+32.917961
+75.876663
+Rock cum debris
+Slide
+NA
+8398
+HP/CHA/43P13/2017/27
+Himachal Pradesh
+Chamba
+ 
+ 
+32.918856
+75.876429
+Rock cum debris
+Slide
+NA

@@ -1,0 +1,563 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+7331
+HP/CHA/52D04/2018/90
+Himachal Pradesh
+Chamba
+ 
+Chalehra, Dramman chamba 
+road
+32.248173
+76.144067
+Rock cum debris
+Slide
+NA
+7332
+HP/KAN/52D08/2018/10
+Himachal Pradesh
+Kangra
+ 
+BARNET
+32.24822
+76.28855
+Rock cum debris
+Slide
+NA
+7333
+HP/KAN/52D08/2018/126
+Himachal Pradesh
+Kangra
+GAROH KHAS
+NADDI ROAD
+32.24827
+76.30747
+Debris
+Creep
+NA
+7334
+HP/KAN/52D04/2018/106
+Himachal Pradesh
+Kangra
+ 
+North of Kotla
+32.248408
+76.046499
+Rock
+Slide
+NA
+7335
+HP/CHA/52D04/2018/82
+Himachal Pradesh
+Chamba
+ 
+Chalehra
+32.248617
+76.146571
+Debris
+Slide
+NA
+7336
+HP/KAN/52D04/2018/105
+Himachal Pradesh
+Kangra
+ 
+North of Kotla
+32.248623
+76.046145
+Rock
+Slide
+NA
+7337
+HP/KAN/52D04/2018/57
+Himachal Pradesh
+Kangra
+ 
+North west of Balha, Nh 20
+32.248853
+76.032544
+Rock
+Slide
+NA
+7338
+HP/KAN/52D08/2018/79
+Himachal Pradesh
+Kangra
+ 
+NADDI ROAD
+32.248877
+76.309059
+Debris
+Slide
+NA
+7339
+HP/KAN/52D04/2018/59
+Himachal Pradesh
+Kangra
+ 
+NW of Balha, NH 20
+32.249596
+76.029911
+Rock cum debris
+Slide
+NA
+7340
+HP/CHA/52D04/2018/76
+Himachal Pradesh
+Chamba
+ 
+Chelehra
+32.249798
+76.147211
+Debris
+Slide
+NA
+7341
+HP/KAN/52D03/2020/112
+Himachal Pradesh
+Kangra
+Niangal
+Niangal Village
+32.25
+76.09
+Debris
+Slide
+2010
+7342
+HP/KAN/52D07/2018/1
+Himachal Pradesh
+Kangra
+GAROH KHAS
+NADDI ROAD
+32.25123
+76.30355
+Debris
+Slide
+NA
+7343
+HP/KUL/52H03/2015/87
+Himachal Pradesh
+Kullu
+ 
+Basitha-Manali Road NH-22
+32.2524
+77.1895
+Debris
+Slide
+NA
+7344
+HP/KAN/43P15/2020/83
+Himachal Pradesh
+Kangra
+ 
+Bol Thakran
+32.26
+75.95
+Debris
+Slide
+2005
+7345
+HP/CHA/52D03/2020/7
+Himachal Pradesh
+Chamba
+Khariri
+Shahpur-Drini link road
+32.26
+76.2
+Debris
+Slide
+NA
+7346
+HP/CHA/52D03/2020/8
+Himachal Pradesh
+Chamba
+Khariri
+Shahpur-Drini link road
+32.26
+76.2
+Debris
+Slide
+NA
+7347
+HP/CHA/52D03/2020/17
+Himachal Pradesh
+Chamba
+Bhangian
+SH-28
+32.26
+76.13
+Debris
+Slide
+NA
+7348
+HP/CHA/52D03/2020/18
+Himachal Pradesh
+Chamba
+Bhangian
+SH-28
+32.26
+76.14
+Debris
+Slide
+NA
+7349
+HP/CHA/52D03/2020/76
+Himachal Pradesh
+Chamba
+Khariri
+ 
+32.26
+76.2
+Debris
+Slide
+2018
+7350
+HP/CHA/52D03/2020/78
+Himachal Pradesh
+Chamba
+Darini
+ 
+32.26
+76.19
+Debris
+Slide
+2011
+7351
+HP/CHA/52D03/2020/86
+Himachal Pradesh
+Chamba
+Khariri
+Shahpur-darini road
+32.26
+76.2
+Debris
+Slide
+2017
+7352
+HP/CHA/52D03/2020/96
+Himachal Pradesh
+Chamba
+Khariri
+Khariri
+32.26
+76.22
+Rock
+Slide
+NA
+7353
+HP/CHA/52D03/2020/97
+Himachal Pradesh
+Chamba
+Khariri
+Khariri
+32.26
+76.22
+Rock
+Slide
+NA
+7354
+HP/CHA/52D03/2020/98
+Himachal Pradesh
+Chamba
+Bhaler
+Bhaler
+32.26
+76.22
+Rock
+Slide
+NA
+7355
+HP/KAN/52D03/2020/111
+Himachal Pradesh
+Kangra
+Niangal
+Niangal Village
+32.26
+76.08
+Debris
+Slide
+NA
+7356
+HP/KAN/52D07/2020/142
+Himachal Pradesh
+Kangra
+ 
+Left bank of Gaj khad
+32.26
+76.28
+Debris
+Slide
+NA
+7357
+HP/KUL/52H03/2015/86
+Himachal Pradesh
+Kullu
+ 
+Basitha-Manali Road NH-21
+32.2635
+77.1854
+Debris
+Slide
+NA
+7358
+HP/CHA/52D03/2020/9
+Himachal Pradesh
+Chamba
+Darini
+Darini
+32.27
+76.21
+Debris
+Slide
+NA
+7359
+HP/CHA/52D03/2020/10
+Himachal Pradesh
+Chamba
+Narwar
+Dhuli-Narwar link road
+32.27
+76.24
+Debris
+Slide
+2019
+7360
+HP/CHA/52D03/2020/77
+Himachal Pradesh
+Chamba
+Darini
+ 
+32.27
+76.19
+Debris
+Slide
+NA
+7361
+HP/CHA/52D03/2020/79
+Himachal Pradesh
+Chamba
+Darini
+Shahpur-Darini link road
+32.27
+76.2
+Debris
+Slide
+2015
+7362
+HP/CHA/52D03/2020/80
+Himachal Pradesh
+Chamba
+Bhaled
+ 
+32.27
+76.21
+Debris
+Slide
+2012
+7363
+HP/KAN/52D07/2020/144
+Himachal Pradesh
+Kangra
+ 
+Near Gera village.
+32.27
+76.3
+Debris
+Slide
+NA
+7364
+HP/KAN/43P15/2020/87
+Himachal Pradesh
+Kangra
+ 
+Kulhan village
+32.28
+75.9
+Debris
+Slide
+NA
+7365
+HP/CHA/52D03/2020/4
+Himachal Pradesh
+Chamba
+ 
+Bhiora Saini
+32.28
+76.15
+Debris
+Slide
+2005
+7366
+HP/CHA/52D03/2020/15
+Himachal Pradesh
+Chamba
+ 
+SH-28
+32.28
+76.13
+Debris
+Slide
+2016
+7367
+HP/CHA/52D03/2020/16
+Himachal Pradesh
+Chamba
+Ladhar ghar
+SH-28
+32.28
+76.13
+Debris
+Slide
+NA
+7368
+HP/CHA/52D03/2020/49
+Himachal Pradesh
+Chamba
+Rehal Ban Jangal
+ 
+32.28
+76.14
+Debris
+Slide
+NA
+7369
+HP/CHA/52D03/2020/56
+Himachal Pradesh
+Chamba
+Rihal ban Jangal
+Rihal ban Jangal
+32.28
+76.15
+Debris
+Slide
+2015
+7370
+HP/CHA/52D03/2020/91
+Himachal Pradesh
+Chamba
+Rehal Ban Jangal
+ 
+32.28
+76.14
+Debris
+Slide
+NA
+7371
+HP/CHA/52D03/2020/93
+Himachal Pradesh
+Chamba
+Bhiora saini
+ 
+32.28
+76.15
+Debris
+Slide
+NA
+7372
+HP/CHA/52D03/2020/99
+Himachal Pradesh
+Chamba
+Lahariri
+Lahariri
+32.28
+76.22
+Debris
+Slide
+2015
+7373
+HP/CHA/52D03/2020/102
+Himachal Pradesh
+Chamba
+ 
+Ghatarla village
+32.28
+76.18
+Debris
+Slide
+2016
+7374
+HP/KAN/52D03/2020/113
+Himachal Pradesh
+Kangra
+Darini
+ 
+32.28
+76.2
+Debris
+Slide
+2015
+7375
+HP/KAN/52D03/2020/114
+Himachal Pradesh
+Kangra
+Darini
+ 
+32.28
+76.2
+Debris
+Slide
+NA
+7376
+HP/KAN/52D03/2020/118
+Himachal Pradesh
+Kangra
+ 
+Kahkarra
+32.28
+76.24
+Debris
+Slide
+2015
+7377
+HP/KAN/52D07/2020/138
+Himachal Pradesh
+Kangra
+ 
+Kareri link road
+32.28
+76.29
+Rock
+Slide
+NA
+7378
+HP/KAN/52D07/2020/139
+Himachal Pradesh
+Kangra
+ 
+Kareri link road
+32.28
+76.29
+Rock
+Fall
+NA
+7379
+HP/KAN/52D07/2020/140
+Himachal Pradesh
+Kangra
+ 
+Kareri link road
+32.28
+76.28
+Rock
+Slide
+NA
+7380
+HP/KAN/52D07/2020/141
+Himachal Pradesh
+Kangra
+ 
+Kareri link road
+32.28
+76.29
+Rock
+Slide
+NA

@@ -1,0 +1,410 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29151
+WB/DAR/78B05/2015/658
+West Bengal
+Darjeeling
+Tukre
+Tukre
+26.994284
+88.314039
+Debris
+Slide
+2015
+29152
+WB/DAR/78B09/2015/718
+West Bengal
+Darjeeling
+Ambyok
+Ambyok Tea garden
+26.995966
+88.703774
+Debris
+Slide
+2009
+29153
+WB/DAR/78B05/2015/531
+West Bengal
+Darjeeling
+NH31A _18.9 Km
+NH31A
+26.9964
+88.4269
+Rock
+Slide
+2011
+29154
+WB/DAR/78B05/2015/671
+West Bengal
+Darjeeling
+NH31A Rayen
+NH31A Rayen
+26.996444
+88.426722
+Rock
+Slide
+2015
+29155
+WB/DAR/78B09/2015/756
+West Bengal
+Darjeeling
+Samolbong
+Samolbong
+26.996611
+88.536972
+Debris
+Subsidence
+2015
+29156
+WB/DAR/78B09/2015/739
+West Bengal
+Darjeeling
+GORUBATHAN/KOTHILINE UPPER 
+FAGU
+GORUBATHAN/KOTHILINE 
+UPPER FAGU
+26.996957
+88.686142
+Rock
+Fall
+2015
+29157
+WB/DAR/78B05/2015/492
+West Bengal
+Darjeeling
+Rangol Village
+Rangol Village
+26.997
+88.26
+Debris
+Slide
+2009
+29158
+WB/DAR/78B05/2015/409
+West Bengal
+Darjeeling
+Devisthan Jhor a(Kurseong)
+ 
+26.997119
+88.429528
+Debris
+Slide
+1998
+29159
+WB/DAR/78B05/2015/494
+West Bengal
+Darjeeling
+Mungpoo-Rambhi Road
+Mungpoo-Rambhi Road
+26.997694
+88.302139
+Rock
+Slide
+2009
+29160
+WB/DAR/78B05/2015/493
+West Bengal
+Darjeeling
+NH55 Tiger Hill, Jor Bungalow
+NH55 Tiger Hill, Jor Bungalow
+26.998
+88.263
+Debris
+Slide
+2009
+29161
+WB/DARJ/78B09/2007/0004
+West Bengal
+Darjeeling
+Ambyok Tea Garden
+17.8 km from Damdin
+26.9981
+88.7007
+Rock
+Slide
+2007
+29162
+WB/DAR/78B09/2015/774
+West Bengal
+Darjeeling
+SINJI
+SINJI
+26.99825
+88.527083
+Rock
+Fall
+2015
+29163
+WB/DAR/78A08/2021/PDLS/36
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+26.99936806
+88.43161
+Rock
+Slide
+October 2021
+29164
+WB/DAR/78B09/2015/740
+West Bengal
+Darjeeling
+GORUBATHAN/KOTHILINE UPPER 
+FAGU
+GORUBATHAN/KOTHILINE 
+UPPER FAGU
+26.999402
+88.683132
+Rock
+Slide
+2015
+29165
+WB/DAR/78B05/2015/403
+West Bengal
+Darjeeling
+NH55  At Km 52 from Siliguri
+ 
+26.999587
+88.431343
+Rock
+Slide
+1998
+29166
+WB/DAR/78B05/2015/507
+West Bengal
+Darjeeling
+NG104 NAZUK RF, SAMTHA KHOLA
+ 
+26.999685
+88.470923
+Debris
+Slide
+2010
+29167
+WB/DAR/78B09/2015/715
+West Bengal
+Darjeeling
+At around 57km. On Dam Dim-Algara-
+Labha road (near Gorubathan)
+At around 57km. On Dam Dim-
+Algara-Labha road (near 
+Gorubathan)
+26.999721
+88.700071
+Debris
+Slide
+1970
+29168
+WB/DAR/78A08/2015/1352
+West Bengal
+Darjeeling
+HAPPY VILLA
+HAPPY VILLA, KALIMPONG
+27.000361
+88.459972
+Debris
+Subsidence
+2006
+29169
+WB/DARJ/78A12/2007/0005
+West Bengal
+Darjeeling
+Ambyok-I
+21km from Damdin
+27.0015
+88.7025
+Debris
+Subsidence
+2007
+29170
+WB/DAR/78A08/2015/560
+West Bengal
+Darjeeling
+Rayeng (NH10)
+Rayeng (NH10)
+27.002
+88.4303
+Debris
+Slide
+2013
+29171
+WB/DAR/78A12/2015/1411
+West Bengal
+Darjeeling
+ 
+ 
+27.002371
+88.619723
+Debris
+Slide
+2010
+29172
+WB/DAR/78A08/2015/1409
+West Bengal
+Darjeeling
+ 
+ 
+27.002613
+88.470775
+Debris
+Slide
+2010
+29173
+WB/DAR/78A08/2015/1410
+West Bengal
+Darjeeling
+ 
+ 
+27.00293
+88.478081
+Debris
+Slide
+2011
+29174
+WB/DAR/78A08/2015/37
+West Bengal
+Darjeeling
+NH-31A 20.8km (27 mile slide) from 
+Sevok(Tiger Bridge) towards  Gangtok
+Near Km. 20.8 from Sevoke on 
+NH 31A
+27.002937
+88.440581
+Rock cum Debris
+Slide
+2006
+29175
+WB/DAR/78A04/2021/PDLS/76
+West Bengal
+Darjeeling
+N/A
+N/A
+27.00328328
+88.10851105
+Rock
+Slide
+October 2021
+29176
+WB/DAR/78A12/2015/178
+West Bengal
+Darjeeling
+16km from Bagrakot towards   kafer
+16km from Bagrakot towards   
+kafer
+27.003491
+88.595846
+Debris
+Slide
+1996
+29177
+WB/DAR/78A04/2021/PDLS/78
+West Bengal
+Darjeeling
+N/A
+N/A
+27.0035643
+88.11522596
+Debris
+Slide
+October 2021
+29178
+WB/DAR/78A12/2015/165
+West Bengal
+Darjeeling
+Downhill of Pemling village
+Downholl of pemling VillGE
+27.003629
+88.599721
+Debris
+Slide
+1968
+29179
+WB/DAR/78A04/2021/PDLS/75
+West Bengal
+Darjeeling
+N/A
+N/A
+27.00381674
+88.10840543
+Rock
+Slide
+October 2021
+29180
+WB/DAR/78A08/2015/38
+West Bengal
+Darjeeling
+NH-31A 20.8km (27 mile slide) from 
+Sevok(Tiger Bridge) towards  Gangtok
+Near Km. 20.8 from Sevoke on 
+NH 31A
+27.003918
+88.440031
+Rock cum Debris
+Slide
+2006
+29181
+WB/DAR/78A04/2015/1181
+West Bengal
+Darjeeling
+ 
+Bhalukhop- Ghoom junction
+27.003944
+88.24325
+Rock
+Slide
+2015
+29182
+WB/DAR/78A04/2021/PDLS/77
+West Bengal
+Darjeeling
+N/A
+N/A
+27.0039736
+88.11369809
+Debris
+Slide
+October 2021
+29183
+WB/DARJ/78A08/2011/0264
+West Bengal
+Darjeeling
+ 
+NH31A
+27.004
+88.441
+Debris
+Slide
+NA
+29184
+WB/DAR/78A08/2015/1182
+West Bengal
+Darjeeling
+ 
+GHOOM
+27.004111
+88.252139
+Debris
+Slide
+2015
+29185
+WB/DAR/78A04/2021/PDLS/79
+West Bengal
+Darjeeling
+N/A
+N/A
+27.00418388
+88.11564528
+Rock
+Slide
+October 2021

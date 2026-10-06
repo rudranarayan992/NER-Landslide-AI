@@ -1,0 +1,358 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+19176
+MAN/UKH/83K08/2015/038
+Manipur
+Ukhrul
+N/A
+N/A
+25.116778
+94.353917
+Debris
+Slide
+NA
+19177
+MAN/TAM/83G12/2017/0103
+Manipur
+Tamenglong
+ 
+Dailong road
+25.116833
+93.645889
+Debris
+Slide
+NA
+19178
+MAN/TAM/83G12/2017/0104
+Manipur
+Tamenglong
+ 
+Dailong road
+25.11775
+93.647222
+Debris
+Slide
+NA
+19179
+MAN/TAM/83G12/2017/0105
+Manipur
+Tamenglong
+ 
+Dailong road
+25.117806
+93.647528
+Debris
+Slide
+NA
+19180
+MAN/TAM/83G12/2017/0106
+Manipur
+Tamenglong
+ 
+Dailong road
+25.118
+93.64775
+Debris
+Slide
+NA
+19181
+MAN/TAM/83G12/2017/0107
+Manipur
+Tamenglong
+ 
+Dailong road
+25.118056
+93.648556
+Debris
+Slide
+NA
+19182
+MAN/TAM/83G12/2017/0108
+Manipur
+Tamenglong
+ 
+Dailong road
+25.118083
+93.649472
+Debris
+Slide
+NA
+19183
+MAN/TAM/83G12/2017/0109
+Manipur
+Tamenglong
+ 
+Dailong road
+25.119917
+93.653333
+Debris
+Slide
+NA
+19184
+MN/TML/83G08/2020/50
+Manipur
+Tamenglong
+ 
+Data taken from Tousem part 3- 
+Old Tousem road
+25.12
+93.37
+Debris
+Slide
+NA
+19185
+MAN/TAM/83G12/2017/0110
+Manipur
+Tamenglong
+ 
+Dailong road
+25.120444
+93.653778
+Debris
+Slide
+NA
+19186
+MAN/TAM/83G12/2017/0111
+Manipur
+Tamenglong
+ 
+Dailong road
+25.121111
+93.654694
+Debris
+Slide
+NA
+19187
+MAN/TAM/83G12/2017/0112
+Manipur
+Tamenglong
+ 
+Dailong road
+25.121417
+93.654972
+Debris
+Slide
+NA
+19188
+MAN/TAM/83G12/2017/0113
+Manipur
+Tamenglong
+ 
+Dailong road
+25.123361
+93.656306
+Debris
+Slide
+NA
+19189
+MAN/SEN/83G16/2015/48
+Manipur
+Senapati
+ 
+4km west of Gopibung
+25.124639
+93.92575
+Debris
+Slide
+NA
+19190
+MAN/TAM/83G12/2017/0114
+Manipur
+Tamenglong
+ 
+Dailong road
+25.124917
+93.657333
+Debris
+Slide
+NA
+19191
+MAN/UKH/83K08/2015/026
+Manipur
+Ukhrul
+ 
+Ukhrul Jessami road.
+25.126167
+94.456278
+Debris
+Slide
+NA
+19192
+MAN/UKH/83K08/2015/027
+Manipur
+Ukhrul
+ 
+Ukhrul Jessami road.
+25.126222
+94.456278
+Debris
+Slide
+NA
+19193
+MAN/SEN/83G16/2015/51
+Manipur
+Senapati
+ 
+Gopinung
+25.126361
+93.901333
+Rock cum Debris
+Slide
+NA
+19194
+MAN/UKH/83K08/2015/042
+Manipur
+Ukhrul
+ 
+Ukhrul Talui road
+25.127556
+94.338583
+Debris
+Slide
+NA
+19195
+MAN/UKH/83K08/2015/025
+Manipur
+Ukhrul
+ 
+Ukhrul Jessami road.
+25.127722
+94.449417
+Earth
+Slide
+NA
+19196
+MAN/UKH/83K08/2015/024
+Manipur
+Ukhrul
+ 
+4km N of Siruhi village, Ukhrul 
+Jessami road.
+25.128194
+94.440417
+Debris
+Slide
+NA
+19197
+MAN/UKH/83K08/2015/051
+Manipur
+Ukhrul
+ 
+Ukhrul Talui road
+25.128222
+94.321722
+Debris
+Slide
+NA
+19198
+MAN/UKH/83K08/2015/023
+Manipur
+Ukhrul
+ 
+4km N of Siruhi village, Ukhrul 
+Jessami road.
+25.128417
+94.440639
+Debris
+Slide
+NA
+19199
+MAN/TAM/83G12/2017/0115
+Manipur
+Tamenglong
+ 
+Dailong road
+25.129639
+93.661806
+Debris
+Slide
+NA
+19200
+MAN/TAM/83G12/2017/0116
+Manipur
+Tamenglong
+ 
+Dailong road
+25.130361
+93.6625
+Debris
+Slide
+NA
+19201
+MAN/TAM/83G12/2017/0117
+Manipur
+Tamenglong
+ 
+Dailong road
+25.130722
+93.663583
+Debris
+Slide
+NA
+19202
+MAN/KAN/83G16/2017/02
+Manipur
+Kangpokpi
+Haijang landslide
+Haijang village road to the east 
+of Sirarakhong Baptist
+25.13109
+93.97215
+Earth
+Subsidence
+first week of July 2017
+19203
+MAN/UKH/83K08/2015/052
+Manipur
+Ukhrul
+ 
+Ngaingu village
+25.131889
+94.322667
+Debris
+Slide
+NA
+19204
+MAN/UKH/83K08/2015/043
+Manipur
+Ukhrul
+ 
+Ukhrul Talui road
+25.131917
+94.338583
+Debris
+Slide
+NA
+19205
+MAN/TAM/83G12/2017/0118
+Manipur
+Tamenglong
+ 
+Dailong road
+25.1345
+93.666417
+Debris
+Slide
+NA
+19206
+MAN/UKH/83K08/2015/020
+Manipur
+Ukhrul
+ 
+Siruhi village, Ukhrul Jessami 
+road.
+25.134611
+94.460722
+Debris
+Slide
+NA

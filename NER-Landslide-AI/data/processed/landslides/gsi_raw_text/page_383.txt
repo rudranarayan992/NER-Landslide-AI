@@ -1,0 +1,385 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15786
+KER/IDK/58G01/2018/79
+Kerala
+Idukki
+Eettikkavala
+Eettikavala-Narekkanam Road
+9.83962
+77.012461
+Debris
+Slide
+15th August 2018
+15787
+KER/IDK/58G01/2018/80
+Kerala
+Idukki
+Amalagirikavala
+Eettikavala-Narekkanam Road
+9.836103
+77.014044
+Debris
+Slide
+15th August 2018
+15788
+KER/IDK/58G01/2018/81
+Kerala
+Idukki
+Amalagirikavala
+Eettikavala-Narekkanam Road
+9.837255
+77.008892
+Debris
+Slide
+2016 & 15th August 2018
+15789
+KER/IDK/58G01/2018/82
+Kerala
+Idukki
+Amalagirikavala
+Eettikavala-Narekkanam Road
+9.837036
+77.009191
+Debris
+Slide
+15th August 2018
+15790
+KER/IDK/58G01/2018/83
+Kerala
+Idukki
+Amalagirikavala
+Eettikavala-Narekkanam Road
+9.835163
+77.012616
+Debris
+Flow
+15th August 2018
+15791
+KER/IDK/58G01/2018/84
+Kerala
+Idukki
+Double cutting-Kumbilikavala
+Double cutting-Kumbilikavala 
+Road
+9.827734
+77.003129
+Debris
+Flow
+15th August 2018
+15792
+KER/IDK/58G01/2018/85
+Kerala
+Idukki
+Double cutting-Kumbilikavala
+Double cutting-Kumbilikavala 
+Road
+9.827966
+77.00221
+Debris
+Flow
+15th August 2018
+15793
+KER/IDK/58G01/2018/86
+Kerala
+Idukki
+Double cutting-Kumbilikavala
+Double cutting-Kumbilikavala 
+Road
+9.82773
+77.002381
+Debris
+Flow
+15th August 2018
+15794
+KER/IDK/58C13/2018/87
+Kerala
+Idukki
+Idukki
+Idukki-Kattappana Road
+9.84609
+76.98542
+Debris
+Slide
+15th August 2018
+15795
+KER/IDK/58C13/2018/88
+Kerala
+Idukki
+Idukki
+Idukki-Kattappana Road
+9.84732
+76.989793
+Debris
+Flow
+15th August 2018
+15796
+KER/IDK/58G01/2018/89
+Kerala
+Idukki
+Double cutting-Kumbilikavala
+Double cutting-Kumbilikavala 
+Road
+9.826958
+77.004473
+Debris
+Slide
+15th August 2018
+15797
+KER/IDK/58G01/2018/90
+Kerala
+Idukki
+Narupara
+Double cutting-Alappattupadi 
+Road
+9.834579
+77.020998
+Debris
+Slide
+15th August 2018
+15798
+KER/IDK/58C13/2018/91
+Kerala
+Idukki
+Narekkanam
+Idukki-Narekkanam Road
+9.846422
+76.990435
+Debris
+Flow
+15th August 2018
+15799
+KER/IDK/58C13/2018/92
+Kerala
+Idukki
+Narekkanam
+Idukki-Narekkanam Road
+9.842516
+76.990594
+Debris
+Flow
+15th August 2018
+15800
+KER/IDK/58C13/2018/93
+Kerala
+Idukki
+Narekkanam
+Idukki-Narekkanam Road
+9.841728
+76.990835
+Debris
+Slide
+15th August 2018
+15801
+KER/IDK/58C13/2018/94
+Kerala
+Idukki
+Narekkanam
+Idukki-Narekkanam Road
+9.841728
+76.990835
+Debris
+Slide
+15th August 2018
+15802
+KER/IDK/58C13/2018/95
+Kerala
+Idukki
+Narekkanam
+Idukki-Narekkanam Road
+9.841678
+76.99171
+Debris
+Flow
+15th August 2018
+15803
+KER/IDK/58C13/2018/96
+Kerala
+Idukki
+Idukki
+Idukki-Nalumukku-
+Mariyapuram Road
+9.852014
+76.977188
+Debris
+Slide
+15th August 2018
+15804
+KER/IDK/58C13/2018/97
+Kerala
+Idukki
+Mariyapuram
+Mariyapuram-Thankamony 
+Road
+9.854926
+76.999929
+Debris
+Slide
+15th August 2018
+15805
+KER/IDK/58C13/2018/98
+Kerala
+Idukki
+Priyadarshinimedu
+Idukki-Mariyapuram Road
+9.852413
+76.980052
+Debris
+Flow
+14th August 2018
+15806
+KER/IDK/58C13/2018/99
+Kerala
+Idukki
+Priyadarshinimedu
+Idukki-Mariyapuram Road
+9.852625
+76.97926
+Debris
+Flow
+14th August 2018
+15807
+KER/IDK/58C13/2018/100
+Kerala
+Idukki
+Priyadarshinimedu
+Idukki-Mariyapuram Road
+9.851942
+76.980177
+Debris
+Slide
+2012 & 14th August 2018
+15808
+KER/IDK/58C13/2018/101
+Kerala
+Idukki
+Idukki
+Idukki-Mariyapuram Road
+9.853193
+76.974898
+Debris
+Slide
+15th August 2018
+15809
+KER/IDK/58C13/2018/102
+Kerala
+Idukki
+Mariyapuram
+Idukki-Mariyapuram Road
+9.85949
+76.995536
+Debris
+Flow
+15th August 2018
+15810
+KER/IDK/58G01/2018/103
+Kerala
+Idukki
+Millumpadi-Chattikulam
+Idukki-Thankamony Road
+9.849973
+77.001303
+Debris
+Flow
+15th August 2018
+15811
+KER/IDK/58G01/2018/104
+Kerala
+Idukki
+Pandipara
+Idukki-Thankamony-Shaligram 
+Road
+9.852342
+77.001153
+Debris
+Slide
+15th August 2018
+15812
+KER/IDK/58G01/2018/105
+Kerala
+Idukki
+Varikattukanam
+Eettikavala-Millumpadi Road
+9.847692
+77.004835
+Debris
+Flow
+15th August 2018
+15813
+KER/IDK/58C13/2018/106
+Kerala
+Idukki
+Mariyapuram
+Mariyapuram-Narekkanam 
+Road
+9.853422
+76.991343
+Debris
+Slide
+15th August 2018
+15814
+KER/IDK/58C13/2018/107
+Kerala
+Idukki
+Mariyapuram
+Thankamony-Mariyapuram 
+road
+9.854044
+76.982459
+Debris
+Flow
+1983 & 15th August 2018
+15815
+KER/IDK/58C13/2018/108
+Kerala
+Idukki
+Narekkanam
+Narekkanam-Mariyapuram 
+Road
+9.846221
+76.995374
+Debris
+Flow
+15th August 2018
+15816
+KER/IDK/58C13/2018/109
+Kerala
+Idukki
+Mariyapuram
+Narekkanam-Priyadarshini Road 9.848306
+76.991257
+Debris
+Flow
+15th August 2018
+15817
+KER/IDK/58C13/2018/110
+Kerala
+Idukki
+Mariyapuram
+Narekkanam-Priyadarshini Road 9.850703
+76.989467
+Debris
+Flow
+15th August 2018
+15818
+KER/IDK/58C13/2018/111
+Kerala
+Idukki
+Mariyapuram
+Mariyapuram-Narekkanam 
+Road
+9.84587
+76.993522
+Debris
+Slide
+15th August 2018

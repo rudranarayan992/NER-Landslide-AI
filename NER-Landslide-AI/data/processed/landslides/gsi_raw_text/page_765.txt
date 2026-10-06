@@ -1,0 +1,326 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30003
+WB/KAL/78A12/2021/PDLS/312 West Bengal
+Kalimpong
+N/A
+N/A
+27.09712538
+88.59695581
+Debris
+Slide
+October 2021
+30004
+WB/DAR/78A04/2021/PDLS/19
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09713702
+88.23065391
+Rock
+Slide
+October 2021
+30005
+WB/KAL/78A12/2021/PDLS/318 West Bengal
+Kalimpong
+N/A
+N/A
+27.09716126
+88.606477
+Rock
+Slide
+October 2021
+30006
+WB/DAR/78A12/2015/1330
+West Bengal
+Darjeeling
+MIRIK,KALIMPONG
+MIRIK,KALIMPONG
+27.097222
+88.605944
+Rock
+Slide
+2014
+30007
+WB/DAR/78A04/2021/PDLS/27
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09726477
+88.24484689
+Rock
+Slide
+October 2021
+30008
+WB/KAL/78A12/2021/PDLS/317 West Bengal
+Kalimpong
+N/A
+N/A
+27.09728339
+88.60526848
+Rock
+Slide
+October 2021
+30009
+WB/KAL/78A12/2021/PDLS/328 West Bengal
+Kalimpong
+N/A
+N/A
+27.09729937
+88.61882355
+Rock
+Slide
+October 2021
+30010
+WB/DAR/78A04/2015/1230
+West Bengal
+Darjeeling
+ 
+LINGTEN
+27.097306
+88.17325
+Rock cum Debris
+Slide
+2015
+30011
+WB/KAL/78A12/2021/PDLS/324 West Bengal
+Kalimpong
+N/A
+N/A
+27.09732174
+88.61138082
+Debris
+Slide
+October 2021
+30012
+WB/DAR/78A12/2015/267
+West Bengal
+Darjeeling
+12.3 km on Pedong-Lava road from 
+Pedong
+Algara-Rishi road
+27.097339
+88.644801
+Rock
+Slide
+2013
+30013
+WB/DAR/78A04/2021/PDLS/27
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09738274
+88.24477759
+Rock
+Slide
+October 2021
+30014
+WB/KAL/78A12/2021/PDLS/325 West Bengal
+Kalimpong
+N/A
+N/A
+27.09742889
+88.61226987
+Debris
+Slide
+October 2021
+30015
+WB/DAR/78A12/2015/1283
+West Bengal
+Darjeeling
+ 
+NEORA RF ROAD
+27.097583
+88.681139
+Debris
+Slide
+2014
+30016
+WB/DAR/78A08/2015/48
+West Bengal
+Darjeeling
+NH-31A 37.6 km from Sevok (Tiger 
+Bridge) towards  Gangtok
+37.6 km from Sevok (Tiger 
+Bridge) on NH-31A towards  
+Gangtok
+27.09768
+88.468224
+Debris
+Slide
+2007
+30017
+WB/DAR/78A08/2015/1519
+West Bengal
+Darjeeling
+MELLI ROAD
+PUDUNG
+27.097689
+88.468172
+Debris
+Creep
+2016
+30018
+WB/DAR/78A04/2021/PDLS/27
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09776703
+88.24419682
+Rock
+Slide
+October 2021
+30019
+WB/KAL/78A12/2021/PDLS/311 West Bengal
+Kalimpong
+N/A
+N/A
+27.09778967
+88.59727789
+Rock
+Slide
+October 2021
+30020
+WB/KAL/78A12/2021/PDLS/327 West Bengal
+Kalimpong
+N/A
+N/A
+27.09787479
+88.61823679
+Debris
+Slide
+October 2021
+30021
+WB/KAL/78A12/2021/PDLS/326 West Bengal
+Kalimpong
+N/A
+N/A
+27.09797185
+88.61529322
+Rock
+Slide
+October 2021
+30022
+WB/DAR/78A12/2015/1530
+West Bengal
+Darjeeling
+ 
+BHALUKHOP-GHOOM 
+JUNCTION
+27.098009
+88.626992
+Rock
+Slide
+2015
+30023
+WB/DAR/78A12/2015/233
+West Bengal
+Darjeeling
+11 km on Pedong-Lava road from 
+Pedong
+11 km on Pedong-Lava road 
+from Pedong
+27.098075
+88.626884
+Rock
+Slide
+2012
+30024
+WB/DAR/78A04/2021/PDLS/19
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09816733
+88.22948506
+Rock
+Slide
+October 2021
+30025
+WB/DAR/78A04/2021/PDLS/19
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09819576
+88.23036289
+Debris
+Slide
+October 2021
+30026
+WB/DAR/78A04/2021/PDLS/27
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09822675
+88.24529124
+Debris
+Slide
+October 2021
+30027
+WB/DAR/78A12/2015/274
+West Bengal
+Darjeeling
+Algara-Rishi road
+Algara-Rishi road
+27.098279
+88.604791
+Rock
+Slide
+2013
+30028
+WB/KAL/78A12/2021/PDLS/310 West Bengal
+Kalimpong
+N/A
+N/A
+27.09833629
+88.59762856
+Debris
+Slide
+October 2021
+30029
+WB/DAR/78A04/2021/PDLS/17
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09834501
+88.22878094
+Debris
+Slide
+October 2021
+30030
+WB/DAR/78A04/2021/PDLS/10
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09853266
+88.10966949
+Debris
+Slide
+October 2021

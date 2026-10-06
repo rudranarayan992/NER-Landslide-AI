@@ -1,0 +1,331 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29974
+WB/DAR/78A12/2015/196
+West Bengal
+Darjeeling
+5.5 km from Algara towards  Lava
+5.5 km from Algara towards  
+Lava
+27.095685
+88.607714
+Debris
+Slide
+2007
+29975
+WB/DARJ/78A12/2007/0028
+West Bengal
+Darjeeling
+Algara 4.5 km
+4.25km from Algara towards 
+Lava, slide activity enlarging
+27.0957
+88.6019
+Debris
+Subsidence
+2007
+29976
+WB/DAR/78A04/2015/1195
+West Bengal
+Darjeeling
+ 
+GOKE
+27.095778
+88.226278
+Rock
+Slide
+2016
+29977
+WB/KAL/78A12/2021/PDLS/315 West Bengal
+Kalimpong
+N/A
+N/A
+27.09589347
+88.60050855
+Rock
+Slide
+October 2021
+29978
+WB/DAR/78A12/2015/1282
+West Bengal
+Darjeeling
+ 
+NEORA RF ROAD
+27.095917
+88.685222
+Debris
+Slide
+2015
+29979
+WB/DARJ/78A08/2012/0304
+West Bengal
+Darjeeling
+ 
+Chota Bhalukop near Kalimpong 27.096
+88.477
+Rock
+Slide
+NA
+29980
+WB/KAL/78A12/2021/PDLS/316 West Bengal
+Kalimpong
+N/A
+N/A
+27.09604121
+88.60180158
+Rock
+Slide
+October 2021
+29981
+WB/DAR/78A08/2021/PDLS/22
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09610459
+88.26458296
+Debris
+Slide
+October 2021
+29982
+WB/KAL/78A12/2021/PDLS/321 West Bengal
+Kalimpong
+N/A
+N/A
+27.09611133
+88.60909429
+Debris
+Slide
+October 2021
+29983
+WB/DAR/78A04/2021/PDLS/27
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09621172
+88.24347359
+Rock
+Slide
+October 2021
+29984
+WB/DARJ/78A12/2007/0029
+West Bengal
+Darjeeling
+Algara 4.25 km
+4.5km from Algara towards 
+Lava
+27.0963
+88.5997
+Debris
+Subsidence
+2007
+29985
+WB/KAL/78A12/2021/PDLS/322 West Bengal
+Kalimpong
+N/A
+N/A
+27.09632645
+88.61001513
+Debris
+Slide
+October 2021
+29986
+WB/DAR/78A08/2021/PDLS/23
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09634344
+88.26412168
+Debris
+Slide
+October 2021
+29987
+WB/KAL/78A12/2021/PDLS/320 West Bengal
+Kalimpong
+N/A
+N/A
+27.09639399
+88.60884619
+Rock
+Slide
+October 2021
+29988
+WB/DAR/78A12/2015/1484
+West Bengal
+Darjeeling
+ 
+ 
+27.096416
+88.655477
+Rock cum Debris
+Slide
+2010
+29989
+WB/DAR/78A12/2015/237
+West Bengal
+Darjeeling
+Upper 14th mile on Algara road
+Upper 14th mile on Algara road 27.096428
+88.532356
+Debris
+Subsidence
+2012
+29990
+WB/DAR/78A04/2021/PDLS/17
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09654815
+88.22676422
+Debris
+Slide
+October 2021
+29991
+WB/KAL/78A12/2021/PDLS/314 West Bengal
+Kalimpong
+N/A
+N/A
+27.09659303
+88.59931833
+Rock
+Slide
+October 2021
+29992
+WB/DARJ/78A12/2007/0027
+West Bengal
+Darjeeling
+Algara 5 km
+5km from Algara towards Lava
+27.0966
+88.6082
+Debris
+Slide
+2007
+29993
+WB/DARJ/78A12/2007/0024
+West Bengal
+Darjeeling
+WP 521
+Algara road
+27.0966
+88.6436
+Debris
+Slide
+2007
+29994
+WB/DAR/78A08/2021/PDLS/23
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09661618
+88.26491147
+Debris
+Slide
+October 2021
+29995
+WB/KAL/78A12/2021/PDLS/319 West Bengal
+Kalimpong
+N/A
+N/A
+27.09672564
+88.61219929
+Rock
+Slide
+October 2021
+29996
+WB/KAL/78A12/2021/PDLS/313 West Bengal
+Kalimpong
+N/A
+N/A
+27.09677001
+88.59883674
+Rock
+Slide
+October 2021
+29997
+WB/DAR/78A12/2015/199
+West Bengal
+Darjeeling
+4.25 km from Algara towards  Lava
+4.25 km from Algara towards  
+Lava
+27.096775
+88.5972
+Debris
+Subsidence
+2007
+29998
+WB/KAL/78A12/2021/PDLS/323 West Bengal
+Kalimpong
+N/A
+N/A
+27.09677594
+88.60938618
+Debris
+Slide
+October 2021
+29999
+WB/DAR/78A04/2015/1260
+West Bengal
+Darjeeling
+ 
+LINGSEBONG
+27.096944
+88.094083
+Debris
+Slide
+2015
+30000
+WB/DAR/78A08/2015/1161
+West Bengal
+Darjeeling
+ 
+TAKVAR TG, LEPCHA BUSTY
+27.097
+88.253139
+Debris
+Slide
+2015
+30001
+WB/DAR/78A04/2021/PDLS/19
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.0970188
+88.23075348
+Rock
+Slide
+October 2021
+30002
+WB/DAR/78A08/2021/PDLS/37
+1
+West Bengal
+Kalimpong
+N/A
+N/A
+27.09704865
+88.46307773
+Rock
+Slide
+October 2021

@@ -1,0 +1,523 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+35987
+UK_Nainital_15
+Uttarakhand
+Nainital
+Narayan nagar, BN_4
+Bhawali Nainital road
+29.3565
+79.4073
+Rock
+Falls
+NA
+35988
+UK_Nainital_16
+Uttarakhand
+Nainital
+Narayan nagar, BN_5
+Bhawali Nainital road
+29.382697
+79.42724
+Rock cum debris
+Slide
+NA
+35989
+UK_Nainital_17, Balia Nala Slide Uttarakhand
+Nainital
+Narayan nagar, BN_6
+Bhawali Nainital road
+29.382697
+79.42724
+Rock
+Slide
+NA
+35990
+UK_Nainital_18/validated
+Uttarakhand
+Nainital
+Narayan nagar, BN_7
+Bhawali Nainital road
+29.382697
+79.42724
+Debris
+Slide
+NA
+35991
+UK_Nainital_19/validated
+Uttarakhand
+Nainital
+Narayan nagar, BN_8
+Bhawali Nainital road
+29.382697
+79.42724
+Debris
+Slide
+NA
+35992
+UK_Nainital_20
+Uttarakhand
+Nainital
+Narayan nagar, BN_9
+Bhawali Nainital road
+29.382697
+79.42724
+Debris
+Slide
+NA
+35993
+UK_Nainital_21
+Uttarakhand
+Nainital
+Narayan nagar, BN_10
+Bhawali Nainital road
+29.382697
+79.42724
+Debris
+Slide
+NA
+35994
+UK_Nainital_22
+Uttarakhand
+Nainital
+Narayan nagar, BN_11
+Bhawali Nainital road
+29.3565
+79.4073
+Debris
+Slide
+NA
+35995
+UK_Nainital_23
+Uttarakhand
+Nainital
+Narayan nagar, BN_12
+Bhawali Nainital road
+29.3565
+79.4073
+Rock
+Slide
+NA
+35996
+UK_Nainital_24, 25, 26
+Uttarakhand
+Nainital
+Narayan nagar, BN_13
+Bhawali Nainital road
+29.380077
+79.491868
+Debris
+Flows
+NA
+35997
+UK_Nainital_27
+Uttarakhand
+Nainital
+Narayan nagar, BN_14
+Bhawali Nainital road
+29.380077
+79.491868
+Debris
+Slide
+NA
+35998
+UK_Nainital_28 , 29
+Uttarakhand
+Nainital
+Narayan nagar, BN_15
+Bhawali Nainital road
+29.380077
+79.491868
+Debris
+Slide
+NA
+35999
+UK_Nainital_30
+Uttarakhand
+Nainital
+Narayan nagar, BN_16
+Bhawali Nainital road
+29.380077
+79.491868
+Debris
+Slide
+NA
+36000
+UK_Pith_71
+Uttarakhand
+Pithoragarh
+NA
+Pithoragarh Dharchula road
+29.80409
+80.265002
+Debris
+Rotational
+NA
+36001
+UK_Pith_72
+Uttarakhand
+Pithoragarh
+NA
+Ogla to pithoragarh
+29.737689
+80.272525
+Rock
+Slide
+NA
+36002
+UK_Pith_73
+Uttarakhand
+Pithoragarh
+NA
+Pithoragarh-Dharchula road
+29.683208
+80.270647
+Rock
+Falls
+NA
+36003
+UK_Pith_74
+Uttarakhand
+Pithoragarh
+NA
+Pithoragarh Dharchula road
+29.713207
+80.360451
+Rock cum debris
+Slide/ 
+subsidence
+NA
+36004
+UK_Pith_75
+Uttarakhand
+Pithoragarh
+NA
+Pithoragarh-Dharchula road 
+sector
+29.532068
+80.1569256
+Rock
+Slide
+NA
+36005
+UK_Nainital_77
+Uttarakhand
+Nainital
+NA
+Nainital Kathgodam road
+29.327219
+79.509597
+Rock
+Slide
+NA
+36006
+UK_Nainital_78
+Uttarakhand
+Nainital
+NA
+Nainital Kathgodam road
+29.323536
+79.502444
+Debris
+Slide
+NA
+36007
+UK_Nainital_79
+Uttarakhand
+Nainital
+NA
+Nainital Kathgodam road
+29.326722
+79.515402
+Debris
+Slide
+NA
+36008
+UK_Nainital_80
+Uttarakhand
+Nainital
+NA
+Nainital Kathgodam road
+29.32922
+79.517184
+Debris
+Slide
+NA
+36009
+UK_Nainital_81
+Uttarakhand
+Nainital
+NA
+Nainital Kathgodam road
+29.321538
+79.522431
+Debris
+Slide
+NA
+36010
+UK_Nainital_82
+Uttarakhand
+Nainital
+NA
+Nainital Kathgodam road
+29.317493
+79.527359
+Debris
+Slide
+NA
+36011
+UK_Nainital_83
+Uttarakhand
+Nainital
+NA
+Nainital Kathgodam road
+29.301684
+79.544196
+Debris
+Slide
+NA
+36012
+UK/RDP/53N02/2023/01
+Uttarakhand
+Rudraprayag
+Dartpool
+(NH-107)
+30.652
+79.0244
+Rock
+Fall/Topple
+02 August 2023
+36013
+UK/RDP/53N02/2023/02
+Uttarakhand
+Rudraprayag
+(NH-107)
+30.64
+79.02
+Debris
+Slide
+August 2023
+36014
+UK/RDP/53N02/2023/03
+Uttarakhand
+Rudraprayag
+(NH-107)
+30.62
+79.99
+Rock
+Slide
+July 2023 Retriggered
+36015
+UK/RDP/53N02/2023/03A
+Uttarakhand
+Rudraprayag
+Near to Sonprayag car parking
+Kund Road sector (NH-107)
+30.62897222
+78.99841667
+Rock   
+subsidence
+July 2023 reactive
+36016
+UK/RDP/53N02/2023/04
+Uttarakhand
+Rudraprayag
+(NH-107)
+30.61
+79.01
+Rock
+Slide
+08 August 2023
+36017
+UK/RDP/53N02/2023/05
+Uttarakhand
+Rudraprayag
+(NH-107)
+30.611
+79.015
+Rock
+Slide
+02nd to 10th August 2023
+36018
+UK/RDP/53N02/2023/06
+Uttarakhand
+Rudraprayag
+(NH-107)
+30.609
+79.0184
+Soil/Debris
+Subsidence
+August 2023
+36019
+UK/RDP/53N02/2023/07
+Uttarakhand
+Rudraprayag
+(NH-107)
+30.608945
+79.018388
+Soil/Debris
+Subsidence
+August 2023
+36020
+UK/RDP/53N02/2023/08
+Uttarakhand
+Rudraprayag
+(NH-107)
+30.5951
+79.0212
+Rock
+Slide
+02nd to 5th August 2023 at 6 pm
+36021
+UK/RDP/53N02/2023/09
+Uttarakhand
+Rudraprayag
+Badasu slide
+(NH-107)
+30.5942
+79.0202
+Debris
+Slide/Creep
+18 July2023  &   2nd-8th August 2023
+36022
+UK/RDP/53N02/2023/10
+Uttarakhand
+Rudraprayag
+Okhimath Water fall
+(NH-107)
+30.5942
+79.0202
+Rock
+Fall/Topple
+10th-15th August 2023
+36023
+UK/RDP/53N02/2023/11
+Uttarakhand
+Rudraprayag
+(NH-107)
+30.5824
+79.0379
+Rock
+Slide
+18 July 2023 & 10-15 August 2023
+36024
+UK/RDP/53N02/2023/11A
+Uttarakhand
+Rudraprayag
+between Phata and Badasu
+Kund Road sector (NH-107)
+30.58447222
+79.02352778
+Rock
+Slide
+August 2023 retriggered
+36025
+UK/RDP/53N02/2023/12
+Uttarakhand
+Rudraprayag
+Dhani village
+(NH-107)
+30.5745
+79.0532
+Soil /Debris
+Subsidence
+NA
+36026
+UK/RDP/53N02/2023/13
+Uttarakhand
+Rudraprayag
+Dhani-2 rock slide
+(NH-107)
+30.5747
+79.0536
+Rock
+Topple slide
+2nd  to 8th August 2023
+36027
+UK/RDP/53N02/2023/14
+Uttarakhand
+Rudraprayag
+-
+(NH-107)
+30.5746
+79.0543
+Debris
+Subsidence
+2nd  to 8th August 2023
+36028
+UK/RDP/53N02/2023/15
+Uttarakhand
+Rudraprayag
+-
+(NH-107)
+30.5745
+79.0549
+Rock
+Slide
+2nd  to 8th August 2023
+36029
+UK/RDP/53N02/2023/16
+Uttarakhand
+Rudraprayag
+Mainkhanda Gleuti slide
+(NH-107)
+30.4074
+79.0567
+Rock
+Slide
+14-15/July/2023
+36030
+UK/RDP/53N02/2023/17
+Uttarakhand
+Rudraprayag
+Mainkhanda hotel subsidence
+(NH-107)
+30.5735
+79.0567
+Debris
+Subsidence
+July 2023
+36031
+UK/RDP/53N02/2023/18
+Uttarakhand
+Rudraprayag
+(NH-107)
+30.5735
+79.0593
+Debris
+Subsidence
+July to August 2023
+36032
+UK/RDP/53N02/2023/19
+Uttarakhand
+Rudraprayag
+Paresgwari Slide
+(NH-107)
+30.5667
+79.0612
+Debris
+Subsidence
+August 2023
+36033
+UK/RDP/53N02/2023/20
+Uttarakhand
+Rudraprayag
+Hotel Sunn In Slide
+(NH-107)
+30.5655
+79.0617
+Debris
+Subsidence  (20-
+30 m)
+2nd  to 8th August 2023, 23 August 
+2023

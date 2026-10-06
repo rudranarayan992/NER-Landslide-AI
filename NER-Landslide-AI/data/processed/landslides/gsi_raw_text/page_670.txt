@@ -1,0 +1,543 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+26598
+SKM/NS/78A11/2015/82
+Sikkim
+North Sikkim
+ 
+Dikchu-Mangshila Road
+27.395556
+88.517528
+Rock
+Slide
+NA
+26599
+SKM/ES/78A11/2015/67
+Sikkim
+ East Sikkim
+ 
+North Sikkim Highway
+27.395639
+88.621667
+Debris
+Slide
+NA
+26600
+SKM/NS/78A11/2015/81
+Sikkim
+North Sikkim
+ 
+Dikchu-Mangshila Road
+27.397083
+88.519167
+Debris
+Slide
+NA
+26601
+SKM/WS/78A07/2015/375
+Sikkim
+West Sikkim
+ 
+Narkhola Road
+27.397389
+88.356139
+Rock
+Fall
+NA
+26602
+SKM/ES/78A11/2015/68
+Sikkim
+ East Sikkim
+ 
+North Sikkim Highway
+27.398083
+88.614583
+Debris
+Slide
+NA
+26603
+SKM/WS/78A07/2015/377
+Sikkim
+West Sikkim
+ 
+Narkhola Road
+27.399806
+88.329139
+Debris
+Slide
+NA
+26604
+SKM/WS/78A07/2015/376
+Sikkim
+West Sikkim
+ 
+Narkhola Road
+27.400278
+88.356861
+Debris
+Slide
+NA
+26605
+SKM/NS/78A11/2015/76
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.40825
+88.571167
+Rock
+Slide
+NA
+26606
+SKM/NS/78A11/2015/77
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.409667
+88.543722
+Rock
+Fall
+NA
+26607
+SKM/NOR/78A11/2014/007
+Sikkim
+North Sikkim
+Tanek Rockslide
+Tanek (On North-Sikkim High 
+Way)
+27.4097
+88.54371
+Rock
+Fall
+24 June 2014
+26608
+SKM/NS/78A11/2015/09
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.409861
+88.543722
+Rock
+Fall
+NA
+26609
+SKM/NS/78A11/2015/83
+Sikkim
+North Sikkim
+ 
+Dikchu-Mangshila Road
+27.411306
+88.516611
+Rock
+Slide
+NA
+26610
+SKM/NS/78A11/2015/69
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.412111
+88.627083
+Debris
+Slide
+NA
+26611
+SKM/NS/78A11/2015/03
+Sikkim
+North Sikkim
+Kabi
+North Sikkim Highway
+27.412111
+88.626944
+Debris
+Slide
+NA
+26612
+SKM/NS/78A11/2015/24
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.417306
+88.622361
+Debris
+Slide
+NA
+26613
+SKM/NS/78A11/2015/71
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.417389
+88.621222
+Debris
+Slide
+NA
+26614
+SKM/NS/78A11/2015/23
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.417444
+88.621083
+Debris
+Slide
+NA
+26615
+SKM/NS/78A11/2015/25
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.417778
+88.623389
+Rock
+Fall
+NA
+26616
+SKM/NS/78A11/2015/26
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.417972
+88.623361
+Rock
+Fall
+NA
+26617
+SKM/NS/78A11/2015/70
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.418
+88.623333
+Debris
+Slide
+NA
+26618
+SKM/NS/78A11/2015/05
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.418472
+88.616083
+Debris
+Slide
+NA
+26619
+SKM/NS/78A11/2015/06
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.418667
+88.616778
+Debris
+Slide
+NA
+26620
+SKM/NS/78A11/2015/84
+Sikkim
+North Sikkim
+ 
+Dikchu-Mangshila Road
+27.420028
+88.515944
+Rock
+Fall
+NA
+26621
+SKM/NS/78A11/2015/85
+Sikkim
+North Sikkim
+ 
+Dikchu-Mangshila Road
+27.426
+88.514
+Debris
+Slide
+NA
+26622
+SKM/NS/78A11/2015/74
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.426361
+88.583028
+Debris
+Slide
+NA
+26623
+SKM/NS/78A11/2015/75
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.426361
+88.583028
+Debris
+Slide
+NA
+26624
+SKM/NS/78A11/2015/72
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.429556
+88.611667
+Debris
+Slide
+NA
+26625
+SKM/NS/78A11/2015/86
+Sikkim
+North Sikkim
+ 
+Dikchu-Mangshila Road
+27.433083
+88.514528
+Debris
+Slide
+NA
+26626
+SKM/NS/78A11/2015/87
+Sikkim
+North Sikkim
+ 
+Dikchu-Mangshila Road
+27.435944
+88.515167
+Rock
+Slide
+NA
+26627
+SKM/NS/78A11/2015/10
+Sikkim
+North Sikkim
+Sheyam
+North Sikkim Highway
+27.436556
+88.526639
+Debris
+Slide
+NA
+26628
+SKM/NS/78A11/2015/73
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.437444
+88.613972
+Debris
+Slide
+NA
+26629
+SKM/NS/78A11/2015/07
+Sikkim
+North Sikkim
+Chawang
+North Sikkim Highway
+27.437889
+88.601694
+Debris
+Slide
+NA
+26630
+SKM/NS/78A11/2015/08
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.437889
+88.601694
+Debris
+Slide
+NA
+26631
+SKM/NS/78A11/2015/11
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.438139
+88.527028
+Debris
+Slide
+NA
+26632
+SKM/NS/78A11/2015/88
+Sikkim
+North Sikkim
+ 
+Dikchu-Mangshila Road
+27.438389
+88.514389
+Debris
+Slide
+NA
+26633
+SKM/NS/78A11/2015/12
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.438778
+88.527444
+Debris
+Slide
+NA
+26634
+SKM/NS/78A11/2015/89
+Sikkim
+North Sikkim
+ 
+Dikchu-Mangshila Road
+27.441056
+88.513694
+Rock
+Slide
+NA
+26635
+SKM/NS/78A11/2015/90
+Sikkim
+North Sikkim
+ 
+Dikchu-Mangshila Road
+27.448306
+88.519667
+Debris
+Slide
+NA
+26636
+SKM/NS/78A11/2015/91
+Sikkim
+North Sikkim
+ 
+Dikchu-Mangshila Road
+27.461694
+88.523472
+Debris
+Slide
+NA
+26637
+SKM/NS/78A11/2015/92
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.4795
+88.528472
+Rock
+Slide
+NA
+26638
+SKM/NS/78A11/2015/95
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.480472
+88.531194
+Rock
+Slide
+NA
+26639
+SKM/NS/78A11/2015/96
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.481083
+88.530667
+Debris
+Slide
+NA
+26640
+SKM/NS/78A11/2015/93
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.482583
+88.52875
+Rock
+Slide
+NA
+26641
+SKM/NS/78A11/2015/94
+Sikkim
+North Sikkim
+ 
+North Sikkim Highway
+27.482583
+88.529528
+Debris
+Slide
+NA
+26642
+SKM/NOR/78A11/2014/006
+Sikkim
+North Sikkim
+Ambithang Landslide
+Ambithang (On Rangrang-
+Mangan road )
+27.48603
+88.53269
+Debris
+Slide
+8 July 2014
+26643
+SKM/NS/78A10/2017/166
+Sikkim
+North Sikkim
+Mangan
+NH
+27.502
+88.5375
+Debris
+Slide
+NA
+26644
+SKM/NOR/78A10/2014/004
+Sikkim
+North Sikkim
+Pakshek Landslide
+Pakshek ( Mangan-Chungthang 
+road on North highway)
+27.5091
+88.53848
+Rock
+Slide
+1 July 2014
+26645
+SKM/NS/78A10/2017/169
+Sikkim
+North Sikkim
+Lanthey Khola
+NH
+27.514972
+88.565472
+Debris
+Slide
+NA

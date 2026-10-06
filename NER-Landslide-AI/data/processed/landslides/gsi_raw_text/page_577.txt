@@ -1,0 +1,457 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22701
+MZ/AZL/84A10/2024/001
+Mizoram
+Aizawl
+Luangmual, Aizawl
+23.73888889
+92.69638889
+Debris
+Slide
+28 May 2024
+22702
+MZ/AZL/84A10/2024/002
+Mizoram
+Aizawl
+Luangmual, Aizawl
+23.73947222
+92.69666667
+Debris
+Complex
+28 May 2024
+22703
+MZ/AZL/84A10/2024/003
+Mizoram
+Aizawl
+Luangmual, Aizawl
+23.74027778
+92.69722222
+Earth
+Slide
+28 May 2024
+22704
+MZ/AZL/84A10/2024/004
+Mizoram
+Aizawl
+Luangmual, Aizawl
+23.74066667
+92.69336111
+Debris
+Slide
+28 May 2024
+22705
+MZ/AZL/84A10/2024/005
+Mizoram
+Aizawl
+Mizoram Law College, 
+Luangmual, Aizawl
+23.7385748
+92.6941941
+Debris
+Slide
+28 May 2024
+22706
+MZ/AZL/84A10/2024/006
+Mizoram
+Aizawl
+R Romawia (L) Chawlhhmun, 
+Aizawl
+23.74472222
+92.69277778
+Debris
+Slide
+28 May 2024
+22707
+MZ/AZL/84A10/2024/007
+Mizoram
+Aizawl
+Luangmual, Aizawl
+23.74116667
+92.69455556
+Debris
+Slide
+28 May 2024
+22708
+MZ/AZL/84A10/2024/008
+Mizoram
+Aizawl
+Luangmual - Ainawn road, 
+Aizawl
+23.7375
+92.69444444
+Debris
+Slide
+28 May 2024
+22709
+MZ/AZL/84A10/2024/009
+Mizoram
+Aizawl
+Luangmual-Ainawn road, Aizawl 23.73386111
+92.69491667
+Debris
+Complex
+28 May 2024
+22710
+MZ/AZL/84A10/2024/010
+Mizoram
+Aizawl
+Ainawn Veng, Aizawl
+23.72669444
+92.69519444
+Debris
+Complex
+28 May 2024
+22711
+MZ/AZL/84A10/2024/011
+Mizoram
+Aizawl
+Ainawn, Aizawl.
+23.73361111
+92.69388889
+Earth
+Slide
+28 May 2024
+22712
+MZ/AZL/84A10/2024/012
+Mizoram
+Aizawl
+Zonuam, Aizawl
+23.73472222
+92.695
+Earth
+Slide
+28 May 2024
+22713
+MZ/AZL/84A10/2024/013
+Mizoram
+Aizawl
+Zonuam, Aizawl
+23.73416667
+92.69805556
+Debris
+Slide
+July 2023
+22714
+MZ/AZL/84A10/2024/014
+Mizoram
+Aizawl
+Zonuam, Aizawl
+23.73305556
+92.69944444
+Debris
+Slide
+28 May 2024
+22715
+MZ/AZL/84A10/2024/015
+Mizoram
+Aizawl
+Zonuam, Aizawl
+23.74972222
+92.69833333
+Debris
+Slide
+28 May 2024
+22716
+MZ/AZL/84A10/2024/016
+Mizoram
+Aizawl
+Chawnpui, Aizawl
+23.73111111
+92.70222222
+Debris
+Slide
+28 May 2024
+22717
+MZ/AZL/84A10/2024/017
+Mizoram
+Aizawl
+Chawnpui, Aizawl
+23.73111111
+92.70388889
+Debris
+Slide
+28 May 2024
+22718
+MZ/AZL/84A10/2024/018
+Mizoram
+Aizawl
+Chawnpui, Aizawl
+23.73333333
+92.70527778
+Debris
+Slide
+28 May 2024
+22719
+MZ/AZL/84A10/2024/019
+Mizoram
+Aizawl
+Chawnpui, Aizawl
+23.731
+92.70644444
+Debris
+Slide
+June 2023
+22720
+MZ/AZL/84A10/2024/020
+Mizoram
+Aizawl
+Zonuam, Aizawl
+23.73583333
+92.69777778
+Debris
+Slide
+28 May 2024
+22721
+MZ/AZL/84A10/2024/021
+Mizoram
+Aizawl
+Kanaan Cemetery, Aizawl
+23.73132778
+92.70821944
+Debris
+Slide
+28 May 2024
+22722
+MZ/AZL/84A10/2024/022
+Mizoram
+Aizawl
+MINECO, Aizawl
+23.72428333
+92.70737778
+Debris
+Slide
+28 May 2024
+22723
+MZ/AZL/84A10/2024/023
+Mizoram
+Aizawl
+Bungkawn, Aizawl
+23.72276944
+92.70665
+Debris
+Slide
+28 May 2024
+22724
+MZ/AZL/84A10/2024/024
+Mizoram
+Aizawl
+Mission Vengthlang, Aizawl
+23.71446389
+92.71146389
+Debris
+Flow
+28 May 2024
+22725
+MZ/AZL/84A10/2024/025
+Mizoram
+Aizawl
+MSVT to Reiek Road, Aizawl
+23.71581111
+92.70935
+Debris
+Slide
+28 May 2024
+22726
+MZ/AZL/84A10/2024/026
+Mizoram
+Aizawl
+Bungkawn, Nursery, Aizawl
+23.71595
+92.70879444
+Debris
+Complex
+28 May 2024
+22727
+MZ/AZL/84A10/2024/027
+Mizoram
+Aizawl
+Nursery Veng, Aizawl
+23.7175
+92.70666667
+Earth
+Slide
+28 May 2024
+22728
+MZ/AZL/84A10/2024/0028
+Mizoram
+Aizawl
+Nursery Veng, Aizawl
+23.71740833
+92.70644167
+Earth
+Slide
+28 May 2024
+22729
+MZ/AZL/84A10/2024/029
+Mizoram
+Aizawl
+Nursery Veng, Aizawl
+23.71735556
+92.70753333
+Earth
+Complex
+28 May 2024
+22730
+MZ/AZL/84A10/2024/030
+Mizoram
+Aizawl
+Nursery Veng, Aizawl
+23.71721667
+92.70777778
+Debris
+Slide
+28 May 2024
+22731
+MZ/AZL/84A10/2024/031
+Mizoram
+Aizawl
+Nursery Veng, Aizawl
+23.71697222
+92.70817222
+Debris
+Complex
+28 May 2024
+22732
+MZ/AZL/84A10/2024/032
+Mizoram
+Aizawl
+Mission Vengthlang, Aizawl
+23.71305556
+92.70895833
+Debris
+Slide
+28 May 2024
+22733
+MZ/AZL/84A10/2024/033
+Mizoram
+Aizawl
+Model Veng, Aizawl
+23.71523056
+92.71529167
+Debris
+Slide
+28 May 2024
+22734
+MZ/AZL/84A10/2024/034
+Mizoram
+Aizawl
+Chanmari-Chanmari West, 
+Aizawl
+23.74
+92.715
+Debris
+Complex
+28 May 2024
+22735
+MZ/AZL/84A10/2024/035
+Mizoram
+Aizawl
+Chanmari-Chanmari west, 
+Aizawl
+23.73944444
+92.71472222
+Rock
+Fall
+28 May 2024
+22736
+MZ/AZL/84A10/2024/036
+Mizoram
+Aizawl
+Salem Veng, Aizawl
+23.71138889
+92.72444444
+Earth
+Slide
+28 May 2024
+22737
+MZ/AZL/84A10/2024/037
+Mizoram
+Aizawl
+Mission Veng, Aizawl
+23.71638889
+92.72111111
+Debris
+Slide
+28 May 2024
+22738
+MZ/AZL/84A10/2024/038
+Mizoram
+Aizawl
+Salem Veng, Aizawl
+23.71444444
+92.72861111
+Debris
+Slide
+28 May 2024
+22739
+MZ/AZL/84A10/2024/039
+Mizoram
+Aizawl
+ITI Cemetery, Aizawl
+23.71996389
+92.73328889
+Debris
+Slide
+1998 & 2020
+22740
+MZ/AZL/84A10/2024/040
+Mizoram
+Aizawl
+Salem Veng, Aizawl
+23.71583333
+92.72444444
+Rock
+Complex
+NA
+22741
+MZ/AZL/84A10/2024/041
+Mizoram
+Aizawl
+Salem Veng cemetery, Aizawl
+23.71571389
+92.72659722
+Debris
+Slide
+28 May 2024
+22742
+MZ/AZL/84A10/2024/042
+Mizoram
+Aizawl
+Venghnuai, Aizawl
+23.7104
+92.72237778
+Debris
+Slide
+28 May 2024
+22743
+MZ/AZL/84A10/2024/043
+Mizoram
+Aizawl
+Republic Veng, Aizawl
+23.71865833
+92.72335278
+Debris
+Complex
+28 May 2024
+22744
+MZ/AZL/84A10/2024/044
+Mizoram
+Aizawl
+Republic Veng, Lungli Road, 
+Aizawl
+23.7175
+92.71972222
+Debris
+Complex
+19 September 2023

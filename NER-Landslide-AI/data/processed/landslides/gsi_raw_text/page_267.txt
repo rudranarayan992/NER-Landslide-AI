@@ -1,0 +1,481 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11584
+KA/CHI/48O11/2017/25
+Karnataka
+Chikmagalur
+Gutti village area
+GuttiKotrakere road section
+13.091597
+75.556144
+Debris
+Slide
+NA
+11585
+KA/CHI/48O08/2017/39
+Karnataka
+Chikmagalur
+South of Bidaratale
+Kotighere  Ujire (NH  73)
+13.091688
+75.479002
+Rock
+Slide
+NA
+11586
+KA/CHI/48O08/2017/38
+Karnataka
+Chikmagalur
+South of Bidaratale
+Kotighere  Ujire (NH  73)
+13.092426
+75.478595
+Debris
+Slide
+NA
+11587
+KA/CHI/48O08/2017/37
+Karnataka
+Chikmagalur
+South of Bidaratale
+Kotighere  Ujire (NH  73)
+13.094038
+75.478104
+Debris
+Slide
+NA
+11588
+KA/CHI/48O08/2017/36
+Karnataka
+Chikmagalur
+South of Bidaratale
+Kotighere  Ujire (NH  73)
+13.094198
+75.47805
+Debris
+Slide
+NA
+11589
+KA/CHI/48O08/2017/35
+Karnataka
+Chikmagalur
+South of Bidaratale
+Kotighere  Ujire (NH  73)
+13.095556
+75.477688
+Debris
+Slide
+NA
+11590
+KA/CHI/48O08/2017/33
+Karnataka
+Chikmagalur
+South of Bidaratale
+Kotighere  Ujire (NH  73)
+13.097514
+75.480175
+Rock
+Fall
+NA
+11591
+KA/CHI/48O08/2017/32
+Karnataka
+Chikmagalur
+South of Bidaratale
+Kotighere  Ujire (NH  73)
+13.097539
+75.480859
+Rock
+Slide
+NA
+11592
+KA/CHI/48O08/2017/34
+Karnataka
+Chikmagalur
+South of Bidaratale
+Kotighere  Ujire (NH  73)
+13.097911
+75.479737
+Rock
+Fall
+NA
+11593
+KA/CHI/48O08/2017/31
+Karnataka
+Chikmagalur
+South of Bidaratale
+Kotighere  Ujire (NH  73)
+13.098378
+75.481485
+Debris
+Slide
+NA
+11594
+KA/UDU/48K16/2020/12
+Karnataka
+Udupi
+Poopadikallu
+Poopadikallu
+13.1
+74.93
+Debris
+Flow
+2018
+11595
+KA/UDU/48K16/2020/13
+Karnataka
+Udupi
+Poopadikallu
+Poopadikallu
+13.1
+74.94
+Debris
+Slide
+NA
+11596
+KA/CHI/48O08/2017/30
+Karnataka
+Chikmagalur
+South East of Bidaratale
+Kotighere  Ujire (NH  73)
+13.100089
+75.482283
+Rock
+Fall
+NA
+11597
+KA/CHI/48O08/2017/29
+Karnataka
+Chikmagalur
+South East of Bidaratale
+Kotighere  Ujire (NH  73)
+13.104048
+75.483368
+Debris
+Slide
+NA
+11598
+KA/CHI/48O08/2017/27
+Karnataka
+Chikmagalur
+North East of Bidaratale
+Kotighere  Ujire (NH  73)
+13.109467
+75.486746
+Debris
+Slide
+NA
+11599
+KA/CHI/48O08/2017/28
+Karnataka
+Chikmagalur
+North East of Bidaratale
+Kotighere  Ujire (NH  73)
+13.109508
+75.486283
+Rock
+Fall
+NA
+11600
+KA/DAK/48K16/2020/1
+Karnataka
+Dakshin Kannad
+Kadandale
+1.5km NW of Poopadikallu
+13.11
+74.92
+Debris
+Slide
+NA
+11601
+KA/DAK/48K16/2020/2
+Karnataka
+Dakshin Kannad
+Kadandale
+Kadandale village
+13.11
+74.92
+Earth
+Slide
+NA
+11602
+KA/DAK/48K16/2020/3
+Karnataka
+Dakshin Kannad
+Kadandale
+Kadandale village
+13.11
+74.92
+Earth
+Slide
+NA
+11603
+KA/DAK/48K16/2020/4
+Karnataka
+Dakshin Kannad
+Kadandale
+NH
+13.11
+74.92
+Debris
+Slide
+NA
+11604
+KA/DAK/48K16/2020/5
+Karnataka
+Dakshin Kannad
+Kadandale
+Near Kadandale village
+13.11
+74.96
+Earth
+Slide
+NA
+11605
+KA/CHI/48O08/2017/24
+Karnataka
+Chikmagalur
+North East of Bidaratale
+Kotighere  Ujire (NH  73)
+13.113224
+75.495712
+Debris
+Slide
+NA
+11606
+KA/CHI/48O08/2017/25
+Karnataka
+Chikmagalur
+North East of Bidaratale
+Kotighere  Ujire (NH  73)
+13.113604
+75.494931
+Debris
+Slide
+NA
+11607
+KA/CHI/48O08/2017/26
+Karnataka
+Chikmagalur
+North East of Bidaratale
+Kotighere  Ujire (NH  73)
+13.113956
+75.493981
+Debris
+Slide
+NA
+11608
+KA/CHI/48O08/2017/23
+Karnataka
+Chikmagalur
+North East of Bidaratale
+Kotighere  Ujire (NH  73)
+13.114037
+75.496895
+Debris
+Slide
+NA
+11609
+KA/CHI/48O08/2017/22
+Karnataka
+Chikmagalur
+North East of Bidaratale
+Kotighere  Ujire (NH  73)
+13.114205
+75.496927
+Debris
+Slide
+NA
+11610
+KA/CHI/48O08/2017/21
+Karnataka
+Chikmagalur
+North East of Bidaratale
+Kotighere  Ujire (NH  73)
+13.11453
+75.49693
+Debris
+Slide
+NA
+11611
+KA/CHI/48O08/2017/20
+Karnataka
+Chikmagalur
+North East of Bidaratale
+Kotighere  Ujire (NH  73)
+13.116455
+75.49638
+Debris
+Slide
+NA
+11612
+KA/CHI/48O12/2017/23
+Karnataka
+Chikmagalur
+Kotigehara village area
+Ktigehara road section
+13.117922
+75.513139
+Debris
+Slide
+NA
+11613
+KA/CHI/48O12/2017/25
+Karnataka
+Chikmagalur
+Kotigehara village area
+Kotighera road section
+13.117933
+75.505292
+Debris
+Slide
+NA
+11614
+KA/CHI/48O12/2017/26
+Karnataka
+Chikmagalur
+Kotigehara village area
+Kotighera road section
+13.118603
+75.503969
+Debris
+Slide
+NA
+11615
+KA/CHI/48O08/2017/19
+Karnataka
+Chikmagalur
+North East of Bidaratale
+Kotighere  Ujire (NH  73)
+13.118986
+75.495379
+Debris
+Slide
+NA
+11616
+KA/CHI/48O08/2017/18
+Karnataka
+Chikmagalur
+North East of Bidaratale
+Kotighere  Ujire (NH  73)
+13.119369
+75.495297
+Debris
+Slide
+NA
+11617
+KA/CHI/48O12/2017/27
+Karnataka
+Chikmagalur
+Kotigehara village area
+Kotighera road section
+13.119397
+75.503161
+Debris
+Slide
+NA
+11618
+KA/CHI/48O12/2017/28
+Karnataka
+Chikmagalur
+Kotigehara village area
+Kotighera road section
+13.119997
+75.502342
+Debris
+Slide
+NA
+11619
+KA/UDU/48K16/2020/17
+Karnataka
+Udupi
+Kadandale slide
+Kadandale village
+13.12
+74.93
+Earth
+Flow
+NA
+11620
+KA/CHI/48O12/2017/24
+Karnataka
+Chikmagalur
+Kotigehara village area
+Kotighera road section
+13.120233
+75.511756
+Debris
+Slide
+NA
+11621
+KA/CHI/48O12/2017/22
+Karnataka
+Chikmagalur
+1.8 km from Kotighera
+Channahodlu to Kotigehara 
+road
+13.129167
+75.5147
+Debris
+Slide
+NA
+11622
+KA/CHI/48O12/2017/2
+Karnataka
+Chikmagalur
+164m from KAR/CHK/2017/02 on 
+NH234
+Hebbarige village near Banakal 
+on NH234
+13.131406
+75.542392
+Debris
+Slide
+NA
+11623
+KA/CHI/48O12/2017/1
+Karnataka
+Chikmagalur
+Hebbarige village near Banakal on 
+NH234
+NH234
+13.132053
+75.543775
+Debris
+Slide
+NA
+11624
+KA/CHI/48O12/2017/21
+Karnataka
+Chikmagalur
+ChandugoduKanegadde village area
+30 from Slide no.19, 
+ChandugoduKanegadde road 
+section
+13.137
+75.508542
+Debris
+Slide
+NA
+11625
+KA/CHI/48O11/2017/26
+Karnataka
+Chikmagalur
+Bapujinagra  village area
+Mudigere Bapujinagra road 
+section
+13.13935
+75.636272
+Debris
+Slide
+NA

@@ -1,0 +1,378 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12883
+KRL/KOL/58H01/2015/35
+Kerala
+Kollam
+Near Umi Ar
+Thenmala Village
+8.832028
+77.190336
+Debris
+Slide
+1992
+12884
+KRL/KOL/58H01/2015/33
+Kerala
+Kollam
+Near Ambakallu Mottai
+Ariyankavu Village
+8.842944
+77.155417
+Debris
+Flow
+2014
+12885
+KRL/KOL/58H01/2015/34
+Kerala
+Kollam
+Near Umi Ar
+Thenmala Village
+8.846797
+77.176111
+Rock
+Slide
+1992
+12886
+KRL/KOL/58D13/2015/28
+Kerala
+Kollam
+Anakulam
+Channappeta Village
+8.871111
+76.978056
+Debris
+Slide
+1984
+12887
+KRL/TVN/58D13/2015/44
+Kerala
+Thiruvananthapuram
+Chinikal
+Peringamala Village
+8.88925
+77.016916
+Debris
+Slide
+1992
+12888
+KRL/KOL/58D13/2015/27
+Kerala
+Kollam
+Uchikunnu,Kittamkonam chatuppu
+Edamon Village
+8.913889
+76.988889
+Debris
+Slide
+2006
+12889
+KRL/KOL/58H01/2015/36
+Kerala
+Kollam
+Tirthakara malai
+Thenmala Village
+8.944806
+77.147503
+Debris
+Flow
+1992
+12890
+KRL/KOL/58H01/2015/26
+Kerala
+Kollam
+Tekumala
+Edamon Village
+8.951111
+77.049444
+Debris
+Slide
+2012
+12891
+KRL/KOL/58H01/2015/39
+Kerala
+Kollam
+Chenkottai Kollam metergauge
+Thenmala Village
+8.96125
+77.135342
+Debris
+Slide
+1992
+12892
+KRL/KOL/58H01/2015/37
+Kerala
+Kollam
+Chenkottai Kollam metergauge and 
+Suvaranagiri Ar.
+Thenmala Village
+8.964111
+77.139056
+Debris
+Flow
+1984
+12893
+KRL/KOL/58H01/2015/24
+Kerala
+Kollam
+Thenmala near 13 Tonnes Bridge
+Thenmala Village
+8.965528
+77.090472
+Debris
+Flow
+1992
+12894
+KRL/KOL/58H01/2015/38
+Kerala
+Kollam
+Chenkottai Kollam metergauge
+Thenmala Village
+8.968028
+77.13825
+Debris
+Flow
+1984
+12895
+KRL/KOL/58H01/2015/32
+Kerala
+Kollam
+Ariyankavu
+Ariyankavu Village
+8.971278
+77.155222
+Debris
+Flow
+1992
+12896
+KRL/KOL/58H01/2015/30
+Kerala
+Kollam
+Suvarnagiri
+Ariyankavu Village
+8.984111
+77.131806
+Debris
+Slide
+2014
+12897
+KRL/KOL/58H01/2015/23
+Kerala
+Kollam
+St .George Malakkara Catholic Church 
+,
+Thenmala Village
+8.984972
+77.160667
+Debris
+Flow
+1986
+12898
+KRL/KOL/58H01/2015/29
+Kerala
+Kollam
+Kadamanpara
+Kulathupuzha Village
+8.999222
+77.13325
+Debris
+Slide
+1992
+12899
+KRL/KOL/58H01/2015/31
+Kerala
+Kollam
+near  Anachadi
+Ariyankavu Village
+8.999972
+77.10525
+Debris
+Slide
+1992
+12900
+KRL/KOL/58H02/2015/25
+Kerala
+Kollam
+Harison Malayalam
+Thenmala Village
+9
+77.092389
+Debris
+Flow
+1992
+12901
+KRL/Kollam/58G04/2016-17/17 Kerala
+Kollam
+Korvantalam Debris Flow -4
+Korvantalam -chemmannunti 
+road
+9.000914
+77.046006
+Debris
+Flow
+1992
+12902
+KRL/Kollam/58G04/2016-17/16 Kerala
+Kollam
+Korvantalam RDebris Flow-3
+Korvantalam -chemmannunti 
+road
+9.002625
+77.042514
+Debris
+Flow
+1992
+12903
+KRL/Kollam/58G04/2016-17/15 Kerala
+Kollam
+KorvantalamDebris Flow -2
+Korvantalam -chemmannunti 
+road
+9.003225
+77.041883
+Debris
+Flow
+1992
+12904
+KRL/Kollam/58G04/2016-17/14 Kerala
+Kollam
+Korvantalam Debris Flow -1
+Korvantalam -chemmannunti 
+road
+9.011014
+77.037508
+Debris
+Flow
+1992
+12905
+KRL/Kollam/58G04/2016-17/13 Kerala
+Kollam
+Chemmannutti Debris Flow -2
+Chemmannuntti village
+9.019408
+77.049903
+Debris
+Flow
+1992
+12906
+KRL/Kollam/58G04/2016-17/12 Kerala
+Kollam
+Chemmannutti Debris Flow -1
+Chemmannuntti village
+9.022806
+77.054992
+Debris
+Flow
+1992
+12907
+KRL/Kollam/58G04/2016-17/09 Kerala
+Kollam
+Ambanad  Debris Slide
+Ambanad tea estate
+9.031964
+77.102208
+Debris
+Slide
+NA
+12908
+KRL/Kollam/58G04/2016-17/10 Kerala
+Kollam
+Taletotam Debris Slide
+Taletottam village
+9.041661
+77.078336
+Debris
+Slide
+NA
+12909
+KRL/Kollam/58G04/2016-17/11 Kerala
+Kollam
+Taletotam Debris Slide
+Taletottam village
+9.044042
+77.070014
+Debris
+Slide
+NA
+12910
+KRL/Kollam/58C16/2016-17/02
+Kerala
+Kollam
+Kottakayam multiple Rock wedge 
+failure
+Perunthol-Kottakayam road
+9.071744
+76.997411
+Rock
+Fall
+NA
+12911
+KRL/Kollam/58G04/2016-17/04 Kerala
+Kollam
+Mutala todu Debris Slide
+Mutala todu village
+9.074494
+77.133522
+Debris
+Slide
+NA
+12912
+KRL/Kollam/58G04/2016-17/07 Kerala
+Kollam
+Kumbhavurutty Debris Flow
+Achankovil-kotavasal road
+9.077017
+77.170594
+Debris
+Flow
+NA
+12913
+KRL/Kollam/58G04/2016-17/08 Kerala
+Kollam
+Achankovil Debris Slide
+Achankovil village
+9.079019
+77.123406
+Debris
+Slide
+NA
+12914
+KRL/Kollam/58G04/2016-17/06 Kerala
+Kollam
+Vala Lakshmi Debris Flow
+Achankovil-kotavasal road
+9.080303
+77.165261
+Debris
+Flow
+NA
+12915
+KRL/Kollam/58G04/2016-17/05 Kerala
+Kollam
+Vala Lakshmi Debris Slide
+Achankovil-kotavasal road
+9.082639
+77.160867
+Debris
+Slide
+NA
+12916
+KRL/Kollam/58G04/2016-17/23 Kerala
+Kollam
+Achankovil Debris Flow
+Achankovil village
+9.099117
+77.100708
+Debris
+Flow
+1992

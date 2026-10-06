@@ -1,0 +1,326 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30185
+WB/KAL/78A12/2021/PDLS/303 West Bengal
+Kalimpong
+N/A
+N/A
+27.11716346
+88.58184707
+Debris
+Slide
+October 2021
+30186
+WB/DAR/78A12/2015/1329
+West Bengal
+Darjeeling
+ALGARA MARKET
+ALGARA, KALIMPONG
+27.117167
+88.568306
+Debris
+Subsidence
+1987
+30187
+WB/DAR/78A12/2015/1368
+West Bengal
+Darjeeling
+SANGSAR,KALIMPONG
+SANGSAR,KALIMPONG
+27.117472
+88.529833
+Debris
+Slide
+2016
+30188
+WB/DARJ/78A08/2007/0295
+West Bengal
+Darjeeling
+ 
+39.9 km from Sevok(Tiger 
+Bridge) on NH-31A towards 
+Gangtok
+27.118
+88.477
+Debris
+Slide
+NA
+30189
+WB/DAR/78A04/2015/1256
+West Bengal
+Darjeeling
+ 
+TAKBIA
+27.118
+88.221278
+Rock cum Debris
+Slide
+2016
+30190
+WB/DAR/78A16/2015/303
+West Bengal
+Darjeeling
+KIRING
+KIRING CHU
+27.118444
+88.77631
+Debris
+Slide
+2013
+30191
+WB/DAR/78A04/2015/9
+West Bengal
+Darjeeling
+At around 2.5km from Forebay 
+towards  Intake on Forebay-Intake  
+road of Rammam Hydel Project Stage-
+*
+At around 2.5km from Forebay 
+towards  Power house on 
+Forebay-Power house road of 
+Rammam Hydel Project Stage-II
+27.118635
+88.121912
+Rock cum Debris
+Slide
+1987
+30192
+WB/DAR/78A04/2021/PDLS/25
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.11872563
+88.24855474
+Debris
+Slide
+October 2021
+30193
+WB/DAR/78A04/2015/1491
+West Bengal
+Darjeeling
+ 
+ 
+27.11898
+88.214652
+Debris
+Slide
+2014
+30194
+WB/DARJ/78A08/2007/0301
+West Bengal
+Darjeeling
+ 
+41.75 km from Sevok on NH-
+31A towards Gangtok
+27.119
+88.491
+Debris
+Flow
+NA
+30195
+WB/DARJ/78A08/2007/0298
+West Bengal
+Darjeeling
+ 
+40.30 km from Sevok on NH-
+31A towards Gangtok
+27.119
+88.487
+Debris
+Slide
+NA
+30196
+WB/DAR/78A08/2015/117
+West Bengal
+Darjeeling
+NH-31A 40 km  from Sevok(Tiger 
+Bridge) towards  Gangtok
+40 km on NH-31A
+27.119055
+88.490127
+Rock
+Slide
+2012
+30197
+WB/DAR/78A04/2015/1213
+West Bengal
+Darjeeling
+ 
+KOLBONG
+27.119111
+88.187333
+Rock
+Slide
+2014
+30198
+WB/DAR/78A04/2015/10
+West Bengal
+Darjeeling
+At around 2.8km from Forebay 
+towards  Intake on Forebay-Intake  
+road of Rammam Hydel Project Stage-
+*
+At around 2.8km from Forebay 
+towards  Power house on 
+Forebay-Power house road of 
+Rammam Hydel Project Stage-II
+27.119316
+88.119708
+Rock
+Slide
+1987
+30199
+WB/DAR/78A12/2015/1369
+West Bengal
+Darjeeling
+SANGSAR (NEAR BHAGEY 
+VILLAGE),KALIMPONG
+SANGSAR,KALIMPONG
+27.119389
+88.523083
+Debris
+Subsidence
+2015
+30200
+WB/DAR/78A04/2021/PDLS/25
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.11939025
+88.24893539
+Debris
+Slide
+October 2021
+30201
+WB/DAR/78A08/2021/PDLS/25
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.11966199
+88.25187413
+Rock
+Slide
+October 2021
+30202
+WB/DAR/78A08/2021/PDLS/37
+5
+West Bengal
+Kalimpong
+N/A
+N/A
+27.11979625
+88.48626292
+Debris
+Slide
+October 2021
+30203
+WB/DAR/78A12/2015/1492
+West Bengal
+Darjeeling
+ 
+ 
+27.119812
+88.5074
+Debris
+Slide
+2014
+30204
+WB/DAR/78A08/2021/PDLS/25
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.11984822
+88.25022171
+Debris
+Slide
+Oct-21
+30205
+WB/DAR/78A08/2021/PDLS/24
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.11998649
+88.28885163
+Debris
+Slide
+Oct-21
+30206
+WB/DARJ/78A04/1991/0250
+West Bengal
+Darjeeling
+ 
+Near Barahatta village, on 
+project road connecting 
+Rammam Hydel Project Stage-II
+27.12
+88.12
+Debris
+Slide
+NA
+30207
+WB/DARJ/78A08/2007/0299
+West Bengal
+Darjeeling
+ 
+40.60 km from Sevok on NH-
+31A towards Gangtok
+27.12
+88.489
+Debris
+Flow
+NA
+30208
+WB/DARJ/78A08/2012/0296
+West Bengal
+Darjeeling
+ 
+40 km on NH-31A
+27.12
+88.486
+Rock
+Slide
+2012
+30209
+WB/DAR/78A08/2021/PDLS/24
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12010918
+88.29318094
+Debris
+Slide
+October 2021
+30210
+WB/DAR/78A08/2021/PDLS/24
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12044446
+88.28813052
+Debris
+Slide
+October 2021

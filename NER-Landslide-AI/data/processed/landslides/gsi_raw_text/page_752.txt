@@ -1,0 +1,386 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29617
+WB/DARJ/78A12/2007/0042
+West Bengal
+Darjeeling
+4th mile
+4 mile from Chitre towards 
+Algara on Chitre-Algara road
+27.0613
+88.4439
+Rock
+Slide
+2007
+29618
+WB/DARJ/78A12/2007/0043
+West Bengal
+Darjeeling
+Chitre Junction
+0.5 mile from Chitre towards 
+Algara on Chitre-Algara road
+27.0613
+88.444
+Debris
+Subsidence
+2007
+29619
+WB/DAR/78A12/2015/225
+West Bengal
+Darjeeling
+12.2 km on Relli-Lolegaon road
+12.2 km on Relli-Lolegaon road
+27.061644
+88.56757
+Rock
+Slide
+2012
+29620
+WB/DAR/78A04/2021/PDLS/29
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06168611
+88.24816439
+Debris
+Slide
+October 2021
+29621
+WB/DAR/78A08/2015/1461
+West Bengal
+Darjeeling
+ 
+ 
+27.061813
+88.312828
+Debris
+Slide
+2014
+29622
+WB/DAR/78A04/2015/1221
+West Bengal
+Darjeeling
+ 
+LAMAGAON
+27.061889
+88.148
+Rock cum Debris
+Slide
+2014
+29623
+WB/DARJ/78A12/2007/0016
+West Bengal
+Darjeeling
+WP513
+Parakheti-Lava road
+27.062
+88.6754
+Debris
+Slide
+2007
+29624
+WB/DAR/78A12/2015/832
+West Bengal
+Darjeeling
+Kolbong/Nim busty
+Kolbong/
+Nim busty,
+Kalimpong Subdivision
+27.062056
+88.648611
+Rock
+Slide
+2015
+29625
+WB/DAR/78A08/2015/92
+West Bengal
+Darjeeling
+Santi Parbat near house of Basant 
+Ghising
+ 
+27.062361
+88.257667
+Debris
+Slide
+2009
+29626
+WB/DAR/78A08/2015/1507
+West Bengal
+Darjeeling
+ 
+KHANI
+27.062377
+88.257696
+Debris
+Slide
+2014
+29627
+WB/DAR/78A08/2015/1462
+West Bengal
+Darjeeling
+ 
+ 
+27.062724
+88.298918
+Debris
+Slide
+2014
+29628
+WB/DAR/78A04/2015/1219
+West Bengal
+Darjeeling
+ 
+LAMA GAON
+27.06275
+88.155417
+Debris
+Subsidence
+2014
+29629
+WB/DAR/78A12/2015/260
+West Bengal
+Darjeeling
+12.0 km on Pala-Lulegaon Road
+Pala-Lulegaon Road
+27.062786
+88.565429
+Rock
+Slide
+2013
+29630
+WB/DAR/78A08/2015/97
+West Bengal
+Darjeeling
+Santi Parbat  P.O. North Point, Near 
+Singhamari
+ 
+27.062861
+88.254667
+Debris
+Slide
+2009
+29631
+WB/DAR/78A12/2015/1371
+West Bengal
+Darjeeling
+MELLI ROAD
+LOLEY
+27.063
+88.555278
+Debris
+Slide
+2016
+29632
+WB/DAR/78A04/2021/PDLS/60
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06304124
+88.09060469
+Debris
+Slide
+October 2021
+29633
+WB/DAR/78A08/2015/1506
+West Bengal
+Darjeeling
+ 
+KHANI
+27.063181
+88.256254
+Rock
+Slide
+2015
+29634
+WB/DAR/78A08/2015/93
+West Bengal
+Darjeeling
+Community Hall near Priya 
+TamangΓò₧s House
+ 
+27.063222
+88.256222
+Rock cum Debris
+Slide
+2009
+29635
+WB/DAR/78A04/2021/PDLS/61
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06323889
+88.09072761
+Debris
+Slide
+October 2021
+29636
+WB/DAR/78A04/2021/PDLS/14
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06332488
+88.21043033
+Debris
+Slide
+October 2021
+29637
+WB/DAR/78A08/2015/1505
+West Bengal
+Darjeeling
+ 
+KHOLA TAR
+27.063352
+88.25532
+Rock
+Slide
+2014
+29638
+WB/DAR/78A04/2015/1463
+West Bengal
+Darjeeling
+ 
+ 
+27.0634
+88.245093
+Debris
+Slide
+2014
+29639
+WB/DAR/78A08/2015/95
+West Bengal
+Darjeeling
+Santi Parbat near H/O Shri Mahendra 
+Thapa
+ 
+27.063472
+88.255278
+Debris
+Slide
+2009
+29640
+WB/DAR/78A08/2015/94
+West Bengal
+Darjeeling
+Santi Parbat near house of S.Sarki
+ 
+27.063944
+88.255639
+Debris
+Slide
+2009
+29641
+WB/DAR/78A12/2015/226
+West Bengal
+Darjeeling
+11.8 km on Relli-Lolegaon road
+11.8 km on Relli-Lolegaon road
+27.064
+88.564
+Rock
+Slide
+2012
+29642
+WB/DAR/78A12/2015/261
+West Bengal
+Darjeeling
+10.5 km on Pala-Lulegaon Road
+Pala-Lulegaon Road
+27.064
+88.554
+Rock
+Slide
+2013
+29643
+WB/DAR/78A08/2015/1504
+West Bengal
+Darjeeling
+ 
+KHANI KHOLA BRIDGE
+27.064007
+88.254863
+Rock cum Debris
+Slide
+2014
+29644
+WB/DAR/78A08/2015/96
+West Bengal
+Darjeeling
+Santi Parbat near house of R.D.Rai
+ 
+27.064034
+88.25481
+Debris
+Slide
+2009
+29645
+WB/DAR/78A12/2015/1277
+West Bengal
+Darjeeling
+ 
+Parbung
+27.064056
+88.618972
+Debris
+Subsidence
+2014
+29646
+WB/DAR/78A08/2021/PDLS/20
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06410888
+88.25082298
+Debris
+Slide
+October 2021
+29647
+WB/DARJ/78A12/2007/0018
+West Bengal
+Darjeeling
+WP515
+Parakheti-Lava road
+27.06415
+88.6615
+Debris
+Slide
+2007
+29648
+WB/DAR/78A08/2015/1464
+West Bengal
+Darjeeling
+ 
+ 
+27.064174
+88.493381
+Debris
+Slide
+2010
+29649
+WB/DAR/78A12/2015/1383
+West Bengal
+Darjeeling
+NEAR KUWAPANI
+SH-12
+27.064389
+88.670583
+Rock
+Slide
+2012

@@ -1,0 +1,440 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+4198
+HP/SHI/53E08/2016/83
+Himachal Pradesh
+Shimla
+ 
+Kufri Bus StopNH-5
+31.109556
+77.251861
+Rock cum debris
+Slide
+NA
+4199
+HP/SHI/53E12/2016/32
+Himachal Pradesh
+Shimla
+ 
+Majoli, SH-10
+31.109753
+77.563294
+Rock cum debris
+Slide
+NA
+4200
+HP/SHI/53E08/2016/86
+Himachal Pradesh
+Shimla
+ 
+KufriNH-5
+31.110611
+77.251833
+Rock cum debris
+Slide
+NA
+4201
+HP/SHI/53E08/2016/87
+Himachal Pradesh
+Shimla
+ 
+KufriNH-5
+31.111194
+77.252039
+Rock cum debris
+Slide
+NA
+4202
+HP/SHI/53E12/2016/9
+Himachal Pradesh
+Shimla
+ 
+SH-10
+31.11173
+77.68563
+Rock
+Slide
+NA
+4203
+HP/SOL/53A16/2017/160
+Himachal Pradesh
+Solan
+ 
+RAMSHAHR SWARGHAT ROAD
+31.111778
+76.779806
+Debris
+Slide
+NA
+4204
+HP/SOL/53A16/2017/177
+Himachal Pradesh
+Solan
+ 
+SH 9,MAJHIAR
+31.111861
+76.9745
+Rock
+Slide
+NA
+4205
+HP/SHI/53E16/2016/173
+Himachal Pradesh
+Shimla
+ 
+JAGTAN VILLAGENH-72 -
+JAGTAN LINK ROAD
+31.112
+77.8079
+Rock
+Fall
+NA
+4206
+HP/SHI/53E12/2016/34
+Himachal Pradesh
+Shimla
+ 
+Kalot, SH-10
+31.112
+77.55761
+Rock cum debris
+Slide
+NA
+4207
+HP/SOL/53A16/2017/161
+Himachal Pradesh
+Solan
+ 
+RAMSHAHR SWARGHAT ROAD
+31.112028
+76.779806
+Debris
+Slide
+NA
+4208
+HP/SHI/53E16/2016/9
+Himachal Pradesh
+Shimla
+ 
+NH-72 -JAGTAN LINK ROADNH-
+72 -JAGTAN LINK ROAD
+31.1125
+77.7719
+Rock
+Topple
+NA
+4209
+HP/SHI/53E16/2016/40
+Himachal Pradesh
+Shimla
+ 
+MASINA VILLAGE
+31.1125
+77.769
+Debris
+Slide
+NA
+4210
+HP/SHI/53E04/2017/4
+Himachal Pradesh
+Shimla
+ 
+CHANAIYAN
+31.112972
+77.249167
+Debris
+Slide
+NA
+4211
+HP/SHI/53E16/2016/54
+Himachal Pradesh
+Shimla
+ 
+NEAR GILTARI
+31.1132
+77.8314
+Debris
+Slide
+NA
+4212
+HP/SHI/53E08/2016/51
+Himachal Pradesh
+Shimla
+ 
+2km towards Fagu from Nangal 
+Devi temple, NH-22
+31.113266
+77.322838
+Rock cum debris
+Slide
+NA
+4213
+HP/SOL/53A16/2017/112
+Himachal Pradesh
+Solan
+ 
+SARGERU
+31.113694
+76.904028
+Debris
+Slide
+NA
+4214
+HP/SHI/53E16/2016/31
+Himachal Pradesh
+Shimla
+ 
+MASINA VILLAGE
+31.1139
+77.7637
+Debris
+Slide
+NA
+4215
+HP/SHI/53E12/2016/29
+Himachal Pradesh
+Shimla
+ 
+Kharapathar, SH-10
+31.1139
+77.62801
+Rock cum debris
+Slide
+NA
+4216
+HP/SHI/53E04/2017/5
+Himachal Pradesh
+Shimla
+ 
+NH 22
+31.113972
+77.248889
+Rock
+Slide
+NA
+4217
+HP/SHI/53E12/2016/43
+Himachal Pradesh
+Shimla
+ 
+Tiki village, SH-10
+31.11399
+77.61181
+Rock cum debris
+Slide
+NA
+4218
+HP/SHI/53E16/2016/164
+Himachal Pradesh
+Shimla
+ 
+SARASWATINAGAR 6 KMS 
+MILESTONENH-72 -JAGTAN 
+LINK ROAD
+31.1142
+77.7669
+Debris
+Slide
+NA
+4219
+HP/SHI/53E16/2016/198
+Himachal Pradesh
+Shimla
+ 
+NEAR KANOHALNH-72 -JAGTAN 
+LINK ROAD
+31.1144
+77.793
+Debris
+Fall
+NA
+4220
+HP/SHI/53E12/2016/26
+Himachal Pradesh
+Shimla
+ 
+Chiwa, SH-10
+31.11442
+77.69076
+Rock
+Slide
+2014
+4221
+HP/SHI/53E04/2017/6
+Himachal Pradesh
+Shimla
+ 
+NH 22
+31.114472
+77.249056
+Debris
+Slide
+NA
+4222
+HP/SHI/53E04/2017/28
+Himachal Pradesh
+Shimla
+ 
+NH 22
+31.114722
+77.221806
+Rock
+Slide
+NA
+4223
+HP/SHI/53E04/2017/13
+Himachal Pradesh
+Shimla
+ 
+NH 22
+31.114917
+77.223722
+Debris
+Slide
+NA
+4224
+HP/SHI/53E04/2017/29
+Himachal Pradesh
+Shimla
+ 
+NH 22
+31.115
+77.222167
+Rock
+Slide
+NA
+4225
+HP/SHI/53E04/2017/30
+Himachal Pradesh
+Shimla
+ 
+NH 22
+31.115278
+77.221833
+Debris
+Slide
+NA
+4226
+HP/SHI/53E08/2016/64
+Himachal Pradesh
+Shimla
+ 
+Janog, NH-5
+31.115555
+77.363358
+Rock cum debris
+Slide
+NA
+4227
+HP/SHI/53E16/2016/203
+Himachal Pradesh
+Shimla
+ 
+NEAR BHADOTNEAR BHADOT
+31.116
+77.7617
+Rock
+Fall
+NA
+4228
+HP/SHI/53E12/2016/37
+Himachal Pradesh
+Shimla
+ 
+Down slope of Kotla village, SH-
+10
+31.116238
+77.521728
+Rock cum debris
+Slide
+NA
+4229
+HP/SOL/53A16/2017/111
+Himachal Pradesh
+Solan
+ 
+SARGERU
+31.116861
+76.902306
+Debris
+Slide
+NA
+4230
+HP/SHI/53E12/2016/38
+Himachal Pradesh
+Shimla
+ 
+Down slope of Dangral village, 
+SH-10
+31.116905
+77.516258
+Rock
+Slide
+NA
+4231
+HP/SHI/53E16/2016/30
+Himachal Pradesh
+Shimla
+ 
+MASINA VILLAGE
+31.1171
+77.7666
+Debris
+Slide
+NA
+4232
+HP/SHI/53E12/2016/1
+Himachal Pradesh
+Shimla
+ 
+SH-10
+31.117109
+77.503708
+Debris
+Slide
+NA
+4233
+HP/SHI/53E16/2016/174
+Himachal Pradesh
+Shimla
+ 
+JARSALI VILLAGENH-72 -
+JAGTAN LINK ROAD
+31.1172
+77.8121
+Rock
+Fall
+NA
+4234
+HP/SHI/53E16/2016/176
+Himachal Pradesh
+Shimla
+ 
+JAGTAN-JARSALI ROADNH-72-
+JHARSALI LINK ROAD
+31.1173
+77.8098
+Debris
+Slide
+NA
+4235
+HP/SHI/53E12/2016/30
+Himachal Pradesh
+Shimla
+ 
+SH-10
+31.117325
+77.507385
+Rock
+Slide
+NA

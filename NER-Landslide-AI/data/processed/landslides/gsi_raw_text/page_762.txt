@@ -1,0 +1,354 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29919
+WB/DARJ/78A12/2007/0036
+West Bengal
+Darjeeling
+Dalapchand
+About 9 km from Kalimpong on 
+Algara-Kalimpong road
+27.0911
+88.5393
+Debris
+Slide
+2007
+29920
+WB/DAR/78A08/2015/1521
+West Bengal
+Darjeeling
+NIM
+NIM BUSTY
+27.091287
+88.49675
+Rock
+Slide
+2014
+29921
+WB/DAR/78A08/2015/122
+West Bengal
+Darjeeling
+Mahakal Dara near Kalimpong
+Mahakal Dara near Kalimpong
+27.091379
+88.496946
+Debris
+Slide
+2012
+29922
+WB/DAR/78A12/2015/200
+West Bengal
+Darjeeling
+Dalpchand-I, Algara - Kalimpong road
+Algara - Kalimpong road
+27.09148
+88.537656
+Debris
+Slide
+2007
+29923
+WB/KAL/78A12/2021/PDLS/300 West Bengal
+Kalimpong
+N/A
+N/A
+27.09158341
+88.53620544
+Rock
+Slide
+October 2021
+29924
+WB/DAR/78A08/2015/46
+West Bengal
+Darjeeling
+NH-31A 35.05 km from Sevok (Tiger 
+Bridge) towards  Gangtok
+35.05 km from Sevok (Tiger 
+Bridge) on NH-31A towards  
+Gangtok
+27.091588
+88.465167
+Debris
+Slide
+2007
+29925
+WB/DAR/78A04/2021/PDLS/28
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09180688
+88.24648096
+Debris
+Slide
+October 2021
+29926
+WB/DAR/78A04/2021/PDLS/28
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09186926
+88.24657243
+Debris
+Slide
+October 2021
+29927
+WB/DAR/78A04/2015/1232
+West Bengal
+Darjeeling
+ 
+PARBONG
+27.091889
+88.224861
+Debris
+Subsidence
+2014
+29928
+WB/DARJ/78A08/2012/0306
+West Bengal
+Darjeeling
+ 
+Mahakal Dara near Kalimpong
+27.092
+88.497
+Debris
+Slide
+NA
+29929
+WB/DARJ/78A08/2012/0310
+West Bengal
+Darjeeling
+ 
+Lower Pashyer near 3rd mile 
+Kalimpong
+27.092
+88.497
+Debris
+Slide
+2012
+29930
+WB/DAR/78A04/2015/1480
+West Bengal
+Darjeeling
+ 
+ 
+27.092284
+88.077176
+Debris
+Slide
+2010
+29931
+WB/DAR/78A08/2015/132
+West Bengal
+Darjeeling
+Tirpai Bazar
+ 
+27.092289
+88.490432
+Rock
+Slide
+2013
+29932
+WB/DAR/78A04/2021/PDLS/28
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09233317
+88.24719281
+Debris
+Slide
+October 2021
+29933
+WB/DAR/78A08/2015/1315
+West Bengal
+Darjeeling
+ 
+BADAMTAN TG
+27.092389
+88.308306
+Debris
+Subsidence
+2014
+29934
+WB/DAR/78A08/2015/47
+West Bengal
+Darjeeling
+NH-31A 36.49 km from Sevok (Tiger 
+Bridge) towards  Gangtok
+36.49 km from Sevok (Tiger 
+Bridge) on NH-31A towards  
+Gangtok
+27.092553
+88.467535
+Rock
+Slide
+2007
+29935
+WB/DAR/78A08/2021/PDLS/22
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09255407
+88.25987329
+Debris
+Slide
+October 2021
+29936
+WB/DAR/78A12/2015/1478
+West Bengal
+Darjeeling
+ 
+ 
+27.092605
+88.65626
+Debris
+Slide
+2010
+29937
+WB/DAR/78A16/2015/295
+West Bengal
+Darjeeling
+Bhutia Jhora, 1 km from Paren SEB 
+Office
+Bhutia Jhora, 1 km from Paren 
+SEB Office
+27.092704
+88.8641
+Debris
+Flow
+1993
+29938
+WB/DAR/78A04/2021/PDLS/27
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09272689
+88.24146833
+Debris
+Slide
+October 2021
+29939
+WB/DAR/78A04/2021/PDLS/27
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09297419
+88.2420863
+Debris
+Slide
+October 2021
+29940
+WB/DAR/78A04/2021/PDLS/17
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09311766
+88.22470963
+Debris
+Slide
+October 2021
+29941
+WB/DARJ/78A12/2007/0023
+West Bengal
+Darjeeling
+Lava 2.5 km
+2.5 km from Lava towards 
+Algara on Lava, Algara road
+27.09324
+88.6492
+Debris
+Slide
+2007
+29942
+WB/DAR/78A12/2015/194
+West Bengal
+Darjeeling
+1 km from Lulegaon crossing towards  
+Algara
+1 km from Lulegaon crossing 
+towards  Algara
+27.09324
+88.64928
+Debris
+Slide
+2007
+29943
+WB/DAR/78A12/2015/1479
+West Bengal
+Darjeeling
+ 
+ 
+27.093516
+88.65566
+Rock cum Debris
+Slide
+2010
+29944
+WB/DAR/78A04/2015/1481
+West Bengal
+Darjeeling
+ 
+ 
+27.093576
+88.077703
+Debris
+Slide
+2006
+29945
+WB/DAR/78A04/2021/PDLS/27
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.0936586
+88.2432941
+Debris
+Slide
+October 2021
+29946
+WB/DAR/78A04/2021/PDLS/11
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09394155
+88.1551237
+Debris
+Slide
+October 2021
+29947
+WB/DARJ/78A08/2007/0290
+West Bengal
+Darjeeling
+ 
+36.49 km from Sevok  (Tiger 
+Bridge) on NH-31A towards 
+Gangtok
+27.094
+88.465
+Rock
+Slide
+NA

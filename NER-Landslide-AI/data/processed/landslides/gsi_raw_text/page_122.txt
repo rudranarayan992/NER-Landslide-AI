@@ -1,0 +1,543 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+4930
+HP/MAN/53E03/2015/108
+Himachal Pradesh
+Mandi
+ 
+ 
+31.302194
+77.022833
+Debris
+Slide
+NA
+4931
+HP/SHI/53E15/2016/35
+Himachal Pradesh
+Shimla
+ 
+Near Dumerera NH-72- 
+Dumerera LInk road
+31.3023
+77.795
+Rock
+Fall
+NA
+4932
+HP/MAN/53E03/2015/208
+Himachal Pradesh
+Mandi
+ 
+ 
+31.302524
+77.052257
+Debris
+Slide
+NA
+4933
+HP/MAN/53E03/2015/209
+Himachal Pradesh
+Mandi
+ 
+ 
+31.302528
+77.052475
+Debris
+Slide
+NA
+4934
+HP/MAN/53E03/2015/118
+Himachal Pradesh
+Mandi
+ 
+ 
+31.302778
+77.023722
+Rock
+Slide
+NA
+4935
+HP/BIL/53A15/2015/211
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.303072
+76.770156
+Debris
+Slide
+2015
+4936
+HP/MAN/53E03/2015/119
+Himachal Pradesh
+Mandi
+ 
+ 
+31.303168
+77.023874
+Debris
+Slide
+NA
+4937
+HP/SHI/53E15/2016/144
+Himachal Pradesh
+Shimla
+ 
+Near Rohal, river channel( 
+Andhra Khad) NH-72- Rohal Link 
+road
+31.3033
+77.8872
+Debris
+Slide
+NA
+4938
+HP/SHI/53E15/2016/63
+Himachal Pradesh
+Shimla
+ 
+Banwari village
+31.3035
+77.991
+Debris
+Slide
+NA
+4939
+HP/BIL/53A11/2018/4
+Himachal Pradesh
+Bilaspur
+ 
+Naina Devi road
+31.30353
+76.54342
+Rock
+Slide
+NA
+4940
+HP/BIL/53A11/2018/7
+Himachal Pradesh
+Bilaspur
+ 
+Naina Devi road
+31.3036
+76.53538
+Debris
+Slide
+NA
+4941
+HP/SHI/53E15/2016/62
+Himachal Pradesh
+Shimla
+ 
+Banwari village
+31.3037
+77.9906
+Debris
+Slide
+NA
+4942
+HP/BIL/53A11/2018/5
+Himachal Pradesh
+Bilaspur
+ 
+Naina Devi road
+31.30377
+76.54117
+Rock
+Slide
+NA
+4943
+HP/MAN/53E03/2015/117
+Himachal Pradesh
+Mandi
+ 
+ 
+31.304167
+77.0235
+Debris
+Slide
+NA
+4944
+HP/BIL/53A11/2018/1
+Himachal Pradesh
+Bilaspur
+ 
+Naina Devi road
+31.3046
+76.54012
+Rock
+Slide
+NA
+4945
+HP/SHI/53E11/2016/93
+Himachal Pradesh
+Shimla
+ 
+Kofradhar
+31.304722
+77.536861
+Debris
+Slide
+NA
+4946
+HP/MAN/53E03/2015/120
+Himachal Pradesh
+Mandi
+ 
+ 
+31.304918
+77.02329
+Debris
+Slide
+NA
+4947
+HP/MAN/53E03/2015/122
+Himachal Pradesh
+Mandi
+ 
+ 
+31.305186
+77.022925
+Debris
+Slide
+NA
+4948
+HP/BIL/53A11/2018/48
+Himachal Pradesh
+Bilaspur
+ 
+Samletu
+31.305708
+76.703832
+Rock
+Slide
+NA
+4949
+HP/SHI/53E11/2016/55
+Himachal Pradesh
+Shimla
+ 
+Kofradhar
+31.305917
+77.536833
+Rock
+Slide
+NA
+4950
+HP/MAN/53A15/2015/133
+Himachal Pradesh
+Mandi
+ 
+ 
+31.306002
+76.981748
+Debris
+Slide
+NA
+4951
+HP/SHI/53E07/2016/10
+Himachal Pradesh
+Shimla
+ 
+Kumharsain,NH-05
+31.306722
+77.449083
+Rock
+Slide
+NA
+4952
+HP/SHI/53E07/2016/67
+Himachal Pradesh
+Shimla
+ 
+Kumharsain,NH-05
+31.306806
+77.449389
+Rock
+Slide
+NA
+4953
+HP/SHI/53E07/2016/66
+Himachal Pradesh
+Shimla
+ 
+Kandreri
+31.307278
+77.62925
+Rock
+Slide
+NA
+4954
+HP/SHI/53E11/2016/85
+Himachal Pradesh
+Shimla
+ 
+Sharmali
+31.307472
+77.679611
+Rock
+Slide
+NA
+4955
+HP/SHI/53E07/2016/94
+Himachal Pradesh
+Shimla
+ 
+Kumharsain,NH-05
+31.307917
+77.436528
+Rock
+Slide
+NA
+4956
+HP/SHI/53E07/2016/11
+Himachal Pradesh
+Shimla
+ 
+Kumharsain,NH-05
+31.308028
+77.434778
+Rock
+Slide
+NA
+4957
+HP/MAN/53A15/2015/70
+Himachal Pradesh
+Mandi
+ 
+ 
+31.308051
+76.983487
+Debris
+Slide
+NA
+4958
+HP/MAN/53A15/2015/69
+Himachal Pradesh
+Mandi
+ 
+ 
+31.308126
+76.986544
+Debris
+Slide
+NA
+4959
+HP/SOL/53A15/2015/160
+Himachal Pradesh
+Solan
+ 
+ 
+31.308266
+76.973264
+Debris
+Slide
+NA
+4960
+HP/SHI/53E15/2016/77
+Himachal Pradesh
+Shimla
+ 
+Near Byuarghodi
+31.3083
+77.8837
+Debris
+Slide
+NA
+4961
+HP/MAN/53E03/2015/197
+Himachal Pradesh
+Mandi
+ 
+ 
+31.308551
+77.049424
+Debris
+Slide
+NA
+4962
+HP/SHI/53E11/2016/75
+Himachal Pradesh
+Shimla
+ 
+Sharmali
+31.308722
+77.682139
+Rock
+Slide
+NA
+4963
+HP/MAN/53E03/2015/274
+Himachal Pradesh
+Mandi
+ 
+ 
+31.309194
+77.122472
+Rock
+Slide
+2015
+4964
+HP/SHI/53E11/2016/106
+Himachal Pradesh
+Shimla
+ 
+Sharmali
+31.30925
+77.683722
+Rock
+Slide
+NA
+4965
+HP/SHI/53E11/2016/43
+Himachal Pradesh
+Shimla
+ 
+Sungri
+31.30925
+77.700583
+Rock
+Slide
+NA
+4966
+HP/SHI/53E11/2016/83
+Himachal Pradesh
+Shimla
+ 
+Sungri
+31.309278
+77.700111
+Debris
+Slide
+NA
+4967
+HP/SHI/53E15/2016/145
+Himachal Pradesh
+Shimla
+ 
+Byuri Village
+31.3093
+77.8827
+Rock
+Slide
+NA
+4968
+HP/BIL/53A15/2015/74
+Himachal Pradesh
+Mandi
+ 
+ 
+31.309944
+76.981417
+Debris
+Slide
+NA
+4969
+HP/MAN/53A15/2015/71
+Himachal Pradesh
+Mandi
+ 
+ 
+31.31026
+76.98098
+Debris
+Slide
+NA
+4970
+HP/MAN/53A15/2015/161
+Himachal Pradesh
+Mandi
+ 
+ 
+31.310444
+76.992174
+Debris
+Slide
+NA
+4971
+HP/SHI/53E11/2016/81
+Himachal Pradesh
+Shimla
+ 
+Sungri
+31.310722
+77.694333
+Rock
+Slide
+NA
+4972
+HP/SHI/53E11/2016/53
+Himachal Pradesh
+Shimla
+ 
+Shalech
+31.310833
+77.539528
+Rock
+Slide
+NA
+4973
+HP/SHI/53E15/2016/76
+Himachal Pradesh
+Shimla
+ 
+Near Byuar
+31.311
+77.8872
+Debris
+Slide
+NA
+4974
+HP/SHI/53E07/2016/78
+Himachal Pradesh
+Shimla
+ 
+Kumharsain,NH-05
+31.311056
+77.439806
+Earth
+Slide
+NA
+4975
+HP/SHI/53E07/2016/16
+Himachal Pradesh
+Shimla
+ 
+Kumharsain,NH-05
+31.311083
+77.453528
+Debris
+Slide
+NA
+4976
+HP/SHI/53E07/2016/20
+Himachal Pradesh
+Shimla
+ 
+Kumharsain,NH-05
+31.312444
+77.45425
+Rock
+Slide
+NA
+4977
+HP/MAN/53E03/2015/275
+Himachal Pradesh
+Mandi
+ 
+ 
+31.313139
+77.131
+Debris
+Slide
+NA

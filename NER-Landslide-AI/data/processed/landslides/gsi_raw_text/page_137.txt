@@ -1,0 +1,504 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+5656
+HP/KUL/53E10/2016/18
+Himachal Pradesh
+Kullu
+ 
+Neo Kundar
+31.536667
+77.699076
+Rock
+Slide
+NA
+5657
+HP/SHI/53E14/2016/115
+Himachal Pradesh
+Shimla
+ 
+North of Jeori
+31.537
+77.77
+Rock cum debris
+Slide
+NA
+5658
+HP/KIN/53I06/2018/3
+Himachal Pradesh
+Kinnaur
+ 
+Reckong Peo
+31.53742
+77.28949
+Rock cum debris
+Slide
+NA
+5659
+HP/KUL/53E06/2016/29
+Himachal Pradesh
+Kullu
+ 
+Jalora,NH 305
+31.537558
+77.370625
+Debris
+Slide
+NA
+5660
+HP/KIN/53E14/2016/29
+Himachal Pradesh
+Kinnaur
+ 
+Left bank of Solding Khad
+31.5385
+77.9039
+Debris
+Slide
+2010
+5661
+HP/Shimla/53E/14/2021/01
+Himachal Pradesh
+Shimla
+#N/A
+#N/A
+31.53866667
+77.78386389
+Rock
+Slide
+NA
+5662
+HP/KIN/53E14/2016/57
+Himachal Pradesh
+Shimla
+ 
+Kandlu Chaunda
+31.538673
+77.83723
+Rock
+Slide
+NA
+5663
+HP/MAN/53A10/2018/2
+Himachal Pradesh
+Mandi
+ 
+ 
+31.539222
+76.531056
+Debris
+Slide
+NA
+5664
+HP/KUL/53E10/2016/23
+Himachal Pradesh
+Kullu
+ 
+Dogri
+31.539238
+77.706786
+Debris
+Slide
+NA
+5665
+HP/KIN/53E14/2016/53
+Himachal Pradesh
+Kinnaur
+ 
+Nichar Chot, Nichar - Chout 
+Kanda foot track
+31.5393
+77.9861
+Rock
+Slide
+NA
+5666
+HP/KUL/53E06/2016/30
+Himachal Pradesh
+Kullu
+ 
+NE of Jalori,NH 305
+31.54009
+77.37928
+Rock cum debris
+Slide
+2000
+5667
+HP/KIN/53E14/2016/3
+Himachal Pradesh
+Kinnaur
+ 
+Near Burcha Wangtu - Burcha 
+road
+31.5411
+77.9992
+Debris
+Slide
+NA
+5668
+HP/KIN/53E14/2016/80
+Himachal Pradesh
+Kinnaur
+ 
+Nichar forest, Nichar - Chout 
+Kanda foot track
+31.5416
+77.9886
+Debris
+Slide
+NA
+5669
+HP/KIN/53E14/2016/27
+Himachal Pradesh
+Kinnaur
+ 
+Left bank of Solding Khad
+31.5418
+77.9051
+Debris
+Slide
+2010
+5670
+HP/BIL/53A06/2018/2
+Himachal Pradesh
+Bilaspur
+ 
+Lama
+31.542146
+76.274045
+Debris
+Slide
+NA
+5671
+HP/KUL/53E06/2016/35
+Himachal Pradesh
+Kullu
+ 
+NE of Jalori,NH 305
+31.542157
+77.381474
+Rock cum debris
+Slide
+2000
+5672
+HP/KIN/53E14/2016/28
+Himachal Pradesh
+Kinnaur
+ 
+Left bank of Solding Khad
+31.5424
+77.9091
+Debris
+Slide
+2010
+5673
+HP/MAN/53A14/2015/350
+Himachal Pradesh
+Mandi
+ 
+Near Leda
+31.542453
+76.835807
+Rock
+Slide
+NA
+5674
+HP/MAN/53E02/2015/148
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.542556
+77.094917
+Rock cum debris
+Slide
+NA
+5675
+HP/SHI/53E14/2016/105
+Himachal Pradesh
+Shimla
+ 
+Shinti
+31.542803
+77.77108
+Rock
+Slide
+NA
+5676
+HP/MAN/53E02/2015/149
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.543361
+77.089917
+Rock cum debris
+Slide
+NA
+5677
+HP/BIL/53A06/2018/3
+Himachal Pradesh
+Bilaspur
+ 
+Lama
+31.543511
+76.2744
+Debris
+Slide
+NA
+5678
+HP/KUL/53E10/2016/12
+Himachal Pradesh
+Kullu
+ 
+Badar
+31.543735
+77.567992
+Rock
+Slide
+NA
+5679
+HP/KUL/53E06/2016/133
+Himachal Pradesh
+Kullu
+ 
+Bali Chowki
+31.544724
+77.266896
+Rock
+Slide
+NA
+5680
+HP/KUL/53E10/2016/28
+Himachal Pradesh
+Kullu
+ 
+Sagopha
+31.545376
+77.54561
+Rock
+Fall
+NA
+5681
+HP/KIN/53E14/2016/36
+Himachal Pradesh
+Kinnaur
+ 
+Right bank of Solding Khad
+31.5459
+77.9135
+Debris
+Slide
+2011
+5682
+HP/MAN/53E02/2015/150
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.546056
+77.076611
+Rock cum debris
+Slide
+NA
+5683
+HP/SHI/53E14/2016/117
+Himachal Pradesh
+Shimla
+ 
+Madara
+31.546569
+77.780994
+Rock
+Fall
+NA
+5684
+HP/MAN/53E02/2015/126
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.546611
+77.20825
+Debris
+Slide
+NA
+5685
+HP/SHI/53E14/2016/123
+Himachal Pradesh
+Shimla
+ 
+S of Madhara
+31.546664
+77.776478
+Rock cum debris
+Slide
+NA
+5686
+HP/KUL/53E10/2016/6
+Himachal Pradesh
+Kullu
+ 
+Damah
+31.546743
+77.566484
+Debris
+Slide
+NA
+5687
+HP/KIN/53E14/2016/6
+Himachal Pradesh
+Kinnaur
+ 
+Right bank of Solding Khad
+31.5471
+77.9101
+Debris
+Slide
+2014
+5688
+HP/KIN/53E14/2016/1
+Himachal Pradesh
+Kinnaur
+ 
+Right bank of Solding Khad( 
+Near Solding bridge) Pilingi - 
+Bari road
+31.5471
+77.9101
+Debris
+Slide
+2014
+5689
+HP/KUL/53E10/2016/5
+Himachal Pradesh
+Kullu
+ 
+Damah
+31.547476
+77.56661
+Debris
+Slide
+NA
+5690
+HP/KIN/53E14/2016/2
+Himachal Pradesh
+Kinnaur
+ 
+Near Nichar, Pilingi - Nichar 
+road
+31.5478
+77.9816
+Debris
+Slide
+2010
+5691
+HP/MAN/53A10/2018/3
+Himachal Pradesh
+Mandi
+ 
+Khelag
+31.548083
+76.5675
+Debris
+Slide
+NA
+5692
+HP/MAN/53A10/2018/4
+Himachal Pradesh
+Mandi
+ 
+ 
+31.548417
+76.566417
+Debris
+Slide
+NA
+5693
+HP/MAN/53A10/2018/5
+Himachal Pradesh
+Mandi
+ 
+ 
+31.548528
+76.564278
+Debris
+Slide
+NA
+5694
+HP/KUL/53E10/2016/40
+Himachal Pradesh
+Kullu
+ 
+Sikaseri
+31.549
+77.701
+Debris
+Slide
+NA
+5695
+HP/KUL/53E06/2016/25
+Himachal Pradesh
+Kullu
+ 
+North of Jalori,NH 305
+31.549424
+77.377331
+Rock cum debris
+Slide
+NA
+5696
+HP/KIN/53E14/2016/8
+Himachal Pradesh
+Kinnaur
+ 
+Near Bari village, Left bank of 
+Solding Khad
+31.5497
+77.9101
+Debris
+Slide
+2010
+5697
+HP/KIN/53E14/2016/85
+Himachal Pradesh
+Kinnaur
+ 
+Near Kangos village Nichar link 
+road
+31.5497
+77.9215
+Debris
+Slide
+NA
+5698
+HP/KUL/53E10/2016/8
+Himachal Pradesh
+Kullu
+ 
+S of Malua
+31.549712
+77.681945
+Debris
+Slide
+NA
+5699
+HP/KUL/53E10/2016/27
+Himachal Pradesh
+Kullu
+ 
+Kalidhar
+31.550923
+77.675566
+Debris
+Slide
+NA

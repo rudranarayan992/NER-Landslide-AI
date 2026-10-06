@@ -1,0 +1,301 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27875
+TN/NIL/58A15/2025/42
+Tamil Nadu
+Nilgiri
+KOT-11
+Marvalla road
+11.4723
+76.8408
+Debris
+Slide
+19 October 2025
+27876
+TN/NIL/58A15/2025/43
+Tamil Nadu
+Nilgiri
+ONR-29
+Coonoor to Udhagai road
+11.3599
+76.7814
+Debris
+Slide
+22 October 2025
+27877
+TN/NIL/58A15/2025/44
+Tamil Nadu
+Nilgiri
+ONR-30
+Coonoor to Udhagai road
+11.3606
+76.7813
+Earth
+Slide
+22 October 2025
+27878
+TN/NILGIRIS/58A15/2026/01 
+Tamil Nadu
+Nilgiri
+TDK road Slide
+TDK Road
+11.344605
+76.792407
+Debris
+Slide
+01 January 2026
+27879
+TN/NILGIRIS/58A15/2026/02
+Tamil Nadu
+Nilgiri
+Model House Society Slide
+Disencherry Road
+11.346337
+76.798923
+Debris
+Slide
+01 January 2026
+27880
+TN/NILGIRIS/58A15/2026/03
+Tamil Nadu
+Nilgiri
+MGR Nagar
+TDK Road
+11.347369
+76.789377
+Debris
+Slide
+01 January 2026
+27881
+TN/NILGIRIS/58A15/2026/04
+Tamil Nadu
+Nilgiri
+TDK road Slide
+TDK Road
+11.349663
+76.788382
+Debris
+Slide
+01 January 2026
+27882
+TN/NILGIRIS/58A15/2026/05
+Tamil Nadu
+Nilgiri
+Riga Residency slide
+TDK Road
+11.352862
+76.786387
+Debris
+Slide
+01 January 2026
+27883
+Tamil 
+Nadu/THENI/58G/2/2014/01.
+Tamil Nadu
+Theni
+Kollam-Theni NH-220 slide/01
+Kollam-Theni NH-220 between 
+Kumily and Cumbum
+9.616
+77.19
+Earth/soil with rock 
+fragments and trees
+Soil slide
+07 May 2014
+27884
+Tamil 
+Nadu/THENI/58G/2/2014/02.
+Tamil Nadu
+Theni
+Kollam-Theni NH-220 slide/02
+Kollam-Theni NH-220 between 
+Kumily and Cumbum
+9.617
+77.19
+Earth/soil with rock 
+fragments and trees
+Flow
+07 May 2014
+27885
+Tamil 
+Nadu/Dindigul/58F/12/2014/01.
+Tamil Nadu
+Dindigul
+NNE of Mother Teresa Women 
+College/Slide 01
+Near Mother Teresa Women 
+College
+10.24138889
+77.50508333
+Earth/soil with rock 
+fragments
+Debris slide
+22 August 2014
+27886
+Tamil 
+Nadu/Dindigul/58F/12/2014/02.
+Tamil Nadu
+Dindigul
+Opposite of Mother Teresa Women 
+College
+Indira Nagar
+10.24097222
+77.50466667
+Earth/soil with rock 
+fragments and trees
+Planar
+22 August 2014
+27887
+Tamil 
+Nadu/Dindigul/58F/12/2014/03.
+Tamil Nadu
+Dindigul
+Srinivasapuram colony/Slide 03
+Srinivasapuran colony.
+11.23847222
+77.50402778
+Earth/soil with rock 
+fragments
+Slide
+22 August 2014
+27888
+Tamil 
+Nadu/Dindigul/58F/12/2014/04.
+Tamil Nadu
+Dindigul
+Srinivasapuram colony/Slide 04
+Srinivasapuran colony.
+11.23952778
+77.50566667
+Earth/soil with rock 
+fragments
+Slide
+22 August 2014
+27889
+Tamil 
+Nadu/Dindigul/58F/12/2014/04.
+Tamil Nadu
+Dindigul
+Govt. School/Slide 05
+SH 156
+11.24402778
+77.50066667
+Earth
+Slide
+23 August 2014
+27890
+Tamil 
+Nadu/THENI/58F/8/2014/01.
+Tamil Nadu
+Theni
+Slide 01
+NH-49 Ext. between Mundal- 
+Munnar Road
+10.022
+77.265
+Overburden, soil and 
+trees
+Slide
+October 2014
+27891
+Tamil 
+Nadu/THENI/58F/8/2014/02.
+Tamil Nadu
+Theni
+Slide 02
+NH-49 Ext. between Mundal- 
+Munnar Road
+10.03
+77.266
+Soil and trees
+Slide
+October 2014
+27892
+Tamil 
+Nadu/THENI/58F/8/2014/03.
+Tamil Nadu
+Theni
+Slide03
+NH-49 Ext. between Mundal- 
+Munnar Road
+10.033
+77.266
+Rock boulders, Soil, 
+trees
+Fall
+3rd week of October 2014
+27893
+Tamil 
+Nadu/THENI/58F/8/2014/04.
+Tamil Nadu
+Theni
+Slide/04
+NH-49 Ext. between Mundal- 
+Munnar Road
+10.034
+77.265
+Soil, Retaining wall
+Slide
+October 2014
+27894
+Tamil 
+Nadu/THENI/58F/8/2014/05.
+Tamil Nadu
+Theni
+Slide/05.
+NH-49 Ext. between Mundal- 
+Munnar Road
+10.038
+77.273
+Soil and debris.
+Debris slide.
+October 2014
+27895
+Tamil 
+Nadu/THENI/58F/8/2014/06.
+Tamil Nadu
+Theni
+Slide/06
+NH-49 Ext. between Mundal- 
+Munnar Road
+10.0368
+77.2773
+Debris
+Slide
+October 2014
+27896
+Tamil 
+Nadu/THENI/58F/8/2014/08.
+Tamil Nadu
+Theni
+Slide/07
+NH-49 Ext. between Mundal- 
+Munnar Road
+10.0375
+77.2801
+Debris
+Slide
+October 2014
+27897
+Tamil 
+Nadu/THENI/58F/8/2013/10.
+Tamil Nadu
+Theni
+Near 16th km slide/10
+NH-49 Ext. between Mundal- 
+Munnar Road.
+10.0467
+77.3064
+Dump fill material
+Fall
+October 2014

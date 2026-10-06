@@ -1,0 +1,532 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+6557
+HP/KUL/53E01/2015/88
+Himachal Pradesh
+Kullu
+ 
+Parashar road
+31.855056
+77.138472
+Earth
+Composite
+NA
+6558
+HP/MAN/53A13/2015/120
+Himachal Pradesh
+Mandi
+ 
+South of Chirchakha,SH 19
+31.85579
+76.79145
+Rock
+Slide
+NA
+6559
+HP/MAN/53A13/2015/119
+Himachal Pradesh
+Mandi
+ 
+South of Chirchakha,SH 19
+31.856
+76.79309
+Rock
+Slide
+NA
+6560
+HP/MAN/53A13/2015/60
+Himachal Pradesh
+Mandi
+ 
+Jehandar, NH 20
+31.8561
+76.9272
+Debris
+Slide
+NA
+6561
+HP/MAN/53A13/2015/28
+Himachal Pradesh
+Mandi
+ 
+Near Banogi
+31.85619
+76.84058
+Debris
+Slide
+NA
+6562
+HP/MAN/53A13/2015/99
+Himachal Pradesh
+Mandi
+ 
+South west of Nauhli
+31.85625
+76.837722
+Rock
+Slide
+NA
+6563
+HP/MAN/53A13/2015/3
+Himachal Pradesh
+Mandi
+ 
+Dhakhenenr,SH 19
+31.856361
+76.768306
+Rock
+Fall
+NA
+6564
+HP/KAN/52D08/2018/34
+Himachal Pradesh
+Kangra
+ 
+TIHRI ROAD
+31.85651
+76.33841
+Rock cum debris
+Slide
+NA
+6565
+HP/KAN/53A09/2018/47
+Himachal Pradesh
+Kangra
+ 
+Lambagaon-Kosri road
+31.856583
+76.541111
+Debris
+Slide
+NA
+6566
+HP/MAN/53A13/2015/189
+Himachal Pradesh
+Mandi
+ 
+SE of Chaturbhuja
+31.856641
+76.810861
+Rock
+Slide
+NA
+6567
+HP/KAN/52D08/2018/26
+Himachal Pradesh
+Kangra
+RAJHAUN KHAS
+TIHRI ROAD
+31.85668
+76.33912
+Debris
+Slide
+NA
+6568
+HP/KAN/52D08/2018/24
+Himachal Pradesh
+Kangra
+ 
+TIHRI ROAD
+31.85683
+76.33517
+Debris
+Slide
+NA
+6569
+HP/MAN/53A13/2015/4
+Himachal Pradesh
+Mandi
+ 
+South of Basahi,SH 19
+31.856889
+76.768694
+Rock
+Slide
+NA
+6570
+HP/MAN/53A13/2015/97
+Himachal Pradesh
+Mandi
+ 
+South of Basahi,SH 19
+31.857222
+76.768667
+Rock
+Slide
+NA
+6571
+HP/MAN/53A13/2015/61
+Himachal Pradesh
+Mandi
+ 
+Near Salhana, NH 29
+31.8573
+76.9272
+Debris
+Slide
+NA
+6572
+HP/MAN/53A09/2018/48
+Himachal Pradesh
+Mandi
+ 
+ 
+31.857417
+76.739611
+Debris
+Slide
+NA
+6573
+HP/KAN/53A05/2018/69
+Himachal Pradesh
+Kangra
+ 
+TIHRI ROAD
+31.85742
+76.33416
+Rock cum debris
+Slide
+NA
+6574
+HP/MAN/53A13/2015/98
+Himachal Pradesh
+Mandi
+ 
+South of Basahi,SH 19
+31.858389
+76.768806
+Rock
+Slide
+NA
+6575
+HP/MAN/53A13/2015/118
+Himachal Pradesh
+Mandi
+ 
+South of Chirchakha,SH 19
+31.85871
+76.78894
+Rock
+Slide
+NA
+6576
+HP/KAN/52A05/2018/67
+Himachal Pradesh
+Kangra
+NEAR STADIUM
+TIHRI ROAD
+31.85872
+76.33297
+Rock cum debris
+Slide
+NA
+6577
+HP/MAN/53A13/2015/112
+Himachal Pradesh
+Mandi
+ 
+Chirchakha,SH19
+31.85904
+76.78551
+Rock
+Slide
+NA
+6578
+HP/MAN/53A13/2015/113
+Himachal Pradesh
+Mandi
+ 
+Chirchakha,SH19,20m from 
+S238 towards Mandi
+31.85961
+76.78532
+Rock
+Slide
+NA
+6579
+HP/MAN/53A13/2015/111
+Himachal Pradesh
+Mandi
+ 
+Chirchakha,SH19
+31.859674
+76.782826
+Rock
+Slide
+NA
+6580
+HP/MAN/53A13/2015/115
+Himachal Pradesh
+Mandi
+ 
+Chirchakha,SH 19,5m from S240 
+towards Mandi
+31.85973
+76.78692
+Debris
+Slide
+NA
+6581
+HP/MAN/53A13/2015/114
+Himachal Pradesh
+Mandi
+ 
+Chirchakha,SH 19,50m from 
+S239 towards Mandi
+31.85979
+76.78658
+Rock
+Slide
+NA
+6582
+HP/MAN/53A13/2015/116
+Himachal Pradesh
+Mandi
+ 
+Chirchakha,SH 19
+31.85989
+76.7876
+Rock
+Slide
+NA
+6583
+HP/MAN/53A13/2015/117
+Himachal Pradesh
+Mandi
+ 
+Chirchakha,SH 19
+31.86
+76.78702
+Debris
+Slide
+NA
+6584
+HP/KAN/44M13/2020/3
+Himachal Pradesh
+Kangra
+ 
+Amroh
+31.86
+75.97
+Rock
+Slide
+NA
+6585
+HP/MAN/53A13/2015/110
+Himachal Pradesh
+Mandi
+ 
+Chirchakha,SH19
+31.86018
+76.782971
+Rock
+Slide
+NA
+6586
+HP/MAN/53A13/2015/108
+Himachal Pradesh
+Mandi
+ 
+Chirchakha,SH19
+31.86077
+76.78314
+Rock
+Slide
+NA
+6587
+HP/MAN/53A13/2015/109
+Himachal Pradesh
+Mandi
+ 
+Chirchakha,SH19
+31.86077
+76.78314
+Rock
+Slide
+NA
+6588
+HP/MAN/53A13/2015/106
+Himachal Pradesh
+Mandi
+ 
+Chirchakha,SH19
+31.86093
+76.78312
+Rock
+Slide
+NA
+6589
+HP/MAN/53A13/2015/107
+Himachal Pradesh
+Mandi
+ 
+Chirchakha,SH19
+31.86093
+76.78312
+Rock
+Slide
+NA
+6590
+HP/MAN/53A13/2015/105
+Himachal Pradesh
+Mandi
+ 
+Chirchakha,SH19
+31.86128
+76.78271
+Rock
+Slide
+NA
+6591
+HP/MAN/53A10/2018/23
+Himachal Pradesh
+Mandi
+ 
+NH-70
+31.862806
+76.576944
+Debris
+Slide
+NA
+6592
+HP/MAN/53A13/2015/104
+Himachal Pradesh
+Mandi
+ 
+Chirchakha,SH19
+31.86321
+76.78098
+Rock
+Fall
+NA
+6593
+HP/KAN/53A09/2018/49
+Himachal Pradesh
+Kangra
+ 
+Rajnagar-kathla road
+31.86325
+76.744917
+Rock cum debris
+Slide
+NA
+6594
+HP/MAN/53A13/2015/65
+Himachal Pradesh
+Mandi
+ 
+Narla, NH 20
+31.863376
+76.92656
+Debris
+Slide
+NA
+6595
+HP/MAN/53A13/2015/103
+Himachal Pradesh
+Mandi
+ 
+Chirchakha,SH19
+31.8634
+76.78052
+Rock
+Fall
+NA
+6596
+HP/MAN/53A13/2015/95
+Himachal Pradesh
+Mandi
+ 
+Dhakhenenr,SH 19
+31.863972
+76.776333
+Rock
+Slide
+NA
+6597
+HP/MAN/53A13/2015/94
+Himachal Pradesh
+Mandi
+ 
+Dhakhenenr,SH 19
+31.864
+76.776333
+Rock
+Slide
+NA
+6598
+HP/MAN/53A13/2015/96
+Himachal Pradesh
+Mandi
+ 
+Dhakhenenr,SH 19
+31.864028
+76.774083
+Rock
+Slide
+NA
+6599
+HP/KAN/53A05/2018/54
+Himachal Pradesh
+Kangra
+ 
+TIHRI ROAD
+31.864166
+76.329029
+Rock cum debris
+Slide
+NA
+6600
+HP/MAN/53A13/2015/1
+Himachal Pradesh
+Mandi
+ 
+Dhakhenenr,SH 19
+31.864194
+76.77175
+Rock
+Slide
+NA
+6601
+HP/MAN/53A13/2015/2
+Himachal Pradesh
+Mandi
+ 
+Dhakhenenr,SH 19
+31.864194
+76.77175
+Rock
+Fall
+NA
+6602
+HP/KAN/53A09/2018/50
+Himachal Pradesh
+Kangra
+ 
+Lambagaon- ropri road
+31.864472
+76.6375
+Debris
+Slide
+NA
+6603
+HP/KAN/53A09/2018/51
+Himachal Pradesh
+Kangra
+ 
+SH 32
+31.865278
+76.512083
+Debris
+Slide
+NA

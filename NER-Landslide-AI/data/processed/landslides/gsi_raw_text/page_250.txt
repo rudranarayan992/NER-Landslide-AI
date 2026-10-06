@@ -1,0 +1,520 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+10924
+JK/UDH/43O04/2025/21
+Jammu & Kashmir (UT)
+Udhampur
+Samroli
+NH-44
+33.01029444
+75.22261667
+Debris
+Slide
+27 August 2025
+10925
+JK/UDH/43P1/2025/22
+Jammu & Kashmir (UT)
+Udhampur
+Bani Nala
+NH-44
+32.97508056
+75.17986944
+Debris
+Slide
+27 August 2025
+10926
+JK/RAJ/43K12/2025/023
+Jammu & Kashmir (UT)
+Rajouri
+  Zig Morh
+NH144A
+33.047327
+74.644605
+Rock
+Falls 
+26 August 2025
+10927
+JK/RAJ/43K8/2025/024    
+Jammu & Kashmir (UT)
+Rajouri
+  Rajal
+  NH 144A 
+33.159591
+74.271341
+Debris
+Slide
+26 August 2025
+10928
+JK/POO/43K8/2025/025    
+Jammu & Kashmir (UT)
+Poonch
+  Kongda
+  NH 144A 
+33.160347
+74.272017
+Debris
+Slide
+27 August 2025
+10929
+JK/POO/43K6/2025/026 
+Jammu & Kashmir (UT)
+Poonch
+  Near to JNV Surankote
+  NH 144A 
+33.63193
+74.250613
+Debris
+Slide
+18 July 2025
+10930
+JK/POO/43K6/2025/027   
+Jammu & Kashmir (UT)
+Poonch
+  Mirza Morh
+  Mirza Morh 
+33.621861
+74.280183
+Rock
+Slide
+20 July 2025
+10931
+JK/POO/43K6/2025/028  
+Jammu & Kashmir (UT)
+Poonch
+  Morha
+Mughal Road
+33.642519
+74.435408
+Rock
+Slide
+20 July 2025
+10932
+JK/POO/43K6/2025/029  
+Jammu & Kashmir (UT)
+Poonch
+    Panar Locality LS-01
+  Panar Locality
+33.638917
+74.440981
+Rock
+Slide
+8 January 2025, 20 July 2025
+10933
+JK/POO/43K6/2025/030
+Jammu & Kashmir (UT)
+Poonch
+Panar LS-02
+  Baffliaz Road No. 4
+33.615387
+74.343672
+Debris
+Slide
+20 July 2025
+10934
+JK/POO/43K6/2025/031
+Jammu & Kashmir (UT)
+Poonch
+GDC Surankote
+33.629118
+74.273238
+Debris
+Slide
+18 July 2025
+10935
+JK/POO/43K2/2025/032
+Jammu & Kashmir (UT)
+Poonch
+  Bhainch
+ Kaisen Bhainch primary school, 
+ward no. 4, Kaisen.
+33.73293
+74.12295
+Debris
+Slide
+21 July 2025
+10936
+JK/POO/43K1/2025/033
+Jammu & Kashmir (UT)
+Poonch
+  Pindi Gaon
+  Sathra – Pindi Gali Road
+33.803642
+74.193719
+Debris
+Slide
+27 July 2025
+10937
+JK/POO/43K1/2025/034
+Jammu & Kashmir (UT)
+Poonch
+Pindi Gali-02
+  Sathra – Pindi Gali Road
+33.780956
+74.202292
+Rock
+Slide
+25 July 2025
+10938
+JK/POO/43K2/2025/035
+Jammu & Kashmir (UT)
+Poonch
+  kalai
+  NH 144A 
+33.737804
+74.179732
+Rock
+Slide
+20 July 2025
+10939
+JK/POO/43K2/2025/036   
+Jammu & Kashmir (UT)
+Poonch
+  Shindra
+  NH 144A
+33.733629
+74.205005
+Debris
+Slide
+20 July 2025
+10940
+JK/POO/43K2/2025/037
+Jammu & Kashmir (UT)
+Poonch
+Lassana
+  NH 144A
+33.699214
+74.233149
+Debris
+Slide
+20 July 2025
+10941
+JK/POO/43K6/2025/038
+Jammu & Kashmir (UT)
+Poonch
+  Potha
+  NH 144A
+33.653046
+74.25295
+Rock
+Slide
+30 July 2025
+10942
+JK/RAJ/43K7/2025/039
+Jammu & Kashmir (UT)
+Rajouri
+Palma
+  Rajouri to Budhal Road   
+33.376256
+74.39121
+Debris
+Slide
+30 July 2025
+10943
+  JK/RAJ/43K7/2025/040
+Jammu & Kashmir (UT)
+  Rajouri
+Palma
+  Budi village
+33.37646
+74.394878
+Debris
+  Slide 
+20 July 2025
+10944
+  JK/RAJ/43K7/2025/041
+Jammu & Kashmir (UT)
+  Rajouri
+  Trala
+  Trala (kainchi Morh)
+33.37578
+74.414689
+Debris
+  Slide 
+20 July 2025
+10945
+  JK/RAJ/43K7/2025/042
+Jammu & Kashmir (UT)
+  Rajouri
+  Trolla (Sora pani)
+  Trolla (Sora pani)
+33.387824
+74.44095
+Debris
+  Slide 
+30 July 2025
+10946
+  JK/RAJ/43K8/2025/043
+Jammu & Kashmir (UT)
+  Rajouri
+    Near kalakote
+  Near kalakote
+33.239271
+74.374255
+Debris
+  Slide 
+20 July 2025
+10947
+  JK/RAJ/43K8/2025/044
+Jammu & Kashmir (UT)
+  Rajouri
+  Manma Mata
+  Manma Mata mandir, khargala 33.24148
+74.376621
+Debris
+  Slide 
+20 July 2025
+10948
+  JK/RAJ/43K7/2025/045
+Jammu & Kashmir (UT)
+  Rajouri
+  Badog
+  Badog 
+33.212079
+74.431939
+  Rock
+  Slide 
+20 July 2025, 30 July 2025
+10949
+JK/RAJ/43K12/2025/046
+Jammu & Kashmir (UT)
+Rajouri
+  Kanda
+  Near Navadurga mandir, 
+Kanda(300m)
+33.13701
+74.608723
+Debris
+Slide 
+30 July 2025
+10950
+JK/REA/43K12/2025/047
+Jammu & Kashmir (UT)
+Raesi
+  Shanpur LS 1
+  
+33.075314
+74.728768
+Debris
+Slide 
+30 July 2025
+10951
+JK/REA/43K12/2025/048   
+Jammu & Kashmir (UT)
+Reasi
+ Shanpur LS 2
+  
+33.070198
+74.744972
+Debris
+Slide 
+30 July 2025
+10952
+JK/KAT/43P11/2025/049
+Jammu & Kashmir (UT)
+Kathua
+Janglote-Bagda Road
+32.44218
+75.53151
+Debris
+Slide
+17 August 2025
+10953
+JK/KAT/43P11/2025/050
+Jammu & Kashmir (UT)
+Kathua
+Janglote-Bagda Road
+32.44311
+75.532
+Debris
+Slide
+17 August 2025
+10954
+JK/KAT/43P11/2025/051
+Jammu & Kashmir (UT)
+Kathua
+Janglote-Bagda Road
+32.44476
+75.533
+Debris
+Slide
+17 August 2025
+10955
+JK/KAT/43P11/2025/052
+Jammu & Kashmir (UT)
+Kathua
+Janglote-Bagda Road
+32.44726
+75.5187
+Debris
+Slide
+17 August 2025
+10956
+JK/KAT/43P11/2025/053
+Jammu & Kashmir (UT)
+Kathua
+Janglote-Bagda Road
+32.44514
+75.51906
+Debris
+Slide
+17 August 2025
+10957
+JK/KIS/52C07/2025/054
+Jammu & Kashmir (UT)
+Kishtwar
+Chashoti (Cloudburst)
+Chashoti village
+33.37896389
+76.27893056
+Debris
+Flow
+14 August 2025
+10958
+JK/KIS/43O15/2025/055
+Jammu & Kashmir (UT)
+Kishtwar
+Lawa
+33.276141
+75.769053
+Debris
+Slide
+NA
+10959
+JK/KIS/43O15/2025/056
+Jammu & Kashmir (UT)
+Kishtwar
+Lawa
+33.15098
+75.46301
+Rock
+Slide
+NA
+10960
+JK/KIS/43O16/2025/057
+Jammu & Kashmir (UT)
+Kishtwar
+Drabshala
+33.111744
+75.48248
+Rock
+Slide
+NA
+10961
+JK/DOD/43O12/2025/058
+Jammu & Kashmir (UT)
+Doda
+Doda
+33.81413
+75.32346
+Debris
+Slide
+NA
+10962
+JK/REA/43K16/2025/59
+Jammu & Kashmir (UT)
+Reasi
+Katra
+Domel-Katra Road
+32.974761
+74.913522
+Rock
+Falls
+26 August 2025 at 15:30 hrs
+10963
+JK/REA/43K16/2025/60
+Jammu & Kashmir (UT)
+Reasi
+Ardhkuwari
+Shri. Vaishno Devi Yatra track
+33.00729722
+74.94604444
+Debris
+Slide
+26 August 2025 at 15:00 hrs
+10964
+JK/RAJ/43K07/2025/061
+Jammu & Kashmir (UT)
+Rajouri
+Panjnara
+Panjnara village
+33.396917
+74.4873735
+Soil
+Subsidence
+13 August 2025
+10965
+JK/RAJ/43K/07/2025/063
+Jammu & Kashmir (UT)
+Rajouri
+Muradpur Landslide
+Muradpur, on NH144A
+33.340406
+74.325202
+Rock
+Fall
+31 August 2025
+10966
+JK/JAM/43K12/2025/063
+Jammu & Kashmir (UT)
+Jammu
+Karol Baba Devsthan
+Jothal
+33.046805
+74.701774
+Soil
+Subsidence
+31 August 2025
+10967
+JK/RAJ/43K07/2025/064
+Jammu & Kashmir (UT)
+Rajouri
+Palma
+Palma
+33.37226667
+74.40379444
+Rock
+Slide
+14 August 2025
+10968
+JK/RAJ/43K07/2025/065
+Jammu & Kashmir (UT)
+Jammu
+Palma
+Palma
+33.37626944
+74.39621944
+Rock
+Slide
+14 August 2025
+10969
+JK/KAT/43P10/2025/066
+Jammu & Kashmir (UT)
+Kathua
+Dhanni Landslide
+Mahanpur-Basohli Road
+32.53151944
+75.69415556
+Debris
+Subsidence
+17 August 2025
+10970
+JK/RAM/43O03/2025/067
+Jammu & Kashmir (UT)
+Ramban
+Gool Moilla 
+Gool Moilla village 
+33.279
+75.004
+Debris
+Slide
+3 September 2025

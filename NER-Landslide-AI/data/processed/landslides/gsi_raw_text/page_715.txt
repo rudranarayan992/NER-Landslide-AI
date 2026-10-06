@@ -1,0 +1,390 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28175
+TN/Nil/2023/CSF-72
+Tamil Nadu
+Nilgiri
+CSF-72
+NH-181
+11.34973
+76.7869
+Earth
+Slide
+23 November 2023
+28176
+TN/Nil/2023/CSF-73
+Tamil Nadu
+Nilgiri
+CSF-73
+NH-181
+11.34958
+76.78603
+Earth
+Slide
+23 November 2023
+28177
+TN/Nil/2023/CSF-74
+Tamil Nadu
+Nilgiri
+CSF-74
+NH-181
+11.34961
+76.78558
+Earth
+Slide
+23 November 2023
+28178
+TN/Nil/2023/CSF-75
+Tamil Nadu
+Nilgiri
+CSF-75
+NH-181
+11.35036
+76.78528
+Debris
+Slide
+23 November 2023
+28179
+TN/Nil/2023/CSF-76
+Tamil Nadu
+Nilgiri
+CSF-76
+NH-181
+11.35256
+76.78483
+Earth
+Slide
+23 November 2023
+28180
+TN/Nil/2023/CSF-77
+Tamil Nadu
+Nilgiri
+CSF-77
+NH-181
+11.35333
+76.785
+Debris
+Slide
+23 November 2023
+28181
+TN/Nil/2023/CSF-78
+Tamil Nadu
+Nilgiri
+CSF-78
+NH-181
+11.35414
+76.78528
+Debris
+Slide
+23 November 2023
+28182
+TN/Nil/2023/CSF-79
+Tamil Nadu
+Nilgiri
+CSF-79
+NH-181
+11.35983
+76.78161
+Debris
+Slide
+23 November 2023
+28183
+TN/Nil/2023/CSF-80
+Tamil Nadu
+Nilgiri
+CSF-80
+NH-181
+11.36067
+76.78136
+Debris
+Slide
+23 November 2023
+28184
+TN/Nil/2023/CSF-81
+Tamil Nadu
+Nilgiri
+CSF-81
+NH-181
+11.36231
+76.7795
+Earth
+Slide
+23 November 2023
+28185
+TN/Nil/2023/CSF-82
+Tamil Nadu
+Nilgiri
+CSF-82
+NH-181
+11.36292
+76.77873
+Earth
+Slide
+23 November 2023
+28186
+TN/Nil/2023/CSF-83
+Tamil Nadu
+Nilgiri
+CSF-83
+NH-181
+11.36631
+76.77342
+Earth
+Slide
+23 November 2023
+28187
+TN/Nil/2023/CSF-84
+Tamil Nadu
+Nilgiri
+CSF-84
+NH-181
+11.36644
+76.77225
+Earth
+Slide
+23 November 2023
+28188
+TN/Nil/2023/CSF-85
+Tamil Nadu
+Nilgiri
+CSF-85
+NH-181
+11.3665
+76.77164
+Debris
+Slide
+23 November 2023
+28189
+TN/Nil/2023/CSF-86
+Tamil Nadu
+Nilgiri
+CSF-86
+NH-181
+11.3665
+76.77125
+Debris
+Slide
+23 November 2023
+28190
+TN/Nil/2023/CSF-87
+Tamil Nadu
+Nilgiri
+CSF-87
+NH-181
+11.36659
+76.77039
+Debris
+Slide
+23 November 2023
+28191
+TN/Nil/2023/CSF-88
+Tamil Nadu
+Nilgiri
+CSF-88
+NH-181
+11.36706
+76.76914
+Debris
+Slide
+23 November 2023
+28192
+TN/Nil/2023/CSF-89
+Tamil Nadu
+Nilgiri
+CSF-89
+NH-181
+11.36689
+76.76739
+Debris
+Slide
+23 November 2023
+28193
+TN/Nil/2023/CSF-90
+Tamil Nadu
+Nilgiri
+CSF-90
+NH-181
+11.34333
+76.79572
+Earth
+Slide
+23 November 2023
+28194
+TN/Nil/58A11/2023/91
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+Kothagiri to Mettupalayam road 
+SH-15 (Kaithala village)
+11.41479928
+76.87340635
+Earth
+Slide
+23 November 2023
+28195
+TN/Nil/58A11/2023/92
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+Kothagiri to Mettupalayam road 
+SH-15 (Aravenu village)
+11.40396239
+76.8755371
+Earth
+Slide
+23 November 2023
+28196
+TN/Nil/58A11/2023/93
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+Kothagiri to Mettupalayam road 
+SH-15 
+11.39869649
+76.88035008
+Earth
+Slide
+23 November 2023
+28197
+TN/Nil/58A11/2023/94
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+Kothagiri to Mettupalayam road 
+SH-15 (Kaithala village)
+11.39647571
+76.88035008
+Debris
+Slide
+23 November 2023
+28198
+TN/Nil/58A11/2023/95
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+Kothagiri to Mettupalayam road 
+SH-15
+11.39428321
+76.88478423
+Debris
+Slide
+23 November 2023
+28199
+TN/Nil/58A11/2023/96
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+Kothagiri to Mettupalayam road 
+SH-15
+11.39101342
+76.88567563
+Debris
+Slide
+23 November 2023
+28200
+TN/Nil/58A11/2023/97
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+Kothagiri to Mettupalayam road 
+SH-15
+11.39004228
+76.89137908
+Debris
+Slide
+23 November 2023
+28201
+TN/Nil/58A11/2023/98
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+Kothagiri to Mettupalayam road 
+SH-15
+11.38678231
+76.89223945
+Debris
+Slide
+23 November 2023
+28202
+TN/Nil/58A11/2023/99
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+Kothagiri to Mettupalayam road 
+SH-15 (Melthattapallam village)
+11.38445676
+76.89046944
+Debris
+Slide
+23 November 2023
+28203
+TN/Nil/58A11/2023/100
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+Kothagiri to Mettupalayam road 
+SH-15 (Near Melthattapallam 
+village)
+11.3837739
+76.89157885
+Debris
+Slide
+23 November 2023
+28204
+TN/Nil/58A11/2023/101
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+Kothagiri to Mettupalayam road 
+SH-15
+11.38272038
+76.89171657
+Earth
+Slide
+23 November 2023
+28205
+TN/Nil/58A11/2023/102
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+Kothagiri to Mettupalayam road 
+SH-15
+11.3825477
+76.89280582
+Debris
+Slide
+23 November 2023
+28206
+TN/Nil/58A11/2023/103
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+Kothagiri to Mettupalayam road 
+SH-15
+11.38051118
+76.89818045
+Debris
+Slide
+23 November 2023
+28207
+TN/Nil/58A11/2023/104
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+Kothagiri to Mettupalayam road 
+SH-15
+11.38437302
+76.90040614
+Debris
+Slide
+23 November 2023

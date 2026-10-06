@@ -1,0 +1,302 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22096
+MZ/AIZ/84A10/2015/195
+Mizoram
+Aizawl
+ 
+West of Mission Veng,  Tlawng - 
+Aizawl Rd
+23.715278
+92.697611
+Debris
+Slide
+NA
+22097
+MZ/MAM/84A10/2015/129
+Mizoram
+Mamit
+ 
+North of Rulpuihlim, SH-Reiek- 
+Mamit-Aizawl
+23.7155
+92.556028
+Debris
+Slide
+NA
+22098
+MZ/AIZ/84A14/2015/80
+Mizoram
+Aizawl
+ 
+Tlangnuam village  area on NH-
+54
+23.716025
+92.854306
+Rock
+Slide
+NA
+22099
+MZ/AIZ/84A10/2015/203
+Mizoram
+Aizawl
+ 
+Mission Veng, Tlawng - Aizawl 
+Rd
+23.716111
+92.712611
+Rock
+Slide
+NA
+22100
+MZ/AIZ/84A14/2015/81
+Mizoram
+Aizawl
+ 
+Zero point Lui quarry along 
+Seling- Keifang road
+23.716125
+92.866156
+Rock
+Fall
+NA
+22101
+MZ/AIZ/84A10/2015/218
+Mizoram
+Aizawl
+ 
+Mualpui Bethel, Salem Veng - 
+World Bank Rd
+23.716278
+92.727694
+Debris
+Slide
+NA
+22102
+MZ/AIZ/84A10/2015/205
+Mizoram
+Aizawl
+ 
+West of Mission Veng,  Tlawng - 
+Aizawl Rd
+23.716333
+92.688639
+Debris
+Slide
+NA
+22103
+MZ/AIZ/84A10/2015/196
+Mizoram
+Aizawl
+ 
+West of Mission Veng,  Tlawng - 
+Aizawl Rd
+23.716556
+92.699056
+Debris
+Slide
+NA
+22104
+MZ/AIZ/84A10/2015/209
+Mizoram
+Aizawl
+ 
+South of Lawipu, Aizawl - 
+Tlawng Rd
+23.717028
+92.692389
+Rock
+Slide
+NA
+22105
+MZ/AIZ/84A10/2015/204
+Mizoram
+Aizawl
+ 
+Mission Veng, Tlawng - Aizawl 
+Rd
+23.717111
+92.713972
+Rock
+Slide
+NA
+22106
+MZ/AIZ/84A10/2015/213
+Mizoram
+Aizawl
+ 
+Govt Complex, Aizawl, Govt 
+Complex - Mizoram university 
+Rd via Zonuam
+23.717222
+92.694833
+Rock
+Slide
+NA
+22107
+MZ/MAM/84A10/2015/124
+Mizoram
+Mamit
+ 
+North of Rulpuihlim, SH-Reiek- 
+Mamit-Aizawl
+23.718194
+92.556417
+Debris
+Slide
+NA
+22108
+MZ/AIZ/84A14/2015/88
+Mizoram
+Aizawl
+ 
+2.7 km SE of seling on SH Seling-
+Champhai road.
+23.719306
+92.869058
+Rock
+Fall
+NA
+22109
+MZ/AIZ/84A14/2015/62
+Mizoram
+Aizawl
+ 
+2km West of Seswang along NH 
+150
+23.719306
+92.869058
+Debris
+Slide
+NA
+22110
+MZ/AIZ/84A10/2015/202
+Mizoram
+Aizawl
+ 
+Near Police Post Forest, Tlawng -
+Aizawl Rd
+23.719389
+92.675083
+Debris
+Slide
+NA
+22111
+MZ/AIZ/84A10/2015/200
+Mizoram
+Aizawl
+ 
+Northwest of Mission, 500m 
+from Police Post Forest, Tlawng -
+Aizawl Rd
+23.719472
+92.676444
+Debris
+Slide
+NA
+22112
+MZ/AIZ/84A10/2015/201
+Mizoram
+Aizawl
+ 
+Near Police Post Forest, Tlawng -
+Aizawl Rd
+23.7195
+92.675528
+Debris
+Slide
+NA
+22113
+MZ/AIZ/84A14/2015/86
+Mizoram
+Aizawl
+ 
+Seling dumping site on SH Seling-
+Champhai road
+23.719694
+92.868053
+Debris
+Slide
+NA
+22114
+MZ/AIZ/84A10/2015/210
+Mizoram
+Aizawl
+ 
+Maubawk, Aizawl - Tlawng Rd
+23.719972
+92.697694
+Rock
+Slide
+NA
+22115
+MZ/AIZ/84A10/2015/211
+Mizoram
+Aizawl
+ 
+Maubawk, Aizawl - Tlawng Rd
+23.720417
+92.695667
+Rock
+Slide
+NA
+22116
+MZ/AIZ/84A10/2015/212
+Mizoram
+Aizawl
+ 
+Maubawk, (abandoned water 
+tank) Aizawl - Tlawng Rd
+23.720611
+92.692722
+Rock
+Slide
+NA
+22117
+MZ/AIZ/84A14/2015/97
+Mizoram
+Aizawl
+ 
+5.3 km south of Dilkhan village, 
+Saitual - Dilkhan Rd
+23.720833
+92.978
+Debris
+Slide
+NA
+22118
+MZ/AIZ/84A10/2015/199
+Mizoram
+Aizawl
+ 
+Southwest of Lawipu, 500m 
+from Power House, Lawipu - 
+Tlawng Rd
+23.721167
+92.675056
+Debris
+Slide
+NA
+22119
+MZ/AZL/83A10/2017/01
+Mizoram
+Aizawl
+Khatla Sinking/Subsidence
+Khatla locality, along M. G. 
+Road, Aizawl
+23.722
+92.721222
+Earth
+Subsidence
+6 December 2016, 14th & 15th January 
+2017

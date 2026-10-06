@@ -1,0 +1,239 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+35887
+UK/Uttarkashi/53J/5/ Old/L-12
+Uttarakhand
+Uttarkashi
+Netala Slide
+NH-108/ upstream of Naitala on 
+right bank of Bhagirathi R 
+(opposite to Sirori Village)
+30.73333333
+78.49391667
+Rock, RBM and slope 
+wash material.
+Debris, 
+Subsidence,  
+rotational.
+NA
+35888
+UK/Uttarkashi/53J/9/ Old/L-25
+Uttarakhand
+Uttarkashi, Tehsil Bhatwari Chadethi slide
+Partly affecting NH-108/ about 
+1 km upstream of Bhatwari on 
+right bank of Bhagirathi River
+30.81569444
+78.61958333
+ fluvio- glacial 
+material
+Subsidence and 
+sinking
+NA
+35889
+21
+Uttarakhand
+Bageshwar
+Badipanyali
+Badipanyali
+29.97369444
+80.05080556
+Debris
+Slide
+13 August 2014 at 21.00hrs
+35890
+22
+Uttarakhand
+Bageshwar
+Badipanyali near school
+Badipanyali
+29.97369444
+80.05080556
+Debris
+Slide
+12 July 2014 at 21.oohrs
+35891
+23
+Uttarakhand
+Bageshwar
+Litti
+Litti
+30.0125
+80.02977778
+Debris
+Slide
+July 2014
+35892
+24
+Uttarakhand
+Bageshwar
+Sailani
+Sailani
+30.0125
+80.02977778
+Debris
+Slide
+First week of August 2014.
+35893
+25
+Uttarakhand
+Almora
+Khairkhet
+Khairkhet
+29.70238889
+79.88188889
+Debris
+Slide
+19 July 2014
+35894
+26
+Uttarakhand
+Pithoragarh
+Kanalichhina
+Kanalichhina
+29.67694444
+80.27161111
+Debris
+Slide
+Last week of July, 2014.
+35895
+27
+Uttarakhand
+Pithoragarh
+Dobat rock fall
+Dobat
+29.87286111
+80.5575
+Rock boulders
+Fall
+Last week of July, 2014.
+35896
+28
+Uttarakhand
+Pithoragarh
+Pangla
+Pangla
+29.97177778
+80.6865
+Rock
+Slide
+July and August  2013
+35897
+29
+Uttarakhand
+Pithoragarh
+Tawaghat
+Tawaghat
+29.96055556
+80.61472222
+Debris
+Slide
+July 2013
+35898
+30
+Uttarakhand
+Pithoragarh
+Askot
+Askot
+29.75888889
+80.34944444
+Rock
+Slide
+ July.2013
+35899
+UK_CHA_ NH58_L1
+Uttarakhand
+Chamoli
+Vasant Vihar Slide
+National/ State Highway: NH-
+58, Important 
+location/landmark: Near PG 
+College Gopeshwar Football 
+Stadium, Vasant Vihar., Village: 
+Vasant Vihar, Tehsil: Gopeshwar
+30.40655556
+79.31766667
+Slope wash material Slide
+2011,  6th and  7th August 2014
+35900
+UK_UTT_NH58_ L2
+Uttarakhand
+Chamoli
+Vaitarni Slide
+National/ State Highway: NH-
+58, Important 
+location/landmark: Near 
+Vaitarni kund., Village: Vasant 
+Vihar, Tehsil: Gopeshwar
+30.41730556
+79.31197222
+Slope wash material Slide
+2013, 06th and 07th August , 2014.
+35901
+UK_CHA_NH58_ L3 
+Uttarakhand
+Chamoli
+Kothiyal Sen Slide
+National/ State Highway: NH-
+58, Important 
+location/landmark: Kothiyal Sen 
+village, Village: Vasant Vihar, 
+Tehsil: Gopeshwar
+30.39669444
+79.32341667
+River borne  and 
+Slope wash material
+Slide
+16 June, 2013, 15th August 2014
+35902
+UK_PAU_ L4 
+Uttarakhand
+Pauri Garhwal
+Nauli Slide
+National/ State Highway: , 
+Important location/landmark: 
+Nauli village, Village: Nauli, 
+Tehsil: Pauri
+30.03880556
+78.70552778
+Slope wash material Slide
+15th August 2014 at around 7:30am
+35903
+UK_CHA_NH58_ L6 
+Uttarakhand
+Chamoli
+Tangni Slide
+National/ State Highway: NH-
+58, Important 
+location/landmark: Tangni 
+Villlage, Village: Tangni, Tehsil: 
+30.73683333
+78.4095
+rock cum debris 
+Slide
+June 2013 and 01 August 2014, 16 June 
+2013 and 14th August 2014
+35904
+UK_CHA_NH58_ L7 
+Uttarakhand
+Chamoli
+Paglanala Slide
+National/ State Highway: NH-
+58, Important 
+location/landmark: Pagla nala, 
+Village: , Tehsil: Joshimath
+30.47802778
+79.46883333
+rock cum debris 
+Slide
+17 June 2013, 15 August 2014

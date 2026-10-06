@@ -1,0 +1,296 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+17773
+MH/SAT/47G16/2021/19D
+Maharashtra
+Satara/Patan
+Joshewadi Village
+36km southwest of Karad by 
+Karad-Dhebewadi-Kalgaon road
+17.15505556
+73.93841667
+NA
+_
+24 July 2021, 12 noon
+17774
+MH/SAT/47G14/2021/20
+Maharashtra
+Satara/Patan
+Bagalewadi
+20km in the NE of Tarale
+17.52803611
+73.86265556
+Debris
+Slide
+24 July 2021, 2-2:30am
+17775
+MH/SAT/47G15/2021/21A
+Maharashtra
+Satara/Patan
+Chopdewadi village
+18km SE of Patan through Karad-
+Patan on Dhajgaon road from 
+Navarasta.
+17.2917
+73.93942778
+Debris
+Slide
+ 23 July 2021,  1:30 pm
+17776
+MH/SAT/47G15/2021/21B
+Maharashtra
+Satara/Patan
+Chopdewadi village2
+18km SE of Patan through Karad-
+Patan on Dhajgaon road from 
+Navarasta.
+17.29222222
+73.93933333
+NA
+_
+ 23 July 2021,  1:30 pm
+17777
+MH/SIN/47H07/2021/01A
+Maharashtra
+Sindhudurg/Devgad
+Ghadiwadi Landslide
+200m NE of Mutat village by 
+Vaghotan-Mutat road
+16.49198889
+73.48366944
+Soil
+Subsidence 
+15 June 2021
+17778
+MH/SIN/47H07/2021/01B
+Maharashtra
+Sindhudurg/Devgad
+Ghadiwadi Landslide
+200m NE of Mutat village by 
+Vaghotan-Mutat road
+16.49180556
+73.48386111
+Debris
+Slide
+15 June 2021
+17779
+MH/SIN/47H011/2021/02
+Maharashtra
+Sindhudurg/Devgad
+Gavthanwadi
+Talere-Pendhari-Vijaydurg Road 16.45944444
+73.50780556
+Soil
+Subsidence 
+17 June 2021
+17780
+MH/SIN/47H10/2021/03
+Maharashtra
+Sindhudurg/Devgad
+Pombhurle-Maplewadi Road
+Phombhurle-Malpewadi Road
+16.51114722
+73.52661944
+Soil
+Subsidence 
+18 July 2021
+17781
+MH/SIN/47H10/2021/04
+Maharashtra
+Sindhudurg/Devgad
+Manche, Ground Cracks with 
+subsidence
+Dusankarwadi of Manche
+16.50587222
+73.50623056
+Soil
+Subsidence 
+26 July 2021
+17782
+MH/SIN/47H12/2021/05A
+Maharashtra
+Sindhudurg/Kudal
+Velwadi Landslide, Ground Cracks 
+1km kaouth of Chandavan 
+Village of Naiknagar
+16.0024
+73.59081944
+Soil
+Subsidence 
+20 July 2021
+17783
+MH/SIN/47H12/2021/05B
+Maharashtra
+Sindhudurg/Kudal
+Velwadi Landslide, Earth Slide
+1km kaouth of Chandavan 
+Village of Naiknagar
+16.002175
+73.59096944
+Earth
+Slide
+20 July 2021
+17784
+MH/SIN/47H16/2021/06A
+Maharashtra
+Sindhudurg/Kudal
+Malaiwadi Landslide
+Savantwadi-Nerur-Palwadi 
+Road
+16.07046389
+73.89374167
+Debris
+_
+22 July 2021,1:30 AM.
+17785
+MH/SIN/47H16/2021/06B
+Maharashtra
+Sindhudurg/Kudal
+Malaiwadi Landslide
+Savantwadi-Nerur-Palwadi 
+Road
+16.07080556
+73.89368889
+Debris
+Flow
+22 July 2021,1:30 AM.
+17786
+MH/SIN/47H16/2021/07
+Maharashtra
+Sindhudurg/Kudal
+Gavthanvadi Landslide 
+Mangaon-Shivapur-Shirshinge 
+Road
+16.05831389
+73.98573889
+Debris
+Flow
+23 July 2021, 11:30 PM
+17787
+MH/SIN/47H16/2021/08
+Maharashtra
+Sindhudurg/Kudal
+Palmalaiwadi Slide
+Talamba-Nerur road.
+16.07805
+73.87784167
+Debris
+Slide
+16 June 2021
+17788
+MH/SIN/47H16/2021/09
+Maharashtra
+Sindhudurg/Kudal
+Gadkarwadi slide
+Mangaon-Shivapur-Shirshinge 
+Road
+16.06314722
+73.97947778
+Debris
+Slide
+23 July 2021, 11:00PM 
+17789
+MH/SIN/47H16/2021/10
+Maharashtra
+Sindhudurg/Kankavli  
+Digvale Landslide 
+NNW of Digvale, Kanedi-Digvale 
+Road
+16.24857778
+73.87273611
+Debris
+Flow
+23 July 2021, 3:00 AM.
+17790
+MH/SIN/47H16/2021/11A
+Maharashtra
+Sindhudurg/Sawantwadi
+Shirshinge slide 
+Shirshinge-Sivapur road
+16.04932778
+73.97923611
+Debris
+Flow
+23 July 2021, 3:00 AM.
+17791
+MH/SIN/47H16/2021/11B
+Maharashtra
+Sindhudurg/Sawantwadi
+Shirshinge slide 
+Shirshinge-Sivapur road
+16.04148611
+74.97451667
+Soil
+Subsidence 
+23 July 2021, 3:00 AM.
+17792
+MAH/SIN/48E13/2021/12
+Maharashtra
+Sindhudurg/Sawantwadi
+Galel 
+4km SE of Banda town by 
+Satmatwadi road from Banda
+15.79019444
+73.87976111
+Debris
+Slide
+23 July 2021, 8:30 AM.
+17793
+MH/SIN/47E14/2021/13
+Maharashtra
+Sindhudurg/Dodamarg
+Sasoli slide
+Sawantwadi bypass road by SH-
+124 (Banda-Dodamarg Road).
+15.73877222
+73.94831111
+Debris
+Slide
+July 2021
+17794
+MH/SIN/48E13/2021/14
+Maharashtra
+Sindhudurg/Dodamarg
+Phukeri slide 
+Banda-Dodamarg Road (SH-
+124) by Degave-Tamboli village 
+road.
+15.865525
+73.95096667
+Rock 
+Slide
+July 2021
+17795
+MH/SIN/48I02/2021/15A
+Maharashtra
+Sindhudurg/Dodamarg
+Fanaswadi slide 
+Sawantwadi-Dodamarg road 
+(SH-130) 
+15.68551111
+74.12594167
+Earth
+Subsidence 
+July 2021
+17796
+MH/SIN/48I02/2021/15B
+Maharashtra
+Sindhudurg/Dodamarg
+Fanaswadi slide 
+Sawantwadi-Dodamarg road 
+(SH-130) 
+15.68566667
+74.12365278
+Earth
+Subsidence 
+July 2021

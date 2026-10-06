@@ -1,0 +1,323 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30242
+WB/DAR/78A08/2015/1524
+West Bengal
+Darjeeling
+Kashyem, Near Upper 12 Dhura
+KASHYEM
+27.124335
+88.490691
+Rock cum Debris
+Slide
+2016
+30243
+WB/DAR/78A04/2015/11
+West Bengal
+Darjeeling
+At around 3.9 km from Forebay 
+towards  Intake on Forebay-Intake  
+road of Rammam Hydel Project 
+Stage*
+At 3.9km from Forebay towards 
+Power house on Forebay-Power 
+house road of Rammam Hydel 
+Project Stage-II
+27.124971
+88.116689
+Debris
+Flow
+1984
+30244
+WB/DARJ/78A04/0248
+West Bengal
+Darjeeling
+ 
+At around 4.5km from Linsbong 
+on Linsebong-Forebay road of 
+Rammam Hydel Project Stage-II
+27.125
+88.117
+Debris
+Slide
+NA
+30245
+WB/DAR/78A08/2021/PDLS/23
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12517708
+88.30157255
+Debris
+Slide
+October 2021
+30246
+WB/DAR/78A08/2021/PDLS/23
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12533768
+88.30177619
+Debris
+Slide
+October 2021
+30247
+WB/DAR/78A08/2021/PDLS/23
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.1255514
+88.30014428
+Debris
+Slide
+October 2021
+30248
+WB/DAR/78A08/2015/1164
+West Bengal
+Darjeeling
+ 
+SINGLA
+27.126417
+88.27125
+Debris
+Subsidence
+2015
+30249
+WB/DAR/78A08/2021/PDLS/24
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12652324
+88.28182396
+Debris
+Slide
+October 2021
+30250
+WB/DAR/78A08/2021/PDLS/25
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.1268377
+88.26606856
+Debris
+Slide
+October 2021
+30251
+WB/DAR/78A08/2021/PDLS/24
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12692885
+88.27991168
+Debris
+Slide
+October 2021
+30252
+WB/DAR/78A04/2021/PDLS/97
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12703558
+88.0943021
+Debris
+Slide
+October 2021
+30253
+WB/DAR/78A08/2015/1165
+West Bengal
+Darjeeling
+ 
+NEAR GOKE-JORTHANG BRIDGE 27.127667
+88.272861
+Rock
+Slide
+2015
+30254
+WB/DAR/78A12/2015/170
+West Bengal
+Darjeeling
+1.8 km from Algara on Algara-Rishi 
+road
+1.8 km from Algara on Algara-
+Rishi road
+27.127726
+88.589785
+Debris
+Slide
+1982
+30255
+WB/DAR/78A08/2021/PDLS/25
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12774708
+88.27132512
+Debris
+Slide
+October 2021
+30256
+WB/DAR/78A08/2021/PDLS/25
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12776067
+88.27082082
+Debris
+Slide
+October 2021
+30257
+WB/DAR/78A12/2015/171
+West Bengal
+Darjeeling
+1.8 km from Algara on Algara-Rishi 
+road
+1.8 km from Algara on Algara-
+Rishi road
+27.127824
+88.590084
+Debris
+Slide
+1982
+30258
+WB/DAR/78A08/2021/PDLS/25
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.1279257
+88.2705402
+Rock
+Slide
+October 2021
+30259
+WB/DAR/78A08/2021/PDLS/25
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12793847
+88.26912787
+Debris
+Slide
+October 2021
+30260
+WB/DAR/78A04/2021/PDLS/98
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12920649
+88.08793652
+Debris
+Slide
+October 2021
+30261
+WB/DAR/78A04/2021/PDLS/99
+West Bengal
+Darjeeling
+N/A
+N/A
+27.13051
+88.0851442
+Debris
+Slide
+October 2021
+30262
+WB/DAR/78A04/2021/PDLS/10
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.13091925
+88.08475465
+Debris
+Slide
+October 2021
+30263
+WB/DAR/78A04/2021/PDLS/10
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.13093793
+88.08467411
+Debris
+Slide
+October 2021
+30264
+WB/DAR/78A12/2015/1493
+West Bengal
+Darjeeling
+ 
+ 
+27.133192
+88.68913
+Debris
+Slide
+2013
+30265
+WB/DAR/78A12/2015/203
+West Bengal
+Darjeeling
+NH-31A_47.5 km
+47.5 km from Sevok(Tiger 
+Bridge) on NH-31A towards  
+Gangtok
+27.133431
+88.512387
+Debris
+Slide
+2007
+30266
+WB/DAR/78A04/2015/1264
+West Bengal
+Darjeeling
+ 
+SEPI BUSTY
+27.134194
+88.081778
+Debris
+Slide
+2016
+30267
+WB/DAR/78A12/2015/1495
+West Bengal
+Darjeeling
+ 
+ 
+27.134847
+88.54347
+Debris
+Slide
+2013

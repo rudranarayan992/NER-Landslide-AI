@@ -1,0 +1,464 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22606
+MZ/AIZ/83D16/2016/25
+Mizoram
+Aizawl
+ 
+2.6km S of N. Hlimen
+24.215868
+92.802452
+Rock
+Slide
+2016
+22607
+MZ/AIZ/83D16/2016/26
+Mizoram
+Aizawl
+ 
+2.5km S of S.Hlimen
+24.216509
+92.802591
+Rock
+Slide
+2016
+22608
+MZ/KOL/83D12/2016/20
+Mizoram
+Kolasib
+ 
+towards kolasib
+24.217097
+92.632545
+Rock
+Fall
+2016
+22609
+MZ/AIZ/83D16/2016/113
+Mizoram
+Aizawl
+ 
+Near Sakawrdai School
+24.218066
+92.951214
+Earth
+Slide
+2016
+22610
+MZ/AIZ/83D16/2016/27
+Mizoram
+Aizawl
+ 
+S. Of N.Hlimen
+24.220596
+92.802961
+Earth
+Slide
+2016
+22611
+MZ/AIZ/83D16/2016/128
+Mizoram
+Aizawl
+ 
+Sakawrdai
+24.222837
+92.952639
+Earth
+Slide
+NA
+22612
+MZ/AIZ/83D16/2016/24
+Mizoram
+Aizawl
+ 
+East of North Hlimen
+24.225579
+92.805884
+Debris
+Slide
+2016
+22613
+MZ/AIZ/83D16/2016/28
+Mizoram
+Aizawl
+ 
+E. Of N. Hlimen
+24.225691
+92.805445
+Debris
+Slide
+2016
+22614
+MZ/AIZ/83D16/2016/23
+Mizoram
+Aizawl
+ 
+East of North Hlimen
+24.225969
+92.805611
+Debris
+Slide
+2016
+22615
+MZ/AIZ/83D16/2016/30
+Mizoram
+Aizawl
+ 
+East of North Hlimen
+24.229303
+92.819002
+Earth
+Slide
+2015
+22616
+MZ/AIZ/83D16/2016/31
+Mizoram
+Aizawl
+ 
+East of North Hlimen
+24.232551
+92.81525
+Earth
+Slide
+2015
+22617
+MZ/AIZ/83D16/2016/129
+Mizoram
+Aizawl
+ 
+E.of Vaitin
+24.233808
+92.978777
+Earth
+Slide
+NA
+22618
+MZ/AIZ/83D16/2016/33
+Mizoram
+Aizawl
+ 
+N. Hlimen (on the way to pump 
+house)
+24.237794
+92.805727
+Debris
+Slide
+2016
+22619
+MZ/KOL/83D12/2016/16
+Mizoram
+Kolasib
+ 
+towards chimluang suam
+24.23782
+92.612062
+Rock
+Slide
+2016
+22620
+MZ/AIZ/83D16/2016/32
+Mizoram
+Aizawl
+ 
+West of N. Hlimen (near pump 
+house)
+24.237872
+92.798117
+Debris
+Slide
+2016
+22621
+MZ/KOL/83D12/2016/5
+Mizoram
+Kolasib
+ 
+kolasib nh54
+24.238745
+92.681538
+Earth
+Slide
+2016
+22622
+MZ/KOL/83D12/2016/21
+Mizoram
+Kolasib
+ 
+towards kolasib
+24.239118
+92.639369
+Rock
+Slide
+NA
+22623
+MZ/MAM/83D08/2020/1
+Mizoram
+Mamit
+Luimawi-Thinghlun slide
+Luimawi-Thinghlun road section 24.24
+92.36
+Debris
+Slide
+2019
+22624
+MZ/KOL/83D12/2016/1
+Mizoram
+Kolasib
+ 
+Rengtekawn
+24.240244
+92.694292
+Debris
+Slide
+2016
+22625
+MZ/AIZ/83D16/2016/133
+Mizoram
+Aizawl
+ 
+Sakawrdai - N. Khawdungsei Rd 24.240415
+92.941421
+Rock
+Slide
+2016
+22626
+MZ/AIZ/83D16/2016/130
+Mizoram
+Aizawl
+ 
+Near Sakawrdai
+24.242764
+92.955406
+Debris
+Slide
+NA
+22627
+MZ/KOL/83D12/2016/22
+Mizoram
+Kolasib
+ 
+towards kolasib
+24.243567
+92.645801
+Earth
+Slide
+NA
+22628
+MZ/KOL/83D12/2016/6
+Mizoram
+Kolasib
+ 
+tuithaveng
+24.24496
+92.683014
+Debris
+Slide
+2016
+22629
+MZ/KOL/83D12/2016/7
+Mizoram
+Kolasib
+ 
+tuithaveng check post
+24.245649
+92.681551
+Earth
+Slide
+2016
+22630
+MZ/AIZ/83D16/2016/132
+Mizoram
+Aizawl
+ 
+west of Sakawrdai towards 
+North Khawdungsei
+24.246076
+92.948994
+Debris
+Slide
+NA
+22631
+MZ/AIZ/83D16/2016/131
+Mizoram
+Aizawl
+ 
+west of Sakawrdai towards 
+North Khawdungsei
+24.248558
+92.954177
+Debris
+Slide
+2016
+22632
+MZ/KLS/83D11/2020/17
+Mizoram
+Kolasib
+GosenVeng slide 2
+NH-54
+24.25
+92.68
+Rock
+Slide
+NA
+22633
+MZ/KLS/83D11/2020/16
+Mizoram
+Kolasib
+GosenVeng slide 1
+NH-54
+24.26
+92.69
+Debris
+Slide
+NA
+22634
+MZ/KLS/83D11/2020/18
+Mizoram
+Kolasib
+GosenVeng slide 3
+NH-54
+24.26
+92.67
+Debris
+Slide
+NA
+22635
+MZ/KLS/83D11/2020/19
+Mizoram
+Kolasib
+N/A
+N/A
+24.26
+92.65
+Rock
+Slide
+NA
+22636
+MZ/KLS/83D11/2020/20
+Mizoram
+Kolasib
+Zero Point slide 6
+NH-154
+24.26
+92.65
+Rock
+Slide
+NA
+22637
+MZ/KLS/83D11/2020/11
+Mizoram
+Kolasib
+Zero Point slide 2
+Saihapui K-Zero Point road
+24.26
+92.65
+Debris
+Slide
+NA
+22638
+MZ/AIZ/83D15/2020/7
+Mizoram
+Aizawl
+Zohmun-Sakawrdai section slide
+Zohmun-Sakawrdai road section 24.26
+92.96
+Rock
+Slide
+2019
+22639
+MZ/KOL/83D15/2020/16
+Mizoram
+Kolasib
+N. Hlimen slide 1
+N. Hlimen-Saipum road section
+24.26
+92.81
+Debris
+Slide
+2019
+22640
+MZ/KOL/83D15/2020/17
+Mizoram
+Kolasib
+N. Hlimen slide 2
+N. Hlimen-Saipum road section
+24.26
+92.81
+Debris
+Flow
+2019
+22641
+MZ/KLS/83D11/2020/10
+Mizoram
+Kolasib
+Zero Point slide 1
+Saihapui K-Zero Point road
+24.27
+92.65
+Debris
+Slide
+NA
+22642
+MZ/KLS/83D11/2020/12
+Mizoram
+Kolasib
+Zero Point slide 3
+Saihapui K-Zero Point road
+24.27
+92.65
+Debris
+Slide
+NA
+22643
+MZ/KLS/83D11/2020/13
+Mizoram
+Kolasib
+Zero Point slide 4
+Saihapui K-Zero Point road
+24.27
+92.65
+Rock
+Slide
+NA
+22644
+MZ/KOL/83D15/2020/18
+Mizoram
+Kolasib
+N. Hlimen slide 3
+N. Hlimen-Saipum road section
+24.27
+92.81
+Debris
+Slide
+2019
+22645
+MZ/KLS/83D11/2020/8
+Mizoram
+Kolasib
+Saihapui K slide 1
+Bukvannei- Saihapui K road
+24.28
+92.64
+Debris
+Slide
+NA
+22646
+MZ/KLS/83D11/2020/9
+Mizoram
+Kolasib
+Saihapui K slide 2
+Bukvannei- Saihapui K road
+24.28
+92.65
+Debris
+Slide
+NA

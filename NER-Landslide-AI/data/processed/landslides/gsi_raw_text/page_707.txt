@@ -1,0 +1,244 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27898
+Tamil 
+Nadu/THENI/58F/8/2014/12.
+Tamil Nadu
+Theni
+Slide 12
+NH-49 Ext. between Mundal- 
+Munnar Road
+10.0399
+77.2908
+Boulders earth and 
+trees.
+Fall
+October 2014
+27899
+Tamil 
+Nadu/THENI/58F/8/2014/13.
+Tamil Nadu
+Theni
+Slide 13
+NH-49 Ext. between Mundal- 
+Munnar Road
+10.0387
+77.2836
+Soil/earth.
+Slide
+October 2014
+27900
+Tamil 
+Nadu/THENI/58F/8/2014/14.
+Tamil Nadu
+Theni
+Slide 14
+NH-49 Ext. between Mundal- 
+Munnar Road
+10.0362
+77.2823
+Overburden material Slide
+October 2014
+27901
+Tamil 
+Nadu/THENI/58F/8/2014/16.
+Tamil Nadu
+Theni
+Slide 16
+NH-49 Ext. between Mundal- 
+Munnar Road
+10.0349
+77.2793
+Soil and weathered 
+rock.
+Slide
+October 2014
+27902
+Tamil 
+Nadu/THENI/58F/8/2014/07.
+Tamil Nadu
+Theni
+Slide/06
+NH-49 Ext. between Mundal- 
+Munnar Road
+10.0364
+77.2779
+Soil and weathered 
+rock
+Fall
+02 November 2013, October 2014
+27903
+Tamil 
+Nadu/THENI/58F/8/2014/09.
+Tamil Nadu
+Theni
+Slide/08
+NH-49 Ext. between Mundal- 
+Munnar Road, near HPB no. 2
+10.0448
+77.3038
+Rock fragment, soil.
+Fall
+October 2014
+27904
+Tamil 
+Nadu/THENI/58F/8/2014/11.
+Tamil Nadu
+Theni
+Slide 11
+NH-49 Ext. between Mundal- 
+Munnar Road
+10.0456
+77.3024
+Boulders, soil.
+Fall.
+October 2014
+27905
+Tamil 
+Nadu/THENI/58F/8/2014/15.
+Tamil Nadu
+Theni
+Slide/15
+NH-49 Ext. between Mundal- 
+Munnar Road.
+10.036
+77.277
+Debris flow
+Flow
+02 November 2013, October 2014
+27906
+Tamil 
+Nadu/Dindigul/58F/11/2017/01.
+Tamil Nadu
+Dindigul
+Near B.L.Shed/Slide 01
+Near B.L.Shed
+10.29675
+77.55144444
+Earth/soil with rock 
+fragments and trees
+Slide
+02 September 2017
+27907
+Tamil 
+Nadu/Dindigul/58F/11/2017/02.
+Tamil Nadu
+Dindigul
+Near B.L.Shed/Slide 02
+Near B.L.Shed
+10.29675
+77.55144444
+Earth/soil with rock 
+fragments and trees
+Slide
+02 September 2017
+27908
+Tamil 
+Nadu/Dindigul/58F/11/2017/03.
+Tamil Nadu
+Dindigul
+Pethuparai Pirivu slide 03
+Pethuparai Pirivu
+10.30719444
+77.55527778
+Debris with rock 
+fragments
+Slide
+02 September 2017
+27909
+Tamil 
+Nadu/Dindigul/58F/11/2017/04.
+Tamil Nadu
+Dindigul
+Pethuparai Pirivu slide 04
+Near Pethuparai Pirivu
+10.30777778
+77.55672222
+Debris with rock 
+fragments
+Rock toppling
+02 September 2017
+27910
+Tamil 
+Nadu/Dindigul/58F/11/2017/05.
+Tamil Nadu
+Dindigul
+Vadakavunchi slide 05
+Near Vadakavunchi
+10.31041667
+77.56047222
+Earth/soil with rock 
+fragments
+Slide
+02 September 2017
+27911
+Tamil 
+Nadu/Dindigul/58F/11/2017/06.
+Tamil Nadu
+Dindigul
+Vadakavunchi slide 06
+Near Vadakavunchi
+10.31061111
+77.56072222
+Rock with Boulders
+Slide
+02 September 2017
+27912
+Tamil 
+Nadu/Nilgiri/58A/15/2017/01.
+Tamil Nadu
+Nilgiri
+Slide 01
+NH-67
+11.33736111
+76.82255556
+Earth/debris
+Slide
+12 September 2017
+27913
+Tamil 
+Nadu/Nilgiri/58A/11/2017/02.
+Tamil Nadu
+Nilgiri
+Slide 02
+Nundanamattam
+11.35680278
+76.69265833
+Earth/debris
+Slide
+12 September 2017
+27914
+Tamil 
+Nadu/Nilgiri/58A/07/2017/03.
+Tamil Nadu
+Nilgiri
+Slide 03
+Kilenadugani
+11.44088889
+76.39384444
+Debris with rock 
+fragments
+Slide
+12 September 2017
+27915
+Tamil 
+Nadu/Nilgiri/58A/15/2017/03.
+Tamil Nadu
+Nilgiri
+Slide 04
+Kattabettu
+11.41589167
+76.817125
+Debris
+slide
+10 September 2017

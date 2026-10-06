@@ -1,0 +1,547 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16140
+KER/PKD/58B09/2019/07
+Kerala
+Palakkad
+Davasam mala 1
+Maruthumkadu, Karimba
+10.93001944
+76.54656667
+Debris
+Flow
+9th August 2019
+16141
+KER/PKD/58B09/2019/08
+Kerala
+Palakkad
+Davasam mala 2
+Maruthumkadu, Karimba
+10.929775
+76.54821667
+Debris
+Flow
+9th August 2019
+16142
+KER/PKD/58B09/2019/9
+Kerala
+Palakkad
+Davasam mala 3
+Maruthumkadu, Karimba
+10.92965833
+76.55001111
+Debris
+Flow
+9th August 2019
+16143
+KER/PKD/58B09/2019/10
+Kerala
+Palakkad
+Mudanadumala-1
+Maruthumkadu, Karimba
+10.93273333
+76.54941111
+Debris
+Flow
+9th August 2019
+16144
+KER/PKD/58B09/2019/11
+Kerala
+Palakkad
+Kallamkunnu ST colony
+Maruthumkadu
+10.93533889
+76.54992778
+Debris
+Flow
+9th August 2019
+16145
+KER/PKD/58B09/2019/12
+Kerala
+Palakkad
+Mundanadumala-2
+Karimba
+10.93366667
+76.55814722
+Debris
+Flow
+9th August 2019
+16146
+KER/PKD/58B09/2019/13
+Kerala
+Palakkad
+Karimba plantation -1
+Mundanadumala
+10.93296389
+76.55868333
+Debris
+Flow
+9th August 2019
+16147
+KER/PKD/58B09/2019/14
+Kerala
+Palakkad
+Karimba plantation 2
+Mundanadumala
+10.93354167
+76.56056944
+Debris
+Flow
+9th August 2019
+16148
+KER/PKD/58B09/2019/15
+Kerala
+Palakkad
+Attakunnu
+Attakunnu
+10.93145
+76.56262222
+Debris
+Flow
+9th August 2019
+16149
+KER/PKD/58B09/2019/16
+Kerala
+Palakkad
+Edapparambu Munnekkar 1
+Munnekkar
+10.93150833
+76.56727222
+Debris
+Flow
+9th August 2019
+16150
+KER/PKD/58B09/2019/17
+Kerala
+Palakkad
+Edapparambu Munnekkar 2
+Munnekkar
+10.93093056
+76.56888889
+Debris
+Flow
+9th August 2019
+16151
+KER/PKD/58B09/2019/18
+Kerala
+Palakkad
+Edapparambu Munnekkar 3
+Munnekkar
+10.93344722
+76.57231944
+Debris
+Flow
+9th August 2019
+16152
+KER/PKD/58B09/2019/19
+Kerala
+Palakkad
+Cherumala
+Cherumala
+10.91564722
+76.562425
+Debris
+Flow
+9th August 2019
+16153
+KER/PKD/58B09/2019/20
+Kerala
+Palakkad
+Tudikode 1
+Tudikode
+10.91636389
+76.56464167
+Debris
+Flow
+9th August 2019
+16154
+KER/PKD/58B09/2019/21
+Kerala
+Palakkad
+Tudikode 2
+Tudikode
+10.91643056
+76.56514444
+Debris
+Flow
+9th August 2019
+16155
+KER/PKD/58B09/2019/22
+Kerala
+Palakkad
+Putukkadu
+Putukkadu
+10.94842778
+76.538925
+Debris
+Flow
+9th August 2019
+16156
+KER/PKD/58B09/2019/23
+Kerala
+Palakkad
+Anchekkar 1
+Puzhikunnu
+10.94418056
+76.54108056
+Debris
+Flow
+9th August 2019
+16157
+KER/PKD/58B09/2019/24
+Kerala
+Palakkad
+Anchekkar 2
+Puzhikunnu
+10.94506389
+76.54063333
+Debris
+Flow
+9th August 2019
+16158
+KER/PKD/58B09/2019/25
+Kerala
+Palakkad
+Puzhikunnu 1
+Puzhikunnu
+10.93711944
+76.54036667
+Debris
+Flow
+9th August 2019
+16159
+KER/PKD/58B09/2019/26
+Kerala
+Palakkad
+Puzhikunnu 2
+Puzhikunnu
+10.93895833
+76.54320833
+Debris
+Flow
+9th August 2019
+16160
+KER/PKD/58B09/2019/27
+Kerala
+Plakkad
+Tharupapathy slide-I
+Tharupapathy
+10.94908611
+76.55337222
+Debris
+Flow
+9th August 2019
+16161
+KER/PKD/58B09/2019/28
+Kerala
+Palakkad
+Tharupapathy-2
+Tharupapathy
+10.94708611
+76.55448611
+Debris
+Flow
+9th August 2019
+16162
+KER/PKD/58B09/2019/29
+Kerala
+Palakkad
+Tharupapathy-3
+Tharupapathy
+10.94464722
+76.556325
+Debris
+Slide
+9th August 2019
+16163
+KER/PKD/58B09/2019/30
+Kerala
+Palakkad
+Tharupapathy-4
+Karimba plantation
+10.93981944
+76.56055833
+Debris
+Slide
+9th August 2019
+16164
+KER/PKD/58B09/2019/31
+Kerala
+Palakkad
+Tharupapathy-5
+Karimba plantation
+10.93958611
+76.56125278
+Debris
+Flow
+9th August 2019
+16165
+KER/PKD/58B09/2019/32
+Kerala
+Palakkad
+Pambadi 1
+Vattappara, Pambadi
+10.97715833
+76.59856389
+Debris
+Flow
+9th August 2019
+16166
+KER/PKD/58B09/2019/33
+Kerala
+Palakkad
+Pambadi 2
+Vattappara, Pambadi
+10.97710278
+76.59575556
+Debris
+flow
+9th August 2019
+16167
+KER/PKD/58B09/2019/34
+Kerala
+Palakkad
+Pambadi 3
+Vattappara, Pambadi
+10.97733611
+76.59391944
+Debris
+Flow
+9th August 2019
+16168
+KER/PKD/58B09/2019/35
+Kerala
+Palakkad
+Vattappara-Kundampotti stretch
+Vattappara, Pambadi
+10.97733611
+76.59391944
+NA
+Subsidence
+9th August 2019
+16169
+KER/PKD/58B09/2019/36
+Kerala
+Palakkad
+Vattappara Anganvadi
+10.97979444
+76.59070278
+Debris
+Slide
+9th August 2019
+16170
+KER/PKD/58B09/2019/37
+Kerala
+Palakkad
+Achilatti 1
+10.95162222
+76.56496389
+Debris
+Flow
+ 09 August 2019 12.50 am
+16171
+KER/PKD/58B09/2019/38
+Kerala
+Palakkad
+Injikunnu
+Near PHC Palakayam
+10.96787778
+76.56013056
+Debris
+Slide
+2018,  2019
+16172
+KER/PKD/58B09/2019/39
+Kerala
+Palakkad
+Payapulla
+Payapulla
+10.97759444
+76.55097778
+Debris
+flow
+2019
+16173
+KER/PKD/58B09/2019/40
+Kerala
+Palakkad
+Irumbakacholla
+Irumbakacholla
+11.00204444
+76.57813889
+Debris
+Flow
+09 August 2019, 02.30 pm
+16174
+KER/PKD/58B12/2019/41
+Kerala
+Palakkad
+Palliyara
+Attapadi
+11.07565833
+76.64406667
+Debris
+Flow
+9th August 2019
+16175
+KER/PKD/58B12/2019/42
+Kerala
+Palakkad
+Pulliyara-1
+11.02786944
+76.61968056
+Debris
+flow
+9th August 2019
+16176
+KER/PKD/58B12/2019/43
+Kerala
+Palakkad
+Pulliyara-2
+11.02803611
+76.61989444
+Debris
+Slide
+8th August 2019
+16177
+KER/PKD/58B12/2019/44
+Kerala
+Palakkad
+Pulliyara-3
+11.02778611
+76.62028611
+Debris
+slide
+8th August 2019
+16178
+KER/PKD/58B12/2019/45
+Kerala
+Palakkad
+Pulliyara-4
+Kallamala village
+11.02558889
+76.61841111
+Debris
+Slide
+2018, Subsidence
+16179
+KER/PKD/58B12/2019/46
+Kerala
+Palakkad
+Melekuravanpadi
+Kuravanpadi
+11.036675
+76.64236944
+Debris
+slide
+8th August 2019
+16180
+KER/PKD/58B12/2019/47
+Kerala
+Palakkad
+Koravanpadi
+Koravanpadi
+11.04895556
+76.64311389
+Debris
+Flow
+8th August 2019
+16181
+KER/PKD/58B12/2019/48
+Kerala
+Palakkad
+Chittor-1
+Chittoor
+11.06694444
+76.65391944
+Debris
+Slide
+8th August 2019
+16182
+KER/PKD/58B12/2019/49
+Kerala
+Palakkad
+Chittoor-2
+Chittoor
+11.06723611
+76.65419722
+Debris
+Slide
+8th August 2019
+16183
+KER/PKD/58B12/2019/50
+Kerala
+Palakkad
+Chittor-3
+Chittoor
+11.07501111
+76.65841944
+Debris
+Slide
+8th August 2019
+16184
+KER/PKD/58B12/2019/51
+Kerala
+Palakkad
+Ommala-Kandiyoor
+11.07280556
+76.59499444
+Debris
+Subsidence
+8th August 2019
+16185
+KER/PKD/58B12/2019/52
+Kerala
+Palakkad
+Anamooli
+Anamooli
+11.03304167
+76.51463889
+NA
+Cracks
+8th August 2019
+16186
+KE/IDK/58F04/2020/01 
+Kerala 
+Idukki 
+Pettimudi 
+Eravikulam-KDH-Idamalakudi 
+road 
+10.171695
+77.011305
+Debris
+Flow 
+6th August 2020 (22:30 hrs.) 
+16187
+KRL/IDK/58C14/2018/01
+Kerala
+Idukki
+Kokkayar Slide
+Kokkayar- Mundakkayam road, 
+Kokkayar Village
+9.572783333
+76.88681944
+Debris
+Slide
+16th October, 2021
+16188
+KRL/IDK/58C14/2018/02
+Kerala
+Idukki
+Urumbikara 1
+Kokkayar Village
+9.604722222
+76.89888889
+Debris
+Flow
+16th October, 2021

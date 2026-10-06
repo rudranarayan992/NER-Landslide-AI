@@ -1,0 +1,392 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1649
+AP/LDV/82P16/2022/41
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 25.1 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.245371
+95.774057
+Debris
+Slide
+NA
+1650
+AP/LDV/82P16/2022/35
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 44.5 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.246304
+95.889037
+Rock
+Slide
+NA
+1651
+AP/LDV/82P16/2022/77
+Arunachal Pradesh
+Lower Dibang Valley
+From Bomjir 14.3 kms along NH-13 
+towards Pasighat
+ NH-313 (Roing-Pasighat road)
+28.246512
+95.541646
+Rock
+Slide
+NA
+1652
+AP/LDV/82P16/2022/78
+Arunachal Pradesh
+Lower Dibang Valley
+From Bomjir 13.6 kms along NH-13 
+towards Pasighat
+ NH-313 (Roing-Pasighat road)
+28.249718
+95.546273
+Debris
+Slide
+NA
+1653
+AP/LDV/82P11/2022/LS71
+Arunachal Pradesh
+Lower Dibang Valley
+Sisseri bridge slide
+NH-13, towards sisseri bridge
+28.251139
+95.55011
+Debris
+Slide
+NA
+1654
+AR/ANJ/91D11/2014/38
+Arunachal Pradesh
+Anjaw
+ 
+H. M. C. Road
+28.25203
+96.54264
+Debris
+Slide
+2013
+1655
+AP/LDV/82P16/2022/45
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 26.2 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.252176
+95.775797
+Rock
+Slide
+NA
+1656
+AP/LDV/82P15/2022/18
+Arunachal Pradesh
+Lower Dibang Valley
+500 m south from landslide no. 44
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.252507
+95.781741
+Debris
+Slide
+NA
+1657
+AP/LDV/82P16/2022/24
+Arunachal Pradesh
+Lower Dibang Valley
+From Mayudia Pass 3.1 kms along NH-
+313 towards Hunli
+ NH-313 (Roing-Anini road)
+28.253453
+95.908055
+Rock
+Slide
+NA
+1658
+AP/LDV/82P11/2022/LS72
+Arunachal Pradesh
+Lower Dibang Valley
+Sisseri bridge slide
+NH-13, towards Sesseri bridge
+28.253915
+95.578439
+Debris
+Slide
+NA
+1659
+AP/LDV/82P11/2022/LS73
+Arunachal Pradesh
+Lower Dibang Valley
+Sisseri bridge slide
+NH-13, near Sesseri bridge
+28.254509
+95.581558
+Debris
+Slide
+NA
+1660
+AP/LDV/82P11/2022/LS74
+Arunachal Pradesh
+Lower Dibang Valley
+Sisseri bridge slide
+NH-13, Sesseri Bridge
+28.255059
+95.576996
+Debris
+Slide
+NA
+1661
+AP/E-Siang/82P8/2021/LS24
+Arunachal Pradesh
+Lower Dibang Valley
+LS-24
+NH-13
+28.255261
+95.582613
+Rock
+Wedge failure
+NA
+1662
+AP/LDV/82P11/2022/LS75
+Arunachal Pradesh
+Lower Dibang Valley
+LS-75
+NH-13
+28.255355
+95.551658
+Debris
+Slide
+NA
+1663
+AP/E-Siang/82P8/2021/LS25
+Arunachal Pradesh
+Lower Dibang Valley
+LS-25
+NH-13, towards Rengging
+28.255703
+95.55061
+Rock
+Wedge failure
+NA
+1664
+AP/LDV/82P15/2022/23
+Arunachal Pradesh
+Lower Dibang Valley
+  From Mayudia Pass 3.5 kms along 
+NH-313 towards Hunli
+ NH-313 (Roing-Anini road)
+28.255967
+95.907144
+Rock
+Slide
+NA
+1665
+AP/E-Siang/82P8/2021/LS26
+Arunachal Pradesh
+Lower Dibang Valley
+LS-26
+NH-13
+28.256126
+95.576152
+Debris
+Slide
+NA
+1666
+AP/LDV/82P11/2022/LS77
+Arunachal Pradesh
+Lower Dibang Valley
+LS-77
+NH-13
+28.256397
+95.550978
+Debris
+Slide
+NA
+1667
+AP/LDV/82P11/2022/LS76
+Arunachal Pradesh
+Lower Dibang Valley
+Sisseri bridge slide
+NH-13, towards Sesseri bridge
+28.256434
+95.57515
+Debris
+Slide
+NA
+1668
+AP/LDV/82P11/2022/LS84
+Arunachal Pradesh
+Lower Dibang Valley
+Sisseri bridge slide
+NH-13, Sesseri Bridge
+28.25701
+95.551656
+Debris
+Slide
+NA
+1669
+AP/LDV/82P15/2022/20
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 26.8 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.257258
+95.777764
+Debris
+Slide
+NA
+1670
+AP/E-Siang/82P8/2021/LS27
+Arunachal Pradesh
+Lower Dibang Valley
+LS-27
+NH-513, towards Bodak village
+28.25736
+95.55087
+Debris
+Slide
+NA
+1671
+AP/LDV/82P16/2022/44
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 27.2 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.257991
+95.781619
+Debris
+Slide
+NA
+1672
+AP/LDV/82P/11/2022/LS-85
+Arunachal Pradesh
+Lower Dibang Valley
+Sisseri bridge slide
+Sisseri Bridge.
+28.258122
+95.55209
+Debris
+Slide
+NA
+1673
+AP/LDV/82P/11/2022/LS-86
+Arunachal Pradesh
+Lower Dibang Valley
+Sisseri bridge slide
+Sisseri bridge
+28.258144
+95.551252
+Debris
+Slide
+NA
+1674
+AR/ANJ/91D11/2014/32
+Arunachal Pradesh
+Anjaw
+Metumna slide
+H.M.C. Road
+28.25897
+96.54433
+Rock
+Topple
+2013
+1675
+AP/LDV/82P15/2022/17
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 27.5 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.259524
+95.780336
+Debris
+Slide
+NA
+1676
+AP/LDV/82P/11/2022/LS-87
+Arunachal Pradesh
+Lower Dibang Valley
+ Sisseri bridge slide
+Sisseri bridge.
+28.259561
+95.568965
+Debris
+Slide
+NA
+1677
+AR/ESI/82L15/2022/54
+Arunachal Pradesh
+East Siang
+Sangram Bridge-Boleng Road Slide
+Sangram Bridge-Boleng Road
+28.260051
+94.984752
+Rock-cum-Debris
+Slide
+NA
+1678
+AP/LDV/82P15/2022/22
+Arunachal Pradesh
+Lower Dibang Valley
+From Mayudia Pass 4.5 kms along NH-
+313 towards Hunli
+ NH-313 (Roing-Anini road)
+28.26053
+95.904556
+Rock
+Slide
+NA
+1679
+AP/LDV/82P/11/2022/LS-88
+Arunachal Pradesh
+Lower Dibang Valley
+ Sisseri bridge slide
+Sisseri bridge
+28.261147
+95.567331
+Debris
+Slide
+NA
+1680
+AP/LDV/82P/11/2022/LS-89
+Arunachal Pradesh
+Lower Dibang Valley
+ Sisseri bridge slide
+ Sisseri bridge
+28.261379
+95.566909
+Rock
+Wedge failure
+NA
+1681
+AP/LDV/82P/11/2022/LS-90
+Arunachal Pradesh
+Lower Dibang Valley
+ Near Sisseri bridge slide
+ Near Sisseri bridge
+28.261999
+95.56626
+Debris
+Slide
+NA

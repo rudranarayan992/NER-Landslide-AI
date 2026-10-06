@@ -1,0 +1,331 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+7785
+HP/CHA/52D11/2020/3
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.57
+Debris
+Slide
+NA
+7786
+HP/CHA/52D11/2020/4
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.58
+Rock
+Slide
+NA
+7787
+HP/CHA/52D11/2020/13
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.59
+Rock
+Slide
+NA
+7788
+HP/CHA/52D11/2020/22
+Himachal Pradesh
+Chamba
+ 
+Bharmour-Grima Rd
+32.45
+76.52
+Rock
+Slide
+NA
+7789
+HP/CHA/52D11/2020/23
+Himachal Pradesh
+Chamba
+ 
+Bharmour-Grima Rd
+32.45
+76.52
+Rock
+Slide
+NA
+7790
+HP/CHA/52D11/2020/25
+Himachal Pradesh
+Chamba
+ 
+Bharmour-Grima Rd
+32.45
+76.5
+Debris
+Slide
+NA
+7791
+HP/CHA/52D11/2020/27
+Himachal Pradesh
+Chamba
+ 
+Manimahesh Trekking Route
+32.45
+76.61
+Debris
+Slide
+NA
+7792
+HP/CHA/52D11/2020/33
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.57
+Debris
+Slide
+NA
+7793
+HP/CHA/52D11/2020/34
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.57
+Rock
+Slide
+NA
+7794
+HP/CHA/52D11/2020/36
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.57
+Rock
+Slide
+NA
+7795
+HP/CHA/52D11/2020/37
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.57
+Debris
+Slide
+NA
+7796
+HP/CHA/52D11/2020/45
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.51
+Debris
+Slide
+NA
+7797
+HP/CHA/52D11/2020/69
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.51
+Debris
+Slide
+NA
+7798
+HP/CHA/52D11/2020/70
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.51
+Debris
+Slide
+NA
+7799
+HP/CHA/52D11/2020/72
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.51
+Debris
+Slide
+NA
+7800
+HP/CHA/52D11/2020/73
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.51
+Debris
+Slide
+NA
+7801
+HP/CHA/52D11/2020/74
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.52
+Debris
+Slide
+NA
+7802
+HP/CHA/52D11/2020/75
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.52
+Debris
+Slide
+NA
+7803
+HP/CHA/52D11/2020/76
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.52
+Rock
+Slide
+NA
+7804
+HP/CHA/52D11/2020/77
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.52
+Debris
+Slide
+NA
+7805
+HP/CHA/52D11/2020/79
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.52
+Rock
+Slide
+NA
+7806
+HP/CHA/52D11/2020/80
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Bharmour-Hadsar Rd
+32.45
+76.52
+Debris
+Slide
+NA
+7807
+HP/CHA/52D11/2020/90
+Himachal Pradesh
+Chamba
+ 
+Thala-Mando Rd
+32.45
+76.56
+Debris
+Slide
+NA
+7808
+HP/CHA/52D11/2020/93
+Himachal Pradesh
+Chamba
+ 
+Thala-Mando Rd
+32.45
+76.51
+Rock
+Slide
+NA
+7809
+HP/CHA/52D11/2020/94
+Himachal Pradesh
+Chamba
+ 
+Thala- Bangela-Bharmour Rd
+32.45
+76.52
+Debris
+Slide
+NA
+7810
+HP/CHA/52D11/2020/95
+Himachal Pradesh
+Chamba
+ 
+Thala- Bangela-Bharmour Rd
+32.45
+76.52
+Debris
+Slide
+NA
+7811
+HP/CHA/52D11/2020/96
+Himachal Pradesh
+Chamba
+ 
+Thala- Bangela-Bharmour Rd
+32.45
+76.52
+Rock
+Slide
+NA
+7812
+HP/CHA/52D11/2020/97
+Himachal Pradesh
+Chamba
+ 
+Thala- Bangela-Bharmour Rd
+32.45
+76.52
+Debris
+Slide
+NA
+7813
+HP/CHA/52D11/2020/98
+Himachal Pradesh
+Chamba
+ 
+Thala- Bangela-Bharmour Rd
+32.45
+76.52
+Debris
+Slide
+NA

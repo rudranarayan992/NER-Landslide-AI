@@ -1,0 +1,349 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27192
+TN/COI/58B15/2017/78
+Tamil Nadu
+Coimbatore
+ 
+Korangamudi village
+10.309886
+76.897606
+Debris
+Slide
+NA
+27193
+TN/ANN/58F11/2016/30
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Palani
+10.310044
+77.562853
+Earth
+Slide
+NA
+27194
+TN/ANN/58F11/2016/31
+Tamil Nadu
+Dindigul
+ 
+Road from Kodaikanal to Palani 10.311542
+77.566256
+Debris
+Slide
+NA
+27195
+TN/COI/58B15/2017/76
+Tamil Nadu
+Coimbatore
+ 
+PKT Tea Estate
+10.312653
+76.982281
+Debris
+Slide
+NA
+27196
+TN/COI/58B15/2017/36
+Tamil Nadu
+Coimbatore
+ 
+West of Sholayar Dam
+10.313836
+76.892428
+Soil
+Slide
+NA
+27197
+TN/COI/58B15/2017/35
+Tamil Nadu
+Coimbatore
+ 
+Road from Urulikal Village to 
+Sholayar Dam
+10.313947
+76.892933
+Debris
+Slide
+NA
+27198
+TN/COI/58B15/2017/75
+Tamil Nadu
+Coimbatore
+ 
+Vellimalai Tea Estate
+10.314283
+76.979111
+Soil
+Slide
+NA
+27199
+TN/COI/58B15/2017/34
+Tamil Nadu
+Coimbatore
+ 
+Road from Urulikal Village to 
+Sholayar Dam
+10.314694
+76.893206
+Soil cum debris
+Slide
+NA
+27200
+TN/COI/58B15/2017/33
+Tamil Nadu
+Coimbatore
+ 
+Road from Urulikal Village to 
+Sholayar Dam
+10.315153
+76.893475
+Soil
+Slide
+NA
+27201
+TN/ANN/58F11/2016/32
+Tamil Nadu
+Dindigul
+ 
+Road from Kodaikanal to 
+Melpallam, Palani road
+10.31525
+77.566206
+Debris
+Slide
+NA
+27202
+TN/ANN/58F11/2016/37
+Tamil Nadu
+Dindigul
+ 
+Road from Perumalmalai to 
+Vadakavunji
+10.315453
+77.577625
+Debris
+Slide
+NA
+27203
+TN/COI/58B15/2017/32
+Tamil Nadu
+Coimbatore
+ 
+Road from Urulikal Village to 
+Sholayar Dam
+10.316919
+76.897617
+Soil
+Slide
+NA
+27204
+TN/ANN/58F11/2016/33
+Tamil Nadu
+Dindigul
+ 
+Road from Kodaikanal to Palani 
+( South of Melpallam)
+10.317633
+77.565611
+Debris
+Slide
+NA
+27205
+TN/ANN/58F11/2016/34
+Tamil Nadu
+Dindigul
+ 
+Road from Kodaikanal to Palani 
+( South of Melpallam)
+10.318242
+77.565142
+Debris
+Slide
+NA
+27206
+TN/COI/58B15/2017/74
+Tamil Nadu
+Coimbatore
+ 
+Vellimalai Tea Estate
+10.319008
+76.981919
+Soil
+Slide
+NA
+27207
+TN/ANN/58F11/2016/35
+Tamil Nadu
+Dindigul
+ 
+Road from Kodaikanal to Palani 
+( South of Melpallam)
+10.320264
+77.559425
+Debris
+Slide
+NA
+27208
+TN/COI/58B15/2017/97
+Tamil Nadu
+Coimbatore
+ 
+Sheikalmudi colony
+10.320331
+76.844325
+Soil
+Slide
+NA
+27209
+TN/ANN/58F11/2016/36
+Tamil Nadu
+Dindigul
+ 
+Road from Kodaikanal to Palani 
+( South of Melpallam)
+10.321139
+77.565797
+Debris
+Slide
+NA
+27210
+TN/COI/58B15/2017/73
+Tamil Nadu
+Coimbatore
+ 
+Vellimalai Tea Estate
+10.32335
+76.9826
+Debris
+Slide
+NA
+27211
+TN/ANN/58F11/2016/54
+Tamil Nadu
+Dindigul
+ 
+Road from Pachaloor  to 
+ottanchathiram
+10.323417
+77.566197
+Earth
+Slide
+NA
+27212
+TN/COI/58F03/2017/78
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.325528
+77.028722
+Debris
+Slide
+NA
+27213
+TN/COI/58B15/2017/72
+Tamil Nadu
+Coimbatore
+ 
+Vellimalai Estate
+10.326347
+76.984431
+Debris
+Slide
+NA
+27214
+TN/COI/58F03/2017/77
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.326444
+77.031333
+Debris
+Slide
+NA
+27215
+TN/COI/58F03/2017/76
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.326639
+77.031889
+Debris
+Slide
+NA
+27216
+TN/COI/58F03/2017/61
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.327861
+77.052111
+Debris
+Slide
+NA
+27217
+TN/COI/58F03/2017/75
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.329167
+77.036917
+Debris
+Slide
+NA
+27218
+TN/COI/58B15/2017/124
+Tamil Nadu
+Coimbatore
+ 
+Road from Valparai to Karumala 
+Tea Estate
+10.329381
+76.961111
+Debris
+Slide
+NA
+27219
+TN/COI/58B15/2017/80
+Tamil Nadu
+Coimbatore
+ 
+Monica Estate
+10.329467
+76.935039
+Soil
+Slide
+NA
+27220
+TN/COI/58F03/2017/74
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.3295
+77.037139
+Debris
+Slide
+NA

@@ -1,0 +1,393 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+18999
+MN/TAM/83H05/2018/13
+Manipur
+Tamenglong
+ 
+Neigailong Tamenglong
+24.986444
+93.494
+Debris
+Slide
+NA
+19000
+MN/TAM/83H05/2018/15
+Manipur
+Tamenglong
+ 
+Neigailong Tamenglong
+24.986472
+93.49425
+Soil
+Slide
+NA
+19001
+MN/TAM/83H09/2018/22
+Manipur
+Tamenglong
+ 
+Below NH-137, New Salem 
+area.
+24.986861
+93.506028
+Debris
+Slide
+NA
+19002
+MAN/TAM/83H09/2007/C-3A
+Manipur
+Tamenglong
+New Salem Leikai slide
+ 
+24.98722
+93.50361
+Debris
+Slide
+28.08.2007
+19003
+MAN/TAM/83H09/2007/C-3B
+Manipur
+Tamenglong
+New Salem Leikai-2 slide
+ 
+24.98722
+93.50361
+Debris
+Slide
+28.08.2007
+19004
+MN/TAM/83H09/2018/20
+Manipur
+Tamenglong
+ 
+NH-137
+24.987361
+93.525333
+Rock
+Slide
+NA
+19005
+MN/TAM/83H09/2018/21
+Manipur
+Tamenglong
+ 
+Below LS-15, New Salem, 
+Tamenglong
+24.987464
+93.506244
+Soil
+Slide
+NA
+19006
+MN/TAM/83H09/2018/15
+Manipur
+Tamenglong
+ 
+Below Police Station, New 
+Salem, Tamenglong
+24.987583
+93.506167
+Debris
+Slide
+NA
+19007
+MN/TAM/83H05/2018/12
+Manipur
+Tamenglong
+ 
+Tamenglong
+24.987667
+93.494361
+Debris
+Slide
+NA
+19008
+MN/NON/83H09/2018/71
+Manipur
+Noney
+ 
+Noney to Kabui Khullen road
+24.987986
+93.671258
+Debris
+Slide
+NA
+19009
+MN/TAM/83H09/2018/25
+Manipur
+Tamenglong
+ 
+Tamenglong town, 150m NW of 
+LS-15
+24.989697
+93.507075
+Debris
+Slide
+NA
+19010
+MN/UKH/83L01/2018/17
+Manipur
+Ukhrul
+ 
+NH 102
+24.989944
+94.233611
+Soil cum debris
+Slide
+NA
+19011
+MAN/TAM/83H09/2007/C-7A
+Manipur
+Tamenglong
+Capentry area slide
+ 
+24.99083
+93.50583
+Debris
+Slide
+28 August 2007
+19012
+MAN/TAM/83H09/2007/C-7B
+Manipur
+Tamenglong
+Capentary area-2 slide
+ 
+24.99083
+93.50583
+Debris
+Slide
+28 August 2007
+19013
+MN/UKH/83L01/2018/18
+Manipur
+Ukhrul
+ 
+NH 102
+24.991444
+94.2345
+Rock cum debris
+Slide
+NA
+19014
+MN/KAM/83L09/2017/13
+Manipur
+Kamjong
+ 
+Maokot
+24.991833
+94.603306
+Debris
+Slide
+NA
+19015
+MN/UKL/83L01/2018/008
+Manipur
+Ukhrul
+New Heaven Slide
+Old Imphal ΓÇô Ukhrul road
+24.992889
+94.230583
+Rock
+Slide
+first week of July, 2018
+19016
+MAN/TAM/83H05/2007/C-5
+Manipur
+Tamenglong
+Guigailuang-2 slide
+ 
+24.99306
+93.4975
+Debris
+Slide
+28 August 2007
+19017
+MN/UKH/83L01/2018/14
+Manipur
+Ukhrul
+ 
+Lamlai Chingphei
+24.994278
+94.205917
+Rock cum debris
+Slide
+28 August 2007
+19018
+MN/KAN/83L01/2018/46
+Manipur
+Kangpokpi
+ 
+Khonkon village
+24.996444
+94.021444
+Rock cum debris
+Slide
+NA
+19019
+MAN/TAM/83H09/2007/C-6
+Manipur
+Tamenglong
+Tamenglong-2 slide
+ 
+24.99694
+93.50222
+NA
+ 
+28 August 2007
+19020
+MN/KAN/83L01/2018/47
+Manipur
+Kangpokpi
+ 
+Khonkon village
+24.997972
+94.020444
+Rock cum debris
+Slide
+28 August 2007
+19021
+MAN/UKH/83K08/2015/008
+Manipur
+Ukhrul
+ 
+Near Shangshak village
+25.002611
+94.330278
+Earth
+Subsidence
+NA
+19022
+MAN/TAM/83G12/2017/0054
+Manipur
+Tamenglong
+ 
+Dailong road
+25.006694
+93.523444
+Rock
+Slide
+NA
+19023
+MAN/UKH/83K08/2015/013
+Manipur
+Ukhrul
+ 
+3km S of Gamnum village
+25.007917
+94.452972
+Debris
+Slide
+NA
+19024
+MAN/UKH/83K08/2015/007
+Manipur
+Ukhrul
+ 
+Nearly 3 km away from 
+Finchcorner, on the way to 
+Shagshak
+25.010139
+94.317306
+Earth
+Subsidence
+NA
+19025
+MAN/UKH/83K08/2015/014
+Manipur
+Ukhrul
+ 
+Nearly 6km from Changa on the 
+way to Gamnum
+25.012111
+94.464833
+Debris
+Slide
+NA
+19026
+MAN/TAM/83G12/2017/0056
+Manipur
+Tamenglong
+ 
+Dailong road
+25.013083
+93.530111
+Debris
+Slide
+NA
+19027
+MAN/TAM/83G12/2017/0055
+Manipur
+Tamenglong
+ 
+Dailong road
+25.013161
+93.529758
+Debris
+Slide
+NA
+19028
+MAN/TAM/83G12/2017/0057
+Manipur
+Tamenglong
+ 
+Dailong road
+25.013472
+93.530472
+Rock
+Slide
+NA
+19029
+MAN/SEN/83K04/2015/99
+Manipur
+Senapati
+ 
+ALONG SAIKUL ROAD
+25.016375
+94.021711
+Debris
+Slide
+2015
+19030
+MAN/UKH/83K08/2015/006
+Manipur
+Ukhrul
+ 
+Ukhrul- Imphal Highway, Near 
+Patkai College
+25.019139
+94.332472
+Debris
+Subsidence
+NA
+19031
+MAN/UKH/83K08/2015/009
+Manipur
+Ukhrul
+ 
+Nearly 2km N of Changa Village 25.020361
+94.4095
+Debris
+Subsidence
+NA
+19032
+MAN/UKH/83K08/2015/015
+Manipur
+Ukhrul
+ 
+2km E of Gamnum
+25.023056
+94.449306
+Debris
+Slide
+NA

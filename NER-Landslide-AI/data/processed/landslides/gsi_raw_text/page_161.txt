@@ -1,0 +1,506 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+6792
+HP/KAN/53A01/2018/6
+Himachal Pradesh
+Kangra
+ 
+Pitambari temple Bankhandi, 
+NH 20A
+31.96596
+76.204545
+Rock cum debris
+Slide
+NA
+6793
+HP/KUL/53E01/2015/72
+Himachal Pradesh
+Kullu
+ 
+ 
+31.96625
+77.0485
+Debris
+Slide
+NA
+6794
+HP/KUL/53E01/2015/50
+Himachal Pradesh
+Kullu
+ 
+NH21
+31.966417
+77.095722
+Debris
+Slide
+NA
+6795
+HP/MAN/53A09/2018/142
+Himachal Pradesh
+Mandi
+ 
+ 
+31.966611
+76.564028
+Debris
+Slide
+NA
+6796
+HP/KUL/53E01/2015/51
+Himachal Pradesh
+Kullu
+ 
+NH21
+31.966639
+77.094583
+Debris
+Slide
+NA
+6797
+HP/KUL/53E01/2015/52
+Himachal Pradesh
+Kullu
+ 
+Manikaran road
+31.966944
+77.091611
+Debris
+Slide
+NA
+6798
+HP/KUL/53E01/2015/53
+Himachal Pradesh
+Kullu
+ 
+Manikaran road
+31.966944
+77.091611
+Debris
+Slide
+NA
+6799
+HP/MAN/53A09/2018/143
+Himachal Pradesh
+Mandi
+ 
+Rajnagar- Kathala road
+31.967528
+76.563889
+Debris
+Slide
+NA
+6800
+HP/MAN/53A09/2018/144
+Himachal Pradesh
+Mandi
+ 
+ 
+31.967889
+76.563944
+Debris
+Slide
+NA
+6801
+HP/KUL/53E01/2015/74
+Himachal Pradesh
+Kullu
+ 
+ 
+31.96825
+77.044306
+Debris
+Slide
+NA
+6802
+HP/KAN/53A01/2018/9
+Himachal Pradesh
+Kangra
+ 
+Bankhandi, NH 20A near temple 31.968342
+76.203877
+Rock cum debris
+Slide
+NA
+6803
+HP/KAN/53A01/2018/11
+Himachal Pradesh
+Kangra
+ 
+Bankhandi near Temple NH 20A 31.968472
+76.203375
+Rock cum debris
+Slide
+NA
+6804
+HP/KAN/53A01/2018/8
+Himachal Pradesh
+Kangra
+ 
+Bankhandi near temple NH 20A 31.968535
+76.204325
+Rock cum debris
+Slide
+NA
+6805
+HP/KAN/53A01/2018/12
+Himachal Pradesh
+Kangra
+ 
+Bankhandi near pitambari 
+temple, NH 20A
+31.96858
+76.204817
+Rock cum debris
+Slide
+NA
+6806
+HP/KAN/53A01/2018/7
+Himachal Pradesh
+Kangra
+ 
+Bankhandi near temple,NH 20A 31.968618
+76.204408
+Rock cum debris
+Slide
+NA
+6807
+HP/KUL/53E01/2015/73
+Himachal Pradesh
+Kullu
+ 
+ 
+31.969333
+77.045333
+Debris
+Slide
+NA
+6808
+HP/MAN/53A13/2015/53
+Himachal Pradesh
+Mandi
+ 
+Guma, NH 20
+31.96958
+76.852826
+Debris
+Slide
+NA
+6809
+HP/MAN/53A13/2015/206
+Himachal Pradesh
+Mandi
+ 
+Sodgan,Barot road
+31.97036
+76.88319
+Rock
+Slide
+NA
+6810
+HP/MAN/53A13/2015/52
+Himachal Pradesh
+Mandi
+ 
+Guma, NH 20
+31.9712
+76.8518
+Rock
+Slide
+NA
+6811
+HP/KUL/53E01/2015/9
+Himachal Pradesh
+Kullu
+ 
+NH21
+31.971528
+77.207722
+Rock cum debris
+Slide
+2013
+6812
+HP/MAN/53A13/2015/73
+Himachal Pradesh
+Mandi
+ 
+Near Guma,NH 20
+31.9716
+76.8516
+Rock
+Slide
+2005
+6813
+HP/MAN/53A13/2015/71
+Himachal Pradesh
+Mandi
+ 
+Chirang, NH 20
+31.973
+76.848
+Debris
+Slide
+NA
+6814
+HP/MAN/53A09/2018/145
+Himachal Pradesh
+Mandi
+ 
+ 
+31.973028
+76.650333
+Debris
+Slide
+NA
+6815
+HP/MAN/53A13/2015/72
+Himachal Pradesh
+Mandi
+ 
+Kangalu, NH 20
+31.9733
+76.8492
+Debris
+Slide
+NA
+6816
+HP/MAN/53A13/2015/68
+Himachal Pradesh
+Mandi
+ 
+Chirang, NH 20
+31.974
+76.847
+Debris
+Slide
+NA
+6817
+HP/MAN/53A13/2015/69
+Himachal Pradesh
+Mandi
+ 
+Chirang, NH 20
+31.974
+76.847
+Debris
+Slide
+NA
+6818
+HP/MAN/53A13/2015/70
+Himachal Pradesh
+Mandi
+ 
+Chirang, NH 20
+31.974
+76.847
+Debris
+Slide
+NA
+6819
+HP/KAN/53A09/2018/146
+Himachal Pradesh
+Kangra
+ 
+Kathla-Rajnapar road
+31.974056
+76.637111
+Debris
+Slide
+2017
+6820
+HP/KUL/53E01/2015/8
+Himachal Pradesh
+Kullu
+ 
+NH21
+31.97425
+77.215722
+Debris
+Slide
+2013
+6821
+HP/KUL/53E01/2015/75
+Himachal Pradesh
+Kullu
+ 
+Bajaura -Mandi road
+31.97475
+77.037083
+Debris
+Slide
+NA
+6822
+HP/KUL/53E01/2015/40
+Himachal Pradesh
+Kullu
+ 
+Chail Chawk-Jhanjheli road
+31.97475
+77.037083
+Debris
+Slide
+NA
+6823
+HP/MAN/53A13/2015/67
+Himachal Pradesh
+Mandi
+ 
+Chirang, NH 20
+31.975
+76.847
+Debris
+Slide
+NA
+6824
+HP/KAN/53A01/2018/10
+Himachal Pradesh
+Kangra
+ 
+Bugret, NH 20A
+31.975692
+76.201752
+Debris
+Slide
+NA
+6825
+HP/MAN/53A09/2018/147
+Himachal Pradesh
+Mandi
+ 
+ 
+31.978222
+76.634778
+Debris
+Slide
+NA
+6826
+HP/MAN/53A09/2018/148
+Himachal Pradesh
+Mandi
+ 
+Daraman-Jigindernagar Rd
+31.9825
+76.711861
+Debris
+Slide
+NA
+6827
+HP/MAN/53A09/2018/149
+Himachal Pradesh
+Mandi
+ 
+ 
+31.984639
+76.627
+Debris
+Slide
+NA
+6828
+HP/MAN/53A09/2018/150
+Himachal Pradesh
+Mandi
+ 
+Daraman-Ropri Rd
+31.988917
+76.717056
+Rock cum debris
+Slide
+NA
+6829
+HP/MAN/53A13/2015/48
+Himachal Pradesh
+Mandi
+ 
+Shanan,NH 20
+31.99
+76.814
+Debris
+Slide
+NA
+6830
+HP/MAN/53A09/2018/151
+Himachal Pradesh
+Mandi
+ 
+Kothi- Baijnath road
+31.990222
+76.619167
+Debris
+Slide
+NA
+6831
+HP/MAN/52D16/2015/238
+Himachal Pradesh
+Mandi
+ 
+Barot-Jogindernagar road
+31.9948
+76.8673
+Rock
+Slide
+NA
+6832
+HP/MAN/53A13/2015/207
+Himachal Pradesh
+Mandi
+ 
+Bardhan,10m from S138 
+towards Barot,
+31.99694
+76.86703
+Debris
+Slide
+NA
+6833
+HP/MAN/53A13/2015/50
+Himachal Pradesh
+Mandi
+ 
+north of Ganain
+31.997
+76.83
+Rock
+Slide
+NA
+6834
+HP/MAN/53A13/2015/51
+Himachal Pradesh
+Mandi
+ 
+north of Ganain
+31.997
+76.831
+Rock
+Slide
+NA
+6835
+HP/MAN/53A13/2015/47
+Himachal Pradesh
+Mandi
+ 
+Joginder nagar, NH 20
+31.997639
+76.781889
+Debris
+Slide
+NA
+6836
+HP/MAN/53A13/2015/49
+Himachal Pradesh
+Mandi
+ 
+north of Ganain
+31.998
+76.828
+Rock
+Slide
+NA

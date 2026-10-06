@@ -1,0 +1,396 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12809
+KA/DK/48L13/2025/031
+Karnataka
+Dakshin Kannad
+--
+Madaka
+12.836475
+74.893236
+Debris
+Slide
+NA
+12810
+KA/DK/48L13/2025/032
+Karnataka
+Dakshin Kannad
+--
+Elyar
+12.836475
+74.893236
+Debris
+Creep
+NA
+12811
+KA/DK/48L13/2025/033
+Karnataka
+Dakshin Kannad
+--
+Elyar
+12.833031
+74.904777
+Debris
+Slide
+NA
+12812
+KA/DK/48L13/2025/034
+Karnataka
+Dakshin Kannad
+--
+Arkana road
+12.818121
+74.956236
+Debris
+Slide
+NA
+12813
+KA/DK/48L13/2025/035
+Karnataka
+Dakshin Kannad
+--
+Assai Marpadi
+12.797322
+74.917082
+Debris
+Slide
+NA
+12814
+KA/DK/48L13/2025/036
+Karnataka
+Dakshin Kannad
+--
+Kodi
+12.794125
+74.914879
+Debris
+Slide
+NA
+12815
+KA/DK/48L13/2025/037
+Karnataka
+Dakshin Kannad
+--
+Someshwara village, Katungare 
+gudde
+12.769354
+74.867392
+Debris
+Slide
+NA
+12816
+KA/DK/48L13/2025/038
+Karnataka
+Dakshin Kannad
+--
+NH-169, near Varmanjoor
+12.919457
+74.907919
+Debris
+Slide
+NA
+12817
+KA/UK/48J01/2025/05
+Karnataka
+Uttar Kannada
+--
+Baithkol (CMC)
+14.798083
+74.109361
+Rock
+Slide
+NA
+12818
+KA/UK/48J01/2025/07
+Karnataka
+Uttar Kannada
+--
+Sai Mandir (CMC)
+14.805966
+74.135763
+Earth
+Slide
+June 2025
+12819
+KA/UK/48J01/2025/08
+Karnataka
+Uttar Kannada
+--
+Near Raghavendra mutt
+14.810244
+74.141481
+Earth
+Slide
+NA
+12820
+KA/UK/48J01/2025/09
+Karnataka
+Uttar Kannada
+--
+Manderalli
+14.845902
+74.185561
+Earth
+Slide
+NA
+12821
+KA/UK/48J01/2025/10
+Karnataka
+Uttar Kannada
+--
+Sasanwada
+14.822174
+74.171484
+Debris
+Slide
+NA
+12822
+KA/UK/48J01/2025/11
+Karnataka
+Uttar Kannada
+--
+Jariwada
+14.842847
+74.176548
+Debris
+Slide
+02 October 2009
+12823
+KA/UK/48J01/2025/12
+Karnataka
+Uttar Kannada
+--
+Nirakarewada (Kinner)
+14.864471
+74.210042
+Debris
+Flow
+16 July 2024
+12824
+KA/UK/48J10/2025/13
+Karnataka
+Uttar Kannada-Kumta
+Devi Mane Ghat
+NH-766-E Chainage 25+120
+14.520681
+74.567583
+Debris
+Slide
+19 July 2019, 15 July 2025 (08:00 am)
+12825
+KA/UK/48J10/2025/14
+Karnataka
+Uttar Kannada-Kumta
+Devi Mane Ghat
+NH-766-E Chainage 25+130
+14.520702
+74.5679
+Debris
+Slide
+13 July 2025 (10:00 pm)
+12826
+KA/UK/48J10/2025/15
+Karnataka
+Uttar Kannada-Sirsi
+Devi Mane Ghat road
+NH-766-E Chainage 26+520
+14.522354
+74.581418
+Debris
+Slide
+15 July 2024 (11:00 pm)
+12827
+KA/UK/48J07/2025/16
+Karnataka
+Uttar Kannada-Kumta
+Kabbarage cross-Harita village
+NH-766-E
+14.491747
+74.497642
+Earth
+Slide
+31 May 2025 (06:00 am)
+12828
+KA/UK/48J07/2025/17
+Karnataka
+Uttar Kannada-Honnavar
+--
+Church road
+14.279078
+74.45657
+Debris
+Slide
+05 July 2024
+12829
+KA/UK/48J12/2025/18
+Karnataka
+Uttar Kannada-Honnavar
+Herangadi
+Nil
+14.241374
+74.578467
+Earth
+Slide
+12 July 2025
+12830
+KA/UK/48J06/2025/19
+Karnataka
+Uttar Kannada-Gokarna
+Rama Teertha temple
+Nil
+14.539444
+74.312306
+Debris
+Slide
+16 July 2024
+12831
+KA/UK/48J06/2025/20
+Karnataka
+Uttar Kannada-Kumta
+Devana-Majre
+Nil
+14.549817
+74.348917
+Earth
+Slide
+12 July 2025
+12832
+KA/UK/48K09/2025/21
+Karnataka
+Uttar Kannada-Batkal
+Muttalli
+Nil
+13.986641
+74.573588
+Debris
+Slide
+2022
+12833
+KA/UK/48K09/2025/22
+Karnataka
+Uttar Kannada-Batkal
+Mavinkuruve/Gondarkere
+Nil
+13.971211
+74.532893
+Earth
+Slide
+19 July 2024
+12834
+KA/UK/48J09/2025/23
+Karnataka
+Uttar Kannada-Ankola
+Kodalagadde/Ramanaguli
+Nil
+14.79795
+74.594996
+Debris
+Slide
+17 July 2024, 16 July 2025
+12835
+KA/CKM/48O07/2025/01
+Karnataka
+Chikmagalur
+Nallimakki Landslide
+Nallimakki Village, 
+Narasimharajapura Taluk
+13.4708425
+75.420085
+Debris
+Slide
+2019, 28 May 2025 (10:00 pm)
+12836
+KA/CKM/48O07/2025/02
+Karnataka
+Chikmagalur
+Kunimakki- Tunga river hanging bridge 
+slide
+Kunimakki-Asagodu, Koppa 
+taluk
+13.48781972
+75.31866528
+Soil
+Slide
+28 July 2025
+12837
+KA/CKM/48O06/2025/03
+Karnataka
+Chikmagalur
+Sigdal landslide
+Major District Road connecting 
+Sigdal- Bommalapura
+13.52105611
+75.31909778
+Debris
+Slide
+2025
+12838
+KA/CKM/48O07/2025/04
+Karnataka
+Chikmagalur
+Anegunda-Sringeri Landslide
+NH 169
+13.43878944
+75.25837306
+Debris
+Slide
+NA
+12839
+KA/CKM/48O07/2025/05
+Karnataka
+Chikmagalur
+Sanklapura landslide
+NH-169
+13.43196028
+75.25642278
+Debris
+Slide
+NA
+12840
+KA/CKM/48K14/2025/06
+Karnataka
+Chikmagalur
+Nemmaru Landslide
+Nemmaru , Srigeri Taluk, Along 
+NH-169
+13.37401333
+75.21429306
+Debris
+Slide
+14 July 2025
+12841
+KA/CKM/48O07/2025/07
+Karnataka
+Chikmagalur
+Marimakki landslide
+Major District Road/ Village 
+road, near Marimakki village of 
+Sringeri taluk
+13.37288639
+75.27071417
+Debris
+Slide
+07 June 2024, 27 July 2025
+12842
+KA/CKM/48O07/2025/08
+Karnataka
+Chikmagalur
+Boluru landslide
+Major district road, Boluru 
+village, Kuthagodu gram 
+panchayat, Sringeri taluk
+13.38036639
+75.27595111
+Soil
+Slide
+16 August 2025

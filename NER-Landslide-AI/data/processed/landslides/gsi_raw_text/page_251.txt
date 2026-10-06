@@ -1,0 +1,250 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+10971
+JK/RAM/43O3/2025/068
+Jammu & Kashmir (UT)
+Ramban
+Tanger 
+Tanger village 
+33.20537778
+75.12690833
+Debris
+Slide
+12 September 2025, 13 September 
+2025
+10972
+JK/REA/43K16/2025/069
+Jammu & Kashmir (UT)
+Reasi
+Salal Land Subsidence
+Salal-Mahore Road
+33.16242778
+74.82162778
+Debris
+Subsidence
+1 September 2025
+10973
+JK/REA/43K16/2025/070
+Jammu & Kashmir (UT)
+Reasi
+Bidda Land Subsidence
+NA
+33.11659722
+74.80328056
+Debris
+Subsidence
+2 September 2025
+10974
+JK/REA/43K15/2025/071
+Jammu & Kashmir (UT)
+Reasi
+Jamsalan
+Buddal-Mahore-Gool Road
+33.30013889
+74.91950278
+Debris
+Slide
+4 September 2025 at 05:00 hrs
+10975
+JK/REA/43K15/2025/072
+Jammu & Kashmir (UT)
+Reasi
+Sarh
+Buddal-Mahore-Gool Road
+33.33496944
+74.86688333
+Debris
+Slide
+4 September 2025 at 01:00 hrs
+10976
+JK/REA/43K15/2025/073
+Jammu & Kashmir (UT)
+Reasi
+Marassi Mohalla
+Sildhar village
+33.30953889
+74.94223056
+Debris
+Slide
+4 September 2025 
+10977
+JK/RAM/43O3/2025/074
+Jammu & Kashmir (UT)
+Ramban
+Sarbaghni 
+Sarbaghni village 
+33.279
+75.004
+Rock
+Slide
+September 2025 
+10978
+JK/UDH/43O1/2025/075
+Jammu & Kashmir (UT)
+Udhampur
+Thard Landslide
+Thard
+32.95504722
+75.15861111
+Debris
+Slide
+2 September 2025
+10979
+JK/POO/43K02/2025/76
+Jammu & Kashmir (UT)
+Poonch
+Kalaban
+Kalaban village
+33.67733056
+74.18461389
+Debris
+Slide
+7 September 2025
+10980
+JK/POO/43K02/2025/77
+Jammu & Kashmir (UT)
+Poonch
+Kalaban
+Kalaban village
+33.681475
+74.17433333
+Debris
+Slide
+7 September 2025
+10981
+JK/POO/43K02/2025/78
+Jammu & Kashmir (UT)
+Poonch
+Surhoti
+Surhoti
+33.63745556
+74.19265556
+Debris
+Slide
+15 August 2025
+10982
+JK/RAJ/43K08/2025/79
+Jammu & Kashmir (UT)
+Rajouri
+Chingus
+33.20960833
+74.27855556
+Rock
+Slide
+28 August 2025
+10983
+JK/RAJ/43K12/2025/80
+Jammu & Kashmir (UT)
+Rajouri
+Bhamla
+33.03997778
+74.58563056
+Soil
+Slide
+28 August 2025
+10984
+JK/RAJ/43K07/2025/81
+Jammu & Kashmir (UT)
+Rajouri
+Bhamla
+33.04161389
+74.59126944
+Soil
+Slide
+26 August 2025
+10985
+JK/REA/43L13/2025/82
+Jammu & Kashmir (UT)
+Reasi
+Hotel Devi Grand, Katra Town
+32.98837778
+74.92054722
+Debris
+Slide
+26 August 2025
+10986
+JK/REA/43L13/2025/83
+Jammu & Kashmir (UT)
+Reasi
+Hotel Devi Grand, Katra Town
+32.98865
+74.92065556
+Debris
+Slide
+26 August 2025
+10987
+JK/REA/43L13/2025/84
+Jammu & Kashmir (UT)
+Reasi
+Balini Bridge Landslide
+Balini Bridge downslope of 
+Ambika Homestay Katra.
+32.99444722
+74.92806667
+Debris
+Slide
+26 August 2025
+10988
+JK/SAM/43P02/2025/085
+Jammu & Kashmir (UT)
+Samba
+Bindu-Peda Slide
+Bindu-Peda village
+32.67499167
+75.16107778
+Debris
+Slide
+27 August 2025
+10989
+JK/SAM/43P02/2025/086
+Jammu & Kashmir (UT)
+Samba
+Bindu-Peda village
+32.67428333
+75.16099167
+Debris
+Slide
+27 August 2025
+10990
+JK/SAM/43P02/2025/087
+Jammu & Kashmir (UT)
+Samba
+Bindu-Peda village
+32.67509167
+75.15949167
+Debris
+Slide
+27 August 2025
+10991
+JK/Manwal/43P/17/03.
+Jammu & Kashmir (UT)
+Udhampur
+High voltage transmission line at 
+Kishanpur site
+Manwal.
+32.79666389
+75.13683611
+The study area 
+mainly exposes rocks 
+of Upper Muree 
+formation 
+comprising of purple 
+to grey sandstone, 
+red shale, 
+conglomerate and 
+siltstone in the study 
+area belonging to 
+Late Eocene to Early 
+Miocene age.
+flow
+NA

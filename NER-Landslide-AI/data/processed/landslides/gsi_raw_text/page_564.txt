@@ -1,0 +1,379 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22243
+MIZ/AIZ/84A09/2016/97
+Mizoram
+Mamit
+ 
+Lengpui-Mamit road on NH 44A 23.805313
+92.592663
+Rock
+Slide
+2016
+22244
+MZ/AIZ/84E01/2017/105
+Mizoram
+Aizawl
+ 
+11.5 km from Phullen
+23.805779
+93.027115
+Rock
+Slide
+NA
+22245
+MZ/AIZ/84E01/2017/64
+Mizoram
+Aizawl
+ 
+Near Thanglailung
+23.808111
+93.041779
+Rock
+Slide
+2016
+22246
+MIZ/AIZ/84A09/2016/95
+Mizoram
+Mamit
+ 
+Lengpui-Mamit road on NH 44A 23.808528
+92.595222
+Debris
+Slide
+2016
+22247
+MZ/MAM/84A05/2020/5
+Mizoram
+Mamit
+Dapchuah-Dampui slide 2
+Dapchuah-Dampui road section 23.81
+92.5
+Rock
+Slide
+2019
+22248
+MIZ/AIZ/84A13/2016/41
+Mizoram
+Aizawl
+ 
+~9.5 km N of Sesawng on NH 
+150
+23.810083
+92.833861
+Debris
+Slide
+2015
+22249
+MZ/CHA/84E05/2017/1
+Mizoram
+Champhai
+ 
+KawlbemVaikhawtlang section
+23.810806
+93.379028
+Debris
+Slide
+2017
+22250
+MIZ/AIZ/84A13/2016/134
+Mizoram
+Aizawl
+ 
+Buhban village
+23.811722
+92.959917
+Debris
+Slide
+2016
+22251
+MIZ/MAM/84A09/2016/123
+Mizoram
+Mamit
+ 
+ 
+23.811938
+92.570804
+Debris
+Slide
+2016
+22252
+MIZ/AIZ/84A13/2016/133
+Mizoram
+Aizawl
+ 
+NE periphery of Buhban village
+23.812139
+92.954167
+Rock
+Slide
+2016
+22253
+MIZ/AIZ/84A13/2016/40
+Mizoram
+Aizawl
+ 
+~10 km N of Sesawng on NH 
+150
+23.812167
+92.835194
+Earth
+Slide
+2015
+22254
+MIZ/AIZ/84A13/2016/27
+Mizoram
+Aizawl
+ 
+~08-10 m from prev location
+23.816
+92.84
+Debris
+Slide
+2016
+22255
+MIZ/AIZ/84A09/2016/84
+Mizoram
+Aizawl
+ 
+Sairang road (near bridge)
+23.816611
+92.662306
+Debris
+Slide
+2016
+22256
+MIZ/AIZ/84A09/2016/83
+Mizoram
+Aizawl
+ 
+Sairang (near quarry)
+23.817333
+92.661222
+Earth
+Slide
+2016
+22257
+MIZ/AIZ/84A13/2016/36
+Mizoram
+Aizawl
+ 
+~ 10 m from prev location
+23.819269
+92.826983
+Debris
+Slide
+2016
+22258
+MIZ/AIZ/84A13/2016/35
+Mizoram
+Aizawl
+ 
+27 km Khawruhlian milestone 
+towards Sesawng on NH 150
+23.819269
+92.826983
+Debris
+Slide
+2016
+22259
+MIZ/MAM/84A09/2016/125
+Mizoram
+Mamit
+ 
+ 
+23.821894
+92.569325
+Debris
+Slide
+2016
+22260
+MIZ/AIZ/84A13/2016/37
+Mizoram
+Aizawl
+ 
+~27.3 km from Khawruhlian 
+towards Sesawng on NH 150
+23.822054
+92.826453
+Debris
+Slide
+2016
+22261
+MIZ/AIZ/84A13/2016/38
+Mizoram
+Aizawl
+ 
+~ 10-15 m from previous 
+location
+23.822086
+92.826497
+Rock
+Fall
+2016
+22262
+MIZ/AIZ/84A09/2016/124
+Mizoram
+Aizawl
+ 
+E of Sairang
+23.823222
+92.674861
+Debris
+Slide
+2015
+22263
+MIZ/AIZ/84A13/2016/131
+Mizoram
+Aizawl
+ 
+SE of Lailak village
+23.82325
+92.925222
+Rock
+Slide
+2016
+22264
+MIZ/AIZ/84A13/2016/39
+Mizoram
+Aizawl
+ 
+~200 m from previous location
+23.824586
+92.825019
+Rock
+Fall
+2016
+22265
+MIZ/AIZ/84A13/2016/34
+Mizoram
+Aizawl
+ 
+~25.8 km from Khawruhlian 
+towards Sesawng on NH 150
+23.825205
+92.830469
+Debris
+Slide
+2016
+22266
+MIZ/AIZ/84A09/2016/94
+Mizoram
+Mamit
+ 
+Lengpui-Mamit road on NH 44A 23.826694
+92.603833
+Rock
+Slide
+2016
+22267
+MZ/CHA/84E05/2017/20
+Mizoram
+Champhai
+ 
+KawlbemSelam section
+23.832916
+93.301888
+Debris
+Slide
+2017
+22268
+MZ/CHA/84E05/2017/4
+Mizoram
+Champhai
+ 
+KawlbemSelam section
+23.832916
+93.301888
+Debris
+Slide
+NA
+22269
+MZ/CHA/84E05/2017/15
+Mizoram
+Champhai
+ 
+KawlbemSelam section
+23.833166
+93.305275
+Debris
+Slide
+NA
+22270
+MIZ/MAM/84A09/2016/134
+Mizoram
+Mamit
+ 
+Hunther area
+23.833698
+92.650724
+Debris
+Slide
+NA
+22271
+MZ/AIZ/84E01/2017/89
+Mizoram
+Aizawl
+ 
+4.5 km from Thanglailung along 
+PhullenSaitual section
+23.835361
+93.052414
+Rock
+Slide
+NA
+22272
+MZ/CHA/84E05/2017/6
+Mizoram
+Champhai
+ 
+KawlbemVaikhawtlang section
+23.836056
+93.37664
+Debris
+Slide
+2017
+22273
+MIZ/AIZ/84A13/2016/130
+Mizoram
+Aizawl
+ 
+~1km from Lailak village
+23.83675
+92.916556
+Debris
+Slide
+2016
+22274
+MIZ/AIZ/84A13/2016/129
+Mizoram
+Aizawl
+ 
+Lailak village
+23.839417
+92.910972
+Debris
+Slide
+2016
+22275
+MZ/MAM/84A05/2020/12
+Mizoram
+Mamit
+Serhmun-Bungmun section slide 2
+Serhmun-Bungmun-
+Kawrtethaeveng  road section
+23.84
+92.37
+Debris
+Slide
+2019

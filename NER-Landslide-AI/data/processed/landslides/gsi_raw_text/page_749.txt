@@ -1,0 +1,377 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29518
+WB/DARJ/78A08/2007/0321
+West Bengal
+Darjeeling
+ 
+NH-55, just below the Goethals 
+School play ground
+27.05
+88.462
+Debris
+Slide
+2007
+29519
+WB/DAR/78A08/2015/102
+West Bengal
+Darjeeling
+Hermitage slope. Below Saradeswari 
+Girls High School
+ 
+27.05
+88.268
+Debris
+Slide
+2009
+29520
+WB/DAR/78A04/2015/1198
+West Bengal
+Darjeeling
+ 
+TUMSONG
+27.050056
+88.199139
+Debris
+Subsidence
+2015
+29521
+WB/DAR/78A04/2021/PDLS/15
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.05023788
+88.19852384
+Debris
+Slide
+October 2021
+29522
+WB/DAR/78A12/2015/1455
+West Bengal
+Darjeeling
+ 
+ 
+27.050289
+88.708547
+Rock cum Debris
+Slide
+NA
+29523
+WB/DAR/78A12/2015/1275
+West Bengal
+Darjeeling
+ 
+GITDUBLING
+27.050417
+88.600556
+Debris
+Slide
+2014
+29524
+WB/DAR/78A08/2015/286
+West Bengal
+Darjeeling
+Chhibo Busty
+Chibo Busty, 
+Kalimpong 
+Sub-division
+27.050583
+88.45675
+Debris
+Subsidence
+2015
+29525
+WB/DAR/78A08/2015/144
+West Bengal
+Darjeeling
+Chhibo Busty
+Chibo Busty, 
+Kalimpong 
+Sub-division
+27.050583
+88.45675
+Debris
+Subsidence
+2015
+29526
+WB/DAR/78A04/2021/PDLS/14
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.05062527
+88.20390183
+Debris
+Slide
+October 2021
+29527
+WB/DAR/78A04/2021/PDLS/14
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.05073394
+88.20386266
+Debris
+Slide
+October 2021
+29528
+WB/DAR/78A08/2015/1402
+West Bengal
+Darjeeling
+ 
+ 
+27.050874
+88.454675
+Debris
+Slide
+2013
+29529
+WB/DAR/78A08/2015/1353
+West Bengal
+Darjeeling
+CHIBBO (OC JHORA)
+CHIBBO
+27.050889
+88.454083
+Debris
+Slide
+2010
+29530
+WB/DAR/78A12/2015/1276
+West Bengal
+Darjeeling
+ 
+NEAR GITDUBLING
+27.050944
+88.602167
+Debris
+Subsidence
+2012
+29531
+WB/DAR/78A08/2015/1401
+West Bengal
+Darjeeling
+ 
+ 
+27.051057
+88.446551
+Debris
+Slide
+2013
+29532
+WB/DAR/78A08/2015/1400
+West Bengal
+Darjeeling
+ 
+ 
+27.051148
+88.453479
+Rock cum Debris
+Slide
+2013
+29533
+WB/DAR/78A04/2015/1201
+West Bengal
+Darjeeling
+ 
+LOWER RELLING
+27.05125
+88.172056
+Debris
+Slide
+2016
+29534
+WB/DAR/78A04/2015/1239
+West Bengal
+Darjeeling
+ 
+CHONG THONG TEA ESTATE
+27.051306
+88.194528
+Debris
+Slide
+2016
+29535
+WB/DAR/78A12/2015/257
+West Bengal
+Darjeeling
+Pala Village, Pala- Deorali- Loegaon 
+Road
+Pala- Deorali- Loegaon Road
+27.051355
+88.581248
+Rock
+Slide
+2013
+29536
+WB/DAR/78A08/2015/1326
+West Bengal
+Darjeeling
+5 MILE SLIDE
+5 MILE JUNCTION, KALIMPONG 27.051667
+88.441667
+Rock cum Debris
+Slide
+2010
+29537
+WB/DAR/78A04/2021/PDLS/15
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.05171829
+88.2027641
+Debris
+Slide
+October 2021
+29538
+WB/DAR/78A04/2015/1197
+West Bengal
+Darjeeling
+ 
+TUMSONG PEGAPET
+27.051722
+88.202694
+Rock
+Slide
+2015
+29539
+WB/DAR/78A08/2015/1323
+West Bengal
+Darjeeling
+BELOW CHURCH, OC JHORA
+CHIBBO BUSTY
+27.051806
+88.450722
+Rock cum Debris
+Slide
+2010
+29540
+WB/DAR/78A12/2015/1312
+West Bengal
+Darjeeling
+ 
+RELLI
+27.05225
+88.531694
+Debris
+Slide
+2010
+29541
+WB/DAR/78A12/2015/1456
+West Bengal
+Darjeeling
+ 
+ 
+27.052255
+88.5586
+Rock cum Debris
+Slide
+NA
+29542
+WB/DAR/78A08/2015/109
+West Bengal
+Darjeeling
+Chotta  Pattabong Rightside of Lebong 
+Cart Road towards  Lebong
+ 
+27.052279
+88.268306
+Rock cum Debris
+Subsidence
+2009
+29543
+WB/DAR/78A08/2015/1321
+West Bengal
+Darjeeling
+PYRENI JHORA SUBSIDENCE
+CHIBBO VILLAGE,KALIMPONG
+27.052583
+88.45275
+Debris
+Subsidence
+2015
+29544
+WB/DAR/78A08/2015/1405
+West Bengal
+Darjeeling
+ 
+ 
+27.052591
+88.455332
+Debris
+Slide
+2013
+29545
+WB/DAR/78A08/2015/64
+West Bengal
+Darjeeling
+Kalimpong City
+Kalimpong City
+27.05265
+88.45859
+Debris
+Slide
+2007
+29546
+WB/DAR/78A12/2015/223
+West Bengal
+Darjeeling
+16 km on Relli-Lolegaon road
+Near Kab16 km on Relli-
+Lolegaon road
+27.052709
+88.574587
+Rock
+Slide
+2012
+29547
+WB/DAR/78A08/2015/1320
+West Bengal
+Darjeeling
+PYRENI JHORA SUBSIDENCE
+CHIBBO VILLAGE,KALIMPONG
+27.05275
+88.455667
+Debris
+Subsidence
+2015
+29548
+WB/DARJ/78A08/0274
+West Bengal
+Darjeeling
+ 
+Near Km. 29 from Sevoke on NH 
+31A
+27.053
+88.431
+Rock cum Debris
+Slide
+NA
+29549
+WB/DARJ/78A08/2007/0319
+West Bengal
+Darjeeling
+ 
+Kalimpong City
+27.053
+88.459
+Debris
+Slide
+NA

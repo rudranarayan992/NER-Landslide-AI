@@ -1,0 +1,331 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15997
+KE/MAL/58A07/2019/18
+Kerala
+Malappuram
+Near Thenpara - 1
+Vazhikkadavu-Gudallur road 
+(SH)
+11.397526
+76.364381
+Debris
+Flow
+8th August 2019
+15998
+KE/MAL/58A07/2019/19
+Kerala
+Malappuram
+Aanamari-1
+Anamari - Poovathipoyil road
+11.385361
+76.351787
+Debris
+Slide
+8th August 2019 (09:30 hrs.)
+15999
+KE/MAL/58A07/2019/20
+Kerala
+Malappuram
+Aanamari-2
+Anamari - Poovathipoyil road
+11.385326
+76.351494
+Debris
+Slide
+8th August 2019
+16000
+KE/MAL/58A07/2019/21
+Kerala
+Malappuram
+Aanamari - 3
+Anamari - Poovathipoyil road
+11.386062
+76.352615
+Debris
+Slide
+8th August 2019
+16001
+KE/MAL/58A07/2019/22
+Kerala
+Malappuram
+Aanamari - 4
+Vazhikkadavu-Gudallur road 
+(SH)
+11.387579
+76.35298
+Debris
+Slide
+8th August 2019
+16002
+KE/MAL/58A07/2019/23
+Kerala
+Malappuram
+Vazhikkadavu
+Vazhikkadavu-Gudallur road 
+(SH)
+11.387869
+76.352835
+Debris
+Slide
+8th August 2019
+16003
+KE/MAL/58A07/2019/24
+Kerala
+Malappuram
+Vazhikkadavu-1
+Vazhikkadavu-Gudallur road 
+(SH)
+11.388316
+76.351957
+Debris
+Slide
+8th August 2019
+16004
+KE/MAL/58A07/2019/25
+Kerala
+Malappuram
+Vazhikkadavu-2 (Near Pollution 
+testing centre)
+Vazhikkadavu-Gudallur road 
+(SH)
+11.38878
+76.351327
+Debris
+Slide
+8th August 2019
+16005
+KE/MAL/58A07/2019/26
+Kerala
+Malappuram
+Vazhikkadavu - Punnakkal-2
+Vazhikkadavu-Gudallur road 
+(SH)
+11.391041
+76.351328
+Debris
+Slide
+8th August 2019 (15:00 hrs.)
+16006
+KE/MAL/58A07/2019/27
+Kerala
+Malappuram
+Vazhikkadavu - Punnakkal-1
+Vazhikkadavu-Gudallur road 
+(SH)
+11.390665
+76.350502
+Debris
+Slide
+8th August 2019 (16:00 hrs.)
+16007
+KE/MAL/58A03/2019/01
+Kerala
+Malappuram
+Mylampara
+Kundilitti-Mylampara road
+11.367974
+76.208254
+Debris
+Slide
+8th August 2019
+16008
+KE/MAL/58A03/2019/02
+Kerala
+Malappuram
+Moochickal
+Erumamunda-Tharamattom-
+Moochickal road
+11.373517
+76.212438
+Debris
+Slide
+8th August 2019 (17:30 hrs.)
+16009
+KE/MAL/58A03/2019/03
+Kerala
+Malappuram
+Moochickal-1
+Erumamunda-Tharamattom-
+Moochickal road
+11.372403
+76.212901
+Debris
+Flow
+8th August 2019
+16010
+KE/MAL/58A03/2019/04
+Kerala
+Malappuram
+A P Kunnu
+Erumamunda-Kallaipara road
+11.385613
+76.208732
+Debris
+Flow
+8th August 2019
+16011
+KE/MAL/58A03/2019/05
+Kerala
+Malappuram
+Vilakkennampara
+Tharamattom - 
+Vilakkennampara road
+11.376082
+76.213301
+Debris
+Slide
+8th August 2019 (17:30 hrs)
+16012
+KE/MAL/58A03/2019/06
+Kerala
+Malappuram
+Murukanjiram (Kooman thodu)
+Erumamunda - Murukanjiram 
+road
+11.389332
+76.214594
+Debris
+Flow
+8th August 2019 (18:00hrs)
+16013
+KE/MAL/58A03/2019/07
+Kerala
+Malappuram
+Murukanjiram I (Koomanthodu)
+Erumamunda - Murukanjiram  
+road
+11.387679
+76.214111
+Debris
+Flow
+8th August 2019 (12:00 hrs.)
+16014
+KE/MAL/58A03/2019/08
+Kerala
+Malappuram
+Murukanjiram 2
+Erumamunda - Murukanjiram 
+road
+11.386061
+76.216322
+Debris
+Flow
+8th August 2019 (18:00 hrs.)
+16015
+KE/MAL/58A03/2019/09
+Kerala
+Malappuram
+Murukanjiram 3
+Erumamunda - Murukanjiram 
+road
+11.389372
+76.215795
+Debris
+Flow
+8th August 2019 (17:00 hrs.)
+16016
+KE/MAL/58A04/2019/01
+Kerala
+Malappuram
+Kottakunnu
+Kottakunnu-Cherattukuzhi road 
+(Chola road)
+11.047325
+76.081831
+Debris
+Slide
+8th August 2019 (13:00 hrs.)
+16017
+KE/MAL/58A04/2019/02
+Kerala
+Malappuram
+Chirattukuzhi
+Kottapadi-Chirattukuzhi-
+Munduparambu road
+11.050455
+76.081641
+Debris
+Slide
+8th August 2019 (13:00 hrs.)
+16018
+KL/PKD/58B10/2024/PDLS/01
+Kerala
+Palakkad
+Veezhumala Slide
+Veezhumala
+10.625965
+76.539455
+Debris
+Slide
+15 august 2018; reactivated on 
+29.07.2024.
+16019
+KL/PKD/58B10/2024/PDLS/02
+Kerala
+Palakkad
+Veezhumla Slide 2
+Veezhumala
+10.62691667
+76.53938889
+Debris
+Slide
+29-07-2024
+16020
+KL/PKD/58B11/2024/PDLS/03
+Kerala
+Palakkad
+Mangalam dam slide
+Near Mangalam dam, Alathur 
+Village
+10.47625
+76.57025
+Debris
+Slide
+NA
+16021
+KL/PKD/58B11/2024/PDLS/04
+Kerala
+Palakkad
+Mangalam dam slide
+Alathur village
+10.47619444
+76.57002778
+Debris
+Slide
+NA
+16022
+KL/PKD/58B10/2024/PDLS/05
+Kerala
+Palakkad
+Nelliyampathi Slide (12km SW of 
+Nelliyampathi)
+Along Nenmara-Nelliyampathi 
+road
+10.52386111
+76.65280556
+Rock
+Slide
+Monsoon, 2024
+16023
+KL/PKD/58B10/2024/PDLS/06
+Kerala
+Palakkad
+Nelliyampathi slide
+Along Nenmara-Nelliyampathi 
+road
+10.52663889
+76.655
+Debris
+Slide
+Mansoon 2024

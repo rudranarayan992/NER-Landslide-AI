@@ -1,0 +1,312 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27248
+TN/COI/58B15/2017/121
+Tamil Nadu
+Coimbatore
+ 
+Road from forest check post, 
+Urulikkal to Manamboli Power 
+house (TNEB)
+10.342506
+76.903153
+Soil
+Slide
+NA
+27249
+TN/COI/58B15/2017/27
+Tamil Nadu
+Coimbatore
+ 
+Varatuparai village
+10.342689
+76.918153
+Soil
+Slide
+NA
+27250
+TN/ANN/58F11/2016/38
+Tamil Nadu
+Dindigul
+ 
+Melpallam to Savarikadu  road
+10.343769
+77.574058
+Debris
+Slide
+NA
+27251
+TN/ANN/58F11/2016/39
+Tamil Nadu
+Dindigul
+ 
+Melpallam to Savarikadu  road
+10.346594
+77.574575
+Rock
+Fall
+NA
+27252
+TN/ANN/58F15/2016/17
+Tamil Nadu
+Dindigul
+ 
+Pandrimalai to 
+Dharumathupatti
+10.348139
+77.781022
+Earth
+Slide
+NA
+27253
+TN/ANN/58F11/2016/40
+Tamil Nadu
+Dindigul
+ 
+Kombaikadu to sembarankulam 10.349056
+77.574342
+Earth
+Slide
+NA
+27254
+TN/COI/58B15/2017/19
+Tamil Nadu
+Coimbatore
+ 
+Karumalai Estate
+10.3496
+76.997897
+Soil
+Slide
+NA
+27255
+TN/COI/58B15/2017/21
+Tamil Nadu
+Coimbatore
+ 
+Road from Old Valparai to 
+Varatuparai
+10.34985
+76.934947
+Rock
+Fall
+NA
+27256
+TN/COI/58B15/2017/20
+Tamil Nadu
+Coimbatore
+ 
+Road from Old Valparai to 
+Varatuparai
+10.350047
+76.935408
+Soil
+Slide
+NA
+27257
+TN/COI/58B15/2017/22
+Tamil Nadu
+Coimbatore
+ 
+Road from Old Valparai to 
+Varatuparai
+10.350214
+76.935136
+Soil
+Slide
+NA
+27258
+TN/ANN/58F15/2016/16
+Tamil Nadu
+Dindigul
+ 
+Pandrimalai to 
+Dharumathupatti
+10.350692
+77.778092
+Earth
+Slide
+NA
+27259
+TN/COI/58B15/2017/123
+Tamil Nadu
+Coimbatore
+ 
+Road from forest check post, 
+Urulikkal to Manamboli Power 
+house (TNEB)
+10.350936
+76.897556
+Soil
+Slide
+NA
+27260
+TN/COI/58B15/2017/23
+Tamil Nadu
+Coimbatore
+ 
+Road from Old Valparai to 
+Varatuparai
+10.35105
+76.935903
+Soil
+Slide
+NA
+27261
+TN/COI/58B15/2017/122
+Tamil Nadu
+Coimbatore
+ 
+Road from forest check post, 
+Urulikkal to Manamboli Power 
+house (TNEB)
+10.351622
+76.898169
+Debris
+Slide
+NA
+27262
+TN/COI/58B15/2017/24
+Tamil Nadu
+Coimbatore
+ 
+Road from Old Valparai to 
+Varatuparai
+10.351717
+76.936442
+Debris
+Slide
+NA
+27263
+TN/COI/58B15/2017/13
+Tamil Nadu
+Coimbatore
+ 
+Lower Paralai Estate
+10.351944
+76.966111
+Soil
+Slide
+NA
+27264
+TN/COI/58B15/2017/25
+Tamil Nadu
+Coimbatore
+ 
+Road from Old Valparai to 
+Varatuparai
+10.352011
+76.936617
+Debris
+Slide
+NA
+27265
+TN/ANN/58F15/2016/15
+Tamil Nadu
+Dindigul
+ 
+Pandrimalai to 
+Dharumathupatti
+10.352294
+77.774639
+Debris
+Slide
+NA
+27266
+TN/ANN/58F11/2016/57
+Tamil Nadu
+Dindigul
+ 
+Road from Savarikadu  to Palani 10.352725
+77.573764
+Debris
+Slide
+NA
+27267
+TN/COI/58B15/2017/18
+Tamil Nadu
+Coimbatore
+ 
+Karumalai Estate
+10.352997
+76.999106
+Soil
+Subsidence
+NA
+27268
+TN/ANN/58F11/2016/58
+Tamil Nadu
+Dindigul
+ 
+Road from Savarikadu  to Palani 10.353233
+77.572361
+Debris
+Slide
+NA
+27269
+TN/COI/58F03/2017/59
+Tamil Nadu
+Coimbatore
+ 
+Right bank of Chinnar river 
+Kodandur
+10.353306
+77.185528
+Rock cum debris
+Slide
+NA
+27270
+TN/COI/58F03/2017/60
+Tamil Nadu
+Coimbatore
+ 
+Right bank of Chinnar river
+10.353361
+77.216706
+Rock cum debris
+Slide
+NA
+27271
+TN/ANN/58F11/2016/43
+Tamil Nadu
+Dindigul
+ 
+Kombaikadu to sembarankulam 10.354106
+77.593025
+Earth
+Slide
+NA
+27272
+TN/COI/58B15/2017/8
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78, Iyerpadi 
+Estate
+10.354333
+76.972683
+Soil
+Slide
+NA
+27273
+TN/COI/58B15/2017/9
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78, Iyerpadi 
+Estate
+10.354714
+76.972575
+Soil
+Slide
+NA

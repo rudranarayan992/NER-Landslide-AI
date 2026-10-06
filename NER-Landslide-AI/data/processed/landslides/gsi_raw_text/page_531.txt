@@ -1,0 +1,355 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21354
+MZ/LUN/84A16/2018/64
+Mizoram
+Lunglei
+ 
+Bualpui V-Lungmawi Section
+23.125311
+92.820023
+Debris
+Slide
+NA
+21355
+MZ/LUN/84A16/2018/65
+Mizoram
+Lunglei
+ 
+Bualpui V-Lungmawi Section
+23.125807
+92.817886
+Rock
+Slide
+NA
+21356
+MZ/CHA/84E08/2017/40
+Mizoram
+Champhai
+ 
+FarkawnSamthang Rd
+23.127266
+93.296204
+Rock
+Slide
+NA
+21357
+MZ/LUN/84A16/2018/63
+Mizoram
+Lunglei
+ 
+Bualpui V-Lungmawi Section
+23.129629
+92.809196
+Debris
+Slide
+NA
+21358
+MZ/LUN/84A12/2018/39
+Mizoram
+Lunglei
+ 
+Sertlangpui-Kawlhawk section 
+(PMGSY road)
+23.13114
+92.687469
+Debris
+Slide
+NA
+21359
+MZ/CHA/84E08/2017/39
+Mizoram
+Champhai
+ 
+FarkawnSamthang Rd
+23.131158
+93.293979
+Debris
+Slide
+NA
+21360
+MZ/LUN/84A16/2018/10
+Mizoram
+Lunglei
+ 
+Haulawng-Bualpui V. Section 
+(PMGSY road)
+23.132685
+92.798332
+Debris
+Slide
+NA
+21361
+MZ/LUN/84A12/2018/71
+Mizoram
+Lunglei
+ 
+Dehlui River Bridge along 
+Sertlangpui-Lungchem Section
+23.133568
+92.64373
+Rock
+Slide
+NA
+21362
+MZ/LUN/84A12/2018/73
+Mizoram
+Lunglei
+ 
+Dehlui River-Lungchem Village 
+Section
+23.133902
+92.623497
+Rock
+Slide
+NA
+21363
+MZ/CHA/84E08/2017/38
+Mizoram
+Champhai
+ 
+Saikhumphai Rd
+23.135405
+93.368299
+Rock
+Slide
+NA
+21364
+MZ/LUN/84A12/2018/75
+Mizoram
+Lunglei
+ 
+Dehlui River-Lungchem Village 
+Section (~1 km NE of Lungchem)
+23.135416
+92.616661
+Rock
+Slide
+NA
+21365
+MZ/CHA/84E08/2017/37
+Mizoram
+Champhai
+ 
+Saikhumphai road
+23.135434
+93.368506
+Rock
+Slide
+NA
+21366
+MZ/LUN/84A12/2018/74
+Mizoram
+Lunglei
+ 
+Dehlui River-Lungchem Village 
+Section
+23.135794
+92.62294
+Debris
+Slide
+NA
+21367
+MZ/LUN/84A12/2018/79
+Mizoram
+Lunglei
+ 
+Tuisen Bolia-Thenhlum Section
+23.135889
+92.551819
+Debris
+Slide
+NA
+21368
+MZ/CHA/84E08/2017/36
+Mizoram
+Champhai
+ 
+South of Vaphai, below 
+Tantlang Escarpment
+23.136654
+93.314856
+Rock
+Slide
+NA
+21369
+MZ/CHA/84E08/2017/35
+Mizoram
+Champhai
+ 
+South of Vaphai, near Tantlang 
+escarpment.
+23.136712
+93.31485
+Rock
+Slide
+NA
+21370
+MZ/LUN/84A12/2018/3
+Mizoram
+Lunglei
+ 
+N of North Mualthuam Village
+23.13732
+92.747276
+Rock
+Slide
+NA
+21371
+MZ/CHA/84E08/2017/34
+Mizoram
+Champhai
+ 
+FarkawnSamthang Rd (Near 
+Lamsial Puk Junction)
+23.138981
+93.288852
+Rock
+Slide
+NA
+21372
+MZ/CHA/84E08/2017/33
+Mizoram
+Champhai
+ 
+FarkawnSamthang Rd
+23.139244
+93.289294
+Rock
+Slide
+NA
+21373
+MZ/CHA/84E08/2017/32
+Mizoram
+Champhai
+ 
+Saikhumphai Rd
+23.140294
+93.344976
+Soil
+Slide
+NA
+21374
+MZ/CHA/84E08/2017/31
+Mizoram
+Champhai
+ 
+Saikhumphai Rd
+23.14046
+93.343507
+Soil
+Slide
+NA
+21375
+MZ/CHA/84E08/2017/30
+Mizoram
+Champhai
+ 
+Saikhumphai road
+23.140461
+93.343504
+Soil
+Slide
+NA
+21376
+MZ/LUN/84A12/2018/80
+Mizoram
+Lunglei
+ 
+Tuisen Bolia-Thenhlum Section
+23.140694
+92.551529
+Debris
+Slide
+NA
+21377
+MZ/SER/84F01/2018/7
+Mizoram
+Serchhip
+ 
+1.5km North of Sailulak Village 
+on PMGSY Sailulak-East Lungdar 
+Road
+23.14085
+93.142487
+Debris
+Slide
+2017
+21378
+MZ/CHA/84E08/2017/29
+Mizoram
+Champhai
+ 
+Saikhumphai Rd
+23.141408
+93.338272
+Debris
+Slide
+NA
+21379
+MZ/CHA/84E08/2017/28
+Mizoram
+Champhai
+ 
+Saikhumphai road
+23.141445
+93.33848
+Debris
+Slide
+NA
+21380
+MZ/LUN/84A16/2018/13
+Mizoram
+Lunglei
+ 
+North of Sekhum Village
+23.142357
+92.750961
+Debris
+Slide
+2018
+21381
+MZ/LUN/84A16/2018/33
+Mizoram
+Lunglei
+ 
+East of Rawpui (kachha road)
+23.143007
+92.91124
+Debris
+Slide
+NA
+21382
+MZ/SER/84F01/2018/8
+Mizoram
+Serchhip
+ 
+6 Km Northwest of North 
+Vanlaphai on SH North 
+Vanlaphai-Serchhip Road
+23.143806
+93.031219
+Debris
+Slide
+NA
+21383
+MZ/LUN/84A16/2018/31
+Mizoram
+Lunglei
+ 
+East of Rawpui (kachha road)
+23.143888
+92.909447
+Soil
+Slide
+NA

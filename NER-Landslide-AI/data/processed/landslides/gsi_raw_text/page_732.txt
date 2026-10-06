@@ -1,0 +1,499 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28898
+WB/DAR/78B05/2015/436
+West Bengal
+Darjeeling
+Near public work department
+ 
+26.915537
+88.452214
+Debris
+Slide
+2004
+28899
+WB/DAR/78B09/2015/747
+West Bengal
+Darjeeling
+North of BAGRAKOT
+North of BAGRAKOT
+26.916444
+88.562861
+Rock
+Slide
+2015
+28900
+WB/DAR/78B05/2015/597
+West Bengal
+Darjeeling
+LATPANCHOR
+ 
+26.916694
+88.425576
+Debris
+Slide
+2014
+28901
+WB/DAR/78B05/2015/430
+West Bengal
+Darjeeling
+Karmat
+Karmat
+26.918365
+88.441365
+Debris
+Slide
+2004
+28902
+WB/DAR/78B05/2015/650
+West Bengal
+Darjeeling
+Lapchekheti
+Lapchekheti
+26.918611
+88.351944
+Rock
+Slide
+2015
+28903
+WB/DAR/78B05/2015/502
+West Bengal
+Darjeeling
+NG72 SE OF KALIJHORA
+ 
+26.919463
+88.465854
+Debris
+Slide
+2010
+28904
+WB/DAR/78B05/2015/473
+West Bengal
+Darjeeling
+NG66 NORTH OF YANGMAKUM RF
+ 
+26.920138
+88.494524
+Debris
+Slide
+2006
+28905
+WB/DAR/78B05/2015/532
+West Bengal
+Darjeeling
+Chimni
+ 
+26.920216
+88.315368
+Debris
+Slide
+2011
+28906
+WB/DAR/78B05/2015/437
+West Bengal
+Darjeeling
+Karmat
+ 
+26.920849
+88.438351
+Debris
+Slide
+2004
+28907
+WB/DAR/78B05/2015/664
+West Bengal
+Darjeeling
+Mahaldiram
+Mahaldiram
+26.921361
+88.344206
+Rock
+Slide
+2015
+28908
+WB/DAR/78B05/2015/626
+West Bengal
+Darjeeling
+BeltaR
+BeltaR
+26.921361
+88.288028
+Debris
+Slide
+2015
+28909
+WB/DAR/78B09/2015/748
+West Bengal
+Darjeeling
+North of DALAPCHAND
+North of DALAPCHAND
+26.921694
+88.558389
+Rock
+Slide
+2015
+28910
+WB/DAR/78B05/2015/448
+West Bengal
+Darjeeling
+NG80 JAROITAR
+ 
+26.92207
+88.480107
+Rock
+Slide
+2004
+28911
+WB/DAR/78B05/2015/659
+West Bengal
+Darjeeling
+Mana
+Mana
+26.922111
+88.378
+Debris
+Slide
+2015
+28912
+WB/DAR/78B05/2015/504
+West Bengal
+Darjeeling
+NG79 SE OF KALIJHORA
+ 
+26.92278
+88.463386
+Debris
+Slide
+2010
+28913
+WB/DAR/78B05/2015/660
+West Bengal
+Darjeeling
+Ghalaitar
+Ghalaitar
+26.923556
+88.378
+Debris
+Slide
+2015
+28914
+WB/DAR/78B01/2015/372
+West Bengal
+Darjeeling
+3.7 km SE of Pashupati along hill side 
+of SH 12
+SH12
+26.923945
+88.144321
+Debris
+Slide
+2015
+28915
+WB/DAR/78B05/2015/665
+West Bengal
+Darjeeling
+PWD, NH10
+PWD, NH10
+26.92407
+88.454625
+Debris
+Slide
+2015
+28916
+WB/DAR/78B05/2015/588
+West Bengal
+Darjeeling
+SIX MILE
+ 
+26.924774
+88.409096
+Debris
+Slide
+2014
+28917
+WB/DAR/78B05/2015/598
+West Bengal
+Darjeeling
+NG65 NORTH OF YANGMAKUM RF
+ 
+26.924944
+88.499194
+Debris
+Slide
+2014
+28918
+WB/DAR/78B05/2015/398
+West Bengal
+Darjeeling
+Mana Slide
+Mana Slide
+26.925
+88.425
+Rock
+Slide
+1981
+28919
+WB/DAR/78B05/2015/552
+West Bengal
+Darjeeling
+Pankhabari
+ 
+26.925494
+88.401502
+Rock
+Slide
+2012
+28920
+WB/DAR/78B05/2015/589
+West Bengal
+Darjeeling
+KARMAT
+ 
+26.925757
+88.425029
+Debris
+Slide
+2014
+28921
+WB/DAR/78B05/2015/686
+West Bengal
+Darjeeling
+Aintar
+Aintar
+26.926367
+88.420773
+Debris
+Slide
+2015
+28922
+WB/DAR/78B05/2015/405
+West Bengal
+Darjeeling
+Gairigaon Jhora ,C-355
+NH 55
+26.927812
+88.300371
+Debris
+Slide
+1998
+28923
+WB/DAR/78B05/2015/661
+West Bengal
+Darjeeling
+Selpu
+Selpu
+26.927879
+88.389984
+Debris
+Slide
+2015
+28924
+WB/DAR/78B05/2015/551
+West Bengal
+Darjeeling
+Karmote
+Karmote village( 7.5 km) on 
+Kalijhora-Latpanchar road
+26.928
+88.427
+Rock
+Slide
+2012
+28925
+WB/DAR/78B05/2015/685
+West Bengal
+Darjeeling
+Karmat
+Karmat
+26.92871
+88.430293
+Debris
+Slide
+2015
+28926
+WB/DAR/78B05/2015/435
+West Bengal
+Darjeeling
+Khalijhora
+ 
+26.928886
+88.4423
+Debris
+Slide
+2004
+28927
+WB/DAR/78B05/2015/447
+West Bengal
+Darjeeling
+NG81 JAROITAR
+ 
+26.929113
+88.481986
+Rock
+Slide
+2004
+28928
+WB/DAR/78B09/2015/808
+West Bengal
+Darjeeling
+NG47 S of Nabgaon
+ 
+26.929153
+88.547728
+Debris
+Slide
+2015
+28929
+WB/DAR/78B05/2015/684
+West Bengal
+Darjeeling
+Khalijhora
+Khalijhora
+26.929389
+88.447194
+Debris
+Slide
+2015
+28930
+WB/DAR/78B09/2015/749
+West Bengal
+Darjeeling
+North of BAGRAKOT( TISTA CHEL RF)
+North of BAGRAKOT( TISTA 
+CHEL RF)
+26.929464
+88.559242
+Rock
+Slide
+2015
+28931
+WB/DAR/78B05/2015/694
+West Bengal
+Darjeeling
+Karmat
+ 
+26.930058
+88.426893
+Debris
+Slide
+2015
+28932
+WB/DAR/78B01/2021/PDLS/27
+West Bengal
+Darjeeling
+N/A
+N/A
+26.93101642
+88.13919743
+Debris
+Slide
+October 2021
+28933
+WB/DAR/78B05/2015/662
+West Bengal
+Darjeeling
+Namthin
+Namthin
+26.931556
+88.398028
+Rock
+Slide
+2015
+28934
+WB/DAR/78B09/2015/807
+West Bengal
+Darjeeling
+NG46 S of Nabgaon
+ 
+26.931579
+88.547434
+Debris
+Slide
+2015
+28935
+WB/DAR/78B09/2015/770
+West Bengal
+Darjeeling
+YANGMAKUN
+YANGMAKUN
+26.932022
+88.51881
+Rock
+Slide
+2015
+28936
+WB/DAR/78B01/2021/PDLS/28
+West Bengal
+Darjeeling
+N/A
+N/A
+26.93203304
+88.13851269
+Debris
+Slide
+October 2021
+28937
+WB/DAR/78B05/2015/590
+West Bengal
+Darjeeling
+KARMAT
+ 
+26.932241
+88.433603
+Debris
+Slide
+2014
+28938
+WB/DAR/78B05/2015/449
+West Bengal
+Darjeeling
+NG82 RONG PAKHA
+ 
+26.932471
+88.478042
+Rock
+Slide
+2004
+28939
+WB/DAR/78B09/2015/724
+West Bengal
+Darjeeling
+SW OF NABGAON
+ 
+26.933029
+88.551319
+Debris
+Slide
+2014
+28940
+WB/DAR/78B09/2015/806
+West Bengal
+Darjeeling
+NG45 S of Nabgaon
+ 
+26.933052
+88.55815
+Debris
+Slide
+2015
+28941
+WB/DAR/78B09/2015/723
+West Bengal
+Darjeeling
+SW OF NABGAON
+ 
+26.93327
+88.55498
+Debris
+Slide
+2014

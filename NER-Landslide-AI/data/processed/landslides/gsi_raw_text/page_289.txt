@@ -1,0 +1,409 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12420
+KA/UTT/48J14/2020/65
+Karnataka
+Uttar Kannada
+Sappurti village
+Sappurti village
+14.53
+74.76
+Earth
+Slide
+NA
+12421
+KA/UTT/48J10/2018/03
+Karnataka
+Uttar Kannada
+Kasage
+Kasage
+14.530608
+74.644547
+Soil
+Slide
+NA
+12422
+KA/UK/48J06/2015/172
+Karnataka
+Uttar Kannada
+ 
+Mudangi village
+14.536633
+74.349539
+Debris
+Slide
+NA
+12423
+KA/UK/48J06/2015/148
+Karnataka
+Uttar Kannada
+ 
+NH-17 near Kurigadde village
+14.538083
+74.398733
+Debris
+Slide
+NA
+12424
+KA/UTT/48J14/2020/17
+Karnataka
+Uttar Kannada
+Tataguni village
+Tataguni village
+14.54
+74.8
+Debris
+Slide
+2018
+12425
+KA/UTT/48J14/2020/19
+Karnataka
+Uttar Kannada
+Ajjibail village
+Ajibail village
+14.54
+74.82
+Earth
+Slide
+2019
+12426
+KA/UTT/48J14/2020/20
+Karnataka
+Uttar Kannada
+Chalagdde village
+Chalagdde village
+14.54
+74.82
+Earth
+Slide
+2019
+12427
+KA/UTT/48J14/2020/21
+Karnataka
+Uttar Kannada
+Tudguni village
+Tudguni village
+14.54
+74.79
+Earth
+Slide
+2019
+12428
+KA/UTT/48J14/2020/22
+Karnataka
+Uttar Kannada
+Tudguni village
+Tudguni village
+14.54
+74.79
+Debris
+Slide
+2019
+12429
+KA/UTT/48J14/2020/61
+Karnataka
+Uttar Kannada
+Ajibail village
+Ajibail village
+14.54
+74.83
+Debris
+Slide
+2019
+12430
+KA/UTT/48J14/2020/62
+Karnataka
+Uttar Kannada
+Misgundli village
+Misgundli village
+14.54
+74.84
+Debris
+Slide
+2019
+12431
+KA/UK/48J06/2015/151
+Karnataka
+Uttar Kannada
+ 
+Hegle village area
+14.5449
+74.442217
+Rock
+Fall
+NA
+12432
+KA/UTT/48J10/2018/01
+Karnataka
+Uttar Kannada
+Chakdi
+Chakdi
+14.547444
+74.702506
+Soil
+Slide
+NA
+12433
+KA/UTT/48J10/2018/02
+Karnataka
+Uttar Kannada
+Chakdi
+Chakdi
+14.547444
+74.7025
+Soil
+Slide
+NA
+12434
+KA/UTT/48J15/2018/45
+Karnataka
+Uttar Kannada
+Hendur
+Hendur
+14.552222
+74.768611
+Soil
+Slide
+NA
+12435
+KA/UTT/48J14/2020/56
+Karnataka
+Uttar Kannada
+Marathekoppa village
+Marathekoppa village
+14.56
+74.88
+Earth
+Slide
+NA
+12436
+KA/UTT/48J14/2020/54
+Karnataka
+Uttar Kannada
+Kulave village
+Kulave village
+14.57
+74.86
+Earth
+Slide
+NA
+12437
+KA/UK/48J06/2015/163
+Karnataka
+Uttar Kannada
+ 
+Near gokarna on NH-17
+14.576556
+74.383556
+Debris
+Slide
+NA
+12438
+KA/UK/48J06/2015/162
+Karnataka
+Uttar Kannada
+ 
+Near gokarna on NH-17
+14.576889
+74.383556
+Debris
+Slide
+NA
+12439
+KA/UTT/48J10/2018/11
+Karnataka
+Uttar Kannada
+Nagagadde
+Nagagadde
+14.577564
+74.557517
+Soil
+Slide
+NA
+12440
+KA/UTT/48J14/2020/55
+Karnataka
+Uttar Kannada
+Tarkanalli village
+Tarkanalli village
+14.58
+74.87
+Debris
+Slide
+NA
+12441
+KA/UK/48J06/2015/159
+Karnataka
+Uttar Kannada
+ 
+near gokarna cross on NH-17
+14.58025
+74.382819
+Debris
+Slide
+NA
+12442
+KA/UK/48J06/2015/160
+Karnataka
+Uttar Kannada
+ 
+Near gokarna on NH-17
+14.580583
+74.38275
+Debris
+Slide
+NA
+12443
+KA/UK/48J06/2015/161
+Karnataka
+Uttar Kannada
+ 
+Near gokarna on NH-17
+14.581078
+74.382472
+Debris
+Slide
+NA
+12444
+KA/UK/48J06/2015/167
+Karnataka
+Uttar Kannada
+ 
+Near gokarna on NH-20
+14.581617
+74.372433
+Debris
+Slide
+NA
+12445
+KA/UK/48J06/2015/165
+Karnataka
+Uttar Kannada
+ 
+Near gokarna on NH-18
+14.583333
+74.35
+Debris
+Slide
+NA
+12446
+KA/UK/48J06/2015/128
+Karnataka
+Uttar Kannada
+ 
+Bolukante village
+14.59155
+74.35905
+Debris
+Slide
+NA
+12447
+KA/UK/48J06/2015/127
+Karnataka
+Uttar Kannada
+ 
+Bolukante village
+14.5932
+74.360217
+Debris
+Slide
+NA
+12448
+KA/UTT/48J14/2020/3
+Karnataka
+Uttar Kannada
+Ajbail Village
+Ajbail Village
+14.6
+74.77
+Earth
+Slide
+2019
+12449
+KA/UK/48J06/2015/135
+Karnataka
+Uttar Kannada
+ 
+NH-17 on ankola-kumta road 
+near Shirur village
+14.601428
+74.367167
+Debris
+Slide
+NA
+12450
+KA/UK/48J06/2015/136
+Karnataka
+Uttar Kannada
+ 
+NH-17 on ankola-kumta road 
+near Shirur village
+14.602008
+74.367908
+Debris
+Slide
+NA
+12451
+KA/UK/48J06/2015/147
+Karnataka
+Uttar Kannada
+ 
+NH-17 near Sirur village
+14.602117
+74.363667
+Debris
+Slide
+NA
+12452
+KA/UK/48J06/2015/168
+Karnataka
+Uttar Kannada
+ 
+On NH-17 near Kodsani village
+14.603067
+74.380464
+Debris
+Slide
+NA
+12453
+KA/UK/48J06/2015/142
+Karnataka
+Uttar Kannada
+ 
+Shirur village near railway track 14.604
+74.35775
+Debris
+Slide
+NA
+12454
+KA/UK/48J06/2015/145
+Karnataka
+Uttar Kannada
+ 
+NH-17 near Handigade village
+14.60555
+74.361867
+Debris
+Slide
+NA
+12455
+KA/UK/48J06/2015/146
+Karnataka
+Uttar Kannada
+ 
+NH-17 near Handigade village
+14.60605
+74.3619
+Rock
+Fall
+NA

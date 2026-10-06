@@ -1,0 +1,300 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16901
+MH/RAT/47G06/2009/106
+Maharashtra
+Ratnagiri
+Nayatwadi
+Bharne-Ainavil Road
+17.72
+73.474
+Debris
+Slide
+2009
+16902
+MH/SAT/47G14/2018/12
+Maharashtra
+Satara
+ 
+1.7km from Bamnoli on Kaas-
+Bamnoli Road
+17.721517
+73.764468
+Debris
+Slide
+NA
+16903
+MH/SAT/47G14/2018/11
+Maharashtra
+Satara
+ 
+2.6km from Bamnoli on Kaas-
+Bamnoli Road
+17.721938
+73.762276
+Debris
+Subsidence
+NA
+16904
+MH/RAT/47G10/2017/15
+Maharashtra
+Ratnagiri
+ 
+ShindiValawan Rd
+17.725889
+73.601111
+Debris
+Subsidence
+NA
+16905
+MH/RAT/47G10/2017/16
+Maharashtra
+Ratnagiri
+ 
+ShindiUchat Rd
+17.733167
+73.652028
+Debris
+Slump
+NA
+16906
+MAH/DAP/47G02/2015/20
+Maharashtra
+Dapoli
+Jalgaon
+Dapoli - Shirde Rd
+17.738
+73.211
+Earth
+Slump
+2010
+16907
+MH/RAT/47G10/2017/17
+Maharashtra
+Ratnagiri
+ 
+UchatNivali Rd
+17.74775
+73.657444
+Debris
+Slide
+NA
+16908
+MH/SAT/47G13/2019/22
+Maharashtra
+Satara
+ 
+600m from Kelghar on Village 
+Road from Kelghar to 
+Sangvimura
+17.752387
+73.786731
+Debris
+Slide
+NA
+16909
+MH/RAT/47G05/2018/22
+Maharashtra
+Ratnagiri
+Rasalgad Slide
+1.5 km east of Rasalgad fort
+17.75892
+73.50024
+Rock
+Slide
+NA
+16910
+MH/SAT/47G13/2018/5
+Maharashtra
+Satara
+ 
+500m on village road from 
+Sangvimura to Tetalimura
+17.759035
+73.783822
+Debris
+Slide
+NA
+16911
+MH/SAT/47G13/2018/2
+Maharashtra
+Satara
+ 
+700m on Village road from 
+Sangvimura to Tetalimura
+17.761331
+73.782372
+Debris
+Slide
+NA
+16912
+MH/SAT/47G13/2018/3
+Maharashtra
+Satara
+ 
+800 m on Village road from 
+Sangvimura to Tetalimura
+17.761852
+73.782104
+Debris
+Slide
+NA
+16913
+MH/SAT/47G13/2018/4
+Maharashtra
+Satara
+ 
+1 km on Village road from 
+Sangvimura to Tetalimura
+17.762955
+73.78129
+Debris
+Slide
+NA
+16914
+MH/SAT/47G13/2018/8
+Maharashtra
+Satara
+ 
+4.3 km on Village road from 
+Kusumbi to Sangviwadi
+17.766086
+73.798277
+Debris
+Subsidence
+NA
+16915
+MH/SAT/47G13/2018/6
+Maharashtra
+Satara
+ 
+02 km on Road from 
+Sangvimura to Aptimura
+17.778492
+73.783281
+Rock cum debris
+Slide
+NA
+16916
+MH/SAT/47G13/2019/21
+Maharashtra
+Satara
+ 
+At the starting of the Sajjangarh 
+Fort
+17.779033
+73.901586
+Rock
+Fall
+NA
+16917
+MH/RAT/47G05/2018/21
+Maharashtra
+Ratnagiri
+2.5 km north of Shiravli Dam
+Shiravli- UdhaleBudruk Village 
+road
+17.78128
+73.42688
+Debris
+Slide
+NA
+16918
+MH/SAT/47G13/2018/7
+Maharashtra
+Satara
+ 
+1km on Village road towards 
+Patnemachi from Kaas-
+Mahabaleshwar Road
+17.784045
+73.785803
+Debris
+Slide
+NA
+16919
+MH/SAT/47G13/2019/16
+Maharashtra
+Satara
+ 
+1.5km from Kumbhargani on 
+Village road from Kumbhargani 
+to Dhondewadimura
+17.785571
+73.873238
+Debris
+Slide
+NA
+16920
+MH/SAT/47G13/2019/15
+Maharashtra
+Satara
+ 
+1km from Kumbhargani on 
+Village road from Kumbhargani 
+to Dhondewadimura
+17.78631
+73.878484
+Rock cum debris
+Slide
+NA
+16921
+MH/SAT/47G13/2019/23
+Maharashtra
+Satara
+ 
+300m from Patnemachi on 
+Village Road from Kaas-
+Mahabaleshwar Road towards 
+Patnmachi
+17.788324
+73.786417
+Debris
+Slide
+NA
+16922
+MH/SAT/47G13/2019/17
+Maharashtra
+Satara
+ 
+300m from Dhondewadimura 
+on village road from 
+Dhondewadimura to 
+Rindichamura
+17.790352
+73.864937
+Rock cum debris
+Slide
+NA
+16923
+MH/SAT/47G09/2018/12
+Maharashtra
+Satara
+21 Km from Mahabaleshwar
+Mahabaleshwar - Tapola road, 
+MDR-26.
+17.79819
+73.70809
+Debris
+Slide
+NA
+16924
+MH/SAT/47G09/2018/3
+Maharashtra
+Satara
+300 m from Bhekawali
+Mahabaleshwar-Bhekavali road 17.79967
+73.7121
+Debris
+Slide
+NA

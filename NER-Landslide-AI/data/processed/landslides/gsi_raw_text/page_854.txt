@@ -1,0 +1,507 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+33853
+UK/CHA/53N07/2013/0064
+Uttarakhand
+Chamoli
+UK_CHA_MDR_ 064
+Near village Devkhal
+30.34
+79.29
+Debris
+Slide
+16th-17th June 2013
+33854
+UK/CHA/53N07/2015/1222
+Uttarakhand
+Chamoli
+ 
+Gopeshwar-Pokhri road
+30.340603
+79.289906
+Rock cum Debris
+Slide
+NA
+33855
+UK/TEH/53J11/2015/2254
+Uttarakhand
+Tehri Garhwal
+ 
+Anjanisain-Jakhnidhar
+30.340659
+78.537055
+Debris
+Slide
+NA
+33856
+UK/DEH/53J03/2015/1975
+Uttarakhand
+Dehradun
+ 
+Dehradun-Maldeota road
+30.340972
+78.130833
+Rock
+Slide
+NA
+33857
+UK/RUD/53N03/2015/789
+Uttarakhand
+Rudraprayag
+ 
+Rudraprayag-Pokhri road
+30.341111
+79.007083
+Rock
+Slide
+NA
+33858
+UK/TEH/53J11/2015/2255
+Uttarakhand
+Tehri Garhwal
+ 
+Anjanisain-Jakhnidhar
+30.341173
+78.537244
+Debris
+Slide
+NA
+33859
+UK/TEH/53J11/2015/2257
+Uttarakhand
+Tehri Garhwal
+ 
+Anjanisain-Jakhnidhar
+30.341742
+78.525158
+Debris
+Slide
+NA
+33860
+UK/CHA/53N03/2015/818
+Uttarakhand
+Chamoli
+ 
+Nagnath
+30.341778
+79.199306
+Debris
+Slide
+NA
+33861
+UK/CHA/53N03/2015/677
+Uttarakhand
+Chamoli
+ 
+ 
+30.341843
+79.199409
+Debris
+Slide
+NA
+33862
+UK/RUD/53N03/2015/790
+Uttarakhand
+Rudraprayag
+ 
+Rudraprayag-Pokhri road
+30.342333
+79.008639
+Rock
+Slide
+NA
+33863
+UK/DEH/53J03/2015/1974
+Uttarakhand
+Dehradun
+ 
+Dehradun-Maldeota road
+30.342649
+78.132835
+Debris
+Slide
+2012
+33864
+UK/TEH/53J11/2015/2088
+Uttarakhand
+Tehri Garhwal
+ 
+Malupani to Kandikhal (SH-8)
+30.343214
+78.640955
+Debris
+Slide
+NA
+33865
+UK/RUD/53J15/2015/1023
+Uttarakhand
+Rudraprayag
+ 
+Sumari-Hariyali Road
+30.343287
+78.969563
+Debris
+Slide
+2014
+33866
+UK/RUD/53N03/2015/792
+Uttarakhand
+Rudraprayag
+ 
+Rudraprayag-Pokhri road
+30.343389
+79.059028
+Rock
+Slide
+NA
+33867
+UK/TEH/53J11/2015/2256
+Uttarakhand
+Tehri Garhwal
+ 
+Anjanisain-Jakhnidhar
+30.343651
+78.524635
+Debris
+Slide
+NA
+33868
+UK/TEH/53J11/2015/2089
+Uttarakhand
+Tehri Garhwal
+ 
+Malupani to Kandikhal (SH-8)
+30.343772
+78.638998
+Debris
+Slide
+NA
+33869
+UK/CHA/53N03/2015/819
+Uttarakhand
+Chamoli
+ 
+Pokhri
+30.344056
+79.199694
+Rock
+Slide
+NA
+33870
+UK/CHA/53N03/2015/676
+Uttarakhand
+Chamoli
+ 
+ 
+30.344167
+79.199694
+Rock
+Slide
+NA
+33871
+UK/TEH/53J11/2015/2092
+Uttarakhand
+Tehri Garhwal
+ 
+Malupani to Kandikhal (SH-8)
+30.344536
+78.629977
+Debris
+Slide
+NA
+33872
+UK/RUD/53N03/2015/791
+Uttarakhand
+Rudraprayag
+ 
+Chopta
+30.344694
+79.056556
+Rock
+Slide
+NA
+33873
+UK/TEH/53J11/2015/2091
+Uttarakhand
+Tehri Garhwal
+ 
+Malupani to Kandikhal (SH-8)
+30.345358
+78.631033
+Debris
+Slide
+NA
+33874
+UK/DEH/53F15/2015/522
+Uttarakhand
+Dehradun
+ 
+Kinswalgaon - Nakatpur
+30.34566
+77.962452
+Debris
+Subsidence
+NA
+33875
+UK/CHA/53N07/2015/1238
+Uttarakhand
+Chamoli
+ 
+Gopeshwar-Pokhri road
+30.346583
+79.277583
+Rock
+Slide
+NA
+33876
+UK/CHA/53N07/2015/1239
+Uttarakhand
+Chamoli
+ 
+Gopeshwar-Pokhri road
+30.3475
+79.264167
+Debris
+Slide
+NA
+33877
+UK/RUD/53N03/2015/793
+Uttarakhand
+Rudraprayag
+ 
+Kharpatiya
+30.347556
+79.075528
+Rock
+Slide
+NA
+33878
+UK/TEH/53J11/2015/2090
+Uttarakhand
+Tehri Garhwal
+ 
+Malupani to Kandikhal (SH-8)
+30.347642
+78.631314
+Debris
+Slide
+NA
+33879
+UK/TEH/53J11/2015/2210
+Uttarakhand
+Tehri Garhwal
+ 
+Tipri-Jakhnidhar
+30.348506
+78.514975
+Debris
+Slide
+NA
+33880
+UK/CHA/53N07/2015/1240
+Uttarakhand
+Chamoli
+ 
+Gopeshwar-Pokhri road
+30.349094
+79.261381
+Debris
+Slide
+NA
+33881
+UK/RUD/53N03/2015/796
+Uttarakhand
+Rudraprayag
+ 
+Rudraprayag-Pokhri road
+30.350389
+79.004194
+Rock
+Slide
+NA
+33882
+UK/RUD/53N03/2015/800
+Uttarakhand
+Rudraprayag
+ 
+Durgadhar
+30.350583
+79.030611
+Rock
+Slide
+NA
+33883
+UK/TEH/53J11/2015/2209
+Uttarakhand
+Tehri Garhwal
+ 
+Tipri-Jakhnidhar
+30.350607
+78.514881
+Debris
+Slide
+NA
+33884
+UK/CHA/53N07/2015/1241
+Uttarakhand
+Chamoli
+ 
+Gopeshwar-Pokhri road
+30.351598
+79.258803
+Rock
+Slide
+NA
+33885
+UK/DEH/53F15/2015/521
+Uttarakhand
+Dehradun
+ 
+Kinswalgaon - Nakatpur
+30.351898
+77.968807
+Debris
+Fall
+NA
+33886
+UK/RUD/53N03/2015/794
+Uttarakhand
+Rudraprayag
+ 
+Rudraprayag-Pokhri road
+30.352639
+79.091917
+Rock
+Slide
+NA
+33887
+UK/TEH/53J11/2015/2208
+Uttarakhand
+Tehri Garhwal
+ 
+Tipri-Jakhnidhar
+30.352753
+78.51349
+Debris
+Slide
+NA
+33888
+UK/RUD/53J15/2015/1002
+Uttarakhand
+Rudraprayag
+ 
+Tilwara-Mayali Road (SH-15)
+30.353497
+78.95981
+Rock cum Debris
+Slide
+NA
+33889
+UK/CHA/53N07/2015/1208
+Uttarakhand
+Chamoli
+ 
+Gopeshwar-Pokhri road
+30.353688
+79.261521
+Rock cum Debris
+Slide
+NA
+33890
+UK/DEH/53F15/2015/520
+Uttarakhand
+Dehradun
+ 
+Kinswalgaon - Nakatpur
+30.353821
+77.971014
+Debris
+Fall
+NA
+33891
+UK/RUD/53N03/2015/795
+Uttarakhand
+Rudraprayag
+ 
+Rudraprayag-Pokhri road
+30.354833
+79.099139
+Rock
+Slide
+NA
+33892
+UK/TEH/53J11/2015/2093
+Uttarakhand
+Tehri Garhwal
+ 
+Magron to Koti road
+30.355429
+78.631567
+Debris
+Slide
+NA
+33893
+UK/TEH/53J11/2015/2207
+Uttarakhand
+Tehri Garhwal
+ 
+Tipri-Jakhnidhar
+30.355636
+78.514576
+Debris
+Slide
+NA
+33894
+UK/CHA/53N07/2015/1252
+Uttarakhand
+Chamoli
+ 
+NH-58
+30.356066
+79.320048
+Debris
+Slide
+NA
+33895
+UK/CHA/53N07/2013/0033
+Uttarakhand
+Chamoli
+UK_CHA_NH_ 033
+Near Maithana Village
+30.356222
+79.318556
+Debris
+Flow
+16th-17th June 2013
+33896
+UK/TEH/53J11/2015/2206
+Uttarakhand
+Tehri Garhwal
+ 
+Tipri-Jakhnidhar
+30.356444
+78.514278
+Rock cum Debris
+Slide
+NA
+33897
+UK/RUD/53J15/2015/1003
+Uttarakhand
+Rudraprayag
+ 
+Tilwara-Mayali Road (SH-15)
+30.357029
+78.955292
+Rock
+Slide
+NA

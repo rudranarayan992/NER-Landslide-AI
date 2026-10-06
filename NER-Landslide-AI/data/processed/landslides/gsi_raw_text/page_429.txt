@@ -1,0 +1,434 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+17534
+7343
+Maharashtra
+Raigad
+Bhisekind
+18.50893
+73.12232
+Debris
+Slide
+NA
+17535
+7344
+Maharashtra
+Raigad
+18.431983
+73.111489
+Debris
+Slide
+2025
+17536
+7345
+Maharashtra
+Raigad
+Tmbari
+18.428571
+73.109351
+Debris
+Slide
+2025
+17537
+7347
+Maharashtra
+Raigad
+Roha
+Roha Balgaon road
+18.384737
+73.074627
+Debris
+Slide
+NA
+17538
+7352
+Maharashtra
+Raigad
+Bhugaon
+Poladpur Kashedi road
+17.930656
+73.437399
+Debris
+Slide
+2025
+17539
+7353
+Maharashtra
+Pune
+varandh ghat
+18.106541
+73.621345
+Debris
+Slide
+2025
+17540
+7354
+Maharashtra
+Raigad
+Roha Balgaon road
+18.089068
+73.441809
+Debris
+Slide
+NA
+17541
+7355
+Maharashtra
+Pune
+varandh ghat
+18.112007
+73.610626
+Rock
+Slide
+NA
+17542
+7356
+Maharashtra
+Pune
+Varandh Ghat
+18.113855
+73.607321
+Debris
+Slide
+2025
+17543
+7358
+Maharashtra
+Raigad
+Ambanali ghat
+17.934357
+73.1564604
+Debris
+Slide
+NA
+17544
+7359
+Maharashtra
+Raigad
+Harkol road
+18.146804
+73.22542
+Debris
+Slide
+NA
+17545
+7360
+Maharashtra
+Raigad
+Mangaon - Mhasala road
+18.216273
+73.225148
+Debris
+Slide
+NA
+17546
+7361
+Maharashtra
+Raigad
+Ambet to Purara road
+18.08802
+73.2823388
+Debris
+Slide
+NA
+17547
+7362
+Maharashtra
+Raigad
+Puraphata to Khamgaon road
+18.106353
+73.254152
+Debris
+Slide
+2025
+17548
+7363
+Maharashtra
+Raigad
+Srivardhan- Borli road
+18.076734
+73.024339
+Rock
+Slide
+NA
+17549
+7364
+Maharashtra
+Ratnagiri
+Posare Bk road
+17.634129
+73.653206
+Debris
+Slide
+23 July 2021
+17550
+7366
+Maharashtra
+Ratnagiri
+Nive 
+17.67867778
+73.63783611
+Debris
+Slide
+23 July 2021
+17551
+7368
+Maharashtra
+Ratnagiri
+Nive
+17.680125
+73.638769
+Debris
+Slide
+23 July 2021
+17552
+7375
+Maharashtra
+Ratnagiri
+Sadewadi
+17.626863
+73.618628
+Debris
+Slide
+23 July 2021
+17553
+7376
+Maharashtra
+Ratnagiri
+Kumbharli Ghat
+17.426047
+73.665599
+Debris
+Slide
+NA
+17554
+7377
+Maharashtra
+Ratnagiri
+Kumbharli ghat
+17.42591
+73.671091
+Debris
+Slide
+NA
+17555
+7378
+Maharashtra
+Ratnagiri
+Kumbharli ghat
+17.430492
+73.668129
+Debris
+Slide
+NA
+17556
+7380
+Maharashtra
+Ratnagiri
+Amba Ghat
+16.995469
+73.777811
+Rock
+Slide
+NA
+17557
+7381
+Maharashtra
+Ratnagiri
+Amba ghat
+16.999176
+73.776595
+Debris
+Slide
+NA
+17558
+7382
+Maharashtra
+Ratnagiri
+Devrukh-Sakharpa road
+16.98969
+73.680358
+Debris
+Slide
+NA
+17559
+7383
+Maharashtra
+Ratnagiri
+Devrukh Sonawade road
+17.113186
+73.619181
+Debris
+Slide
+NA
+17560
+MH/SAT/47GI4/2021/22
+Maharashtra
+SATARA
+BONDARWADI 
+20km in the southwest of 
+Satara 
+17.62661389
+73.87426111
+Earth
+slide
+22 July 2021, 1.30 pm
+17561
+MH/SAT/47G14/2021/23A
+Maharashtra
+SATARA
+Sandavali 
+26km in the southwest of 
+Satara 
+17.63980556
+73.83633333
+Earth
+ Slide
+2019, 23 July 2021
+17562
+MH/SAT/47G14/2021/23B
+Maharashtra
+SATARA
+Sandavali 
+26km in the southwest of 
+Satara 
+17.63913889
+73.83630556
+Earth
+ Slide
+23 July 2021
+17563
+MH/SAT/47G14/2021/23C
+Maharashtra
+SATARA
+Sandavali 
+26km in the southwest of 
+Satara 
+17.63897222
+73.83763889
+Debris
+ Slide
+23 July 2021
+17564
+MH/SAT/47G14/2021/24A
+Maharashtra
+SATARA
+Bhairavgad 
+20km southwest of Satara and 
+can  be accessed by NH 48
+17.54430556
+73.96352778
+ Debris
+ Slide
+2019, 24 July 2021
+17565
+MH/SAT/47G14/2021/24B
+Maharashtra
+SATARA
+Bhairavgad 
+20km southwest of Satara and 
+can  be accessed by NH 48
+17.54480556
+73.96486111
+NA
+2
+2019, 24 July 2021
+17566
+MH/SAT/47G14/2021/25A
+Maharashtra
+SATARA
+Morewadi 
+Morewadi
+17.57191667
+73.8954
+Debris
+ Subsidence
+8 August 2019, 23 July 2021
+17567
+MH/SAT/47G14/2021/25B
+Maharashtra
+SATARA
+Morewadi 
+Morewadi
+17.57216667
+73.89586111
+NA
+N.A. 
+NA
+17568
+MH/SAT/47G14/2021/25C
+Maharashtra
+SATARA
+Morewadi 
+Morewadi
+17.57166667
+73.89536111
+NA
+ N.A.
+23 July 2021
+17569
+MH/SAT/47G09/2021/07
+Maharashtra
+SATARA
+Kondhavale 
+Devrukhwadi (Kondhavale)
+17.99672222
+73.71136667
+Debris
+Flow
+22 July 2021 (around 1800hrs)
+17570
+MH/SAT/47G09/2021-22/26
+Maharashtra
+SATARA
+Jor 
+Jor
+17.99186111
+73.67366667
+Debris
+Slide
+22 July 2021
+17571
+MH/SAT/47G13/2021/27
+Maharashtra
+Satara/Mahabaleshwar
+Dhavali 
+Dhavali
+17.87233333
+73.77738889
+Soil
+Subsidence
+2005, 2015, 2019, 22 July 
+2021(4:30pm), 24 July 2021 
+17572
+MH/SAT/47G09/2021/28
+Maharashtra
+Satara/Mahabaleshwar
+Ghawari 
+Ghawari
+17.86266667
+73.68802778
+Debris
+Slide/Flow
+22 July 2021, 5:30-6pm
+17573
+MH/SAT/47G09/2021/29A
+Maharashtra
+Satara/Mahabaleshwar
+Chikhali 
+Chikhali
+17.87102778
+73.67655556
+Debris
+ Flow 
+22 July 2021, 5:30pm

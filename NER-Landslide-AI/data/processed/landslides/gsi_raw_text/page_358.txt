@@ -1,0 +1,414 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14854
+505
+Kerala
+Idukki
+Valiyathovala 
+Valiya Thovala - Vattapara road 9.801304
+77.137756
+Debris
+Slide
+15th August 2018
+14855
+506
+Kerala
+Idukki
+Valiyathovala 
+Valiya Thovala - Vattapara road 9.801902
+77.137459
+Debris
+Flow
+15th August 2018
+14856
+507
+Kerala
+Idukki
+Third Camp
+Madhura - Munnar High way
+9.796923
+77.192568
+Debris
+Slide
+15th August 2018
+14857
+508
+Kerala
+Idukki
+Nalumukku
+Nalumukku - Koottar road
+9.788433
+77.211174
+Debris
+Flow
+15th August 2018
+14858
+509
+Kerala
+Idukki
+Mullamthandu
+Mullamthandu- Manjakuzhi 
+road
+9.983798
+77.172235
+Debris
+Slide
+15th August 2018
+14859
+510
+Kerala
+Idukki
+Mullamthandu
+Mullamthandu- Manjakuzhi 
+road
+9.986887
+77.172548
+Debris
+Flow
+15th August 2018
+14860
+511
+Kerala
+Idukki
+Shanthanpara
+Kumily - Munnar High way
+9.937473
+77.218058
+Debris
+Slide
+15th August 2018
+14861
+512
+Kerala
+Idukki
+Rajappara
+Kumily - Munnar High way
+9.913123
+77.216946
+Debris
+Slide
+15th August, 2018
+14862
+513
+Kerala
+Idukki
+Rajappara
+Kumily - Munnar High way
+9.906852
+77.216739
+Debris
+Slide
+15th August 2018
+14863
+514
+Kerala
+Idukki
+Rajappara
+Kumily - Munnar High way
+9.897864
+77.213133
+Debris
+Slide
+15th August 2018
+14864
+515
+Kerala
+Idukki
+Kanakappuzha
+Kanakapuzha - NR city
+9.957787
+77.132604
+Debris
+Slide
+15th August 2018
+14865
+516
+Kerala
+Idukki
+Kanakappuzha
+Kanakapuzha - NR city
+9.959079
+77.129877
+Debris
+Slide
+15th August 2018
+14866
+517
+Kerala
+Idukki
+Kanakappuzha
+Kanakapuzha - NR city
+9.95888
+77.129958
+Debris
+Flow
+15th August 2018
+14867
+518
+Kerala
+Idukki
+Kanakappuzha
+Kanakapuzha - NR city
+9.958791
+77.125526
+Debris
+Slide
+15th August 2018
+14868
+519
+Kerala
+Idukki
+Mangathotti
+Mangathotty - Church road
+9.949067
+77.13799
+Debris
+Slide
+15th August 2018
+14869
+520
+Kerala
+Idukki
+Kanthipara
+Kanthipara - Ottathi road
+9.949909
+77.133528
+Debris
+Flow
+15th August 2018
+14870
+521
+Kerala
+Idukki
+Chemmannar
+Chemmannar pocket road
+9.929568
+77.152422
+Debris
+Flow
+15th August 2018
+14871
+522
+Kerala
+Idukki
+Panniyarkuthu
+Kuthunkal - Rajakkad road
+9.93918
+77.106391
+Debris
+Flow
+15th August 2018
+14872
+523
+Kerala
+Idukki
+Rajakumari bridge
+Mangathotty - Rajakumari 
+bridge road
+9.95547
+77.148699
+Debris
+Slide
+15th August 2018
+14873
+524
+Kerala
+Idukki
+Ambalappadi
+Senapathy - rajakumari  road
+9.949088
+77.169845
+Soil 
+Subsidence
+15th August 2018
+14874
+525
+Kerala
+Idukki
+Mammattikkanam
+Mammattikanam - Rajakkad 
+road
+9.939576
+77.103831
+Debris
+Slide
+15th August 2018
+14875
+526
+Kerala
+Idukki
+Mammattikkanam
+Kuthunkal - Changadakadavu 
+road
+9.881126
+77.104552
+Debris
+Flow
+15th August 2018
+14876
+527
+Kerala
+Idukki
+Mammattikkanam
+Mammattikkanam pocket road
+9.939357
+77.10125
+Debris
+Flow
+15th August 2018
+14877
+528
+Kerala
+Idukki
+Kallimali View point
+Kallimali View point - 
+Panniyarkutty road
+9.954884
+77.078382
+Debris
+Slide
+01-07-2018
+14878
+529
+Kerala
+Idukki
+Panniyarkutty
+Adimali - Rajakkad road
+9.957552
+77.078162
+Debris
+Slide
+15th August 2018
+14879
+530
+Kerala
+Idukki
+Panniyarkutty
+Adimali - Rajakkad road
+9.958153
+77.07605
+Debris
+Slide
+15th August 2018
+14880
+531
+Kerala
+Idukki
+Ponmudi
+Ponmudi - Hanging bridge road
+9.964335
+77.05862
+Debris
+Slide
+15th August 2018
+14881
+532
+Kerala
+Idukki
+Kulatharakkuzhi
+Rajakkad -  Adimali  road
+9.968324
+77.062493
+Debris
+Slide
+16th August 2018
+14882
+533
+Kerala
+Idukki
+Kulatharakkuzhi
+Rajakkad -  Adimali  road
+9.966436
+77.063839
+Debris
+Slide
+15th August 2018
+14883
+534
+Kerala
+Idukki
+Kulatharakkuzhi
+Rajakkad -  Adimali  road
+9.964256
+77.068385
+Debris
+Slide
+15th August 2018
+14884
+535
+Kerala
+Idukki
+Kanakapuzha
+Kanakapuzha pocket road
+9.957836
+77.120715
+Debris
+Flow
+15th August 2018
+14885
+536
+Kerala
+Idukki
+Kanakapuzha
+Kanakapuzha pocket road
+9.956879
+77.120527
+Debris
+Slide
+15th August 2018
+14886
+537
+Kerala
+Idukki
+Kannimala
+Kannimala - Kollamkulam Estate 
+road
+9.662285
+77.092683
+Debris
+Flow
+15th August 2018
+14887
+538
+Kerala
+Idukki
+Chengara
+Anavilasam - Vandiperiyar road 9.645962
+77.076031
+Debris
+Slide
+15th August 2018
+14888
+539
+Kerala
+Idukki
+Ambalamkunnu
+Ambalamkunnu - Melazhutha 
+road
+9.572091
+76.998014
+Debris
+Slide
+15th August 2018
+14889
+540
+Kerala
+Idukki
+Plakathadam
+Peerumedu - Plackathadam 
+road
+9.558774
+76.995185
+Debris
+Flow
+15th August 2018

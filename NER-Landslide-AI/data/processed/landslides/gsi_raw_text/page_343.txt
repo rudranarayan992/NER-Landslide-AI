@@ -1,0 +1,405 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14361
+12
+Kerala
+Idukki
+Thattekanni II
+Ernakulam – Kumily Road
+9.998816667
+76.88659167
+Debris
+Flow
+16th August, 2018
+14362
+13
+Kerala
+Idukki
+Thattekanni III
+Ernakulam – Kumily Road
+9.998091667
+76.88803333
+Debris
+Flow
+15th August, 2018
+14363
+14
+Kerala
+Idukki
+Thattekanni IV
+Ernakulam – Kumily Road
+9.996919444
+76.8906
+Debris
+Slide
+15th August, 2018
+14364
+15
+Kerala
+Idukki
+Thattekanni V
+Ernakulam – Kumily Road
+9.995144444
+76.895
+Debris
+Slide
+15th August, 2018
+14365
+16
+Kerala
+Idukki
+Thattekanni VI
+Ernakulam – Kumily Road
+9.988547222
+76.90524722
+Debris
+Flow
+15th August, 2018
+14366
+17
+Kerala
+Idukki
+Thattekanni VII
+Ernakulam – Kumily Road
+9.986955556
+76.90802222
+Debris
+Flow
+15th August, 2018
+14367
+18
+Kerala
+Idukki
+Thattekanni VIII
+Ernakulam – Kumily Road
+9.985438889
+76.91070833
+Debris
+Slide
+15th August, 2018
+14368
+19
+Kerala
+Idukki
+Kudakkallu
+Ernakulam – Kumily Road
+9.984905556
+76.91116111
+Debris
+Flow
+15th August, 2018
+14369
+20
+Kerala
+Idukki
+Kudakkallu II
+Ernakulam – Kumily Road
+9.984652778
+76.91204444
+Debris
+Flow
+15th August, 2018
+14370
+21
+Kerala
+Idukki
+Kudakkallu III
+Ernakulam – Kumily Road
+9.982730556
+76.91701667
+Debris
+Flow
+15th August, 2018
+14371
+22
+Kerala
+Idukki
+Pambla
+Ernakulam – Kumily Road
+9.976441667
+76.92743333
+Debris
+Flow
+15th August, 2018
+14372
+23
+Kerala
+Idukki
+Pambla II
+Ernakulam – Kumily Road
+9.972691667
+76.93636111
+Debris
+Flow
+15th August, 2018
+14373
+24
+Kerala
+Idukki
+Pambla III
+Ernakulam – Kumily Road
+9.964275
+76.94714722
+Debris
+Slide
+15th August, 2018
+14374
+25
+Kerala
+Idukki
+Pambla IV
+Ernakulam – Kumily Road
+9.954502778
+76.97307222
+Debris
+Slide
+15th August, 2018
+14375
+26
+Kerala
+Idukki
+Pambla V
+Ernakulam – Kumily Road
+9.953966667
+76.97423889
+Debris
+Flow
+15th August, 2018
+14376
+27
+Kerala
+Idukki
+Periyar Valley Chappath
+Pakuthippalam – Murikkasseri 
+Road
+9.934419444
+76.97129444
+Debris
+Flow
+9th August, 2018
+14377
+28
+Kerala
+Idukki
+Periyar Valley Chappath II
+Pakuthippalam – Murikkasseri 
+Road
+9.937847222
+76.97359167
+Debris
+Slide
+15th August, 2018
+14378
+29
+Kerala
+Idukki
+Keerithode
+Adimali – Kumily National 
+Highway (NH 185)
+9.939980556
+76.97325556
+Debris
+Slide
+15th August, 2018
+14379
+30
+Kerala
+Idukki
+Keerithode Junction
+Adimali – Kumily National 
+Highway (NH 185)
+9.9378
+76.96460556
+Debris
+Slide
+15th August, 2018
+14380
+31
+Kerala
+Idukki
+Thattekallu I
+Chelachuvadu  – Thodupuzha 
+road
+9.971438889
+76.89408056
+Debris
+Slide
+15th August, 2018
+14381
+32
+Kerala
+Idukki
+Thattekallu II
+Chelachuvadu  – Thodupuzha 
+road
+9.970847222
+76.89462222
+Debris
+Flow
+15th August, 2018
+14382
+33
+Kerala
+Idukki
+Thattekallu III
+Chelachuvadu  – Thodupuzha 
+road
+9.969144444
+76.8991
+Debris
+Slide
+15th August, 2018
+14383
+34
+Kerala
+Idukki
+Chelachuvadu
+Chelachuvadu – Murickassery  
+road
+9.914976
+76.963041
+Debris
+Slide
+14th August, 2018
+14384
+35
+Kerala
+Idukki
+Chelachuvadu II
+Chelachuvadu – Murickassery  
+road
+9.915236
+76.963416
+Debris
+Slide
+15th August, 2018
+14385
+36
+Kerala
+Idukki
+Chelachuvadu III
+Chelachuvadu – Murickassery  
+road
+9.913324
+76.964216
+Soil
+Slide
+15th August, 2018
+14386
+37
+Kerala
+Idukki
+Chelachuvadu IV
+Chelachuvadu – Murickassery  
+road
+9.911005
+76.969627
+Debris
+Slide
+15th August, 2018
+14387
+38
+Kerala
+Idukki
+Chelachuvadu V
+Chelachuvadu – Murickassery  
+road
+9.911038
+76.970174
+Soil
+Slide
+15th August, 2018
+14388
+39
+Kerala
+Idukki
+Periyar Valley Bridge II
+Chelachuvadu – Murickassery  
+road
+9.909008
+76.974146
+Debris
+Slide
+14th August, 2018
+14389
+40
+Kerala
+Idukki
+Periyar Valley Bridge III
+Chelachuvadu – Murickassery  
+road
+9.908645
+76.974326
+Debris
+Slide
+14th August, 2018
+14390
+41
+Kerala
+Idukki
+Churuli
+Adimali – Kumily National 
+Highway (NH 185)
+9.908482
+76.965126
+Debris
+Slide
+15th August, 2018
+14391
+42
+Kerala
+Idukki
+Churuli II
+Adimali – Kumily National 
+Highway (NH 185)
+9.909522
+76.963546
+Debris
+Slide
+14th August, 2018
+14392
+43
+Kerala
+Idukki
+Churuli III
+Adimali – Kumily National 
+Highway (NH 185)
+9.912153
+76.958793
+Debris
+Flow
+14th August, 2018
+14393
+44
+Kerala
+Idukki
+Karimban Kaanam
+Adimali – Kumily National 
+Highway (NH 185)
+9.906263
+76.967401
+Debris
+Slide
+16th August, 2018
+14394
+45
+Kerala
+Idukki
+Karimban Kaanam II
+Adimali – Kumily National 
+Highway (NH 185)
+9.90637
+76.96773
+Debris
+Flow
+16th August 2018

@@ -1,0 +1,443 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+25956
+Nagaland/Kohima/83K02/2019/
+11
+Nagaland
+Kohima
+Chainage: 157+300 to 157+800
+NH-29/ Dimapur-Kohima 
+National Highway
+25.73277778
+94.02216667
+Colluvium
+Slide
+2016
+25957
+Nagaland/Kohima/83K02/2019/
+12
+Nagaland
+Kohima
+Chainage: 156+852 to157+000
+NH-29/ Dimapur-Kohima 
+National Highway
+25.73433333
+94.01708333
+Weathered shale 
+and sandstone
+Slide
+2016
+25958
+Nagaland/Kohima/83K02/2019/
+13
+Nagaland
+Kohima
+Chainage: 155+700 to 155+840
+NH-29/ Dimapur-Kohima 
+National Highway
+25.73683333
+94.00586111
+Colluvium
+Slide
+2018
+25959
+NAG/DIM/NIT/83G13/2019/LS1
+.
+Nagaland
+Dimapur
+NIT Campus landslide
+NIT, Nagaland
+25.68176111
+94.06811944
+Soil
+Slide
+26 October 2019
+25960
+Nagaland/Wokha/83J03/2019/0
+59.
+Nagaland
+Wokha
+Bhandari landslide
+Wokha-Merapani Road
+26.27647222
+94.13175
+Sandy soil
+Slide
+July 2017,  2018 and October 2019
+25961
+NL/DMR/83F-16/2019/01
+Nagaland
+Dimapur
+Zhekhise Slide
+Niuland
+26.07256
+93.928
+Sandy Soil
+Slide
+09 May 2019
+25962
+NL/DMP/NH-29/2021/01
+Nagaland
+Dimapur
+Chumukedima-Ghaspani slide
+Between Chumukedima-
+Ghaspani along NH-29, 
+Dimapur, Nagaland
+25.78180556
+93.80180556
+Rock
+Fall
+2021
+25963
+NL/WKH/83J04/2021/01
+Nagaland
+Wokha
+‘E’-Khel Slide, Wokha village
+NH-2/ Tourist Lodge colony
+26.10694722
+94.25328889
+Insitu Soil
+Slide
+18 September 2021
+25964
+Nagaland/Wokha/Chukitong/83
+J08/2022/001.
+Nagaland
+Wokha
+Chukitong landslide
+ Wokha-Mokokhung road
+26.09660278
+94.368725
+Debris
+Slide
+2022
+25965
+Nagaland/Wokha/Chukitong/83
+J08/2022/002.
+Nagaland
+Wokha
+Chukitong landslide
+ Wokha-Mokokhung road
+26.09686389
+94.36771667
+Debris
+Slide
+2022
+25966
+NL/LON/83J14/2022/01
+Nagaland
+Longleng
+Chainage 45+137 slide
+24 km NE of Tamlu town
+26.73052778
+94.83911111
+Weathered shale 
+and loose debris.
+Slide
+2010, 2019
+25967
+NA/CHU/83G13/2023/01
+Nagaland
+Chumoukedima
+Chumoukedima Old Check Gate Rock 
+Fall
+NH29
+25.791802
+93.803309
+Rock
+Fall
+ 04 July 2023 (around 5.00 pm)
+25968
+NAG/KOM/83K/2/2017/01
+Nagaland
+Chumoukedima
+Perciezie Colony, near High School 
+Junction, Kohima town
+25.68866667
+94.09733333
+Debris
+Slide
+1986,2001, 09 July 2017
+25969
+NAG/KOM/83K/2/2017/01
+Nagaland
+Kohima
+NH-29, Near Kiruphema-Peducha 
+village
+26.00197222
+94.18366667
+Debris
+Slide and 
+subsidence
+1991, 1994, 13 May 2017
+25970
+NL-01/2012-13
+Nagaland
+Tuensang
+Police line slide
+26.22633333
+94.81302778
+NA
+22 June 2012 at 20:30 Hrs.
+25971
+NL-02/2012-13
+Nagaland
+Tuensang
+Jail colony slide
+26.22480556
+94.81236111
+NA
+NIL
+03 July 2012 at 14:00 hrs.
+25972
+NL-03/2012-13
+Nagaland
+Tuensang
+Hakchang slide
+26.26336111
+94.81563889
+NA
+NIL
+30 June 2012 at 22:30 Hrs.
+25973
+NL-04/2012-13
+Nagaland
+Tuensang
+Kuthur Slide
+26.18302778
+94.81619444
+NA
+NIL
+25 May 2012 at 05:00 Hrs.
+25974
+NL-05/2012-13
+Nagaland
+Tuensang
+Chare slide
+26.28908333
+94.61005556
+NA
+NIL
+15June 2012 at 22:00 Hrs.
+25975
+NL-06/2012-13
+Nagaland
+Kohima
+KMC slide
+25.68002778
+94.07266667
+NA
+NIL
+29 July 2012 at 06:00 Hrs.
+25976
+NL-07/2012-13
+Nagaland
+Kohima
+D-Block colony slide
+25.67005556
+94.113
+NA
+NIL
+31 July 2012 at 23:00 Hrs. 
+25977
+NL-08/2012-13
+Nagaland
+Kohima
+Chakhabama slide (A)
+25.68436111
+94.20497222
+NA
+NIL
+06 August 2012 at 22:00 Hrs.
+25978
+NL-09/2012-13
+Nagaland
+Kohima
+Chakhabama slide (B)
+25.68133333
+94.20877778
+NA
+NIL
+07 August 2012 at 05:30 Hrs.
+25979
+NL-10/2012-13
+Nagaland
+Kohima
+Chakhabama Slide (C)
+25.67275
+94.21136111
+NA
+NIL
+08 August 2012 at 06:00 Hrs.
+25980
+NL-11/2012-13
+Nagaland
+Phek
+Chakhabama slide (D)
+25.66666667
+94.19602778
+NA
+NIL
+07 August 2012 at 05:30 Hrs.
+25981
+3423
+Nagaland
+Kohima
+NULL
+NULL
+25.687815
+94.0474583
+Debris
+Slide
+NA
+25982
+4704
+Nagaland
+Mokokchung
+26.36245
+94.562862
+Debris
+slide
+NA
+25983
+5723
+Nagaland
+Zunheboto
+273
+273
+26.015488
+94.535665
+Debris
+slide
+NA
+25984
+5740
+Nagaland
+Zunheboto
+Roto
+Roto
+26.074645
+94.423373
+Debris
+slide
+NA
+25985
+5741
+Nagaland
+Zunheboto
+Philli
+Philli
+26.098268
+94.392683
+Debris
+slide
+NA
+25986
+5742
+Nagaland
+Zunheboto
+Philli
+Philli
+26.109352
+94.387308
+Debris
+slide
+NA
+25987
+5743
+Nagaland
+Zunheboto
+Philli
+Philli
+26.1085
+94.386342
+Debris
+slide
+NA
+25988
+5744
+Nagaland
+Zunheboto
+Philli
+Philli
+26.084065
+94.398745
+Debris
+slide
+NA
+25989
+5753
+Nagaland
+Zunheboto
+Tizu Iland 3
+Tizu Iland 3
+26.039817
+94.588622
+Soil
+fall
+NA
+25990
+5755
+Nagaland
+Zunheboto
+aghunato
+aghunato
+26.003224
+94.611549
+Debris
+slide
+NA
+25991
+5756
+Nagaland
+Zunheboto
+Aquba 2
+Aquba 2
+26.0178417
+94.6092667
+Rock
+fall
+NA
+25992
+5757
+Nagaland
+Zunheboto
+lukhuyi 2
+lukhuyi 2
+26.022983
+94.582272
+Debris
+slide
+NA
+25993
+5760
+Nagaland
+Zunheboto
+Melahu 3
+Melahu 3
+26.053525
+94.636107
+Debris
+slide
+NA
+25994
+5761
+Nagaland
+Zunheboto
+Melahu 2
+Melahu 2
+26.050603
+94.634088
+Debris
+slide
+NA

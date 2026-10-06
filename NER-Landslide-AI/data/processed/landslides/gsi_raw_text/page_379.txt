@@ -1,0 +1,498 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15648
+KRL/KZH/58A/03/2018/28
+Kerala
+Kozhikode
+Kadappanchal_2
+Kadappanchal
+11.447025
+76.064183
+Soil
+Soil flow
+15th August 2018
+15649
+KRL/KZH//2018/29
+Kerala
+Kozhikode
+Mysorepetta_1
+Kumaranalur
+11.299957
+76.056372
+Debris.
+Flow
+15th August 2018
+15650
+KRL/KZH/58A/3/2018/30
+Kerala
+Kozhikode
+Mysorepeta_2
+Kumaranalur
+11.300098
+76.056775
+Debris.
+Slide
+15th August 2018
+15651
+KRL/KZH/ 58A/3 /2018/31
+Kerala
+Kozhikode
+Mysorepeta_3
+Kumaranalur
+11.303025
+76.05896
+Debris.
+Flow
+16th August 2018
+15652
+KRL/KZH/58A/3 /2018/32
+Kerala
+Kozhikode
+Agasthicherthalaickal
+Kooderenhi
+11.355787
+76.069778
+Debris.
+Slide
+16th August 2018
+15653
+KRL/KKD/58A/3/2018/33
+Kerala
+Kozhikode
+Sannipadi_2
+Kumaranallur
+11.3065
+76.0442
+Debris
+Flow
+15th August 2018
+15654
+KRL/KKD/58A/07/2018/34
+Kerala
+Kozhikode
+Agampuzha slide
+Kumaranallur
+11.338
+76.0904
+Debris
+slide
+15th August 2018
+15655
+KRL/KKD/58A/3/2018/35
+Kerala
+Kozhikode
+Khurusumala slide
+Khurusumala
+11.32639
+76.08017
+Rock cum debris
+slide
+15th August 2018
+15656
+KRL/ KKD/58A/3/2018/36
+Kerala
+Kozhikode
+Maranchatti  slide
+Kumaranalum
+11.30941
+76.04953
+Debris
+Flow
+15th August 2018
+15657
+KRL/KKD/58A/3/2018/37
+Kerala
+Kozhikode
+Mysore pettaslide
+Kodiyathur
+11.30005
+76.05552
+Debris
+Flow
+15th August 2018
+15658
+KRL/KKD/ 58A/3/2018/38
+Kerala
+Kozhikode
+Sannipadi 6th ward slide
+Karasseri
+11.30807
+76.0495
+Debris
+Flow
+16th August 2018
+15659
+KRL/KKD/58A/03/19/39
+Kerala
+Kozhikode
+Kumbalaparal_2
+Kumbalapara
+11.495
+76.22874
+Rock
+slide
+15th August 2018
+15660
+KRL/KKD/58A/03/19/40
+Kerala
+Kozhikode
+Kadunchiriyan
+Chokkad village
+11.20964
+76.31578
+Debris.
+Flow
+15th August 2018
+15661
+KRL/MLP/49M/15/14/2018/1
+Kerala
+Malappuram
+Kakkayam-1
+Kakkayam
+11.516113
+75.898147
+Rock Boulder
+Rock fall
+14th August 2018
+15662
+KRL/MLP/49M/15/14/2018/2
+Kerala
+Malappuram
+Kallanodu slide
+Kallanodu
+11.519563
+75.880112
+Debris
+Flow
+14th August 2018
+15663
+KRL/MLP/49M/15/2018/3
+Kerala
+Malappuram
+Manicherri  Slide
+Manicherri
+11.527347
+75.863507
+Rock cum Debris
+Debris slide
+1968, Reactivation- 14/6/18
+15664
+KRL/MLP/49 M/15/2018/4
+Kerala
+Malappuram
+Manicherri  Slide-2
+Mancherri
+11.526232
+75.865128
+Rock cum Debris
+Debris flow
+15th June 2018
+15665
+KRL/MLP/49M/15/14/2018/5
+Kerala
+Malappuram
+Manicherri slide-3
+Manicherri
+11.529662
+75.866947
+Soil
+Slide
+14th July2018
+15666
+KRL/MLP/58A/3/2018/06
+Kerala
+Malappuram
+Chaliyar slide-1
+Chaliyar
+11.339678
+76.10913
+Soil
+Slide
+15th June 2018
+15667
+KRL/MLP/58A/03/2018/7
+Kerala
+Malappuram
+Chaliyar slide-2
+Nilambur
+11.342338
+76.10781
+Debris
+Slide
+14th August 2018
+15668
+KRL/MLP/ 58A/7 /2018/8
+Kerala
+Malappuram
+Nedungayum slide
+Nilambur
+11.289187
+76.339887
+Debris.
+Slide
+14th August 2018
+15669
+KRL/MLP/ 58A/7/2018/9
+Kerala
+Malappuram
+Karulayil_1
+Nilambur
+11.288482
+76.310463
+Soil
+Flow
+14th August 2018
+15670
+KRL/MLP/ 58A/7/2018/10
+Kerala
+Malappuram
+Nedungayum slide-3
+Nilambur
+11.288413
+76.310572
+Soil
+Slide
+15th August 2018
+15671
+KRL/MLP/ 58A/4/2018/11
+Kerala
+Malappuram
+Areekode slide
+Areekode
+11.224051
+76.04485
+Debris
+Slide
+14th August 2018
+15672
+KRL/MLP/ 58A/3/2018/12
+Kerala
+Malappuram
+Vettilaparaslide
+Vettilapara
+11.26441
+76.09172
+Debris
+Slide
+April 2018
+15673
+KRL/MLP/ 58A/3/2018/13
+Kerala
+Malappuram
+Oyilupara slide
+Vettilapara
+11.26189
+76.09288
+Debris
+Flow
+June 2018
+15674
+KRL/MLP/58A03/2018/14
+Kerala
+Malappuram
+Indumpali slide-1
+Vettilapara
+11.26886
+76.11234
+Debris
+Flow
+June 2018
+15675
+KRL/MLP/ 58A/3/2018/15
+Kerala
+Malappuram
+Orandapara slide
+Perakamanna
+11.26259
+76.11232
+Debris
+Flow
+June 2018
+15676
+KRL/MLP/ 58A/3/2018/16
+Kerala
+Malappuram
+Indumpali slide-2
+Urunati
+11.27518
+76.11256
+Debris
+Flow
+15th August 2018
+15677
+KRL/MLP/ 58A/3/2018/17
+Kerala
+Malappuram
+Tribal colony slide
+Vettilapara
+11.2775
+76.1259
+Debris
+slide
+15th August 2018
+15678
+KRL/MLP/ 58A/4/2018/18
+Kerala
+Malappuram
+Nilambur junction slide
+Nilambur junction
+11.23508
+76.15302
+Soil
+Flow
+15th August 2018
+15679
+KRL/MLP/ 58A/3/2018/19
+Kerala
+Malappuram
+Velachal slide-1
+Nilambur
+11.24485
+76.14259
+Debris
+Flow
+June 2018
+15680
+KRL/MLP/ 58A/4/2018/20
+Kerala
+Malappuram
+Odayikkal  slide
+Odayikkal
+11.24378
+76.15763
+Soil
+Slide
+15th August 2018
+15681
+KRL/MLP/ 58A/4/2018/21
+Kerala
+Malappuram
+Velachal  slide
+Nilambur
+11.24368
+76.14389
+Debris
+Flow
+15th August 2018
+15682
+KRL/MP/58A/3/2018/22
+Kerala
+Malappuram
+Conolly’s plot river bank slide
+Conolly’s plot
+11.2721
+76.2083
+Soil
+slide
+15th August 2018
+15683
+KRL/KKD/58A/3/2018/23
+Kerala
+Malappuram
+Ettam block slide
+Pullipadam
+11.33282
+76.13535
+Soil
+Subsidence
+15th August 2018
+15684
+KRL/MP/58A/3/2019/24
+Kerala
+Malappuram
+Pullipadam_2
+Pullipadam
+11.33822
+76.13039
+Rock boulders
+Falls
+15th August 2018
+15685
+KRL/MP/58A/3/2019/25
+Kerala
+Malappuram
+Pullipadam_3
+Pullipadam
+11.3405
+76.12572
+Debris
+slide
+15th August 2018
+15686
+KRL/MP/58A/3/2019/26
+Kerala
+Malappuram
+Kakkadam slide
+Valandhode
+11.34251
+76.10291
+Debris
+Flow
+15th August 2018
+15687
+KRL/MP/58A/03/19/27
+Kerala
+Malappuram
+Madhimoola slide
+Akkambadam
+11.33724
+76.21254
+Debris
+River bank toe 
+erosion
+8th August 2018
+15688
+KRL/MP/58A/03/19/28
+Kerala
+Malappuram
+Madhimoola colony slide
+Madhimoola
+11.34181
+76.20789
+Debris
+River bank toe 
+erosion
+8th August 2018
+15689
+KRL/MP/58A/03/19/29
+Kerala
+Malappuram
+Vazhikadavu slide_1
+Vazhikadavu
+11.40917
+76.36485
+Rock 
+slide
+15th August 2018
+15690
+KRL/MP/58A/07/19/30
+Kerala
+Malappuram
+Vazhikadavu slide_2
+Vazhukadavu(Near forest check 
+post on Guddalore road)
+11.39051
+76.35817
+Debris
+slide
+15th August 2018
+15691
+KRL/MP/58A/07/19/31
+Kerala
+Malappuram
+Vazhikadavu slide_3
+Vazhikadavu to  Cuddalore road 11.39598
+76.36256
+Soil cum debris
+slide
+15th August 2018

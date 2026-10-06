@@ -1,0 +1,446 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1090
+AR/CHNG/83M15/2022/090
+Arunachal Pradesh
+Changlang
+900 W of New Kamlao
+NH-315, Jairampur-Manmao 
+road section
+27.299744
+95.987092
+Debris
+Slide
+NA
+1091
+AR/CHNG/92A03/2022/085
+Arunachal Pradesh
+Changlang
+1.2km W Hetlong
+NH-315, Jairampur-Manmao 
+road
+27.29976
+96.012691
+Debris
+Slide
+NA
+1092
+AR/CHNG/92A03/2022/086
+Arunachal Pradesh
+Changlang
+1.4km W Hetlong,
+NH-315, Jairampur-Manmao 
+road
+27.300188
+96.010838
+Debris
+Slide
+NA
+1093
+AP/EK/83E03/2021/46
+Arunachal Pradesh
+East Kameng
+Rang Village  slide-4
+NH-31, Patiwa Village
+27.300611
+93.093417
+Rock
+Slide
+NA
+1094
+AR/WKG/83A07/2021/019
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 16
+NH 13/ N of Tinghei
+27.300667
+92.391833
+Debris
+Slide
+NA
+1095
+AP/PAP/83E15/2021/27
+Arunachal Pradesh
+Papum Pare
+NE of Hara Appa village slide 2
+NE of Hara Appa village
+27.300833
+93.802833
+Debris
+Slide
+NA
+1096
+AR/CHNG/83M15/2022/089
+Arunachal Pradesh
+Changlang
+400 W of New Kamlao
+NH-315, Jairampur-Manmao 
+road section
+27.300945
+95.992838
+Debris
+Slide
+NA
+1097
+AP/EK/83E03/2021/20
+Arunachal Pradesh
+East Kameng
+NH-31 slide-11
+NH-39
+27.301139
+93.091889
+Debris
+Slide
+NA
+1098
+AP/EK/83E03/2021/16
+Arunachal Pradesh
+East Kameng
+NH-31 slide-7
+NH-35
+27.302389
+93.055833
+Debris
+Slide
+NA
+1099
+AP/EK/83E03/2021/17
+Arunachal Pradesh
+East Kameng
+NH-31 slide-8
+NH-36
+27.302861
+93.050917
+Soil / Earth
+Slide
+NA
+1100
+AR/CHNG/92A03/2022/077
+Arunachal Pradesh
+Changlang
+3.3 km E of Rima
+NH-315, Nampong-Rima Road
+27.302949
+96.154621
+Debris
+Slide
+NA
+1101
+AP/EK/83E03/2021/15
+Arunachal Pradesh
+East Kameng
+NH-31 slide-6
+NH-34
+27.304361
+93.054611
+Soil
+Slide
+NA
+1102
+AR/CHNG/92A03/2022/081
+Arunachal Pradesh
+Changlang
+700m E of New Potuk
+NH-315, Nampong-Rima Road
+27.305527
+96.224831
+Debris
+Slide
+NA
+1103
+ARN/LS/83E15/2016/03
+Arunachal Pradesh
+Lower Subansiri
+Possa-Potin slide
+National Highway 713-A
+27.307072
+93.806008
+Debris
+Slide
+17 July 2016
+1104
+AP/PAP/83E15/2021/28
+Arunachal Pradesh
+Papum Pare
+Appa Village slide
+Appa Village
+27.307111
+93.806306
+Debris
+Slide
+NA
+1105
+AR/CHNG/92A03/2022/078
+Arunachal Pradesh
+Changlang
+400m E of Nogthey
+NH-315,  Nampong-Rima Road
+27.309012
+96.158495
+Debris
+Slide
+NA
+1106
+AR/CHNG/92A03/2022/079
+Arunachal Pradesh
+Changlang
+400m W of Machum
+NH-315, Nampong-Rima Road
+27.313343
+96.171327
+Debris
+Slide
+NA
+1107
+AR/CHNG/92A03/2022/080
+Arunachal Pradesh
+Changlang
+300 SW of Rima
+NH-315, Nampong-Rima Road
+27.315904
+96.18349
+Debris
+Slide
+NA
+1108
+AP/EK/83E03/2021/12
+Arunachal Pradesh
+East Kameng
+NH-31 slide-3
+NH-31
+27.320083
+93.050917
+Earth
+Slide
+NA
+1109
+AP/EK/83E03/2021/11
+Arunachal Pradesh
+East Kameng
+NH-31 slide-2
+NH-31
+27.32025
+93.053222
+Debris
+Slide
+NA
+1110
+AR/WKG/83A07/2021/020
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 17
+NH 13/ N of Dharbu
+27.325278
+92.373722
+Debris
+Slide
+NA
+1111
+AP/PAP/83E15/2021/29
+Arunachal Pradesh
+Papum Pare
+Appa- Potin road slide
+NE of Appa, Potin village
+27.325806
+93.822389
+Debris
+Slide
+NA
+1112
+AP/EK/83E03/2021/10
+Arunachal Pradesh
+East Kameng
+NH-31 slide-1
+NH-31
+27.325861
+93.055472
+Debris
+Slide
+NA
+1113
+AP/EK/83E03/2021/14
+Arunachal Pradesh
+East Kameng
+NH-31 slide-5
+NH-33
+27.327333
+93.043611
+Soil
+Slide
+NA
+1114
+AP/PAP/83E15/2021/44
+Arunachal Pradesh
+Papum Pare
+Potin-Yazali road slide 4
+Potin-Yazali road
+27.327583
+93.813389
+Debris
+Slide
+NA
+1115
+AP/PAP/83E15/2021/45
+Arunachal Pradesh
+Papum Pare
+Potin-Yazali road slide 5
+Potin-Yazali road
+27.328528
+93.812528
+Debris
+Slide
+NA
+1116
+AP/EK/83E03/2021/09
+Arunachal Pradesh
+East Kameng
+North Seppa slide-9
+NH-31
+27.328611
+93.056583
+Rock
+Planar/Wedge 
+failure
+NA
+1117
+AP/PAP/83E15/2021/43
+Arunachal Pradesh
+Papum Pare
+Potin-Yazali road slide 3
+Potin-Yazali road
+27.334056
+93.819417
+Debris
+Slide
+NA
+1118
+AP/PAP/83E15/2021/42
+Arunachal Pradesh
+Papum Pare
+Potin-Yazali road slide 2
+Potin-Yazali road
+27.336667
+93.820722
+Debris
+Slide
+NA
+1119
+AP/PAP/83E15/2021/41
+Arunachal Pradesh
+Papum Pare
+Potin-Yazali road slide 1
+North of Potin-Yazali road
+27.337028
+93.821306
+Debris
+Slide
+NA
+1120
+ARN/LS/83E15/2016/02
+Arunachal Pradesh
+Lower Subansiri
+Possa-Potin slide
+National Highway 713-A
+27.339267
+93.802581
+Debris
+Slide
+16 July 2016
+1121
+AP/PAP/83E15/2021/46
+Arunachal Pradesh
+Papum Pare
+Potin-Yazali road slide 6
+Potin-Yazali road
+27.339833
+93.805167
+Debris
+Slide
+NA
+1122
+AR/WKG/83A07/2021/021
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 18
+NH 13/ SE of Dirang Village
+27.340556
+92.274944
+Debris
+Slide
+NA
+1123
+AP/EK/83E03/2021/08
+Arunachal Pradesh
+East Kameng
+North Seppa slide-8
+North Seppa
+27.342139
+93.041583
+Earth
+Slide
+NA
+1124
+AP/WK/83E12/2008/A-14
+Arunachal Pradesh
+West Kameng
+Slide at 5 km N of Dirang
+ 
+27.345556
+92.266389
+Debris
+Flow
+2008
+1125
+AP/EK/83A15/2021/51
+Arunachal Pradesh
+East Kameng
+Sube Village  slide-2
+Road to Rang Village
+27.34675
+93.018528
+Debris
+Slide
+NA
+1126
+AP/EK/83A15/2021/52
+Arunachal Pradesh
+East Kameng
+Sube Village  slide-3
+Road to Rang Village
+27.34675
+93.018528
+Debris
+Slide
+NA
+1127
+AP/EK/83A15/2021/53
+Arunachal Pradesh
+East Kameng
+Sube Village  slide-4
+Road to Rang Village
+27.34675
+93.018528
+Debris
+Slide
+NA
+1128
+AP/EK/83E03/2021/49
+Arunachal Pradesh
+East Kameng
+Rang Village  slide-7
+Road to Rang Village
+27.347917
+93.012194
+Earth
+Slide
+NA

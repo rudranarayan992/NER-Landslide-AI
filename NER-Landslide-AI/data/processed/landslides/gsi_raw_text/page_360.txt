@@ -1,0 +1,366 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14918
+11
+Kerala
+Idukki
+Kunnukuzhi
+Thannimood- Kunnukuzhi Road 9.837212
+77.173549
+Debris
+Slide
+ 16th August 2018
+14919
+12
+Kerala
+Idukki
+Asokavanam
+Mavadi - Adimali Road (NH 47)
+9.886393
+77.120748
+Debris
+Flow
+15th August  2018
+14920
+13
+Kerala
+Idukki
+Parathodu
+Nedumkandam - Munnar Road 
+(NH 47)
+9.878588
+77.159847
+Debris
+Slide
+15th August  2018
+14921
+14
+Kerala
+Idukki
+Parathodu- 40th Acre I
+Parathodu- 40th Acre Road
+9.880659
+77.145568
+Debris
+Slide
+15th August  2018
+14922
+15
+Kerala
+Idukki
+Mavadi
+Kailasapura - Mavadi Road
+9.880827
+77.123401
+Debris
+Slide
+15th August  2018
+14923
+16
+Kerala
+Idukki
+Puthukkal I
+Kailasapura - Mavadi Road
+9.880616
+77.122442
+Debris
+Flow
+15th August  2018
+14924
+17
+Kerala
+Idukki
+Puthukkal II
+Kailasapura - Mavadi Road
+9.881169
+77.120732
+Debris
+Flow
+15th August  2018
+14925
+18
+Kerala
+Idukki
+Amblakkavala
+Amblakkavala - Mavadi Road
+9.882046
+77.120674
+Debris
+Slide
+15th August  2018
+14926
+19
+Kerala
+Idukki
+Kilavikulam - I
+Nedumkandam - Munnar 
+Highway (NH 47)
+9.893207
+77.169231
+Debris
+Flow
+16th August 2018
+14927
+20
+Kerala
+Idukki
+Kilavikulam - II
+Nedumkandam - Munnar 
+Highway (NH 47)
+9.896136
+77.17327
+Debris
+Slide
+16th August 2018
+14928
+21
+Kerala
+Idukki
+Chappath
+Senapathy - Rajakkad Road
+9.912176
+77.176511
+Debris
+Slide
+ 15th August 2018
+14929
+22
+Kerala
+Idukki
+Karakunnu
+9.918204
+77.166852
+Debris
+Slide
+8th August  2018
+14930
+23
+Kerala
+Idukki
+Chemmnnar- I
+Nedumkandam - Rajakkad Road 9.923082
+77.159007
+Debris
+Slide
+ 15th August 2018
+14931
+24
+Kerala
+Idukki
+Arattupara
+9.929417
+77.123704
+Debris
+Slide
+8th August  2018
+14932
+25
+Kerala
+Idukki
+Mavara City -I
+Sleebamala- Aattupara Road
+9.928599
+77.121639
+Debris
+Flow
+ 15th August 2018
+14933
+26
+Kerala
+Idukki
+Mavara City - II
+Sleebamala- Aattupara Road
+9.926836
+77.123159
+Debris
+Flow
+8th August  2018
+14934
+27
+Kerala
+Idukki
+Mavara City - III
+Kuthungal - Mavara City Road
+9.926536
+77.126202
+Debris
+Flow
+ 15th August 2018
+14935
+28
+Kerala
+Idukki
+Vattakannippara -I
+Ittichuvadu- Aattupra Road
+9.926579
+77.117961
+Debris
+Slide
+August 11th 2018
+14936
+29
+Kerala
+Idukki
+Vattakannippara -II
+Kuthungal - Thinkalkad Road
+9.916541
+77.114532
+Debris
+Slide
+8th August  2018
+14937
+30
+Kerala
+Idukki
+Vattakannippara -III
+Kuthungal - Thinkalkad Road
+9.914051
+77.115246
+Debris
+Slide
+ 15th August 2018
+14938
+31
+Kerala
+Idukki
+Chemmannar -II
+Chemmannar
+9.92214
+77.14932
+Debris
+Flow
+8th August  2018
+14939
+32
+Kerala
+Idukki
+Chemmannar -III
+Chembarihodu - Chemmannar 
+Road
+9.923232
+77.148288
+Debris
+Slide
+August 17th 2018
+14940
+33
+Kerala
+Idukki
+Pallikunnu
+Ezhumalakkudi
+9.927923
+77.135537
+Debris
+Slide
+ 15th August 2018
+14941
+34
+Kerala
+Idukki
+St. Sebastian Sleeba Church
+Kalthungal-Thinkalkadu Road
+9.933582
+77.111196
+Debris
+Slide
+ 15th August 2018
+14942
+35
+Kerala
+Idukki
+Thinkalkadu I
+Kalthungal-Thinkalkadu Road
+9.913188
+77.115833
+Debris
+Flow
+ 15th August 2018
+14943
+36
+Kerala
+Idukki
+Thinkalkadu II
+Muniyara -Thinkalkadu Road via 
+Churuli
+9.912635
+77.113277
+Debris
+Flow
+ 15th August 2018
+14944
+37
+Kerala
+Idukki
+Thinkalkadu III
+Seethakkulam-Thinkalkadu 
+Road
+9.91488
+77.10647
+Debris
+Slide
+ 15th August 2018
+14945
+38
+Kerala
+Idukki
+Thinkalkadu IV
+Seethkkulam-Muniyara Road
+9.914315
+77.110644
+Debris
+Flow
+August 14th 2018
+14946
+39
+Kerala
+Idukki
+Thinkalkadu V
+Seethakkulam-Muniyara Road
+9.914315
+77.110644
+Debris
+Flow
+August 14th 2018
+14947
+40
+Kerala
+Idukki
+Thinkalkadu VI
+Seethkkulam-Muniyara Road
+9.91506
+77.078826
+Debris
+Flow
+ 15th August 2018
+14948
+41
+Kerala
+Idukki
+Thinkalkadu VII
+Mannakudi - Muniyara Road
+9.914739
+77.109325
+Debris
+Flow
+ 15th August 2018
+14949
+42
+Kerala
+Idukki
+Thinkalkadu VIII
+Seethakkulam-Muniyara Road
+9.913768
+77.109847
+Debris
+Slide
+ 15th August 2018

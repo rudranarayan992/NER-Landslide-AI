@@ -1,0 +1,306 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30331
+WB/DAR/2024/78A/4/Point/30
+West Bengal
+Darjeeling
+NULL
+NULL
+27.01408427
+88.09983427
+Debris
+Slide
+NA
+30332
+WB/DAR/2024/78A/4/Point/31
+West Bengal
+Darjeeling
+NULL
+NULL
+27.02864257
+88.10057697
+Debris
+Slide
+NA
+30333
+WB/DAR/2024/78A/4/Point/46
+West Bengal
+Darjeeling
+NULL
+NULL
+27.06611772
+88.18436289
+Debris
+Slide
+NA
+30334
+WB/DAR/2025/78A/4/Point/48
+West Bengal
+Darjeeling
+NULL
+NULL
+27.0759255
+88.2033356
+Debris
+Slide
+NA
+30335
+WB/DAR/2025/78A/4/Point/47
+West Bengal
+Darjeeling
+NULL
+NULL
+27.07369258
+88.19971448
+Debris
+Slide
+NA
+30336
+WB/DAR/2025/78A/4/Point/56
+West Bengal
+Darjeeling
+NULL
+NULL
+27.09993663
+88.23805144
+Debris
+Slide
+NA
+30337
+WB/DAR/2025/78A/4/Point/57
+West Bengal
+Darjeeling
+NULL
+NULL
+27.10008347
+88.23825663
+Debris
+Slide
+NA
+30338
+WB/DAR/2024/78A/4/Point/42
+West Bengal
+Darjeeling
+NULL
+NULL
+27.07071127
+88.16550646
+Debris
+Slide
+NA
+30339
+WB/DAR/2025/78A/4/Point/58
+West Bengal
+Darjeeling
+NULL
+NULL
+27.10034979
+88.23915333
+Debris
+Slide
+24 October 2024
+30340
+WB/DAR/2025/78A/4/Point/59
+West Bengal
+Darjeeling
+NULL
+NULL
+27.09203788
+88.24652408
+Debris
+Slide
+NA
+30341
+WB/DAR/2024/78A/4/Point/44
+West Bengal
+Darjeeling
+NULL
+NULL
+27.07079183
+88.16536095
+Rock
+Fall
+NA
+30342
+WB/DAR/2025/78A/4/Point/52
+West Bengal
+Darjeeling
+NULL
+NULL
+27.09579142
+88.22599324
+Debris
+Slide
+NA
+30343
+WB/DAR/2025/78A/4/Point/53
+West Bengal
+Darjeeling
+NULL
+NULL
+27.09575085
+88.22619053
+Debris
+Slide
+NA
+30344
+NULL
+West Bengal
+Darjeeling
+NULL
+NULL
+27.06714753
+88.18512918
+Debris
+Slide
+NA
+30345
+WB/DAR/2025/78A/8/Point/64
+West Bengal
+Darjeeling
+NULL
+NULL
+27.05923312
+88.25131257
+Debris
+Slide
+NA
+30346
+WB/DAR/2025/78B/5/Point/65
+West Bengal
+Darjeeling
+NULL
+NULL
+26.91391191
+88.46705858
+Rock
+Slide
+NA
+30347
+WB/KAL/2025/78A/8/Point/1
+West Bengal
+Kalimpong
+NULL
+NULL
+27.01326623
+88.43697714
+Debris
+Slide
+NA
+30348
+WB/KAL/2025/78A/8/Point/2
+West Bengal
+Kalimpong
+NULL
+NULL
+27.03598244
+88.42802062
+Debris
+Slide
+NA
+30349
+WB/KAL/2025/78A/8/Point/3
+West Bengal
+Kalimpong
+NULL
+NULL
+27.03866683
+88.42681675
+Rock
+Slide
+NA
+30350
+WB/DAR/2025/78A/4/Point/66
+West Bengal
+Darjeeling
+NULL
+NULL
+27.0898283
+88.1514477
+Debris
+Slide
+28 October 2024
+30351
+WB/KAL/2025/78A/12/Point/9
+West Bengal
+Kalimpong
+NULL
+NULL
+27.14063392
+88.51740516
+Rock
+Slide
+NA
+30352
+WB/KAL/2025/78A/12/Point/15 West Bengal
+Kalimpong
+NULL
+NULL
+27.12470041
+88.58828343
+Debris
+Flow
+NA
+30353
+WB/KAL/2025/78A/8/Point/5
+West Bengal
+Kalimpong
+NULL
+NULL
+27.08223879
+88.44592144
+Debris
+Slide
+NA
+30354
+WB/KAL/2025/78A/12/Point/8
+West Bengal
+Kalimpong
+NULL
+NULL
+27.15819635
+88.52893898
+Debris
+Slide
+NA
+30355
+WB/KAL/2025/78A/12/Point/10 West Bengal
+Kalimpong
+NULL
+NULL
+27.13738442
+88.51408081
+Debris
+Slide
+NA
+30356
+WB/KAL/2025/78A/12/Point/16 West Bengal
+Kalimpong
+NULL
+NULL
+27.0856614
+88.6601228
+Rock
+Slide
+NA
+30357
+WB/KAL/2025/78A/8/Point/11
+West Bengal
+Kalimpong
+NULL
+NULL
+27.11773908
+88.47336369
+Debris
+Slide
+NA

@@ -1,0 +1,543 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+26349
+SKM/SS/78A08/2015/236
+Sikkim
+South Sikkim
+ 
+Tinktam-Rheyong Road
+27.237889
+88.346444
+Debris
+Slide
+NA
+26350
+SKM/WS/78A08/2015/390
+Sikkim
+West Sikkim
+ 
+Tinktitam village Road
+27.237917
+88.30475
+Rock
+Slide
+NA
+26351
+SKM/ES/78A12/2015/31
+Sikkim
+ East Sikkim
+Dikling
+NULL
+27.238111
+88.601528
+Debris
+Slide
+NA
+26352
+SKM/EAS/78A08/2014/003
+Sikkim
+ East Sikkim
+Sirwani Landslide
+Sirwani (On Singtam-Mangkha 
+road )
+27.23924
+88.48416
+Debris
+Slide
+2011, 25 August 2014
+26353
+SKM/WS/78A08/2015/387
+Sikkim
+West Sikkim
+ 
+Tinktitam village Road
+27.239972
+88.332778
+Debris
+Slide
+NA
+26354
+SKM/ES/78A08/2015/49
+Sikkim
+ East Sikkim
+ 
+Singtam-Dikchu Road
+27.240028
+88.486472
+Debris
+Slide
+NA
+26355
+SKM/ES/78A08/2015/50
+Sikkim
+ East Sikkim
+ 
+Singtam-Dikchu Road
+27.240194
+88.486278
+Debris
+Slide
+NA
+26356
+SKM/NS/78A04/2017/71
+Sikkim
+West Sikkim
+Upper Bermiok
+SH
+27.240389
+88.234028
+Debris
+Slide
+NA
+26357
+SKM/ES/78A08/2015/52
+Sikkim
+ East Sikkim
+ 
+NULL
+27.240556
+88.48025
+Debris
+Slide
+NA
+26358
+SKM/WS/78A08/2015/389
+Sikkim
+West Sikkim
+ 
+Tinktitam village Road
+27.240639
+88.306056
+Debris
+Slide
+NA
+26359
+SKM/ES/78A08/2015/51
+Sikkim
+ East Sikkim
+ 
+Singtam-Dikchu Road
+27.240861
+88.486278
+Debris
+Slide
+NA
+26360
+SKM/NS/78A04/2017/70
+Sikkim
+West Sikkim
+ 
+SH
+27.241333
+88.233972
+Debris
+Slide
+NA
+26361
+SK/ED/78A12/2017/01
+Sikkim
+ East Sikkim
+Pachey landslide near Pakyong Town
+Pakyong-Machong Road near 
+Pakyong
+27.24144
+88.60681
+Debris
+Fall and Slide
+9 July 2017
+26362
+SKM/WS/78A08/2015/388
+Sikkim
+West Sikkim
+ 
+Tinktitam village Road
+27.242139
+88.327389
+Debris
+Slide
+NA
+26363
+SKM/SS/78A08/2015/237
+Sikkim
+South Sikkim
+ 
+Tinktam-Rheyong Road
+27.242917
+88.354417
+Debris
+Slide
+NA
+26364
+SKM/WS/78A08/2015/368
+Sikkim
+West Sikkim
+ 
+Kaluk-Rinchenpong Road
+27.243806
+88.2725
+Debris
+Slide
+NA
+26365
+SKM/SS/78A08/2015/239
+Sikkim
+South Sikkim
+ 
+Tinktam-Rheyong Road
+27.244056
+88.348056
+Debris
+Slide
+NA
+26366
+SKM/SS/78A08/2015/238
+Sikkim
+South Sikkim
+ 
+Tinktam-Rheyong Road
+27.244472
+88.350472
+Rock
+Fall
+NA
+26367
+SKM/ES/78A12/2015/153
+Sikkim
+ East Sikkim
+ 
+NH-31A
+27.245028
+88.524389
+Debris
+Slide
+NA
+26368
+SKM/NS/78A04/2017/72
+Sikkim
+West Sikkim
+Upper Bermiok
+SH
+27.245028
+88.226861
+Debris
+Slide
+NA
+26369
+SKM/ES/78A12/2015/19
+Sikkim
+ East Sikkim
+Sangkhola
+NH-31A
+27.245139
+88.524444
+Debris
+Slide
+NA
+26370
+SKM/NS/78A04/2017/45
+Sikkim
+West Sikkim
+Hee gown
+SH
+27.245972
+88.185278
+Debris
+Slide
+NA
+26371
+SKM/ES/78A11/2015/16
+Sikkim
+ East Sikkim
+ 
+NULL
+27.246056
+88.62575
+Rock
+Slide
+NA
+26372
+SKM/ES/78A12/2015/119
+Sikkim
+ East Sikkim
+ 
+Machong-Rongli Road
+27.246194
+88.625694
+Rock
+Fall
+NA
+26373
+SKM/NS/78A04/2017/44
+Sikkim
+West Sikkim
+ 
+SH
+27.246944
+88.184833
+Debris
+Slide
+NA
+26374
+SKM/NS/78A04/2017/73
+Sikkim
+West Sikkim
+Budha Bari
+SH
+27.247111
+88.225222
+Debris
+Slide
+NA
+26375
+SKM/NS/78A04/2017/01
+Sikkim
+West Sikkim
+Upper Bega
+SH
+27.248583
+88.117444
+Debris
+Slide
+NA
+26376
+SKM/NS/78A04/2017/02
+Sikkim
+West Sikkim
+Upper Bega
+SH
+27.248833
+88.117194
+Debris
+Slide
+NA
+26377
+SKM/WS/78A07/2015/346
+Sikkim
+West Sikkim
+ 
+Legship-Rishi Road
+27.25
+88.301889
+Debris
+Slide
+NA
+26378
+SKM/ES/78A11/2015/154
+Sikkim
+ East Sikkim
+ 
+NH-31A
+27.250556
+88.53325
+Debris
+Slide
+NA
+26379
+SKM/ES/78A11/2015/130
+Sikkim
+ East Sikkim
+ 
+Machong-Rongli Road
+27.250889
+88.715444
+Debris
+Slide
+NA
+26380
+SKM/ES/78A11/2015/122
+Sikkim
+ East Sikkim
+ 
+Machong-Rongli Road
+27.250972
+88.659833
+Rock
+Fall
+NA
+26381
+SKM/SS/78A07/2015/190
+Sikkim
+South Sikkim
+ 
+Ben village Road
+27.251417
+88.3845
+Debris
+Slide
+NA
+26382
+SK/ESK/78A11/2019/03
+Sikkim
+ East Sikkim
+Sang
+NH10A/ GangtokSiliguri 
+Highway
+27.251639
+88.531361
+Rock
+Slide
+2019
+26383
+SKM/NS/78A03/2017/43
+Sikkim
+West Sikkim
+Hee Sapong
+SH
+27.251722
+88.182972
+Debris
+Slide
+NA
+26384
+SKM/NS/78A03/2017/42
+Sikkim
+West Sikkim
+Hee Pool
+SH
+27.252139
+88.176944
+Rock
+Slide
+NA
+26385
+SKM/WS/78A07/2015/365
+Sikkim
+West Sikkim
+ 
+Kaluk-Rinchenpong Road
+27.252167
+88.272778
+Rock
+Fall
+NA
+26386
+SKM/ES/78A11/2015/123
+Sikkim
+ East Sikkim
+ 
+Machong-Rongli Road
+27.252667
+88.694194
+Debris
+Slide
+NA
+26387
+SKM/NS/78A15/2017/165
+Sikkim
+ East Sikkim
+ 
+SH
+27.253528
+88.786111
+Debris
+Slide
+NA
+26388
+SKM/NS/78A03/2017/67
+Sikkim
+West Sikkim
+Martam Ralong
+SH
+27.253889
+88.210028
+Debris
+Slide
+NA
+26389
+SKM/WS/78A07/2015/345
+Sikkim
+West Sikkim
+ 
+Legship-Rishi Road
+27.254222
+88.3005
+Debris
+Slide
+NA
+26390
+SKM/NS/78A03/2017/34
+Sikkim
+West Sikkim
+Sangkhu
+SH
+27.254389
+88.145306
+Debris
+Slide
+NA
+26391
+SKM/ES/78A11/2015/128
+Sikkim
+ East Sikkim
+ 
+Machong-Rongli Road
+27.25475
+88.711
+Debris
+Slide
+NA
+26392
+SKM/ES/78A11/2015/155
+Sikkim
+ East Sikkim
+ 
+NH-31A
+27.254778
+88.542444
+Debris
+Slide
+NA
+26393
+SKM/SS/78A07/2015/192
+Sikkim
+South Sikkim
+ 
+Ben village Road
+27.254917
+88.390889
+Debris
+Slide
+NA
+26394
+SKM/SS/78A07/2015/193
+Sikkim
+South Sikkim
+ 
+Ben village Road
+27.255167
+88.396944
+Debris
+Slide
+NA
+26395
+SKM/ES/78A11/2015/17
+Sikkim
+ East Sikkim
+ 
+NH-31A
+27.255278
+88.543611
+Debris
+Slide
+NA
+26396
+SKM/SS/78A07/2015/191
+Sikkim
+South Sikkim
+ 
+Ben village Road
+27.255389
+88.388944
+Debris
+Slide
+NA

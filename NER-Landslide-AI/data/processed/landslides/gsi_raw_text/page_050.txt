@@ -1,0 +1,481 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1682
+AP/LDV/83P/11/2022/LS-91
+Arunachal Pradesh
+Lower Dibang Valley
+ Sisseri bridge slide
+ West ofSisseri bridge slide.
+28.262338
+95.565698
+Debris
+Slide
+NA
+1683
+AR/ANJ/91D11/2014/37
+Arunachal Pradesh
+Anjaw
+ 
+H. M. C. Road
+28.2625
+96.5465
+Rock
+Slide
+2012
+1684
+AP/LDV/82P/11/2022/LS-92
+Arunachal Pradesh
+Lower Dibang Valley
+ West Sisseri bridge slide
+ NH-13.
+28.262806
+95.565421
+Debris
+Slide
+NA
+1685
+AP/LDV/82P11/2022/LS83
+Arunachal Pradesh
+Lower Dibang Valley
+LS-83
+NH-13
+28.262879
+95.551911
+Debris
+Slide
+NA
+1686
+AP/LDV/82P/11/2022/LS-93
+Arunachal Pradesh
+Lower Dibang Valley
+ West of Sisseri bridge
+ Western bank of Sisseri river
+28.262989
+95.59932
+Debris
+Slide
+NA
+1687
+AP/E-Siang/82P8/2021/LS28
+Arunachal Pradesh
+Lower Dibang Valley
+LS-28
+NH-513
+28.263228
+95.570962
+Debris
+Slide
+NA
+1688
+AP/LDV/82P/11/2022/LS-94
+Arunachal Pradesh
+Lower Dibang Valley
+ West Sessiri bridge
+NH-13
+28.263468
+95.570661
+Rock
+Wedge failure
+NA
+1689
+AP/LDV/82P/11/2022/LS-95
+Arunachal Pradesh
+Lower Dibang Valley
+West Sessiri bridge
+NH-13
+28.263731
+95.551326
+Debris
+Slide
+NA
+1690
+AP/LDV/82P/14/2022/LS-96
+Arunachal Pradesh
+Lower Dibang Valley
+ NA
+NH-313
+28.264331
+95.565798
+Debris
+Slide
+NA
+1691
+AP/E-Siang/82P8/2022/LS30
+Arunachal Pradesh
+Lower Dibang Valley
+Mebo Slide
+NH-13, NE of Mebo village
+28.2646
+95.571519
+Debris
+Slide
+NA
+1692
+AP/E-Siang/82P8/2021/LS29
+Arunachal Pradesh
+Lower Dibang Valley
+LS-29
+NH-513
+28.264888
+95.550575
+Rock
+Wedge failure
+NA
+1693
+AR/ANJ/91D11/2014/36
+Arunachal Pradesh
+Anjaw
+ 
+H. M. C. Road
+28.26522
+96.57889
+Debris
+Flow
+2013
+1694
+AP/E-Siang/82P8/2022/LS31
+Arunachal Pradesh
+Lower Dibang Valley
+Mebo Slide
+NH-13, NE of Mebo village
+28.265266
+95.56964
+Debris
+Slide
+NA
+1695
+AP/E-Siang/82P8/2022/LS32
+Arunachal Pradesh
+Lower Dibang Valley
+Mebo Slide
+NH-13, NE of Mebo village
+28.265532
+95.549321
+Debris
+Slide
+NA
+1696
+AP/DV/82P/14/2022/LS-97
+Arunachal Pradesh
+Lower Dibang Valley
+ NA
+NH-313
+28.265561
+95.562854
+Debris
+Slide
+NA
+1697
+AP/DV/82P/14/2022/LS-98
+Arunachal Pradesh
+Lower Dibang Valley
+ NA
+NH-313
+28.265563
+95.563438
+Debris
+Slide
+NA
+1698
+AP/DV/82P/13/2022/LS-149
+Arunachal Pradesh
+Lower Dibang Valley
+Anini-Etalin slide
+Anini-Etalin road section
+28.265803
+95.570892
+Debris
+Slide
+NA
+1699
+AP/E-Siang/82P8/2022/LS33
+Arunachal Pradesh
+Lower Dibang Valley
+Mebo Slide
+NH-13, NE of Mebo village
+28.265836
+95.563875
+Debris
+Slide
+NA
+1700
+AR/ESI/82L15/2022/55
+Arunachal Pradesh
+East Siang
+Sangram Bridge-Boleng Road Slide
+Sangram Bridge-Boleng Road
+28.265963
+94.983464
+Rock-cum-Debris
+Slide
+NA
+1701
+AP/DV/82P/14/2022/LS-100
+Arunachal Pradesh
+Lower Dibang Valley
+ NA
+NH-313
+28.265965
+95.560934
+Debris
+Slide
+NA
+1702
+AP/DV/82P/14/2022/LS-99
+Arunachal Pradesh
+Lower Dibang Valley
+NA
+ NH-313
+28.266271
+95.609385
+Debris
+Slide
+NA
+1703
+AP/DV/83P/14/2022/LS-101
+Arunachal Pradesh
+Lower Dibang Valley
+<Null>
+NH-313
+28.266795
+95.607261
+Debris
+Slide
+NA
+1704
+AP/LDV/82P15/2022/16
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 29 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.266807
+95.789109
+Debris
+Slide
+NA
+1705
+AR/US/82P04/2022/016
+Arunachal Pradesh
+Upper Siang
+Pasighat-Yingkiong road Slide 7
+NH-513
+28.266889
+95.21425
+Debris
+Slide
+NA
+1706
+AP/DV/84P/14/2022/LS-102
+Arunachal Pradesh
+Lower Dibang Valley
+ Anini Slide
+NH-13, Etalin to Anini
+28.267216
+95.559542
+Debris
+Slide
+NA
+1707
+AP/E-Siang/82P8/2022/LS34
+Arunachal Pradesh
+Lower Dibang Valley
+Mebo Slide
+NH-13, nE of Mebo village
+28.267526
+95.561048
+Debris
+Slide
+NA
+1708
+AP/LD/82P/14/2022/LS-103
+Arunachal Pradesh
+Lower Dibang Valley
+<Null>
+NH-13, Etalin to Anini
+28.267726
+95.551477
+Debris
+Slide
+NA
+1709
+AR/ANJ/91D11/2014/29
+Arunachal Pradesh
+Anjaw
+Chipru slide
+HMC road
+28.26786
+96.55781
+Rock
+Flow
+2013
+1710
+AR/ANJ/91D11/2014/31
+Arunachal Pradesh
+Anjaw
+ 
+H. M. C. Road
+28.26814
+96.55728
+Rock
+Slide
+2013
+1711
+AP/E-Siang/82P8/2022/LS35
+Arunachal Pradesh
+Lower Dibang Valley
+Mebo Slide
+NH-13, nE of Mebo village, 
+upstream of River
+28.26825
+95.555457
+Debris
+Slide
+NA
+1712
+AP/E-Siang/82P8/2022/LS36
+Arunachal Pradesh
+Lower Dibang Valley
+LS-36
+NH-13, NE of Siluk village
+28.269062
+95.610767
+Debris
+Slide
+NA
+1713
+AR/ESI/82L15/2022/56
+Arunachal Pradesh
+East Siang
+Boleng Road Slide
+Boleng Road
+28.269497
+94.982531
+Rock-cum-Debris
+Slide
+NA
+1714
+AP/E-Siang/82P8/2022/LS37
+Arunachal Pradesh
+Lower Dibang Valley
+LS-37
+NH-13, Sesseri Bridge
+28.26986
+95.610757
+Debris
+Slide
+NA
+1715
+AP/LDV/82P16/2022/152
+Arunachal Pradesh
+Lower Dibang Valley
+N/A
+N/A
+28.27138
+95.90606
+Rock
+Slide
+NA
+1716
+AR/US/82P04/2022/017
+Arunachal Pradesh
+Upper Siang
+Pasighat-Yingkiong road Slide 8
+NH-513
+28.272
+95.208417
+Debris
+Slide
+NA
+1717
+AP/LDV/82P15/2022/15
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 29.8 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.273544
+95.789425
+Debris
+Slide
+NA
+1718
+AR/ANJ/91D11/2014/30
+Arunachal Pradesh
+Anjaw
+ 
+HMC road
+28.27378
+96.57031
+Debris
+Slide
+2012
+1719
+AR/ESI/82L15/2022/57
+Arunachal Pradesh
+East Siang
+Sangram Bridge-Boleng Road Slide
+Sangram Bridge-Boleng Road
+28.274019
+94.962496
+Rock-cum-Debris
+Slide
+NA
+1720
+AP/LDV/82P15/2022/14
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 30.4 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.277716
+95.789358
+Debris
+Slide
+NA
+1721
+AR/ESI/82L15/2022/58
+Arunachal Pradesh
+East Siang
+Sangram Bridge-Boleng Road Slide
+Sangram Bridge-Boleng Road
+28.280246
+94.953896
+Rock-cum-Debris
+Slide
+NA
+1722
+AR/US/82P04/2022/018
+Arunachal Pradesh
+Upper Siang
+Pasighat-Yingkiong road Slide 9
+NH-513
+28.2805
+95.201556
+Soil
+Slide
+NA
+1723
+AR/WSI/82L15/2022/53
+Arunachal Pradesh
+West Siang
+Gebo-Rumgog Road Slide
+Gebo-Rumgog Road
+28.2823
+94.863031
+Rock-cum-Debris
+Slide
+NA

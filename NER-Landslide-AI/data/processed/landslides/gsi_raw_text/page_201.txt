@@ -1,0 +1,263 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+8562
+H.P./SOL/53F01/2018/12
+Himachal Pradesh
+Solan
+NH-22/ RD: 87+480
+NH-22/ RD: 87+480/3km away 
+from Kumarhatti to
+Chandigarh on Shimla-
+Chandigarh Road.
+30.89131667
+77.04311667
+Rock cum debris
+Slide
+2018
+8563
+H.P./SOL/53F01/2018/13
+Himachal Pradesh
+Solan
+Chaki Morh Slide RD 71+300 to 
+71+420
+NH-22/ RD: 71+300 to 
+71+420/Chakki Morh
+30.8531
+77.00161667
+Rock cum debris
+Slide
+2017, 13 August 2018
+8564
+H.P./SOL/53F01/2018/14
+Himachal Pradesh
+Solan
+NH-22/ RD: 71+100 to 71+200
+NH-22/ RD: 71+100 to 
+71+200/Dattyar Village, near
+Chaki Morh
+30.85161667
+76.99916667
+Rock cum debris
+Slide
+June 2018 13 August 2018
+8565
+H.P./SOL/53F01/2018/15
+Himachal Pradesh
+Solan
+NH-22/ RD: 70+750 to 70+950
+NH-22/ RD: 70+750 to 
+70+950/Dattyar Village,
+30.85055
+76.99801667
+Rock cum debris
+Slide
+June 2018, one week ago from 14 
+August 2018
+8566
+H.P./SOL/53F01/2018/16
+Himachal Pradesh
+Solan
+RD KM 88+000m TO KM 88+600m 
+MES Area,
+NH-22/ RD KM 88+000m TO KM 
+88+600m MES Area,
+Kumarhatti, Dist. Solan
+30.89210556
+77.04620833
+Rock cum debris
+Slide
+April/May 2018, Monsoon 2018
+8567
+HP/SOL/53F01 /2018/17
+Himachal Pradesh
+Solan
+Anji Slide
+Chandigarh-Shimla NH-22, Distt. 
+Solan, H.P.
+30.89001667
+77.08665
+Rock
+Slide
+Recent
+8568
+HP/SOL/53F01/2018/18
+Himachal Pradesh
+Solan
+Barog Slide-2
+Chandigarh-Shimla NH-22, Distt. 
+Solan, H.P.
+30.88744444
+77.08658333
+Debris cum rock
+Slide
+NA
+8569
+H.P./SOL/53F01/2018
+Himachal Pradesh
+Solan
+Sadupul
+Khandaghat    -    Sadupul    
+Road,    12km    away    from
+Khandaghat- to Sadupul
+30.99683056
+75.15313889
+Cracks
+Subsidence
+13 August 2018
+8570
+H.P./BILASPUR/53A11/2019/01 Himachal Pradesh
+Bilaspur
+Kathalag village
+Kathalag village, Ghumarwin 
+Tehsil, Dist. Bilaspur H.P.
+31.45285
+76.67805556
+Rock cum debris
+Slide
+18 August 2019.
+8571
+HP/53B13/2019/1
+Himachal Pradesh
+Solan
+Jabli School land slide
+Near Jabli village, Kalka - Shimla 
+Rd (NH 05)
+30.87722222
+76.99547778
+Colluvium
+Slide
+March 2019
+8572
+HP/53F01/2019/2
+Himachal Pradesh
+Solan
+RD Km81+550m
+Near Sanwara village, Kalka - 
+Shimla Rd (NH 05).
+30.89656111
+77.00436111
+Colluvium
+Slide
+January  2019
+8573
+H.P./Mandi/53E01/2019/03
+Himachal Pradesh
+Mandi
+Pump House, Kothadhar
+NH-03, Near pump house 
+Kothadhar village, r/b of Beas
+river, Dist. Mandi, H.P.
+31.77555556
+77.19308333
+Debris
+Slide
+2019
+8574
+H.P./Mandi/53E01/2019/04
+Himachal Pradesh
+Mandi
+Nature park, Jhiri slide
+Near Nature park Jhiri village, 
+r/b of Beas river, Dist.
+Mandi, H.P. on NH-03.
+31.82825
+77.17283333
+Rock cum debris
+Slide
+2019
+8575
+H.P./Mandi/53E02/2019/05
+Himachal Pradesh
+Mandi
+RD Km 216+750m
+Near Pandoh, Dist. Mandi, H.P. 
+on NH-03
+31.67725
+77.07725
+Debris cum rock
+Slide
+2019
+8576
+H.P./Mandi/53E02/2019/06
+Himachal Pradesh
+Mandi
+RD Km 217+100m
+Near Pandoh, Dist. Mandi, H.P. 
+on NH-03
+31.67827222
+77.08062778
+Debris cum rock
+Slide
+2019
+8577
+H.P./Mandi/53E02/2019/07
+Himachal Pradesh
+Mandi
+RD Km 217+500m
+Near Pandoh, Dist. Mandi, H.P. 
+on NH-03
+31.68063889
+77.08325
+Debris
+Slide
+2019
+8578
+H.P./Mandi/53E02/2019/08
+Himachal Pradesh
+Mandi
+Dwada
+Dwada village, Dist. Mandi, H.P. 
+on NH-03
+31.70983333
+77.19277778
+Overburden material Slide
+2019
+8579
+H.P./Mandi/53A14/2019/09
+Himachal Pradesh
+Mandi
+Banaut, ±5Km to Mandi
+Banaut village, Dist. Mandi, H.P. 
+on NH-03
+31.708625
+76.98633333
+Rock cum debris
+Fall/slide
+2019
+8580
+H.P./Mandi/53A14/2019/10
+Himachal Pradesh
+Mandi
+Govt. Eng. College, Sunder Nagar
+Near Jawaharlal Nehru 
+Government Engineering 
+College
+(JNGEC), Sunder Nagar, Dist. 
+Mandi. H.P.
+31.51445833
+77.87669167
+Rock cum debris
+Fall/slide
+2018, July 2019
+8581
+H.P./KANG/43P16/2019/11
+Himachal Pradesh
+Kangra
+Pong Dam Slide
+NH-27/ Near Pong Dam, 
+Dalwala
+31.96056389
+75.945
+Rock cum debris
+Slide
+2013, 2014, 2019 

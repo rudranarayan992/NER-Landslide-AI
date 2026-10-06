@@ -1,0 +1,541 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+3780
+HP/SOL/53B13/2017/28
+Himachal Pradesh
+Solan
+ 
+PattaJoharji    road
+30.980823
+76.89441
+Debris
+Slide
+NA
+3781
+HP/SOL/53B13/2017/151
+Himachal Pradesh
+Solan
+ 
+Near Subathu
+30.980929
+76.98054
+Rock
+Slide
+NA
+3782
+HP/SOL/53B13/2017/87
+Himachal Pradesh
+Solan
+ 
+SubathuKuthad road
+30.981547
+76.983358
+Rock
+Slide
+NA
+3783
+HP/SHM/53F09/2017/13
+Himachal Pradesh
+Shimla
+ 
+Tharoch link road
+30.981881
+77.684592
+Rock cum debris
+Slide
+NA
+3784
+HP/SHM/53F09/2017/14
+Himachal Pradesh
+Shimla
+ 
+Tharoch link road
+30.981986
+77.683294
+Debris
+Slide
+NA
+3785
+HP/SOL/53B13/2017/29
+Himachal Pradesh
+Solan
+ 
+PattaJoharji    road
+30.982054
+76.894788
+Debris
+Slide
+NA
+3786
+HP/SOL/53B13/2017/86
+Himachal Pradesh
+Solan
+ 
+Subathu Cannt
+30.982066
+76.983947
+Rock
+Slide
+NA
+3787
+HP/SOL/53B13/2017/150
+Himachal Pradesh
+Solan
+ 
+Near Subathu
+30.982387
+76.980452
+Rock
+Slide
+NA
+3788
+HP/SHM/53F09/2017/12
+Himachal Pradesh
+Shimla
+ 
+TharochKyarla link road
+30.982506
+77.685283
+Debris
+Slide
+NA
+3789
+HP/SOL/53F01/2017/310
+Himachal Pradesh
+Solan
+ 
+SanjNH22 link road
+30.982829
+77.074985
+Rock
+Slide
+NA
+3790
+HP/SOL/53F01/2017/309
+Himachal Pradesh
+Solan
+ 
+SanjNH22 link road
+30.983104
+77.072447
+Rock
+Slide
+NA
+3791
+HP/SOL/53B13/2017/30
+Himachal Pradesh
+Solan
+ 
+PattaJoharji    road
+30.983153
+76.895417
+Debris
+Slide
+NA
+3792
+HP/SOL/53B13/2017/149
+Himachal Pradesh
+Solan
+ 
+SubathuKuthad road
+30.983818
+76.979525
+Rock
+Slide
+NA
+3793
+HP/SOL/53B13/2017/118
+Himachal Pradesh
+Solan
+ 
+DoduwalSai road
+30.984414
+76.790083
+Rock
+Slide
+NA
+3794
+HP/SOL/53B13/2017/117
+Himachal Pradesh
+Solan
+ 
+DoduwalSai road
+30.984768
+76.789477
+Rock
+Slide
+NA
+3795
+HP/SOL/53F01/2017/311
+Himachal Pradesh
+Solan
+ 
+SanjNH22 link road
+30.985041
+77.073711
+Rock
+Slide
+NA
+3796
+HP/SOL/53B13/2017/89
+Himachal Pradesh
+Solan
+ 
+SubathuKuthad road
+30.985208
+76.978685
+Rock
+Slide
+NA
+3797
+HP/SOL/53F01/2017/349
+Himachal Pradesh
+Solan
+ 
+SanjNH22 link road
+30.986208
+77.096791
+Rock
+Slide
+NA
+3798
+HP/SOL/53B13/2017/148
+Himachal Pradesh
+Solan
+ 
+SubathuKuthad road
+30.986215
+76.978108
+Rock
+Slide
+NA
+3799
+HP/SOL/53F01/2017/75
+Himachal Pradesh
+Solan
+ 
+ 
+30.987111
+77.074595
+Rock
+Slide
+NA
+3800
+HP/SOL/53B13/2017/88
+Himachal Pradesh
+Solan
+ 
+SubathuKuthad road
+30.987179
+76.977797
+Rock
+Slide
+NA
+3801
+HP/SHM/53F09/2017/53
+Himachal Pradesh
+Shimla
+ 
+SH06 ChailaKumarhatti Road
+30.987711
+77.333103
+Rock cum debris
+Slide
+NA
+3802
+HP/SOL/53F01/2017/76
+Himachal Pradesh
+Solan
+ 
+ 
+30.9878
+77.058347
+Rock
+Slide
+NA
+3803
+HP/SHM/53F09/2017/54
+Himachal Pradesh
+Shimla
+ 
+SH06 ChailaKumarhatti Road
+30.988111
+77.335172
+Debris
+Slide
+NA
+3804
+HP/SOL/53B13/2017/187
+Himachal Pradesh
+Solan
+ 
+ 
+30.988659
+76.954281
+Rock
+Slide
+NA
+3805
+HP/SOL/53F01/2017/306
+Himachal Pradesh
+Solan
+ 
+SanjNH22 link road
+30.989036
+77.085864
+Rock
+Slide
+NA
+3806
+HP/SOL/53F01/2017/6
+Himachal Pradesh
+Solan
+ 
+SanjNH22 link road
+30.989096
+77.096293
+Rock
+Fall
+NA
+3807
+HP/SHM/53F09/2017/11
+Himachal Pradesh
+Shimla
+ 
+Pundrara  Tharoch road
+30.990911
+77.679597
+Rock cum debris
+Slide
+NA
+3808
+HP/SOL/53B13/2017/188
+Himachal Pradesh
+Solan
+ 
+ 
+30.991608
+76.908602
+Rock
+Slide
+NA
+3809
+HP/SOL/53B13/2017/119
+Himachal Pradesh
+Solan
+ 
+DoduwalSai road
+30.992165
+76.802701
+Rock
+Slide
+NA
+3810
+HP/SOL/53F01/2017/434
+Himachal Pradesh
+Solan
+ 
+KandaghatChail road
+30.992278
+77.214205
+Rock
+Slide
+NA
+3811
+HP/SOL/53F01/2017/433
+Himachal Pradesh
+Solan
+ 
+KandaghatChail road
+30.993487
+77.216216
+Rock
+Slide
+NA
+3812
+HP/SOL/53B13/2017/140
+Himachal Pradesh
+Solan
+ 
+SaiBhupnagar road
+30.995612
+76.832468
+Rock
+Slide
+NA
+3813
+HP/SOL/53B13/2017/1
+Himachal Pradesh
+Solan
+ 
+JatrogChandi road
+30.999955
+76.941804
+Rock
+Fall
+NA
+3814
+HP/SHI/53E08/2016/81
+Himachal Pradesh
+Shimla
+ 
+TajnelSH-6
+31.002944
+77.363611
+Rock cum debris
+Slide
+NA
+3815
+HP/SHI/53E08/2016/82
+Himachal Pradesh
+Shimla
+ 
+SH-6
+31.002944
+77.363611
+Rock cum debris
+Slide
+NA
+3816
+HP/SOL/53E04/2017/257
+Himachal Pradesh
+Solan
+ 
+CHAURI
+31.006806
+77.061694
+Debris
+Slide
+NA
+3817
+HP/SOL/53E04/2017/230
+Himachal Pradesh
+Solan
+ 
+SHOGI KASUMPTI ROAD
+31.008583
+77.092889
+Debris
+Slide
+NA
+3818
+HP/SHI/53E08/2016/72
+Himachal Pradesh
+Shimla
+ 
+BalagSH-6
+31.00872
+77.37487
+Rock cum debris
+Slide
+NA
+3819
+HP/SOL/53A16/2017/247
+Himachal Pradesh
+Solan
+ 
+BARAGAON
+31.010417
+76.893389
+Debris
+Slide
+NA
+3820
+HP/SOL/53A16/2017/248
+Himachal Pradesh
+Solan
+ 
+RAURI
+31.015611
+76.929389
+Rock
+Slide
+NA
+3821
+HP/SOL/53E04/2017/256
+Himachal Pradesh
+Solan
+ 
+CHAURI
+31.016639
+77.059778
+Debris
+Slide
+NA
+3822
+HP/SOL/53E04/2017/255
+Himachal Pradesh
+Solan
+ 
+KASUMPTI CHAURI ROAD
+31.016694
+77.062528
+Debris
+Slide
+NA
+3823
+HP/SOL/53A16/2017/249
+Himachal Pradesh
+Solan
+ 
+NUNHATTI
+31.016778
+76.971583
+Rock
+Slide
+NA
+3824
+HP/SOL/53A16/2017/3
+Himachal Pradesh
+Solan
+ 
+SH 9,NUNHATTI
+31.01725
+76.966806
+Debris
+Slide
+NA
+3825
+HP/SOL/53E04/2017/258
+Himachal Pradesh
+Solan
+ 
+GAITY THEATRE, SHIMLA
+31.017472
+77.074667
+Debris
+Slide
+NA
+3826
+HP/SOL/53A16/2017/4
+Himachal Pradesh
+Solan
+ 
+SH 9, NUNHATTI
+31.017722
+76.96575
+Rock
+Slide
+NA
+3827
+HP/SOL/53A16/2017/250
+Himachal Pradesh
+Solan
+ 
+NUNHATTI MAMLING KUFAR 
+ROAD
+31.020083
+76.984528
+Rock
+Slide
+NA

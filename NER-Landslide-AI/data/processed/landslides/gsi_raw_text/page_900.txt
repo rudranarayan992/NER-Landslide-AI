@@ -1,0 +1,255 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+35913
+UK_RUD_NH109_ L17 
+Uttarakhand
+Rudraprayag
+Sersi Slide
+National/ State Highway: NH-
+109, Important 
+location/landmark: Sersi village, 
+Village: Sersi, Tehsil: Okhimath
+30.60880556
+79.02022222
+Debris and 
+weathered rock
+Slide
+ June 2013., 16th -17th June 2013, 15 
+August 2014
+35914
+UK_RUD_NH109_ L18 
+Uttarakhand
+Rudraprayag
+Barasu Slide
+National/ State Highway: NH-
+109, Important 
+location/landmark: Barasu 
+village, Village: Barasu , Tehsil: 
+Okhimath
+30.60122222
+79.02363889
+Slope wash material
+Slide
+16th -17th June 2013, 14th -15th 
+August 2014
+35915
+UK_RUD_ L19 
+Uttarakhand
+Rudraprayag
+Lwara Slide
+National/ State Highway: NH-
+109, Important 
+location/landmark: Opposite to 
+Lwara village on Guptkashi 
+Mayali road, on the left bank of 
+Rawan Ganga river., Village: 
+Lwara, Tehsil: Okhimath
+30.51394444
+79.06708333
+Rock
+Slide
+17 June 2013, August 2014
+35916
+Uttarakhand
+Tehri Garhwal
+Baagi Slide
+National/ State Highway: NH-
+109, Important 
+location/landmark: Baagi 
+village, Village: Baagi, Tehsil: 
+Tehri
+30.32863889
+78.31630556
+River borne material Slide
+15 August 2014
+35917
+Uttarakhand 
+/Chamoli/53N/7/2016/1
+Uttarakhand
+Chamoli
+Siron Slide
+Siron village
+30.39833333
+78.30778333
+Debris
+Slide
+30 June, 2016
+35918
+Uttarakhand 
+/Chamoli/53N/7/2016/2
+Uttarakhand
+Chamoli
+Gwilon Slide-I
+SE of Gwilon
+30.39625
+79.31355556
+Rock
+slide
+30 June, 2016
+35919
+Uttarakhand 
+/Chamoli/53N/7/2016/3
+Uttarakhand
+Chamoli
+Gwilon Slide-II
+150m SE of Gwilon
+30.39711111
+79.31338889
+Rock
+Slide
+30 June, 2016
+35920
+Uttarakhand 
+/Chamoli/53N/7/2016/4
+Uttarakhand
+Chamoli
+Jakhni
+Jakhni
+30.27427778
+79.42058333
+Debris
+Slide
+1 july,2016
+35921
+Uttarakhand 
+/Chamoli/53N/7/2016/5
+Uttarakhand
+Chamoli
+Tundala Slide
+Tundala
+30.27602778
+79.42613889
+Rock
+Slide
+30 June, 2016
+35922
+Uttarakhand 
+/Chamoli/53N/7/2016/6
+Uttarakhand
+Chamoli
+Ghat
+Ghat
+30.25680556
+79.44633333
+Debris
+Slide
+1 july, 2016
+35923
+Uttarakhand 
+/Chamoli/53N/7/2016/7
+Uttarakhand
+Chamoli
+Confluence of Chupla gad and 
+Nandakini river
+Ghat
+30.25788889
+79.44816667
+Debris/Bank Erosion Slide
+30 June, 2016
+35924
+Uttarakhand 
+/Chamoli/53N/7/2016/8.
+Uttarakhand
+Chamoli
+---
+---
+30.30602778
+79.34847222
+Debris
+Slide
+30 June, 2016
+35925
+Uttarakhand 
+/Chamoli/53N/7/2016/9
+Uttarakhand
+Chamoli
+Nandprayag
+NH58 (Nandprayag to Chamoli 
+road )
+30.33594444
+79.32016667
+Debris
+Slide
+30 June, 2016
+35926
+Uttarakhand 
+/Chamoli/53N/7/2016/10
+Uttarakhand
+Chamoli
+--
+50m west of Maithana
+30.35416667
+79.31972222
+Debris
+Slide
+30 June, 2016
+35927
+Uttarakhand 
+/Chamoli/53N/7/2016/11
+Uttarakhand
+Chamoli
+Tangsa Slide-I
+Tangsa village
+30.41383333
+79.29938889
+Rock
+Slide
+30 June, 2016
+35928
+Uttarakhand 
+/Chamoli/53N/7/2016/12a
+Uttarakhand
+Chamoli
+Tangsa Slide-II
+Tangsa village
+30.41258333
+79.295
+Rock
+Slide
+30 June, 2016
+35929
+Uttarakhand 
+/Chamoli/53N/7/2016/12b
+Uttarakhand
+Chamoli
+Tangsa Slide-III
+Tangsa village
+30.41161111
+79.29452778
+Debris
+Slide
+30 June, 2016
+35930
+Uttarakhand 
+/Chamoli/53N/7/2016/13
+Uttarakhand
+Chamoli
+Tangsa
+Tangsa village
+30.41247222
+79.29727778
+Rock
+Slide
+30 June, 2016
+35931
+Uttarakhand 
+/Chamoli/53N/7/2016/14
+Uttarakhand
+Chamoli
+-
+-
+30.4125
+79.29802778
+Rock
+Slide
+30 June, 2016

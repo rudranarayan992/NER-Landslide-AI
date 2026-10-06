@@ -1,0 +1,412 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+900
+ARN/Papumpare/83E12/2020/0
+1
+Arunachal Pradesh
+Papum Pare
+N/A
+N/A
+27.08130556
+93.61283333
+Unconsolidated rock 
+debris and sandy soil.
+Translation 
+(Debris flow)
+25 June 2020
+901
+AR/PP/83E/12/2018/04
+Arunachal Pradesh
+Papum Pare
+N/A
+N/A
+27.08155
+93.61438
+Debris/unconsolidat
+ed material
+Debris slide
+NA
+902
+AR/TIR/83M12/2022/040
+Arunachal Pradesh
+Tirap
+1.5km NE of Lanwang
+Khonsa-Changlang road, NH-
+215
+27.083054
+95.639328
+Debris
+Slide
+NA
+903
+AR/83E/12/2021/03
+Arunachal Pradesh
+Papum Pare
+N/A
+N/A
+27.083117
+93.601735
+Debris and 
+unconsolidated 
+material
+Debris slide
+NA
+904
+AR/WKG/83A12/2021/001
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 1
+NH 13/ SW of Elephant Flat
+27.086139
+92.584361
+Debris
+Slide
+NA
+905
+AP/WK/83E12/2008/A-10
+Arunachal Pradesh
+West Kameng
+Slide at 10km SE of Sessa Village
+ 
+27.086667
+92.585278
+Debris
+ 
+2008
+906
+AP/PAP/83E12/2021/18
+Arunachal Pradesh
+Papum Pare
+Papu nala slide
+Near Papu nala
+27.088278
+93.66925
+Debris
+Slide
+NA
+907
+AR/CHNG/83M12/2022/047
+Arunachal Pradesh
+Changlang
+Bubang slide
+Changlang-Khimioyng road
+27.089394
+95.729849
+Debris
+Slide
+NA
+908
+AP/PP/83E12/2008/A-4
+Arunachal Pradesh
+Papum Pare
+Slide at Abotany Vihar
+ 
+27.091139
+93.615667
+Rock cum Debris
+Slide
+2008
+909
+AR/WKG/83A12/2021/057
+Arunachal Pradesh
+West Kameng
+Pinjori-Kimi Road Slide 6
+Pinjori-Kimi Road
+27.092028
+92.597028
+Rock
+Slide
+NA
+910
+AR/CHNG/83M12/2022/046
+Arunachal Pradesh
+Changlang
+200 S of Bubang
+Changlang-Khimioyng road
+27.093755
+95.731806
+Rock
+slide
+NA
+911
+AP/WK/83E12/2008/A-11
+Arunachal Pradesh
+West Kameng
+Slide at 15km SE of Sessa Village
+ 
+27.093889
+92.591389
+Debris
+ 
+2008
+912
+AP/PP/83E12/2008/A-2
+Arunachal Pradesh
+Papum Pare
+Slide at Nitivihar
+ 
+27.095278
+93.615694
+NA
+Slide
+2008
+913
+AR/83E/12/2021/2
+Arunachal Pradesh
+Papum Pare
+N/A
+N/A
+27.09589
+93.62284
+Debris/unconsolidat
+ed materials
+Debris slide
+NA
+914
+AR/TIR/83M12/2022/039
+Arunachal Pradesh
+Tirap
+1.5 m W of Jadthungthong
+Khonsa-Changlang road, NH-
+215
+27.095969
+95.634872
+Debris
+Slide
+NA
+915
+AR/WKG/83A12/2021/052
+Arunachal Pradesh
+West Kameng
+Pinjori-Kimi Road Slide 1
+Pinjori-Kimi Road
+27.099083
+92.626306
+Debris
+Slide
+NA
+916
+AR/TIR/83M12/2022/038
+Arunachal Pradesh
+Tirap
+500 m W of Jadthungthong
+Khonsa-Changlang road, NH-
+215
+27.099707
+95.641075
+Rock
+Slide
+NA
+917
+AP/PP/83E12/2008/A-3
+Arunachal Pradesh
+Papum Pare
+Slide at lower Nitivihar (inquiry point) 
+27.101111
+93.619222
+Rock cum Debris
+Slide
+2008
+918
+AR/83E/12/2018/06
+Arunachal Pradesh
+Papum Pare
+N/A
+N/A
+27.10215
+93.61371
+Debris/unconso 
+lidated material
+Debris slide
+NA
+919
+AR/TIR/83M12/2022/037
+Arunachal Pradesh
+Tirap
+Jadthungithong slide
+Khonsa-Changlang road, NH-
+215
+27.102163
+95.644694
+Rock
+Slide
+NA
+920
+AR/APTIR/83M12/2022/108
+Arunachal Pradesh
+Tirap
+800 m W of Lainwang
+Khonsa-Changlang road, NH-
+215
+27.102625
+95.645631
+Rock
+Slide
+NA
+921
+AP/PAP/83E12/2021/4
+Arunachal Pradesh
+Papum Pare
+NE of Itanagar slide 1
+NE of Itanagar
+27.102944
+93.640417
+Debris
+Slide
+NA
+922
+AP/PAP/83E12/2021/5
+Arunachal Pradesh
+Papum Pare
+NE of Itanagar slide 2
+NE of Itanagar
+27.103069
+93.641778
+Debris
+Slide
+NA
+923
+AP/PAP/83E12/2021/1
+Arunachal Pradesh
+Papum Pare
+500 m east of Bidyut Bhavan, Itanagar Bidyut Bhavan, Itanagar
+27.103111
+93.634019
+Debris
+Slide
+NA
+924
+AP/PAP/83E12/2021/3
+Arunachal Pradesh
+Papum Pare
+NE of Bidyut Bhavan slide 2
+NE of Bidyut Bhavan
+27.103444
+93.638722
+Debris
+Slide
+NA
+925
+AR/WKG/83A12/2021/053
+Arunachal Pradesh
+West Kameng
+Pinjori-Kimi Road Slide 2
+Pinjori-Kimi Road
+27.103639
+92.76025
+Rock
+Slide
+NA
+926
+AR/83E/12/2021/05
+Arunachal Pradesh
+Papum Pare
+N/A
+N/A
+27.10375
+93.61529
+Debris
+/unconsolidat
+ed material
+Debris slide
+2020,2021
+927
+AP/PAP/83E12/2021/2
+Arunachal Pradesh
+Papum Pare
+NE of Bidyut Bhavan slide 1
+Bidyut Bhavan, Itanagar
+27.103944
+93.637611
+Debris
+Slide
+NA
+928
+AR/WKG/83A12/2021/004
+Arunachal Pradesh
+West Kameng
+East of Sessa Slide 2
+NH 13/ E of Sessa
+27.105083
+92.555222
+Debris
+Slide
+NA
+929
+AR/WKG/83A12/2021/003
+Arunachal Pradesh
+West Kameng
+East of Sessa Slide 1
+N130? of NH 13/ E of Sessa
+27.1055
+92.556278
+Debris
+Slide
+NA
+930
+AP/PP/83E12/2008/A-7
+Arunachal Pradesh
+Papum Pare
+Slide at E-Sector, Police Colony, 
+Naharlagun
+ 
+27.105556
+93.699722
+Debris
+Slide
+2008
+931
+AR/TIR/83M12/2022/036
+Arunachal Pradesh
+Tirap
+200m E of Kolagaon
+Khonsa-Changlang road, NH-
+215
+27.105748
+95.654176
+Rock
+Slide
+NA
+932
+AP/PP/83E12/2008/A-5
+Arunachal Pradesh
+Papum Pare
+Slide at Shiv Mandir
+ 
+27.106472
+93.663889
+Rock cum Debris
+Slide
+2008
+933
+AP/PAP/83E12/2021/6
+Arunachal Pradesh
+Papum Pare
+NE of Itanagar slide 3
+NE of Itanagar
+27.106722
+93.660111
+Debris
+Slide
+NA
+934
+AR/WKG/83A12/2021/002
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 2
+NH 13/ NW of Elephant Flat
+27.106939
+92.573544
+Debris
+Slide
+NA

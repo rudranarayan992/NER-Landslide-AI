@@ -1,0 +1,390 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20441
+MEG/RIB/78O09/2016/42
+Meghalaya
+Ri-Bhoi
+Jirang village slide3
+Patharkhamma Guwahati road 
+1 km NW of Jirang village
+25.936583
+91.563917
+Debris
+Slide
+2016
+20442
+ML/RIB/78O13/2014/09
+Meghalaya
+Ri-Bhoi
+Pamdingoh A
+GS road
+25.937
+91.87553
+Debris
+Slide
+2014
+20443
+MEG/RIB/78O09/2016/41
+Meghalaya
+Ri-Bhoi
+Jirang village slide2
+Patharkhamma Guwahati road 
+1.5 km NW of Jirang village
+25.940439
+91.563069
+Earth
+Slide
+2016
+20444
+MEG/RIB/78O09/2016/52
+Meghalaya
+Ri-Bhoi
+UmlingPatharkhamma R.S1
+UmlingPatharkhamma road
+25.940978
+91.724644
+Earth
+Slide
+2016
+20445
+MEG/RIB/78O09/2016/40
+Meghalaya
+Ri-Bhoi
+Jirang village slide1
+Patharkhamma Guwahati road 
+2 km NW of Jirang village
+25.945225
+91.560703
+Earth
+Slide
+2016
+20446
+MEG/RIB/78O09/2016/39
+Meghalaya
+Ri-Bhoi
+Paham slide2
+Patharkhamma Guwahati road 
+2 km S of Paham village
+25.945619
+91.548883
+Earth
+Slide
+2016
+20447
+MEG/RIB/78O13/2016/17
+Meghalaya
+Ri-Bhoi
+yrn
+SH
+25.951106
+91.968889
+Earth
+Slide
+2015
+20448
+MEG/RIB/78O09/2016/38
+Meghalaya
+Ri-Bhoi
+Paham slide
+Patharkhamma Guwahati road 
+0.5 km S of Paham village
+25.9545
+91.546622
+Debris
+Slide
+2016
+20449
+MEG/RIB/78O13/2016/1
+Meghalaya
+Ri-Bhoi
+19.720 km slide
+NH6
+25.954889
+91.858667
+Debris
+Slide
+2016
+20450
+MEG/RIB/78O13/2016/14
+Meghalaya
+Ri-Bhoi
+Lumjana Slide II
+NH6
+25.956333
+91.85725
+Earth
+Slide
+2015
+20451
+MEG/RIB/78O13/2016/13
+Meghalaya
+Ri-Bhoi
+Lumjana Slide I
+NH6
+25.956781
+91.852883
+Earth
+Slide
+2015
+20452
+ML/RIB/78O13/2014/07
+Meghalaya
+Ri-Bhoi
+Shangbangla
+GS road
+25.95847
+91.85406
+Debris
+Slide
+23 September 2014 at 09.00hrs and 
+14:30hrs
+20453
+MEG/RIB/78O13/2016/12
+Meghalaya
+Ri-Bhoi
+Sohpu
+NH6
+25.958886
+91.851242
+Earth
+Slide
+NA
+20454
+MEG/RIB/78O13/2016/15
+Meghalaya
+Ri-Bhoi
+Umdaprhong
+NH6
+25.96
+91.857
+Earth
+Slide
+2015
+20455
+MEG/RIB/83C1/2016/2
+Meghalaya
+Ri-Bhoi
+Markang
+SH
+25.970032
+92.056762
+Earth
+Slide
+2015
+20456
+MEG/RIB/83C1/2016/3
+Meghalaya
+Ri-Bhoi
+South of Markang
+SH
+25.970062
+92.054889
+Earth
+Slide
+2015
+20457
+MEG/RIB/78O09/2016/35
+Meghalaya
+Ri-Bhoi
+Huro Jirang village slide3
+0.5 km SW of Huro Jirang vilalge 25.971897
+91.562372
+Earth
+Slide
+2016
+20458
+MEG/RIB/78O09/2016/36
+Meghalaya
+Ri-Bhoi
+Huro Jirang village slide4
+4.5 km SW of Huro Jirang vilalge 25.972322
+91.561125
+Earth
+Slide
+2016
+20459
+MEG/RIB/78O09/2016/37
+Meghalaya
+Ri-Bhoi
+Huro Jirang village slide5
+5 km SW of Huro Jirang vilalge
+25.972469
+91.560822
+Earth
+Slide
+2016
+20460
+ML/RIB/78O13/2014/04
+Meghalaya
+Ri-Bhoi
+Umling 
+Guwahati-Shillong road (NH-40) 25.97256
+91.86242
+Debris
+Slide
+2012, 05 October 2014 at 5:30 pm
+20461
+MEG/RIB/78O13/2016/10
+Meghalaya
+Ri-Bhoi
+Umling slide
+NH6
+25.972964
+91.858336
+Debris
+Slide
+2016
+20462
+MEG/RIB/78O09/2016/34
+Meghalaya
+Ri-Bhoi
+Huro Jirang village slide2
+2.5km SW of Huro Jirang vilalge 25.978481
+91.569575
+Earth
+Slide
+2016
+20463
+MEG/RIB/78O13/2016/18
+Meghalaya
+Ri-Bhoi
+Old weight bridge 2
+NH6
+25.978803
+91.860278
+Earth
+Slide
+2015
+20464
+MEG/RIB/78O13/2016/9
+Meghalaya
+Ri-Bhoi
+Old weight bridge slide
+NH6
+25.979244
+91.860578
+Earth
+Slide
+2012
+20465
+MEG/RIB/83C1/2016/4
+Meghalaya
+Ri-Bhoi
+Jowe
+SH
+25.982436
+92.057405
+Debris
+Slide
+2015
+20466
+MEG/RIB/78O09/2016/33
+Meghalaya
+Ri-Bhoi
+Huro Jirang village slide1
+0.5km NE of Huro Jirang vilalge
+25.994619
+91.577214
+Earth
+Slide
+2016
+20467
+MEG/RIB/78O13/2016/8
+Meghalaya
+Ri-Bhoi
+13 km stone slide
+NH6
+25.997033
+91.86235
+Earth
+Slide
+2015
+20468
+MEG/RIB/78O13/2016/11
+Meghalaya
+Ri-Bhoi
+Hynniangban Them slide
+NH6
+25.998847
+91.863883
+Earth
+Slide
+2015
+20469
+ML/RIB/78N16/2014/06
+Meghalaya
+Ri-Bhoi
+19 Mile
+GS Road
+26.00294
+91.86692
+Debris
+Slide
+23 September 2014
+20470
+ME/RIB/78N12/2015/105
+Meghalaya
+Ri-Bhoi
+Shakhoikuna-2
+Shakhoikuna-2, Ri-Bhoi, 
+Meghalaya
+26.007083
+91.909806
+Earth
+Slide
+NA
+20471
+ML/RIB/78N16/2014/05
+Meghalaya
+Ri-Bhoi
+17 Mile C
+GS Road
+26.01061
+91.86886
+Debris
+Slide
+20-23 August, 2014
+20472
+ME/RIB/78N12/2015/99
+Meghalaya
+Ri-Bhoi
+Mairapur-1
+Mairapur-1, Meghalaya
+26.011861
+91.569611
+Rock cum Debris
+Slide
+NA
+20473
+ME/RIB/78N12/2015/102
+Meghalaya
+Ri-Bhoi
+Upper Norbong-3
+Upper Norbong-3, Mylliem RF, 
+Meghalaya
+26.022094
+91.832906
+Debris
+Slide
+NA
+20474
+ML/RIB/78N16/2014/02
+Meghalaya
+Ri-Bhoi
+17 Mile B
+GS road
+26.02547
+91.87158
+Earth
+Slide
+20 September 2014

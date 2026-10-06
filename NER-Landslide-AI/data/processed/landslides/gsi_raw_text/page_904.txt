@@ -1,0 +1,434 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+36034
+UK/RDP/53N02/2023/21
+Uttarakhand
+Rudraprayag
+(NH-107)
+30.56219
+79.05781
+Debris
+Subsidence
+August 2023
+36035
+UK/RDP/53N02/2023/22
+Uttarakhand
+Rudraprayag
+Korki Slide
+(NH-107)
+30.55875
+79.054722
+Debris
+Slide
+July 2023
+36036
+UK/RDP/53N02/2023/23
+Uttarakhand
+Rudraprayag
+Khumera -  Korki Slide
+(NH-107)
+30.5542
+79.0503
+Rock
+Slide
+August 2023
+36037
+UK/RDP/53N02/2023/24
+Uttarakhand
+Rudraprayag
+Khumera devidhar subsidence
+(NH-107)
+30.5539
+79.0648
+Debris
+Subsidence
+2nd  to 8th August 2023, 23 August 
+2023
+36038
+UK/RDP/53N02/2023/25
+Uttarakhand
+Rudraprayag
+Bhedshem Jurani subsidence
+(NH-107)
+30.5526
+79.0704
+Debris/ soil
+Subsidence
+August 2023
+36039
+UK/RDP/53N02/2023/26
+Uttarakhand
+Rudraprayag
+(NH-107)
+30.5488
+79.074
+Debris/ soil
+Subsidence
+August 2023
+36040
+UK/RDP/53N02/2023/27
+Uttarakhand
+Rudraprayag
+Guptkashi ashram slide
+(NH-107)
+30.5298
+79.0837
+Debris/ soil
+Subsidence
+July 2023
+36041
+UK/RDP/53N02/2023/28
+Uttarakhand
+Rudraprayag
+Rudraprayag –Tilwara road slide
+(NH-107)
+30.2831
+79.9693
+Debris/ soil
+Subsidence
+July-August /2023
+36042
+UK/RDP/53N02/2023/29
+Uttarakhand
+Rudraprayag
+Rudraprayag –Tilwara road slide
+(NH-107)
+30.2853
+78.9717
+Debris/ soil
+Subsidence
+2023
+36043
+UK/RDP/53N02/2023/30
+Uttarakhand
+Rudraprayag
+Pina slide
+(NH-107)
+30.3185
+78.9691
+Rock
+Slide
+August 2023
+36044
+UK/RDP/53N02/2023/31
+Uttarakhand
+Rudraprayag
+Lata baba slide
+(NH-107)
+30.36
+78.9788
+Rock
+Fall /Topple
+August 2023
+36045
+UK/RDP/53N02/2023/32
+Uttarakhand
+Rudraprayag
+(NH-107)
+30.3791
+79.0034
+Debris
+Slide and 
+subsidence
+August 2023
+36046
+UK/RDP/53N03/2023/33
+Uttarakhand
+Rudraprayag
+(NH-107)
+30.38711
+79.01709
+Rock
+Slide
+August 2023
+36047
+UK/RDP/53N03/2023/34
+Uttarakhand
+Rudraprayag
+Kameda slide
+(NH-07)
+30.28908
+79.00253
+Debris
+Slide  & Flow
+2013, 24 July 2023 at 06:00hrs
+36048
+UK/RDP/53N07/2023/35
+Uttarakhand
+Chamoli
+Kameda -2 slide
+(NH-07)
+30.2849
+79.13211
+Debris
+Creep   & 
+Subsidence  & 
+slide at part
+August 2023
+36049
+UK/RDP/53N07/2023/36
+Uttarakhand
+Chamoli
+(NH-07)
+30.32811
+79.32111
+Debris
+Slide  
+Subsidence
+August 2023
+36050
+UK/CHAM/53N07/2023/37
+Uttarakhand
+Chamoli
+(NH-07)
+30.33664
+79.31989
+Debris
+Slide
+August 2023
+36051
+UK/CHAM/53N07/2023/38
+Uttarakhand
+Chamoli
+Maithana Slide
+(NH-07)
+30.35608
+78.31892
+Debris
+Slide and 
+subsidence
+18 August 2023
+36052
+UK/CHAM/53N07/2023/39
+Uttarakhand
+Chamoli
+Chinka Slide
+(NH-07)
+30.4127
+79.3664
+Rock
+Slide
+July 2023 
+36053
+UK/CHAM/53N07/2023/40
+Uttarakhand
+Chamoli
+Birhi  Slide
+(NH-07)
+30.4169
+79.387
+Rock
+Slide
+July 2023 
+36054
+UK/CHAM/53N07/2023/41
+Uttarakhand
+Chamoli
+Gadora Flow
+(NH-07)
+30.41642
+79.42306
+Soil &  Debis
+Flow
+13 midnight and 14 August 2023
+36055
+UK/CHAM/53N07/2023/42
+Uttarakhand
+Chamoli
+Gadora nala flow
+(NH-07)
+30.41808
+79.42758
+Debris
+Flow
+13 midnight and 14 August 2023
+36056
+UK/CHAM/53N07/2023/43
+Uttarakhand
+Chamoli
+Gadi slide
+(NH-07)
+30.4800583
+79.4684972
+Debris
+Slide
+August 2023
+36057
+UK/CHAM/53N07/2023/44
+Uttarakhand
+Chamoli
+Pipalkoti slide
+(NH-07)
+30.43675
+79.42864
+Rock
+Slide
+14 August 2023
+36058
+UK/CHAM/53N07/2023/45
+Uttarakhand
+Chamoli
+Pagal Nala slide
+(NH-07)
+30.4777
+78.4671
+Rock
+Slide & flow
+18 August 2023
+36059
+UK/CHAM/53N07/2023/46
+Uttarakhand
+Chamoli
+Pagal Nala forward slide
+(NH-07)
+30.4811
+79.4684
+Rock
+Slide
+July -Aug/2023
+36060
+UK/CHAM/53N07/2023/47
+Uttarakhand
+Chamoli
+(NH-07)
+30.4864
+79.4773
+Rock
+Slide & 
+Subsidence
+August 2023
+36061
+UK/CHAM/53N07/2023/48
+Uttarakhand
+Chamoli
+Parsari Subsidence ,Joshimath
+(NH-07)
+30.5363
+79.5877
+Rock
+Subsidence
+August 2023
+36062
+UK/CHAM/53N07/2023/49
+Uttarakhand
+Chamoli
+Lambagad slide
+(NH-07)
+30.654472
+79.517722
+Rock
+Slide
+2 July & August 2023
+36063
+UK/DDN/53F15/16/08/2023/01 Uttarakhand
+Dehradun
+Jakhan slide
+Langha road ,Vikashnagar
+30.4876
+77.9122
+Rock and Debris
+Slide and 
+subsidence
+16 August 2023 at 14:30 hrs.
+36064
+LS1
+Uttarakhand
+Uttarkashi
+LS-1
+Mastari Village
+30.71027778
+78.46675
+Debris
+Slide
+07 March 2023
+36065
+LS2
+Uttarakhand
+Uttarkashi
+LS-2
+Mastari Village
+30.71086111
+78.466
+Debris
+Slide
+2021 (as per locals)
+36066
+UK/RPG/53N2/2025/10
+Uttarakhand
+Rudraprayag
+Munkatiya Slide zone
+NH-107
+30.635966
+79.001953
+rock + Debris
+Slide + fall
+23 June 2025, 26 June 2025,  3 July 
+2025 0430hrs , 8 July-2025
+36067
+UK/RPG/53J15/2025/11
+Uttarakhand
+Rudraprayag
+Narkota Slide (Devimanda)
+NH-7; Devimanda
+30.250252
+78.924169
+Rock
+Slide & fall
+06 August 2025 (0815 hrs); and 09 July 
+2025 at 18.45 hrs)
+36068
+UK/CHML/53N3/2025/15
+Uttarakhand
+Chamoli (Karanprayag)
+Kameda-2
+NH 7; Gauchar
+30.2884
+79.119438
+Rock & Debris
+Slide
+06 August 2025, 0700 hrs; 11 August 
+2025, 0630 hrs; 12 August 2025, 0630 
+hrs
+36069
+UK/RPG/53J15/2025/01
+Uttarakhand
+Rudraprayag
+Routhiya slide
+30.19158
+79.977955
+Rock
+Slide
+09 August 2025 at 1800 hrs
+36070
+UK/RPG/53J15/2025/02
+Uttarakhand
+Rudraprayag (Jakholi)
+Hariyali slide
+Mayali-Tilujara Road Jakholi 
+(Tilwada)
+30.35403
+78.959917
+Debris
+Flows
+30 June 2025, 1100 hrs
+36071
+UK/TG/53J11/2025/38
+Uttarakhand
+Tehri Garhwal
+Jakhniyali
+SH-Ghansali-Tilwara road
+30.407259
+78.700957
+Debris
+Slide
+18 August 2025, 0830 hrs

@@ -1,0 +1,508 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15563
+KER/WYD/58A2/2018/105
+Kerala
+Wayanad
+12th bridge
+Vythiri-Tharuvana road
+11.567777
+76.028333
+rock-cum-debris
+Slide
+09 August 2018
+15564
+KER/WYD/58A2/2018/106
+Kerala
+Wayanad
+Pookod-Pozhuthana Rd
+Pookod-Pozhuthana Rd
+11.55055
+76.035
+debris-cum-rock
+Slide
+09 August 2018
+15565
+KER/WYD/58A2/2018/107
+Kerala
+Wayanad
+Pookode lake 1
+Pookode lake road
+11.54
+76.027222
+rock-cum-debris
+Slide
+09 August 2018
+15566
+KER/WYD/58A2/2018/108
+Kerala
+Wayanad
+Pookode lake 2
+Pookode lake road
+11.5375
+76.0275
+debris-cum-rock
+Slide
+09 August 2018
+15567
+KER/WYD/58A2/2018/109
+Kerala
+Wayanad
+Pookode lake 3
+Pookode lake road
+11.53888
+76.02722
+debris-cum-rock
+Slide
+09 August 2018
+15568
+KER/WYD/58A2/2018/110
+Kerala
+Wayanad
+Vythiri 2
+NH-212
+11.54888
+76.39166
+debris-cum-rock
+Slide
+09 August 2018
+15569
+KER/WYD/58A2/2018/111
+Kerala
+Wayanad
+Vythiri 3
+NH-212
+11.55
+76.0386
+debris-cum-rock
+Slide
+09 August 2018
+15570
+KER/WYD/58A2/2018/112
+Kerala
+Wayanad
+Kallaramkula
+Kumbaleri local road
+11.631666
+76.193055
+rock-cum-debris
+Slide
+01-07-2018
+15571
+KER/WYD/58A2/2018/113
+Kerala
+Wayanad
+Narikundu 1
+Narikundu local road
+11.59002778
+76.2085
+Debris
+Slide
+08 August 2018
+15572
+KER/WYD/58A2/2018/114
+Kerala
+Wayanad
+Narikundu 2
+Narikundu local road
+11.58425
+76.19588889
+Debris
+Slide
+08 August 2018
+15573
+KER/WYD/58A2/2018/115
+Kerala
+Wayanad
+Narikundu 3
+Narikundu local road
+11.58372222
+76.195
+Debris
+Slide
+08th and 9th August 2018
+15574
+KER/WYD/58A6/2018/116
+Kerala
+Wayanad
+Pallivayal
+Vadakkanad-Pallivayal forest 
+road
+11.73661111
+76.27
+rock-cum-debris
+Slide
+08th and 9th August 2018
+15575
+KER/WYD/58A2/2018/117
+Kerala
+Wayanad
+Edaguni
+SH-54
+11.61488889
+76.06594444
+Soil
+Subsidence
+15th August 2018
+15576
+KER/WYD/58A2/2018/118
+Kerala
+Wayanad
+Anoth 1
+Anoth Road
+11.59269444
+76.03736111
+rock-cum-debris
+Slide
+09 August 2018
+15577
+KER/WYD/58A2/2018/119
+Kerala
+Wayanad
+Anoth 2
+Anoth Road
+11.59316667
+76.03441667
+Soil
+Slide
+09 August 2018
+15578
+KER/WYD/58A2/2018/120
+Kerala
+Wayanad
+Achoor
+Vythiri-Tharuvana road
+11.59783333
+76.01502778
+debris-cum-rock
+Slide
+08th and 9th August 2018
+15579
+KER/WYD/49M14/2018/121
+Kerala
+Wayanad
+Ettamvayal 1
+Vythiri-Tharuvana road
+11.63177778
+75.98794444
+rock-cum-debris
+Slide
+08th and 9th August 2018
+15580
+KER/WYD/49M14/2018/122
+Kerala
+Wayanad
+Ettamvayal 2
+Vythiri-Tharuvana road
+11.63194444
+75.98744444
+debris-cum-rock
+Slide
+08th and 9th August 2018
+15581
+KER/WYD/49M14/2018/123
+Kerala
+Wayanad
+Naimoola
+Vythiri-Tharuvana road
+11.66852778
+75.96925
+debris-cum-rock
+Slide
+09 August 2018
+15582
+KER/WYD/58A2/2018/124
+Kerala
+Wayanad
+Chuzhali
+Kunnampetta-Madiyoor-Kuni 
+road
+11.59483333
+76.08002778
+Debris
+Slide
+09 August 2018
+15583
+KER/WYD/58A1/2018/125
+Kerala
+Wayanad
+Tirunelli-Kattikulam Rd-1
+Tirunelli-Kattikulam Rd
+11.90411111
+76.01644444
+Debris
+Slide
+09 August 2018
+15584
+KER/WYD/58A1/2018/126
+Kerala
+Wayanad
+Tirunelli-Kattikulam Rd-2
+Tirunelli-Kattikulam Rd
+11.90438889
+76.01625
+Debris
+Slide
+09 August 2018
+15585
+KER/WYD/58A1/2018/127
+Kerala
+Wayanad
+Tirunelli-Kattikulam Rd-3
+Tirunelli-Kattikulam Rd
+11.90288889
+76.01180556
+Soil
+Slide
+09 August 2018
+15586
+KER/WYD/49M13/2018/128
+Kerala
+Wayanad
+Thirunelli 1
+Tirunelli-Kattikulam Rd
+11.90919444
+75.99958333
+Soil
+Lateral spread
+09 August 2018
+15587
+KER/WYD/49M13/2018/129
+Kerala
+Wayanad
+Thirunelli 2
+Tirunelli-Kattikulam Rd
+11.91005556
+75.99888889
+Soil
+Slide
+09 August 2018
+15588
+KER/WYD/49M13/2018/130
+Kerala
+Wayanad
+Vellachal
+Tirunelli-Kattikulam Rd
+11.90366667
+75.99972222
+Debris
+Slide
+09 August 2018
+15589
+KER/WYD/58A1/2018/131
+Kerala
+Wayanad
+Panavalli Rd
+Panavalli Rd
+11.87958333
+76.03261111
+Debris
+Slide
+09 August 2018
+15590
+KER/WYD/58A1/2018/132
+Kerala
+Wayanad
+Kuricharmoola colony
+Aanappara road
+11.84219444
+76.03925
+Soil
+Subsidence
+09 August 2018
+15591
+KER/WYD/58A1/2018/133
+Kerala
+Wayanad
+Kottayatukunnu
+Jumma-Masjid road
+11.75983333
+76.01458333
+Soil
+Spread
+09 August 2018
+15592
+KER/WYD/58A1/2018/134
+Kerala
+Wayanad
+Thonichal
+4th Mile-Mananthavady road
+11.76883333
+76.00266667
+Debris
+Slide
+09 August 2018
+15593
+KER/WYD/49M13/2018/135
+Kerala
+Wayanad
+Thalapuzha 1
+SH-59
+11.83938889
+75.95588889
+debris-cum-rock
+Slide
+09 August 2018
+15594
+KER/WYD/49M13/2018/136
+Kerala
+Wayanad
+Thalapuzha 2
+SH-59
+11.84044444
+75.95202778
+Debris
+Slide
+09 August 2018
+15595
+KER/WYD/49M13/2018/137
+Kerala
+Wayanad
+Thalapuzha 3
+SH-59
+11.84061111
+75.95144444
+rock-cum-debris
+Slide
+09 August 2018
+15596
+KER/WYD/49M13/2018/138
+Kerala
+Wayanad
+Thalapuzha 4
+SH-59
+11.84066667
+75.94527778
+Soil
+Slide
+09 August 2018
+15597
+KER/WYD/49M13/2018/139
+Kerala
+Wayanad
+Thalapuzha 5
+SH-59
+11.83913889
+75.94394444
+Debris
+Slide
+09 August 2018
+15598
+KER/WYD/49M13/2018/140
+Kerala
+Wayanad
+Thalapuzha 6
+SH-59
+11.83702778
+75.94019444
+rock-cum-debris
+Slide
+09 August 2018
+15599
+KER/WYD/49M13/2018/141
+Kerala
+Wayanad
+Thalapuzha 7
+SH-59
+11.83477778
+75.93636111
+debris-cum-rock
+Slide
+09 August 2018
+15600
+KER/WYD/49M13/2018/142
+Kerala
+Wayanad
+Thalapuzha 8
+SH-59
+11.83644444
+75.93258333
+Debris
+Slide
+09 August 2018
+15601
+KER/WYD/49M13/2018/143
+Kerala
+Wayanad
+Thalapuzha 9
+SH-59
+11.83658333
+75.932
+rock-cum-debris
+Slide
+09 August 2018
+15602
+KER/WYD/49M13/2018/144
+Kerala
+Wayanad
+Thalapuzha 10
+SH-59
+11.83830556
+75.92672222
+rock-cum-debris
+Slide
+09 August 2018
+15603
+KER/WYD/49M13/2018/145
+Kerala
+Wayanad
+Thalapuzha 11
+SH-59
+11.83913889
+75.92577778
+Debris
+Slide
+09 August 2018
+15604
+KER/WYD/49M13/2018/146
+Kerala
+Wayanad
+Boys town
+Mananthavady-Nedumpoil road 11.83963889
+75.91594444
+Soil
+Slide
+09 August 2018
+15605
+KER/WYD/49M13/2018/147
+Kerala
+Wayanad
+Boys town 42 mile
+Mananthavady-Nedumpoil road 11.83827778
+75.9175
+Debris
+Slide
+09 August 2018
+15606
+KER/WYD/49M13/2018/148
+Kerala
+Wayanad
+Katterikunnu
+Thalapuzha local road
+11.83430556
+75.94691667
+Debris
+Flows
+9 August 2018 and 11 & 13 August 
+2018 
+15607
+KER/WYD/49M13/2018/149
+Kerala
+Wayanad
+New Wayanad Eng. college
+SH-59
+11.83255556
+75.96986111
+Debris
+Slide
+09 August 2018

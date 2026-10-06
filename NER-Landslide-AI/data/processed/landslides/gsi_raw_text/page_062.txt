@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+2176
+HP/SIR/53F06/2017/30
+Himachal Pradesh
+Sirmur
+ 
+Ganyoni R.F.
+30.529805
+77.46843
+Rock
+Slide
+NA
+2177
+HP/SIR/53F06/2017/62
+Himachal Pradesh
+Sirmur
+ 
+South of Bhur
+30.530091
+77.316047
+Debris
+Slide
+NA
+2178
+HP/SIR/53F06/2017/61
+Himachal Pradesh
+Sirmur
+ 
+South of Bhur
+30.530364
+77.312742
+Debris
+Slide
+NA
+2179
+HP/SIR/53F06/2017/60
+Himachal Pradesh
+Sirmur
+ 
+South of Bhur
+30.530389
+77.31207
+Debris
+Slide
+NA
+2180
+HP/SIR/53F02/2017/54
+Himachal Pradesh
+Sirmur
+ 
+BurmaParaliNahan road
+30.530716
+77.249241
+Rock
+Slide
+NA
+2181
+HP/SIR/53F06/2017/312
+Himachal Pradesh
+Sirmur
+ 
+North of Dhaduwala
+30.530868
+77.283911
+Rock
+Slide
+NA
+2182
+HP/SIR/53F06/2017/43
+Himachal Pradesh
+Sirmur
+ 
+North of Dhaduwala
+30.531423
+77.282423
+Rock
+Slide
+NA
+2183
+HP/SIR/53F06/2017/42
+Himachal Pradesh
+Sirmur
+ 
+North of Dhaduwala
+30.53173
+77.282261
+Rock
+Slide
+NA
+2184
+HP/SIR/53F02/2017/53
+Himachal Pradesh
+Sirmur
+ 
+BurmaParaliNahan road
+30.532029
+77.249097
+Rock
+Slide
+NA
+2185
+HP/SIR/53F02/2017/51
+Himachal Pradesh
+Sirmur
+ 
+BurmaParaliNahan road
+30.532029
+77.249097
+Rock
+Slide
+NA
+2186
+HP/SIR/53F02/2017/52
+Himachal Pradesh
+Sirmur
+ 
+BurmaParaliNahan road
+30.532029
+77.249097
+Rock
+Slide
+NA
+2187
+HP/SIR/53F02/2017/56
+Himachal Pradesh
+Sirmur
+ 
+BurmaParaliNahan road
+30.532209
+77.250743
+Rock
+Slide
+NA
+2188
+HP/SIR/53F02/2017/57
+Himachal Pradesh
+Sirmur
+ 
+Bank of Mazar ki Nadi
+30.532209
+77.250743
+Rock
+Slide
+NA
+2189
+HP/SIR/53F06/2017/40
+Himachal Pradesh
+Sirmur
+ 
+North of Dhaduwala
+30.532212
+77.282849
+Rock
+Slide
+NA
+2190
+HP/SIR/53F06/2017/41
+Himachal Pradesh
+Sirmur
+ 
+North of Dhaduwala
+30.53231
+77.283089
+Rock
+Slide
+NA
+2191
+HP/SIR/53F02/2017/55
+Himachal Pradesh
+Sirmur
+ 
+BurmaParaliNahan road
+30.533669
+77.249402
+Rock
+Slide
+NA
+2192
+HP/SIR/53F02/2017/75
+Himachal Pradesh
+Sirmur
+ 
+Along NH72
+30.535608
+77.160475
+Rock
+Slide
+NA
+2193
+HP/SIR/53F02/2017/59
+Himachal Pradesh
+Sirmur
+ 
+Bank of Mazar ki Nadi
+30.536239
+77.200908
+Rock
+Slide
+NA
+2194
+HP/SIR/53F02/2017/49
+Himachal Pradesh
+Sirmur
+ 
+BurmaParaliNahan road
+30.536602
+77.158932
+Rock
+Slide
+NA
+2195
+HP/SIR/53F02/2017/77
+Himachal Pradesh
+Sirmur
+ 
+KalaambTrilokpur link road
+30.540591
+77.175556
+Rock
+Slide
+NA
+2196
+HP/SIR/53F10/2017/134
+Himachal Pradesh
+Sirmur
+ 
+Rajpur
+30.541102
+77.713399
+Rock
+Slide
+NA
+2197
+HP/SIR/53F02/2017/76
+Himachal Pradesh
+Sirmur
+ 
+Along NH72
+30.541533
+77.17585
+Rock
+Slide
+NA
+2198
+HP/SIR/53F10/2017/220
+Himachal Pradesh
+Sirmur
+ 
+South of Kulthiana
+30.541602
+77.703918
+Rock
+Slide
+NA
+2199
+HP/SIR/53F14/2017/51
+Himachal Pradesh
+Sirmur
+ 
+Tauru
+30.541918
+77.781609
+Rock
+Slide
+NA
+2200
+HP/SIR/53F10/2017/128
+Himachal Pradesh
+Sirmur
+ 
+Danda
+30.541918
+77.781609
+Rock cum debris
+Slide
+NA
+2201
+HP/SIR/53F10/2017/133
+Himachal Pradesh
+Sirmur
+ 
+Rajpur
+30.543739
+77.714591
+Rock
+Slide
+NA
+2202
+HP/SIR/53F10/2017/219
+Himachal Pradesh
+Sirmur
+ 
+South of Kulthiana
+30.544142
+77.702687
+Rock
+Slide
+NA
+2203
+HP/SIR/53F10/2017/132
+Himachal Pradesh
+Sirmur
+ 
+Rajpur
+30.544228
+77.720898
+Rock
+Slide
+NA
+2204
+HP/SIR/53F10/2017/129
+Himachal Pradesh
+Sirmur
+ 
+Rajpur
+30.546334
+77.721158
+Rock
+Slide
+NA
+2205
+HP/SIR/53F14/2017/4
+Himachal Pradesh
+Sirmur
+ 
+North of Kalawar
+30.546948
+77.817488
+Rock cum debris
+Slide
+NA
+2206
+HP/SIR/53F10/2017/130
+Himachal Pradesh
+Sirmur
+ 
+Rajpur
+30.547089
+77.721554
+Rock
+Slide
+NA
+2207
+HP/SIR/53F10/2017/282
+Himachal Pradesh
+Sirmur
+ 
+Janjli R.F.
+30.547272
+77.667155
+Rock cum debris
+Slide
+NA
+2208
+HP/SIR/53F10/2017/14
+Himachal Pradesh
+Sirmur
+ 
+South of Kulthiana
+30.547313
+77.703282
+Rock
+Slide
+NA
+2209
+HP/SIR/53F10/2017/165
+Himachal Pradesh
+Sirmur
+ 
+Bhatrog
+30.547655
+77.669054
+Rock cum debris
+Slide
+NA
+2210
+HP/SIR/53F10/2017/279
+Himachal Pradesh
+Sirmur
+ 
+Bhatrog
+30.547817
+77.665273
+Rock cum debris
+Slide
+NA
+2211
+HP/SIR/53F10/2017/131
+Himachal Pradesh
+Sirmur
+ 
+Rajpur
+30.547872
+77.722184
+Rock
+Slide
+NA
+2212
+HP/SIR/53F10/2017/221
+Himachal Pradesh
+Sirmur
+ 
+South of Kulthiana
+30.547898
+77.702253
+Rock
+Slide
+NA
+2213
+HP/SIR/53F10/2017/127
+Himachal Pradesh
+Sirmur
+ 
+Sataun, SataunPaonta road
+30.548165
+77.63888
+Rock cum debris
+Slide
+NA
+2214
+HP/SIR/53F10/2017/223
+Himachal Pradesh
+Sirmur
+ 
+North of Dhamaun
+30.548739
+77.685628
+Rock
+Slide
+NA
+2215
+HP/SIR/53F10/2017/224
+Himachal Pradesh
+Sirmur
+ 
+North of Dhamaun
+30.54986
+77.686931
+Rock
+Slide
+NA
+2216
+HP/SIR/53F14/2017/9
+Himachal Pradesh
+Sirmur
+ 
+North of Kalatha
+30.550125
+77.79934
+Rock
+Slide
+NA
+2217
+HP/SIR/53F10/2017/15
+Himachal Pradesh
+Sirmur
+ 
+West of Navi
+30.550131
+77.712553
+Rock
+Slide
+NA
+2218
+HP/SIR/53F10/2017/16
+Himachal Pradesh
+Sirmur
+ 
+West of Navi
+30.550541
+77.712915
+Rock
+Slide
+NA
+2219
+HP/SIR/53F10/2017/218
+Himachal Pradesh
+Sirmur
+ 
+Sataun
+30.550661
+77.635263
+Rock cum debris
+Slide
+NA
+2220
+HP/SIR/53F10/2017/217
+Himachal Pradesh
+Sirmur
+ 
+Sataun
+30.550705
+77.635916
+Rock cum debris
+Slide
+NA
+2221
+HP/SIR/53F10/2017/206
+Himachal Pradesh
+Sirmur
+ 
+South of Kandon
+30.550789
+77.604632
+Rock
+Slide
+NA
+2222
+HP/SIR/53F14/2017/5
+Himachal Pradesh
+Sirmur
+ 
+North of Kalawar
+30.551028
+77.819175
+Rock
+Slide
+NA
+2223
+HP/SIR/53F14/2017/6
+Himachal Pradesh
+Sirmur
+ 
+North of Kalawar
+30.551073
+77.40092
+Rock
+Slide
+NA
+2224
+HP/SIR/53F10/2017/276
+Himachal Pradesh
+Sirmur
+ 
+Janjli R.F.
+30.551307
+77.649813
+Rock cum debris
+Slide
+NA
+2225
+HP/SIR/53F10/2017/281
+Himachal Pradesh
+Sirmur
+ 
+Janjli R.F.
+30.551323
+77.651374
+Rock cum debris
+Slide
+NA
+2226
+HP/SIR/53F10/2017/280
+Himachal Pradesh
+Sirmur
+ 
+Janjli R.F.
+30.551531
+77.654451
+Rock cum debris
+Slide
+NA

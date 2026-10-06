@@ -1,0 +1,520 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+32232
+UK/PAU/53O01/2017/76
+Uttarakhand
+Pauri Garhwal
+ 
+BaijroChokhalBungidhar Marg
+29.91989
+79.062969
+Rock
+Slide
+2013
+32233
+UK/PAU/53K13/2016/164
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.919963
+78.798512
+Rock
+Slide
+NA
+32234
+UK/BAG/62C01/2013/0086
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_86
+Right bank of Mehar Gad
+29.920056
+80.108361
+Rock
+Flow
+16th-17th June 2013
+32235
+UK/BAG/62C01/2013/0085
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_85
+On right bank of Mehar Gad
+29.920167
+80.101056
+Debris
+Flow
+16th-17th June 2013
+32236
+UK/PAU/53K09/2016/180
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.920376
+78.552631
+Rock
+Slide
+NA
+32237
+UK/PAU/53K13/2016/165
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.92038
+78.798214
+Rock
+Slide
+NA
+32238
+UK/BAG/62C01/2013/0084
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_84
+Chetabagar Village
+29.920583
+80.099194
+Debris
+Flow
+16th-17th June 2013
+32239
+UK/BAG/53O13/2015/322
+Uttarakhand
+Bageshwar
+ 
+ 
+29.920775
+79.790417
+Rock
+Fall
+NA
+32240
+UK/PAU/53K13/2016/100
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.920844
+78.808976
+Rock
+Slide
+NA
+32241
+UK/PAU/53K13/2016/166
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.920875
+78.798426
+Rock
+Slide
+NA
+32242
+UK/PAU/53K05/2016/38
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.921112
+78.430056
+Debris
+Slide
+NA
+32243
+UK/PAU/53O01/2017/77
+Uttarakhand
+Pauri Garhwal
+ 
+BaijroChokhalBungidhar Marg
+29.921241
+79.06579
+Rock
+Slide
+2012
+32244
+UK/PAU/53K09/2016/149
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.92133
+78.618524
+Debris
+Slide
+NA
+32245
+UK/PAU/53K05/2016/39
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.921799
+78.439054
+Debris
+Slide
+NA
+32246
+UK/PAU/53K13/2016/167
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.922119
+78.79868
+Rock
+Slide
+NA
+32247
+UK/ALM/53O05/2017/46
+Uttarakhand
+Almora
+ 
+ThanigaonMarbukhal road
+29.922513
+79.317131
+Debris
+Slide
+2014
+32248
+UK/ALM/53O05/2017/45
+Uttarakhand
+Almora
+ 
+ThanigaonMarbukhal road
+29.922569
+79.315115
+Debris
+Slide
+2014
+32249
+UK/BAG/53O13/2015/321
+Uttarakhand
+Bageshwar
+ 
+ 
+29.922746
+79.797079
+Rock cum Debris
+Slide
+NA
+32250
+UK/BAG/53O13/2015/295
+Uttarakhand
+Bageshwar
+ 
+ 
+29.922805
+79.87605
+Rock cum Debris
+Slide
+NA
+32251
+UK/PAU/53K09/2016/146
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.923148
+78.620333
+Debris
+Slide
+NA
+32252
+UK/ALM/53O05/2017/47
+Uttarakhand
+Almora
+ 
+ThanigaonMarbukhal road
+29.923497
+79.318706
+Debris
+Slide
+2014
+32253
+UK/PAU/53K09/2016/136
+Uttarakhand
+Pauri Garhwal
+Hiyunlag
+ 
+29.923554
+78.513504
+Rock cum Debris
+Slide
+NA
+32254
+UK/PAU/53K09/2016/104
+Uttarakhand
+Pauri Garhwal
+ 
+NH532
+29.924167
+78.716123
+Debris
+Slide
+NA
+32255
+UK/PAU/53K09/2016/64
+Uttarakhand
+Pauri Garhwal
+Kalauri
+ 
+29.92417
+78.622268
+Debris
+Slide
+NA
+32256
+UK/PAU/53O01/2017/75
+Uttarakhand
+Pauri Garhwal
+ 
+Matela
+29.924206
+79.043311
+Rock
+Slide
+2012
+32257
+UK/PAU/53K09/2016/147
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.92479
+78.62064
+Debris
+Flow
+NA
+32258
+UK/PAU/53K09/2016/148
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.925336
+78.619149
+Debris
+Slide
+NA
+32259
+UK/PITH/62C05/2013/0035
+Uttarakhand
+Pithoragarh
+UK/Pith/ Munsayri-Jauljibi/LS/0035
+State Highway
+29.92556
+80.30444
+Rock cum Debris
+Fall
+16th-17th June 2013
+32260
+UK/PAU/53K13/2016/48
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Dewalikhal
+29.92651
+78.874579
+Rock
+Slide
+NA
+32261
+UK/PAU/53K09/2016/124
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.926676
+78.58882
+Debris
+Slide
+NA
+32262
+UK/PAU/53K13/2016/49
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Dewalikhal
+29.927295
+78.875508
+Rock
+Slide
+NA
+32263
+UK/PAU/53K09/2016/144
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.927341
+78.591088
+Debris
+Slide
+NA
+32264
+UK/ALM/53O05/2017/34
+Uttarakhand
+Almora
+ 
+Samaya
+29.927586
+79.18071
+Rock
+Slide
+2012
+32265
+UK/PAU/53K05/2016/33
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.927936
+78.391041
+Debris
+Slide
+NA
+32266
+UK/ALM/53O05/2017/7
+Uttarakhand
+Almora
+ 
+Ramganga Nadi
+29.928281
+79.416141
+Debris
+Flow
+NA
+32267
+UK/PAU/53K09/2016/123
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.928712
+78.589905
+Debris
+Slide
+NA
+32268
+UK/PAU/53K13/2016/50
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.929447
+78.875234
+Debris
+Slide
+NA
+32269
+UK/PAU/53K09/2016/143
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.929465
+78.591501
+Rock
+Slide
+NA
+32270
+UK/BAG/53O13/2015/323
+Uttarakhand
+Bageshwar
+ 
+ 
+29.929722
+79.805
+Rock cum Debris
+Slide
+NA
+32271
+UK/PAU/53K09/2016/183
+Uttarakhand
+Pauri Garhwal
+Dwarikal
+ 
+29.929802
+78.630512
+Rock
+Slide
+NA
+32272
+UK/PAU/53K05/2016/36
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.930187
+78.487801
+Rock
+Slide
+NA
+32273
+UK/PIT/62C01/2015/424
+Uttarakhand
+Pithoragarh
+ 
+ 
+29.930675
+80.157842
+Rock
+Slide
+NA
+32274
+UK/BAG/53O13/2013/0059
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_59
+Opposite of Kanyalikot Govt. 
+Inter College located on the Left 
+bank of Kanal Gad
+29.930778
+79.771028
+Debris
+Slide
+16th-17th June 2013
+32275
+UK/ALM/53O05/2017/8
+Uttarakhand
+Almora
+ 
+Ramganga Nadi
+29.931515
+79.414375
+Debris
+Slide
+NA
+32276
+UK/PAU/53K05/2016/32
+Uttarakhand
+Pauri Garhwal
+Paranda
+ 
+29.931655
+78.487194
+Rock
+Slide
+NA
+32277
+UK/PAU/53K05/2016/30
+Uttarakhand
+Pauri Garhwal
+Bissi
+ 
+29.932207
+78.478068
+Debris
+Slide
+NA

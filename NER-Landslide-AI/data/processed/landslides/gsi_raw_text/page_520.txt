@@ -1,0 +1,401 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20976
+MZ/LUN/84B10/2020/48
+Mizoram
+Lunglei
+Chawngte P to Ruallalung road slide 1 Chawngte P to Ruallalung road
+22.63
+92.66
+Debris
+Slide
+2019
+20977
+MZ/LAW/84B10/2020/28
+Mizoram
+Lawngtlai
+Saizawh W to Ngharum road slide 1
+Saizawh W to Ngharum road
+22.64
+92.61
+Debris
+Slide
+2019
+20978
+MZ/LUN/84B10/2020/49
+Mizoram
+Lunglei
+Chawngte P to Ruallalung road slide 2 Chawngte P to Ruallalung road
+22.64
+92.66
+Debris
+Slide
+NA
+20979
+MZ/LUN/84B10/2020/51
+Mizoram
+Lunglei
+Chawngte P to Ruallalung road slide 3 Chawngte P to Ruallalung road
+22.64
+92.66
+Debris
+Slide
+NA
+20980
+MZ/LUN/84B10/2020/53
+Mizoram
+Lunglei
+Raillalung slide 5
+Outside Ruallalung vilage
+22.64
+92.67
+Debris
+Slide
+NA
+20981
+MZ/LAW/84B10/2020/29
+Mizoram
+Lawngtlai
+Saizawh W to Ngharum road slide 2
+Saizawh W to Ngharum road
+22.65
+92.61
+Debris
+Slide
+2019
+20982
+MZ/LUN/84B10/2020/50
+Mizoram
+Lunglei
+Raillalung slide 3
+Outside Ruallalung
+22.65
+92.65
+Debris
+Slide
+NA
+20983
+MZ/LUN/84B10/2020/52
+Mizoram
+Lunglei
+Raillalung slide 4
+Outside Ruallalung vilage
+22.65
+92.66
+Debris
+Slide
+NA
+20984
+MZ/LUN/84B10/2020/54
+Mizoram
+Lunglei
+Ngiautlang village slide 1
+outside Ngiautlang village
+22.65
+92.67
+Rock
+Slide
+NA
+20985
+MZ/LUN/84B10/2020/55
+Mizoram
+Lunglei
+Ngiautlang village slide 2
+Outside Ngiautlang village
+22.65
+92.67
+Rock
+Slide
+NA
+20986
+MZ/LUN/84B10/2020/56
+Mizoram
+Lunglei
+Chawngte P to Ruallalung road slide 4 Chawngte P to Ruallalung road
+22.65
+92.67
+Debris
+Slide
+2018
+20987
+MZ/LUN/84B10/2020/79
+Mizoram
+Lunglei
+Zehtet to Mautlang road slide 2
+Zehtet to Mautlang road
+22.65
+92.71
+Debris
+Slide
+2019
+20988
+MZ/LUN/84B10/2020/80
+Mizoram
+Lunglei
+Zehtet to Mautlang road slide 3
+Zehtet to Mautlang road
+22.65
+92.71
+Debris
+Slide
+2019
+20989
+MZ/LUN/84B10/2020/81
+Mizoram
+Lunglei
+Zehtet to Mautlang road slide 4
+Zehtet to Mautlang road
+22.65
+92.71
+Debris
+Slide
+2019
+20990
+MZ/LUN/84B14/2018/52
+Mizoram
+Lunglei
+ 
+Southwest of Thlengang
+22.654861
+92.894722
+Rock
+Fall
+NA
+20991
+MZ/LUN/84B14/2018/53 
+Mizoram
+Lunglei
+ 
+Southwest of Thlengang
+22.656334
+92.874725
+Rock
+Fall
+NA
+20992
+MZ/LUNG/84B14/2018/23
+Mizoram
+Lunglei
+ 
+NH 54 4 km south of S. Tawipui 
+22.66
+92.855003
+Debris
+Slide
+NA
+20993
+MZ/LUN/84B10/2020/57
+Mizoram
+Lunglei
+Chawngte P to Ruallalung road slide 5 Chawngte P to Ruallalung road
+22.66
+92.67
+Debris
+Slide
+2018
+20994
+MZ/LUN/84B10/2020/58
+Mizoram
+Lunglei
+Chawngte P to Ruallalung road slide 6 Chawngte P to Ruallalung road
+22.66
+92.67
+Debris
+Slide
+NA
+20995
+MZ/LUN/84B10/2020/59
+Mizoram
+Lunglei
+Chawngte P to Ruallalung road slide 7 Chawngte P to Ruallalung road
+22.66
+92.67
+Debris
+Slide
+NA
+20996
+MZ/LUN/84B10/2020/73
+Mizoram
+Lunglei
+Lungrang S slide 1
+Outside Lungrang S
+22.66
+92.65
+Rock
+Slide
+NA
+20997
+MZ/LUN/84B10/2020/74
+Mizoram
+Lunglei
+Lungrang S slide 2
+Outside Lungrang S
+22.66
+92.65
+Rock
+Slide
+NA
+20998
+MZ/LUN/84B10/2020/78
+Mizoram
+Lunglei
+Zehtet to Mautlang road slide 1
+Zehtet to Mautlang road
+22.66
+92.71
+Debris
+Flow
+2019
+20999
+MZ/LAW/84B10/2020/40
+Mizoram
+Lawngtlai
+Silsury to Chhotapansury slide
+Silsury to Chhotapansury road
+22.67
+92.56
+Rock
+Slide
+NA
+21000
+MZ/LUN/84B10/2020/60
+Mizoram
+Lunglei
+Ruallalung to S Lungrang road slide 1
+Ruallalung to S Lungrang road
+22.67
+92.68
+Debris
+Slide
+NA
+21001
+MZ/LUN/84B10/2020/75
+Mizoram
+Lunglei
+Ruallalung to Zehtet road slide 1
+Ruallalung to Zehtet road
+22.67
+92.68
+Rock
+Slide
+2019
+21002
+MZ/LUN/84B10/2020/76
+Mizoram
+Lunglei
+Ruallalung to Zehtet road slide 2
+Ruallalung to Zehtet road
+22.67
+92.68
+Rock
+Slide
+2019
+21003
+MZ/LUN/84B10/2020/77
+Mizoram
+Lunglei
+Ruallalung to Zehtet road slide 3
+Ruallalung to Zehtet road
+22.67
+92.69
+Debris
+Slide
+2019
+21004
+MZ/LUN/84B10/2020/82
+Mizoram
+Lunglei
+Zehtet village slide 1
+Outside Zehtet village
+22.67
+92.69
+Debris
+Slide
+NA
+21005
+MZ/LUNG/84B14/2018/24
+Mizoram
+Lunglei
+Leichedut slide 
+S. Tawipui 
+22.673
+92.844002
+Debris
+Slide
+NA
+21006
+MZ/LAW/84B10/2020/30
+Mizoram
+Lawngtlai
+Montola slide 1
+Montola
+22.68
+92.59
+Debris
+Slide
+2019
+21007
+MZ/LAW/84B10/2020/31
+Mizoram
+Lawngtlai
+Montola slide 2
+Montola
+22.68
+92.59
+Debris
+Slide
+NA
+21008
+MZ/LAW/84B10/2020/32
+Mizoram
+Lawngtlai
+Montola slide
+Outside Montola
+22.68
+92.58
+Debris
+Slide
+NA
+21009
+MZ/LAW/84B10/2020/33
+Mizoram
+Lawngtlai
+Montola to Borapansury slide
+Montola to Borapansury road
+22.68
+92.58
+Debris
+Slide
+2019
+21010
+MZ/LAW/84B10/2020/34
+Mizoram
+Lawngtlai
+Ngharum to Buisek road slide
+Ngharum to Buisek road
+22.68
+92.58
+Debris
+Slide
+2019
+21011
+MZ/LAW/84B10/2020/35
+Mizoram
+Lawngtlai
+Montola to Buisek slide
+Montola to Buisek road
+22.68
+92.57
+Debris
+Slide
+2019

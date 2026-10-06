@@ -1,0 +1,378 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21232
+MZ/LUN/84B05/2020/29
+Mizoram
+Lunglei
+North of Tlabung slide 2
+4 km North of Tlabung on 
+PMGSY Tlabung-Diblibagh  road
+22.93
+92.48
+Debris
+Slide
+2018
+21233
+MZ/LUN/84B05/2020/30
+Mizoram
+Lunglei
+North of Tlabung slide 9
+4.2 km North of Tlabung on  
+PMGSY Tlabung - Diblibagh road
+22.93
+92.48
+Debris
+Slide
+2018
+21234
+MZ/LUN/84B05/2020/31
+Mizoram
+Lunglei
+North of Tlabung slide 11
+5 km North of Tlabung on  
+PMGSY Tlabung - Diblibagh road
+22.93
+92.49
+Debris
+Slide
+2018
+21235
+MZ/LUN/84B05/2020/32
+Mizoram
+Lunglei
+Diblibagh village slide 2
+Diblibagh village near the Ferry 
+point of Karnaphuli River
+22.93
+92.5
+Rock
+Slide
+2018
+21236
+MZ/LUN/84B09/2018/31
+Mizoram
+Lunglei
+ 
+Thuampui-Vahne-Lunglei 
+Section
+22.933441
+92.708267
+Debris
+Slide
+NA
+21237
+MZ/LUN/84B13/2018/111
+Mizoram
+Lunglei
+ 
+Chengpui-Rualveng Rd
+22.940655
+92.833038
+Debris
+Slide
+NA
+21238
+MZ/LUN/84B09/2018/30
+Mizoram
+Lunglei
+ 
+Thuampui-Vahne-Lunglei 
+Section
+22.954966
+92.705765
+Rock
+Fall
+NA
+21239
+MZ/LUN/84B13/2018/112
+Mizoram
+Lunglei
+ 
+Chengpui-Rualveng Rd
+22.955112
+92.836403
+Soil
+Slide
+NA
+21240
+MZ/LUN/84B13/2018/113
+Mizoram
+Lunglei
+ 
+Hnathial
+22.957235
+92.929703
+Debris
+Slide
+NA
+21241
+MZ/LUN/84B13/2018/114
+Mizoram
+Lunglei
+ 
+6 Km N of Vanhe
+22.957518
+92.707161
+Debris
+Slide
+NA
+21242
+MZ/LUN/84B09/2018/29
+Mizoram
+Lunglei
+ 
+Thuampui-Vahne-Lunglei 
+Section
+22.959173
+92.708145
+Debris
+Slide
+NA
+21243
+MZ/LUN/84B13/2018/115
+Mizoram
+Lunglei
+ 
+3km N of Pukpui
+22.962877
+92.738541
+Debris
+Slide
+NA
+21244
+MZ/LUN/84B13/2018/116
+Mizoram
+Lunglei
+ 
+Chengpui-Rualveng Rd
+22.963112
+92.835556
+Rock
+Fall
+NA
+21245
+MZ/LUN/84B13/2018/117
+Mizoram
+Lunglei
+ 
+N of Pukpui
+22.9634
+92.737465
+Debris
+Slide
+NA
+21246
+MZ/LUN/84B09/2018/20
+Mizoram
+Lunglei
+ 
+4km N of Pukpui
+22.965527
+92.731926
+Debris
+Slide
+NA
+21247
+MZ/LUN/84B09/2018/28
+Mizoram
+Lunglei
+ 
+Thuampui-Lunglei Section (~1.8 
+km from Thuampui)
+22.966381
+92.705399
+Rock
+Slide
+NA
+21248
+MZ/LUN/84B09/2018/21
+Mizoram
+Lunglei
+Hnathial kanan veng Slide
+Hnathial kanan veng
+22.96703
+92.925728
+Debris
+Slide
+NA
+21249
+MZ/LUN/84B13/2018/118
+Mizoram
+Lunglei
+ 
+Hnathial-Tarpho rd
+22.968073
+92.929916
+Debris
+Slide
+NA
+21250
+MZ/LUN/84B09/2018/22
+Mizoram
+Lunglei
+ 
+4km N of Pukpui
+22.969294
+92.729332
+Debris
+Slide
+NA
+21251
+MZ/LUN/84B09/2018/23
+Mizoram
+Lunglei
+ 
+4.5km N of Pukpui
+22.969807
+92.729706
+Rock
+Fall
+NA
+21252
+MZ/LUN/84B09/2018/27
+Mizoram
+Lunglei
+ 
+Thuampui-Lunglei Section (~1.5 
+km S of Thuampui)
+22.97032
+92.70697
+Rock
+Slide
+NA
+21253
+MZ/LUN/84B09/2018/24
+Mizoram
+Lunglei
+ 
+about 5km N of Pukpui alonh 
+Pukpui- Mausem road
+22.970823
+92.729607
+Debris
+Slide
+NA
+21254
+MZ/LUN/84B13/2018/119
+Mizoram
+Lunglei
+ 
+Thuampui village
+22.977497
+92.70578
+Debris
+Slide
+NA
+21255
+MZ/LUN/84B13/2018/120
+Mizoram
+Lunglei
+ 
+about 8km N of Pukpui
+22.979994
+92.726112
+Debris
+Slide
+2018
+21256
+MZ/LUN/84F01/2018/3
+Mizoram
+Lunglei
+ 
+5 km East of Khawri, Hnathial-
+Khawri-Cherlun Road
+22.983683
+93.038437
+Rock
+Slide
+NA
+21257
+MZ/LUN/84B13/2018/121
+Mizoram
+Lunglei
+ 
+Near Tarpho-Aithur Jnctn
+22.986418
+92.999901
+Debris
+Slide
+NA
+21258
+MZ/LUN/84B13/2018/122
+Mizoram
+Lunglei
+ 
+Mausen-Pukpui road
+22.993277
+92.72374
+Debris
+Slide
+NA
+21259
+MZ/LUN/84A16/2018/82
+Mizoram
+Lunglei
+ 
+South of Thiltlang Village (NH 
+54)
+23.001865
+92.923225
+Debris
+Slide
+2018
+21260
+MZ/LUN/84A16/2018/81
+Mizoram
+Lunglei
+ 
+South of Thiltlang Village (NH 
+54)
+23.002401
+92.923904
+Rock
+Slide
+NA
+21261
+MZ/LUN/84A16/2018/61
+Mizoram
+Lunglei
+ 
+Tarpho-Hnathial Section
+23.003361
+92.962914
+Rock
+Fall
+NA
+21262
+MZ/LUN/84A16/2018/60
+Mizoram
+Lunglei
+ 
+Tarpho-Tuichang river-Hnathial 
+Section
+23.003996
+92.963562
+Debris
+Slide
+NA
+21263
+MZ/LUN/84A16/2018/58
+Mizoram
+Lunglei
+ 
+Tarpho-Tuichang river Section
+23.004421
+92.988426
+Rock
+Slide
+2018

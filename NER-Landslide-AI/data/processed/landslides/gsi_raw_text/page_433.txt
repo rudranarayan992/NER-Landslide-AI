@@ -1,0 +1,273 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+17655
+MH/RGD/47F8/2021-22/10
+Maharashtra
+Raigad/Mahad
+Kalbhairav Nagar- Nadgaon
+5 km away from Mahad town 
+towards East
+18.10311111
+73.46205556
+Debris and rock
+Slide
+22 July 2021, 7:00pm
+17656
+MH/RGD/47F08/2021-22/11
+Maharashtra
+Raigad/Mahad
+Chochinde Kond 
+Along SH 70, about 5 km away 
+from Mahad town in SW 
+direction
+18.057
+73.405
+Debris
+Slide
+22 July 2021, 6:00pm
+17657
+MH/RGD/47F12/2021-22/12
+Maharashtra
+Raigad/Mahad
+Bhivghar 
+14 km away from Mahad town 
+in the eastern direction
+18.08033333
+73.51354444
+Debris
+Slide
+22 July 2021
+17658
+MH/RGD/47F12/2021-22/13
+Maharashtra
+Raigad/Mahad
+Dudhancwadi-Pimpalwadi Slide
+26.2 km away from Mahad 
+town in the eastern direction
+18.06133333
+73.58175
+Debris
+Slide
+22 July 2021
+17659
+MH/SAT/47G14/2021/22
+Maharashtra
+Satara
+BONDARWADI
+20km by Thoseghar road from 
+Satara and then taking a 
+bifurcation towards Pangare
+17.62661389
+73.87426111
+Earth
+Slide
+22 July 2021 (around 1.30 pm) 
+17660
+MH/SAT/47G14/2021/23A
+Maharashtra
+Satara
+Sandavali 
+26kmbyThoseghar road 
+towards Pangare-Khadegaon-
+Takawali road.
+17.63980556
+73.83633333
+Earth
+Slide
+2019, 23 July 2021
+17661
+MH/SAT/47G14/2021/23B
+Maharashtra
+Satara
+Sandavali 
+26kmbyThoseghar road 
+towards Pangare-Khadegaon-
+Takawali road.
+17.63913889
+73.83630556
+Earth
+Slide 
+2019, 23 July 2021
+17662
+MH/SAT/47G14/2021/23C
+Maharashtra
+Satara
+Sandavali 
+26kmbyThoseghar road 
+towards Pangare-Khadegaon-
+Takawali road.
+17.63897222
+73.83763889
+Earth
+Slide 
+2019, 23 July 2021
+17663
+MH/Mumbai/47B/13/2022/01
+Maharashtra
+Mumbai
+Malabar Hills Division
+Malabar Hills Division
+18.97605556
+72.8095
+Rock
+Slide
+30 June 2022, 22:30 hrs
+17664
+MH/Ratnagiri/47H/09/2021/01
+A
+Maharashtra
+Pune
+Parule village 
+approx. 16km in east Lanja via. 
+Oni-Paratvali-Pachal village 
+road.
+16.75201944
+73.70001389
+Soil
+Subsidence
+19 to 22th July 2021
+17665
+MH/Ratnagiri/47H/09/2021/01
+B
+Maharashtra
+Pune
+Parule village 
+approx. 16km in east Lanja via. 
+Oni-Paratvali-Pachal village 
+road.
+16.75201944
+73.70001389
+Soil
+Subsidence
+19 to 22th July 2021
+17666
+MH/SAT/47G09/2021-22/43B
+Maharashtra
+Satara/Mahabaleshwar
+Zanzwad
+Mahabaleshwar via Kumbhroshi-
+Zanzwad road
+17.86004444
+73.64313333
+Debris
+Slide
+July 2021, 11:00pm 
+17667
+MH/SAT/47G09/2021-22/43
+Maharashtra
+Satara/Mahabaleshwar
+Zanzwad
+Mahabaleshwar via Kumbhroshi-
+Zanzwad road
+17.86061944
+73.64401944
+Debris
+Slide
+22 July 2021, 11:00pm 
+17668
+MH/SAT/47G09/2021-22/43
+Maharashtra
+Satara/Mahabaleshwar
+Zanzwad
+Mahabaleshwar via Kumbhroshi-
+Zanzwad road
+17.86045
+73.64500556
+Debris
+Slide
+22 July 2021, 11:00pm 
+17669
+MH/SAT/47G09/2021-22/44
+Maharashtra
+Satara/Mahabaleshwar
+Zanzwad
+Mahabaleshwar via Kumbhroshi-
+Zanzwad road
+17.86261111
+73.47880556
+Debris
+Slide
+22 July 2021, 11:00pm 
+17670
+MH/SAT/47G09/2021-22/43
+Maharashtra
+Satara/Mahabaleshwar
+Zanzwad
+Mahabaleshwar via Kumbhroshi-
+Zanzwad road
+17.86452778
+73.64808333
+Debris
+Slide
+22 July 2021, 11:00pm 
+17671
+MH/RAT/47G10/2021/63
+Maharashtra
+Ralnasgiri/Clmiplun
+Pedhe
+6km northwest of Chiplun on 
+Parashurnm ghat road
+17.55269444
+73.49712222
+Debris
+Slide
+July 2021
+17672
+MlH/RAT/47G10/2021/64
+Maharashtra
+Ralnasgiri/Clmiplun
+Tiware 
+17.58794167
+73.668025
+Debris
+Slide with flow 22 July 2021
+17673
+MH/RAT/47G10/2021/65
+Maharashtra
+Ratnagiri/Chiplun
+Tiware
+17.60334444
+73.67849167
+Debris
+Slide
+22 July 2021
+17674
+MH/RAT/47G10/2021/66
+Maharashtra
+Ratnagiri/Chiplun
+Tiware 
+17.60087778
+73.69023333
+Soil
+Subsidense
+2005,2009, 2019, July 2021
+17675
+MH/RAT/47G10/2021/67
+Maharashtra
+Ratnagiri/Chiplun
+Tiware 
+17.5954
+73.69666111
+Debris
+Slide
+2005, July 2021
+17676
+MH/RAT/47G10/2021/68
+Maharashtra
+Ratnagiri/Chiplun
+Tiware
+17.59211389
+73.65144444
+Soil 
+Subsidense
+2005, July 2021

@@ -1,0 +1,429 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11148
+JK/REA/43K15/2021/104
+Jammu & Kashmir (UT)
+Reasi
+Dharmari -6
+Arnas – Mahore road
+33.30697778
+74.84444722
+Rock
+Wedge failure
+2nd week of December 2020
+11149
+JK/REA/43K15/2021/105
+Jammu & Kashmir (UT)
+Reasi
+Dharmari -7
+Arnas – Mahore road
+33.30456111
+74.84445556
+Rock
+Slide
+2nd week of December 2020
+11150
+JK/REA/43K15/2021/106
+Jammu & Kashmir (UT)
+Reasi
+Dharmari -8
+Arnas – Mahore road
+33.30141944
+74.83957222
+Debris
+Slide
+2nd week of December 2020
+11151
+JK/REA/43K15/2021/107
+Jammu & Kashmir (UT)
+Reasi
+Dharmari -9
+Arnas – Mahore road
+33.29606667
+74.842275
+Rock
+Slide
+1st week of January 2021
+11152
+JK/REA/43K15/2021/108
+Jammu & Kashmir (UT)
+Reasi
+Thuru -6
+Arnas – Mahore road
+33.25222222
+74.83620833
+Rock
+Slide
+1st week of February 2021
+11153
+JK/REA/43K16/2021/109
+Jammu & Kashmir (UT)
+Reasi
+Siar Baba
+Reasi-Salal road
+33.11374722
+74.78761667
+Rock
+Fall
+Initiation on 15th July, 2018
+11154
+JK/REA/43K16/2021/110
+Jammu & Kashmir (UT)
+Reasi
+Siar Baba
+Reasi-Salal road
+33.11358611
+74.788325
+Rock
+Wedge failure
+NA
+11155
+JK/REA/43K12/2021/111
+Jammu & Kashmir (UT)
+Reasi
+Dhanwan
+Reasi-Shivkhodi road
+33.0987
+74.71428611
+Debris
+Slide
+1st week of January 2021
+11156
+JK/REA/43K12/2021/112
+Jammu & Kashmir (UT)
+Reasi
+Kothian
+Reasi-Shivkhodi road
+33.089575
+74.66346667
+Debris
+Slide
+1st week of February 2021
+11157
+JK/REA/43K12/2021/113
+Jammu & Kashmir (UT)
+Reasi
+Kothian
+Reasi-Shivkhodi road
+33.089575
+74.66346667
+Debris
+Slide
+1st week of January 2021
+11158
+JK/REA/43K12/2021/114
+Jammu & Kashmir (UT)
+Reasi
+Shivkhodi
+Shivkhodi track
+33.17386944
+74.61928889
+Rock
+Fall
+NA
+11159
+JK/REA/43K12/2021/115
+Jammu & Kashmir (UT)
+Reasi
+Shivkhodi
+Shivkhodi track
+33.17483889
+74.613425
+Rock
+Fall
+NA
+11160
+JK/DOD/43O08/2021/116
+Jammu & Kashmir (UT)
+Doda
+Kukrasu-1
+Doda-Gangalwar road
+33.15180278
+75.49858056
+Debris
+Slide
+1st week of January 2021
+11161
+JK/DOD/43O08/2021/117
+Jammu & Kashmir (UT)
+Doda
+Kukrasu-1
+Doda-Gangalwar road
+33.17104444
+75.46013889
+Debris
+Slide
+1st week of January 2021
+11162
+JK/DOD/43O12/2021/118
+Jammu & Kashmir (UT)
+Doda
+Rahi - 5
+Doda-Gangalwar road
+33.15266944
+75.51644167
+Debris
+Slide
+2nd week of December 2020
+11163
+JK/Udh/43O08/2021/01
+Jammu & Kashmir (UT)
+Udhampur
+Chaneni
+Chaneni - Sudhmahadev road
+33.04530556
+75.28050833
+Debris
+Slide
+NA
+11164
+JK/Udh/43O08/2021/02
+Jammu & Kashmir (UT)
+Udhampur
+Pachot
+Chaneni - Sudhmahadev road
+33.03888889
+75.30773333
+Debris
+Slide
+NA
+11165
+JK/UDH/43O8/2021/03
+Jammu & Kashmir (UT)
+Udhampur
+Sudhmahadev
+Chaneni - Sudhmahadev road
+33.02908889
+75.36333056
+Debris
+Slide
+NA
+11166
+JK/UDH/43O8/2021/04
+Jammu & Kashmir (UT)
+Udhampur
+Rengi
+Chaneni - Sudhmahadev road
+33.03333333
+75.34231389
+Debris
+Slide
+NA
+11167
+JK/UDH/43O8/2021/05
+Jammu & Kashmir (UT)
+Udhampur
+Rengi
+Chaneni - Sudhmahadev road
+33.03530556
+75.33466111
+Debris
+Slide
+NA
+11168
+JK/UDH/43P01/2021/06
+Jammu & Kashmir (UT)
+Udhampur
+Chanunta
+Ramnagar - Bhirnu road
+32.81956944
+75.18891111
+Debris
+Slide
+NA
+11169
+JK/UDH/43P01/2021/07
+Jammu & Kashmir (UT)
+Udhampur
+Chanunta-1
+Ramnagar - Bhirnu road
+32.808925
+75.19183056
+Rock
+Slide
+NA
+11170
+JK/UDH/43P01/2021/08
+Jammu & Kashmir (UT)
+Udhampur
+Kaghote
+Ramnagar - Bhirnu road
+32.80101111
+75.22064167
+Rock
+Slide
+NA
+11171
+JK/UDH/43P05/2021/09
+Jammu & Kashmir (UT)
+Udhampur
+Bhirnu-1
+Ramnagar - Bhirnu road
+32.82605556
+75.32516667
+Debris
+Slide
+NA
+11172
+JK/UDH/43P05/2021/10
+Jammu & Kashmir (UT)
+Udhampur
+Bhirnu-2
+Ramnagar - Bhirnu road
+32.84881389
+75.32702222
+Debris
+Slide
+2021
+11173
+JK/UDH/43P01/2021/11
+Jammu & Kashmir (UT)
+Udhampur
+Dudhar
+Ramnagar - Mansar road
+32.80276389
+75.15320833
+Debris
+Slide
+NA
+11174
+JK/JAM/43L14/2021/12
+Jammu & Kashmir (UT)
+Jammu
+Circular road subsidence
+Circular road Jammu
+32.734316
+74.872952
+Debris (Mainly fill 
+material)
+Subsidence/Slid
+e
+16 August 2020 
+11175
+JK/Udh/43O03/2021/13
+Jammu & Kashmir (UT)
+Udhampur
+Slide on Namol to Dhanti road 
+between RD 3/600 and RD 3/1000
+Panchari
+33.109088
+75.14001
+Rock
+Slide
+2021
+11176
+JK/Ram/43O03/2021/14
+Jammu & Kashmir (UT)
+Ramban
+Rockfall at Makarkot
+National Highway-44
+33.328065
+75.199605
+Rock
+Slide
+2021
+11177
+JK/KIS/43O14/2021/15
+Jammu & Kashmir (UT)
+Kishtwar
+Toe erosion by nala at Honzar
+Honzar
+33.5044
+75.877007
+Debris
+Flow
+July 2021
+11178
+JK/Ana/43N/08 and 
+43N/12/2021/16
+Jammu & Kashmir (UT)
+Kishtwar
+Shri Amarnath Ji Holy Cave
+Baltal - Shri Amarnath Ji Holy 
+Cave trek
+34.215625
+75.50428056
+Debris
+Flow
+July 2021
+11179
+JK/Jam/43L13/2021/17
+Jammu & Kashmir (UT)
+Jammu
+Ban Toll Plaza
+Ban Toll Plaza
+32.839381
+74.940761
+Rock
+Topple
+7 January 2022
+11180
+JK/Udh/43O03/2021/18
+Jammu & Kashmir (UT)
+Udhampur
+Samroli
+Udhampur – Srinagar National 
+Highway - 44
+32.999136
+75.205617
+Rock
+Slide
+2021
+11181
+JK/REA/43O08/2022/01
+Jammu & Kashmir (UT)
+Reasi
+--
+Kanthan-Khanikot road (KRCL 
+project road)
+33.174884
+74.85789
+Rock
+Slide
+NA
+11182
+JK/REA/43O08/2022/02
+Jammu & Kashmir (UT)
+Reasi
+--
+Kanthan-Khanikot road (KRCL 
+project road)
+33.173622
+74.86543
+Debris
+Slide
+NA
+11183
+JK/REA/43O08/2022/03
+Jammu & Kashmir (UT)
+Reasi
+--
+Kanthan-Khanikot road (KRCL 
+project road)
+33.166244
+74.891075
+Debris
+Slide
+NA
+11184
+JK/REA/43O08/2022/04
+Jammu & Kashmir (UT)
+Reasi
+--
+Kanthan-Khanikot road (KRCL 
+project road)
+33.158995
+74.903721
+Debris
+Slide
+NA

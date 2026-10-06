@@ -1,0 +1,374 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14822
+473
+Kerala
+Idukki
+Kattakkala
+Kattakkala - Kurishupara Road
+9.85704
+77.122966
+Debris
+Flow
+09-08-2018
+14823
+474
+Kerala
+Idukki
+Kattakkala
+Kattakkala - Kurishupara Road
+9.858269
+77.121561
+Debris
+Slide
+09-08-2018
+14824
+475
+Kerala
+Idukki
+Chinnapachadi
+Nedumkandam - Chinnar Road
+9.848333
+77.116667
+Debris
+Slide
+16-08-2018
+14825
+476
+Kerala
+Idukki
+Bethel
+Nethaji Nagar - Ponnamala jeep 
+Road
+9.889203
+77.090702
+Debris
+Flow
+18-08-2018
+14826
+477
+Kerala
+Idukki
+Manjapara
+Chinnar - Nedumkandam Road
+9.869548
+77.100131
+Debris
+Slide
+15-08-2018
+14827
+478
+Kerala
+Idukki
+Manjapara
+Manjapara - Chinnar Road
+9.8618
+77.104758
+Debris
+Slide
+15-08-2018
+14828
+479
+Kerala
+Idukki
+Manjapara
+Manjapara - Chinnar Road
+9.864132
+77.109066
+Debris
+Slide
+16-08-2018
+14829
+480
+Kerala
+Idukki
+Pathuvalavu
+Pathuvalavu - Chinnar Road
+9.854962
+77.108269
+Debris
+Slide
+15-08-2018
+14830
+481
+Kerala
+Idukki
+Pathuvalavu
+Pathuvalavu - Chinnar Road
+9.849927
+77.115583
+Debris
+Slide
+15-08-2018
+14831
+482
+Kerala
+Idukki
+Kamakshivilasom
+Manjapettu - Ponnamala Road
+9.866746
+77.128843
+Debris
+Slide
+15-08-2018
+14832
+483
+Kerala
+Idukki
+Ponnamala
+Ponnnamala - Perichamkutty 
+Road
+9.888716
+77.099159
+Debris
+Slide
+15-08-2018
+14833
+484
+Kerala
+Idukki
+Mangamudi
+Nedumkandam - Perichamkutty 
+Road
+9.895908
+77.088074
+Debris
+Slide
+15-08-2018
+14834
+485
+Kerala
+Idukki
+Mangamudi
+Nedumkandam - Perichamkutty 
+Road
+9.896158
+77.087137
+Debris
+Slide
+15-08-2018
+14835
+486
+Kerala
+Idukki
+Mangamudi
+Nedumkandam - Perichamkutty 
+Road
+9.89615
+77.086963
+Debris
+Slide
+15-08-2018
+14836
+487
+Kerala
+Idukki
+Mangamudi
+Nedumkandam - Perichamkutty 
+Road
+9.896287
+77.086736
+Debris
+Slide
+15-08-2018
+14837
+488
+Kerala
+Idukki
+Eettithoppu
+Perichamkutty - Kattappana 
+Road
+9.852933
+77.097437
+Soil
+Slide
+15-08-2018
+14838
+489
+Kerala
+Idukki
+Eettithoppu
+Perichamkutty - Kattappana 
+Road
+9.849827
+77.098365
+Debris
+Slide
+15-08-2018
+14839
+490
+Kerala
+Idukki
+Kawanthy
+Chemblam - Kattapana road
+9.820459
+77.127344
+Debris
+Slide
+15th August 2018
+14840
+491
+Kerala
+Idukki
+Kawanthy
+Anchumukku Kawanthy road
+9.818091
+77.127319
+Debris
+Slide
+15th August 2018
+14841
+492
+Kerala
+Idukki
+Kawanthy
+Kawanthy - Erattayar road
+9.811061
+77.131266
+Soil
+Slide
+15th August 2018
+14842
+493
+Kerala
+Idukki
+Kawanthy
+Kawanthy - Erattayar road
+9.809479
+77.131411
+Debris
+Slide
+15th August 2018
+14843
+494
+Kerala
+Idukki
+Kawanthy
+Chemblam - Kawanthy road
+9.818911
+77.129202
+Debris
+Slide
+15th August 2018
+14844
+495
+Kerala
+Idukki
+Chemblam
+Chemblam - Nedumkandam 
+road
+9.822208
+77.143896
+Debris
+Slide
+15th August 2018
+14845
+496
+Kerala
+Idukki
+Chemblam
+Chemblam - Kumily road
+9.822065
+77.143594
+Debris
+Flow
+15th August 2018
+14846
+497
+Kerala
+Idukki
+Chemblam
+Concrete road
+9.826816
+77.141255
+Debris
+Flow
+15th August 2018
+14847
+498
+Kerala
+Idukki
+Chemblam
+Concrete road
+9.826742
+77.141574
+Debris
+Flow
+17th August 2018
+14848
+499
+Kerala
+Idukki
+Kallar
+Nedumkandam - Kumily road
+9.828943
+77.160772
+Debris
+Slide
+15th August 2018
+14849
+500
+Kerala
+Idukki
+Kailasapuri
+Kalkoonthal - Kailasapuri road
+9.852096
+77.155627
+Debris
+Flow
+16th August 2018
+14850
+501
+Kerala
+Idukki
+Vattapara
+Nedumkandam - Kumily road
+9.807055
+77.150241
+Debris
+Slide
+15th August 2018
+14851
+502
+Kerala
+Idukki
+Vattapara
+Nedumkandam - Kumily road
+9.805846
+77.151282
+Debris
+Slide
+15th August 2018
+14852
+503
+Kerala
+Idukki
+Valiyathovala - Mannamkudi
+Pambadumpara - Valiyathovala 
+road
+9.799008
+77.139263
+Debris
+Slide
+15th August 2018
+14853
+504
+Kerala
+Idukki
+Thovala
+Thovala - Vattapara road
+9.799312
+77.135392
+Debris
+Slide
+15th August 2018

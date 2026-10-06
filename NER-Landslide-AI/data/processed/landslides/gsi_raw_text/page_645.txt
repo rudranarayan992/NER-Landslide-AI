@@ -1,0 +1,412 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+25448
+NA/WOK/83J03/2020/2
+Nagaland
+Wokha
+ 
+Bhandari
+26.29
+94.11
+Rock
+Slide
+2018
+25449
+NA/WOK/83J03/2020/4
+Nagaland
+Wokha
+ 
+N of Bhandari
+26.29
+94.11
+Rock
+Slide
+NA
+25450
+NA/WOK/83J03/2020/5
+Nagaland
+Wokha
+ 
+Bhandari
+26.29
+94.11
+Rock
+Slide
+NA
+25451
+NAG/MOK/83J/7/2016/0002
+Nagaland
+Mokokchung
+ 
+500m from Mangmetong
+26.2905
+94.393222
+Debris
+Slide
+2016
+25452
+NG/TUE/83J15/2017/17
+Nagaland
+Tuensang
+ 
+6 km NE of Naksho Village
+26.293056
+94.839167
+Rock
+Slide
+NA
+25453
+NAG/WOK/83J/7/2016/0095
+Nagaland
+Wokha
+ 
+Lakhuti village
+26.29325
+94.251806
+Rock
+Slide
+2001
+25454
+NG/TUE/83J15/2017/23
+Nagaland
+Tuensang
+ 
+4 km S of Pipan Village.
+26.295278
+94.835556
+Debris
+Slide
+NA
+25455
+NAG/WOK/83J/7/2016/0096
+Nagaland
+Wokha
+ 
+Lakhuti village
+26.299889
+94.249667
+Debris
+Slide
+1994
+25456
+NA/WOK/83J03/2020/1
+Nagaland
+Wokha
+ 
+1km N of Bhandari
+26.3
+94.11
+Rock
+Slide
+NA
+25457
+NA/WOK/83J03/2020/3
+Nagaland
+Wokha
+ 
+Merapani-Wokha rd
+26.3
+94.11
+Rock
+Slide
+NA
+25458
+NG/TUE/83J15/2017/18
+Nagaland
+Tuensang
+ 
+3.2 km NE of Naksho Village
+26.300556
+94.844722
+Debris
+Slide
+NA
+25459
+NAG/MOKH/83J08/2015/ 0108
+Nagaland
+Mokokchung
+ 
+Way to Chare
+26.301639
+94.588361
+Rock
+Fall
+NA
+25460
+NAG/TUEN/83J11/2015/ 0120
+Nagaland
+Tuensang
+ 
+Chare Town
+26.301694
+94.616694
+Rock
+Slide
+NA
+25461
+NAG/MOKH/83J08/2015/ 0094
+Nagaland
+Mokokchung
+ 
+Ungma village,
+26.30175
+94.50675
+Debris
+Slide
+NA
+25462
+NAG/MOKH/83J08/2015/ 0095
+Nagaland
+Mokokchung
+ 
+2 km North of Ungma village
+26.302778
+94.505528
+Rock
+Slide
+NA
+25463
+NAG/TUEN/83J11/2015/ 0121
+Nagaland
+Tuensang
+ 
+Chare Town
+26.303472
+94.617528
+Rock
+Slide
+NA
+25464
+NG/TUE/83J15/2017/38
+Nagaland
+Tuensang
+ 
+3 km SW of Hakchang Village
+26.305833
+94.875833
+Debris
+Slide
+NA
+25465
+NG/TUE/83J15/2017/1
+Nagaland
+Tuensang
+ 
+Hakchang Village, near Sangden 
+Khel
+26.311944
+94.877778
+Debris
+Slide
+NA
+25466
+NAG/MOK/83J/7/2016/0010
+Nagaland
+Mokokchung
+ 
+Between Kinunger-
+Mangmetong
+26.316056
+94.403972
+Debris
+Slide
+NA
+25467
+NG/TUE/83J15/2017/19
+Nagaland
+Tuensang
+ 
+4km NE of Longong Village.
+26.317778
+94.849722
+Debris
+Slide
+NA
+25468
+NAG/MOK/83J/7/2016/0005
+Nagaland
+Mokokchung
+ 
+2.5 km outside Kabza village
+26.318806
+94.453611
+Rock
+Slide
+2015
+25469
+NAG/MOK/83J/7/2016/0009
+Nagaland
+Mokokchung
+ 
+Between Kinunger-
+Mangmetong
+26.320639
+94.398806
+Debris
+Slide
+NA
+25470
+NAG/MOKH/83J08/2015/ 0109
+Nagaland
+Mokokchung
+ 
+NH 61
+26.320806
+94.537972
+Debris
+Slide
+NA
+25471
+NAG/MOKH/83J08/2015/ 0107
+Nagaland
+Mokokchung
+ 
+Way to Chare
+26.320861
+94.559278
+Rock
+Slide
+NA
+25472
+NAG/MOKH/83J08/2015/ 0110
+Nagaland
+Mokokchung
+ 
+Mokokchung Town
+26.325861
+94.52275
+Rock
+Slide
+NA
+25473
+NG/TUE/83J15/2017/2
+Nagaland
+Tuensang
+ 
+Near Cultivated land of 
+Hakchang Village
+26.326111
+94.866111
+Debris
+Slide
+NA
+25474
+NG/TUE/83J15/2017/20
+Nagaland
+Tuensang
+ 
+3km S of Pipan Village.
+26.326389
+94.858056
+Debris
+Slide
+NA
+25475
+NG/TUE/83J15/2017/3
+Nagaland
+Tuensang
+ 
+Sangsangyu Village
+26.326944
+94.896667
+Debris
+Subsidence
+NA
+25476
+NAG/MOKH/83J08/2015/ 0112
+Nagaland
+Mokokchung
+ 
+Kumlong Ward
+26.327167
+94.508056
+Rock
+Slide
+NA
+25477
+NG/MON/83J15/2017/9
+Nagaland
+Mon
+ 
+8 km south of Tobu Village
+26.3275
+94.917222
+Debris
+Slide
+NA
+25478
+NAG/MOKH/83J08/2015/ 0111
+Nagaland
+Mokokchung
+ 
+Near Mokokchung TV Tower
+26.327972
+94.527389
+Rock
+Slide
+NA
+25479
+NAG/WOK/83J/7/2016/0094
+Nagaland
+Wokha
+ 
+Akuk village ground
+26.33
+94.279833
+Debris
+Slide
+2010
+25480
+NG/TUE/83J15/2017/22
+Nagaland
+Tuensang
+ 
+3.5 km S of Pipan Village.
+26.330556
+94.875833
+Debris
+Slide
+NA
+25481
+NAG/WOK/83J/7/2016/0093
+Nagaland
+Wokha
+ 
+Akuk village
+26.331028
+94.279167
+Debris
+Slide
+2003
+25482
+NAG/WOK/83J/7/2016/0092
+Nagaland
+Wokha
+ 
+Akuk village
+26.331333
+94.280389
+Debris
+Slide
+2016
+25483
+NAG/WOK/83J/7/2016/0091
+Nagaland
+Wokha
+ 
+Outside Akuk village
+26.333833
+94.284333
+Rock
+Slide
+NA

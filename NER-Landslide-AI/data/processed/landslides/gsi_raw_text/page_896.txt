@@ -1,0 +1,448 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+35813
+UK/UKH/53J05/2025/06
+Uttarakhand
+Uttarkashi
+ Pali village slide-1
+NH-134
+30.900998
+78.2975857
+Debris
+flow
+29 June 2025,01.45hrs
+35814
+UK/UKH/53J05/2025/07
+Uttarakhand
+Uttarkashi
+ Pali village slide-2
+NH-134
+30.8940423
+78.3019077
+Debris
+Slide
+29 June 2025,01.45hrs
+35815
+UK/UKH/53J05/2025/08
+Uttarakhand
+Uttarkashi
+Pali_NH_Slide-1
+NH-134
+30.8941936
+78.3213772
+Debris
+flow
+29 June 2025, 03.00hrs-05.00hrs 
+35816
+ UK/UKH/53J05/2025/08A
+Uttarakhand
+Uttarkashi
+Pali_NH_Slide-2
+NH-134
+30.8941298
+78.3209811
+Debris
+flow
+29 June 2025, 03.00hrs-05.00hrs 
+35817
+UK/UKH/53J05/2025/09
+Uttarakhand
+Uttarkashi
+Kharadi Slide
+NH-134
+30.844862
+78.2755306
+Debris
+Slide
+June 2025, 14 July 2025, 19 August 
+2025
+35818
+UK/UKH/53J6/2025/10
+Uttarakhand
+Uttarkashi
+Netala
+NH-34
+30.7425
+78.4927
+Rock
+Slide
+29 June 2025 at 01.30hrs-02.30hrs
+35819
+UK/UKH/53J9/2025/11
+Uttarakhand
+Uttarkashi
+Laaldhang
+NH-34
+30.754834
+78.561414
+Debris
+Slide
+29 June 2025 at 01.30-02.30hrs
+35820
+UK/UKH/53J9/2025/12
+Uttarakhand
+Uttarkashi
+Bishanpur
+NH-34
+30.7557
+78.571
+Debris
+flow
+29 June 2025 at 06.00hrs
+35821
+UK/UKH/53J9/2025/13
+Uttarakhand
+Uttarkashi
+Naluna
+NH-34
+30.756171
+78.57631
+Rock
+Slide
+04 August 2025 09.28hrs
+35822
+UK/UKH/53J9/2025/14
+Uttarakhand
+Uttarkashi
+Swari Gad slide
+NH-34
+30.843545
+78.627507
+Debris
+Slide
+04 July 2025 at 05.00hrs
+35823
+UK/UKH/53J9/2025/15
+Uttarakhand
+Uttarkashi
+Son Gad slide
+NH-34
+30.881375
+78.664746
+Rock
+Slide
+NA
+35824
+UK/UKH/53J9/2025/16
+Uttarakhand
+Uttarkashi
+Helgugad slide
+NH-34
+30.8683
+78.6542
+Rock
+Slide
+29 June 2025 at 01.30-02.30hrs
+35825
+UK/UKH/53J9/2025/17
+Uttarakhand
+Uttarkashi
+Athali slide
+NH-34
+30.742292
+78.364053
+Rock
+Slide
+29 June 2025 at 01.00-02.30hrs
+35826
+UK/UKH/53J9/2025/18
+Uttarakhand
+Uttarkashi
+Nalupani-1
+NH-34
+30.6517586
+78.3323707
+Rock
+Slide
+20 August 2025, 10 September 2025 at 
+09.30hrs, 8 Septemeber 2025 at 
+14.45hrs
+35827
+UK/UKH/53J9/2025/19
+Uttarakhand
+Uttarkashi
+Nalupani-1A
+NH-34
+30.658561
+78.336291
+Rock
+Slide
+04August 2025at 11.20hrs
+35828
+UK/CHML/53N7/2025/01
+Uttarakhand
+Chamoli
+Bhanerpani (Gundala)
+NH-07
+30.4525
+79.428611
+Rock
+Slide
+NA
+35829
+UK/CHML/53N7/2025/02
+Uttarakhand
+Chamoli
+Mason-2 (new Slide a Pursati)
+NH-7 Pursadi
+30.342593
+79.319116
+Rock
+Slide
+03 September 2025 at 06.00 hrs, 06 
+September 2025 and 18 September 
+2025 at 06.00 hrs
+35830
+UK/CHML/53N7/2025/04
+Uttarakhand
+Chamoli
+Mason-1
+Mason / NH-7
+30.336652
+79.319623
+Rock
+Slide
+06 September 2025 at 06.00 hrs, 18 
+September 2025 at 05.00-06.00hrs
+35831
+UK/CHML/53N3/2025/05
+Uttarakhand
+Chamoli
+Subhas Nagar Slide - 1
+Karnaprayag Main Market Road 30.258318
+79.217921
+Debris
+Slide
+15 August 2025 at 06.30-07.00hrs
+35832
+UK/CHML/53N3/2025/06
+Uttarakhand
+Chamoli
+Subhas Nagar Slide - 2
+Karanprayag Main Market Road 30.258675
+79.222849
+Debris
+Slide
+15 August 2025 at 06.41hrs
+35833
+UK/CHML/53N8/2025/07
+Uttarakhand
+Chamoli (Tharali)
+Meeng Slide -1
+109K & Narayan bapar
+30.117244
+79.405555
+Debris
+Slide
+23 August 2025 at 04.30-05.30hrs
+35834
+UK/CHML/53N8/2025/08
+Uttarakhand
+Chamoli (Tharali)
+Meeng Slide -2
+109K, NH, Meeng N.B.
+30.1170879
+79.4067912
+Debris
+Slide
+23 August 2025 at 05.00hrs
+35835
+UK/CHML/53N8/2025/09
+Uttarakhand
+Chamoli (Tharali)
+Harmak 
+109K, NH, Harmak
+30.109722
+79.429167
+Rock + Debris 
+(Complex)
+Slide
+04 July 2025 at 07.45 hrs
+35836
+UK/CHML/53N8/2025/10
+Uttarakhand
+Chamoli (Tharali)
+Kulsari-1
+109K & Kulsari
+30.085642
+79.470643
+Rock
+Rock fall+ Rock 
+Slide
+23 August 2025 at 05.00hrs
+35837
+UK/CHML/53N8/2025/11
+Uttarakhand
+Chamoli (Tharali)
+Kulsari-2
+109K & Kulsari
+30.085511
+79.469678
+Debris
+Slide
+23 August 2025 at 05.00hrs
+35838
+UK/CHML/53N8/2025/12
+Uttarakhand
+Chamoli
+Kulsari-3
+109K NH Kulsari
+30.087139
+79.473153
+Debris
+Slide
+23 August 2025 at 05.00hrs
+35839
+UK/CHML/53N8/2025/13
+Uttarakhand
+Chamoli
+Kulsari-4
+109K NH Kulsari
+30.087446
+79.473568
+Debris
+Slide
+23 August 2025 at 01.30 hrs
+35840
+UK/CHML/53N3/2025/14
+Uttarakhand
+Chamoli
+Gauchar 4 
+Rajkiya Polytechnic, Gauchar
+30.287201
+79.150027
+Debris
+Slide
+31 August 2025 at 11.00hrs
+35841
+UK/TG/53J8/2025/1A
+Uttarakhand
+Tehri Garhwal
+Timla Pani-1A - Road
+NH-7 (old 58); Timli Pani
+30.12292
+78.381461
+Rock
+Slide
+14 July 2025
+35842
+UK/TG/53J8/2025/1
+Uttarakhand
+Tehri Garhwal
+Timla Pani - 1
+NH-7, Timli Pani
+30.122412
+78.379989
+Rock
+Falls, Slide
+14 July 2025 at 11.30 hrs
+35843
+UK/TG/53J8/2025/2
+Uttarakhand
+Tehri Garhwal
+Shivpuri - Bridge
+NH-08 (old 58)
+30.136504
+78.389354
+Rock
+Slide
+23 July 2025 at 1600 hrs - 1630 hrs
+35844
+UK/TG/53J8/2025/3
+Uttarakhand
+Tehri Garhwal
+Shivpuri - Range
+NH-7
+30.123441
+78.422545
+Rock
+Slide
+24 August 2025 at 1800 hrs
+35845
+UK/TG/53J8/2025/4
+Uttarakhand
+Tehri Garhwal
+Dabar Debris flow
+NH-7 
+30.076641
+78.497295
+Debris
+Flows
+06 August 2025 at 08.00hrs
+35846
+UK/TG/53J12/2025/05
+Uttarakhand
+Tehri Garhwal
+Sakani Dhar
+NH-7
+30.058541
+78.509662
+Rock
+Slide
+06 August 2025 at 07.00hrs
+35847
+UK/TG/53J8/2025/06
+Uttarakhand
+Tehri Garhwal (NN)
+Jonk-1
+NH 58/NH-7; Jonk
+30.1358437
+78.3319908
+Rock
+Slide
+06 August 2025 at05.30hrs
+35848
+UK/TG/53J8/2025/07
+Uttarakhand
+Tehri Garhwal (NN)
+Jonk-1A
+NH-7, Jonk
+30.132183
+78.347401
+Rock
+Slide
+06 August 2025 at 07.00hrs
+35849
+UK/TG/53J8/2025/08
+Uttarakhand
+Tehri Garhwal
+Patha
+NH-74 Dhunargaon - Patha
+30.124203
+78.361576
+Debris
+Slide
+04 August at 10.30 hrs and 06 August 
+2025 at 07.00 hrs
+35850
+UK/TG/53J8/2025/09
+Uttarakhand
+Tehri Garhwal
+Dunar gaon
+Dhunar gaon & NH-7
+30.1185406
+78.3736998
+Rock
+Slide
+06 August 2025 at 06.45 hrs
+35851
+UK/TG/53J8/2025/10
+Uttarakhand
+Tehri Garhwal
+Atali - 1
+NH-07 Atali
+30.082
+78.4361
+Rock, Debris
+Slide
+13 June 2025at 13.00hrs

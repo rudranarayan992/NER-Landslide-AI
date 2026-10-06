@@ -1,0 +1,476 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+32421
+UK/PITH/62C05/2013/0030
+Uttarakhand
+Pithoragarh
+UK/Pith/ Munsyari-Jauljibi/LS/0030
+State Highway
+29.965
+80.31389
+Rock cum Debris
+Fall and Flow
+16th-17th June 2013
+32422
+UK/PAU/53K09/2016/107
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.965238
+78.701667
+Debris
+Flow
+NA
+32423
+UK/PAU/53K09/2016/133
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.965329
+78.484794
+Rock
+Slide
+NA
+32424
+UK/BAG/62C01/2015/439
+Uttarakhand
+Bageshwar
+ 
+ 
+29.965331
+80.097331
+Rock
+Fall
+NA
+32425
+UK/BAG/53O13/2013/0016
+Uttarakhand
+Bageshwar
+UK_BAG_SH-40_ 16
+1.5 km NE of Malladesh village
+29.965389
+79.959111
+Rock cum Debris
+Slide
+16th-17th June 2013
+32426
+UK/PAU/53K09/2016/3
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.965503
+78.42499
+Debris
+Slide
+NA
+32427
+UK/ALM/53O05/2017/40
+Uttarakhand
+Almora
+ 
+NH87
+29.965785
+79.33716
+Rock
+Slide
+2012
+32428
+UK/PAU/53K13/2016/19
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.96596
+78.766746
+Debris
+Slide
+NA
+32429
+UK/HAR/53K1/2016/1
+Uttarakhand
+Haridwar
+Rampur Rao
+ 
+29.967332
+78.107284
+Debris
+Slide
+NA
+32430
+UK/PAU/53K13/2016/18
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.967398
+78.770836
+Debris
+Slide
+NA
+32431
+UK/ALM/53O05/2017/26
+Uttarakhand
+Almora
+ 
+Road to Bungidhar
+29.967675
+79.173695
+Rock
+Slide
+2012
+32432
+UK/PAU/53K09/2016/70
+Uttarakhand
+Pauri Garhwal
+Baloni
+ 
+29.967812
+78.594752
+Rock
+Fall
+NA
+32433
+UK/CHA/53O01/2017/129
+Uttarakhand
+Chamoli
+ 
+NH121
+29.968277
+79.248718
+Rock
+Slide
+2014
+32434
+UK/PAU/53O01/2017/54
+Uttarakhand
+Pauri Garhwal
+ 
+ThaplaPitarsainBhandeli road
+29.968646
+79.064118
+Rock
+Slide
+2011
+32435
+UK/PAU/53K05/2016/15
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.968777
+78.436285
+Rock
+Fall
+NA
+32436
+UK/PAU/53O01/2017/55
+Uttarakhand
+Pauri Garhwal
+ 
+ThaplaPitarsainBhandeli road
+29.968868
+79.06464
+Rock
+Flow
+2011
+32437
+UK/CHA/53O01/2017/134
+Uttarakhand
+Chamoli
+ 
+NH121
+29.968913
+79.227986
+Debris
+Flow
+2016
+32438
+UK/PAU/53K05/2016/25
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.968979
+78.491882
+Debris
+Slide
+NA
+32439
+UK/BAG/53O13/2015/324
+Uttarakhand
+Bageshwar
+ 
+ 
+29.969115
+79.782527
+Rock cum Debris
+Slide
+NA
+32440
+UK/ALM/53O05/2017/27
+Uttarakhand
+Almora
+ 
+Road to Bungidhar
+29.969243
+79.173881
+Rock
+Slide
+2012
+32441
+UK/ALM/53O05/2017/22
+Uttarakhand
+Almora
+ 
+Khor
+29.969425
+79.200408
+Debris
+Slide
+2005
+32442
+UK/CHA/53O01/2017/130
+Uttarakhand
+Chamoli
+ 
+NH121
+29.969474
+79.235886
+Debris
+Slide
+2016
+32443
+UK/PITH/62C05/2013/0029
+Uttarakhand
+Pithoragarh
+UK/Pith/ Munsiyari-
+Jauljibi/Vil/BE/0029
+Village Umargarh
+29.96972
+80.31222
+Earth
+Slide
+16th-17th June 2013
+32444
+UK/PAU/53O01/2017/56
+Uttarakhand
+Pauri Garhwal
+ 
+ThaplaPitarsainBhandeli road
+29.969721
+79.066434
+Rock
+Slide
+2011
+32445
+UK/BAG/53O09/2018/29
+Uttarakhand
+Bageshwar
+Gum
+Gum-Bageshwar
+29.969936
+79.703896
+Rock cum debris
+Slide
+2018
+32446
+UK/PIT/62C09/2020/4
+Uttarakhand
+Pithoragarh
+ 
+Tawa Ghat-Narayan ashram
+29.97
+80.6
+Debris
+Slide
+2018
+32447
+UK/PIT/62C09/2020/16
+Uttarakhand
+Pithoragarh
+ 
+Tawa Ghat-Narayan ashram
+29.97
+80.6
+Debris
+Slide
+2014
+32448
+UK/PIT/62C09/2020/18
+Uttarakhand
+Pithoragarh
+ 
+Dahrchula-Mangti
+29.97
+80.68
+Rock
+Slide
+2018
+32449
+UK/PIT/62C09/2020/22
+Uttarakhand
+Pithoragarh
+ 
+Tawa Ghat-Narayan ashram
+29.97
+80.6
+Debris
+Slide
+2014
+32450
+UK/PIT/62C09/2020/24
+Uttarakhand
+Pithoragarh
+ 
+Tawa Ghat-Narayan ashram
+29.97
+80.6
+Debris
+Slide
+2014
+32451
+UK/BAG/53O13/2013/0039
+Uttarakhand
+Bageshwar
+UK_BAG_SH-11_39
+Opposite of Chirabagad, Part of 
+Bharari on Kapkot-Bharari Road
+29.970083
+79.90775
+Debris
+Flow
+16th-17th June 2013
+32452
+UK/BAG/62C01/2015/438
+Uttarakhand
+Bageshwar
+ 
+ 
+29.970114
+80.091267
+Rock
+Fall
+NA
+32453
+UK/CHA/53O01/2017/131
+Uttarakhand
+Chamoli
+ 
+NH121
+29.970201
+79.232356
+Debris
+Slide
+2016
+32454
+UK/CHA/53O01/2017/133
+Uttarakhand
+Chamoli
+ 
+NH121
+29.970268
+79.23115
+Rock
+Slide
+2016
+32455
+UK/CHA/53O01/2017/132
+Uttarakhand
+Chamoli
+ 
+NH121
+29.970355
+79.232044
+Debris
+Flow
+2016
+32456
+UK/ALM/53O05/2017/39
+Uttarakhand
+Almora
+ 
+NH87
+29.970365
+79.333957
+Rock cum debris
+Slide
+2014
+32457
+UK/PAU/53K05/2016/12
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.970599
+78.469892
+Debris
+Slide
+NA
+32458
+UK/PIT/62C01/2015/435
+Uttarakhand
+Pithoragarh
+ 
+ 
+29.970662
+80.101307
+Rock
+Fall
+NA
+32459
+UK/BAG/62C01/2015/437
+Uttarakhand
+Bageshwar
+ 
+ 
+29.970922
+80.090447
+Rock
+Fall
+NA
+32460
+UK/PAU/53O01/2017/52
+Uttarakhand
+Pauri Garhwal
+ 
+ThaplaPitarsainBhandeli road
+29.97143
+79.068181
+Rock
+Slide
+2012
+32461
+UK/PAU/53K13/2016/113
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.971675
+78.7505
+Rock
+Slide
+NA
+32462
+UK/PAU/53O01/2017/53
+Uttarakhand
+Pauri Garhwal
+ 
+ThaplaPitarsainBhandeli road
+29.97242
+79.06727
+Rock
+Slide
+2011

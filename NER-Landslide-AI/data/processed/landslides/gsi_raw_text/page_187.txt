@@ -1,0 +1,521 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+8001
+HP/CHA/52D02/2020/20
+Himachal Pradesh
+Chamba
+ 
+Bandri,NH-154A
+32.51
+76.18
+Debris
+Slide
+NA
+8002
+HP/CHA/43P14/2017/40
+Himachal Pradesh
+Chamba
+ 
+ 
+32.511499
+75.924982
+Debris
+Slide
+NA
+8003
+HP/CHA/52D02/2020/17
+Himachal Pradesh
+Chamba
+ 
+South of Karian Village
+32.52
+76.15
+Debris
+Slide
+NA
+8004
+HP/CHA/52D02/2020/19
+Himachal Pradesh
+Chamba
+ 
+south of Karian Village,NH-154A 32.52
+76.15
+Debris
+Slide
+NA
+8005
+HP/CHA/52D02/2020/125
+Himachal Pradesh
+Chamba
+ 
+Get,SH-43
+32.52
+76.07
+Debris
+Slide
+NA
+8006
+HP/CHA/52D02/2020/135
+Himachal Pradesh
+Chamba
+ 
+Rakhila
+32.52
+76.06
+Rock
+Slide
+NA
+8007
+HP/CHA/43P14/2017/17
+Himachal Pradesh
+Chamba
+ 
+ 
+32.521658
+75.927372
+Debris
+Slide
+NA
+8008
+HP/CHA/43P14/2017/36
+Himachal Pradesh
+Chamba
+ 
+ 
+32.524066
+75.928682
+Debris
+Slide
+NA
+8009
+HP/CHA/43P14/2017/28
+Himachal Pradesh
+Chamba
+ 
+ 
+32.524745
+75.971756
+Rock
+Slide
+NA
+8010
+HP/CHA/52D02/2020/16
+Himachal Pradesh
+Chamba
+ 
+Karian,NH-154A
+32.53
+76.15
+Rock
+Slide
+NA
+8011
+HP/CHA/52D02/2020/27
+Himachal Pradesh
+Chamba
+ 
+Karian
+32.53
+76.14
+Debris
+Slide
+NA
+8012
+HP/CHA/52D02/2020/92
+Himachal Pradesh
+Chamba
+ 
+North of Get
+32.53
+76.08
+Rock
+Slide
+NA
+8013
+HP/CHA/52D02/2020/99
+Himachal Pradesh
+Chamba
+ 
+Get
+32.53
+76.07
+Rock
+Slide
+NA
+8014
+HP/CHA/52D02/2020/102
+Himachal Pradesh
+Chamba
+ 
+Kuphara P.F
+32.53
+76.13
+Debris
+Slide
+NA
+8015
+HP/CHA/52D02/2020/106
+Himachal Pradesh
+Chamba
+ 
+Karian
+32.53
+76.14
+Debris
+Slide
+NA
+8016
+HP/CHA/52D02/2020/103
+Himachal Pradesh
+Chamba
+ 
+Hather,SH-43
+32.54
+76.12
+Rock
+Slide
+NA
+8017
+HP/CHA/52D02/2020/114
+Himachal Pradesh
+Chamba
+ 
+Kol,SH-43
+32.54
+76.11
+Rock
+Slide
+NA
+8018
+HP/CHA/52D02/2020/43
+Himachal Pradesh
+Chamba
+ 
+west of Ludu
+32.55
+76.14
+Debris
+Slide
+NA
+8019
+HP/CHA/52D02/2020/44
+Himachal Pradesh
+Chamba
+Mangla slide
+Near Mangla Nala,Chamba-
+Khajjiar road
+32.55
+76.11
+Debris
+Slide
+NA
+8020
+HP/CHA/52D02/2020/66
+Himachal Pradesh
+Chamba
+Chamba bus stand subsidence
+Chamba Bus Stand,NH 154A
+32.55
+76.12
+Debris
+Subsidence
+2019
+8021
+HP/CHA/52D02/2020/75
+Himachal Pradesh
+Chamba
+ 
+ludu
+32.55
+76.14
+Debris
+Slide
+NA
+8022
+HP/CHA/52D02/2020/76
+Himachal Pradesh
+Chamba
+ 
+south of Chakhla
+32.55
+76.15
+Debris
+Slide
+NA
+8023
+HP/CHA/52D02/2020/108
+Himachal Pradesh
+Chamba
+Chamba bridge subsidence
+Near Chamba Bus 
+Stand,NH154A
+32.55
+76.12
+Debris
+Slide
+2018
+8024
+HP/CHA/52D06/2020/27
+Himachal Pradesh
+Chamba
+ 
+Left bank of Kiri nala
+32.55
+76.25
+Rock
+Slide
+NA
+8025
+HP/CHA/52D02/2020/42
+Himachal Pradesh
+Chamba
+ 
+ 
+32.56
+76.14
+Debris
+Slide
+NA
+8026
+HP/CHA/52D02/2020/78
+Himachal Pradesh
+Chamba
+ 
+Chamba, Near suspension 
+bridge, Saho Nala road
+32.56
+76.12
+Rock
+Slide
+2008
+8027
+HP/CHA/52D06/2020/2
+Himachal Pradesh
+Chamba
+ 
+Neari Kiri village
+32.56
+76.26
+Rock
+Slide
+NA
+8028
+HP/CHA/52D06/2020/34
+Himachal Pradesh
+Chamba
+ 
+Near Kiri village
+32.56
+76.26
+Rock
+Slide
+NA
+8029
+HP/CHA/43P14/2017/57
+Himachal Pradesh
+Chamba
+ 
+ 
+32.563291
+75.894672
+Rock
+Slide
+NA
+8030
+HP/CHA/43P14/2017/8
+Himachal Pradesh
+Chamba
+ 
+ 
+32.565425
+75.891553
+Rock
+Slide
+NA
+8031
+HP/CHA/43P14/2017/5
+Himachal Pradesh
+Chamba
+ 
+ 
+32.568546
+75.98333
+Rock
+Slide
+NA
+8032
+HP/CHA/52D02/2020/45
+Himachal Pradesh
+Chamba
+ 
+Badhala
+32.57
+76.07
+Debris
+Slide
+NA
+8033
+HP/CHA/52D02/2020/51
+Himachal Pradesh
+Chamba
+ 
+Pangoda
+32.57
+76.07
+Debris
+Slide
+NA
+8034
+HP/CHA/52D02/2020/52
+Himachal Pradesh
+Chamba
+ 
+Pangoda
+32.57
+76.07
+Debris
+Slide
+NA
+8035
+HP/CHA/52D02/2020/81
+Himachal Pradesh
+Chamba
+ 
+Ludrera
+32.57
+76.14
+Rock
+Slide
+NA
+8036
+HP/CHA/52D02/2020/117
+Himachal Pradesh
+Chamba
+Rathangarh slide
+Rathangarh, Sultanpur,Sarol 
+road, SH-33
+32.57
+76.12
+Debris
+Slide
+2013
+8037
+HP/CHA/52D06/2020/25
+Himachal Pradesh
+Chamba
+ 
+Left bank of Kiri Nala
+32.57
+76.25
+Rock
+Slide
+NA
+8038
+HP/CHA/43P14/2017/47
+Himachal Pradesh
+Chamba
+ 
+ 
+32.578181
+75.90204
+Rock
+Slide
+NA
+8039
+HP/CHA/43P14/2017/42
+Himachal Pradesh
+Chamba
+ 
+ 
+32.578919
+75.939933
+Debris
+Slide
+NA
+8040
+HP/CHA/43P14/2017/14
+Himachal Pradesh
+Chamba
+ 
+ 
+32.579417
+75.938467
+Debris
+Slide
+NA
+8041
+HP/CHA/43P14/2017/29
+Himachal Pradesh
+Chamba
+ 
+ 
+32.579572
+75.90054
+Rock
+Slide
+NA
+8042
+HP/CHA/43P14/2017/11
+Himachal Pradesh
+Chamba
+ 
+ 
+32.579987
+75.901499
+Rock
+Slide
+NA
+8043
+HP/CHA/52D02/2020/36
+Himachal Pradesh
+Chamba
+ 
+Tara,NH-154A
+32.58
+76.1
+Debris
+Slide
+NA
+8044
+HP/CHA/52D02/2020/37
+Himachal Pradesh
+Chamba
+ 
+Near Chambi Village,NH-154A
+32.58
+76.11
+Debris
+Slide
+NA
+8045
+HP/CHA/52D02/2020/38
+Himachal Pradesh
+Chamba
+Chambi slide
+Chambi,NH-154A
+32.58
+76.11
+Rock
+Slide
+1990
+8046
+HP/CHA/52D02/2020/39
+Himachal Pradesh
+Chamba
+Chambi subsidence
+Chambi,NH 154A
+32.58
+76.11
+Debris
+Slide
+2016

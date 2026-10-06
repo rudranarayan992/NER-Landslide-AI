@@ -1,0 +1,529 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+7607
+HP/KAN/43P15/2020/85
+Himachal Pradesh
+Kangra
+ 
+Baduni
+32.4
+75.95
+Debris
+Slide
+NA
+7608
+HP/KAN/43P15/2020/94
+Himachal Pradesh
+Kangra
+Near  Phina Singh Dam
+SH-28
+32.4
+75.99
+Debris
+Slide
+2018
+7609
+HP/CHA/52D07/2020/20
+Himachal Pradesh
+Chamba
+ 
+Right bank of ravi river
+32.4
+76.5
+Rock
+Slide
+NA
+7610
+HP/LSP/52H15/2018/6
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Near Pangmo
+32.40112
+77.95536
+Debris
+Slide
+NA
+7611
+HP/LSP/52H15/2018/5
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Near Pangmo
+32.40271
+77.94982
+Debris
+Slide
+NA
+7612
+HP/LSP/52H15/2018/4
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Near Pangmo
+32.40369
+77.9499
+Debris
+Slide
+NA
+7613
+HP/LAH/52H03/2015/26
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Rohtang
+32.4038
+77.2521
+Rock
+Topple
+NA
+7614
+HP/LAH/52H03/2015/34
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Kulti
+32.404
+77.2405
+Debris
+Slide
+NA
+7615
+HP/LAH/52H03/2015/27
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Rohtang
+32.405
+77.2508
+Debris
+Slide
+NA
+7616
+HP/LSP/52H15/2018/3
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Near Pangmo
+32.40688
+77.94839
+Debris
+Slide
+NA
+7617
+HP/CHA/43P15/2020/4
+Himachal Pradesh
+Chamba
+Ghatasani pul
+Ghatasani pul
+32.41
+75.97
+Debris
+Slide
+2010
+7618
+HP/CHA/43P15/2020/5
+Himachal Pradesh
+Chamba
+Kalidhar
+Lahru-Chowari link road
+32.41
+75.99
+Debris
+Slide
+2000
+7619
+HP/CHA/43P15/2020/10
+Himachal Pradesh
+Chamba
+ 
+ Chinian
+32.41
+75.97
+Debris
+Slide
+2015
+7620
+HP/CHA/43P15/2020/16
+Himachal Pradesh
+Chamba
+ 
+Barala, Lahru road
+32.41
+75.96
+Debris
+Slide
+2015
+7621
+HP/CHA/43P15/2020/31
+Himachal Pradesh
+Chamba
+Kalidhar
+Kalidhar
+32.41
+75.99
+Debris
+Slide
+NA
+7622
+HP/CHA/43P15/2020/42
+Himachal Pradesh
+Chamba
+ 
+Barala, Lahru road
+32.41
+75.96
+Debris
+Slide
+2015
+7623
+HP/CHA/43P15/2020/43
+Himachal Pradesh
+Chamba
+ 
+Barala, Lahru road
+32.41
+75.96
+Rock
+Slide
+2015
+7624
+HP/CHA/43P15/2020/45
+Himachal Pradesh
+Chamba
+ 
+Barala, Lahru road
+32.41
+75.96
+Debris
+Slide
+2018
+7625
+HP/CHA/43P15/2020/50
+Himachal Pradesh
+Chamba
+ 
+Kalidhar
+32.41
+75.99
+Debris
+Slide
+2010
+7626
+HP/CHA/43P15/2020/51
+Himachal Pradesh
+Chamba
+Kalidhar
+Kalidhar
+32.41
+75.98
+Debris
+Slide
+NA
+7627
+HP/CHA/43P15/2020/52
+Himachal Pradesh
+Chamba
+ 
+Lahru Chowk
+32.41
+75.98
+Debris
+Slide
+NA
+7628
+HP/CHA/43P15/2020/70
+Himachal Pradesh
+Chamba
+Near Phina Singh Canal
+ 
+32.41
+75.99
+Rock
+Fall
+NA
+7629
+HP/CHA/43P15/2020/71
+Himachal Pradesh
+Chamba
+Near Phina Singh Canal
+ 
+32.41
+75.99
+Rock
+Fall
+NA
+7630
+HP/CHA/52D07/2020/4
+Himachal Pradesh
+Chamba
+ 
+Left bank of ravi river
+32.41
+76.49
+Rock
+Fall
+NA
+7631
+HP/CHA/52D07/2020/79
+Himachal Pradesh
+Chamba
+ 
+Right bank of Balyani Nala
+32.41
+76.29
+Rock
+Slide
+NA
+7632
+HP/CHA/52D11/2020/29
+Himachal Pradesh
+Chamba
+ 
+Manimahesh Trekking Route
+32.41
+76.62
+Debris
+Slide
+NA
+7633
+HP/CHA/52D11/2020/30
+Himachal Pradesh
+Chamba
+ 
+Manimahesh Trekking Route
+32.41
+76.63
+Debris
+Slide
+NA
+7634
+HP/CHA/52D11/2020/31
+Himachal Pradesh
+Chamba
+ 
+Manimahesh Trekking Route
+32.41
+76.63
+Debris
+Slide
+NA
+7635
+HP/CHA/52D11/2020/32
+Himachal Pradesh
+Chamba
+ 
+Manimahesh Trekking Route
+32.41
+76.64
+Debris
+Slide
+NA
+7636
+HP/LAH/52H03/2015/28
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Kulti
+32.4105
+77.244
+Rock
+Slide
+NA
+7637
+HP/LAH/52H03/2015/29
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Kulti
+32.4127
+77.2472
+Debris
+Slide
+NA
+7638
+HP/LAH/52H03/2015/30
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Kulti
+32.4135
+77.2452
+Debris
+Slide
+NA
+7639
+HP/LAH/52H03/2015/31
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Kulti
+32.414
+77.244
+Debris
+Slide
+NA
+7640
+HP/LAH/52H03/2015/32
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Kulti
+32.4141
+77.2416
+Debris
+Slide
+NA
+7641
+HP/LAH/52H03/2015/2
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Keylong NH21
+32.4144
+77.2358
+Rock
+Slide
+NA
+7642
+HP/LAH/52H03/2015/33
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Kulti
+32.4157
+77.2393
+Rock
+Slide
+NA
+7643
+HP/CHA/43P15/2020/2
+Himachal Pradesh
+Chamba
+Ghatasani pul
+Ghatasani pul
+32.42
+75.97
+Debris
+Slide
+2010
+7644
+HP/CHA/43P15/2020/8
+Himachal Pradesh
+Chamba
+Jatroon
+Lahru-Chowari road
+32.42
+76
+Debris
+Slide
+2018
+7645
+HP/CHA/43P15/2020/15
+Himachal Pradesh
+Chamba
+Jatroon
+Lahru-Chowari road
+32.42
+76
+Debris
+Slide
+NA
+7646
+HP/CHA/43P15/2020/17
+Himachal Pradesh
+Chamba
+Barian bridge
+SH-28
+32.42
+75.97
+Debris
+Slide
+NA
+7647
+HP/CHA/43P15/2020/18
+Himachal Pradesh
+Chamba
+Barian bridge
+SH-28
+32.42
+75.96
+Debris
+Slide
+NA
+7648
+HP/CHA/43P15/2020/19
+Himachal Pradesh
+Chamba
+Barian
+SH-28
+32.42
+75.96
+Debris
+Slide
+NA
+7649
+HP/CHA/43P15/2020/20
+Himachal Pradesh
+Chamba
+Kalidhar
+Lahru-Chowari road
+32.42
+75.99
+Debris
+Slide
+NA
+7650
+HP/CHA/43P15/2020/27
+Himachal Pradesh
+Chamba
+Barian
+ 
+32.42
+75.97
+Debris
+Slide
+2018
+7651
+HP/CHA/43P15/2020/28
+Himachal Pradesh
+Chamba
+Barian
+SH-28
+32.42
+75.97
+Debris
+Slide
+2018
+7652
+HP/CHA/43P15/2020/30
+Himachal Pradesh
+Chamba
+Kalidhar
+Kalidhar
+32.42
+75.99
+Rock
+Slide
+2017
+7653
+HP/CHA/43P15/2020/33
+Himachal Pradesh
+Chamba
+#N/A
+#N/A
+32.42
+75.97
+Rock
+Slide
+NA

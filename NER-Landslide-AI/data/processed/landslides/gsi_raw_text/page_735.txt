@@ -1,0 +1,482 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29027
+WB/DAR/78B05/2015/455
+West Bengal
+Darjeeling
+NG90 SOLEK
+ 
+26.957857
+88.469805
+Debris
+Slide
+2004
+29028
+WB/DAR/78B09/2015/721
+West Bengal
+Darjeeling
+NW OF KUPRING
+ 
+26.958488
+88.547717
+Rock
+Slide
+2014
+29029
+WB/DAR/78B09/2015/783
+West Bengal
+Darjeeling
+NG25 SE OF NIMBONG
+ 
+26.959016
+88.588219
+Debris
+Slide
+2015
+29030
+WB/DAR/78B05/2015/527
+West Bengal
+Darjeeling
+Labda
+Labda
+26.959378
+88.325027
+Debris
+Slide
+2011
+29031
+WB/DAR/78B05/2015/630
+West Bengal
+Darjeeling
+Pachim
+Pachim
+26.960844
+88.320422
+Debris
+Slide
+2015
+29032
+WB/DAR/78B05/2015/632
+West Bengal
+Darjeeling
+Pachim
+Pachim
+26.961172
+88.313944
+Debris
+Slide
+2015
+29033
+WB/DAR/78B09/2015/754
+West Bengal
+Darjeeling
+N OF KUPRING
+N OF KUPRING
+26.962111
+88.561611
+Rock
+Slide
+2015
+29034
+WB/DAR/78B09/2015/784
+West Bengal
+Darjeeling
+NG26 SOUTH OF NIMBONG
+ 
+26.96277
+88.578666
+Rock
+Slide
+2015
+29035
+WB/DAR/78B05/2015/667
+West Bengal
+Darjeeling
+Ribindra BH, Mangpo
+Ribindra BH, Mangpo
+26.962867
+88.381001
+Debris
+Slide
+2015
+29036
+WB/DAR/78B09/2015/714
+West Bengal
+Darjeeling
+Near Gorubathan
+Near Gorubathan
+26.962999
+88.702676
+Debris
+Slide
+1968
+29037
+WB/DAR/78B09/2015/787
+West Bengal
+Darjeeling
+NG28 E OF NIMBONG
+ 
+26.963058
+88.599679
+Debris
+Slide
+2015
+29038
+WB/DAR/78B05/2015/562
+West Bengal
+Darjeeling
+Rangdhang Basa
+ 
+26.963632
+88.412116
+Debris
+Slide
+2013
+29039
+WB/DAR/78B09/2015/755
+West Bengal
+Darjeeling
+S OF BARBOT
+S OF BARBOT
+26.963639
+88.56275
+Rock
+Slide
+2015
+29040
+WB/DAR/78B05/2015/672
+West Bengal
+Darjeeling
+Rangabang Basa
+Rangabang Basa
+26.963861
+88.41354
+Rock
+Slide
+2015
+29041
+WB/DAR/78B09/2015/729
+West Bengal
+Darjeeling
+S OF SAMTHAR
+ 
+26.96438
+88.515901
+Debris
+Slide
+2014
+29042
+WB/DAR/78B05/2021/PDLS/33
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+26.96532309
+88.42847931
+Rock
+Slide
+October 2021
+29043
+WB/DARJ/78B09/2007/0001
+West Bengal
+Darjeeling
+Gorubathan-I
+Gorubathan village
+26.9659
+88.7028
+Debris
+Slide
+2007
+29044
+WB/DAR/78B09/2015/757
+West Bengal
+Darjeeling
+BARBOT
+BARBOT
+26.965944
+88.562361
+Debris
+Slide
+2015
+29045
+WB/DAR/78B05/2015/692
+West Bengal
+Darjeeling
+Lowe Kundang NH31A
+ 
+26.96627
+88.428951
+Rock
+Slide
+2015
+29046
+WB/DAR/78B05/2021/PDLS/33
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+26.9671048
+88.42725258
+Debris
+Slide
+October 2021
+29047
+WB/DAR/78B05/2021/PDLS/34
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+26.96756777
+88.42699648
+Rock
+Slide
+October 2021
+29048
+WB/DAR/78B05/2015/523
+West Bengal
+Darjeeling
+Suruk
+NH31A
+26.9682
+88.4663
+Rock
+Slide
+2011
+29049
+WB/DAR/78B09/2015/762
+West Bengal
+Darjeeling
+KHASMAHAI
+KHASMAHAI
+26.968443
+88.564726
+Rock
+Slide
+2015
+29050
+WB/DAR/78B05/2021/PDLS/34
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+26.96917448
+88.41895713
+Debris
+Slide
+October 2021
+29051
+WB/DAR/78B05/2015/397
+West Bengal
+Darjeeling
+NH31A _ Berrik slide
+At Km 12 frm Sevoke on NH 31A 26.969554
+88.427149
+Rock
+Slide
+1968
+29052
+WB/DAR/78B09/2015/734
+West Bengal
+Darjeeling
+E OF GORUBATHAN
+ 
+26.96959
+88.734144
+Debris
+Slide
+2014
+29053
+WB/DAR/78B05/2015/682
+West Bengal
+Darjeeling
+Birik NH31A
+ 
+26.969651
+88.425521
+Debris
+Slide
+2015
+29054
+WB/DAR/78B09/2015/733
+West Bengal
+Darjeeling
+E OF GORUBATHAN
+ 
+26.970062
+88.74011
+Debris
+Slide
+2014
+29055
+WB/DAR/78B05/2015/528
+West Bengal
+Darjeeling
+NH31A _14.55 Km
+ 
+26.97039
+88.417195
+Rock
+Slide
+2011
+29056
+WB/DAR/78B05/2015/656
+West Bengal
+Darjeeling
+Mnagpu
+Mnagpu
+26.970587
+88.364239
+Debris
+Slide
+2015
+29057
+WB/DAR/78B05/2021/PDLS/34
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+26.97105236
+88.41982695
+Rock
+Slide
+October 2021
+29058
+WB/DAR/78B09/2015/763
+West Bengal
+Darjeeling
+KHASMAHAI RH
+KHASMAHAI RH
+26.971083
+88.575222
+Rock
+Slide
+2015
+29059
+WB/DAR/78B05/2015/681
+West Bengal
+Darjeeling
+Birik NH31A
+Birik NH31A
+26.97137
+88.424661
+Debris
+Slide
+2015
+29060
+WB/DAR/78B05/2015/537
+West Bengal
+Darjeeling
+NG91 SE OF UPPER DONG
+ 
+26.971606
+88.446638
+Debris
+Slide
+2011
+29061
+WB/DAR/78B05/2015/657
+West Bengal
+Darjeeling
+Mnagpu
+Mnagpu
+26.971806
+88.348139
+Debris
+Slide
+2015
+29062
+WB/DAR/78B05/2021/PDLS/34
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+26.97182564
+88.424602
+Rock
+Slide
+October 2021
+29063
+WB/DAR/78B05/2021/PDLS/34
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+26.97286057
+88.41954739
+Debris
+Slide
+October 2021
+29064
+WB/DAR/78B09/2015/786
+West Bengal
+Darjeeling
+NG27 NE OF NIMBONG
+ 
+26.973632
+88.600352
+Debris
+Slide
+2015
+29065
+WB/DAR/78B05/2021/PDLS/34
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+26.97403458
+88.42307827
+Rock
+Slide
+October 2021
+29066
+WB/DAR/78B05/2021/PDLS/34
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+26.97477813
+88.42364175
+Rock
+Slide
+October 2021
+29067
+WB/DAR/78B05/2015/529
+West Bengal
+Darjeeling
+NH31A _15.2 Km
+NH31A
+26.9753
+88.4188
+Debris
+Slide
+2011
+29068
+WB/DAR/78B05/2015/669
+West Bengal
+Darjeeling
+Rambi Bazar
+ 
+26.975703
+88.418984
+Debris
+Slide
+2015

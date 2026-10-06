@@ -1,0 +1,365 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20909
+MZ/LAW/84B14/2018/29 
+Mizoram
+Lawngtlai
+ 
+NH 54
+22.503
+92.889
+Debris
+Slide
+NA
+20910
+MZ/LAW/84B14/2018/32
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.507
+92.886002
+Debris
+Slide
+NA
+20911
+MZ/LAW/84B14/2018/31 
+Mizoram
+Lawngtlai
+ 
+MulƟ- Modal Road 
+22.51
+92.886002
+Debris
+Slide
+NA
+20912
+MZ/LAW/84B10/2020/3
+Mizoram
+Lawngtlai
+Khawmawi to Chawngte P road slide 2 Khawmawi to Chawngte P road 22.51
+92.74
+Rock
+Slide
+2019
+20913
+MZ/SAI/84B15/2018/46
+Mizoram
+Saiha
+ 
+North of Saiha 
+22.513
+92.992996
+Rock
+Fall
+NA
+20914
+MZ/LAW/84B14/2018/51
+Mizoram
+Lawngtlai
+ 
+Lawngtlai to Ngengpuikai Road
+22.513
+92.793999
+Rock
+Fall
+NA
+20915
+MZ/LAW/84B14/2018/43
+Mizoram
+Lawngtlai
+ 
+Lawngtlai to Ngengpuikai Road
+22.517
+92.879997
+Debris
+Slide
+NA
+20916
+MZ/LAW/84B14/2018/34
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.518
+92.855003
+Rock
+Fall
+NA
+20917
+MZ/LAW/84B14/2018/50
+Mizoram
+Lawngtlai
+ 
+Lawngtlai to Ngengpuikai Road
+22.518
+92.811996
+Debris
+Slide
+NA
+20918
+MZ/LAW/84B14/2018/44
+Mizoram
+Lawngtlai
+ 
+Lawngtlai to Ngengpuikai Road
+22.52
+92.867996
+Debris
+Slide
+NA
+20919
+MZ/LAW/84B10/2020/13
+Mizoram
+Lawngtlai
+Chawngtelui village slide 1
+Chawngtelui village
+22.52
+92.71
+Rock
+Slide
+2019
+20920
+MZ/LAW/84B10/2020/14
+Mizoram
+Lawngtlai
+Chawngtelui village slide 2
+outside Chawngtelui village
+22.52
+92.71
+Debris
+Slide
+2016
+20921
+MZ/LAW/84B10/2020/15
+Mizoram
+Lawngtlai
+Diltlang to Chawngtelui road slide
+Diltlang to Chawngtelui road
+22.52
+92.72
+Debris
+Fall
+2019
+20922
+MZ/LAW/84B10/2020/16
+Mizoram
+Lawngtlai
+Chawngtelui to Diltlang road slide
+Chawngtelui to Diltlang road
+22.52
+92.72
+Debris
+Slide
+2019
+20923
+MZ/LAW/84B14/2018/45
+Mizoram
+Lawngtlai
+ 
+Lawngtlai to Ngengpuikai Road
+22.525
+92.865997
+Debris
+Slide
+NA
+20924
+MZ/LAW/84B14/2018/46
+Mizoram
+Lawngtlai
+ 
+Lawngtlai to Ngengpuikai Road
+22.525
+92.864998
+Debris
+Slide
+NA
+20925
+MZ/LUNG/84B14/2018/3 
+Mizoram
+Lawngtlai
+ 
+MulƟ- Modal Road 
+MulƟ- Modal Road 
+22.525999
+92.888
+Rock
+Fall
+NA
+20926
+MZ/LAW/84B14/2018/36
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.527
+92.891998
+Debris
+Slide
+NA
+20927
+MZ/LAW/84B14/2018/2 
+Mizoram
+Lawngtlai
+ 
+Towards the west of Lawngtlai
+22.5273
+92.870003
+Debris
+Slide
+NA
+20928
+MZ/LAW/84B14/2018/35
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.528
+92.896004
+Rock
+Fall
+NA
+20929
+MZ/LAW/84B10/2020/12
+Mizoram
+Lawngtlai
+Mualbu L to Chawngtelui road slide 2
+Mualbu L to Chawngtelui road
+22.53
+92.7
+Debris
+Slide
+2019
+20930
+MZ/LAW/84B10/2020/21
+Mizoram
+Lawngtlai
+Chawngtelui village slide
+4 kms north of Chawngtelui 
+village
+22.53
+92.7
+Debris
+Slide
+2018
+20931
+MZ/LAW/84B10/2020/45
+Mizoram
+Lawngtlai
+Ulusora slide
+Ulusora village
+22.53
+92.62
+Earth
+Slide
+NA
+20932
+MZ/LAW/84B14/2018/38
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.530001
+92.890999
+Debris
+Slide
+NA
+20933
+MZ/LAW/84B14/2018/39
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.530001
+92.890999
+Debris
+Slide
+NA
+20934
+MZ/LAW/84B14/2018/40
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.530001
+92.890999
+Debris
+Slide
+NA
+20935
+MZ/LAW/84B14/2018/47
+Mizoram
+Lawngtlai
+ 
+Lawngtlai to Ngengpuikai Road
+22.532
+92.862999
+Debris
+Slide
+NA
+20936
+MZ/LAW/84B14/2018/41
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.533001
+92.886002
+Debris
+Slide
+NA
+20937
+MZ/LAW/84B14/2018/42
+Mizoram
+Lawngtlai
+N/A
+N/A
+22.534
+92.876999
+Debris
+Slide
+NA
+20938
+MZ/LAW/84B14/2018/13
+Mizoram
+Lawngtlai
+ 
+L-III, Lawngtlai
+22.53544
+92.893059
+Debris
+Subsidence
+NA
+20939
+MZ/LAW/84B14/2018/48
+Mizoram
+Lawngtlai
+ 
+Lawngtlai to Ngengpuikai Road
+22.535999
+92.860001
+Debris
+Slide
+NA
+20940
+MZ/LAW/84B14/2018/14
+Mizoram
+Lawngtlai
+ 
+Behind District Hospital, 
+Lawngtlai 
+22.537416
+92.885002
+Debris
+Slide
+NA

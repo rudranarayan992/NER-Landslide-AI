@@ -1,0 +1,305 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21939
+MZ/MAM/84A10/2015/162
+Mizoram
+Mamit
+ 
+North of Hreichuk, PMGSY W 
+Lungdar - Darung
+23.615139
+92.594944
+Rock
+Slide
+NA
+21940
+MZ/CHA/84E02/2017/0112
+Mizoram
+Champhai
+ 
+8.5km S of Dulte
+23.617227
+93.042191
+Debris
+Slide
+NA
+21941
+MZ/MAM/84A10/2015/158
+Mizoram
+Mamit
+ 
+East of Khawrihnin; Agri-link 
+Road Tlawng river,  Agri-link 
+Road
+23.618083
+92.645028
+Rock
+Slide
+NA
+21942
+MZ/CHA/84E06/2017/5
+Mizoram
+Champhai
+ 
+500m W of Vapar
+23.618316
+93.342403
+Debris
+Slide
+NA
+21943
+MZ/MAM/84A10/2015/154
+Mizoram
+Mamit
+ 
+South East of Peihte Bawk 
+Khawrihnin; Agri-link Road 
+Tlawng river,  Agri-link Road
+23.618722
+92.627389
+Rock
+Slide
+NA
+21944
+MZ/MAM/84A10/2015/157
+Mizoram
+Mamit
+ 
+East of Khawrihnin; Agri-link 
+Road Tlawng river,  Agri-link 
+Road
+23.618917
+92.642611
+Debris
+Slide
+NA
+21945
+MZ/MAM/84A10/2015/156
+Mizoram
+Mamit
+ 
+East of Khawrihnin; Agri-link 
+Road Tlawng river,  Agri-link 
+Road
+23.619583
+92.634417
+Rock
+Slide
+NA
+21946
+MZ/CHA/84E06/2017/30
+Mizoram
+Champhai
+ 
+1km W of Vapar
+23.619791
+93.33801
+Debris
+Slide
+NA
+21947
+MZ/MAM/84A10/2015/155
+Mizoram
+Mamit
+ 
+Seventh Day School, Khawrihnin 23.621722
+92.623583
+Rock
+Slide
+NA
+21948
+MZ/MAM/84A10/2015/153
+Mizoram
+Mamit
+ 
+W of Khawrihnin; Agri-link Road 
+Tlawng river,  Agri-link Road
+23.625444
+92.614889
+Rock
+Slide
+NA
+21949
+MZ/AIZ/84A14/2015/100
+Mizoram
+Aizawl
+ 
+Towards Lenchim from 
+Mualpheng-Lenchim-Ruallung  
+cross road
+23.626194
+92.962111
+Rock
+Slide
+NA
+21950
+MZ/CHA/84E02/2017/0111
+Mizoram
+Champhai
+ 
+10.5km S of Dulte
+23.626738
+93.033627
+Debris
+Slide
+NA
+21951
+MZ/CHA/84E02/2017/9
+Mizoram
+Champhai
+ 
+500m from Kawlkulh highway 
+restaurant towards Dulte
+23.629553
+93.077474
+Debris
+Slide
+NA
+21952
+MZ/CHA/84E02/2017/0114
+Mizoram
+Champhai
+ 
+700m from Kawlkulh highway 
+restaurent towards Dulte
+23.630914
+93.079723
+Debris
+Slide
+NA
+21953
+MZ/CHA/84E02/2017/0110
+Mizoram
+Champhai
+ 
+11.5km S of Dulte
+23.631956
+93.033971
+Debris
+Slide
+NA
+21954
+MZ/CHA/84E02/2017/0109
+Mizoram
+Champhai
+ 
+12km S of Dulte
+23.63341
+93.033595
+Debris
+Slide
+NA
+21955
+MZ/CHA/84E02/2017/0113
+Mizoram
+Champhai
+ 
+3.5km S of Dulte
+23.633591
+93.048668
+Soil
+Flow
+NA
+21956
+MZ/CHA/84E02/2017/0089
+Mizoram
+Champhai
+ 
+5km towards chimluang project 
+road from junction
+23.635122
+93.065289
+Soil
+Slide
+NA
+21957
+MZ/CHA/84E02/2017/1
+Mizoram
+Champhai
+ 
+2km N from kawlkulh towrds 
+Dulte
+23.635733
+93.07666
+Debris
+Slide
+NA
+21958
+MZ/CHA/84E02/2017/11
+Mizoram
+Champhai
+ 
+1km N of kawlkulh (Ngopa road) 23.636647
+93.082939
+Debris
+Slide
+NA
+21959
+MZ/CHA/84E02/2017/23
+Mizoram
+Champhai
+ 
+1km N of kawlkulh (Ngopa road) 23.636699
+93.083183
+Rock
+Slide
+NA
+21960
+MZ/MAM/84A10/2015/161
+Mizoram
+Mamit
+ 
+South of Lungdar Tlang,  W 
+Lungdar, PMGSY W Lungdar - 
+Darung
+23.637472
+92.595278
+Rock
+Slide
+NA
+21961
+MZ/CHA/84E02/2017/0088
+Mizoram
+Champhai
+ 
+3.2km toowards chimluang 
+project road from junction
+23.6377
+93.066302
+Soil
+Slide
+NA
+21962
+MZ/CHA/84E02/2017/0117
+Mizoram
+Champhai
+ 
+2.5 km N of kawlkulh towards 
+Dulte
+23.63797
+93.078826
+Debris
+Slide
+NA
+21963
+MZ/CHA/84E02/2017/0087
+Mizoram
+Champhai
+ 
+3km towards Chimluang project 
+from junction
+23.638822
+93.066182
+Soil
+Slide
+NA

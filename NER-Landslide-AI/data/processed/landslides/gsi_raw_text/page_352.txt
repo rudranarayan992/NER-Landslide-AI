@@ -1,0 +1,456 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14647
+298
+Kerala
+Idukki
+Nellippadi
+Mangulam - Anaviratty road
+10.131041
+76.925988
+Soil
+Subsidence
+9th August, 2018
+14648
+299
+Kerala
+Idukki
+Perunkuthu
+Nellipadi - Aram mile road
+10.128558
+76.931656
+Debris
+Slide
+8th August, 2018
+14649
+300
+Kerala
+Idukki
+Perunkuthu
+Mangulam - Anakulam road
+10.137426
+76.923973
+Debris
+Slide
+9th August, 2018
+14650
+301
+Kerala
+Idukki
+Velliyampara
+Velliamparakudi road
+10.115896
+76.918882
+Debris
+Slide
+9th August, 2018
+14651
+302
+Kerala
+Idukki
+Velliyamparakudi
+Velliamparakudi road
+10.120504
+76.911538
+Debris
+Flow
+9th August, 2018
+14652
+303
+Kerala
+Idukki
+Singukudi Tribal Settlement
+Singukudi Tribal Settlement 
+road
+10.122906
+76.964036
+Debris
+Flows
+16th August, 2018
+14653
+304
+Kerala
+Idukki
+Singukudi Tribal Settlement
+Singukudi Tribal Settlement 
+road
+10.124435
+76.962431
+Soil
+Subsidence
+14th August, 2018
+14654
+305
+Kerala
+Idukki
+Mankulam
+Mankulam - Adimali road
+10.112005
+76.933446
+Rock-cum-debris
+Slide
+9th August, 2018
+14655
+306
+Kerala
+Idukki
+Thalumkandam
+Mankulam - Thalumkandam 
+road
+10.108727
+76.918985
+Debris
+Slide
+9th August, 2018
+14656
+307
+Kerala
+Idukki
+Thalumkandam
+Mankulam - Thalumkandam 
+road
+10.105038
+76.919146
+Debris
+Flows
+9th August, 2018
+14657
+308
+Kerala
+Idukki
+Pambukkayam
+Thalukandam - Sukumarankada 
+road
+10.098874
+76.928149
+Debris
+Slide
+9th August, 2018
+14658
+309
+Kerala
+Idukki
+Pambukkayam
+Thalukandam - Sukumarankada 
+road
+10.100944
+76.928171
+Debris
+Slide
+9th August, 2018
+14659
+310
+Kerala
+Idukki
+Virippara
+Kallar - Mankulam road
+10.081212
+76.950995
+Debris
+Slide
+9th August, 2018
+14660
+311
+Kerala
+Idukki
+25 acre
+Plamala - Adimali shortcut road 10.041179
+76.945875
+Debris
+Flows
+15th August, 2018
+14661
+312
+Kerala
+Idukki
+Peechad
+Kallar - Mankulam road
+10.063931
+76.958224
+Debris
+Slide
+9th August, 2018
+14662
+313
+Kerala
+Idukki
+Peechad
+Kallar - Mankulam road
+10.059519
+76.955288
+Debris
+Slide
+15th August, 2018
+14663
+314
+Kerala
+Idukki
+60th Mile
+Adimali - Munnar highway
+10.025909
+76.993454
+Debris
+Slide
+16th August, 2018
+14664
+315
+Kerala
+Idukki
+Kallar   
+Adimali - Munnar highway
+10.028624
+76.986795
+Debris
+Slide
+8th August, 2018
+14665
+316
+Kerala
+Idukki
+Anaviratty
+Adimali - Munnar highway
+10.017426
+77.00006
+Debris
+Flows
+16th August, 2018
+14666
+317
+Kerala
+Idukki
+Anaviratty
+Adimali - Munnar highway
+10.017242
+76.997651
+Debris
+Slide
+13th August, 2018
+14667
+318
+Kerala
+Idukki
+Anaviratty
+Adimali - Munnar highway
+10.01781
+76.99491
+Debris
+Slide
+10th August, 2018
+14668
+319
+Kerala
+Idukki
+Anaviratty
+Adimali - Munnar highway
+10.01805
+76.995549
+Debris
+Slide
+8th August, 2018
+14669
+320
+Kerala
+Idukki
+Anaviratty
+Adimali - Munnar highway
+10.017266
+76.984647
+Debris
+Flows
+9th August, 2018
+14670
+321
+Kerala
+Idukki
+Koompanpara
+Adimali - Munnar highway
+10.015962
+76.983426
+Debris
+Flows
+16th August, 2018
+14671
+322
+Kerala
+Idukki
+Koompanpara
+Adimali - Munnar road
+10.013121
+76.982378
+Debris
+Flows
+10th August, 2018
+14672
+323
+Kerala
+Idukki
+Koompanpara
+Adimali - Munnar highway
+10.012345
+76.980586
+Debris
+Slide
+8th August, 2018
+14673
+324
+Kerala
+Idukki
+Koompanpara
+Adimali - Munnar road
+10.012191
+76.980621
+Debris
+Flows
+8th August, 2018
+14674
+325
+Kerala
+Idukki
+Plamala
+10.04814
+76.945716
+Debris
+Slide
+15th August, 2018
+14675
+326
+Kerala
+Idukki
+Kallar
+Adimali - Munnar highway
+10.028027
+76.98991
+Debris
+Slide
+15th August, 2018
+14676
+327
+Kerala
+Idukki
+60th Mile
+Adimali - Munnar highway
+10.027278
+76.991246
+Debris
+Slide
+15th August, 2018
+14677
+328
+Kerala
+Idukki
+60th Mile
+Adimali - Munnar highway
+10.026848
+76.992101
+Debris
+Slide
+15th August, 2018
+14678
+329
+Kerala
+Idukki
+60th Mile
+Adimali - Munnar highway
+10.024591
+76.9962
+Debris
+Slide
+15th August, 2018
+14679
+330
+Kerala
+Idukki
+60th Mile
+Adimali - Munnar highway
+10.018154
+77.009831
+Debris
+Slide
+15th August, 2018
+14680
+331
+Kerala
+Idukki
+Anaviratty
+Adimali - Munnar highway
+10.017696
+76.99438
+Soil
+Slide
+15th August, 2018
+14681
+332
+Kerala
+Idukki
+Koompanpara
+Adimali - Munnar highway
+10.015845
+76.984857
+Debris
+Slide
+15th August, 2018
+14682
+333
+Kerala
+Idukki
+Koompanpara
+Adimali - Munnar highway
+10.012398
+76.98231
+Debris
+Slide
+13th August, 2018
+14683
+334
+Kerala
+Idukki
+Kurushumpadi
+Anaviratty - Kurishumpadi road 10.019424
+76.991062
+Rock-cum-debris
+Flows
+9th August, 2018
+14684
+335
+Kerala
+Idukki
+Odakkacity
+Koompanpara - Mankadavu 
+road
+10.000277
+76.992769
+Debris
+Slide
+8th August, 2018
+14685
+336
+Kerala
+Idukki
+Mandalamkunnu
+Mandalamkunnu - 
+Kondyampadi road
+10.005235
+76.996611
+Debris
+Flows
+8th August, 2018
+14686
+337
+Kerala
+Idukki
+Odakkacity
+Koompanpara - Odakacity road 10.005418
+76.991651
+Debris
+Subsidence
+8th August, 2018

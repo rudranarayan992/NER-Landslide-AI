@@ -1,0 +1,421 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27633
+TN/NIL/58A11/2015-16/44
+Tamil Nadu
+Nilgiri
+ 
+Kallakorai Village
+11.358333
+76.668056
+Earth
+Slide
+NA
+27634
+TN/NIL/58A15/2015-16/265
+Tamil Nadu
+Nilgiri
+ 
+HPB.No:4/7, Kotagiri to 
+Mettupalayam
+11.358333
+76.606111
+Debris
+Slide
+NA
+27635
+TN/NIL/58A15/2015-16/237
+Tamil Nadu
+Nilgiri
+ 
+Black bridge, Willington 
+Cantonment, NH-67
+11.359444
+76.781667
+Debris
+Slide
+NA
+27636
+TN/NIL/58A15/2015-16/244
+Tamil Nadu
+Nilgiri
+ 
+Coonoor to Kattabettu, PC.No: 
+14/15
+11.359444
+76.808889
+Earth
+Slide
+NA
+27637
+TN/NIL/58A15/2015-16/238
+Tamil Nadu
+Nilgiri
+ 
+NH-67,BoyΓò₧s Company
+11.36
+76.775833
+Debris
+Slide
+NA
+27638
+TN/NIL/58A11/2015-16/50
+Tamil Nadu
+Nilgiri
+ 
+Nundala Junction to Nundala 
+Mattam.
+11.360278
+76.703056
+Debris
+Slide
+NA
+27639
+TN/NIL/58A11/2015-16/51
+Tamil Nadu
+Nilgiri
+ 
+Nundala Junction to Nundala 
+Mattam.
+11.360278
+76.705833
+Debris
+Slide
+NA
+27640
+TN/NIL/58A15/2015-16/302
+Tamil Nadu
+Nilgiri
+ 
+Karanci village
+11.3625
+76.834167
+Debris
+Slide
+NA
+27641
+TN/NIL/58A11/2015-16/162
+Tamil Nadu
+Nilgiri
+ 
+Near power house, towards 
+Porthimund
+11.362778
+76.605
+Earth
+Slide
+NA
+27642
+TN/NIL/58A15/2015-16/315
+Tamil Nadu
+Nilgiri
+ 
+Kil Biketti to Ambikapuram
+11.362778
+76.761389
+Debris
+Slide
+NA
+27643
+TN/NIL/58A15/2015-16/264
+Tamil Nadu
+Nilgiri
+ 
+Fevendale Tea Estate
+11.363333
+76.903611
+Debris
+Slide
+NA
+27644
+TN/NIL/58A11/2015-16/57
+Tamil Nadu
+Nilgiri
+ 
+MS.No:24/2, NH 67
+11.363889
+76.722222
+Earth
+Slide
+NA
+27645
+TN/NIL/58A11/2015-16/52
+Tamil Nadu
+Nilgiri
+ 
+Gandhi Pettai SC.No:5/6
+11.365278
+76.708611
+Earth
+Slide
+NA
+27646
+TN/NIL/58A15/2015-16/245
+Tamil Nadu
+Nilgiri
+ 
+Coonoor to Kattabettu, 
+MS.No:4 5/4
+11.365278
+76.818056
+Earth
+Slide
+NA
+27647
+TN/NIL/58A11/2015-16/53
+Tamil Nadu
+Nilgiri
+ 
+Gandhi Pettai,MS.No:84/8
+11.365556
+76.708056
+Earth
+Slide
+NA
+27648
+TN/NIL/58A11/2015-16/24
+Tamil Nadu
+Nilgiri
+ 
+Near Tribal Museum, 
+Kappatorai towards Palada
+11.366667
+76.6625
+Earth
+Slide
+NA
+27649
+TN/NIL/58A11/2015-16/4
+Tamil Nadu
+Nilgiri
+ 
+Tuneri village
+11.368889
+76.748056
+Debris
+Subsidence
+NA
+27650
+TN/NIL/58A15/2015-16/301
+Tamil Nadu
+Nilgiri
+ 
+Mukkumalai Tea Estate
+11.368889
+76.855556
+Debris
+Slide
+NA
+27651
+TN/NIL/58A11/2015-16/5
+Tamil Nadu
+Nilgiri
+ 
+Tuneri village
+11.369444
+76.748889
+Debris
+Subsidence
+NA
+27652
+TN/NIL/58A11/2015-16/25
+Tamil Nadu
+Nilgiri
+ 
+Kappatorai towards Palada; 
+SC.No: 7/5
+11.3725
+76.664167
+Earth
+Slide
+NA
+27653
+TN/NIL/58A11/2015-16/26
+Tamil Nadu
+Nilgiri
+ 
+Slab Culvert .No: 7/5
+11.3725
+76.664167
+Earth
+Flow
+NA
+27654
+TN/NIL/58A15/2015-16/246
+Tamil Nadu
+Nilgiri
+ 
+Bandishola village PC:No:7/6
+11.373611
+76.817222
+Debris
+Slide
+NA
+27655
+TN/NIL/58A11/2015-16/55
+Tamil Nadu
+Nilgiri
+ 
+Alhada road junction
+11.374444
+76.711111
+Earth
+Slide
+NA
+27656
+TN/NIL/58A15/2015-16/239
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.374665
+76.758422
+Earth
+Slide
+NA
+27657
+TN/NIL/58A11/2015-16/84
+Tamil Nadu
+Nilgiri
+ 
+Lovedale Railway junction
+11.374722
+76.741389
+Earth
+Slide
+NA
+27658
+TN/NIL/58A11/2015-16/70
+Tamil Nadu
+Nilgiri
+ 
+Porthimund dam
+11.375
+76.572222
+Debris
+Slide
+NA
+27659
+TN/NIL/58A11/2015-16/83
+Tamil Nadu
+Nilgiri
+ 
+Lovedale towards Allada
+11.375
+76.710278
+Earth
+Slide
+NA
+27660
+TN/NIL/58A15/2015-16/263
+Tamil Nadu
+Nilgiri
+ 
+PC.No:38/8, Ubbekombai village 11.375
+76.897222
+Debris
+Slide
+NA
+27661
+TN/NIL/58A15/2015-16/240
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.37522
+76.755922
+Earth
+Slide
+NA
+27662
+TN/NIL/58A11/2015-16/189
+Tamil Nadu
+Nilgiri
+ 
+Porthimund village
+11.376111
+76.578889
+Debris
+Slide
+NA
+27663
+TN/NIL/58A11/2015-16/66
+Tamil Nadu
+Nilgiri
+ 
+NH 67, west of Yellanhalli road 
+junction
+11.377778
+76.743056
+Earth
+Slide
+NA
+27664
+TN/NIL/58A11/2015-16/87
+Tamil Nadu
+Nilgiri
+ 
+Ketti Railway station, PC.No: 
+1/7
+11.378056
+76.740278
+Debris
+Slide
+NA
+27665
+TN/NIL/58A11/2015-16/88
+Tamil Nadu
+Nilgiri
+ 
+Ketti Railway Junction, PC.No: 
+1/7
+11.378056
+76.740278
+Debris
+Slide
+NA
+27666
+TN/NIL/58A15/2015-16/187
+Tamil Nadu
+Nilgiri
+ 
+Near Pachaikadu village
+11.378056
+76.833056
+Debris
+Slide
+NA
+27667
+TN/NIL/58A15/2015-16/257
+Tamil Nadu
+Nilgiri
+ 
+PC.No. 37/6, Kotagiri to 
+Mettupalayam
+11.378889
+76.899444
+Debris
+Slide
+NA
+27668
+TN/NIL/58A11/2015-16/86
+Tamil Nadu
+Nilgiri
+ 
+Ketti to Achanakkal MS.No: 4 
+1/4
+11.379167
+76.7025
+Debris
+Slide
+NA

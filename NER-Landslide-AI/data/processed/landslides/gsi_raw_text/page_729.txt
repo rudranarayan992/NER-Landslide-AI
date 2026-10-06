@@ -1,0 +1,417 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28777
+WB/DAR/78B01/2015/384
+West Bengal
+Darjeeling
+Mane Slide
+Mane
+26.881306
+88.164917
+Debris
+Slide
+2016
+28778
+WB/DAR/78B05/2015/508
+West Bengal
+Darjeeling
+Latpanchar
+Latpanchar
+26.881389
+88.40133
+Debris
+Slide
+2010
+28779
+WB/DAR/78B05/2015/606
+West Bengal
+Darjeeling
+LATPANCHAR
+ 
+26.881803
+88.398417
+Debris
+Slide
+2014
+28780
+WB/DAR/78B01/2015/383
+West Bengal
+Darjeeling
+Mane slide
+Mane
+26.882417
+88.165167
+Rock
+Slide
+2015
+28781
+WB/DAR/78B05/2015/564
+West Bengal
+Darjeeling
+Simming
+Simming Tea garden
+26.88539
+88.361673
+Debris
+Slide
+2013
+28782
+WB/DAR/78B05/2015/675
+West Bengal
+Darjeeling
+Simring
+Simring
+26.885833
+88.349056
+Rock
+Slide
+2015
+28783
+WB/DAR/78B05/2015/503
+West Bengal
+Darjeeling
+LATPANCHAR
+Latpanchar
+26.885835
+88.395558
+Debris
+Slide
+2010
+28784
+WB/DAR/78B05/2021/PDLS/09
+West Bengal
+Darjeeling
+N/A
+N/A
+26.88587523
+88.34868283
+Debris
+NULL
+October 2021
+28785
+WB/DAR/78B05/2015/471
+West Bengal
+Darjeeling
+NH55 Soth east of Kasyang Tourist 
+Bunglow
+Soth east of Kasyang Tourist 
+Bunglow adjacent to NH 55
+26.886148
+88.278299
+Rock
+Slide
+2006
+28786
+WB/DAR/78B05/2015/577
+West Bengal
+Darjeeling
+MAHANADI WLS
+ 
+26.88618
+88.439126
+Rock
+Slide
+2014
+28787
+WB/DAR/78B05/2015/442
+West Bengal
+Darjeeling
+Mahanadi WLS
+ 
+26.886248
+88.438326
+Debris
+Slide
+2004
+28788
+WB/DAR/78B05/2015/519
+West Bengal
+Darjeeling
+Sivok
+ 
+26.886854
+88.462314
+Debris
+Slide
+2010
+28789
+WB/DAR/78B01/2015/343
+West Bengal
+Darjeeling
+100m SW of Thulung Gaon
+Thulung Gaon
+26.887029
+88.200952
+Debris
+Slide
+2015
+28790
+WB/DAR/78B05/2015/695
+West Bengal
+Darjeeling
+Simring TG
+Simring TG
+26.887222
+88.355694
+Rock
+Slide
+2015
+28791
+WB/DAR/78B01/2015/370
+West Bengal
+Darjeeling
+Krishnanagar, ward no. 5 (eastern 
+part of Mirik Municipality)
+Krishnanaga
+26.887564
+88.189256
+Debris
+Slide
+2015
+28792
+WB/DAR/78B01/2015/344
+West Bengal
+Darjeeling
+100m SW of Thulung Gaon location 22 Thulung Gaon
+26.887648
+88.201467
+Debris
+Slide
+2015
+28793
+WB/DAR/78B01/2015/363
+West Bengal
+Darjeeling
+Mahindra Gaon, ward no. 8 (western 
+part of the Mirik Municipality).
+Mahindra Gaon
+26.887876
+88.17893
+Debris
+Slide
+2015
+28794
+WB/DAR/78B05/2015/467
+West Bengal
+Darjeeling
+Simring TG
+ 
+26.888141
+88.381534
+Rock
+Slide
+2004
+28795
+WB/DAR/78B01/2015/342
+West Bengal
+Darjeeling
+Thulung Gaon
+Thulung Gaon
+26.888206
+88.202175
+Debris
+Slide
+2015
+28796
+WB/DAR/78B01/2015/366
+West Bengal
+Darjeeling
+Bishnulal Gaon, ward no. 9 (western 
+part of the Mirik Municipality)
+Bishnulal Gaon
+26.888624
+88.17477
+Debris
+Slide
+2015
+28797
+WB/DAR/78B05/2015/408
+West Bengal
+Darjeeling
+Devisthan Jhor a(Kurseong)
+Kurseong
+26.889053
+88.284189
+Debris
+Slide
+1998
+28798
+WB/DAR/78B05/2015/498
+West Bengal
+Darjeeling
+NH-31, Sevok Slide
+NH 31A
+26.889155
+88.476997
+Rock
+Slide
+2009
+28799
+WB/DAR/78B01/2015/365
+West Bengal
+Darjeeling
+Bishnulal Gaon, ward no. 9 (western 
+part of the Mirik Municipality)
+Bishnulal Gaon
+26.889256
+88.175009
+Debris
+Slide
+2015
+28800
+WB/DAR/78B05/2015/404
+West Bengal
+Darjeeling
+Bagora
+Bagora road
+26.889583
+88.301417
+Debris
+Subsidence
+1998
+28801
+WB/DAR/78B05/2021/PDLS/32
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+26.88964125
+88.47323199
+Rock
+Slide
+October 2021
+28802
+WB/DAR/78B01/2015/369
+West Bengal
+Darjeeling
+Thanalying, ward no. 3 (eastern part 
+of Mirik Municipality)
+Thanalying
+26.890986
+88.188099
+Debris
+Slide
+2015
+28803
+WB/DAR/78B01/2015/368
+West Bengal
+Darjeeling
+Deosaydara, ward no. 4 (eastern part 
+of Mirik Municipality)
+Deosaydara ward no. 4
+26.890986
+88.191602
+Debris
+Slide
+2015
+28804
+WB/DAR/78B05/2015/441
+West Bengal
+Darjeeling
+Mahandi WLS
+ 
+26.891296
+88.443695
+Debris
+Slide
+2004
+28805
+WB/DAR/78B01/2015/364
+West Bengal
+Darjeeling
+Mahindra Gaon, ward no. 8 (western 
+part of the Mirik the Municipality)
+Mahindra Gaon
+26.891731
+88.178416
+Debris
+Slide
+2015
+28806
+WB/DAR/78B05/2015/520
+West Bengal
+Darjeeling
+NH 10 Sivok
+ 
+26.892203
+88.47133
+Debris
+Slide
+2010
+28807
+WB/DAR/78B05/2015/440
+West Bengal
+Darjeeling
+Mahandi WLS
+ 
+26.892372
+88.444426
+Debris
+Slide
+2004
+28808
+WB/DAR/78B01/2015/394
+West Bengal
+Darjeeling
+Thurbo Slide
+Thurbo TG
+26.892861
+88.159917
+Rock
+Slide
+2016
+28809
+WB/DAR/78B01/2015/371
+West Bengal
+Darjeeling
+Opposite to Mirik block office
+Mirik
+26.893313
+88.183983
+Debris
+Slide
+2015
+28810
+WB/DAR/78B01/2021/PDLS/18
+West Bengal
+Darjeeling
+N/A
+N/A
+26.89461704
+88.17879393
+Debris
+Slide
+October 2021
+28811
+WB/DAR/78B09/2015/828
+West Bengal
+Darjeeling
+NG67 NW OF TIRI
+ 
+26.895577
+88.502015
+Debris
+Slide
+2015
+28812
+WB/DAR/78B05/2015/614
+West Bengal
+Darjeeling
+Phagutan
+ 
+26.895648
+88.334612
+Debris
+Slide
+2014

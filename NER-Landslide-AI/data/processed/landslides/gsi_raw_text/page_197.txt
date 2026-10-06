@@ -1,0 +1,422 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+8461
+HP/KINN/53E14/2025/16
+Himachal Pradesh
+Kinnaur
+Nigulsari (Sector 26)
+NH-05 (Approx. 1 km from 
+Nigulsari towards Reckong Peo)
+31.56305556
+77.88361111
+Debris cum rock
+Slide
+2010
+8462
+HP/UNA/53A6/2025/15
+Himachal Pradesh
+Una
+Harot/Kud
+Link Road
+31.609099
+76.294201
+Debris
+Slide
+25 August 2025
+8463
+HP/UNA/53A6/2025/16
+Himachal Pradesh
+Una
+Porian Kalan
+Porian Kalan
+31.437986
+76.42395
+Debris
+Slide
+01 September 2025
+8464
+HP/UNA/53A7/2025/17
+Himachal Pradesh
+Una
+Raipur
+Raipur
+31.474296
+76.416896
+Debris
+Slide
+1st week of September 2025
+8465
+HP/UNA/53A7/2025/18
+Himachal Pradesh
+Una
+PMGSY L18 Landslide
+PMGSY
+31.49135
+76.400659
+Debris
+Slide
+1st week of September 2025
+8466
+HP/UNA/53A7/2025/19
+Himachal Pradesh
+Una
+Gharwasra
+PMGSY Gharwasra
+31.484232
+76.388595
+Debris
+Slide
+ 1 September 2025
+8467
+HP/UNA/53A7/2025/20
+Himachal Pradesh
+Una
+Thara
+Village Thara
+31.511164
+76.35416
+Debris
+Subsidence
+01,02,03 September 2025
+8468
+HP/UNA/53A7/2025/21
+Himachal Pradesh
+Una
+Bohru landslide
+Village
+31.421993
+76.416965
+Debris
+Flow
+03 September 2025
+8469
+HP/BIL/53A12/2025/01
+Himachal Pradesh
+Bilaspur
+Ree-Pulachar
+NH-21
+31.230587
+76.677044
+NA
+Subsidence
+2024, 2025
+8470
+HP/BIL/53A12/2025/02
+Himachal Pradesh
+Bilaspur
+Dadwal
+Dadwal village link road
+31.230401
+76.689474
+NA
+Subsidence
+September 1998, 1st week of 
+September 2025
+8471
+HP/BIL/53A15/2025/03
+Himachal Pradesh
+Bilaspur
+Malyawar slide
+Malyawar link road damaged
+31.413835
+76.793732
+Rock cum debris
+Slide
+August 2023
+8472
+HP/BIL/53A15/2025/04
+Himachal Pradesh
+Bilaspur
+Bagi Slide
+NH-21
+31.366877
+76.7870719
+Debris
+Slide
+07 August 2025
+8473
+HP/BIL/53A15/2025/05
+Himachal Pradesh
+Bilaspur
+Nog Landslide
+Link road
+31.3704259
+76.7702055
+Debris
+Slide
+August 2025
+8474
+HP/BIL/53A15/2025/06
+Himachal Pradesh
+Bilaspur
+Jangal Sungal Nichla landslide
+NH-21
+31.3626538
+76.7744273
+Debris
+Slide
+07 September 2025
+8475
+HP/BIL/53A15/2025/07
+Himachal Pradesh
+Bilaspur
+Deoli landslide
+NH-103
+31.3593204
+76.806473
+Debris
+Slide
+05 August 2025
+8476
+HP/BIL/53A15/2025/08
+Himachal Pradesh
+Bilaspur
+Chadol Land subsidence
+Chadol village
+31.254981
+76.774276
+NA
+Subsidence
+05 August 2025
+8477
+HP/BIL/53A15/2025/09
+Himachal Pradesh
+Bilaspur
+Sai-Bramna Land subsidence
+Sai-Bramna
+31.270428
+76.768161
+Debris
+Subsidence
+August 2025
+8478
+HP/BIL/53A15/2025/10
+Himachal Pradesh
+Bilaspur
+Kot Land Subsidence
+Kot village
+31.28191
+76.767061
+Debris
+Subsidence
+August 2025
+8479
+HP/BIL/53A15/2025/11
+Himachal Pradesh
+Bilaspur
+Talsari Land subsidence
+Talsari village
+31.274281
+76.748515
+Debris
+Subsidence
+2024, August 2025
+8480
+HP/BIL/53A11/2025/12
+Himachal Pradesh
+Bilaspur
+Durghat Land subsidence
+Durghat village
+31.31508
+76.631323
+Debris
+Subsidence
+August 2025
+8481
+HP/SIR/53F5/2025/1
+Himachal Pradesh
+Sirmur
+Chauras landslide
+Chauras
+30.81025
+77.45886111
+Debris
+Slide
+2025
+8482
+HP/SIR/53F6/2025/2
+Himachal Pradesh
+Sirmur
+Malganv landslide
+Malganv
+30.61863889
+77.36361111
+Debris
+Slide
+1 July 2025, 18 June 2023
+8483
+HP/SIR/53F10/2023/31/1
+Himachal Pradesh
+Sirmur
+Ambaun Landlside
+Ambaun village
+30.57513889
+77.54955556
+Rock
+Slide
+1980s
+8484
+HP/SIR/53F5/2025/3
+Himachal Pradesh
+Sirmur
+Matahan landslide
+Matahan
+30.71638889
+77.22888889
+Debris
+Slide
+3 September 2025
+8485
+HP/SIR/53F10/2025/4
+Himachal Pradesh
+Sirmur
+Kachchi Dang landslide
+Sirmauri Tal
+30.54847222
+77.63788889
+Debris
+Slide
+2023,2025 
+8486
+HP/SIR/53F10/2025/5
+Himachal Pradesh
+Sirmur
+Agdiwala subsidence
+Agdiwala
+30.46788889
+77.38269444
+Debris
+Subsidence
+2025
+8487
+HP/HMPR/53A9/2025/13
+Himachal Pradesh
+Hamirpur
+Pandwin
+Pandwin village
+31.564298
+76.598543
+Debris
+Slide
+August 2023, 1st week of September 
+2025
+8488
+HP/HMPR/53A9/2025/14
+Himachal Pradesh
+Hamirpur
+Chabutra
+Village Chabutra
+31.7691009
+76.490383
+Debris
+Subsidence
+31 Aug 2025
+8489
+HP/CHAMBA/43P/14/2025/01
+Himachal Pradesh
+Chamba
+Shalla Slide
+Near Salooni-Tissa SH road
+32.62173056
+75.99535556
+Debris
+Slide
+24,25 August 2025
+8490
+HP/CHAMBA/52D/01/2025/02
+Himachal Pradesh
+Chamba
+Satlog subsidence
+Tissa-sachkhas SH road
+32.93181667
+76.15378056
+Debris
+Subsidence
+24,27 August 2025
+8491
+HP/CHAMBA/52D/07/2025/03
+Himachal Pradesh
+Chamba
+Lothal slide
+NH-154A
+32.47164722
+76.29880556
+Debris
+Slide
+1995, 2023, 2025
+8492
+HP/CHAMBA/52D/07/2025/04
+Himachal Pradesh
+Chamba
+Muchka Subsidence
+-----
+32.48638056
+76.28263056
+Debris
+Subsidence
+2019, 2021, 2025
+8493
+HP/CHAMBA/52D/07/2025/05
+Himachal Pradesh
+Chamba
+Manoon ghar slide
+Holi-Bajouli SH road
+32.45575833
+76.4642
+Rock
+Slide
+16 April 2024, August 2025
+8494
+HP/CHAMBA/52D/11/2025/06
+Himachal Pradesh
+Chamba
+Kuleth ghar Slide
+Holi-Bajouli SH road
+32.31983056
+76.5655
+Debris
+Slide
+2023, 2024, 2025
+8495
+HP/CHAMBA/43P/15/2025/07
+Himachal Pradesh
+Chamba
+Bharamplaha ghar Slide
+MDR 87
+32.41663056
+75.99166944
+Debris
+Slide
+2022, 2023, 2025.
+8496
+HP/CHAMBA/43P/15/2025/08
+Himachal Pradesh
+Chamba
+Narola ghar Slide
+MDR 83
+32.4154
+75.96971389
+Debris
+Slide
+2018, 2022, 2023, 2025
+8497
+HP/CHAMBA/43P/15/2025/09
+Himachal Pradesh
+Chamba
+Chafad Slide
+MDR 83
+32.45266667
+75.93528611
+Debris
+Slide
+2024, September 2025

@@ -1,0 +1,317 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+35932
+Uttarakhand 
+/Chamoli/53N/7/2016/15
+Uttarakhand
+Chamoli
+---
+---
+30.41191667
+79.30013889
+Debris
+Slide
+30 June, 2016
+35933
+Uttarakhand 
+/Chamoli/53N/7/2016/16
+Uttarakhand
+Chamoli
+---
+---
+30.41013889
+79.30619444
+Debris
+Slide
+30 June, 2016
+35934
+Uttarakhand 
+/Chamoli/53N/7/2016/17
+Uttarakhand
+Chamoli
+Gairpool
+On the right bank Balkhila river
+30.41438889
+79.30744444
+Debris
+Slide
+30 June, 2016
+35935
+Uttarakhand 
+/Chamoli/53N/7/2016/18
+Uttarakhand
+Chamoli
+Kothiyal sain (on the right bank of 
+Alaknanda river)
+Kothiyal sain village
+30.39719444
+79.32236111
+Debris
+Slide
+30 June, 2016
+35936
+Uttarakhand 
+/Chamoli/53N/7/2016/19
+Uttarakhand
+Chamoli
+On the left bank of Alaknanda river
+6 km SE of Chamoli
+30.37005556
+79.31194444
+Debris
+Slide
+30 June, 2016
+35937
+Uttarakhand 
+/Chamoli/53N/7/2016/20
+Uttarakhand
+Chamoli
+--
+4 km SE of Chamoli
+30.36980556
+79.31191667
+Debris
+Slide
+30 June, 2016
+35938
+Uttarakhand 
+/Chamoli/53N/7/2016/21
+Uttarakhand
+Chamoli
+--
+3 km SE of Chamoli (on the left 
+bank of Alaknanda river )
+30.37533333
+79.31747222
+Debris
+Slide
+30 June, 2016
+35939
+Uttarakhand 
+/Chamoli/53N/7/2016/22
+Uttarakhand
+Chamoli
+--
+2 km SE of Chamoli (on the left 
+bank of Alaknanda river )
+30.376
+79.319
+Rock
+Slide
+30 June, 2016
+35940
+Uttarakhand 
+/Chamoli/53N/7/2016/23
+Uttarakhand
+Chamoli
+--
+1 km SE of Chamoli (on the left 
+bank of Alaknanda river )
+30.39488889
+79.32575
+Debris
+slide
+30 June, 2016
+35941
+Uttarakhand 
+/Chamoli/53N/7/2016/24
+Uttarakhand
+Chamoli
+--
+N200E of slide location or slide 
+no: 24,1 km SE of Chamoli (on 
+the left
+bank of Alaknanda river )
+30.39563889
+79.32661111
+Debris
+Slide
+30 June, 2016
+35942
+Uttarakhand 
+/Chamoli/53N/7/2016/25
+Uttarakhand
+Chamoli
+Chamoli
+Chamoli
+30.39558333
+79.32638889
+Debris
+Slide
+30 June, 2016
+35943
+UK/PITH/62 C/1/2016/26
+Uttarakhand
+Pithoragarh
+Naulara Slide
+Thal-Nachni road.
+29.86466667
+80.16494444
+Debris
+Slide
+30 June, 2016 during 01.00 to 02.00 
+hrs.
+35944
+UK/PITH/62 C/1/2016/27
+Uttarakhand
+Pithoragarh
+Asyali
+Thal-Nachni Road
+29.86458333
+80.1635
+RBM
+Slide
+30 June, 2016 midnight.
+35945
+UK/PITH/62 C/1/2016/28
+Uttarakhand
+Pithoragarh
+Malujhula
+Gatigad-Veera-Malujhula
+29.84861111
+80.15691667
+Rock
+Slide
+30 June, 2016 midnight
+35946
+UK/PITH/62 C/1/2016/29
+Uttarakhand
+Pithoragarh
+Patet
+Thal-Nachani
+29.8425
+80.15363889
+Soil
+Creep
+30 June 2016, midnight
+35947
+UK/PITH/62 C/1/2016/30
+Uttarakhand
+Pithoragarh
+Daphila
+Thal-Nachni road
+29.83383333
+80.14730556
+Debris
+Slide
+30 June, 2016 midnight
+35948
+UK/PITH/62 C/1/2016/31
+Uttarakhand
+Pithoragarh
+Safed Hathi Gadera (Saskhet)
+Thal – Didihat road.
+29.84363889
+80.16125
+Debris
+Slide
+30 June, 2016 midnight
+35949
+UK/PITH/62 C/1/2016/32
+Uttarakhand
+Pithoragarh
+Dhulikholi
+Thal–Didihat road
+29.83780556
+80.17333333
+Debris
+Slide
+30 June, 2016 midnight
+35950
+UK/PITH/62 C/1/2016/33
+Uttarakhand
+Pithoragarh
+Pamptari
+600 m before Pamptari locality 
+on Thal –Didihat road.
+29.82961111
+80.18052778
+Debris
+Slide
+30 June, 2016 midnight
+35951
+UK/PITH/62 C/1/2016/34
+Uttarakhand
+Pithoragarh
+Bastari
+Bastari (Ogla – Bastari road)
+29.73130556
+80.29977778
+Debris
+Slide
+1 July, 2016 during 04.00 hrs to 05.00 
+hrs
+35952
+UK/PITH/62 C/6/2016/35
+Uttarakhand
+Pithoragarh
+Patharkot
+Ogla – Bastari –Patharkot
+29.72366667
+80.29602778
+Debris
+Slide
+1 July, 2016 during 04.00 hrs to 05.00 
+hrs
+35953
+UK/PITH/62 C/6/2016/36
+Uttarakhand
+Pithoragarh
+Singhali
+Ogla – Singhali –Bastari
+29.7375
+80.30286111
+Debris
+Slide
+1 July, 2016 during 04.00 hrs to 05.00 
+hrs
+35954
+UK/PITH/62 C/5/2016/37
+Uttarakhand
+Pithoragarh
+Charma Cantt area.
+Ogla – Charma –Kanalichhina
+29.75252778
+80.26997222
+Rock
+Slide
+1 July, 2016 during 04.00 hrs to 05.00 
+hrs
+35955
+UK/Pithoragarh/62B/12-
+2017/00
+Uttarakhand
+Pithoragarh
+SHYAMKHOLA GAD (MANGTI NALA) 
+flash flood
+Kailash-Mansarowar Route, 
+Mangti, Dharchula
+30.00561111
+80.71802778
+River Borne material Flow
+14 August 2017
+35956
+Uttarakhand/Pithoragarh/62B/1
+2/2017/01
+Uttarakhand
+Pithoragarh
+Mangti slide
+Kailash- MansarowarYatra 
+Route/ on Left bank of 
+Shyamkhola gad near Army 
+Camp
+30.00544444
+80.71925
+Debris
+Slide
+2014, 14 August 2017

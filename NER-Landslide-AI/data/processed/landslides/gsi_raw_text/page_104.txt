@@ -1,0 +1,494 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+4155
+HP/SHI/53E12/2016/39
+Himachal Pradesh
+Shimla
+ 
+near Jubbal, SH-10
+31.10369
+77.64783
+Rock
+Slide
+NA
+4156
+HP/SHI/53E08/2016/21
+Himachal Pradesh
+Shimla
+ 
+BishnogTheog-Hatkoti Road
+31.104056
+77.401944
+Rock cum debris
+Slide
+NA
+4157
+HP/SHI/53E16/2016/69
+Himachal Pradesh
+Shimla
+ 
+JILTARI VILLAGE
+31.1045
+77.8242
+Debris
+Slide
+NA
+4158
+HP/SHI/53E16/2016/151
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANDERPUR 
+VILLAGECHANDERPUR-NH-72 
+LINK ROAD
+31.1047
+77.7585
+Rock
+Slide
+NA
+4159
+HP/SHI/53E16/2016/68
+Himachal Pradesh
+Shimla
+ 
+KATINDA
+31.1049
+77.824
+Debris
+Slide
+NA
+4160
+HP/SHI/53E04/2017/229
+Himachal Pradesh
+Shimla
+ 
+SHOGI KASUMPTI ROAD
+31.104912
+77.1742
+Rock
+Slide
+NA
+4161
+HP/SHI/53E08/2016/57
+Himachal Pradesh
+Shimla
+ 
+Gajeri, SH-10
+31.105181
+77.382896
+Debris
+ 
+NA
+4162
+HP/SHI/53E08/2016/77
+Himachal Pradesh
+Shimla
+ 
+near GummaSH-10
+31.105268
+77.452622
+Rock cum debris
+Slide
+NA
+4163
+HP/SHI/53E08/2016/34
+Himachal Pradesh
+Shimla
+ 
+Near Gumti Mata Temple, SH-
+10
+31.105368
+77.369927
+Rock cum debris
+Slide
+NA
+4164
+HP/SOL/53A16/2017/115
+Himachal Pradesh
+Solan
+ 
+KALOWA
+31.105472
+76.922583
+Rock
+Slide
+NA
+4165
+HP/SHI/53E08/2016/36
+Himachal Pradesh
+Shimla
+ 
+Gajeri, SH-10
+31.105537
+77.382103
+Rock cum debris
+Slide
+NA
+4166
+HP/SHI/53E16/2016/155
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANDERPUR 
+VILLAGECHANDERPUR-NH-72 
+LINK ROAD
+31.1056
+77.7612
+Rock
+Slide
+NA
+4167
+HP/SHI/53E08/2016/50
+Himachal Pradesh
+Shimla
+ 
+Gajeri, SH-10
+31.105656
+77.382462
+Rock cum debris
+Slide
+NA
+4168
+HP/SOL/53A16/2017/2
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.105833
+76.968194
+Rock
+Slide
+NA
+4169
+HP/SHI/53E04/2017/191
+Himachal Pradesh
+Shimla
+ 
+NH 88
+31.106083
+77.11275
+Rock
+Slide
+NA
+4170
+HP/SHI/53E16/2016/171
+Himachal Pradesh
+Shimla
+ 
+NEAR MANDALNH-72 -JAGTAN 
+LINK ROAD
+31.1061
+77.996
+Debris
+Slide
+NA
+4171
+HP/SHI/53E08/2016/33
+Himachal Pradesh
+Shimla
+ 
+Near LS75, SH-10
+31.106157
+77.369286
+Rock cum debris
+Slide
+NA
+4172
+HP/SHI/53E08/2016/22
+Himachal Pradesh
+Shimla
+ 
+ 
+31.106216
+77.382462
+Rock cum debris
+Slide
+NA
+4173
+HP/SHI/53E16/2016/61
+Himachal Pradesh
+Shimla
+ 
+KATINDA
+31.1063
+77.8325
+Debris
+Slide
+NA
+4174
+HP/SHI/53E12/2016/63
+Himachal Pradesh
+Shimla
+ 
+upslope of Baina
+31.10655
+77.63225
+Rock cum debris
+Slide
+NA
+4175
+HP/SHI/53E08/2016/76
+Himachal Pradesh
+Shimla
+ 
+SH-10
+31.106694
+77.389028
+Rock cum debris
+Slide
+NA
+4176
+HP/SHI/53E08/2016/2
+Himachal Pradesh
+Shimla
+ 
+Opposite bankNH-22
+31.106989
+77.389092
+Debris
+Slide
+NA
+4177
+HP/SHI/53E08/2016/20
+Himachal Pradesh
+Shimla
+ 
+SH-10
+31.107028
+77.388556
+Rock cum debris
+Slide
+NA
+4178
+HP/SHI/53E08/2016/75
+Himachal Pradesh
+Shimla
+ 
+SH-10
+31.107083
+77.387167
+Rock cum debris
+Slide
+NA
+4179
+HP/SHI/53E08/2016/15
+Himachal Pradesh
+Shimla
+ 
+Kufri; near Indian Hotel 
+ManagementNH-5
+31.1071
+77.255264
+Rock cum debris
+Slide
+NA
+4180
+HP/SHI/53E08/2016/16
+Himachal Pradesh
+Shimla
+ 
+Kufri; near Indian Hotel 
+ManagementNH-5
+31.1071
+77.255264
+Rock cum debris
+Slide
+NA
+4181
+HP/SHI/53E04/2017/186
+Himachal Pradesh
+Shimla
+ 
+NH 88
+31.107167
+77.204472
+Debris
+Slide
+NA
+4182
+HP/SHI/53E04/2017/150
+Himachal Pradesh
+Shimla
+ 
+SH 16
+31.107194
+77.112528
+Rock
+Slide
+NA
+4183
+HP/SHI/53E08/2016/74
+Himachal Pradesh
+Shimla
+ 
+SH-10
+31.107219
+77.389167
+Rock cum debris
+Slide
+NA
+4184
+HP/SHI/53E08/2016/56
+Himachal Pradesh
+Shimla
+ 
+Kun Village, SH-10
+31.107294
+77.38073
+Debris
+Slide
+NA
+4185
+HP/SHI/53E12/2016/35
+Himachal Pradesh
+Shimla
+ 
+Jubbal, SH-10
+31.10755
+77.67498
+Debris
+Slide
+NA
+4186
+HP/SHI/53E12/2016/36
+Himachal Pradesh
+Shimla
+ 
+Jubbal, SH-10
+31.10755
+77.67498
+Debris
+Slide
+NA
+4187
+HP/SHI/53E08/2016/61
+Himachal Pradesh
+Shimla
+ 
+Bhuban ghat, SH-10
+31.107569
+77.385071
+Rock cum debris
+Slide
+NA
+4188
+HP/SHI/53E08/2016/43
+Himachal Pradesh
+Shimla
+ 
+Kun VillageSH-10
+31.107893
+77.381928
+Rock cum debris
+Slide
+NA
+4189
+HP/SOL/53A16/2017/91
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.107917
+76.970306
+Rock
+Slide
+NA
+4190
+HP/SHI/53E04/2017/177
+Himachal Pradesh
+Shimla
+ 
+JUTOGH PAHL ROAD
+31.108111
+77.206778
+Rock
+Slide
+NA
+4191
+HP/SHI/53E08/2016/37
+Himachal Pradesh
+Shimla
+ 
+Kun Village, SH-10
+31.108263
+77.38105
+Rock cum debris
+Slide
+NA
+4192
+HP/SHI/53E08/2016/41
+Himachal Pradesh
+Shimla
+ 
+Bhuban ghat, SH-10; Theog 
+Rohru Road
+31.108582
+77.383919
+NA
+Slide
+NA
+4193
+HP/SHI/53E04/2017/151
+Himachal Pradesh
+Shimla
+ 
+SH 16
+31.108694
+77.10625
+Rock
+Slide
+NA
+4194
+HP/SHI/53E08/2016/84
+Himachal Pradesh
+Shimla
+ 
+Kufri Bus StopNH-5
+31.108722
+77.251528
+Rock cum debris
+Slide
+NA
+4195
+HP/SHI/53E12/2016/33
+Himachal Pradesh
+Shimla
+ 
+Majhauli, SH-10
+31.108891
+77.564758
+Rock cum debris
+Slide
+NA
+4196
+HP/SHI/53E08/2016/85
+Himachal Pradesh
+Shimla
+ 
+Kufri Bus StopNH-5
+31.109139
+77.251722
+Rock cum debris
+Slide
+NA
+4197
+HP/SHI/53E08/2016/4
+Himachal Pradesh
+Shimla
+ 
+Bhuban ghat, SH-10
+31.109406
+77.382774
+Rock cum debris
+Slide
+NA

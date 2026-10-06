@@ -1,0 +1,382 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+33937
+UK/TEH/53J11/2015/2107
+Uttarakhand
+Tehri Garhwal
+ 
+Gadolia -Simlasu-Tipri road (SH-
+8)
+30.370322
+78.558135
+Rock cum Debris
+Slide
+NA
+33938
+UK/DEH/53J03/2015/2035
+Uttarakhand
+Dehradun
+ 
+Gondwala-GhatiKhola road
+30.370398
+78.040853
+Rock
+Slide
+2013
+33939
+UK/TEH/53J11/2015/2096
+Uttarakhand
+Tehri Garhwal
+ 
+Gadolia -Simlasu-Tipri road (SH-
+8)
+30.370498
+78.502779
+Debris
+Slide
+NA
+33940
+UK/RUD/53J15/2015/953
+Uttarakhand
+Rudraprayag
+ 
+Rudraprayag-Kedarnath Road 
+(NH-109)
+30.370712
+78.995829
+Debris
+Slide
+NA
+33941
+UK/RUD/53J15/2015/1006
+Uttarakhand
+Rudraprayag
+ 
+Tilwara-Mayali Road (SH-15)
+30.370715
+78.897006
+Debris
+Slide
+NA
+33942
+UK/CHA/53N07/2015/1234
+Uttarakhand
+Chamoli
+ 
+ 
+30.371111
+79.268389
+Debris
+Slide
+NA
+33943
+UK/CHA/53N11/2018/16
+Uttarakhand
+Chamoli
+Tapowan
+ 
+30.372372
+79.526595
+Rock
+Slide
+2016
+33944
+UK/RUD/53J15/2015/1007
+Uttarakhand
+Rudraprayag
+ 
+Tilwara-Mayali Road (SH-15)
+30.372533
+78.89388
+Rock cum Debris
+Slide
+NA
+33945
+UK/TEH/53J11/2015/2149
+Uttarakhand
+Tehri Garhwal
+ 
+Gadolia-Ghansyali (SH-8)
+30.372679
+78.591014
+Debris
+Slide
+NA
+33946
+UK/CHA/53N07/2015/1233
+Uttarakhand
+Chamoli
+ 
+ 
+30.373
+79.273333
+Rock
+Slide
+NA
+33947
+UK/CHA/53N11/2018/17
+Uttarakhand
+Chamoli
+Ganai
+Ghat-Sutol
+30.37322
+79.501497
+Rock cum debris
+Slide
+2018
+33948
+UK/RUD/53J15/2015/1000
+Uttarakhand
+Rudraprayag
+ 
+Mayali-Tilwara Road (SH-15)
+30.373541
+78.902389
+Debris
+Slide
+NA
+33949
+UK/RUD/53J15/2015/1012
+Uttarakhand
+Rudraprayag
+ 
+Tilwara-Mayali Road (SH-15)
+30.373704
+78.896325
+Rock cum Debris
+Slide
+NA
+33950
+UK/RUD/53J15/2015/1001
+Uttarakhand
+Rudraprayag
+ 
+Mayali-Tilwara Road (SH-15)
+30.373738
+78.903886
+Debris
+Slide
+NA
+33951
+UK/CHA/53N03/2015/830
+Uttarakhand
+Chamoli
+ 
+Pokhri-Nandprayag road
+30.37375
+79.226639
+Rock
+Slide
+NA
+33952
+UK/RUD/53J15/2015/1011
+Uttarakhand
+Rudraprayag
+ 
+Tilwara-Mayali Road (SH-15)
+30.374063
+78.895855
+Debris
+Slide
+NA
+33953
+UK/RUD/53J15/2015/1013
+Uttarakhand
+Rudraprayag
+ 
+Tilwara-Mayali Road (SH-15)
+30.374225
+78.904543
+Debris
+Slide
+NA
+33954
+UK/TEH/53J03/2015/1976
+Uttarakhand
+Tehri Garhwal
+ 
+Maldeota-Dhumkot road
+30.3745
+78.154185
+Rock
+Slide
+NA
+33955
+UK/RUD/53J15/2015/1010
+Uttarakhand
+Rudraprayag
+ 
+Tilwara-Mayali Road (SH-15)
+30.375091
+78.895827
+Debris
+Slide
+NA
+33956
+UK/TEH/53J11/2015/2100
+Uttarakhand
+Tehri Garhwal
+ 
+Gadolia -Simlasu-Tipri road (SH-
+8)
+30.375383
+78.506109
+Rock cum Debris
+Slide
+NA
+33957
+UK/CHA/53N11/2018/20
+Uttarakhand
+Chamoli
+Gauna
+Nandprayag-Ganai
+30.375886
+79.502274
+Rock cum debris
+Slide
+NA
+33958
+UK/RUD/53N03/2015/799
+Uttarakhand
+Rudraprayag
+ 
+Rudraprayag-Pokhri road
+30.375944
+79.010639
+Rock
+Slide
+NA
+33959
+UK/RUD/53J15/2015/999
+Uttarakhand
+Rudraprayag
+ 
+Mayali-Tilwara Road (SH-15)
+30.375985
+78.896617
+Debris
+Slide
+NA
+33960
+UK/TEH/53J11/2015/2103
+Uttarakhand
+Tehri Garhwal
+ 
+Gadolia -Simlasu-Tipri road (SH-
+8)
+30.376082
+78.523113
+Debris
+Slide
+NA
+33961
+UK/TEH/53J11/2015/2150
+Uttarakhand
+Tehri Garhwal
+ 
+Gadolia-Ghansyali (SH-8)
+30.376171
+78.588619
+Debris
+Slide
+NA
+33962
+UK/RUD/53J15/2015/1009
+Uttarakhand
+Rudraprayag
+ 
+Tilwara-Mayali Road (SH-15)
+30.376411
+78.893652
+Rock cum Debris
+Slide
+NA
+33963
+UK/TEH/53J11/2015/2099
+Uttarakhand
+Tehri Garhwal
+ 
+Gadolia -Simlasu-Tipri road (SH-
+8)
+30.376693
+78.506339
+Debris
+Slide
+NA
+33964
+UK/RUD/53J15/2015/1008
+Uttarakhand
+Rudraprayag
+ 
+Tilwara-Mayali Road (SH-15)
+30.376741
+78.890933
+Rock
+Fall
+NA
+33965
+UK/TEH/53J11/2015/2101
+Uttarakhand
+Tehri Garhwal
+ 
+Gadolia -Simlasu-Tipri road (SH-
+8)
+30.37679
+78.515921
+Debris
+Slide
+NA
+33966
+UK/CHA/53N11/2018/21
+Uttarakhand
+Chamoli
+Gauna
+Nandprayag-Ganai
+30.376799
+79.503848
+Rock cum debris
+Slide
+NA
+33967
+UK/CHA/53N03/2015/804
+Uttarakhand
+Chamoli
+ 
+Tiwara-Pokhri road
+30.377175
+79.123847
+Rock
+Slide
+NA
+33968
+UK/TEH/53J03/2015/1982
+Uttarakhand
+Tehri Garhwal
+ 
+Maldeota-Dhumkot road
+30.377186
+78.160354
+Rock cum Debris
+Slide
+NA
+33969
+UK/RUD/53J15/2015/998
+Uttarakhand
+Rudraprayag
+ 
+Mayali-Tilwara Road (SH-15)
+30.377362
+78.895729
+Debris
+Slide
+NA

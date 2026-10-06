@@ -1,0 +1,390 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1174
+AR/CHNG/92A07/2022/063
+Arunachal Pradesh
+Changlang
+Deban, Namdapha Natonal Park
+Miao-Vijyanagar road
+27.476285
+96.40896
+Debris
+Slide
+NA
+1175
+AR/CHNG/92A07/2022/062
+Arunachal Pradesh
+Changlang
+Deban, Namdapha Natonal Park
+Miao-Vijyanagar road
+27.476614
+96.408544
+Rock
+Fall
+NA
+1176
+AR/CHNG/92A07/2022/061
+Arunachal Pradesh
+Changlang
+Deban, Namdapha Natonal Park
+Miao-Vijyanagar road
+27.479141
+96.403435
+Debris
+Slide
+NA
+1177
+AR/WKG/83A03/2021/029
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 26
+NH 13/ N of Ngotengnang
+27.483667
+92.10925
+Rock
+Slide
+NA
+1178
+AR/WKG/83A03/2021/030
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 27
+NH 13/ NW of Kalobtse Mani
+27.496333
+92.104333
+Rock
+Slide
+NA
+1179
+AR/WKG/83A03/2021/031
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 28
+NH 13/ NW of Kalobtse Mani
+27.497222
+92.104667
+Debris
+Slide
+NA
+1180
+AP/WK/78M14/2008/A-13
+Arunachal Pradesh
+West Kameng
+Slide at 5 km SE from Tawang
+ 
+27.512278
+91.875556
+NA
+Flow
+2008
+1181
+AR/EK/ 83A14/2020-21/01
+Arunachal Pradesh
+East Kameng
+Pakke road section slide-1
+Pachhi-Pakke road section
+27.520111
+92.997139
+Rock
+Slide
+NA
+1182
+AR/EK/ 83A14/2020-21/10
+Arunachal Pradesh
+East Kameng
+Pakke road section slide-8
+Pachhi-Pakke road section
+27.521083
+92.995444
+Debris
+Slide
+NA
+1183
+AR/EK/ 83A14/2020-21/26
+Arunachal Pradesh
+East Kameng
+Bameng-Tayung road section slide-2
+Bameng-Tayung Road
+27.530556
+92.959167
+Rock
+Slide
+NA
+1184
+AR/EK/ 83A14/2020-21/25
+Arunachal Pradesh
+East Kameng
+Bameng-Tayung road section slide-1
+Bameng-Tayung Road
+27.5335
+92.964861
+Rock
+Slide
+NA
+1185
+AR/EK/ 83A14/2020-21/30
+Arunachal Pradesh
+East Kameng
+Lengri-Riang road section slide-1
+Lengri Riang road from Bameng 27.535806
+92.930667
+Debris
+Slide
+NA
+1186
+AR/EK/ 83A14/2020-21/02
+Arunachal Pradesh
+East Kameng
+Pakke road section slide-2
+Pachhi-Pakke road section
+27.538778
+92.988139
+Debris
+Slide
+NA
+1187
+AR/EK/ 83A14/2020-21/09
+Arunachal Pradesh
+East Kameng
+Pakke road section slide-7
+Pachhi-Pakke road section
+27.539694
+92.991306
+Rock
+Fall
+NA
+1188
+AR/EK/ 83A14/2020-21/27
+Arunachal Pradesh
+East Kameng
+N/A
+N/A
+27.540917
+92.949333
+Debris
+Slide
+NA
+1189
+AR/EK/ 83A14/2020-21/29
+Arunachal Pradesh
+East Kameng
+Bameng road section slide-3
+Bameng road
+27.542083
+92.946
+Debris
+Slide
+NA
+1190
+AR/EK/ 83A14/2020-21/28
+Arunachal Pradesh
+East Kameng
+Bameng road section slide-2
+Bameng road
+27.542389
+92.946306
+Rock
+Slide
+NA
+1191
+AR/EK/ 83A14/2020-21/16
+Arunachal Pradesh
+East Kameng
+Pakke-Bameng road section slide-1
+Pakke-Bameng Road
+27.542639
+92.954417
+Rock
+Slide
+NA
+1192
+AR/EK/ 83A14/2020-21/17
+Arunachal Pradesh
+East Kameng
+Pakke-Bameng road section slide-2
+Pakke-Bameng Road
+27.543472
+92.95525
+Debris
+Slide
+NA
+1193
+AR/EK/ 83A14/2020-21/08
+Arunachal Pradesh
+East Kameng
+Pakke road section slide-6
+Pachhi-Pakke road section
+27.543778
+92.982806
+Debris
+Slide
+NA
+1194
+AR/EK/ 83A14/2020-21/18
+Arunachal Pradesh
+East Kameng
+Pakke-Bameng road section slide-3
+Pakke-Bameng Road
+27.544667
+92.958806
+Debris
+Slide
+NA
+1195
+AR/EK/ 83A14/2020-21/03
+Arunachal Pradesh
+East Kameng
+Pakke road section slide-3
+Pachhi-Pakke road section
+27.546278
+92.981472
+Rock
+Slide
+NA
+1196
+AR/EK/ 83A14/2020-21/04
+Arunachal Pradesh
+East Kameng
+Pakke road section slide-4
+Pachhi-Pakke road section
+27.549389
+92.979028
+Rock
+Slide
+NA
+1197
+AR/EK/ 83A14/2020-21/19
+Arunachal Pradesh
+East Kameng
+Pakke-Bameng road section slide-4
+Pakke-Bameng Road
+27.550389
+92.964861
+Debris
+Slide
+NA
+1198
+AR/EK/ 83A14/2020-21/20
+Arunachal Pradesh
+East Kameng
+Pakke-Bameng road section slide-5
+Pakke-Bameng Road
+27.552639
+92.965861
+Rock
+Slide
+NA
+1199
+AR/EK/ 83A14/2020-21/05
+Arunachal Pradesh
+East Kameng
+Pakke road section slide-5
+Pachhi-Pakke road section
+27.553611
+92.975583
+Rock
+Fall
+NA
+1200
+AR/EK/ 83A14/2020-21/21
+Arunachal Pradesh
+East Kameng
+Pakke-Bameng road section slide-6
+Pakke-Bameng Road
+27.555194
+92.966222
+Rock
+Slide
+NA
+1201
+AR/EK/ 83A14/2020-21/24
+Arunachal Pradesh
+East Kameng
+Pakke-Bameng road section slide-9
+Pakke-Bameng Road
+27.555389
+92.960778
+Debris
+Slide
+NA
+1202
+AR/EK/ 83A14/2020-21/22
+Arunachal Pradesh
+East Kameng
+Pakke-Bameng road section slide-7
+Pakke-Bameng Road
+27.555583
+92.963028
+Rock
+Slide
+NA
+1203
+AR/EK/ 83A14/2020-21/23
+Arunachal Pradesh
+East Kameng
+Pakke-Bameng road section slide-8
+Pakke-Bameng Road
+27.555611
+92.962194
+Debris
+Slide
+NA
+1204
+AR/KD/82E/10/2018/01
+Arunachal Pradesh
+Kra Daadi
+Deed- New Palin 
+State Highway, Deed to New 
+Palin road
+27.5806
+93.6348
+Debris
+Flow 
+NA
+1205
+AR/KP/83E16/2018/02
+Arunachal Pradesh
+Papum Pare
+Yupia-Midpu 
+NH713A
+27.1929
+93.7802
+Debris
+Slide
+NA
+1206
+AR/PP/83E12/2018/03
+Arunachal Pradesh
+Papum Pare
+Itanagar-Naharlagun
+National Highway 415
+27.1076
+93.6413
+Debris and 
+unconsolidated 
+material
+Debris flow and 
+subsidence
+NA
+1207
+Landslide No. 1
+Arunachal Pradesh
+Papum Pare
+NH-415, Kachcha Pahar, Gohpur  
+landslide
+NH-415
+27.07925
+93.59430556
+Soil and boulders
+Mud flow
+NA

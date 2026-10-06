@@ -1,0 +1,533 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+6062
+HP/MAN/53E02/2015/108
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.677778
+77.078417
+Debris
+Slide
+NA
+6063
+HP/MAN/53E02/2015/107
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.678222
+77.080639
+Rock
+Slide
+NA
+6064
+HP/MAN/53E02/2015/106
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.679111
+77.081333
+Debris
+Slide
+NA
+6065
+HP/KUL/53E06/2016/69
+Himachal Pradesh
+Kullu
+ 
+N of Ritua
+31.680469
+77.297479
+Rock
+Slide
+NA
+6066
+HP/MAN/53E02/2015/105
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.6805
+77.083333
+Debris
+Slide
+NA
+6067
+HP/MAN/53E02/2015/109
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.681194
+77.086194
+Rock
+Fall
+NA
+6068
+HP/MAN/53E2/2017/02
+Himachal Pradesh
+Mandi
+Deod slide
+NH-21 (Near Deod Village): 
+Tehsil: Aut, District Mandi
+31.681417
+77.086611
+Rock cum debris
+Slide
+2017
+6069
+HP/MAN/53E02/2015/111
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.681611
+77.08675
+Debris
+Slide
+NA
+6070
+HP/MAN/53E02/2015/229
+Himachal Pradesh
+Mandi
+ 
+Bhawash road
+31.683639
+77.077528
+Rock cum debris
+Slide
+NA
+6071
+HP/MAN/53E02/2015/226
+Himachal Pradesh
+Mandi
+ 
+Bhawash road
+31.684111
+77.084194
+Rock cum debris
+Slide
+NA
+6072
+HP/MAN/53E2/2017/07
+Himachal Pradesh
+Mandi
+Deod-Jogini stretch of NH-21
+NH-21 (Along Deod-Jogini 
+stretch of Pandoh-Aut Section)
+31.684417
+77.097278
+Rock
+Fall
+2017
+6073
+HP/MAN/53E02/2015/227
+Himachal Pradesh
+Mandi
+ 
+Bhawash road
+31.684556
+77.081944
+Rock cum debris
+Slide
+NA
+6074
+HP/MAN/53E02/2015/228
+Himachal Pradesh
+Mandi
+ 
+Bhawash road
+31.684611
+77.080417
+Rock cum debris
+Slide
+NA
+6075
+HP/MAN/53E06/2016/111
+Himachal Pradesh
+Mandi
+ 
+Trilokpur
+31.686235
+77.336237
+Rock
+Fall
+NA
+6076
+HP/MAN/53A14/2015/289
+Himachal Pradesh
+Mandi
+ 
+South of pajnet,SH 32
+31.686664
+76.917529
+Rock
+Slide
+NA
+6077
+HP/KUL/53E06/2016/60
+Himachal Pradesh
+Kullu
+ 
+N OF Gopalpur
+31.687348
+77.304498
+Rock cum debris
+Slide
+NA
+6078
+HP/KUL/53E06/2016/67
+Himachal Pradesh
+Kullu
+ 
+Bunga
+31.688004
+77.295602
+Rock
+Slide
+NA
+6079
+HP/MAN/53E02/2015/230
+Himachal Pradesh
+Mandi
+ 
+Bhawash road
+31.689194
+77.084639
+Rock cum debris
+Slide
+NA
+6080
+HP/MAN/53E02/2015/231
+Himachal Pradesh
+Mandi
+ 
+Bajaura-Mandi road
+31.689194
+77.084639
+Debris
+Slide
+NA
+6081
+HP/MAN/53E02/2015/232
+Himachal Pradesh
+Mandi
+ 
+Bajaura-Mandi road
+31.689194
+77.085861
+Debris
+Slide
+NA
+6082
+HP/MAN/53E02/2015/233
+Himachal Pradesh
+Mandi
+ 
+Batheri road
+31.689361
+77.086111
+Debris
+Slide
+NA
+6083
+HP/MAN/53E02/2015/234
+Himachal Pradesh
+Mandi
+ 
+Batheri road
+31.689389
+77.086389
+Debris
+Slide
+NA
+6084
+HP/MAN/53A14/2015/288
+Himachal Pradesh
+Mandi
+ 
+Pajnet,SH 32
+31.689432
+76.920244
+Rock
+Slide
+2013
+6085
+HP/KUL/53E06/2016/70
+Himachal Pradesh
+Kullu
+ 
+N of Gopalpur
+31.690113
+77.309254
+Rock
+Slide
+NA
+6086
+HP/MAN/53E02/2015/113
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.690528
+77.249583
+Debris
+Slide
+NA
+6087
+HP/KUL/53E06/2016/115
+Himachal Pradesh
+Kullu
+ 
+Bali Chowki
+31.690583
+77.287577
+Rock
+Fall
+1970
+6088
+HP/KUL/53E06/2016/105
+Himachal Pradesh
+Kullu
+ 
+N of Bunga
+31.69067
+77.298183
+Rock
+Slide
+NA
+6089
+HP/MAN/53E02/2015/110
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.691889
+77.131306
+Debris
+Slide
+NA
+6090
+HP/KUL/53E06/2016/71
+Himachal Pradesh
+Kullu
+ 
+N of Gopalpur
+31.69202
+77.307156
+Rock
+Slide
+NA
+6091
+HP/KUL/53E06/2016/85
+Himachal Pradesh
+Kullu
+ 
+Gopalpur
+31.692183
+77.316717
+Rock
+Slide
+NA
+6092
+HP/MAN/53A14/2015/287
+Himachal Pradesh
+Mandi
+ 
+South of Mandi, SH 32
+31.692658
+76.92238
+Rock
+Slide
+2010
+6093
+HP/MAN/53E02/2015/104
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.694167
+77.15
+Rock cum debris
+Subsidence
+NA
+6094
+HP/MAN/53E02/2015/112
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.694472
+77.139361
+Debris
+Slide
+NA
+6095
+HP/KUL/53E06/2016/93
+Himachal Pradesh
+Kullu
+ 
+NW of Bali
+31.695367
+77.279277
+Debris
+Slide
+NA
+6096
+HP/MAN/53E2/2017/03
+Himachal Pradesh
+Mandi
+Dwada landslide Dwada [231/370 to 
+Km 231/480Km]
+NH-21 (Along Deod - Hanogi - 
+Dwada Stretch)
+31.695978
+77.15105
+Rock
+Fall
+2014
+6097
+HP/MAN/53A14/2015/351
+Himachal Pradesh
+Mandi
+ 
+Chanaun,NH 70,Milestone 255
+31.697959
+76.908971
+Rock
+Slide
+NA
+6098
+HP/MAN/53A14/2015/286
+Himachal Pradesh
+Mandi
+ 
+South of Mandi, NH 70
+31.698194
+76.933262
+Rock
+Slide
+NA
+6099
+HP/KUL/53E06/2016/135
+Himachal Pradesh
+Kullu
+ 
+N of Chakurtha
+31.699286
+77.279789
+Rock
+Slide
+NA
+6100
+HP/MAN/53A10/2018/11
+Himachal Pradesh
+Mandi
+ 
+NH-70
+31.699889
+76.721444
+Debris
+Slide
+NA
+6101
+HP/KUL/53E06/2016/94
+Himachal Pradesh
+Kullu
+ 
+W of Chakurtha
+31.700061
+77.277516
+Debris
+Slide
+NA
+6102
+HP/MAN/53E02/2015/116
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.700667
+77.221361
+Debris
+Slide
+NA
+6103
+HP/MAN/53E02/2015/117
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.700667
+77.221361
+Debris
+Slide
+NA
+6104
+HP/MAN/53E02/2015/118
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.700667
+77.221361
+Debris
+Slide
+NA
+6105
+HP/MAN/53E02/2015/103
+Himachal Pradesh
+Mandi
+ 
+ 
+31.701028
+77.171694
+Debris
+Slide
+NA
+6106
+HP/MAN/53E02/2015/102
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.701667
+77.178639
+Debris
+Slide
+NA
+6107
+HP/KUL/53E06/2016/123
+Himachal Pradesh
+Kullu
+ 
+Narauli
+31.701949
+77.319429
+Rock cum debris
+Slide
+NA
+6108
+HP/KUL/53E06/2016/103
+Himachal Pradesh
+Kullu
+ 
+SE of Hurla
+31.702517
+77.276447
+Rock
+Slide
+NA

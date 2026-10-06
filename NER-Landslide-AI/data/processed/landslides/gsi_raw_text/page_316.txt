@@ -1,0 +1,413 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+13513
+KRL/MAL/54A03/2015/73
+Kerala
+Malappuram
+Oorganthiri Village
+Chembukadavu-Adivaram Road 11.252528
+76.099139
+Debris
+Flow
+NA
+13514
+KRL/MAL/54A03/2015/55
+Kerala
+Malappuram
+Ethumpali Colony
+Vettilappara Road
+11.265792
+76.112658
+Rock cum Debris
+Slide
+NA
+13515
+KRL/MAL/54A03/2015/56
+Kerala
+Malappuram
+Ethumpali Colony
+Vettilappara Road
+11.266885
+76.110803
+Debris
+Flow
+2008
+13516
+KRL/MAL/54A03/2015/60
+Kerala
+Malappuram
+ 
+Vettilappara Road
+11.271553
+76.116892
+Debris
+Flow
+NA
+13517
+KRL/MAL/54A03/2015/72
+Kerala
+Malappuram
+Vettilapara Village
+Vettilappara Road
+11.271806
+76.131028
+Debris
+Flow
+NA
+13518
+KRL/MAL/54A03/2015/53
+Kerala
+Malappuram
+ 
+Vettilappara Road
+11.272246
+76.095465
+Debris
+Slide
+2015
+13519
+KRL/MAL/54A03/2015/61
+Kerala
+Malappuram
+Odakkayam
+Vettilappara Road
+11.272253
+76.129928
+Rock cum Debris
+Flow
+NA
+13520
+KRL/MAL/54A03/2015/54
+Kerala
+Malappuram
+Vettilappara
+Vettilappara Road
+11.272404
+76.097809
+Debris
+Slide
+NA
+13521
+KER/MALA/58A03/2007/0012
+Kerala
+Malappuram
+Odakkayam-Muppari mala
+Vettilapara
+11.275
+76.123
+Debris
+Slide
+17 July 2007
+13522
+KRL/MAL/54A03/2015/67
+Kerala
+Malappuram
+Vettilapara Village
+Vettilappara Road
+11.275861
+76.088361
+Debris
+Flow
+NA
+13523
+KRL/MAL/54A03/2015/69
+Kerala
+Malappuram
+Vettilapara Village
+Vettilappara Road
+11.275861
+76.088361
+Debris
+Flow
+NA
+13524
+KRL/MAL/54A03/2015/70
+Kerala
+Malappuram
+Vettilapara Village
+Vettilappara Road
+11.275861
+76.087778
+Debris
+Flow
+NA
+13525
+KRL/MAL/54A03/2015/71
+Kerala
+Malappuram
+Vettilapara Village
+Vettilappara Road
+11.275861
+76.087222
+Debris
+Flow
+NA
+13526
+KRL/MAL/54A03/2015/59
+Kerala
+Malappuram
+Alappara
+Kaithakkunnu Road
+11.275869
+76.086897
+Debris
+Flow
+NA
+13527
+KRL/MAL/54A03/2015/58
+Kerala
+Malappuram
+Alappara
+Kaithakkunnu Road
+11.276042
+76.087517
+Rock cum Debris
+Flow
+NA
+13528
+KRL/MAL/54A03/2015/62
+Kerala
+Malappuram
+Kodumpuzha
+Vettilappara Road
+11.280036
+76.125064
+Rock cum Debris
+Flow
+NA
+13529
+KRL/MAL/54A03/2015/57
+Kerala
+Malappuram
+Alappara
+NULL
+11.282696
+76.092205
+Debris
+Flow
+NA
+13530
+KRL/MAL/54A03/2015/65
+Kerala
+Malappuram
+Kerala Estate Village
+Panamplave-Pannipoyil Road
+11.284139
+76.076333
+Debris
+Flow
+NA
+13531
+KRL/MAL/54A03/2015/66
+Kerala
+Malappuram
+Vettilapara Village
+Panamplave-Pannipoyil Road
+11.284139
+76.076333
+Debris
+Flow
+NA
+13532
+KER/KOZH/58A03/2007/0004
+Kerala
+Kozhikode
+Mysoorpetta-Thottumukkam
+Kodiyattur
+11.2937
+76.0504
+Debris
+Slide
+17 July 2007 (02:00 hrs)
+13533
+KRL/KOZ/54A03/2015/84
+Kerala
+Kozhikode
+Kodiyattur village
+Thottumukkam-Parathode Road 11.293778
+76.050417
+Debris
+Slide
+NA
+13534
+KRL/KOZ/54A03/2015/82
+Kerala
+Kozhikode
+Kudiattur Village
+Thottumukkam-Parathode Road 11.295278
+76.049333
+Debris
+Slide
+NA
+13535
+KRL/MAL/54A03/2015/68
+Kerala
+Malappuram
+Vettilapara Village
+Vettilappara Road
+11.301528
+76.094389
+Debris
+Flow
+NA
+13536
+KER/KOZH/58A03/2007/0005
+Kerala
+Kozhikode
+Thottumukkam
+Kumaranallur
+11.3114
+76.0335
+Rock cum Debris
+Avalanche
+17 July 2007 (01:30 hrs)
+13537
+KRL/KOZ/54A03/2015/85
+Kerala
+Kozhikode
+Kumaranallur village
+Koombara Road
+11.311417
+76.033556
+Debris
+Slide
+NA
+13538
+KRL/MAL/54A03/2015/46
+Kerala
+Malappuram
+ 
+Nilambur Road
+11.322642
+76.129572
+Earth
+Slide
+2015
+13539
+KRL/KOZ/54A03/2015/83
+Kerala
+Kozhikode
+Koodaranji Village
+Anakkalupara-Akampuzha Road 11.326111
+76.075639
+Debris
+Flow
+NA
+13540
+KRL/MAL/54A03/2015/47
+Kerala
+Malappuram
+Ariyaad Estate
+Nilambur Road
+11.330431
+76.165575
+Rock cum Debris
+Slide
+NA
+13541
+KRL/KOZ/54A03/2015/80
+Kerala
+Kozhikode
+Koodaranji Village
+Anakkalupara-Akampuzha Road 11.330556
+76.088278
+Rock
+Fall
+NA
+13542
+KRL/KOZ/54A03/2015/81
+Kerala
+Kozhikode
+Chekkattupara Village
+Anakkalupara-Akampuzha Road 11.330556
+76.088278
+Rock
+Fall
+NA
+13543
+KRL/MAL/54A03/2015/51
+Kerala
+Malappuram
+ 
+Nilambur Road
+11.335364
+76.138392
+Rock cum Debris
+Slide
+NA
+13544
+KRL/MAL/54A03/2015/44
+Kerala
+Malappuram
+Vennekodu
+Nilambur Road
+11.335458
+76.144136
+Rock cum Debris
+Slide
+1999
+13545
+KRL/MAL/54A03/2015/45
+Kerala
+Malappuram
+Edivanna
+Nilambur Road
+11.337264
+76.135661
+Debris
+Slide
+2015
+13546
+KRL/MAL/54A03/2015/48
+Kerala
+Malappuram
+ 
+Nilambur Road
+11.337961
+76.148764
+Earth
+Slide
+2007
+13547
+KRL/KOZ/54A03/2015/74
+Kerala
+Kozhikode
+Pullipadam Village
+Nilambur Road
+11.338389
+76.129556
+Debris
+Slide
+NA
+13548
+KRL/MAL/54A03/2015/49
+Kerala
+Malappuram
+ 
+Nilambur Road
+11.338433
+76.145994
+Earth
+Slide
+2015
+13549
+KER/KOZH/58A03/2007/0008
+Kerala
+Kozhikode
+Anayode
+Koodaranji
+11.3404
+76.0681
+Debris
+Slide
+17 July 2007 (02:00 hrs)

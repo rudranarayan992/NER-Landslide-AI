@@ -1,0 +1,504 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+4359
+HP/SHI/53E16/2016/91
+Himachal Pradesh
+Shimla
+ 
+NEAR BHOLAR VILLAGE BHOLAR 
+LINK ROAD
+31.1541
+77.7837
+Debris
+Slide
+NA
+4360
+HP/SHI/53E04/2017/168
+Himachal Pradesh
+Shimla
+ 
+BAROHI
+31.154111
+77.074056
+Debris
+Slide
+NA
+4361
+HP/SHI/53E04/2017/118
+Himachal Pradesh
+Shimla
+ 
+NH 88
+31.154194
+77.032944
+Rock
+Slide
+NA
+4362
+HP/SHI/53E04/2017/175
+Himachal Pradesh
+Shimla
+ 
+JUTOGH PAHL ROAD
+31.154389
+77.032583
+Rock
+Slide
+NA
+4363
+HP/SOL/53A16/2017/232
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.154611
+77.039722
+Rock
+Slide
+NA
+4364
+HP/SHI/53E04/2017/98
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.154722
+77.039917
+Debris
+Slide
+NA
+4365
+HP/SHI/53E16/2016/72
+Himachal Pradesh
+Shimla
+ 
+NEAR BHOLAR VILLAGE BHOLAR 
+LINK ROAD
+31.1549
+77.7844
+Debris
+Slide
+NA
+4366
+HP/SHI/53E04/2017/174
+Himachal Pradesh
+Shimla
+ 
+JUTOGH PAHL ROAD
+31.156917
+77.209278
+Debris
+Slide
+NA
+4367
+HP/SHI/53E04/2017/38
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.1585
+77.205222
+Debris
+Slide
+NA
+4368
+HP/SOL/53A16/2017/132
+Himachal Pradesh
+Solan
+ 
+MATLOG
+31.159917
+76.896361
+Rock
+Slide
+NA
+4369
+HP/SHI/53E16/2016/59
+Himachal Pradesh
+Shimla
+ 
+NEAR BAKHIRNA VILLAGE
+31.1602
+77.7637
+Debris
+Slide
+NA
+4370
+HP/SHI/53E04/2017/169
+Himachal Pradesh
+Shimla
+ 
+PANTI
+31.160472
+77.063361
+Rock
+Slide
+NA
+4371
+HP/SHI/53E12/2016/10
+Himachal Pradesh
+Shimla
+ 
+ 
+31.16061
+77.72372
+Debris
+Slide
+2011
+4372
+HP/SHI/53E04/2017/170
+Himachal Pradesh
+Shimla
+ 
+PANTI
+31.161028
+77.058556
+Rock
+Slide
+NA
+4373
+HP/SHI/53E04/2017/76
+Himachal Pradesh
+Shimla
+ 
+KADARGHAT
+31.161028
+77.0585
+Rock
+Slide
+NA
+4374
+HP/SHI/53E04/2017/176
+Himachal Pradesh
+Shimla
+ 
+JUTOGH PAHL ROAD
+31.161222
+77.030639
+Debris
+Slide
+NA
+4375
+HP/SHI/53E04/2017/87
+Himachal Pradesh
+Shimla
+ 
+BASANTPUR KARIALI ROAD
+31.161389
+77.053167
+Rock
+Slide
+NA
+4376
+HP/SHI/53E04/2017/171
+Himachal Pradesh
+Shimla
+ 
+PANTI
+31.161472
+77.057333
+Debris
+Slide
+NA
+4377
+HP/SHI/53E16/2016/60
+Himachal Pradesh
+Shimla
+ 
+NEAR BAKHIRNA VILLAGE
+31.1617
+77.7577
+Debris
+Slide
+NA
+4378
+HP/SHI/53E04/2017/172
+Himachal Pradesh
+Shimla
+ 
+JUTOGH PAHL ROAD
+31.161722
+77.045528
+Debris
+Slide
+NA
+4379
+HP/SHI/53E16/2016/148
+Himachal Pradesh
+Shimla
+ 
+CHOPARI VILLAGE CHOPARI-NH 
+72 LINK ROAD
+31.1618
+77.776
+Rock
+Fall
+NA
+4380
+HP/SHI/53E16/2016/149
+Himachal Pradesh
+Shimla
+ 
+CHOPARI VILLAGE CHOPARI-NH 
+72 LINK ROAD
+31.1619
+77.7741
+Rock
+Fall
+NA
+4381
+HP/SHI/53E04/2017/120
+Himachal Pradesh
+Shimla
+ 
+NH 88
+31.162639
+77.035417
+Debris
+Slide
+NA
+4382
+HP/SHI/53E16/2016/150
+Himachal Pradesh
+Shimla
+ 
+CHOPARI VILLAGE CHOPARI-NH 
+72 LINK ROAD
+31.1629
+77.7731
+Rock
+Fall
+NA
+4383
+HP/SOL/53E04/2017/243
+Himachal Pradesh
+Solan
+ 
+SHOGI KASUMPTI ROAD
+31.163444
+77.015667
+Debris
+Slide
+NA
+4384
+HP/SHI/53E04/2017/119
+Himachal Pradesh
+Shimla
+ 
+NH 88
+31.163778
+77.028639
+Debris
+Slide
+NA
+4385
+HP/SOL/53A16/2017/133
+Himachal Pradesh
+Solan
+ 
+MATLOG
+31.163944
+76.897528
+Rock
+Slide
+NA
+4386
+HP/SHI/53E04/2017/161
+Himachal Pradesh
+Shimla
+ 
+SH 16
+31.164111
+77.114944
+Debris
+Slide
+NA
+4387
+HP/SHI/53E04/2017/162
+Himachal Pradesh
+Shimla
+ 
+SH 16
+31.164139
+77.114111
+Debris
+Slide
+NA
+4388
+HP/SOL/53A16/2017/108
+Himachal Pradesh
+Solan
+ 
+CHAMARDI
+31.164222
+76.861083
+Debris
+Slide
+NA
+4389
+HP/SOL/53E04/2017/244
+Himachal Pradesh
+Solan
+ 
+KASUMPTI
+31.164444
+77.010111
+Debris
+Slide
+2017
+4390
+HP/SOL/53E04/2017/245
+Himachal Pradesh
+Solan
+ 
+KASUMPTI
+31.164833
+77.006861
+Debris
+Slide
+NA
+4391
+HP/SHI/53E04/2017/114
+Himachal Pradesh
+Shimla
+ 
+NATLI KANDA
+31.164972
+77.232889
+Rock
+Fall
+NA
+4392
+HP/SHI/53E16/2016/71
+Himachal Pradesh
+Shimla
+ 
+CHOPARI VILLAGE CHOPARI-NH 
+72 LINK ROAD
+31.1652
+77.7772
+Debris
+Slide
+NA
+4393
+HP/SOL/53E04/2017/246
+Himachal Pradesh
+Solan
+ 
+KASUMPTI
+31.165417
+77.005194
+Debris
+Slide
+NA
+4394
+HP/SHI/53E16/2016/12
+Himachal Pradesh
+Shimla
+ 
+SIDROTINH-72-SIDROTI LINK 
+ROAD
+31.1666
+77.7634
+Debris
+Subsidence
+NA
+4395
+HP/SOL/53A16/2017/234
+Himachal Pradesh
+Solan
+ 
+NH 88
+31.166833
+77.000333
+Rock
+Slide
+NA
+4396
+HP/SHI/53E16/2016/99
+Himachal Pradesh
+Shimla
+ 
+NEAR SIDROTI VILLAGRE
+31.1684
+77.767
+Debris
+Fall
+NA
+4397
+HP/SHI/53E16/2016/70
+Himachal Pradesh
+Shimla
+ 
+CHOPARI VILLAGE CHOPARI-NH 
+72 LINK ROAD
+31.1684
+77.767
+Debris
+Slide
+NA
+4398
+HP/SHI/53E04/2017/121
+Himachal Pradesh
+Shimla
+ 
+GHANDAL HALOG ROAD
+31.169361
+77.036639
+Rock
+Slide
+NA
+4399
+HP/SOL/53A16/2017/15
+Himachal Pradesh
+Solan
+ 
+ARKI PIPLUGHAT ROAD
+31.169528
+76.939556
+Rock
+Slide
+NA
+4400
+HP/SHI/53E04/2017/39
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.17
+77.204361
+Debris
+Slide
+NA
+4401
+HP/SHI/53E08/2016/97
+Himachal Pradesh
+Shimla
+ 
+Sadhu
+31.17093
+77.77254
+Rock
+Slide
+2015
+4402
+HP/SOL/53A16/2017/134
+Himachal Pradesh
+Solan
+ 
+PANHARU
+31.171167
+76.891417
+Rock
+Slide
+NA

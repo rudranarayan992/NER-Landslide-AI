@@ -1,0 +1,493 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22835
+MZ/AZL/84A14/2024/136
+Mizoram
+Aizawl
+Zemabawk to Tuirial Airfield
+23.73555556
+92.78833333
+Rock
+Slide
+28 May 2024
+22836
+MZ/AZL/84A14/2024/137
+Mizoram
+Aizawl
+Tuirial
+23.72694444
+92.79527778
+Debris
+Slide
+28 May 2024
+22837
+MZ/AZL/84A14/2024/138
+Mizoram
+Aizawl
+Tuirial Airfield
+23.73277778
+92.79722222
+Debris
+Slide
+28 May 2024
+22838
+MZ/AZL/84A14/2024/139
+Mizoram
+Aizawl
+Tuirial Airfield Cemetery
+23.73416667
+92.79861111
+Debris
+Slide
+28 May 2024
+22839
+MZ/AZL/84A14/2024/140
+Mizoram
+Aizawl
+Tuirial Airfield
+23.74555556
+92.79444444
+Debris
+Slide
+28 May 2024
+22840
+MZ/AZL/84A14/2024/141
+Mizoram
+Aizawl
+Tuirial Airfield
+23.73666667
+92.79722222
+Debris
+Subsidence
+28 May 2024
+22841
+MZ/AZL/84A14/2024/142
+Mizoram
+Aizawl
+Tuirial Airfield
+23.73638889
+92.79805556
+Earth
+Slide
+28 May 2024
+22842
+MZ/AZL/84A14/2024/143
+Mizoram
+Aizawl
+Tuirial Airfield
+23.73583333
+92.79888889
+Earth
+Slide
+28 May 2024
+22843
+MZ/AZL/84A14/2024/144
+Mizoram
+Aizawl
+Tuirial Airfield
+23.73638889
+92.8
+Earth
+Slide
+28 May 2024
+22844
+MZ/AZL/84A14/2024/145
+Mizoram
+Aizawl
+Tuirial Airfield
+23.73555556
+92.80027778
+Debris
+Slide
+28 May 2024
+22845
+MZ/AZL/84A14/2024/146
+Mizoram
+Aizawl
+Tuirial  
+23.71972222
+92.79777778
+Earth
+Slide
+28 May 2024
+22846
+MZ/AZL/84A14/2024/0147
+Mizoram
+Aizawl
+Tuirial
+23.72222222
+92.80138889
+Rock
+Slide
+28 May 2024
+22847
+MZ/AZL/84A14/2024/148
+Mizoram
+Aizawl
+Tuirial to Seling town
+23.73111111
+92.84944444
+Debris
+Slide
+July 2023
+22848
+MZ/AZL/84A14/2024/149
+Mizoram
+Aizawl
+Seling to Sesawng
+23.73305556
+92.84777778
+Debris
+Slide
+28 May 2024
+22849
+MZ/AZL/84A13/2024/150
+Mizoram
+Aizawl
+Sesawng
+23.76083333
+92.8475
+Debris
+Slide
+28 May 2024
+22850
+MZ/AZL/84A13/2024/151
+Mizoram
+Aizawl
+Khawruhlian
+23.86972222
+92.87611111
+Debris
+Slide
+28 May 2024
+22851
+MZ/AZL/84A13/2024/152
+Mizoram
+Aizawl
+Mualmam
+23.80750556
+92.83417222
+Earth
+Slide
+28 May 2024
+22852
+MZ/SER/84A15/2024/153
+Mizoram
+Serchhip
+Chhingchhip NH
+23.47694444
+92.857846
+Debris
+Slide 
+28 May 2024
+22853
+MZ/SER/84A15/2024/154
+Mizoram
+Serchhip
+Venglai , Chhingchhip 
+23.471041
+92.85503
+Debris
+Slide
+28 May 2024
+22854
+MZ/SER/84A15/2024/155
+Mizoram
+Serchhip
+Venglai, Chhingchhip 
+23.465558
+92.855991
+Debris
+Slide
+28 May 2024
+22855
+MZ/SER/84A15/2024/156
+Mizoram
+Serchhip
+Venglai, Chhingchhip 
+23.463164
+92.854672
+Debris
+Slide
+28 May 2024
+22856
+MZ/SER/84A15/2024/157
+Mizoram
+Serchhip
+Hmar Veng, Serchhip 
+23.31259
+92.856415
+Debris
+Slide
+28 May 2024
+22857
+MZ/SER/84A15/2024/158
+Mizoram
+Serchhip
+NH, Serchhip 
+23.288812
+92.864763
+Debris
+Slide
+28 May 2024
+22858
+MZ/SER/84A15/2024/159
+Mizoram
+Serchhip
+NH, Serchhip 
+23.281264
+92.869279
+Debris
+Slide
+28 May 2024
+22859
+MZ/SER/84A15/2024/160
+Mizoram
+Serchhip
+S Chhiahtlang , Near VCP house 23.379441
+92.844081
+Debris
+Slide
+28 May 2024
+22860
+MZ/SER/84A15/2024/161
+Mizoram
+Serchhip
+S Chhiahtlang, Kawn Veng
+23.38151
+92.844938
+Debris
+Slide
+28 May 2024
+22861
+MZ/SER/84A15/2024/162
+Mizoram
+Serchhip
+S Chhiahtlang, Kawn Veng
+23.382175
+92.843876
+Debris
+Slide
+28 May 2024
+22862
+MZ/SER/84A15/2024/163
+Mizoram
+Serchhip
+N Chhiahtlang
+23.382772
+92.845187
+Debris
+Slide
+28 May 2024
+22863
+MZ/SER/84A15/2024/164
+Mizoram
+Serchhip
+N Chhiahtlang, towards Jail road 23.381533
+92.854115
+Debris
+Slide
+28 May 2024
+22864
+MZ/SER/84A15/2024/165
+Mizoram
+Serchhip
+Chhiahtlang
+23.387941
+92.842291
+Debris
+Slide
+28 May 2024
+22865
+MZ/SER/84A16/2024/166
+Mizoram
+Serchhip
+Keitum 
+23.237077
+92.910043
+Debris
+Slide
+28 May 2024
+22866
+MZ/SER/84E04/2024/167
+Mizoram
+Serchhip
+N Vanlaiphai
+23.126631
+93.064946
+Debris
+Slide
+28 May 2024
+22867
+MZ/SAI/84A14/2024/168
+Mizoram
+Saitual
+Saitual
+23.665375
+92.96162
+Debris
+Slide
+28.05.2024
+22868
+MZ/SAI/84A14/2024/169
+Mizoram
+Saitual
+Saitual
+23.683824
+92.963188
+Debris
+Slide
+28.05.2024
+22869
+MZ/SAI/84A14/2024/170
+Mizoram
+Saitual
+Saitual
+23.696577
+92.967198
+Debris
+Slide
+28.05.2024
+22870
+MIZ/AZL/2022/1
+Mizoram
+Aizawl
+RIPANS Complex, Zemabawk
+NULL
+23.73044444
+92.75108333
+Regolith
+Debris slide
+July 2022
+22871
+MIZ/AZL/2022/2
+Mizoram
+Aizawl
+RIPANS Complex, Zemabawk
+NULL
+23.73019444
+92.75141667
+Rock
+Rock slide
+2010
+22872
+MIZ/AZL/2022/3
+Mizoram
+Aizawl
+Hunthar veng, Aizawl
+NULL
+23.74111111
+92.71083333
+Colluvium
+Debris slide
+July 2022
+22873
+MIZ/AZL/2022/4
+Mizoram
+Aizawl
+Hunthar veng, Aizawl
+NULL
+23.74194444
+92.71027778
+Colluvium
+Debris slide
+July 2022
+22874
+MIZ/AZL/2022/5
+Mizoram
+Aizawl
+Beraw Tlang, Zemabawk, Aizawl
+NULL
+23.73041667
+92.75552778
+Compacted Debris
+Debris flow
+April 2020
+22875
+MIZ/AZL/2022/6
+Mizoram
+Aizawl
+Beraw Tlang, Zemabawk, Aizawl
+NULL
+23.73041667
+92.75552778
+Compacted Debris
+Debris flow
+2019
+22876
+MIZ/AZL/2022/7
+Mizoram
+Aizawl
+Kulikawn, Aizawl
+NULL
+23.70825
+92.71769444
+rock
+Rock slide
+2022
+22877
+MIZ/AZL/2022/8
+Mizoram
+Aizawl
+Hlimen Vengthlang
+NULL
+23.68352778
+92.71338889
+Colluvium
+Debris 
+subsidence
+2017
+22878
+MIZ/AZL/2022/9
+Mizoram
+Aizawl
+Hlimen
+NULL
+23.4745
+93.28916667
+Regolith
+Rock slide
+July 2022
+22879
+MIZ/KOL/2022/10
+Mizoram
+Kolasib
+Bilkhawthlir to Serlui B Road
+NULL
+24.34966667
+92.75888889
+Earth
+Soil slide
+August 2022
+22880
+MIZ/KOL/2022/11
+Mizoram
+Kolasib
+Bilkhawthlir to Serlui B Road
+NULL
+24.33805556
+92.73386111
+Rock
+Rock slide
+August 2022
+22881
+MIZ/KOL/2022/12
+Mizoram
+Kolasib
+Bilkhawthlir to Serlui B Road
+NULL
+24.33836111
+92.73377778
+Regolith
+Debris slide
+July 2022

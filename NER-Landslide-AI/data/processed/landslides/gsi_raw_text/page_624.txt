@@ -1,0 +1,493 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+24595
+NG/KOH/83K2/2015/82
+Nagaland
+Kohima
+ 
+Secretariat-BSF Camp road
+25.688
+94.12
+Debris
+Slide
+2014
+24596
+NG/KOH/83G14/2015/24
+Nagaland
+Kohima
+ 
+SW of Thekriijuma
+25.688
+93.907
+Debris
+Slide
+2015
+24597
+NG/KOH/83K2/2015/163
+Nagaland
+Kohima
+ 
+Secretariat-BSF Camp road
+25.688
+94.121
+Debris
+Slide
+2011
+24598
+NAG/KMA/83K2/2017/02
+Nagaland
+Kohima
+Peraciezie colony slide
+Peraciezie colony, Near High 
+School Junction, Kohima city
+25.688667
+94.097333
+Debris
+Subsidence
+1986
+24599
+NG/KOH/83K2/2015/49
+Nagaland
+Kohima
+ 
+Secretariat-BSF Camp road
+25.691
+94.121
+Debris
+Slide
+2014
+24600
+NG/KOH/83K2/2015/60
+Nagaland
+Kohima
+ 
+Secretariat-BSF Camp road
+25.692
+94.11
+Debris
+Slide
+2011
+24601
+NG/KOH/83K2/2015/214
+Nagaland
+Kohima
+ 
+Right bank of stream
+25.692
+94.068
+Rock cum Debris
+Slide
+NA
+24602
+NG/KOH/83K2/2015/137
+Nagaland
+Kohima
+ 
+Right bank of stream
+25.692
+94.065
+Rock
+Slide
+NA
+24603
+NG/PHE/83K6/2015/320
+Nagaland
+Phek
+ 
+Phek-Ketsapo road.
+25.692
+94.444
+Debris
+Slide
+NA
+24604
+NG/PHE/83K10/2017/30
+Nagaland
+Phek
+ 
+ThezatseMeluri road
+25.692222
+94.584722
+Rock
+Slide
+NA
+24605
+NG/KOH/83K2/2015/55
+Nagaland
+Kohima
+ 
+ 
+25.693
+94.043
+Debris
+Slide
+2012
+24606
+NG/KOH/83K2/2015/96
+Nagaland
+Kohima
+ 
+Secretariat-BSF Camp road
+25.694
+94.107
+Debris
+Slide
+2013
+24607
+NG/KOH/83K2/2015/129
+Nagaland
+Kohima
+ 
+Downslope of High School-
+Secretarait road
+25.694
+94.103
+Debris
+Slide
+2010
+24608
+NG/KOH/83K2/2015/72
+Nagaland
+Kohima
+ 
+Secretariat-BSF Camp road
+25.695
+94.108
+Debris
+Slide
+2009
+24609
+NG/KOH/83K2/2015/218
+Nagaland
+Kohima
+ 
+ 
+25.695
+94.077
+Debris
+Slide
+2006
+24610
+NG/PHE/83K6/2015/301
+Nagaland
+Phek
+ 
+Eastern downslope of Army 
+Establishment along Phek Town 
+road
+25.695
+94.459
+Debris
+Slide
+2014
+24611
+NG/PHE/83K6/2015/289
+Nagaland
+Phek
+ 
+Chazouba-Phek road
+25.695
+94.349
+Debris
+Slide
+2015
+24612
+NL/KOH/83K02/2014/26
+Nagaland
+Kohima
+Nagaland secretariat road
+Nagaland secretariat road
+25.69506
+94.11203
+Debris
+Slide
+2014
+24613
+NL/KOH/83K02/2014/25
+Nagaland
+Kohima
+Nagaland Secretariat road
+Nagaland Secretariat road
+25.69583
+94.10833
+Debris
+Slide
+2014
+24614
+NG/PHE/83K6/2015/278
+Nagaland
+Phek
+ 
+Riinguzu village
+25.696
+94.318
+Debris
+Slide
+2014
+24615
+NG/PHE/83K6/2015/283
+Nagaland
+Phek
+ 
+Riinguzu village
+25.696
+94.32
+Debris
+Composite
+2014
+24616
+NG/KOH/83K2/2015/213
+Nagaland
+Kohima
+ 
+ 
+25.696
+94.08
+Debris
+Composite
+NA
+24617
+NG/KOH/83K2/2015/175
+Nagaland
+Kohima
+ 
+Downslope of High School-
+Secretarait road
+25.696
+94.104
+Debris
+Slide
+2011
+24618
+NG/PHE/83K6/2015/318
+Nagaland
+Phek
+ 
+Police Colony, Phek Town
+25.696
+94.461
+Debris
+Subsidence
+NA
+24619
+NG/KOH/83G14/2015/25
+Nagaland
+Kohima
+ 
+SW of Thekriijuma
+25.696
+93.924
+Debris
+Slide
+2010
+24620
+NG/KOH/83K2/2015/143
+Nagaland
+Kohima
+ 
+ 
+25.696
+94.079
+Debris
+Slide
+2012
+24621
+NG/PHE/83K6/2015/325
+Nagaland
+Phek
+ 
+Phek-Chazouba road
+25.696
+94.426
+Rock cum Debris
+Composite
+NA
+24622
+NG/PHE/83K6/2015/251
+Nagaland
+Phek
+ 
+Police colony approach road, 
+Phek Town
+25.697
+94.464
+Debris
+Slide
+2015
+24623
+NG/KOH/83K2/2015/134
+Nagaland
+Kohima
+ 
+Downslope of High School-
+Secretarait road
+25.697
+94.105
+Debris
+Slide
+2010
+24624
+NG/KOH/83G14/2015/31
+Nagaland
+Kohima
+ 
+WSW of Thekriijuma
+25.697
+93.916
+Debris
+Slide
+2010
+24625
+NG/PHE/83K6/2015/340
+Nagaland
+Phek
+ 
+Chazouba-Phek road
+25.6975
+94.43
+Rock cum Debris
+Slide
+NA
+24626
+NG/KOH/83K2/2015/196
+Nagaland
+Kohima
+ 
+Agri-link road
+25.698
+94.085
+Debris
+Slide
+2011
+24627
+NG/PHE/83K6/2015/339
+Nagaland
+Phek
+ 
+Phek-Chazouba road
+25.699
+94.427
+Rock cum Debris
+Composite
+2012
+24628
+NG/PHE/83K14/2017/82
+Nagaland
+Phek
+ 
+Phor village to Kuzato
+25.69925
+94.761833
+Debris
+Slide
+NA
+24629
+NG/PHE/83K14/2017/80
+Nagaland
+Phek
+ 
+Phor village to Kuzato
+25.699556
+94.775583
+Rock
+Fall
+NA
+24630
+NG/PHE/83K14/2017/81
+Nagaland
+Phek
+ 
+Phor village to Kuzato
+25.700278
+94.767222
+Debris
+Slide
+NA
+24631
+NG/PHE/83K14/2017/79
+Nagaland
+Phek
+ 
+Phor village to Kuzato
+25.700506
+94.775633
+Rock
+Slide
+NA
+24632
+NG/PHE/83K14/2017/78
+Nagaland
+Phek
+ 
+Phor village to Kuzato
+25.700692
+94.775594
+Rock
+Slide
+NA
+24633
+NG/PHE/83K14/2017/77
+Nagaland
+Phek
+ 
+Phor village to Kuzato
+25.700944
+94.775361
+Rock
+Slide
+NA
+24634
+NG/KOH/83K2/2015/164
+Nagaland
+Kohima
+ 
+T-Khel Model village-Indira 
+Gandhi Stadium road
+25.701
+94.089
+Debris
+Subsidence
+NA
+24635
+NL/KOH/83K02/2014/31
+Nagaland
+Kohima
+Rusoma village Agri-link road
+Rusoma village
+25.70106
+94.14167
+Debris
+Slide
+2014
+24636
+NG/PHE/83K6/2015/249
+Nagaland
+Phek
+ 
+Chozuba-Phek road
+25.703
+94.338
+Debris
+Slide
+2015
+24637
+NG/KOH/83K2/2015/215
+Nagaland
+Kohima
+ 
+Rusoma village
+25.703
+94.137
+Debris
+Slide
+2014

@@ -1,0 +1,485 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+2042
+7005
+Arunachal Pradesh
+Papum Pare
+Hoj
+27.2594
+93.796312
+Debris
+Slide
+NA
+2043
+7006
+Arunachal Pradesh
+Papum Pare
+Hoj
+27.267809
+93.801259
+Debris
+Slide
+NA
+2044
+7007
+Arunachal Pradesh
+Papum Pare
+Hoj
+27.269714
+93.802353
+Debris
+Slide
+NA
+2045
+7008
+Arunachal Pradesh
+Papum Pare
+Hoj
+27.270257
+93.798647
+Debris
+Slide
+NA
+2046
+7009
+Arunachal Pradesh
+Papum Pare
+Hoj
+27.274387
+93.797815
+Debris
+Slide
+NA
+2047
+7046
+Arunachal Pradesh
+East Siang
+Near Renging
+28.139996
+95.259634
+Debris
+slide
+NA
+2048
+7047
+Arunachal Pradesh
+East Siang
+Near Renging
+NH-13
+28.136244
+95.245136
+Debris
+slide
+NA
+2049
+7049
+Arunachal Pradesh
+Lower Subansiri
+Pine Grove
+Near BRO Dett
+27.622016
+93.841176
+Soil
+slide
+NA
+2050
+7051
+Arunachal Pradesh
+Lower Subansiri
+Pine Grove
+27.622973
+93.841316
+Debris
+slide
+NA
+2051
+7052
+Arunachal Pradesh
+Lower Subansiri
+Pine Grove
+27.623829
+93.841776
+Debris
+slide
+NA
+2052
+7053
+Arunachal Pradesh
+Lower Subansiri
+Pine Grove
+27.623885
+93.841824
+Debris
+slide
+NA
+2053
+7079
+Arunachal Pradesh
+Lower Subansiri
+Nenchalya
+27.631
+93.8465
+Debris
+Slide
+NA
+2054
+7082
+Arunachal Pradesh
+Lower Subansiri
+Nenchalaya
+27.633
+93.8464
+Debris
+Slide
+NA
+2055
+7083
+Arunachal Pradesh
+Lower Subansiri
+Nechalaya
+27.636624
+93.8485
+Soil
+Slide
+NA
+2056
+7084
+Arunachal Pradesh
+Lower Subansiri
+Cabbage Garden
+27.6369
+93.853
+Debris
+Slide
+NA
+2057
+7085
+Arunachal Pradesh
+Lower Subansiri
+Cabbage Garden
+27.6375
+93.8555
+Soil
+Slide
+NA
+2058
+7086
+Arunachal Pradesh
+Lower Subansiri
+Near Cabbage Garden
+27.6387
+93.8551
+Soil
+Slide
+NA
+2059
+7087
+Arunachal Pradesh
+Lower Subansiri
+Cabbage Garden
+27.6384
+93.8578
+Soil
+Slide
+NA
+2060
+7088
+Arunachal Pradesh
+Lower Subansiri
+Near Cabbage Garden
+27.64
+93.858
+Soil
+Slide
+NA
+2061
+7089
+Arunachal Pradesh
+Lower Subansiri
+Silyo
+27.6478
+93.8737
+Debris
+Slide
+NA
+2062
+7090
+Arunachal Pradesh
+Lower Subansiri
+Near to Cabbage Garden
+27.6402
+93.8628
+Debris
+Slide
+NA
+2063
+7091
+Arunachal Pradesh
+Lower Subansiri
+8 Mile Location
+27.6394
+93.8708
+Debris
+Slide
+NA
+2064
+7093
+Arunachal Pradesh
+Lower Subansiri
+27.6451
+93.8706
+Soil
+Slide
+NA
+2065
+7094
+Arunachal Pradesh
+Lower Subansiri
+27.649
+93.8744
+Debris
+Slide
+NA
+2066
+7095
+Arunachal Pradesh
+Lower Subansiri
+27.6549
+93.8759
+Debris
+Slide
+NA
+2067
+7096
+Arunachal Pradesh
+Lower Subansiri
+27.66
+93.8799
+Debris
+Slide
+NA
+2068
+7097
+Arunachal Pradesh
+Lower Subansiri
+27.6607
+93.8833
+Debris
+Slide
+NA
+2069
+7098
+Arunachal Pradesh
+Lower Subansiri
+27.6756
+93.8837
+Debris
+Slide
+NA
+2070
+7099
+Arunachal Pradesh
+Lower Subansiri
+27.6784
+93.9026
+Debris
+Slide
+NA
+2071
+7100
+Arunachal Pradesh
+Lower Subansiri
+Tajgi
+27.6712
+93.8974
+Debris
+Slide
+NA
+2072
+7101
+Arunachal Pradesh
+Kamle
+27.7621
+94.0563
+Rock
+Slide
+NA
+2073
+7102
+Arunachal Pradesh
+Kamle
+27.763
+94.037
+Rock
+Slide
+NA
+2074
+7103
+Arunachal Pradesh
+Lower Subansiri
+Boasimla
+27.7306
+93.9767
+Debris
+Slide
+NA
+2075
+7104
+Arunachal Pradesh
+Lower Subansiri
+Yattap
+27.7257
+93.9656
+Debris
+Slide
+NA
+2076
+7105
+Arunachal Pradesh
+Lower Subansiri
+Yattap
+27.7231
+93.9587
+Debris
+Slide
+NA
+2077
+7106
+Arunachal Pradesh
+Lower Subansiri
+Repari
+27.7182
+93.947
+Debris
+Slide
+NA
+2078
+7386
+Arunachal Pradesh
+Papum Pare
+Niti Vihar
+27.099285
+93.614766
+Soil
+subsidence
+16 March 2026
+2079
+7387
+Arunachal Pradesh
+Papum Pare
+27.086102
+93.596625
+Debris
+fall
+NA
+2080
+7583
+Arunachal Pradesh
+Lower Siang
+Magi basti
+Roadside landslide near Magi 
+basti
+27.715081
+94.692035
+Debris
+slide
+28 June 2026
+2081
+AP/VIS/65N04/2018/1
+Andhra Pradesh
+Visakhapatanam
+ 
+Along SH-39
+18.230472
+83.027111
+Rock
+Slide
+NA
+2082
+AP/VIS/65N04/2018/2
+Andhra Pradesh
+Visakhapatanam
+ 
+South west of Pulaguda Village
+18.236856
+83.028464
+Rock
+Fall
+NA
+2083
+AP/VIS/65N04/2018/3
+Andhra Pradesh
+Visakhapatanam
+ 
+Muliaguda (opposite SH-39, fifty 
+meters away from SH )
+18.240753
+83.030742
+Debris
+Slide
+NA
+2084
+AP/VIS/65J16/2018/1
+Andhra Pradesh
+Visakhapatanam
+ 
+1km north of Mardaguda
+18.246003
+82.997139
+Rock
+Slide
+NA
+2085
+AP/VIS/65J15/2018/14
+Andhra Pradesh
+Visakhapatanam
+ 
+Anantagiri
+18.252342
+82.991439
+Debris
+Slide
+NA
+2086
+AP/VIS/65J15/2018/3
+Andhra Pradesh
+Visakhapatanam
+ 
+Along SH-39
+18.254583
+82.991517
+Rock
+Fall
+NA
+2087
+AP/VIS/65J15/2018/19
+Andhra Pradesh
+Visakhapatanam
+ 
+Galikonda (Beespuram)
+18.254817
+82.991942
+Rock
+Fall
+NA
+2088
+AP/VIS/65J15/2018/9
+Andhra Pradesh
+Visakhapatanam
+ 
+NW of Beespuram
+18.254817
+82.991942
+Rock
+Fall
+NA

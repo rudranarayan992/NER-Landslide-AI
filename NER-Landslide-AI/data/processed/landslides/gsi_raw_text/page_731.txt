@@ -1,0 +1,512 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28853
+WB/DAR/78B01/2015/381
+West Bengal
+Darjeeling
+Dhajiya Slide
+200 m down from Dhajiya 
+suspension bridge
+26.904361
+88.222
+Debris
+Slide
+2015
+28854
+WB/DAR/78B09/2015/830
+West Bengal
+Darjeeling
+NG73 NW OF TIRI
+ 
+26.904385
+88.516423
+Debris
+Slide
+2015
+28855
+WB/DAR/78B05/2015/425
+West Bengal
+Darjeeling
+NH31A_0.8km
+NH31A
+26.904444
+88.471722
+Rock
+Slide
+2003
+28856
+WB/DAR/78B01/2021/PDLS/25
+West Bengal
+Darjeeling
+N/A
+N/A
+26.90446776
+88.16226165
+Debris
+Slide
+October 2021
+28857
+WB/DAR/78B05/2015/584
+West Bengal
+Darjeeling
+NH10
+ 
+26.904496
+88.470519
+Rock
+Slide
+2014
+28858
+WB/DAR/78B05/2015/501
+West Bengal
+Darjeeling
+NG77 NE OF SIVOK
+ 
+26.904577
+88.475109
+Rock
+Slide
+2010
+28859
+WB/DAR/78B05/2015/406
+West Bengal
+Darjeeling
+NH 55 Dilaram, C312
+NH 55 Dilaram, C312
+26.90464
+88.29266
+Debris
+Subsidence
+1998
+28860
+WB/DAR/78B05/2015/581
+West Bengal
+Darjeeling
+DAKBANGLA
+ 
+26.904846
+88.348152
+Debris
+Slide
+2014
+28861
+WB/DAR/78B05/2015/582
+West Bengal
+Darjeeling
+DAKBANGLA
+ 
+26.904987
+88.351305
+Debris
+Slide
+2014
+28862
+WB/DAR/78B05/2015/547
+West Bengal
+Darjeeling
+Malubar (Mahaldiram Tea Estate)
+Malubar (Mahaldiram Tea 
+Estate)
+26.905
+88.351
+Rock
+Slide
+2012
+28863
+WB/DAR/78B05/2015/620
+West Bengal
+Darjeeling
+Khahre Basti
+Khahre Basti
+26.905
+88.278056
+Debris
+Slide
+2015
+28864
+WB/DAR/78B01/2021/PDLS/26
+West Bengal
+Darjeeling
+N/A
+N/A
+26.9050488
+88.16186482
+Debris
+Slide
+October 2021
+28865
+WB/DAR/78B05/2015/625
+West Bengal
+Darjeeling
+Chaitapani, NH55
+Chaitapani, NH55
+26.905472
+88.291944
+Debris
+Subsidence
+2015
+28866
+WB/DAR/78B05/2015/585
+West Bengal
+Darjeeling
+NH10
+ 
+26.905912
+88.471328
+Rock
+Slide
+2014
+28867
+WB/DAR/78B05/2015/521
+West Bengal
+Darjeeling
+NH31A_1 km
+NH31A
+26.906278
+88.471667
+Rock
+Slide
+2010
+28868
+WB/DAR/78B05/2015/487
+West Bengal
+Darjeeling
+Mana-Jholi Road
+Mana-Jholi Road
+26.906746
+88.373019
+Debris
+Slide
+2008
+28869
+WB/DAR/78B05/2015/530
+West Bengal
+Darjeeling
+Mana road
+ 
+26.906753
+88.371717
+Debris
+Slide
+2011
+28870
+WB/DAR/78B05/2015/642
+West Bengal
+Darjeeling
+NH55, Bak
+NH55, Bak
+26.907056
+88.291222
+Debris
+Slide
+2015
+28871
+WB/DAR/78B05/2015/580
+West Bengal
+Darjeeling
+RINGTONG
+ 
+26.907698
+88.268884
+Debris
+Slide
+2014
+28872
+WB/DAR/78B05/2015/517
+West Bengal
+Darjeeling
+NH 10 junction rang Khola
+ 
+26.907756
+88.468958
+Debris
+Slide
+2010
+28873
+WB/DAR/78B05/2021/PDLS/33
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+26.90828135
+88.46895295
+Rock
+Slide
+October 2021
+28874
+WB/DAR/78B05/2015/475
+West Bengal
+Darjeeling
+NH31A_ Hatisur (1.8 km)
+NH31A
+26.908556
+88.468556
+Rock
+Slide
+2007
+28875
+WB/DAR/78B05/2015/653
+West Bengal
+Darjeeling
+NH55, BAK
+NH55, BAK
+26.908833
+88.289861
+Debris
+Slide
+2015
+28876
+WB/DAR/78B05/2021/PDLS/33
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+26.90894999
+88.46889112
+Rock
+Slide
+October 2021
+28877
+WB/DAR/78B05/2015/413
+West Bengal
+Darjeeling
+Ringtong
+ 
+26.909408
+88.262346
+Debris
+Slide
+2001
+28878
+WB/DAR/78B05/2015/485
+West Bengal
+Darjeeling
+Bhutia village subsidence zone
+Bhutia Village
+26.90975
+88.28802
+Debris
+Slide
+2007
+28879
+WB/DAR/78B01/2015/325
+West Bengal
+Darjeeling
+Nahor slide
+Nahor TG
+26.9101
+88.236316
+Debris
+Slide
+2011
+28880
+WB/DAR/78B05/2015/516
+West Bengal
+Darjeeling
+NH10 juntion rang khola
+ 
+26.910293
+88.467226
+Rock
+Slide
+2010
+28881
+WB/DAR/78B05/2015/412
+West Bengal
+Darjeeling
+Mansigaon
+ 
+26.910344
+88.251566
+Debris
+Slide
+2001
+28882
+WB/DAR/78B05/2015/615
+West Bengal
+Darjeeling
+Karmat
+ 
+26.910535
+88.443986
+Rock
+Slide
+2014
+28883
+WB/DAR/78B05/2015/399
+West Bengal
+Darjeeling
+Karmat
+ 
+26.911158
+88.436432
+Debris
+Slide
+1983
+28884
+WB/DAR/78B01/2015/139
+West Bengal
+Darjeeling
+Nehur Balasun
+Balason-Ghum road
+26.9115
+88.249889
+Debris
+Slide
+2015
+28885
+WB/DAR/78B05/2015/138
+West Bengal
+Darjeeling
+Nehur Balasun
+Balason-Ghum road
+26.911722
+88.250056
+Debris
+Subsidence
+2015
+28886
+WB/DAR/78B09/2015/741
+West Bengal
+Darjeeling
+North of BAGRAKOT
+North of BAGRAKOT
+26.91175
+88.562167
+Rock
+Slide
+2015
+28887
+WB/DAR/78B05/2015/524
+West Bengal
+Darjeeling
+Chimni
+Chimni
+26.912
+88.298
+Debris
+Slide
+2011
+28888
+WB/DAR/78B09/2015/736
+West Bengal
+Darjeeling
+YANGMAKUN/ NEAR PURBU JHORA
+YANGMAKUN/ NEAR PURBU 
+JHORA
+26.912389
+88.503889
+Debris
+Slide
+2015
+28889
+WB/DAR/78B05/2015/680
+West Bengal
+Darjeeling
+Nehur Balasun
+Balason-Ghum road
+26.91275
+88.252361
+Rock
+Slide
+2006
+28890
+WB/DAR/78B05/2015/542
+West Bengal
+Darjeeling
+NH31A _2 km
+2 km on NH-31A
+26.913
+88.469
+Debris
+Subsidence
+2012
+28891
+WB/DAR/78B05/2015/583
+West Bengal
+Darjeeling
+RINGTONG
+ 
+26.913351
+88.26876
+Debris
+Slide
+2014
+28892
+WB/DAR/78B05/2015/688
+West Bengal
+Darjeeling
+Lapchekheti
+Lapchekheti
+26.913667
+88.347528
+Rock
+Slide
+2015
+28893
+WB/DAR/78B01/2015/379
+West Bengal
+Darjeeling
+Gopaldhara Slide
+Gopaldhara
+26.913722
+88.151972
+Debris
+Slide
+2015
+28894
+WB/DAR/78B05/2015/478
+West Bengal
+Darjeeling
+NH31A_2.5km
+NH31A
+26.913917
+88.466111
+Rock
+Subsidence
+2007
+28895
+WB/DAR/78B05/2015/586
+West Bengal
+Darjeeling
+NH10
+ 
+26.914076
+88.464499
+Rock
+Slide
+2014
+28896
+WB/DAR/78B05/2015/515
+West Bengal
+Darjeeling
+Khali Khola
+ 
+26.914579
+88.428785
+Debris
+Slide
+2010
+28897
+WB/DAR/78B05/2015/423
+West Bengal
+Darjeeling
+Within Balasone tea estate
+Within Balasone tea estate
+26.915
+88.2525
+Rock
+Slide
+2003

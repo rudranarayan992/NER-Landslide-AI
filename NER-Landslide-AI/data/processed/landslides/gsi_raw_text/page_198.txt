@@ -1,0 +1,427 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+8498
+HP/CHAMBA/43P/15/2025/10
+Himachal Pradesh
+Chamba
+Kamlari Slide
+MDR 83
+32.468125
+75.91993611
+Debris
+Slide
+13 September 2025
+8499
+HP/Kangra/43P/15/2025/01
+Himachal Pradesh
+Kangra
+Mohal Swarg Ashram Slide
+Nurpur Pathankot state 
+highway
+32.30424444
+75.88190278
+Debris
+Slide
+24,25 August 2025
+8500
+HP/Kangra/43P/11/2025/02
+Himachal Pradesh
+Kangra
+Civil Enclave Road slide
+Near Military Hospital
+32.24875
+75.64785
+Debris
+Slide
+2022, 2023,2024, August 2025
+8501
+HP/Kangra/52D/08/2025/03
+Himachal Pradesh
+Kangra
+Bhadrol bridge slide
+Link road
+32.015
+76.44056944
+Debris
+Slide
+August 2023, 01 July 2025
+8502
+HP/Kangra/53A/05/2025/04
+Himachal Pradesh
+Kangra
+Bachhwai village slide
+Link road
+31.92175278
+76.44502222
+Debris
+Subsidence
+2023, September 2025
+8503
+HP/Kangra/53A/05/2025/05
+Himachal Pradesh
+Kangra
+Manjha Buhla Challah slide
+Link road (Thurel to Challah)
+31.92544444
+76.44583611
+Debris
+Slide
+7 July 2025
+8504
+HP/Kangra/52D/12/2025/06
+Himachal Pradesh
+Kangra
+Forest land area slide
+-
+32.07001944
+76.69208333
+Debris
+Slide
+September 2025
+8505
+HP/Kangra/52D/08/2025/07
+Himachal Pradesh
+Kangra
+Pillar no 6 slide
+Link road
+32.22763611
+76.32045
+Debris
+Slide
+19 September 2025
+8506
+H.P./Shimla/53E/4/2025/5
+Himachal Pradesh
+Shimla
+Bhattakuffer subsidence
+Shimla Bypass on NH-05
+31.09277778
+77.20638889
+Debris
+Subsidence
+22 November 2025
+8507
+HP/Kullu/ I43X8/2025/01
+Himachal Pradesh
+Chamba
+Manikaran tree fall incident
+Kasol- Manikaran-Barsheni, 
+PWD road
+32.02631389
+77.34464722
+NA
+----
+20 March 2025
+8508
+HP/Kangra/52D/08/2025/08
+Himachal Pradesh
+Kangra
+Jogiwada subsidence
+Khada Danda road - a crucial 4-
+km shortcut connecting 
+Dharamsala and McLeodGanj
+32.22934444
+76.32632222
+Debris
+Subsidence
+19 August 2025
+8509
+HP/Mandi/53E01/2025/01
+Himachal Pradesh
+Mandi
+Kalang
+Kalang
+31.76286667
+77.1127
+Debris
+Subsidence/Slid
+e
+2023, 2025
+8510
+HP/Mandi/53A13/2025/02
+Himachal Pradesh
+Mandi
+Reur
+Reur
+31.78527778
+76.75444444
+Debris
+Subsidence
+2023
+8511
+HP/Mandi/53A14/2025/03
+Himachal Pradesh
+Mandi
+Rissa
+Rissa
+31.725
+76.7725
+Debris
+Slide
+5 August 2025
+8512
+HP/Mandi/53A14/2025/04
+Himachal Pradesh
+Mandi
+Patrai Galu
+Patrai Galu
+31.73972222
+76.75388889
+Debris
+Slide
+2023, 6 September 2025
+8513
+HP/Mandi/53A10/2025/05
+Himachal Pradesh
+Mandi
+Sarouri
+Sarouri
+31.71694444
+76.73472222
+Debris
+Subsidence
+2023, 2025 
+8514
+HP/Mandi/53E03/2025/06
+Himachal Pradesh
+Mandi
+Kandhi Sapnot
+Kandhi Sapnot
+31.33083333
+77.18444444
+Debris
+Subsidence
+2023, 2025
+8515
+HP/Mandi/53E06/2025/07
+Himachal Pradesh
+Mandi
+Khunachi
+Khunachi
+31.51194444
+77.30166667
+Debris
+Subsidence
+August, September, 2025
+8516
+HP/Mandi/53E02/2025/08
+Himachal Pradesh
+Mandi
+Deol
+Deol
+31.60555556
+77.20027778
+Debris
+Subsidence
+22 July 2025
+8517
+HP/Mandi/53A13/2025/09
+Himachal Pradesh
+Mandi
+Kunduni
+Kunduni
+31.96222222
+76.80194444
+Debris
+Subsidence/Slid
+e
+1999, 2023, 2025
+8518
+HP/Mandi/53A13/2025/10
+Himachal Pradesh
+Mandi
+Talghar
+Talghar
+31.93277778
+76.87944444
+Debris
+Flow
+2017, 2025
+8519
+HP/Mandi/53E06/2025/11
+Himachal Pradesh
+Mandi
+Sharash
+Sharash
+31.69194444
+77.27805556
+Debris
+Subsidence
+June 2025
+8520
+HP/Mandi/53E06/2025/12
+Himachal Pradesh
+Mandi
+Bhela
+Bhela
+31.68611111
+77.2625
+Debris
+Subsidence/Flo
+w
+June 2025
+8521
+HP/Kullu/53E01/2025/01
+Himachal Pradesh
+Kullu
+Bhela
+Bhela
+31.95333333
+77.08583333
+Debris
+Subsidence
+1994, 2023, 2025
+8522
+HP/Kullu/53E06/2025/02
+Himachal Pradesh
+Kullu
+Sojha
+Sojha
+31.56138889
+77.36833333
+Debris
+Subsidence
+August 2025
+8523
+HP/Kullu/52H03/2025/03
+Himachal Pradesh
+Kullu
+Solang
+Solang
+32.32277778
+77.155
+Debris
+Slide
+2016, 2023, 2025
+8524
+HP/Kullu/53E05/2025/04
+Himachal Pradesh
+Kullu
+Matla
+Matla
+31.78138889
+77.33666667
+Debris
+Subsidence
+ 25-28 August 2025
+8525
+HP/Kullu/53E06/2025/05
+Himachal Pradesh
+Kullu
+Maror
+Maror
+31.71194444
+77.3125
+Debris
+Subsidence
+2023, September 2025
+8526
+HP/Kullu/53E06/2025/06
+Himachal Pradesh
+Kullu
+Dukhan
+Dukhan
+31.665
+77.34027778
+Debris
+Subsidence/Slid
+e
+2023, 15 August 2025
+8527
+HP/Kullu/53E06/2025/07
+Himachal Pradesh
+Kullu
+Daari
+Daari
+31.64027778
+77.40055556
+Debris
+Slide
+2023, 2025
+8528
+HP/Kullu/53E07/2025/08
+Himachal Pradesh
+Kullu
+Jaterh
+Jaterh
+31.4825
+77.44805556
+Debris
+Subsidence
+August 2023, 2025
+8529
+HP/Kullu/53E07/2025/09
+Himachal Pradesh
+Kullu
+Marech
+Marech
+31.46222222
+77.35861111
+Debris
+Subsidence/Slid
+e
+2023, 2025
+8530
+HP/Kullu/53E011/2025/10
+Himachal Pradesh
+Kullu
+Nauni
+Nauni
+31.47027778
+77.5125
+Debris
+Subsidence
+August 2023,2025
+8531
+HP/Kullu/53E011/2025/11
+Himachal Pradesh
+Kullu
+Bari Lanj
+Bari Lanj
+31.46111111
+77.54055556
+Debris
+Subsidence
+August 2023,2025
+8532
+HP/Kullu/53E011/2025/12
+Himachal Pradesh
+Kullu
+Lakhi Lanj (Patwar circle Rhanu)
+Lakhi Lanj (Patwar circle Rhanu) 31.46416667
+77.52444444
+Debris
+Subsidence
+August 2023,2025
+8533
+HP/Kullu/53E011/2025/13
+Himachal Pradesh
+Kullu
+Kutli
+Kutli
+31.46472222
+77.52916667
+Debris
+Subsidence
+August 2023,2025
+8534
+HP/Kullu/53E011/2025/14
+Himachal Pradesh
+Kullu
+Katmori
+Katmori
+31.45833333
+77.54416667
+Debris
+Subsidence
+August 2023,2025

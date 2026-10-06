@@ -1,0 +1,448 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27739
+TN/NIL/58A15/2015-16/235
+Tamil Nadu
+Nilgiri
+ 
+Pipe culvert no. +, Pudur village 11.436944
+76.885556
+Debris
+Slide
+NA
+27740
+TN/NIL/58A15/2015-16/191
+Tamil Nadu
+Nilgiri
+ 
+Kattabettu to Iduhatti 
+(Kudumanai village)
+11.437222
+76.8
+Debris
+Subsidence
+NA
+27741
+TN/NIL/58A11/2015-16/1
+Tamil Nadu
+Nilgiri
+ 
+Kendorai village
+11.438889
+76.747778
+Debris
+Slide
+NA
+27742
+TN/NIL/58A15/2015-16/192
+Tamil Nadu
+Nilgiri
+ 
+Banhatti bus stop
+11.44
+76.800833
+Debris
+Subsidence
+NA
+27743
+TN/NIL/58A15/2015-16/196
+Tamil Nadu
+Nilgiri
+ 
+Milinethi Village
+11.442778
+76.873611
+Debris
+Slide
+NA
+27744
+TN/NIL/58A11/2015-16/3
+Tamil Nadu
+Nilgiri
+ 
+Balani Village - 2 Km from 
+Tuneri road junction
+11.445556
+76.744444
+Debris
+Slide
+NA
+27745
+TN/NIL/58A15/2015-16/203
+Tamil Nadu
+Nilgiri
+ 
+Hair Pin Bend no. 3/10,  
+Gudakkalhalla to Sholur M
+11.4475
+76.900556
+Debris
+Slide
+NA
+27746
+TN/NIL/58A15/2015-16/204
+Tamil Nadu
+Nilgiri
+ 
+Gudakkalhatti to Sholur Mattam 11.450278
+76.904167
+Debris
+Subsidence
+NA
+27747
+TN/NIL/58A15/2015-16/207
+Tamil Nadu
+Nilgiri
+ 
+Perar to Kattabettu
+11.450278
+76.904167
+Debris
+Subsidence
+NA
+27748
+TN/NIL/58A11/2015-16/19
+Tamil Nadu
+Nilgiri
+ 
+Somardale Tea Estate
+11.452778
+76.641667
+Debris
+Slide
+NA
+27749
+TN/NIL/58A15/2015-16/193
+Tamil Nadu
+Nilgiri
+ 
+Kendorai to Tuneri, MS.No:13/6 11.453056
+76.757222
+Debris
+Slide
+NA
+27750
+TN/NIL/58A11/2015-16/20
+Tamil Nadu
+Nilgiri
+ 
+Somardale Tea Estate
+11.454167
+76.645
+Earth
+Slide
+NA
+27751
+TN/NIL/58A11/2015-16/6
+Tamil Nadu
+Nilgiri
+ 
+Anikorai Village
+11.454444
+76.765556
+Debris
+Subsidence
+NA
+27752
+TN/NIL/58A11/2015-16/21
+Tamil Nadu
+Nilgiri
+ 
+Somardale Tea Estate
+11.454722
+76.646111
+Debris
+Slide
+NA
+27753
+TN/NIL/58A11/2015-16/18
+Tamil Nadu
+Nilgiri
+ 
+Alagarmalai village
+11.455278
+76.678056
+Earth
+Slide
+NA
+27754
+TN/NIL/58A11/2015-16/17
+Tamil Nadu
+Nilgiri
+ 
+Alagarmalai
+11.457222
+76.678056
+Debris
+Slide
+NA
+27755
+TN/NIL/58A11/2015-16/41
+Tamil Nadu
+Nilgiri
+ 
+Indra Nagar, Hunumapuram 
+towards Indra Nagar.
+11.4625
+76.583889
+Earth
+Slide
+NA
+27756
+TN/NIL/58A11/2015-16/42
+Tamil Nadu
+Nilgiri
+ 
+1 Km West of Indra Nagar.
+11.466111
+76.577778
+Debris
+Slide
+NA
+27757
+TN/NIL/58A11/2015-16/43
+Tamil Nadu
+Nilgiri
+ 
+Indra Nagar to Gudalur road
+11.4675
+76.575
+Debris
+Slide
+NA
+27758
+TN/NIL/58A07/2015-16/202
+Tamil Nadu
+Nilgiri
+ 
+Nadugani village,  towards 
+Devala
+11.469722
+76.4125
+Debris
+Slide
+NA
+27759
+TN/NIL/58A07/2015-16/198
+Tamil Nadu
+Nilgiri
+ 
+Cut stone culvert no. 116/4, 
+Devala to Pandalur
+11.475556
+76.358333
+Debris
+Slide
+NA
+27760
+TN/NIL/58A06/2020/22
+Tamil Nadu
+Nilgiri
+Pandalur road slide
+Road towards Pandalur
+11.48
+76.36
+Debris
+Slide
+NA
+27761
+TN/NIL/58A07/2015-16/201
+Tamil Nadu
+Nilgiri
+ 
+Road towards Pandiar Tea 
+Estate
+11.484167
+76.441667
+Debris
+Slide
+NA
+27762
+TN/NIL/58A15/2015-16/197
+Tamil Nadu
+Nilgiri
+ 
+Near Sundatti village
+11.494167
+76.885
+Debris
+Slide
+NA
+27763
+TN/NIL/58A07/2015-16/200
+Tamil Nadu
+Nilgiri
+ 
+Coomamalai village
+11.495833
+76.360556
+Debris
+Subsidence
+NA
+27764
+TN/NIL/58A07/2015-16/199
+Tamil Nadu
+Nilgiri
+ 
+Caroline Tea Estate
+11.498056
+76.334167
+Debris
+Slide
+NA
+27765
+TN/NIL/58A10/2016/1
+Tamil Nadu
+Nilgiri
+ 
+Near Hukkar Village
+11.500222
+76.585917
+Debris
+Slide
+NA
+27766
+TN/NIL/58A06/2020/20
+Tamil Nadu
+Nilgiri
+Cherambadi debris slide
+Near Cherambadi
+11.51
+76.28
+Debris
+Slide
+2020
+27767
+TN/NIL/58A06/2020/21
+Tamil Nadu
+Nilgiri
+ 
+Near Cherangode
+11.51
+76.3
+Debris
+Slide
+NA
+27768
+TN/NIL/58A06/2020/23
+Tamil Nadu
+Nilgiri
+ 
+Road towards Cherambadi
+11.51
+76.32
+Debris
+Slide
+NA
+27769
+TN/NIL/58A06/2020/24
+Tamil Nadu
+Nilgiri
+Cherambadi road debris flow
+Road towards Cherambadi
+11.51
+76.32
+Debris
+Flow
+NA
+27770
+TN/NIL/58A06/2020/25
+Tamil Nadu
+Nilgiri
+ 
+Cherangode
+11.51
+76.31
+Debris
+Slide
+NA
+27771
+TN/NIL/58A06/2020/26
+Tamil Nadu
+Nilgiri
+Cherangode tea estate slide
+Cherangode tea estate
+11.51
+76.32
+Debris
+Slide
+NA
+27772
+TN/NIL/58A06/2020/27
+Tamil Nadu
+Nilgiri
+Cherangode tea Cut slope
+Cherangode tea estate
+11.51
+76.32
+Debris
+Slide
+NA
+27773
+TN/NIL/58A06/2020/28
+Tamil Nadu
+Nilgiri
+Cherangode tea Cut slope
+Cherangode tea estate
+11.51
+76.33
+Debris
+Slide
+NA
+27774
+TN/NIL/58A06/2020/2
+Tamil Nadu
+Nilgiri
+ 
+Road from Gudalur to 
+Theppakadu
+11.52
+76.5
+Debris
+Slide
+NA
+27775
+TN/NIL/58A06/2020/3
+Tamil Nadu
+Nilgiri
+ 
+Road from Gudalur to 
+Devarshola
+11.53
+76.47
+Debris
+Slide
+NA
+27776
+TN/NIL/58A06/2020/4
+Tamil Nadu
+Nilgiri
+ 
+Road from Gudalur to 
+Devarshola
+11.53
+76.47
+Debris
+Slide
+NA
+27777
+TN/NIL/58A06/2020/5
+Tamil Nadu
+Nilgiri
+ 
+Mathukutti tea estate
+11.53
+76.47
+Debris
+Slide
+NA

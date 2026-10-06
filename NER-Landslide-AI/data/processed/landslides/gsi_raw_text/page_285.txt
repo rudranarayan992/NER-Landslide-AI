@@ -1,0 +1,540 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12257
+KA/UK/48J08/2015/226
+Karnataka
+Uttar Kannada
+ 
+Apsarkonda
+14.238522
+74.448597
+Debris
+Slide
+NA
+12258
+KA/UK/48J08/2015/231
+Karnataka
+Uttar Kannada
+ 
+Apsarkonda
+14.238533
+74.449397
+Debris
+Slide
+NA
+12259
+KA/UK/48J08/2015/221
+Karnataka
+Uttar Kannada
+ 
+Kelgin Idgunji
+14.238608
+74.4827
+Debris
+Slide
+NA
+12260
+KA/UK/48J08/2015/217
+Karnataka
+Uttar Kannada
+ 
+NH-17/Kelaganur
+14.238939
+74.457739
+Debris
+Slide
+NA
+12261
+KA/UTT/48J12/2018/21
+Karnataka
+Uttar Kannada
+Upponi
+NH-206
+14.240242
+74.594225
+Soil
+Slide
+NA
+12262
+KA/UK/48J08/2015/232
+Karnataka
+Uttar Kannada
+ 
+NH-17
+14.241386
+74.456125
+Debris
+Slide
+NA
+12263
+KA/UK/48J08/2015/218
+Karnataka
+Uttar Kannada
+ 
+NH-17
+14.2422
+74.452914
+Debris
+Slide
+NA
+12264
+KA/UTT/48J12/2018/25
+Karnataka
+Uttar Kannada
+Hulegar 2
+Gersoppa interlink road
+14.243736
+74.655083
+Soil
+Slide
+NA
+12265
+KA/UTT/48J12/2018/23
+Karnataka
+Uttar Kannada
+Hulegar
+Gersoppa interlink road
+14.245403
+74.657461
+Debris
+Slide
+NA
+12266
+KA/UTT/48J12/2018/20
+Karnataka
+Uttar Kannada
+Allanki 2
+NH-206
+14.245425
+74.576367
+Soil
+Slide
+NA
+12267
+KA/UK/48J11/2014/44
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.245444
+74.577111
+Earth
+Slide
+NA
+12268
+KA/UTT/48J12/2018/24
+Karnataka
+Uttar Kannada
+Hulegar 1
+Gersoppa interlink road
+14.2457
+74.656542
+Soil
+Slide
+NA
+12269
+KA/UTT/48J12/2018/18
+Karnataka
+Uttar Kannada
+Allanki
+NH-206
+14.246047
+74.572294
+Soil
+Slide
+NA
+12270
+KA/UTT/48J12/2018/19
+Karnataka
+Uttar Kannada
+Allanki 1
+NH-206
+14.246194
+74.57425
+Soil
+Slide
+NA
+12271
+KA/UK/48J08/2015/222
+Karnataka
+Uttar Kannada
+ 
+Kelgin Idgunji
+14.246953
+74.485958
+Debris
+Slide
+NA
+12272
+KA/UTT/48J12/2018/27
+Karnataka
+Uttar Kannada
+Hulegar 3
+NH-206
+14.248083
+74.67205
+Debris
+Slide
+NA
+12273
+KA/UK/48J11/2014/49
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.248139
+74.653167
+Debris
+Slide
+NA
+12274
+KA/UTT/48J15/2018/39
+Karnataka
+Uttar Kannada
+Mavingundi
+Mavingundi
+14.253694
+74.807056
+Soil
+Slide
+NA
+12275
+KA/UTT/48J15/2018/40
+Karnataka
+Uttar Kannada
+Tummaragadde
+Tummaragadde
+14.255972
+74.793972
+Debris
+Slide
+NA
+12276
+KA/UTT/48J15/2018/44
+Karnataka
+Uttar Kannada
+Bidrakan
+Bidrakan
+14.255972
+74.857861
+Soil
+Slide
+NA
+12277
+KA/UK/48J11/2014/60
+Karnataka
+Uttar Kannada
+ 
+Gerusoppa
+14.256472
+74.671222
+Debris
+Slide
+NA
+12278
+KA/UK/48J11/2014/61
+Karnataka
+Uttar Kannada
+ 
+Gerusoppa
+14.258972
+74.671472
+Debris
+Slide
+NA
+12279
+KA/UK/48J11/2014/51
+Karnataka
+Uttar Kannada
+ 
+Katchha road near Dibbangal
+14.264111
+74.540111
+Earth
+Slide
+NA
+12280
+KA/UTT/48J15/2018/42
+Karnataka
+Uttar Kannada
+Bare Gudda
+Bare Gudda
+14.265528
+74.757444
+Debris
+Slide
+NA
+12281
+KA/UK/48J11/2014/62
+Karnataka
+Uttar Kannada
+ 
+Nh206
+14.267583
+74.680056
+Debris
+Slide
+NA
+12282
+KA/UTT/48J15/2018/41
+Karnataka
+Uttar Kannada
+Bare Gudda
+Bare Gudda
+14.268222
+74.7575
+Soil
+Slide
+NA
+12283
+KA/UK/48J11/2014/68
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.26875
+74.684222
+Debris
+Slide
+NA
+12284
+KA/UK/48J11/2014/64
+Karnataka
+Uttar Kannada
+ 
+NH206 Mastimane
+14.269167
+74.683833
+Debris
+Slide
+NA
+12285
+KA/UK/48J11/2014/63
+Karnataka
+Uttar Kannada
+ 
+Nh206
+14.270972
+74.687694
+Debris
+Slide
+NA
+12286
+KA/UK/48J11/2014/69
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.271194
+74.691222
+Debris
+Slide
+NA
+12287
+KA/UK/48J11/2014/75
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.273333
+74.702722
+Debris
+Slide
+NA
+12288
+KA/UK/48J11/2014/70
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.274
+74.697944
+Debris
+Slide
+NA
+12289
+KA/UK/48J11/2014/65
+Karnataka
+Uttar Kannada
+ 
+NH206 Mastimane
+14.274306
+74.699056
+Debris
+Slide
+NA
+12290
+KA/UK/48J11/2014/67
+Karnataka
+Uttar Kannada
+ 
+NH 206 Shiva temple
+14.274694
+74.7085
+Debris
+Slide
+NA
+12291
+KA/UK/48J11/2014/78
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.275111
+74.732028
+Debris
+Slide
+NA
+12292
+KA/UK/48J11/2014/48
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.275389
+74.527528
+Debris
+Slide
+NA
+12293
+KA/UK/48J11/2014/73
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.275444
+74.72725
+Debris
+Slide
+NA
+12294
+KA/UK/48J11/2014/77
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.275722
+74.721861
+Debris
+Slide
+NA
+12295
+KA/UK/48J11/2014/45
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.27625
+74.720667
+Debris
+Slide
+NA
+12296
+KA/UK/48J11/2014/81
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.277111
+74.737833
+Debris
+Slide
+NA
+12297
+KA/UK/48J11/2014/72
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.277111
+74.719833
+Debris
+Slide
+NA
+12298
+KA/UK/48J11/2014/74
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.277111
+74.729917
+Debris
+Slide
+NA
+12299
+KA/UK/48J11/2014/80
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.277611
+74.737139
+Debris
+Slide
+NA
+12300
+KA/UK/48J11/2014/79
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.277917
+74.734278
+Debris
+Slide
+NA
+12301
+KA/UK/48J11/2014/71
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.279333
+74.715583
+Debris
+Slide
+NA
+12302
+KA/UK/48J11/2014/76
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.279917
+74.716917
+Debris
+Slide
+NA
+12303
+KA/UK/48J11/2014/50
+Karnataka
+Uttar Kannada
+ 
+Road section near Gundibail
+14.283833
+74.520778
+Debris
+Slide
+NA
+12304
+KA/UK/48J11/2014/82
+Karnataka
+Uttar Kannada
+ 
+NH206
+14.284694
+74.729694
+Debris
+Slide
+NA

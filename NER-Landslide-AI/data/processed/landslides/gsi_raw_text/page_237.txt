@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+10280
+JK/RAM/43O03/2018/17
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.286087
+75.034523
+Rock
+Slide
+NA
+10281
+JK/REA/43K15/2017/87
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.286917
+74.85892
+Rock
+Slide
+NA
+10282
+JK/REA/43K15/2017/128
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.287
+74.86364
+Rock
+Fall
+NA
+10283
+JK/REA/43K15/2017/129
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.287611
+74.868
+Rock
+Fall
+NA
+10284
+JK/RAM/43O03/2018/15
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.287891
+75.036072
+Rock
+Slide
+NA
+10285
+JK/RAM/43O03/2018/3
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.288128
+75.035637
+Rock
+Slide
+NA
+10286
+JK/REA/43K15/2017/88
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.288278
+74.86731
+Debris
+Slide
+NA
+10287
+JK/RAM/43O03/2018/37
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.288288
+75.032723
+Rock
+Fall
+NA
+10288
+JK/RAM/43O03/2018/2
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.288479
+75.034523
+Rock
+Slide
+NA
+10289
+JK/RAM/43O03/2018/18
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.28894
+75.043938
+Rock cum debris
+Slide
+NA
+10290
+JK/REA/43K15/2017/38
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.289417
+74.90689
+Rock
+Slide
+NA
+10291
+JK/REA/43K15/2017/89
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.289472
+74.86633
+Debris
+Slide
+NA
+10292
+JK/RAM/43O03/2018/16
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.2896
+75.034805
+Rock
+Slide
+NA
+10293
+JK/RAM/43O03/2018/124
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.289631
+75.178093
+Rock
+Fall
+NA
+10294
+JK/RAM/43O03/2018/1
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.29018
+75.034134
+Rock
+Fall
+NA
+10295
+JK/REA/43K15/2017/65
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.290472
+74.84044
+Rock
+Slide
+NA
+10296
+JK/REA/43K15/2017/66
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.292194
+74.862
+Rock
+Fall
+NA
+10297
+JK/REA/43K15/2017/90
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.292972
+74.86364
+Rock
+Slide
+NA
+10298
+JK/REA/43K15/2017/91
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.293083
+74.86561
+Debris
+Slide
+NA
+10299
+JK/REA/43K15/2017/130
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.294194
+74.88158
+Rock
+Fall
+NA
+10300
+JK/REA/43K15/2017/92
+Jammu & Kashmir (UT)
+Reasi
+#N/A
+#N/A
+33.294306
+74.87997
+Rock
+Fall
+NA
+10301
+JK/REA/43K15/2017/53
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.294437
+74.832375
+Rock
+Slide
+NA
+10302
+JK/REA/43K15/2017/93
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.295472
+74.88386
+Rock
+Fall
+NA
+10303
+JK/REA/43K15/2017/44
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.295833
+74.84239
+Debris
+Slide
+NA
+10304
+JK/REA/43K15/2017/131
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.29675
+74.869
+Debris
+Slide
+NA
+10305
+JK/REA/43K15/2017/119
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.297417
+74.87064
+Debris
+Slide
+NA
+10306
+JK/REA/43K15/2017/5
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.29776
+74.808044
+Rock
+Slide
+NA
+10307
+JK/REA/43K15/2017/45
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.297889
+74.88269
+Debris
+Slide
+NA
+10308
+JK/REA/43K15/2017/94
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.29825
+74.88347
+Debris
+Slide
+NA
+10309
+JK/REA/43K15/2017/95
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.298667
+74.88633
+Debris
+Slide
+NA
+10310
+JK/REA/43K15/2017/46
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.299083
+74.88958
+Debris
+Slide
+NA
+10311
+JK/REA/43K15/2017/67
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.299444
+74.89311
+Debris
+Slide
+NA
+10312
+JK/KIS/43O15/2020/25
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.3
+75.79
+Rock
+Slide
+NA
+10313
+JK/KIS/43O15/2020/26
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.3
+75.79
+Rock
+Slide
+NA
+10314
+JK/KIS/43O15/2020/27
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.3
+75.78
+Rock
+Slide
+NA
+10315
+JK/KIS/43O15/2020/28
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.3
+75.79
+Rock
+Slide
+NA
+10316
+JK/KIS/43O15/2020/32
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.3
+75.79
+Rock
+Slide
+NA
+10317
+JK/KIS/43O15/2020/51
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.3
+75.78
+Rock
+Slide
+NA
+10318
+JK/REA/43K15/2017/132
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.300333
+74.86697
+Rock
+Fall and slide
+NA
+10319
+JK/REA/43K15/2017/68
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.300417
+74.91992
+Debris
+Slide
+NA
+10320
+JK/REA/43K15/2017/21
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.300934
+74.926888
+Rock
+Slide
+NA
+10321
+JK/REA/43K15/2017/96
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.301278
+74.92406
+Debris
+Fall
+NA
+10322
+JK/REA/43K15/2017/69
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.301444
+74.83939
+Rock
+Slide
+NA
+10323
+JK/REA/43K15/2017/47
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.301611
+74.87172
+Rock
+Fall and slide
+NA
+10324
+JK/REA/43K15/2017/82
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.302177
+74.929794
+Rock
+Slide
+NA
+10325
+JK/REA/43K15/2017/81
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.302814
+74.930496
+Rock
+Slide
+NA
+10326
+JK/REA/43K15/2017/97
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.302833
+74.87383
+Rock
+Fall
+NA
+10327
+JK/REA/43K15/2017/48
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.303333
+74.84283
+Debris
+Slide
+NA
+10328
+JK/REA/43K15/2017/76
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.303818
+74.928856
+Rock
+Slide
+NA
+10329
+JK/REA/43K15/2017/35
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.304352
+74.852928
+Rock cum debris
+Slide
+NA
+10330
+JK/REA/43K15/2017/133
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.304361
+74.87539
+Debris
+Fall
+NA

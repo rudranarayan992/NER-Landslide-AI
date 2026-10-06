@@ -1,0 +1,334 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11004
+PDLS/11
+Jammu & Kashmir (UT)
+Kishtwar
+Galhar slide, approx. 1 Km from 
+Galhar village towards Gulabgarh
+Kishtwar to Gulabgarh/Paddar 
+road, Near Galhar village
+33.33659167
+75.93651667
+Rock and debris
+Slide
+NA
+11005
+PDLS/12
+Jammu & Kashmir (UT)
+Kishtwar
+Kawar Approx. 1.2 Km from Kawar 
+village towards Gulabgarh/Paddar
+Kishtwar to Gulabgarh/Paddar 
+road Near Kawar
+33.35383611
+75.837325
+Rock and debris
+Slide
+NA
+11006
+PDLS/13
+Jammu & Kashmir (UT)
+Ramban
+Saras/Sarsi slide
+Batote - Doda Highway near 
+Saras/Sarsi
+33.121
+75.42736111
+Debris and Rock
+Slide
+NA
+11007
+PDLS/14
+Jammu & Kashmir (UT)
+Ramban
+Saras/Kharonti
+Batote - Doda Highway Near 
+Kharonti (NH-244)
+33.10794444
+75.33877778
+Debris
+Slide
+NA
+11008
+PDLS/15
+Jammu & Kashmir (UT)
+Udhampur
+Mada
+NH-44
+33.02633333
+75.25547222
+Debris and Rock
+Slide
+NA
+11009
+PDLS/16
+Jammu & Kashmir (UT)
+Udhampur
+Tordi
+Udhampur – Srinagar 
+Highway(NH-44)
+32.97438889
+75.17311111
+Debris and Rock
+Slide
+NA
+11010
+PDLS/17
+Jammu & Kashmir (UT)
+Reasi
+Aghar Balian/Baradari Slide (GPS 075) Katra-Reasi highway road
+33.07787444
+74.81106944
+Debris and RBM
+Slide
+NA
+11011
+PDLS/18
+Jammu & Kashmir (UT)
+Reasi
+Sear Baba 1 (GPS 076)
+Reasi-Jyotipuram highway via 
+Talwara road
+33.11647222
+74.78994444
+Rock
+Fall
+NA
+11012
+PDLS/19
+Jammu & Kashmir (UT)
+Reasi
+Sear Baba 2(GPS077)
+Reasi Jyotipuram highway via 
+Talwara road
+33.11777778
+74.79127778
+Rock
+Fall
+NA
+11013
+PDLS/20
+Jammu & Kashmir (UT)
+Reasi
+Thanpal Slide
+Reasi-Talwara-Thanpal-Kanthan 
+road via Salal Dam
+33.17312778
+74.783
+Rock and Debris
+Slide
+1 March 2019
+11014
+PDLS/21
+Jammu & Kashmir (UT)
+Udhampur
+Kheri (near Kheri Slide) GPS078
+Jammu-Srinagar NH-44
+32.95769444
+75.16283333
+Debris
+Slide
+13 January 2020
+11015
+PDLS/22
+Jammu & Kashmir (UT)
+Ramban
+Near Ramban Pul (GPS 080)
+NH-44/Peera – Ramban 
+National Highway stretch
+33.20755556
+75.27888889
+Rock cum debris
+Slide
+24 December 2019
+11016
+PDLS/23
+Jammu & Kashmir (UT)
+Ramban
+Chanderkote (GPS 081)
+Peera – Ramban National 
+Highway (NH-44)
+33.20588889
+75.28227778
+Rock and debris
+Slide
+NA
+11017
+PDLS/24
+Jammu & Kashmir (UT)
+Ramban
+Near Ramban Pul
+Peera – Ramban National 
+Highway (NH-44)
+33.21038889
+75.27538889
+Rock
+Fall
+NA
+11018
+PDLS/25
+Jammu & Kashmir (UT)
+Ramban
+Pira-2 (GPS082)
+Peera – Ramban National 
+Highway (NH-44)
+33.16994444
+75.29666667
+Rock cum Debris
+Slide
+23 January 2019
+11019
+PDLS/26
+Jammu & Kashmir (UT)
+Udhampur
+Chaneni (Near Chaneni Tunnel portal) 
+(GPS083)
+Jammu-Srinagar National 
+highway, Near Chaneni Tunnel 
+portal
+33.04477778
+75.27886111
+Rock cum Debris
+Slide
+23 January 2019
+11020
+PDLS/27
+Jammu & Kashmir (UT)
+Udhampur
+Chaneni-2 (Near Chaneni Tunnel 
+portal)
+Jammu-Srinagar National 
+highway, Near Chaneni Tunnel 
+portal
+33.04477778
+75.27886111
+Rock cum Debris
+Slide
+23 January 2019
+11021
+PDLS/28
+Jammu & Kashmir (UT)
+Jammu
+Letar, Kalidhar.(GPS 084)
+Jammu-Akhnoor-Rajouri 
+National highway
+33.04138889
+74.59238889
+Rock cum Debris
+Slide
+24 January 2019
+11022
+PDLS/29
+Jammu & Kashmir (UT)
+Jammu
+Dab Jagir, Kalidhar. (GPS 085)
+Jammu-Akhnoor-Rajouri 
+National highway
+33.048
+74.61683333
+Rock cum Debris
+Slide
+24 January 2019
+11023
+PDLS/30
+Jammu & Kashmir (UT)
+Udhampur
+Dhanoo slide
+Tikri-Katra road
+32.98378333
+74.99115
+Rock and debris
+Slide
+NA
+11024
+PDLS/31
+Jammu & Kashmir (UT)
+Udhampur
+Dhanoo-2 slide/Sumdrani
+Tikri-Katra road
+32.98096389
+74.98698611
+Rock
+Fall
+NA
+11025
+PDLS/32
+Jammu & Kashmir (UT)
+Reasi
+Jardi/ Shahpur slide
+Reasi- Pouni road
+33.07550833
+74.72660278
+Rock and debris
+Slide
+NA
+11026
+PDLS/33
+Jammu & Kashmir (UT)
+Udhampur
+Talen Slide near Hotel Katra 
+continental
+Domel-Katra road
+32.9325
+74.92656667
+Rock and debris
+Slide
+NA
+11027
+PDLS/34
+Jammu & Kashmir (UT)
+Reasi
+Khera Lehar Slide (near Domail Bus 
+stop)
+Pauni-Akhnoor road
+33.08934444
+74.66441944
+Rock and debris
+Slide
+NA
+11028
+PDLS/35
+Jammu & Kashmir (UT)
+Reasi
+Sersand Owan Slide near Jyotipuram
+Reasi-Arnas road
+33.10518333
+74.85018611
+Rock and debris
+Fall
+NA
+11029
+PDLS/36
+Jammu & Kashmir (UT)
+Bakkal, Reasi
+Bakkal-1
+Reasi-Bakkal-World Highest 
+Railway Bridge site road
+33.13691944
+74.86961389
+Rock
+Slide
+NA
+11030
+PDLS/37
+Jammu & Kashmir (UT)
+Bakkal, Reasi
+Bakkal-2
+Reasi-Bakkal-World Highest 
+Railway Bridge site road
+33.13586111
+74.8606
+Rock
+Slide
+NA

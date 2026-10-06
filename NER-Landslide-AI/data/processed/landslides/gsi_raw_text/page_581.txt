@@ -1,0 +1,473 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22882
+MIZ/KOL/2022/13
+Mizoram
+Kolasib
+Bilkhawthlir to Kolasib road
+NULL
+24.30905556
+92.70394444
+Insitu Earth
+Soil slide
+August 2022
+22883
+MIZ/KOL/2022/15
+Mizoram
+Kolasib
+Keichem
+NULL
+24.24461111
+92.69075
+Rock
+Rock slide
+July 2022
+22884
+MIZ/KOL/2022/16
+Mizoram
+Kolasib
+Rengtekawn
+NULL
+24.26297222
+92.69216667
+Insitu Earth
+Soil slide
+2022
+22885
+MIZ/KOL/2022/17
+Mizoram
+Kolasib
+Kolasib to Bilkhawthlir road
+NULL
+24.2625
+92.69166667
+Rock
+Rock slide
+2022
+22886
+MIZ/KOL/2022/18
+Mizoram
+Kolasib
+Kolasib to Bilkhawthlir road
+NULL
+24.26411111
+92.69188889
+Rock
+Rock slide
+NA
+22887
+MIZ/KOL/2022/19
+Mizoram
+Kolasib
+Kolasib to Bilkhawthlir road
+NULL
+24.26558333
+92.69169444
+Regolith
+Debris slide
+2020, June 2022
+22888
+MIZ/KOL/2022/20
+Mizoram
+Kolasib
+Rengtekawn to Bilkhawthlir road
+NULL
+24.36911111
+92.72822222
+Insitu Earth
+Soil slide
+October 2022
+22889
+MIZ/KOL/2022/21
+Mizoram
+Kolasib
+Kharzawl
+NULL
+24.37077778
+92.71769444
+Insitu Earth
+Soil slide
+August 2022
+22890
+MIZ/KOL/2022/22
+Mizoram
+Kolasib
+Bilkhawthlir to Vairengte road
+NULL
+24.37402778
+92.71846944
+Insitu Earth
+Soil slide
+June 2022
+22891
+MIZ/KOL/2022/23
+Mizoram
+Kolasib
+Bilkhawthlir to Vairengte road
+NULL
+24.51622222
+92.77669444
+Loose debris
+Debris flow
+June 2022
+22892
+MIZ/KOL/2022/24
+Mizoram
+Kolasib
+Vairengte, neat IR Bn. Outpost
+NULL
+24.50772222
+92.76961111
+Regolith
+Debris slide
+June 2022
+22893
+MIZ/KOL/2022/25
+Mizoram
+Kolasib
+Vairengte Kawnthar veng
+NULL
+24.36611111
+92.71872222
+Regolith
+debris slide
+Juky 2022
+22894
+MIZ/KOL/2022/26
+Mizoram
+Kolasib
+Chhimluang to Bilkhawthlir road (NH 
+54)
+NULL
+24.21091667
+92.67888889
+Loose debris
+debris slide
+2022
+22895
+MIZ/KOL/2022/27
+Mizoram
+Kolasib
+Kolasib Vengthar
+NULL
+24.16647222
+92.69555556
+Regolith
+Debris slide
+October 2022
+22896
+MIZ/KOL/2022/28
+Mizoram
+Kolasib
+Thingdawl
+NULL
+24.00419444
+92.67780556
+Rock
+Rock slide
+October 2022
+22897
+MIZ/KOL/2022/29
+Mizoram
+Kolasib
+Kawnpui to Khamrang road
+NULL
+23.97272222
+92.68366667
+Older well 
+compacted debris
+Debris slide
+October 2022
+22898
+MIZ/KOL/2022/30
+Mizoram
+Kolasib
+Kawnpui to Khamrang road
+NULL
+23.98997222
+92.68061111
+Insitu Earth
+Soil slide
+July 2022
+22899
+MIZ/KOL/2022/31
+Mizoram
+Kolasib
+Kawnpui to Khamrang road
+NULL
+23.99025
+92.68066667
+Older well 
+compacted debris
+Debris slide
+July 2022
+22900
+MIZ/AZL/2022/32
+Mizoram
+Aizawl
+Kawnpui to Khamrang road
+NULL
+23.74
+92.71416667
+Colluvium
+Debris slide
+2018, October 2019, August 2020
+22901
+MIZ/AZL/2022/33
+Mizoram
+Aizawl
+Hunthar veng, Aizawl
+NULL
+23.72322222
+92.70183333
+Regolith
+debris slide
+May 2022
+22902
+MIZ/AZL/2022/34
+Mizoram
+Aizawl
+Maubawk
+NULL
+23.72327778
+92.70222222
+Regolith
+Debris slide
+May 2022 (between 14.05.2022 to 
+21.05.2022)
+22903
+MIZ/AZL/2022/35
+Mizoram
+Aizawl
+Maubawk
+NULL
+23.75969444
+92.73241667
+Regolith
+Debris slide, 
+debris flow
+2016, August 2022
+22904
+MIZ/AZL/2022/36
+Mizoram
+Aizawl
+Bawngkawn
+NULL
+23.75888889
+92.73336111
+Regolith
+Debris slide, 
+debris flow
+2020, July 2022
+22905
+MIZ/AZL/2022/37
+Mizoram
+Aizawl
+Bawngkawn
+NULL
+23.75861111
+92.73261111
+Colluvium
+Debris slide
+2009
+22906
+MIZ/AZL/2022/38
+Mizoram
+Aizawl
+Bawngkawn
+NULL
+23.76494444
+92.73427778
+Rock
+Rock slide
+August 2022
+22907
+MIZ/AZL/2022/39
+Mizoram
+Hnahthial
+Shalom Vengthar, Bawngkawn
+NULL
+22.91452778
+92.89333333
+Rock
+Rock slide
+14 November 2022
+22908
+MIZ/AZL/2022/40
+Mizoram
+Aizawl
+Maudarh Quarry
+NULL
+23.40041667
+92.75269444
+Regolith
+debris slide
+October 2022
+22909
+MIZ/AZL/2022/41
+Mizoram
+Aizawl
+Sialsuk to Hmuifang road (SH)
+NULL
+23.40169444
+92.75025
+Regolith
+Debris slide
+2020
+22910
+MIZ/AZL/2022/42
+Mizoram
+Aizawl
+Sialsuk to Hmuifang road (SH)
+NULL
+23.43936111
+92.76144444
+Rock
+Rock slide
+July 2022, October 2022
+22911
+MIZ/AZL/2022/43
+Mizoram
+Aizawl
+Outside Hmuifang
+NULL
+23.65669444
+92.72694444
+Insitu Earth
+Subsidence
+September 2007
+22912
+MIZ/AZL/2022/44
+Mizoram
+Aizawl
+Hualngohmun
+NULL
+23.72786111
+92.73955556
+Regolith
+Debris slide
+October 2022
+22913
+MIZ/AZL/2022/45
+Mizoram
+Aizawl
+Folkland Veng
+NULL
+23.72713889
+92.7405
+Regolith
+Debris slide
+2017, July 2022
+22914
+MIZ/AZL/2022/46
+Mizoram
+Aizawl
+Folkland Veng
+NULL
+23.77022222
+92.76
+Insitu Earth
+Soil slide
+September 2022
+22915
+MIZ/AZL/2022/47
+Mizoram
+Aizawl
+Muthi
+NULL
+23.77166667
+92.7605
+Colluvium
+Debris slide
+September 2022
+22916
+MIZ/AZL/2022/48
+Mizoram
+Aizawl
+Muthi Vengthar
+NULL
+23.77161111
+92.75913889
+Colluvium
+Debris slide
+July 2022
+22917
+MIZ/AZL/2022/49
+Mizoram
+Aizawl
+Muthi
+NULL
+23.65530556
+92.7025
+Insitu Earth 
+(upslope), rock at 
+road level and 
+flatground
+Rock slide
+5 April 2022
+22918
+MIZ/AZL/2022/50
+Mizoram
+Aizawl
+Samtlang
+NULL
+23.65538889
+92.71161111
+Regolith (upslope)
+Rock slide
+NA
+22919
+MIZ/AZL/2022/51
+Mizoram
+Aizawl
+Hualngohmun to Samtlang road
+NULL
+23.70827778
+92.71711111
+Insitu Earth
+Soil slide
+23 July 2022, October 2022
+22920
+MIZ/AZL/2022/52
+Mizoram
+Aizawl
+Kulikawn, Aizawl
+NULL
+23.73241667
+92.71480556
+Compacted Debris
+Subsidence
+July 2004, 2005,  2006, 2008, April 
+2022
+22921
+MIZ/AZL/2022/53
+Mizoram
+Aizawl
+Tuikual N, D Mual
+NULL
+23.73053889
+92.716019
+Compacted Debris
+Debris flow
+22 June 2018
+22922
+MIZ/AZL/2022/54
+Mizoram
+Aizawl
+Tuikual N, Local Council House
+NULL
+23.73055556
+92.71527778
+Compacted Debris
+Debris slide
+1969

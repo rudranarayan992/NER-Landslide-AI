@@ -1,0 +1,386 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12386
+KA/UTT/48J14/2020/24
+Karnataka
+Uttar Kannada
+Guddetata village
+Guddetata village
+14.51
+74.8
+Earth
+Slide
+2019
+12387
+KA/UTT/48J14/2020/25
+Karnataka
+Uttar Kannada
+Kanchimane village
+Kanchimane village
+14.51
+74.8
+Earth
+Slide
+2020
+12388
+KA/UTT/48J14/2020/26
+Karnataka
+Uttar Kannada
+Halligeri village
+Halligeri village
+14.51
+74.79
+Earth
+Slide
+NA
+12389
+KA/UTT/48J14/2020/32
+Karnataka
+Uttar Kannada
+Kansur village
+Kansur village
+14.51
+74.83
+Earth
+Slide
+2020
+12390
+KA/UTT/48J14/2020/33
+Karnataka
+Uttar Kannada
+Kansur village
+Kansur village
+14.51
+74.84
+Earth
+Slide
+2020
+12391
+KA/UTT/48J14/2020/34
+Karnataka
+Uttar Kannada
+Keremane village
+Keremane village
+14.51
+74.82
+Debris
+Slide
+2020
+12392
+KA/UTT/48J14/2020/35
+Karnataka
+Uttar Kannada
+Keremane village
+Keremane village
+14.51
+74.82
+Debris
+Slide
+2020
+12393
+KA/UTT/48J14/2020/36
+Karnataka
+Uttar Kannada
+Sankadamane, Yelgar Mane
+Sankadamane, Yelgar Mane
+14.51
+74.82
+Earth
+Slide
+2019
+12394
+KA/UTT/48J14/2020/40
+Karnataka
+Uttar Kannada
+Dantekal village
+Dantekal village
+14.51
+74.81
+Debris
+Slide
+2019
+12395
+KA/UTT/48J14/2020/41
+Karnataka
+Uttar Kannada
+Dantekal village
+Dantekal village
+14.51
+74.81
+Debris
+Slide
+2019
+12396
+KA/UTT/48J14/2020/42
+Karnataka
+Uttar Kannada
+Dantekal village
+Dantekal village
+14.51
+74.81
+Earth
+Slide
+2020
+12397
+KA/UTT/48J14/2020/43
+Karnataka
+Uttar Kannada
+Dantekal village
+Dantekal village
+14.51
+74.81
+Earth
+Slide
+2020
+12398
+KA/UTT/48J14/2020/44
+Karnataka
+Uttar Kannada
+Mukktakai village
+Mukktakai village
+14.51
+74.82
+Earth
+Slide
+2019
+12399
+KA/UTT/48J14/2020/45
+Karnataka
+Uttar Kannada
+Mukktakai village
+Mukktakai village
+14.51
+74.83
+Earth
+Slide
+2019
+12400
+KA/UTT/48J14/2020/47
+Karnataka
+Uttar Kannada
+ Dantekal
+ Dantekal
+14.51
+74.81
+Earth
+Slide
+2017
+12401
+KA/UTT/48J14/2020/49
+Karnataka
+Uttar Kannada
+Bitgod village
+Bitgod village
+14.51
+74.78
+Earth
+Slide
+2019
+12402
+KA/UTT/48J14/2020/52
+Karnataka
+Uttar Kannada
+Shelur village
+Shelur village
+14.51
+74.88
+Debris
+Slide
+NA
+12403
+KA/UK/48J06/2015/134
+Karnataka
+Uttar Kannada
+ 
+NH-17 on ankola-kumta road
+14.513489
+74.411117
+Debris
+Slide
+NA
+12404
+KA/UK/48J07/2015/183
+Karnataka
+Uttar Kannada
+ 
+Murur village
+14.513489
+74.411117
+Debris
+Slide
+NA
+12405
+KA/UK/48J06/2015/150
+Karnataka
+Uttar Kannada
+ 
+On NH-17 2km from Bergi
+14.517317
+74.409617
+Debris
+Slide
+NA
+12406
+KA/UK/48J06/2015/149
+Karnataka
+Uttar Kannada
+ 
+On NH-17 2km from Bergi
+14.517933
+74.409533
+Debris
+Slide
+NA
+12407
+KA/UTT/48J14/2020/27
+Karnataka
+Uttar Kannada
+North of Halligeri village
+North of Halligeri village
+14.52
+74.79
+Earth
+Slide
+2019
+12408
+KA/UTT/48J14/2020/38
+Karnataka
+Uttar Kannada
+Kansur village
+Kansur village
+14.52
+74.84
+Debris
+Slide
+2017
+12409
+KA/UTT/48J14/2020/39
+Karnataka
+Uttar Kannada
+Kansur village
+Kansur village
+14.52
+74.84
+Debris
+Slide
+2017
+12410
+KA/UTT/48J14/2020/46
+Karnataka
+Uttar Kannada
+Kodsinge village
+Kodsinge village
+14.52
+74.81
+Earth
+Slide
+NA
+12411
+KA/UTT/48J14/2020/53
+Karnataka
+Uttar Kannada
+Kudlemane village
+Kudlemane village
+14.52
+74.88
+Debris
+Slide
+2019
+12412
+KA/UTT/48I10/2018/09
+Karnataka
+Uttar Kannada
+West of Devimane
+West of Devimane
+14.522436
+74.566222
+Soil
+Slide
+NA
+12413
+KA/UTT/48J10/2018/05
+Karnataka
+Uttar Kannada
+Devimane
+Devimane
+14.522492
+74.576103
+Debris
+Slide
+NA
+12414
+KA/UTT/48J10/2018/10
+Karnataka
+Uttar Kannada
+West of Devimane
+West of Devimane
+14.52535
+74.561575
+Soil
+Slide
+NA
+12415
+KA/UTT/48J10/2018/04
+Karnataka
+Uttar Kannada
+Arge
+Arge
+14.527781
+74.631389
+Soil
+Slump
+NA
+12416
+KA/UTT/48J14/2020/18
+Karnataka
+Uttar Kannada
+Doddamanekere village
+Doddamanekere village
+14.53
+74.8
+Debris
+Slide
+2019
+12417
+KA/UTT/48J14/2020/23
+Karnataka
+Uttar Kannada
+Jananalli village
+Jananalli village
+14.53
+74.83
+Earth
+Slide
+NA
+12418
+KA/UTT/48J14/2020/63
+Karnataka
+Uttar Kannada
+Gattikai village
+Gattikai village
+14.53
+74.85
+Earth
+Slide
+NA
+12419
+KA/UTT/48J14/2020/64
+Karnataka
+Uttar Kannada
+Iragoppa village
+Iragoppa village
+14.53
+74.85
+Earth
+Slide
+2019

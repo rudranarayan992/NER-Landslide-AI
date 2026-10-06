@@ -1,0 +1,341 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14890
+541
+Kerala
+Idukki
+Murinjapuzha
+Murinjapuzha pocket road
+9.557969
+76.97305
+Debris
+Slide
+16th August 2018
+14891
+542
+Kerala
+Idukki
+Murinjapuzha
+Murinjapuzha pocket road
+9.556714
+76.972888
+Debris
+Slide
+15th August 2018
+14892
+543
+Kerala
+Idukki
+Cheruvallikulam
+Murinjapuzha  - 
+Cheruvallikulam road
+9.536662
+76.981105
+Debris
+Flow
+15th August 2018
+14893
+544
+Kerala
+Idukki
+Cheruvallikulam
+Murinjapuzha  - 
+Cheruvallikulam road
+9.526361
+76.980418
+Debris
+Slide
+15th August 2018
+14894
+545
+Kerala
+Idukki
+Kanayankavayal
+Kanayankavayal - Mathamba 
+road
+9.51972
+76.983047
+Debris
+Flow
+15th August 2018
+14895
+546
+Kerala
+Idukki
+Vellani
+Kanayankavayal - Mathamba 
+road
+9.517495
+76.983326
+Debris
+Flow
+15th August 2018
+14896
+547
+Kerala
+Idukki
+Vellani
+Kanayankavayal - Mathamba 
+road
+9.516939
+76.982494
+Debris
+Flow
+15th August 2018
+14897
+548
+Kerala
+Idukki
+Vellani
+Kanayankavayal - Mathamba 
+road
+9.50805
+76.981387
+Debris
+Flow
+15th August 2018
+14898
+549
+Kerala
+Idukki
+Thekkemala
+Murinjapuzha - Thekkemala 
+road
+9.530667
+76.965462
+Debris
+Slide
+15th August 2018
+14899
+550
+Kerala
+Idukki
+Thekkemala
+Murinjapuzha - Thekkemala 
+road
+9.531556
+76.960131
+Debris
+Flow
+15th August 2018
+14900
+551
+Kerala
+Idukki
+Azhanganad
+Peruvanthanam - Azhanganad 
+road
+9.567761
+76.950283
+Debris
+Flow
+15th August 2018
+14901
+552
+Kerala
+Idukki
+Azhanganad
+Peruvanthanam - Azhanganad 
+road
+9.572847
+76.949283
+Debris
+Flow
+15th August 2018
+14902
+553
+Kerala
+Idukki
+Azhanganad
+Peruvanthanam - Azhanganad 
+road
+9.576489
+76.941443
+Debris
+Flow
+15th August 2018
+14903
+554
+Kerala
+Idukki
+Meloram
+Peruvanthanam - Melooram 
+road
+9.57226
+76.942849
+Debris
+Flow
+15th August 2018
+14904
+555
+Kerala
+Idukki
+Meloram
+Peruvanthanam - Melooram 
+road
+9.565965
+76.943333
+Debris
+Slide
+15th August 2018
+14905
+556
+Kerala
+Idukki
+Vembala
+Vembala - Uppukulam road
+9.618522
+76.91768
+Debris
+Flow
+15th August 2018
+14906
+557
+Kerala
+Idukki
+Keerikara
+Periyar - Thengakkal road
+9.609313
+77.069258
+Debris
+Slide
+16th 
+July 
+2018
+14907
+558
+Kerala
+Idukki
+Kallumedu
+Anavilasam - Vandiperiyar road 9.648325
+77.094746
+Debris
+Slide
+15th August 2018
+14908
+1
+Kerala
+Idukki
+Parivathanamedu I
+Nedumkandam - 
+Parivarthanamedu Road
+9.848525
+77.161483
+Debris
+Flow
+15th August 2018
+14909
+2
+Kerala
+Idukki
+Parivathanamedu I I
+Nedumkandam - 
+Parivarthanamedu Road
+9.842312
+77.160549
+Soil
+Slide
+15th August 2018
+14910
+3
+Kerala
+Idukki
+Parivathanamedu I II
+Nedumkandam - 
+Parivarthanamedu Road
+9.842529
+77.160514
+Debris
+Slide
+15th August 2018
+14911
+4
+Kerala
+Idukki
+Parivathanamedu IV
+Nedumkandam - 
+Parivarthanamedu Road
+9.847146
+77.159369
+Debris
+Slide
+ 13th August  2018
+14912
+5
+Kerala
+Idukki
+5 Acre Kanam
+Nedumkandam - Illikalam Road 9.841301
+77.1688
+Debris
+Slide
+15th August  2018
+14913
+6
+Kerala
+Idukki
+Mathaikada I
+Mundiyeruma-Udumbanchola 
+road
+9.838144
+77.18461
+Debris
+Flow
+15th August  2018
+14914
+7
+Kerala
+Idukki
+Mathaikada II
+Mundiyeruma-Udumbanchola 
+road
+9.83882
+77.153524
+Debris
+Flow
+15th August  2018
+14915
+8
+Kerala
+Idukki
+Mathaikkada III
+Mundiyeruma-Udumbanchola 
+road
+9.83811
+77.18514
+Debris
+Slide
+15th August  2018
+14916
+9
+Kerala
+Idukki
+Palar
+Mundiyeruma-Udumbanchola 
+road
+9.851827
+77.204249
+Debris
+Slide
+15th August  2018
+14917
+10
+Kerala
+Idukki
+Pallipadi
+Combayar Road
+9.854614
+77.206592
+Debris
+Slide
+15th August  2018

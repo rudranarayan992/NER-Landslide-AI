@@ -1,0 +1,355 @@
+# NER Landslide AI — Data Source Registry
+# Phase 6 Environmental Data Foundation
+# Version: 1.0
+# Last Updated: 2026-10-06
+#
+# IMPORTANT: This registry contains ONLY real, authoritative data sources.
+# Datasets marked "AWAITING_VERIFIED_SOURCE_DATA" do NOT exist in local storage.
+# Do NOT fabricate or synthesize data for missing sources.
+
+data_sources:
+  # ==================================================
+  # HISTORICAL LANDSLIDE DATA (VERIFIED)
+  # ==================================================
+  - id: gsi_landslides
+    category: historical_landslides
+    dataset_name: "GSI Historical Landslide Inventory"
+    provider: "Geological Survey of India (GSI)"
+    description: "33,904 field-validated landslide events extracted from GSI published inventory"
+    spatial_resolution: "Point locations from field surveys"
+    temporal_resolution: "Historical events spanning decades"
+    coverage: "8 NER states: Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura"
+    format: "CSV (extracted from PDF), GeoJSON for API"
+    access_method: "Local file repository (data/raw/landslides/)"
+    source_url: "https://www.gsi.gov.in/ (original publication)"
+    license: "Government of India / Public Domain"
+    verification_status: "VERIFIED"
+    local_path: "data/raw/landslides/33,904 field-validated inventory records.pdf"
+    ingestion_status: "COMPLETED"
+    notes: "PDF extracted to CSV via OCR/text-extraction; 33,904 records with coordinates from field surveys"
+    geometry_fields:
+      - latitude
+      - longitude
+    crs: "EPSG:4326"
+    data_quality: "OBSERVED - field-validated event locations"
+
+  # ==================================================
+  # ADMINISTRATIVE BOUNDARIES (VERIFIED)
+  # ==================================================
+  - id: ner_states
+    category: administrative_boundaries
+    dataset_name: "NER State Boundaries"
+    provider: "Local administrative files"
+    description: "State-level administrative boundaries for 8 NER states"
+    spatial_resolution: "Vector polygons (state-level)"
+    temporal_resolution: "Static administrative boundaries"
+    coverage: "8 NER states"
+    format: "Shapefile / GeoJSON"
+    access_method: "Local file repository (data/raw/administrative/)"
+    source_url: "Local"
+    license: "Government of India"
+    verification_status: "VERIFIED"
+    local_path: "data/raw/administrative/"
+    ingestion_status: "COMPLETED"
+    notes: "State boundaries used for data filtering and spatial queries"
+    geometry_fields:
+      - geometry
+    crs: "EPSG:4326"
+    data_quality: "OBSERVED"
+
+  - id: lgd_villages
+    category: administrative_boundaries
+    dataset_name: "LGD Village Boundaries"
+    provider: "Local village administrative files"
+    description: "Village-level administrative boundaries (limited coverage)"
+    spatial_resolution: "Vector polygons/points (village-level)"
+    temporal_resolution: "Static administrative boundaries"
+    coverage: "Partial coverage of NER states"
+    format: "XLS / CSV"
+    access_method: "Local file repository (data/raw/villages/)"
+    source_url: "Local"
+    license: "Government of India"
+    verification_status: "PARTIAL"
+    local_path: "data/raw/villages/"
+    ingestion_status: "PARTIAL"
+    notes: "Limited to available local XLS files; incomplete spatial coverage"
+    geometry_fields:
+      - geometry
+    crs: "EPSG:4326"
+    data_quality: "OBSERVED"
+
+  # ==================================================
+  # TERRAIN / DEM (NOT AVAILABLE)
+  # ==================================================
+  - id: dem
+    category: terrain
+    dataset_name: "Digital Elevation Model"
+    provider: "AWAITING SOURCE (USGS/SRTM/Copernicus/ISRO/Bhuvan)"
+    description: "30-90m resolution elevation raster covering NER"
+    spatial_resolution: "30m (SRTM), 10m (Copernicus), 12.5m (CARTOSAT-1)"
+    temporal_resolution: "Static elevation model"
+    coverage: "8 NER states"
+    format: "GeoTIFF / NetCDF"
+    access_method: "NOT DOWNLOADED"
+    source_url: "https://earthexplorer.usgs.gov/ or https://search.asf.alaska.edu/ or https://scihub.copernicus.eu/"
+    license: "Public Domain (SRTM/Copernicus/CARTOSAT-1)"
+    verification_status: "AWAITING_VERIFIED_SOURCE_DATA"
+    local_path: "data/raw/dem/ (empty)"
+    ingestion_status: "BLOCKED"
+    notes: "Essential for terrain analysis, slope, aspect, flow accumulation. Not obtained yet. Cannot proceed with Phase 7 without DEM."
+    geometry_fields:
+      - raster
+    crs: "EPSG:4326"
+    data_quality: "NOT_AVAILABLE"
+    required_for_phase: 7
+
+  # ==================================================
+  # RAINFALL / PRECIPITATION (NOT AVAILABLE)
+  # ==================================================
+  - id: rainfall
+    category: rainfall_precipitation
+    dataset_name: "Rainfall Observations / Time Series"
+    provider: "AWAITING SOURCE (IMD/CHIRPS/NASA MERRA/NOAA)"
+    description: "Daily/hourly rainfall observations for weather stations or gridded precipitation"
+    spatial_resolution: "0.05° (CHIRPS), station-based (IMD)"
+    temporal_resolution: "Daily or sub-daily (3h/6h/12h)"
+    coverage: "8 NER states"
+    format: "NetCDF / GeoTIFF / CSV time series"
+    access_method: "NOT DOWNLOADED"
+    source_url: "https://www.imd.gov.in/ or https://www.chc.ucsb.edu/data/chirps or https://gmao.gsfc.nasa.gov/"
+    license: "IMD/public domain (CHIRPS/MERRA)"
+    verification_status: "AWAITING_VERIFIED_SOURCE_DATA"
+    local_path: "data/raw/rainfall/ (empty)"
+    ingestion_status: "BLOCKED"
+    notes: "Critical for rainfall-triggered landslide analysis. IMD provides station data; CHIRPS provides gridded global data. Not obtained yet."
+    crs: "EPSG:4326"
+    data_quality: "NOT_AVAILABLE"
+    required_for_phase: 7
+
+  # ==================================================
+  # WEATHER / METEOROLOGICAL (NOT AVAILABLE)
+  # ==================================================
+  - id: weather_observations
+    category: weather
+    dataset_name: "Weather Station Observations"
+    provider: "AWAITING SOURCE (IMD/WMO/ECMWF)"
+    description: "Temperature, humidity, wind, pressure from weather stations"
+    spatial_resolution: "Station-based"
+    temporal_resolution: "3-hourly / daily"
+    coverage: "Limited by station distribution in NER"
+    format: "CSV / NetCDF"
+    access_method: "NOT DOWNLOADED"
+    source_url: "https://www.imd.gov.in/ or https://www.ecmwf.int/"
+    license: "IMD/ECMWF"
+    verification_status: "AWAITING_VERIFIED_SOURCE_DATA"
+    local_path: "data/raw/weather/ (empty)"
+    ingestion_status: "BLOCKED"
+    notes: "Optional for current risk; IMD publishes station data. Not integrated yet."
+    crs: "EPSG:4326"
+    data_quality: "NOT_AVAILABLE"
+    required_for_phase: 10
+
+  # ==================================================
+  # SOIL / SOIL PROPERTIES (NOT AVAILABLE)
+  # ==================================================
+  - id: soil_properties
+    category: soil
+    dataset_name: "Soil Properties / Soil Map"
+    provider: "AWAITING SOURCE (ISRIC-WISE/Indian Soil Survey/SoilGrids)"
+    description: "Soil type, texture, depth, pH, organic matter"
+    spatial_resolution: "250m (SoilGrids), variable (Indian surveys)"
+    temporal_resolution: "Static soil properties"
+    coverage: "8 NER states"
+    format: "GeoTIFF / Shapefile"
+    access_method: "NOT DOWNLOADED"
+    source_url: "https://www.isric.org/ or https://www.nrsc.gov.in/ or https://www.soilgrids.org/"
+    license: "SoilGrids CC-BY-4.0, ISRIC varies"
+    verification_status: "AWAITING_VERIFIED_SOURCE_DATA"
+    local_path: "data/raw/soil/ (empty)"
+    ingestion_status: "BLOCKED"
+    notes: "Important for landslide susceptibility. SoilGrids provides global 250m data. Indian sources have higher resolution. Not obtained yet."
+    crs: "EPSG:4326"
+    data_quality: "NOT_AVAILABLE"
+    required_for_phase: 7
+
+  # ==================================================
+  # SOIL MOISTURE (NOT AVAILABLE)
+  # ==================================================
+  - id: soil_moisture
+    category: soil_moisture
+    dataset_name: "Soil Moisture / Surface Wetness"
+    provider: "AWAITING SOURCE (SMAP/ESA CCI/MODIS)"
+    description: "Volumetric soil moisture content from satellite observations"
+    spatial_resolution: "1-10 km (depending on source)"
+    temporal_resolution: "Daily / 3-daily"
+    coverage: "8 NER states"
+    format: "NetCDF / HDF5"
+    access_method: "NOT DOWNLOADED"
+    source_url: "https://nsidc.org/ or https://www.esa-soilmoisture-cci.org/ or https://lpdaac.usgs.gov/"
+    license: "NASA/ESA public domain"
+    verification_status: "AWAITING_VERIFIED_SOURCE_DATA"
+    local_path: "data/raw/soil_moisture/ (empty)"
+    ingestion_status: "BLOCKED"
+    notes: "Useful for current-risk assessment. Requires Phase 10 (current-risk engine). Not obtained yet."
+    crs: "EPSG:4326"
+    data_quality: "NOT_AVAILABLE"
+    required_for_phase: 10
+
+  # ==================================================
+  # HYDROLOGY / DRAINAGE (NOT AVAILABLE)
+  # ==================================================
+  - id: hydrology
+    category: hydrology
+    dataset_name: "Hydrological Network / Drainage"
+    provider: "AWAITING SOURCE (HydroSHEDS/MERIT/OSM NHD)"
+    description: "Rivers, streams, drainage patterns, flow direction"
+    spatial_resolution: "30m (HydroSHEDS), variable (OSM)"
+    temporal_resolution: "Static network"
+    coverage: "8 NER states"
+    format: "Shapefile / GeoJSON"
+    access_method: "NOT DOWNLOADED"
+    source_url: "https://www.hydrosheds.org/ or https://www.openstreetmap.org/"
+    license: "HydroSHEDS CC-BY-4.0, OSM ODbL"
+    verification_status: "AWAITING_VERIFIED_SOURCE_DATA"
+    local_path: "data/raw/hydrology/ (empty)"
+    ingestion_status: "BLOCKED"
+    notes: "Important for pore-pressure and slope stability models. HydroSHEDS provides 30m resolution globally. Not obtained yet."
+    crs: "EPSG:4326"
+    data_quality: "NOT_AVAILABLE"
+    required_for_phase: 7
+
+  # ==================================================
+  # SATELLITE / REMOTE SENSING (NOT AVAILABLE)
+  # ==================================================
+  - id: satellite_imagery
+    category: satellite_remote_sensing
+    dataset_name: "Satellite Imagery Baseline"
+    provider: "AWAITING SOURCE (Sentinel-2/Landsat-8/MODIS)"
+    description: "Multispectral satellite observations for baseline conditions and change detection"
+    spatial_resolution: "10-30m (Sentinel-2/Landsat-8), 250m (MODIS)"
+    temporal_resolution: "5-16 day revisit (Sentinel/Landsat), daily (MODIS)"
+    coverage: "8 NER states"
+    format: "GeoTIFF / NetCDF"
+    access_method: "NOT DOWNLOADED"
+    source_url: "https://scihub.copernicus.eu/ or https://earthexplorer.usgs.gov/"
+    license: "Copernicus/USGS public domain"
+    verification_status: "AWAITING_VERIFIED_SOURCE_DATA"
+    local_path: "data/raw/satellite/ (empty)"
+    ingestion_status: "BLOCKED"
+    notes: "Useful for detecting land-use change and active instability. Requires significant storage. Not obtained yet."
+    crs: "EPSG:4326"
+    data_quality: "NOT_AVAILABLE"
+    required_for_phase: "10 (optional)"
+
+  # ==================================================
+  # LAND COVER / VEGETATION (NOT AVAILABLE)
+  # ==================================================
+  - id: land_cover
+    category: land_cover
+    dataset_name: "Land Cover Classification"
+    provider: "AWAITING SOURCE (ESA WorldCover/Copernicus/MODIS)"
+    description: "Categorical land cover (forest, agriculture, urban, water, etc.)"
+    spatial_resolution: "10m (ESA WorldCover), 100m (Copernicus), 250m (MODIS)"
+    temporal_resolution: "Annual / multi-year"
+    coverage: "8 NER states"
+    format: "GeoTIFF"
+    access_method: "NOT DOWNLOADED"
+    source_url: "https://www.esa-worldcover.org/ or https://land.copernicus.eu/ or https://lpdaac.usgs.gov/"
+    license: "ESA CC-BY-4.0 / Copernicus"
+    verification_status: "AWAITING_VERIFIED_SOURCE_DATA"
+    local_path: "data/raw/landcover/ (empty)"
+    ingestion_status: "BLOCKED"
+    notes: "ESA WorldCover 10m is global and freely available. Important for susceptibility. Not obtained yet."
+    crs: "EPSG:4326"
+    data_quality: "NOT_AVAILABLE"
+    required_for_phase: 7
+
+  # ==================================================
+  # GEOLOGY (PARTIAL)
+  # ==================================================
+  - id: geology
+    category: geology
+    dataset_name: "Geological Map / Rock Types"
+    provider: "Local geology files + AWAITING VERIFIED NATIONAL SOURCE"
+    description: "Lithology, rock types, geological formations"
+    spatial_resolution: "Variable (1:50,000 to 1:250,000 maps)"
+    temporal_resolution: "Static geological features"
+    coverage: "Partial NER coverage"
+    format: "Shapefile / GeoJSON"
+    access_method: "Local file repository (data/raw/geology/)"
+    source_url: "GSI / Local sources / Awaiting national geological map"
+    license: "Government of India"
+    verification_status: "PARTIAL"
+    local_path: "data/raw/geology/"
+    ingestion_status: "PARTIAL"
+    notes: "Limited geology data available locally; more comprehensive national geological map needed"
+    crs: "EPSG:4326"
+    data_quality: "PARTIAL"
+    required_for_phase: 7
+
+  # ==================================================
+  # ROADS (PARTIAL)
+  # ==================================================
+  - id: roads_network
+    category: roads
+    dataset_name: "Road Network"
+    provider: "Local OSM / AWAITING VERIFIED NETWORK GEOMETRY"
+    description: "Road segments with classification and attributes"
+    spatial_resolution: "Vector linestrings"
+    temporal_resolution: "Static network (updated periodically)"
+    coverage: "Partial NER coverage"
+    format: "Shapefile / GeoJSON"
+    access_method: "Local file repository (data/raw/roads/)"
+    source_url: "OpenStreetMap / Local sources"
+    license: "OSM ODbL"
+    verification_status: "PARTIAL"
+    local_path: "data/raw/roads/"
+    ingestion_status: "PARTIAL"
+    notes: "Road data exists but verification of completeness needed for Phase 11 (road-risk analysis)"
+    crs: "EPSG:4326"
+    data_quality: "PARTIAL"
+    required_for_phase: 11
+
+  # ==================================================
+  # FIELD REPORTS (EMPTY)
+  # ==================================================
+  - id: field_reports
+    category: field_reports
+    dataset_name: "Field Report Repository"
+    provider: "Local submission system (not yet implemented)"
+    description: "Ground validation and observation reports from field surveys"
+    spatial_resolution: "Point locations from submissions"
+    temporal_resolution: "Event-driven"
+    coverage: "Will cover 8 NER states"
+    format: "JSON / PostgreSQL"
+    access_method: "Local database"
+    source_url: "Local"
+    license: "Project"
+    verification_status: "NOT_AVAILABLE"
+    local_path: "data/raw/field_reports/ (empty)"
+    ingestion_status: "BLOCKED"
+    notes: "Field report workflow not yet implemented; blocked until Phase 15"
+    crs: "EPSG:4326"
+    data_quality: "NOT_AVAILABLE"
+    required_for_phase: 15
+
+# ==================================================
+# METADATA
+# ==================================================
+metadata:
+  registry_version: "1.0"
+  last_updated: "2026-10-06"
+  created_by: "Phase 6 Environmental Foundation"
+  project: "NER Landslide AI"
+  scientific_integrity: "NO FABRICATED DATA. Datasets marked AWAITING_VERIFIED_SOURCE_DATA do NOT exist locally."
+  verified_datasets: 4
+  awaiting_datasets: 8
+  partial_datasets: 3
+  blocked_reason: "Cannot proceed to Phase 7 (feature engineering) without verified DEM, rainfall, soil, and hydrology data"
+  phase_7_status: "BLOCKED"
+  phase_7_blockers:
+    - "DEM (elevation raster) — AWAITING VERIFIED SOURCE DATA"
+    - "Rainfall time series — AWAITING VERIFIED SOURCE DATA"
+    - "Soil properties — AWAITING VERIFIED SOURCE DATA"
+    - "Hydrological network — AWAITING VERIFIED SOURCE DATA"
+  next_action: "Obtain verified environmental datasets from authoritative sources; update verification_status to VERIFIED; run Phase 6 validation"

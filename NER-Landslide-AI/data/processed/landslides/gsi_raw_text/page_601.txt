@@ -1,0 +1,469 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+23855
+MIZ/SER/84A15/2025/143
+Mizoram
+Serchhip
+NH 54
+23.274148
+92.871011
+Debris
+Flow
+31 May 2025
+23856
+MIZ/SER/84A15/2025/144
+Mizoram
+Serchhip
+NH 54
+23.272548
+92.874296
+Earth
+Slide
+31 May 2025
+23857
+MIZ/SER/84A15/2025/145
+Mizoram
+Serchhip
+NH 54
+23.271227
+92.874544
+Debris
+Slide
+01 June 2025 
+23858
+MIZ/SER/84A15/2025/146
+Mizoram
+Serchhip
+NH 54
+23.270548
+92.877577
+Debris
+Flow
+01 June 2025 
+23859
+MIZ/SER/84A15/2025/147
+Mizoram
+Serchhip
+NH 54
+23.67701
+92.87895
+Debris
+Flow
+01 June 2025 
+23860
+MIZ/SER/84A16/2025/148
+Mizoram
+Serchhip
+Keitum 
+23.243855
+92.905242
+Debris
+Slide
+31 May 2025
+23861
+MIZ/SER/84A15/2025/149
+Mizoram
+Serchhip
+Serchhip - Thenzawl road
+23.286735
+92.85703
+Debris
+Slide
+31 May 2025
+23862
+MIZ/SER/84A15/2025/150
+Mizoram
+Serchhip
+Serchhip - Thenzawl road
+23.284565
+92.857096
+Debris
+Slide
+31 May 2025
+23863
+MIZ/SER/84A15/2025/151
+Mizoram
+Serchhip
+Serchhip - Thenzawl road
+23.281443
+92.840145
+Debris
+Slide
+01 June 2025 
+23864
+MIZ/SER/84A15/2025/152
+Mizoram
+Serchhip
+Serchhip - Thenzawl road
+23.280947
+92.8367
+Rock
+Slide
+01 June 2025 
+23865
+MIZ/SER/84A15/2025/153
+Mizoram
+Serchhip
+Serchhip - Thenzawl road
+23.288276
+92.830821
+Debris
+Slide 
+31 May 2025
+23866
+MIZ/SER/84A11/2025/154
+Mizoram
+Serchhip
+Thenzawl - Buarpui road
+23.293863
+92.741368
+Debris
+slide
+01 June 2025 
+23867
+MIZ/SER/84A11/2025/155
+Mizoram
+Serchhip
+Thenzawl - Buarpui road
+23.295774
+92.740012
+Debris
+slide
+01 June 2025 
+23868
+MIZ/SER/84A11/2025/156
+Mizoram
+Serchhip
+Thenzawl - Buarpui road
+23.30265
+92.742945
+Debris
+slide
+01 June 2025 
+23869
+MIZ/SER/84A11/2025/157
+Mizoram
+Serchhip
+Thenzawl - Buarpui road
+23.307135
+92.707624
+Debris
+Flow
+31 May 2025
+23870
+MIZ/SER/84A11/2025/158
+Mizoram
+Serchhip
+Thenzawl - Buarpui road
+23.306409
+92.706083
+Debris
+Slide
+31 May 2025
+23871
+MIZ/SER/84A11/2025/159
+Mizoram
+Serchhip
+Thenzawl - Buarpui road
+23.306012
+92.704212
+Debris
+Flow
+31 May 2025
+23872
+MIZ/SER/84A11/2025/160
+Mizoram
+Serchhip
+Thenzawl - Buarpui road
+23.300291
+92.69577
+Debris
+Flow
+01 June 2025 
+23873
+MIZ/SER/84A11/2025/161
+Mizoram
+Serchhip
+Thenzawl - Buarpui road
+23.299806
+92.694901
+Debris
+Flow
+01 June 2025 
+23874
+MIZ/SER/84A11/2025/162
+Mizoram
+Serchhip
+Thenzawl - Buarpui road
+23.299312
+92.692614
+Debris
+Flow
+01 June 2025 
+23875
+MIZ/LUNG/84A11/2025/163
+Mizoram
+Lunglei
+Thenzawl - Buarpui road
+23.297521
+92.689449
+Debris
+Flow
+01 June 2025 
+23876
+MIZ/LUNG/84A11/2025/164
+Mizoram
+Lunglei
+Thenzawl - Buarpui road
+23.30374
+92.672816
+Debris
+Slide
+01 June 2025 
+23877
+MIZ/LUNG/84A11/2025/165
+Mizoram
+Lunglei
+Thenzawl - Buarpui road
+23.304123
+92.671521
+Debris
+Flow
+01 June 2025 
+23878
+MIZ/LUNG/84A11/2025/166
+Mizoram
+Lunglei
+Thenzawl - Buarpui road
+23.306105
+92.671296
+Debris
+Flow
+01 June 2025 
+23879
+MIZ/LUNG/84A11/2025/167
+Mizoram
+Lunglei
+Thenzawl - Buarpui road
+23.306338
+92.666573
+Debris
+Flow
+01 June 2025 
+23880
+MIZ/LUNG/84A11/2025/168
+Mizoram
+Lunglei
+New Khawlek
+23.32044
+92.643229
+Debris
+Slide
+01 June 2025 
+23881
+MIZ/LUNG/84A11/2025/169
+Mizoram
+Lunglei
+Thenzawl - Buarpui road
+23.301901
+92.649401
+Debris
+Slide
+01 June 2025 
+23882
+MIZ/LUNG/84A12/2025/170
+Mizoram
+Lunglei
+Buarpui
+23.246611
+92.655112
+Debris
+Slide
+01 June 2025 
+23883
+MIZ/LUNG/84A12/2025/171
+Mizoram
+Lunglei
+West Bungtlang to Changpui 
+road
+23.2388
+92.636923
+Earth
+Slide
+01 June 2025 
+23884
+MIZ/LUNG/84A12/2025/172
+Mizoram
+Lunglei
+West Bungtlang to Changpui 
+road
+23.234538
+92.637234
+Debris
+Slide
+01 June 2025 
+23885
+MIZ/LUNG/84A12/2025/173
+Mizoram
+Lunglei
+West Bungtlang to Changpui 
+road
+23.206413
+92.632701
+Debris
+Slide
+01 June 2025 
+23886
+MIZ/LUNG/84A12/2025/174
+Mizoram
+Lunglei
+West Bungtlang to Changpui 
+road
+23.197283
+92.632661
+Earth
+Slide
+01 June 2025 
+23887
+MIZ/LUNG/84A12/2025/175
+Mizoram
+Lunglei
+Changpui
+23.174558
+92.612556
+Earth
+Slide
+01 June 2025 
+23888
+MIZ/LUNG/84A12/2025/176
+Mizoram
+Lunglei
+Changpui
+23.1739
+92.611378
+Debris
+Slide
+01 June 2025 
+23889
+MIZ/LUNG/84A12/2025/177
+Mizoram
+Lunglei
+Changpui
+23.173258
+92.611929
+Debris
+Flow
+01 June 2025 
+23890
+MIZ/LUNG/84A12/2025/178
+Mizoram
+Lunglei
+Changpui
+23.17252
+92.611434
+Debris
+Flow
+01 June 2025 
+23891
+MIZ/LUNG/84A12/2025/179
+Mizoram
+Lunglei
+Changpui
+23.172659
+92.611828
+Earth
+Slide
+01 June 2025 
+23892
+MIZ/LUNG/84A12/2025/180
+Mizoram
+Lunglei
+Thenhlum
+23.198272
+92.589291
+Earth
+Slide
+01 June 2025 
+23893
+MIZ/LUNG/84A12/2025/181
+Mizoram
+Lunglei
+Thenhlum
+23.198961
+92.590043
+Earth
+Slide
+01 June 2025 
+23894
+MIZ/LUNG/84A12/2025/182
+Mizoram
+Lunglei
+Thenhlum
+23.199095
+92.586671
+Earth
+Flow
+01 June 2025 
+23895
+MIZ/LUNG/84A12/2025/183
+Mizoram
+Lunglei
+Thenhlum
+23.199415
+92.585883
+Earth
+Flow
+01 June 2025 
+23896
+MIZ/LUNG/84A12/2025/184
+Mizoram
+Lunglei
+Thenhlum
+23.200105
+92.584517
+Debris
+Flow
+01 June 2025 
+23897
+MIZ/LUNG/84A12/2025/185
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.200655
+92.5813
+Debris
+Flow
+01 June 2025 
+23898
+MIZ/LUNG/84A12/2025/186
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.201843
+92.579666
+Debris
+Flow
+01 June 2025 
+23899
+MIZ/LUNG/84A12/2025/187
+Mizoram
+Lunglei
+Thenhlum to West Bunghmun 
+road
+23.202247
+92.57903
+Debris
+Flow
+01 June 2025 

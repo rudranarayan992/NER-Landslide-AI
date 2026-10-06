@@ -1,0 +1,502 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+2803
+HP/SIR/53F10/2017/94
+Himachal Pradesh
+Sirmur
+ 
+South of Tikar, PaontaShillai 
+road
+30.665382
+77.679582
+Rock
+Slide
+NA
+2804
+HP/SIR/53F10/2017/95
+Himachal Pradesh
+Sirmur
+ 
+South of Tikar, PaontaShillai 
+road
+30.6655
+77.68247
+Rock
+Slide
+NA
+2805
+HP/SIR/53F06/2017/145
+Himachal Pradesh
+Sirmur
+ 
+North of Guhana, 
+DadahuSangrah road
+30.665618
+77.427879
+Rock
+Slide
+NA
+2806
+HP/SIR/53F10/2017/86
+Himachal Pradesh
+Sirmur
+ 
+Larao, paontaShillai road
+30.666051
+77.669408
+Rock
+Slide
+NA
+2807
+HP/SIR/53F10/2017/85
+Himachal Pradesh
+Sirmur
+ 
+Larao, paontaShillai road
+30.666725
+77.66836
+Rock
+Slide
+NA
+2808
+HP/SIR/53F10/2017/84
+Himachal Pradesh
+Sirmur
+ 
+Larao, paontaShillai road
+30.667588
+77.667401
+Rock
+Slide
+NA
+2809
+HP/SIR/53F10/2017/98
+Himachal Pradesh
+Sirmur
+ 
+South of Tikar, PaontaShillai 
+road
+30.667949
+77.690677
+Rock
+Slide
+NA
+2810
+HP/SIR/53F02/2017/26
+Himachal Pradesh
+Sirmur
+ 
+KumarhattiNahan road
+30.668309
+77.172411
+Rock
+Slide
+NA
+2811
+HP/SIR/53F10/2017/96
+Himachal Pradesh
+Sirmur
+ 
+South of Tikar, PaontaShillai 
+road
+30.668453
+77.684717
+Rock
+Slide
+NA
+2812
+HP/SIR/53F10/2017/97
+Himachal Pradesh
+Sirmur
+ 
+South of Tikar, PaontaShillai 
+road
+30.668724
+77.688054
+Rock
+Slide
+NA
+2813
+HP/SIR/53F14/2017/39
+Himachal Pradesh
+Sirmur
+ 
+Chaukri
+30.671679
+77.757625
+Rock cum debris
+Slide
+NA
+2814
+HP/SIR/53F06/2017/39
+Himachal Pradesh
+Sirmur
+ 
+Majhai
+30.671767
+77.393658
+Rock
+Slide
+NA
+2815
+HP/SOL/53F02/2017/90
+Himachal Pradesh
+Solan
+ 
+ 
+30.671841
+77.245255
+Rock
+Slide
+NA
+2816
+HP/SOL/53F02/2017/101
+Himachal Pradesh
+Solan
+ 
+Palticut road
+30.67221
+77.246092
+Rock
+Slide
+NA
+2817
+HP/SIR/53F10/2017/83
+Himachal Pradesh
+Sirmur
+ 
+Manal, PaontaShillai road
+30.672265
+77.666886
+Rock
+Slide
+NA
+2818
+HP/SOL/53F02/2017/87
+Himachal Pradesh
+Solan
+ 
+ 
+30.672722
+77.237315
+Rock
+Slide
+NA
+2819
+HP/SIR/53F10/2017/99
+Himachal Pradesh
+Sirmur
+ 
+Shillai, PaontaShillai road
+30.672764
+77.692348
+Rock
+Slide
+NA
+2820
+HP/SIR/53F10/2017/100
+Himachal Pradesh
+Sirmur
+ 
+Shillai, PaontaShillai road
+30.674109
+77.692476
+Rock
+Slide
+NA
+2821
+HP/SIR/53F02/2017/11
+Himachal Pradesh
+Sirmur
+ 
+Bahar link road
+30.674189
+77.199135
+Rock
+Slide
+NA
+2822
+HP/SIR/53F14/2017/40
+Himachal Pradesh
+Sirmur
+ 
+Chaukri
+30.676025
+77.751894
+Rock
+Slide
+NA
+2823
+HP/SIR/53F10/2017/101
+Himachal Pradesh
+Sirmur
+ 
+Shillai, PaontaShillai road
+30.676765
+77.692873
+Rock
+Slide
+NA
+2824
+HP/SIR/53F02/2017/10
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.677099
+77.198142
+Debris
+Slide
+NA
+2825
+HP/SIR/53F02/2017/27
+Himachal Pradesh
+Sirmur
+ 
+KumarhattiNahan road
+30.67764
+77.170066
+Rock
+Slide
+NA
+2826
+HP/SIR/53F10/2017/102
+Himachal Pradesh
+Sirmur
+ 
+Shillai, PaontaShillai road
+30.677939
+77.696419
+Rock
+Slide
+NA
+2827
+HP/SIR/53F10/2017/18
+Himachal Pradesh
+Sirmur
+ 
+Chaukri
+30.678049
+77.745366
+Rock cum debris
+Slide
+NA
+2828
+HP/SOL/53F02/2017/106
+Himachal Pradesh
+Solan
+ 
+Palticut road
+30.678066
+77.192317
+Rock
+Slide
+NA
+2829
+HP/SOL/53F02/2017/107
+Himachal Pradesh
+Solan
+ 
+ 
+30.678938
+77.196898
+Rock
+Slide
+NA
+2830
+HP/SOL/53F02/2017/100
+Himachal Pradesh
+Solan
+ 
+Palticut road
+30.680075
+77.19582
+Rock
+Slide
+NA
+2831
+HP/SIR/53F10/2017/77
+Himachal Pradesh
+Sirmur
+ 
+Shillai, ShillaiRonhat road
+30.680093
+77.708275
+Rock
+Slide
+NA
+2832
+HP/SIR/53F10/2017/103
+Himachal Pradesh
+Sirmur
+ 
+Shillai, ShillaiRonhat road
+30.680226
+77.703184
+Rock
+Slide
+NA
+2833
+HP/SIR/53F10/2017/104
+Himachal Pradesh
+Sirmur
+ 
+Shillai, ShillaiRonhat road
+30.680238
+77.703654
+Rock
+Slide
+NA
+2834
+HP/SIR/53F10/2017/78
+Himachal Pradesh
+Sirmur
+ 
+Shillai, ShillaiRonhat road
+30.68107
+77.709443
+Rock
+Slide
+NA
+2835
+HP/SOL/53F01/2017/191
+Himachal Pradesh
+Solan
+ 
+SH02
+30.681428
+77.198749
+Rock
+Slide
+NA
+2836
+HP/SOL/53F02/2017/91
+Himachal Pradesh
+Solan
+ 
+ 
+30.682255
+77.248867
+Rock
+Slide
+NA
+2837
+HP/SOL/53F01/2017/12
+Himachal Pradesh
+Solan
+ 
+SH02
+30.682555
+77.203656
+Rock
+Fall
+NA
+2838
+HP/SIR/53F10/2017/17
+Himachal Pradesh
+Sirmur
+ 
+Bela
+30.683565
+77.720718
+Rock
+Slide
+NA
+2839
+HP/SIR/53F02/2017/86
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.684081
+77.168239
+Rock
+Slide
+NA
+2840
+HP/SIR/53F06/2017/205
+Himachal Pradesh
+Sirmur
+ 
+Bagthan, Banethirajgarh road
+30.685119
+77.283547
+Rock
+Slide
+NA
+2841
+HP/SOL/53F02/2017/99
+Himachal Pradesh
+Solan
+ 
+Palticut road
+30.685577
+77.208853
+Rock
+Slide
+NA
+2842
+HP/SIR/53F06/2017/204
+Himachal Pradesh
+Sirmur
+ 
+Bagthan, Banethirajgarh road
+30.685787
+77.283194
+Rock
+Slide
+NA
+2843
+HP/SIR/53F10/2017/251
+Himachal Pradesh
+Sirmur
+ 
+Chyali R.F.
+30.686362
+77.681393
+Rock
+Slide
+NA
+2844
+HP/SOL/53F02/2017/104
+Himachal Pradesh
+Solan
+ 
+Palticut road
+30.686721
+77.202801
+Rock
+Slide
+NA
+2845
+HP/SIR/53F06/2017/172
+Himachal Pradesh
+Sirmur
+ 
+South west of Siyun
+30.687389
+77.385229
+Rock
+Slide
+NA
+2846
+HP/SIR/53F10/2017/263
+Himachal Pradesh
+Sirmur
+ 
+Chyali R.F.
+30.687821
+77.668471
+Rock
+Slide
+NA

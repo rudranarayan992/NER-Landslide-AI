@@ -1,0 +1,489 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16024
+KL/PKD/58B10/2024/PDLS/7
+Kerala
+Palakkad
+Nelliyampathy slide 2
+Along Nenmara-Nelliyampathy 
+road
+10.52619444
+76.64055556
+Rock
+Fall
+Monsoon, 2024
+16025
+KL/PKD/58B10/2024/PDLS/8
+Kerala
+Palakkad
+Nelliyampathi
+Nenmara-Nelliyampathi road
+10.51919444
+76.62902778
+Debris
+Slide
+Monsoon, 2024
+16026
+KL/PKD/58B10/2024/PDLS/9
+Kerala
+Palakkad
+Nelliyampathi
+Nenmara-Nelliyampathi road
+10.51991667
+76.62911111
+Debris
+Slide
+Monsoon, 2024
+16027
+KL/IDK/58F04/2024/PDLS/10
+Kerala
+Idukki
+Marayur- Munnar road slide
+Along Marayur-Munnar road
+10.14427778
+77.09836111
+Debris
+Slide
+Monsoon, 2024
+16028
+KL/IDK/58F04/2024/PDLS/11
+Kerala
+Idukki
+Munnar road slide
+SH 17
+10.15158333
+77.07905556
+Debris
+Slide
+Monsoon, 2024
+16029
+KL/IDK/58F04/2024/PDLS/12
+Kerala
+Idukki
+Gap road slide
+Gap road
+10.03688889
+77.12791667
+Rock
+Fall
+Monsoon, 2024
+16030
+KL/IDK/58F04/2024/PDLS/13
+Kerala
+Idukki
+Munnar road slide 1
+SH-19
+10.05255556
+77.10883333
+Soil
+Slide
+Monsoon, 2024
+16031
+KL/IDK/58F04/2024/PDLS/14
+Kerala
+Idukki
+Munnar road slide2
+SH 19
+10.06438889
+77.10233333
+Soil
+Slide
+Monsoon, 2024
+16032
+KL/IDK/58F04/2024/PDLS/15
+Kerala
+Idukki
+Munnar road slide 3
+SH 19
+10.07113889
+77.09872222
+Soil
+Slide
+Monsoon, 2024
+16033
+KL/IDK/58F04/2024/PDLS/16
+Kerala
+Idukki
+Munnar road slide 4
+SH-19
+10.08263889
+77.07358333
+Soil
+Slide
+Monsoon, 2024
+16034
+KL/IDK/58F04/2024/PDLS/17
+Kerala
+Idukki
+Munnar road slide 5
+SH-19
+10.08291667
+77.07269444
+Soil
+Slide
+Monsoon, 2024
+16035
+KL/IDK/58F04/2024/PDLS/18
+Kerala
+Idukki
+Munnar road slide 6
+SH 19
+10.08322222
+77.07130556
+Soil
+Slide
+Monsoon, 2024
+16036
+KL/IDK/58F04/2024/PDLS/19
+Kerala
+Idukki
+Munnar road slide 7
+SH-19
+10.08408333
+77.07844444
+Soil
+Slide
+Monsoon, 2024
+16037
+KL/IDK/58F04/2024/PDLS/20
+Kerala
+Idukki
+Pallivasal slide
+SH-19
+10.05486111
+77.05227778
+Debris
+Slide
+30-07-2024
+16038
+KL/IDK/58G01/2024/PDLS/21
+Kerala
+Idukki
+Anachal –Idukki road slide
+Anachal –Idukki road
+9.982194444
+77.03261111
+Soil
+Slide
+Monsoon, 2024
+16039
+KL/IDK/58G01/2024/PDLS/22
+Kerala
+Idukki
+Anachal-Idukki road slide
+NH-185
+9.980333333
+77.03036111
+Soil
+Slide
+Monsoon, 2024
+16040
+KL/IDK/58C13/2024/PDLS/23
+Kerala
+Idukki
+Anachal-Idukki road slide 2
+SH-41
+9.945308333
+76.97888611
+Debris
+Slide
+Monsoon, 2024
+16041
+KL/IDK/58C13/2024/PDLS/24
+Kerala
+Idukki
+Idukki-Moolamattam road slide
+SH-41
+9.809305556
+76.85438889
+Soil
+Slide
+Monsoon, 2024
+16042
+KL/IDK/58C13/2024/PDLS/25
+Kerala
+Idukki
+Poochapra slide
+Poochapra
+9.8165
+76.86197222
+Debris
+Slide
+Monsoon 2024
+16043
+KRL/KTM/PDS/2024/01
+Kerala
+Kottayam
+Madappara-Chokkallu slide
+Wagamon-Teekoy road
+9.691
+76.8251
+Debris
+Flow
+2024
+16044
+KRL/KTM/PDS/2024/02
+Kerala
+Kottayam
+Madappara-Chokkallu slide
+Edamarugu-Chokkallu
+9.7475
+76.75638889
+Debris
+Flow
+2013 adjacent slide
+16045
+KER/TVM/58D10/2024/1
+Kerala
+Thiruvananthapuram
+Varkala Cliff slide 1
+Aliyirakkam road
+8.722097222
+76.71483056
+Debris
+Slide
+Reactivated (June 2024)
+16046
+KER/TVM/58D10/2024/2
+Kerala
+Thiruvananthapuram
+Varkala cliff slide 2
+Aliyirakkam
+8.725230556
+76.71186667
+Debris
+Slide
+Reactivated
+16047
+KER/TVM/58D10/2024/3
+Kerala
+Thiruvananthapuram
+Varkala Cliff slide 3
+Varkala beach
+8.726616667
+76.71076111
+Debris
+Slide
+Reactivated
+16048
+KER/TVM/58D10/2024/4
+Kerala
+Thiruvananthapuram
+Varkala Cliff slide 4
+Varkala beach
+8.727933333
+76.71076111
+Debris
+Topple/slide
+Reactivated
+16049
+KER/TVM/58D10/2024/5
+Kerala
+Thiruvananthapuram
+Varkala Cliff slide 5
+Varkala beach
+8.728458333
+76.70914722
+Debris
+Topple/Slide
+Reactivated
+16050
+KER/TVM/58D10/2024/6
+Kerala
+Thiruvananthapuram
+Varkala Cliff slide 6
+Varkala beach
+8.729305556
+76.70837222
+Debris
+Slide
+Reactivated
+16051
+KER/TVM/58D10/2024/7
+Kerala
+Thiruvananthapuram
+Varkala Cliff slide 7
+Varkala beach
+8.731061111
+76.70693056
+Debris
+Topple/Slide
+Reactivated
+16052
+KER/TVM/58D10/2024/8
+Kerala
+Thiruvananthapuram
+Kappil cliff slide
+Edava beach
+8.762377778
+76.68576944
+Debris
+Topple/Slide
+Reactivated
+16053
+KER/TVM/58D10/2024/9
+Kerala
+Thiruvananthapuram
+Varkala Cliff balimandapam slide
+Varkala beach
+8.732358333
+76.70650833
+Debris
+Slide
+Reactivated
+16054
+KER/TVM/58D10/2024/10
+Kerala
+Thiruvananthapuram
+Varkala Cliff helipad slide
+Varkala beach
+8.735213889
+76.70446944
+Debris
+Slide
+Reactivated
+16055
+KER/KZK/49M13/2024/01
+Kerala
+Kozhikode
+Vilangad
+Manjacheeli; Kallachi-Vilangad 
+road
+11.78653889
+75.77123056
+Debris
+Flow
+30th  July  2024  around  12.05  AM
+16056
+KER/KZK/49M13/2024/02
+Kerala
+Kozhikode
+Manjacheeli slide (100m east of main 
+Vilangad Debris flow)
+Manjacheeli; Kallachi-Vilangad 
+road
+11.78524722
+75.77669167
+Debris
+Slide
+ 30th  July  2024  around  12.00  AM
+16057
+KER/KZK/49M13/2024/03
+Kerala
+Kozhikode
+Aanakuzhi Debris Flow
+Aanakuzhi-Kalletti area
+11.78758889
+75.78859444
+Debris
+Flow
+29th  July  2024
+16058
+KER/KZK/49M13/2024/04
+Kerala
+Kozhikode
+Anakuzhi-2
+Anakuzhi-Vilangad
+11.78805556
+75.79233333
+Debris
+Flow
+NA
+16059
+KER/KZK/49M13/2024/05
+Kerala
+Kozhikode
+Anakuzhi-3
+Anakuzhi-3
+11.78628056
+75.78933889
+Debris
+Flow
+30th  July  2024  around  12.05  AM
+16060
+KER/KZK/49M13/2024/06
+Kerala
+Kozhikode
+Aanakuzhi Debris Flow-II
+Aanakuzhi
+11.78541389
+75.78934167
+Debris
+Flow
+30th July 2024
+16061
+KER/KZK/49M13/2024/07
+Kerala
+Kozhikode
+Anakuzhi-5
+Anakuzhi
+11.78180556
+75.78877222
+Debris
+Flow
+NA
+16062
+KER/KZK/49M13/2024/08
+Kerala
+Kozhikode
+Anakuzhi-6
+Vilangad-Anakuzhir road
+11.78345833
+75.78753056
+Debris
+Flow
+30th July 2024, around 1.00AM
+16063
+KER/KZK/49M13/2024/09
+Kerala
+Kozhikode
+Anakuzhi-7
+Vilangad-Anakuzhi road
+11.78275556
+75.78577222
+Debris
+Slide
+30th July 2024, around 1.30AM
+16064
+KER/KZK/49M13/2024/10
+Kerala
+Kozhikode
+Madancherry Landslide
+Vilangad-Paloor road
+11.78582778
+75.75981389
+Debris
+Slide
+30th July 2024
+16065
+KER/KZK/49M13/2024/11
+Kerala
+Kozhikode
+Paloor Landslide
+Vilangad-Paloor road
+11.79693333
+75.75671944
+Debris
+Flow
+30th July 2024, around 1.00AM
+16066
+KER/KZK/49M10/2024/12
+Kerala
+Kozhikode
+Kannur-Kozhikode debris slide
+NH-66
+11.77744444
+75.77436111
+Debris
+slide
+30th July 2024, around 1.00AM

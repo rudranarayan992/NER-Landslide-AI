@@ -1,0 +1,357 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21909
+MZ/MAM/84A10/2015/151
+Mizoram
+Mamit
+ 
+1 Km South of Lungphun; 
+PMGSY-Kanghmun - W. Lungdar
+23.588417
+92.600889
+Rock
+Slide
+NA
+21910
+MZ/MAM/84A10/2015/148
+Mizoram
+Mamit
+ 
+1.5 Km South of Lungphun; 
+PMGSY-Kanghmun - W. Lungdar
+23.588444
+92.597417
+Rock
+Slide
+NA
+21911
+MZ/MAM/84A10/2015/150
+Mizoram
+Mamit
+ 
+1.3 Km South of Lungphun; 
+PMGSY-Kanghmun - W. Lungdar
+23.588472
+92.599
+Rock
+Slide
+NA
+21912
+MZ/MAM/84A10/2015/147
+Mizoram
+Mamit
+ 
+2.5 Km South of Lungphun; 
+PMGSY-Kanghmun - W. Lungdar
+23.589167
+92.590111
+Rock
+Slide
+NA
+21913
+MZ/MAM/84A10/2015/165
+Mizoram
+Mamit
+ 
+Lungphun (Riun old Village) on 
+the interlinking bridge of Old 
+viilage and New village (data 
+collected on crown)
+23.590139
+92.607333
+Rock
+Slide
+NA
+21914
+MZ/MAM/84A10/2015/167
+Mizoram
+Mamit
+ 
+Lungphun (Near Govt.High 
+school) PMGSY W. Lungdar- 
+Darung
+23.590722
+92.604694
+Debris
+Slide
+NA
+21915
+MZ/CHA/84E02/2017/0072
+Mizoram
+Champhai
+ 
+1km Nw of Tuiphal horticulture 23.597403
+93.094131
+Rock
+Slide
+NA
+21916
+MZ/CHA/84E02/2017/0005
+Mizoram
+Champhai
+ 
+12.5km N of Khwazawl on 
+KhawzawlRabung road
+23.597919
+93.207362
+Debris
+Slide
+NA
+21917
+MZ/MAM/84A10/2015/166
+Mizoram
+Mamit
+ 
+Hreichuk, PMGSY W Lungdar - 
+Darung
+23.598139
+92.599111
+Rock
+Slide
+NA
+21918
+MZ/CHA/84E02/2017/2
+Mizoram
+Champhai
+ 
+kawlkulh
+23.602028
+93.083824
+Rock
+Slide
+NA
+21919
+MZ/CHA/84E02/2017/0124
+Mizoram
+Champhai
+ 
+kawlkulh
+23.602395
+93.084222
+Rock
+Slide
+2017
+21920
+MZ/CHA/84E06/2017/1
+Mizoram
+Champhai
+ 
+12km N of Ngur
+23.603629
+93.355925
+Debris
+Slide
+NA
+21921
+MZ/CHA/84E02/2017/24
+Mizoram
+Champhai
+ 
+6km SE of kawlkulh
+23.603808
+93.092328
+Debris
+Slide
+NA
+21922
+MZ/CHA/84E02/2017/27
+Mizoram
+Champhai
+ 
+14 km N. Of Khawzawl
+23.603865
+93.204311
+Rock
+Slide
+NA
+21923
+MZ/CHA/84E02/2017/0007
+Mizoram
+Champhai
+ 
+14.5 km N of Khawzawl
+23.604431
+93.204251
+Rock
+Slide
+NA
+21924
+MZ/AIZ/84A10/2015/72
+Mizoram
+Aizawl
+ 
+Near Kumthung junction in 
+Aizawl-lunglei road
+23.604611
+92.726417
+Debris
+Slide
+NA
+21925
+MZ/CHA/84E02/2017/8
+Mizoram
+Champhai
+ 
+1km E of Kawlkulh
+23.605611
+93.08682
+Debris
+Slide
+NA
+21926
+MZ/CHA/84E02/2017/0008
+Mizoram
+Champhai
+ 
+15km N of Khawzawl
+23.605864
+93.20387
+Rock
+Slide
+NA
+21927
+MZ/CHA/84E02/2017/0076
+Mizoram
+Champhai
+ 
+2km E of kawlkulh
+23.606539
+93.087476
+Rock
+Slide
+NA
+21928
+MZ/CHA/84E02/2017/26
+Mizoram
+Champhai
+ 
+3km E from Kawlkulh
+23.607124
+93.088782
+Rock
+Slide
+NA
+21929
+MZ/AIZ/84A14/2015/78
+Mizoram
+Aizawl
+ 
+East of Tlungvel, about 3km 
+along the foot tracks
+23.607347
+92.879114
+Debris
+Slide
+NA
+21930
+MZ/CHA/84E02/2017/0074
+Mizoram
+Champhai
+ 
+3.5km SE of Kawlkulh
+23.60753
+93.092644
+Rock
+Slide
+NA
+21931
+MZ/CHA/84E06/2017/15
+Mizoram
+Champhai
+ 
+1.5km S of Vapar
+23.607873
+93.351351
+Rock
+Slide
+NA
+21932
+MZ/CHA/84E02/2017/0009
+Mizoram
+Champhai
+ 
+16km N of Khawzawl
+23.608133
+93.201022
+Debris
+Slide
+NA
+21933
+MZ/AZL/84A10/2016/01
+Mizoram
+Aizawl
+Tlungvel slide
+Tlungvel-Seling main road
+23.608306
+92.850583
+Earth
+Slide
+2016
+21934
+MZ/MAM/84A10/2015/163
+Mizoram
+Mamit
+ 
+North of Hreichuk, PMGSY W 
+Lungdar - Darung
+23.608389
+92.596889
+Rock
+Slide
+NA
+21935
+MZ/MAM/84A10/2015/164
+Mizoram
+Mamit
+N/A
+N/A
+23.609111
+92.596306
+Rock
+Slide
+NA
+21936
+MZ/AIZ/84A14/2015/103
+Mizoram
+Aizawl
+ 
+Mualpheng village area on 
+Ruallung-Mualpheng road
+23.610611
+92.977722
+Rock
+Slide
+NA
+21937
+MZ/CHA/84E02/2017/0010
+Mizoram
+Champhai
+ 
+17km N. Of Khawzawl
+23.612312
+93.198942
+Rock
+Slide
+NA
+21938
+MZ/AZL/84A10/2016/02
+Mizoram
+Aizawl
+Tlungvel Presbyterian church slide
+Tlungvel village (near the 
+Presbyterian church)
+23.613722
+92.851889
+Earth
+Flow
+2016

@@ -1,0 +1,380 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11031
+PDLS/38
+Jammu & Kashmir (UT)
+Bakkal, Reasi
+Bakkal-3
+Reasi-Bakkal-World Highest 
+Railway Bridge site road
+33.13701389
+74.87441944
+Rock
+Slide
+NA
+11032
+PDLS/39
+Jammu & Kashmir (UT)
+Bakkal, Reasi
+Bakkal-4
+Reasi-Bakkal-World Highest 
+Railway Bridge site road
+33.13658889
+74.87383056
+Rock
+Slide
+NA
+11033
+PDLS/40
+Jammu & Kashmir (UT)
+Ramban
+Digdol/ DIG
+NH-44, 163 Km from Jammu 
+toward Srinagar Digdol
+33.30781389
+75.18145
+Rock
+Slide
+15 December 2019
+11034
+PDLS/41
+Jammu & Kashmir (UT)
+Ramban, Between Teli and 
+Digdol
+Digdol-2
+Jammu- Srinagar National 
+Highway (NH-44) Between Teli 
+and Digdol
+33.28866944
+75.178
+Rock and debris 
+(Overburden 2-.5m)
+Slide
+NA
+11035
+PDLS/42
+Jammu & Kashmir (UT)
+Ramban, Between Teli and 
+Digdol
+Digdol-5
+Jammu- Srinagar National 
+Highway (NH-44) Between Teli 
+and Digdol
+33.28515833
+75.17628333
+Rock and debris 
+(Overburden 2-.5m)
+Slide
+NA
+11036
+PDLS/43
+Jammu & Kashmir (UT)
+Ramban, Between Teli and 
+Digdol
+Digdol-3
+Jammu- Srinagar National 
+Highway (NH-44) Between Teli 
+and Digdol
+33.26675
+75.18273056
+Rock
+Slide
+NA
+11037
+PDLS/44
+Jammu & Kashmir (UT)
+Ramban, Between Teli and 
+Digdol
+Digdol-4/Marog
+Jammu- Srinagar National 
+Highway (NH-44) Between Teli 
+and Digdol
+33.26239444
+75.19153611
+Rock
+Slide
+NA
+11038
+PDLS/45
+Jammu & Kashmir (UT)
+Salal, Reasi
+Salal
+Reasi-Salal road
+33.14709444
+74.82863611
+Rock
+Slide
+NA
+11039
+PDLS/46
+Jammu & Kashmir (UT)
+Chamalwas
+Chamalwas
+Jammu- Srinagar National 
+Highway (NH-44)
+33.37974722
+75.20128611
+Debris
+Slide
+NA
+11040
+PDLS/47
+Jammu & Kashmir (UT)
+Near Digdol
+4
+Jammu- Srinagar National 
+Highway (NH-44)
+33.306525
+75.18187778
+Rock
+Slide
+March 2005
+11041
+PDLS/48
+Jammu & Kashmir (UT)
+Near Teli
+6
+Jammu- Srinagar National 
+Highway (NH-44)
+33.2828
+75.17914444
+Rock
+Slide
+NA
+11042
+PDLS/49
+Jammu & Kashmir (UT)
+Near Monkey Morh
+Monkey Morh slide
+Jammu- Srinagar National 
+Highway (NH-44)
+33.27115833
+75.17560278
+Rock and debris
+Slide
+NA
+11043
+PDLS/50
+Jammu & Kashmir (UT)
+Near Marog
+Marog-2
+Jammu- Srinagar National 
+Highway (NH-44)
+33.26747222
+75.18306944
+Rock and debris
+Slide
+NA
+11044
+PDLS/51
+Jammu & Kashmir (UT)
+Near Marog
+T2Tunnel Slide
+Jammu- Srinagar National 
+Highway
+33.25923611
+75.19688889
+Rock and debris
+Slide
+NA
+11045
+JK/POO/43K02/2020/1
+Jammu & Kashmir (UT)
+Poonch
+Bela-1
+Poonch-Rajouri road
+33.74345556
+74.16026944
+Debris
+Slide
+September 2014, 3rd  week of 
+November 2020
+11046
+JK/POO/43K02/2020/2
+Jammu & Kashmir (UT)
+Poonch
+Bela-2
+Poonch-Rajouri road
+33.74172222
+74.16360556
+Debris
+Slide
+3rd week of November 2020
+11047
+JK/POO/43K02/2020/3
+Jammu & Kashmir (UT)
+Poonch
+Bela-3
+Poonch-Rajouri road
+33.74153611
+74.16414444
+Debris
+Slide
+3rd week of November 2020
+11048
+JK/POO/43K02/2020/4
+Jammu & Kashmir (UT)
+Poonch
+Manhal-1
+Poonch-Rajouri road
+33.68746944
+74.24550833
+Debris
+Slide
+3rd week of November 2020
+11049
+JK/POO/43K02/2020/5
+Jammu & Kashmir (UT)
+Poonch
+Manhal-2
+Poonch-Rajouri road
+33.68204722
+74.24857222
+Rock
+Slide
+3rd week of November 2020
+11050
+JK/POO/43K02/2020/6
+Jammu & Kashmir (UT)
+Poonch
+Manhal-3
+Poonch-Rajouri road
+33.68142222
+74.24935278
+Rock
+Planar and 
+wedge failure
+3rd week of November 2020
+11051
+JK/RAJ/43K06/2020/7
+Jammu & Kashmir (UT)
+Rajouri
+Manhal
+Thannamandi-Bafliaz road
+33.54907778
+74.37196389
+Rock
+Slide
+3rd week of November 2020
+11052
+JK/POO/43K06/2020/8
+Jammu & Kashmir (UT)
+Poonch
+Deera Ki Gali-2
+Thannamandi-Bafliaz road
+33.58128889
+74.36295833
+Debris
+Slide
+3rd week of November 2020
+11053
+JK/POO/43K06/2020/9
+Jammu & Kashmir (UT)
+Poonch
+Deera Ki Gali-1
+Thannamandi-Bafliaz road
+33.581625
+74.363725
+Soil/debris
+Subsidence
+3rd week of November 2020
+11054
+JK/POO/43K06/2020/10
+Jammu & Kashmir (UT)
+Poonch
+Sanglian
+Thannamandi – Sanglian - 
+Bafliaz
+33.60751944
+74.35918333
+Debris
+Slide
+3rd week of November 2020
+11055
+JK/POO/43K06/2020/11
+Jammu & Kashmir (UT)
+Poonch
+Dogey-1
+Bafliaz-Mughal road
+33.63077222
+74.47945
+Debris
+Slide
+3rd week of November 2020
+11056
+JK/POO/43K06/2020/12
+Jammu & Kashmir (UT)
+Poonch
+Dogey-2
+Bafliaz-Mughal road
+33.63435556
+74.47801944
+Rock
+Slide
+3rd week of November 2020
+11057
+JK/POO/43K06/2020/13
+Jammu & Kashmir (UT)
+Poonch
+Dogey-3
+Bafliaz-Mughal road
+33.63314167
+74.47708611
+Rock
+Slide
+3rd week of November 2020
+11058
+JK/POO/43K06/2020/14
+Jammu & Kashmir (UT)
+Poonch
+Dogey-4
+Bafliaz-Mughal road
+33.63299444
+74.47370278
+Rock
+Slide
+3rd week of November 2020
+11059
+JK/POO/43K06/2020/15
+Jammu & Kashmir (UT)
+Poonch
+Dogey-5
+Bafliaz-Mughal road
+33.63029722
+74.470225
+Debris
+Slide
+3rd week of November 2020
+11060
+JK/POO/43K06/2020/16
+Jammu & Kashmir (UT)
+Poonch
+Dogey-6
+Bafliaz-Mughal road
+33.63029722
+74.46786111
+Rock
+Slide
+3rd week of November 2020
+11061
+JK/POO/43K06/2020/17
+Jammu & Kashmir (UT)
+Poonch
+Dogey-7
+Bafliaz-Mughal Road
+33.62848889
+74.46116111
+Rock
+Slide (Wedge 
+failure)
+3rd week of November 2020

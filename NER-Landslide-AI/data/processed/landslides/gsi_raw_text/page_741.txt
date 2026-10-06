@@ -1,0 +1,371 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29256
+WB/DAR/78A08/2021/PDLS/35
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.01631831
+88.43538256
+Rock
+Slide
+October 2021
+29257
+WB/DAR/78A08/2021/PDLS/35
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.01701791
+88.43493791
+Rock
+Slide
+October 2021
+29258
+WB/DAR/78A08/2015/55
+West Bengal
+Darjeeling
+NH-31A _ 23.15 km from Sevok(Tiger 
+Bridge) towards  Gangtok
+23.15 km from Sevok(Tiger 
+Bridge) on NH-31A towards  
+Gangtok
+27.017145
+88.432668
+Debris
+Slide
+2007
+29259
+WB/DAR/78A04/2021/PDLS/42
+West Bengal
+Darjeeling
+N/A
+N/A
+27.01722529
+88.20901869
+Rock
+Slide
+October 2021
+29260
+WB/DAR/78A12/2015/1429
+West Bengal
+Darjeeling
+ 
+ 
+27.017622
+88.728422
+Debris
+Slide
+2010
+29261
+WB/DAR/78A12/2015/1430
+West Bengal
+Darjeeling
+ 
+ 
+27.017729
+88.723599
+Debris
+Slide
+2010
+29262
+WB/DARJ/78A04/2006/0252
+West Bengal
+Darjeeling
+ 
+Adjacent to Sukhipokhri Tea 
+Estate on Arubari_Sukhiapokhri 
+estate
+27.018
+88.145
+Debris
+Flow
+NA
+29263
+WB/DAR/78A04/2015/15
+West Bengal
+Darjeeling
+Sukhipokhri Tea Estate
+Adjacent to Sukhipokhri Tea 
+Estate on Arubari_Sukhiapokhri 
+estate
+27.018
+88.145
+Debris
+Slide
+2006
+29264
+WB/DAR/78A04/2015/1199
+West Bengal
+Darjeeling
+ 
+MARYBONG
+27.018222
+88.208444
+Rock
+Slide
+2016
+29265
+WB/DAR/78A08/2021/PDLS/35
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.01824798
+88.43470156
+Rock
+Slide
+October 2021
+29266
+WB/DAR/78A08/2015/1516
+West Bengal
+Darjeeling
+SEVOK ROAD
+SEVOK ROAD
+27.018428
+88.435039
+Debris
+Subsidence
+2014
+29267
+WB/DAR/78A08/2015/54
+West Bengal
+Darjeeling
+NH-31A _ 23.15 km from Sevok(Tiger 
+Bridge) towards  Gangtok
+23.15 km from Sevok(Tiger 
+Bridge) on NH-31A towards  
+Gangtok
+27.018491
+88.434995
+Debris
+Slide
+2007
+29268
+WB/DARJ/78A08/2012/0330
+West Bengal
+Darjeeling
+ 
+West Samalbung
+27.019
+88.495
+Rock
+Slide
+NA
+29269
+WB/DAR/78A08/2015/118
+West Bengal
+Darjeeling
+West Samalbung
+West Samalbung
+27.019595
+88.49381
+Rock
+Slide
+2012
+29270
+WB/DAR/78A12/2015/205
+West Bengal
+Darjeeling
+24.5Km . from Damdim on Damdim-
+Algarah road
+Right abutment of Chel Bridge
+27.019629
+88.695664
+Rock
+Slide
+2007
+29271
+WB/DAR/78A04/2015/20
+West Bengal
+Darjeeling
+Darjeeling-Bijanbari Road, Kali Tea 
+Garden 1
+Darjeeling-Bijanbari Road
+27.0199
+88.2032
+Rock
+Slide
+2011
+29272
+WB/DARJ/78A04/0256
+West Bengal
+Darjeeling
+ 
+Darjeeling-Bijanbari Road
+27.02
+88.203
+Rock
+Slide
+NA
+29273
+WB/DAR/78A08/2015/119
+West Bengal
+Darjeeling
+West Samalbung
+West Samalbung
+27.020058
+88.497029
+Rock
+Slide
+2012
+29274
+WB/DAR/78A04/2015/1240
+West Bengal
+Darjeeling
+ 
+MIM
+27.020389
+88.177778
+Rock
+Slide
+2014
+29275
+WB/DAR/78A12/2015/1431
+West Bengal
+Darjeeling
+ 
+ 
+27.02078
+88.616007
+Debris
+Slide
+2012
+29276
+WB/DARJ/78A04/0257
+West Bengal
+Darjeeling
+ 
+Darjeeling-Bijanbari Road
+27.021
+88.199
+Rock
+Slide
+NA
+29277
+WB/DARJ/78A08/2006/0263
+West Bengal
+Darjeeling
+ 
+Near Km. 20.8 from Sevoke on 
+NH 31A
+27.021
+88.446
+Rock cum Debris
+Slide
+NA
+29278
+WB/DAR/78A04/2021/PDLS/69
+West Bengal
+Darjeeling
+N/A
+N/A
+27.02109658
+88.09442282
+Debris
+Slide
+October 2021
+29279
+WB/DAR/78A04/2015/21
+West Bengal
+Darjeeling
+Darjeeling-Bijanbari Road, Kali Tea 
+Garden 2
+Darjeeling-Bijanbari Road
+27.0211
+88.1989
+Rock
+Slide
+2011
+29280
+WB/DAR/78A04/2021/PDLS/68
+West Bengal
+Darjeeling
+N/A
+N/A
+27.02113126
+88.0934454
+Debris
+Slide
+October 2021
+29281
+WB/DAR/78A12/2015/1310
+West Bengal
+Darjeeling
+ 
+KHANI KHOLA BRIDGE
+27.021194
+88.536833
+Rock cum Debris
+Slide
+2014
+29282
+WB/DAR/78A08/2015/1432
+West Bengal
+Darjeeling
+ 
+ 
+27.021237
+88.271615
+Debris
+Slide
+2011
+29283
+WB/DAR/78A12/2015/1433
+West Bengal
+Darjeeling
+ 
+ 
+27.021613
+88.735073
+Debris
+Slide
+2006
+29284
+WB/DARJ/78A12/2007/0007
+West Bengal
+Darjeeling
+Nimgolai
+3km from Paparkheti towards 
+Damdin
+27.0219
+88.6978
+Rock
+Slide
+2007
+29285
+WB/DAR/78A12/2015/1309
+West Bengal
+Darjeeling
+ 
+KHOLA TAR
+27.022167
+88.535528
+Rock
+Slide
+2014
+29286
+WB/DAR/78A04/2021/PDLS/67
+West Bengal
+Darjeeling
+N/A
+N/A
+27.022831
+88.09427834
+Debris
+Slide
+October 2021

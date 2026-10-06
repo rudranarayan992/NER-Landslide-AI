@@ -1,0 +1,414 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+19397
+MAN/SEN/83K03/2015/51
+Manipur
+Senapati
+ 
+Along Khabung road
+25.332489
+94.080258
+Debris
+Slide
+2014
+19398
+MAN/SEN/83K03/2015/52
+Manipur
+Senapati
+ 
+Along Khabung road
+25.334333
+94.08275
+Debris
+Slide
+NA
+19399
+MAN/SEN/83K03/2015/64
+Manipur
+Senapati
+ 
+Along Thingba Khullen and 
+Oinam raod
+25.335364
+94.169247
+Debris
+Slide
+2015
+19400
+MAN/SEN/83K03/2015/8
+Manipur
+Senapati
+ 
+North of Karong
+25.337239
+94.039708
+Debris
+Fall
+2015
+19401
+MAN/SEN/83K03/2015/65
+Manipur
+Senapati
+ 
+Along Thingba Khullen and 
+Oinam raod
+25.337428
+94.184525
+Debris
+Slide
+2014
+19402
+MN/UKH/83K11/2017/23
+Manipur
+Ukhrul
+ 
+Chingai
+25.3375
+94.52825
+Soil
+Slide
+NA
+19403
+MN/UKH/83K11/2017/24
+Manipur
+Ukhrul
+ 
+Chingai
+25.3375
+94.527806
+Debris
+Slide
+NA
+19404
+MAN/SEN/83K03/2015/61
+Manipur
+Senapati
+ 
+Along Thingba Khullen and 
+Oinam raod
+25.338556
+94.158806
+Debris
+Slide
+2015
+19405
+MAN/SEN/83K03/2015/63
+Manipur
+Senapati
+ 
+Along Thingba Khullen and 
+Oinam raod
+25.339872
+94.168736
+Debris
+Slide
+2015
+19406
+MAN/SEN/83K03/2015/62
+Manipur
+Senapati
+ 
+Along Thingba Khullen and 
+Oinam raod
+25.340433
+94.166631
+Debris
+Slide
+2015
+19407
+MAN/SEN/83K03/2015/60
+Manipur
+Senapati
+ 
+Along Thingba Khullen and 
+Oinam raod
+25.340833
+94.160528
+Debris
+Slide
+2015
+19408
+MAN/SEN/83K03/2015/59
+Manipur
+Senapati
+ 
+Along Thingba Khullen and 
+Oinam raod
+25.342472
+94.161667
+Debris
+Slide
+2015
+19409
+MAN/SEN/83K03/2015/66
+Manipur
+Senapati
+ 
+Along Thingba Khullen and 
+Oinam raod
+25.344389
+94.199722
+Debris
+Slide
+2014
+19410
+MAN/SEN/83K03/2015/58
+Manipur
+Senapati
+ 
+Along Thingba Khullen and 
+Oinam raod
+25.346653
+94.159475
+Debris
+Slide
+NA
+19411
+MAN/SEN/83K03/2015/68
+Manipur
+Senapati
+ 
+Along Thingba Khullen and 
+Oinam raod
+25.346747
+94.215264
+Debris
+Slide
+NA
+19412
+MAN/SEN/83K03/2015/67
+Manipur
+Senapati
+ 
+Along Thingba Khullen and 
+Oinam raod
+25.346964
+94.198264
+Debris
+Slide
+NA
+19413
+MAN/SEN/83K07/2015/061
+Manipur
+Senapati
+ 
+Ngari village
+25.34725
+94.334444
+Debris
+Slide
+NA
+19414
+MAN/SEN/83K03/2015/69
+Manipur
+Senapati
+ 
+Along Thingba Khullen and 
+Oinam raod
+25.350061
+94.220711
+Debris
+Slide
+2015
+19415
+MAN/SEN/83K03/2015/70
+Manipur
+Senapati
+ 
+Along Thingba Khullen and 
+Oinam raod
+25.350764
+94.222161
+Debris
+Slide
+2015
+19416
+MAN/SEN/83K03/2015/71
+Manipur
+Senapati
+ 
+Along Thingba Khullen and 
+Oinam raod
+25.351311
+94.222514
+Debris
+Slide
+2015
+19417
+MN/UKH/83K11/2017/19
+Manipur
+Ukhrul
+ 
+Kongai
+25.356306
+94.525222
+Debris
+Slide
+NA
+19418
+MN/UKH/83K11/2017/20
+Manipur
+Ukhrul
+ 
+Kongai
+25.356583
+94.525306
+Soil
+Slide
+NA
+19419
+MN/UKH/83K11/2017/21
+Manipur
+Ukhrul
+ 
+Kongai
+25.359278
+94.527806
+Soil
+Slide
+NA
+19420
+MN/UKH/83K11/2017/22
+Manipur
+Ukhrul
+ 
+Chingai
+25.360389
+94.529917
+Debris
+Slide
+NA
+19421
+MAN/SEN/83K03/2015/72
+Manipur
+Senapati
+ 
+Along Thingba Khullen and 
+Oinam raod
+25.363278
+94.228389
+Debris
+Slide
+2015
+19422
+MN/UKH/83K12/2017/63
+Manipur
+Ukhrul
+ 
+New TusomChallow road
+25.373639
+94.555333
+Debris
+Slide
+NA
+19423
+MAN/SEN/83K03/2015/57
+Manipur
+Senapati
+ 
+Along Thingba Khullen and 
+Oinam raod
+25.379611
+94.146667
+Debris
+Slide
+2014
+19424
+MAN/SEN/83K03/2015/73
+Manipur
+Senapati
+ 
+Along Thingba Khullen and 
+Oinam raod
+25.379878
+94.214606
+Debris
+Slide
+2015
+19425
+MAN/SEN/83K07/2015/064
+Manipur
+Senapati
+ 
+Shirong village
+25.381389
+94.279306
+Earth
+Slide
+NA
+19426
+MN/UKH/83K11/2017/98
+Manipur
+Ukhrul
+ 
+New Tusom
+25.388056
+94.550083
+Debris
+Slide
+NA
+19427
+MAN/UKH/83K07/2015/035
+Manipur
+Ukhrul
+ 
+1km NW of Razai villae
+25.389639
+94.457028
+Debris
+Subsidence
+NA
+19428
+MAN/UKH/83K07/2015/036
+Manipur
+Ukhrul
+ 
+1.5km NW of Razai villae
+25.392389
+94.454333
+Debris
+Slide
+NA
+19429
+MAN/SEN/83K07/2015/063
+Manipur
+Senapati
+ 
+Lakhamai village
+25.392444
+94.29875
+Earth
+Slide
+NA
+19430
+MN/UKH/83K11/2017/58
+Manipur
+Ukhrul
+ 
+TusomC V
+25.394361
+94.628222
+Debris
+Slide
+NA
+19431
+MN/UKH/83K11/2017/44
+Manipur
+Ukhrul
+ 
+New Tusom
+25.394667
+94.548917
+Soil
+Slide
+NA

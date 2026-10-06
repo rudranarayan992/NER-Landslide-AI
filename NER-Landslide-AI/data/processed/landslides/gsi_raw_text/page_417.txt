@@ -1,0 +1,374 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+17023
+MH/RAI/47G05/2018/1
+Maharashtra
+Raigad
+ 
+Karanjadi-Vinhere Road
+ SH-96
+17.99767
+73.41231
+Debris
+Slide
+NA
+17024
+MH/RAI/47F12/2020/16
+Maharashtra
+Pune
+-
+Varandh Ghat
+18
+73.63
+Debris
+Fall
+NA
+17025
+MH/RAI/47F04/2019/2
+Maharashtra
+Raigad
+ 
+Kolmandla-Adi Mahad Road
+18.00904
+73.11461
+Debris
+Slide
+NA
+17026
+MH/RAI/47F04/2019/5
+Maharashtra
+Raigad
+Kurwade Slide
+Kurwade Road
+18.01092
+73.02641
+Debris
+Fall
+NA
+17027
+MH/RAT/47F04/2019/8
+Maharashtra
+Ratnagiri
+ 
+Ghosale-Panderi Dam Road
+18.01311
+73.2088
+Debris
+Fall
+NA
+17028
+MH/RAI/47F04/2019/4
+Maharashtra
+Raigad
+ 
+Nigdi-Harihareswar Road
+18.01785
+73.02807
+Rock
+Fall
+NA
+17029
+MH/SAT/47F16/2018/1
+Maharashtra
+Satara
+ 
+500m on Village road from 
+Duichiwadi to Barse
+18.020416
+73.794758
+Rock cum debris
+Slide
+NA
+17030
+MH/SAT/47F16/2018/2
+Maharashtra
+Satara
+ 
+100m on village road from 
+Duichiwadi to Barse
+18.021895
+73.797905
+Rock
+Fall
+NA
+17031
+MH/RAI/47F08/2020/1
+Maharashtra
+Raigad
+-
+Shenali-Vakeli-Narvan Road
+18.03
+73.32
+Debris
+Slide
+NA
+17032
+MH/RAI/47F04/2019/12
+Maharashtra
+Raigad
+Konzari Slide
+Kole-Toradi Road
+18.03889
+73.13409
+Debris
+Slide
+NA
+17033
+MH/RAI/47F04/2019/13
+Maharashtra
+Raigad
+Toradi Slide
+Kole-Toradi Road
+18.03915
+73.1511
+Debris
+Slide
+NA
+17034
+MH/RAIG/47F04/2008/0037
+Maharashtra
+Raigarh (Raygad)
+ 
+State highway; Ambet- 
+Baghmandala road
+18.039167
+73.143333
+Debris
+Slide
+NA
+17035
+MH/SAT/47F16/2019/3
+Maharashtra
+Satara
+ 
+2.3km from Kochlewadi 
+towards Bhor on Mandhardeo-
+Bhor road
+18.039953
+73.8443
+Rock
+Fall
+NA
+17036
+MH/RAIG/47F04/2008/0035
+Maharashtra
+Raigarh (Raygad)
+ 
+State Highway; Ambet - 
+Baghmandala road
+18.043889
+73.137222
+Rock
+Slide
+NA
+17037
+MH/RAIG/47F04/2008/0036
+Maharashtra
+Raigarh (Raygad)
+ 
+State Highway; Ambet-
+Baghmandala road
+18.044722
+73.139167
+Debris
+Slide
+NA
+17038
+MH/RAIG/47F08/2008/0075
+Maharashtra
+Raigarh (Raygad)
+ 
+State Highway; Mahad-Vinhere 
+road
+18.046389
+73.423333
+Debris
+Slide
+NA
+17039
+MH/RAI/47F04/2019/3
+Maharashtra
+Raigad
+Toradi Slide
+Toradi Road
+18.04836
+73.15847
+Rock
+Fall
+NA
+17040
+MH/RAIG/47F/2008/0074
+Maharashtra
+Raigarh (Raygad)
+ 
+State Highway; Mahad to 
+Latvan via Vinhere
+18.049167
+73.423056
+Debris
+Slide
+NA
+17041
+MH/RAT/47F04/2019/9
+Maharashtra
+Ratnagiri
+ 
+Panderi-Maphral Road
+18.05085
+73.24276
+Rock
+Fall
+NA
+17042
+MH/RAIG/47F04/2008/0033
+Maharashtra
+Raigarh (Raygad)
+ 
+State Highway; Ambet - 
+Baghmandala road
+18.061111
+73.170556
+Debris
+Slide
+NA
+17043
+MH/RAIG/47F04/2008/0029
+Maharashtra
+Raigarh (Raygad)
+ 
+ 
+18.061667
+73.223056
+Rock
+Fall
+NA
+17044
+MH/RAIG/47F04/2008/0032
+Maharashtra
+Raigarh (Raygad)
+ 
+State Highway; Ambet - 
+Baghmandala road, close to 
+RIver Savitri
+18.062222
+73.175278
+Debris
+Slide
+NA
+17045
+MK/RAIG/47F04/2008/0028
+Maharashtra
+Raigarh (Raygad)
+ 
+Ahead of Phalsop, Ambet- 
+Baghmandala road
+18.062222
+73.2175
+Debris
+Slide
+NA
+17046
+MH/RAI/47F04/2019/14
+Maharashtra
+Raigad
+Pangloli Slide
+Pangloli-Toradi Road
+18.06322
+73.16547
+Rock
+Fall
+NA
+17047
+MH/RAIG/47F04/2008/0031
+Maharashtra
+Raigarh (Raygad)
+ 
+State Highway; Ambet - 
+Baghmandala Road
+18.063611
+73.178056
+Debris
+Slide
+NA
+17048
+MH/RAIG/47F04/2008/0051
+Maharashtra
+Raigarh (Raygad)
+ 
+Pangoli- Mhasala road, at 
+Pangoli diversion
+18.063611
+73.166111
+Debris
+Slide
+NA
+17049
+MH/RAIG/47F04/2008/0030
+Maharashtra
+Raigarh (Raygad)
+ 
+Beyond Kudgaon (towards 
+Baghmandala) on Ambet-
+Baghmandala road
+18.063889
+73.182778
+Debris
+Slide
+NA
+17050
+MH/RAIG/47F04/2008/0052
+Maharashtra
+Raigarh (Raygad)
+ 
+An offshoot from Ambet- 
+Baghmandala road
+18.075278
+73.163611
+Debris
+Slide
+NA
+17051
+MH/RAI/47F04/2019/7
+Maharashtra
+Raigad
+Vave Slide
+Kolmandla-Ambet Road
+18.07528
+73.20802
+Debris
+Slide
+NA
+17052
+MH/RAIG/47FO8/2008/0068
+Maharashtra
+Raigarh (Raygad)
+ 
+SH 99, To Baghmandala road, 
+near Konkane
+18.079444
+73.291111
+Debris
+Slide
+NA
+17053
+MH/RAI/47F08/2020/2
+Maharashtra
+Raigad
+-
+Ambet phata-Dhabol-Tol 
+Budruk (NH-66)
+18.08
+73.3
+Debris
+Slide
+NA

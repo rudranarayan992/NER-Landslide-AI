@@ -1,0 +1,403 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12987
+KL/IDU/58B16/2019/464
+Kerala
+Idukki
+Chithirapuram
+Neriyamangalam-Adimali 
+Highway
+10.02
+76.93
+Debris
+Slide
+2019
+12988
+KL/IDU/58B16/2019/465
+Kerala
+Idukki
+Thalumkandam
+Neriyamangalam-Adimali 
+Highway
+10.02
+76.92
+Debris
+Slide
+2018
+12989
+KL/IDU/58B16/2019/466
+Kerala
+Idukki
+Thalumkandam
+Adimali-Chattuparakkudi road
+10.02
+76.94
+Debris
+Slide
+2018
+12990
+KL/IDU/58B16/2019/467
+Kerala
+Idukki
+Mankulam
+Adimali-Chattuparakkudi road
+10.02
+76.94
+Debris
+Slide
+2018
+12991
+KL/IDU/58F04/2019/494
+Kerala
+Idukki
+Aaram mile
+Anachal-moonnar road
+10.02
+77.01
+Debris
+Flow
+NA
+12992
+KL/IDU/58F04/2019/516
+Kerala
+Idukki
+Aanakkulam
+Muttukad periyakanal road
+10.02
+77.17
+Debris
+Slide
+NA
+12993
+KL/IDU/58F04/2019/517
+Kerala
+Idukki
+Near Pallivasal
+Kunjithanni-Pottankadu road
+10.02
+77.08
+Debris
+Slide
+NA
+12994
+KL/IDU/58F04/2019/524
+Kerala
+Idukki
+Seval kudi
+Bison valley-Anayirangal road
+10.02
+77.16
+Debris
+Slide
+NA
+12995
+KL/IDU/58F04/2019/528
+Kerala
+Idukki
+Parakudi
+NH 49
+10.02
+77.24
+Debris
+Slide
+NA
+12996
+KL/IDU/58F08/2019/529
+Kerala
+Idukki
+Aanachal
+NH 49
+10.02
+77.25
+Debris
+Slide
+2019
+12997
+KL/IDU/58F08/2019/530
+Kerala
+Idukki
+Aaram mile
+NH 49
+10.02
+77.26
+Debris
+Slide
+NA
+12998
+KL/IDU/58F08/2019/531
+Kerala
+Idukki
+Seval kudi
+Cardamom hills
+10.02
+77.26
+Debris
+Slide
+NA
+12999
+KL/IDU/58F04/2019/540
+Kerala
+Idukki
+Mankulam
+NH 49
+10.02
+77.18
+Debris
+Slide
+2019
+13000
+KL/IDU/58B16/2019/542
+Kerala
+Idukki
+Seval kudi
+Tukkupara
+10.02
+76.86
+Debris
+Slide
+NA
+13001
+KER/IDUK/58F04/2007/0029
+Kerala
+Idukki
+Muthanmudi
+Pallivasal
+10.0262
+77.0635
+Debris
+Avalanche
+01 July 2007 (04:30 hrs)
+13002
+KL/IDU/58F04/2019/338
+Kerala
+Idukki
+Chithirapuram
+Anachal-moonnar road
+10.03
+77.03
+Debris
+Slide
+NA
+13003
+KL/IDU/58F04/2019/349
+Kerala
+Idukki
+Aanachal
+Anachal-moonnar road
+10.03
+77.04
+Debris
+Slide
+NA
+13004
+KL/IDU/58F04/2019/360
+Kerala
+Idukki
+Mankulam
+Anachal-moonnar road
+10.03
+77.04
+Debris
+Slide
+NA
+13005
+KL/IDU/58F04/2019/371
+Kerala
+Idukki
+Aanakkulam
+Chithirapuram power house 
+road
+10.03
+77.05
+Debris
+Slide
+NA
+13006
+KL/IDU/58B16/2019/403
+Kerala
+Idukki
+Aanachal
+Mannankandam- Kallar road
+10.03
+76.98
+Debris
+Slide
+2018
+13007
+KL/IDU/58B16/2019/404
+Kerala
+Idukki
+Aaram mile
+Kallar
+10.03
+77
+Debris
+Slide
+2018
+13008
+KL/IDU/58F04/2019/414
+Kerala
+Idukki
+Mankulam
+Kunjithanni-Muttanmudi road
+10.03
+77.06
+Debris
+Flow
+NA
+13009
+KL/IDU/58F04/2019/415
+Kerala
+Idukki
+Perumbamkoottu
+Kunjithanni-Muttanmudi road
+10.03
+77.06
+Debris
+Slide
+NA
+13010
+KL/IDU/58F04/2019/417
+Kerala
+Idukki
+Aaram mile
+Kunjithanni-Muttanmudi road
+10.03
+77.06
+Debris
+Slide
+NA
+13011
+KL/IDU/58B16/2019/419
+Kerala
+Idukki
+Chikkanad kudi
+Adimali-Chattuparakkudi road
+10.03
+76.94
+Debris
+Slide
+2018
+13012
+KL/IDU/58B16/2019/420
+Kerala
+Idukki
+Parakudi
+Adimali-Plamala road
+10.03
+76.95
+Debris
+Slide
+NA
+13013
+KL/IDU/58B16/2019/435
+Kerala
+Idukki
+Aaram mile
+Victory estate
+10.03
+76.97
+Debris
+Slide
+2018
+13014
+KL/IDU/58B16/2019/436
+Kerala
+Idukki
+Aaram mile
+Victory estate
+10.03
+76.97
+Debris
+Slide
+2018
+13015
+KL/IDU/58B16/2019/445
+Kerala
+Idukki
+Near Pallivasal
+Machiplavu-Plamala road
+10.03
+76.93
+Debris
+Slide
+2018
+13016
+KL/IDU/58FO4/2019/450
+Kerala
+Idukki
+Mankulam
+Bison valley-Devikulam road
+10.03
+77.12
+Debris
+Slide
+NA
+13017
+KL/IDU/58B16/2019/453
+Kerala
+Idukki
+Aaram mile
+Machiplavu-Plamala road
+10.03
+76.92
+Debris
+Slide
+2018
+13018
+KL/IDU/58F04/2019/461
+Kerala
+Idukki
+Aanakkulam
+Bison valley-Devikulam road
+10.03
+77.12
+Debris
+Slide
+NA
+13019
+KL/IDU/58B16/2019/468
+Kerala
+Idukki
+Mankulam
+Neriyamangalam-Adimali 
+Highway
+10.03
+76.9
+Debris
+Slide
+2018
+13020
+KL/IDU/58B16/2019/469
+Kerala
+Idukki
+Perumbamkoottu
+Neriyamangalam-Adimali 
+Highway
+10.03
+76.88
+Rock
+Slide
+2019
+13021
+KL/IDU/58B16/2019/470
+Kerala
+Idukki
+Seval kudi
+Neriyamangalam-Adimali 
+Highway
+10.03
+76.86
+Debris
+Slide
+2019

@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+7381
+HP/KAN/52D07/2020/143
+Himachal Pradesh
+Kangra
+ 
+Kareri link road
+32.28
+76.29
+Rock
+Slide
+NA
+7382
+HP/CHA/52D11/2020/47
+Himachal Pradesh
+Chamba
+ 
+Naya Gaon - Chuned Rd
+32.28
+76.66
+Debris
+Slide
+NA
+7383
+HP/CHA/52D11/2020/48
+Himachal Pradesh
+Chamba
+ 
+Naya Gaon - Chuned Rd
+32.28
+76.66
+Rock
+Slide
+NA
+7384
+HP/CHA/52D11/2020/49
+Himachal Pradesh
+Chamba
+ 
+Sukra-Holi-Naya Gaon Rd
+32.28
+76.64
+Rock
+Slide
+NA
+7385
+HP/CHA/52D11/2020/50
+Himachal Pradesh
+Chamba
+ 
+Sukra-Holi-Naya Gaon Rd
+32.28
+76.63
+Debris
+Slide
+NA
+7386
+HP/CHA/52D11/2020/52
+Himachal Pradesh
+Chamba
+ 
+Naya Gaon - Chuned Rd
+32.28
+76.67
+Debris
+Slide
+NA
+7387
+HP/CHA/52D11/2020/53
+Himachal Pradesh
+Chamba
+ 
+Naya Gaon - Chuned Rd
+32.28
+76.67
+Debris
+Slide
+NA
+7388
+HP/CHA/52D11/2020/54
+Himachal Pradesh
+Chamba
+ 
+Naya Gaon - Chuned Rd
+32.28
+76.66
+Rock
+Slide
+NA
+7389
+HP/CHA/52D11/2020/55
+Himachal Pradesh
+Chamba
+ 
+Naya Gaon - Chuned Rd
+32.28
+76.66
+Debris
+Slide
+NA
+7390
+HP/CHA/52D11/2020/56
+Himachal Pradesh
+Chamba
+ 
+Naya Gaon - Chuned Rd
+32.28
+76.66
+Rock
+Slide
+NA
+7391
+HP/CHA/52D11/2020/58
+Himachal Pradesh
+Chamba
+ 
+Naya Gaon - Chuned Rd
+32.28
+76.66
+Rock
+Slide
+NA
+7392
+HP/CHA/52D11/2020/118
+Himachal Pradesh
+Chamba
+ 
+Naya Gaon - Chuned Rd
+32.28
+76.65
+Debris
+Slide
+NA
+7393
+HP/CHA/52D11/2020/120
+Himachal Pradesh
+Chamba
+ 
+Naya Gaon - Chuned Rd
+32.28
+76.67
+Debris
+Slide
+NA
+7394
+HP/KUL/52H03/2015/126
+Himachal Pradesh
+Kullu
+ 
+Majhach Road
+32.2809
+77.1687
+Debris
+Slide
+NA
+7395
+HP/KUL/52H03/2015/125
+Himachal Pradesh
+Kullu
+ 
+Majhach Road
+32.2829
+77.1677
+Debris
+Slide
+NA
+7396
+HP/KUL/52H03/2015/124
+Himachal Pradesh
+Kullu
+ 
+Majhach Road
+32.286
+77.1641
+Debris
+Slide
+NA
+7397
+HP/KUL/52H03/2015/85
+Himachal Pradesh
+Kullu
+ 
+Kulang-Manali Road NH-21
+32.2889
+77.1798
+Debris
+Slide
+NA
+7398
+HP/KUL/52H03/2015/123
+Himachal Pradesh
+Kullu
+ 
+Majhach Road
+32.2894
+77.1657
+Debris
+Slide
+NA
+7399
+HP/KAN/43P15/2020/91
+Himachal Pradesh
+Kangra
+ 
+Sahni
+32.29
+75.92
+Debris
+Slide
+NA
+7400
+HP/KAN/43P15/2020/92
+Himachal Pradesh
+Kangra
+Kalera
+Kalera
+32.29
+75.96
+Debris
+Slide
+2000
+7401
+HP/CHA/52D03/2020/14
+Himachal Pradesh
+Chamba
+Khilan village
+SH-28
+32.29
+76.13
+Debris
+Slide
+2015
+7402
+HP/CHA/52D03/2020/60
+Himachal Pradesh
+Chamba
+Kanol
+ 
+32.29
+76.23
+Debris
+Slide
+2005
+7403
+HP/CHA/52D03/2020/100
+Himachal Pradesh
+Chamba
+ 
+Ghatarla village
+32.29
+76.16
+Debris
+Slide
+2016
+7404
+HP/CHA/52D03/2020/106
+Himachal Pradesh
+Chamba
+ 
+Dulara
+32.29
+76.14
+Debris
+Slide
+2015
+7405
+HP/CHA/52D03/2020/108
+Himachal Pradesh
+Chamba
+ 
+Ghatarla village
+32.29
+76.18
+Debris
+Slide
+NA
+7406
+HP/KAN/52D03/2020/110
+Himachal Pradesh
+Kangra
+ 
+Kanol  village
+32.29
+76.23
+Debris
+Slide
+2010
+7407
+HP/KAN/52D03/2020/115
+Himachal Pradesh
+Kangra
+Lahri village
+ 
+32.29
+76.22
+Debris
+Slide
+NA
+7408
+HP/CHA/52D11/2020/51
+Himachal Pradesh
+Chamba
+ 
+Sukra-Holi-Naya Gaon Rd
+32.29
+76.63
+Debris
+Slide
+NA
+7409
+HP/KUL/52H03/2015/121
+Himachal Pradesh
+Kullu
+ 
+Majhach Road
+32.2904
+77.1647
+Debris
+Subsidence
+NA
+7410
+HP/KUL/52H03/2015/84
+Himachal Pradesh
+Kullu
+ 
+Kulang-Manali Road NH-21
+32.2906
+77.1799
+Debris
+Slide
+NA
+7411
+HP/KUL/52H03/2015/122
+Himachal Pradesh
+Kullu
+ 
+Majhach Road
+32.2912
+77.1654
+Debris
+Subsidence
+NA
+7412
+HP/KUL/52H03/2015/83
+Himachal Pradesh
+Kullu
+ 
+Kulang-Manali Road NH-21
+32.2918
+77.1803
+Debris
+Slide
+NA
+7413
+HP/KUL/52H03/2015/82
+Himachal Pradesh
+Kullu
+ 
+Kulang-Manali Road NH-21
+32.2927
+77.1807
+Debris
+Slide
+NA
+7414
+HP/KUL/52H03/2015/81
+Himachal Pradesh
+Kullu
+ 
+Kulang-Manali Road NH-21
+32.2943
+77.1817
+Debris
+Slide
+NA
+7415
+HP/KUL/52H03/2015/80
+Himachal Pradesh
+Kullu
+ 
+Kulang-Manali Road NH-21
+32.295
+77.1821
+Debris
+Slide
+NA
+7416
+HP/KUL/52H03/2015/79
+Himachal Pradesh
+Kullu
+ 
+Kulang-Manali Road NH-21
+32.2956
+77.1825
+Debris
+Slide
+NA
+7417
+HP/KAN/43P15/2020/90
+Himachal Pradesh
+Kangra
+ 
+Nurpur
+32.3
+75.89
+Debris
+Slide
+NA
+7418
+HP/CHA/52D03/2020/11
+Himachal Pradesh
+Chamba
+Chyur
+Daintha-Chyur link road
+32.3
+76.06
+Debris
+Slide
+2015
+7419
+HP/CHA/52D03/2020/46
+Himachal Pradesh
+Chamba
+ 
+Pukhru Jangal
+32.3
+76.15
+Debris
+Slide
+2015
+7420
+HP/CHA/52D03/2020/47
+Himachal Pradesh
+Chamba
+ 
+Pukhru Jangal
+32.3
+76.15
+Debris
+Slide
+2015
+7421
+HP/CHA/52D03/2020/54
+Himachal Pradesh
+Chamba
+Adhawar
+Adhawar village
+32.3
+76.07
+Debris
+Slide
+NA
+7422
+HP/CHA/52D03/2020/68
+Himachal Pradesh
+Chamba
+Near Chyur
+Daintha-Chayur link road
+32.3
+76.06
+Debris
+Slide
+2010
+7423
+HP/CHA/52D03/2020/71
+Himachal Pradesh
+Chamba
+Near Chyur
+Daintha-Chayur link road
+32.3
+76.06
+Debris
+Slide
+2017
+7424
+HP/CHA/52D03/2020/72
+Himachal Pradesh
+Chamba
+ 
+ 
+32.3
+76.06
+Debris
+Slide
+NA
+7425
+HP/CHA/52D03/2020/75
+Himachal Pradesh
+Chamba
+Adhwar
+ 
+32.3
+76.07
+Debris
+Slide
+2018
+7426
+HP/CHA/52D03/2020/83
+Himachal Pradesh
+Chamba
+Adhwar
+ 
+32.3
+76.07
+Debris
+Slide
+NA
+7427
+HP/CHA/52D03/2020/105
+Himachal Pradesh
+Chamba
+ 
+Pukhru Jangal
+32.3
+76.15
+Debris
+Slide
+2010
+7428
+HP/KAN/52D03/2020/116
+Himachal Pradesh
+Kangra
+Boh
+Boh
+32.3
+76.19
+Rock
+Slide
+2014
+7429
+HP/CHA/52D11/2020/59
+Himachal Pradesh
+Chamba
+ 
+Sukra-Holi-Naya Gaon Rd
+32.3
+76.61
+Debris
+Slide
+NA
+7430
+HP/CHA/52D11/2020/60
+Himachal Pradesh
+Chamba
+ 
+Sukra-Holi-Naya Gaon Rd
+32.3
+76.61
+Debris
+Slide
+NA
+7431
+HP/KUL/52H03/2015/120
+Himachal Pradesh
+Kullu
+ 
+Barheta-Palchan Road
+32.3088
+77.1727
+Debris
+Subsidence
+2012

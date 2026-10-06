@@ -1,0 +1,432 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+4527
+HP/SHI/53E16/2016/13
+Himachal Pradesh
+Shimla
+ 
+NEAR JHATWARIROHRU-
+GWASA LINK ROAD
+31.2066
+77.8039
+Debris
+Subsidence
+NA
+4528
+HP/SOL/53A12/2017/63
+Himachal Pradesh
+Solan
+ 
+NH 21, SWARGHAT
+31.206639
+76.71075
+Debris
+Slide
+NA
+4529
+HP/SOL/53A12/2017/37
+Himachal Pradesh
+Solan
+ 
+NH 21A,GUJJAR HATTI
+31.206639
+76.71075
+Debris
+Slide
+NA
+4530
+HP/SOL/53A16/2017/100
+Himachal Pradesh
+Solan
+ 
+LOHARGHAT
+31.206917
+76.821222
+Rock
+Slide
+NA
+4531
+HP/SHI/53E04/2017/51
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.207
+77.131583
+Rock
+Slide
+NA
+4532
+HP/SHI/53E04/2017/143
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.207083
+77.131667
+Debris
+Slide
+NA
+4533
+HP/SHI/53E04/2017/133
+Himachal Pradesh
+Shimla
+ 
+HALOG SILAHARA ROAD
+31.207083
+77.068667
+Debris
+Slide
+NA
+4534
+HP/SOL/53A16/2017/104
+Himachal Pradesh
+Solan
+ 
+BAROG
+31.207139
+76.838056
+Debris
+Slide
+NA
+4535
+HP/SHI/53E04/2017/134
+Himachal Pradesh
+Shimla
+ 
+HALOG SILAHARA ROAD
+31.207278
+77.068278
+Rock
+Slide
+NA
+4536
+HP/SHI/53E04/2017/88
+Himachal Pradesh
+Shimla
+ 
+NH 88
+31.207333
+77.204972
+Rock cum debris
+Slide
+NA
+4537
+HP/SHI/53E08/2016/18
+Himachal Pradesh
+Shimla
+ 
+NH-22
+31.207495
+77.418839
+Rock cum debris
+Slide
+NA
+4538
+HP/SHI/53E16/2016/141
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANSIL GHATITIKRI-
+DODRA KWAR ROAD
+31.2075
+77.9952
+Debris
+Slide
+NA
+4539
+HP/SHI/53E16/2016/106
+Himachal Pradesh
+Shimla
+ 
+Near Sainji, Sandsu - Kashdhar 
+raod
+31.2079
+77.7975
+Debris
+Slide
+NA
+4540
+HP/SOL/53A16/2017/40
+Himachal Pradesh
+Solan
+ 
+NH 88
+31.207972
+76.977861
+Rock
+Slide
+NA
+4541
+HP/SOL/53A16/2017/121
+Himachal Pradesh
+Solan
+ 
+SOSHWAR
+31.208028
+76.926944
+Debris
+Slide
+NA
+4542
+HP/SHI/53E16/2016/94
+Himachal Pradesh
+Shimla
+ 
+SAMOLI-CHIRGAON NH-72
+31.2081
+77.7771
+Earth
+Slide
+NA
+4543
+HP/SHI/53E04/2017/86
+Himachal Pradesh
+Shimla
+ 
+BASANTPUR KARIALI ROAD
+31.208306
+77.202472
+Rock
+Slide
+NA
+4544
+HP/SOL/53A16/2017/99
+Himachal Pradesh
+Solan
+ 
+LOHARGHAT
+31.208611
+76.820167
+Debris
+Slide
+NA
+4545
+HP/SHI/53E04/2017/135
+Himachal Pradesh
+Shimla
+ 
+HALOG SILAHARA ROAD
+31.208944
+77.066722
+Debris
+Slide
+NA
+4546
+HP/SOL/53A12/2017/62
+Himachal Pradesh
+Solan
+ 
+NH 21, SWARGHAT
+31.209083
+76.713917
+Debris
+Slide
+NA
+4547
+HP/SOL/53A12/2017/36
+Himachal Pradesh
+Solan
+ 
+NH 21A,GUJJAR HATTI
+31.209083
+76.713917
+Debris
+Slide
+NA
+4548
+HP/SHI/53E16/2016/134
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANSIL GHATITIKRI-
+DODRA KWAR ROAD
+31.2091
+77.9937
+Debris
+Slide
+NA
+4549
+HP/SHI/53E16/2016/135
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANSIL GHATITIKRI-
+DODRA KWAR ROAD
+31.2092
+77.9885
+Debris
+Slide
+NA
+4550
+HP/SHI/53E16/2016/37
+Himachal Pradesh
+Shimla
+ 
+NEAR SIMOLI VILLAGE
+31.2096
+77.7797
+Debris
+Slide
+NA
+4551
+HP/SHI/53E16/2016/182
+Himachal Pradesh
+Shimla
+ 
+CHANSIL GHATICHANSIL GHATI- 
+TIKRI ROAD
+31.2099
+77.9989
+Debris
+Slide
+NA
+4552
+HP/SHI/53E16/2016/109
+Himachal Pradesh
+Shimla
+ 
+JITATANH-72-DALI LINK ROAD
+31.21
+77.8633
+Debris
+Slide
+NA
+4553
+HP/SHI/53E16/2016/131
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANSIL GHATITIKRI-
+DODRA KWAR ROAD
+31.2102
+77.088
+Debris
+Slide
+NA
+4554
+HP/SHI/53E16/2016/181
+Himachal Pradesh
+Shimla
+ 
+CHANSIL GHATICHANSIL GHATI- 
+TIKRI ROAD
+31.2103
+77.9984
+Debris
+Slide
+NA
+4555
+HP/SHI/53E16/2016/136
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANSIL GHATITIKRI-
+DODRA KWAR ROAD
+31.2103
+77.9865
+Debris
+Slide
+NA
+4556
+HP/SHI/53E04/2017/85
+Himachal Pradesh
+Shimla
+ 
+KADARGHAT
+31.210333
+77.198667
+Rock
+Slide
+NA
+4557
+HP/SHI/53E16/2016/139
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANSIL GHATITIKRI-
+DODRA KWAR ROAD
+31.2106
+77.9853
+Debris
+Slide
+NA
+4558
+HP/SHI/53E16/2016/183
+Himachal Pradesh
+Shimla
+ 
+CHANSIL GHATICHANSIL GHATI- 
+TIKRI ROAD
+31.2107
+77.9985
+Debris
+Slide
+NA
+4559
+HP/SHI/53E16/2016/138
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANSIL GHATITIKRI-
+DODRA KWAR ROAD
+31.2108
+77.986
+Debris
+Slide
+NA
+4560
+HP/SHI/53E16/2016/133
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANSIL GHATITIKRI-
+DODRA KWAR ROAD
+31.211
+77.9978
+Debris
+Slide
+NA
+4561
+HP/SHI/53E04/2017/52
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.211028
+77.129972
+Rock
+Slide
+NA
+4562
+HP/SOL/53A12/2017/61
+Himachal Pradesh
+Solan
+ 
+NH 21, SWARGHAT
+31.211778
+76.715694
+Debris
+Slide
+NA
+4563
+HP/SOL/53A12/2017/35
+Himachal Pradesh
+Solan
+ 
+NH 21A,GUJJAR HATTI
+31.211778
+76.715694
+Debris
+Slide
+NA

@@ -1,0 +1,522 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27307
+TN/COI/58B15/2017/64
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78
+10.371364
+76.994128
+Soil
+Slide
+NA
+27308
+TN/ANN/58F15/2016/13
+Tamil Nadu
+Dindigul
+ 
+Pandrimalai to 
+Dharumathupatti
+10.371556
+77.751583
+Earth
+Slide
+NA
+27309
+TN/COI/58B15/2017/63
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78
+10.371606
+76.994097
+Soil
+Slide
+NA
+27310
+TN/COI/58B15/2017/62
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78
+10.378392
+76.997217
+Debris
+Slide
+NA
+27311
+TN/COI/58B15/2017/61
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78
+10.380053
+76.997308
+Debris
+Slide
+NA
+27312
+TN/COI/58F03/2017/139
+Tamil Nadu
+Coimbatore
+ 
+Pannikuli village
+10.382806
+77.049389
+Debris
+Slide
+NA
+27313
+TN/COI/58B15/2017/60
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78
+10.383017
+76.997128
+Debris
+Slide
+NA
+27314
+TN/COI/58B15/2017/59
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78
+10.383186
+76.997114
+Soil
+Slide
+NA
+27315
+TN/ANN/58F15/2016/18
+Tamil Nadu
+Dindigul
+ 
+Road from Pachaloor  to 
+ottanchathiram
+10.383917
+77.662003
+Debris
+Slide
+NA
+27316
+TN/COI/58B15/2017/55
+Tamil Nadu
+Coimbatore
+ 
+Thalanar  Tea Estate
+10.383942
+76.988792
+Debris
+Slide
+NA
+27317
+TN/COI/58B15/2017/56
+Tamil Nadu
+Coimbatore
+ 
+Thalanar  Tea Estate
+10.384472
+76.988072
+Soil cum debris
+Slide
+NA
+27318
+TN/COI/58B15/2017/57
+Tamil Nadu
+Coimbatore
+ 
+Near Thalanar  road junction
+10.384506
+76.994653
+Soil
+Slide
+NA
+27319
+TN/COI/58B15/2017/54
+Tamil Nadu
+Coimbatore
+ 
+Thalanar  Tea Estate
+10.384525
+76.989269
+Soil
+Slide
+NA
+27320
+TN/COI/58B15/2017/51
+Tamil Nadu
+Coimbatore
+ 
+Thalanar  Tea Estate
+10.384944
+76.991008
+Soil
+Slide
+NA
+27321
+TN/COI/58B15/2017/52
+Tamil Nadu
+Coimbatore
+ 
+Thalanar  Tea Estate
+10.385033
+76.989908
+Debris
+Slide
+NA
+27322
+TN/COI/58B15/2017/53
+Tamil Nadu
+Coimbatore
+ 
+Thalanar  Tea Estate
+10.385083
+76.989794
+Soil
+Slide
+NA
+27323
+TN/COI/58B15/2017/58
+Tamil Nadu
+Coimbatore
+ 
+Near Thalanar  road junction
+10.385575
+76.996517
+Soil
+Slide
+NA
+27324
+TN/COI/58F03/2017/140
+Tamil Nadu
+Coimbatore
+ 
+Pannikuli village
+10.386417
+77.049417
+Debris
+Slide
+NA
+27325
+TN/COI/58F03/2017/128
+Tamil Nadu
+Coimbatore
+ 
+Waterfalls Tea Estate
+10.389861
+77.005111
+Debris
+Slide
+NA
+27326
+TN/COI/58B15/2017/50
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78
+10.391014
+76.998797
+Soil
+Slide
+NA
+27327
+TN/COI/58B15/2017/49
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78
+10.391533
+76.999431
+Soil
+Slide
+NA
+27328
+TN/COI/58F03/2017/129
+Tamil Nadu
+Coimbatore
+ 
+Waterfalls Tea Estate
+10.391556
+77.003278
+Debris
+Slide
+NA
+27329
+TN/COI/58F03/2017/130
+Tamil Nadu
+Coimbatore
+ 
+Waterfalls Tea Estate
+10.392083
+77.001806
+Debris
+Slide
+NA
+27330
+TN/COI/58F03/2017/127
+Tamil Nadu
+Coimbatore
+ 
+Waterfalls Tea Estate
+10.393472
+77.009667
+Debris
+Slide
+NA
+27331
+TN/COI/58F03/2017/131
+Tamil Nadu
+Coimbatore
+ 
+Waterfalls Tea Estate
+10.393528
+77.000167
+Debris
+Slide
+NA
+27332
+TN/COI/58F03/2017/133
+Tamil Nadu
+Coimbatore
+ 
+Waterfalls Tea Estate
+10.393667
+77.000556
+Debris
+Slide
+NA
+27333
+TN/COI/58F03/2017/132
+Tamil Nadu
+Coimbatore
+ 
+Waterfalls Tea Estate
+10.393944
+77.000194
+Debris
+Slide
+NA
+27334
+TN/COI/58B15/2017/87
+Tamil Nadu
+Coimbatore
+ 
+Thalnlar Tea Estate
+10.394833
+76.973944
+Soil
+Slide
+NA
+27335
+TN/COI/58B15/2017/48
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78
+10.395039
+76.991733
+Soil
+Slide
+NA
+27336
+TN/COI/58F03/2017/126
+Tamil Nadu
+Coimbatore
+ 
+Waterfalls Tea Estate
+10.395222
+77.010111
+Debris
+Slide
+NA
+27337
+TN/COI/58F03/2017/141
+Tamil Nadu
+Coimbatore
+ 
+Kadambarai
+10.397167
+77.045111
+Debris
+Slide
+NA
+27338
+TN/COI/58F03/2017/142
+Tamil Nadu
+Coimbatore
+ 
+Kadambarai
+10.398639
+77.045222
+Debris
+Slide
+NA
+27339
+TN/COI/58F03/2017/125
+Tamil Nadu
+Coimbatore
+ 
+Waterfalls Tea Estate
+10.398778
+77.012333
+Debris
+Slide
+NA
+27340
+TN/COI/58F03/2017/124
+Tamil Nadu
+Coimbatore
+ 
+Waterfalls Tea Estate
+10.398917
+77.012583
+Debris
+Slide
+NA
+27341
+TN/COI/58F03/2017/123
+Tamil Nadu
+Coimbatore
+ 
+Waterfalls Tea Estate
+10.401694
+77.010917
+Debris
+Slide
+NA
+27342
+TN/COI/58F03/2017/143
+Tamil Nadu
+Coimbatore
+ 
+Kadambarai
+10.404611
+77.043083
+Debris
+Slide
+NA
+27343
+TN/COI/58B15/2017/96
+Tamil Nadu
+Coimbatore
+ 
+Thalanar Coffee Estate
+10.405183
+76.957953
+Debris
+Slide
+NA
+27344
+TN/COI/58B15/2017/95
+Tamil Nadu
+Coimbatore
+ 
+Thalanar Coffee Estate
+10.405375
+76.957264
+Soil
+Slide
+NA
+27345
+TN/COI/58B15/2017/88
+Tamil Nadu
+Coimbatore
+ 
+Thalanar Tea Estate
+10.405542
+76.957083
+Debris
+Slide
+NA
+27346
+TN/COI/58B15/2017/89
+Tamil Nadu
+Coimbatore
+ 
+Thalanar Tea Estate
+10.405756
+76.956897
+Debris
+Slide
+NA
+27347
+TN/COI/58B15/2017/104
+Tamil Nadu
+Coimbatore
+ 
+Road from Thalanar to Shakthi 
+Estate
+10.405792
+76.956944
+Debris
+Slide
+NA
+27348
+TN/COI/58B15/2017/90
+Tamil Nadu
+Coimbatore
+ 
+Thalanar Tea Estate
+10.406667
+76.955633
+Debris
+Slide
+NA
+27349
+TN/COI/58B15/2017/105
+Tamil Nadu
+Coimbatore
+ 
+Road from Topslip to 
+Perambikulam
+10.407228
+76.831808
+Soil
+Slide
+NA
+27350
+TN/COI/58F03/2017/144
+Tamil Nadu
+Coimbatore
+ 
+Kadambarai
+10.407583
+77.046111
+Debris
+Slide
+NA
+27351
+TN/COI/58F03/2017/146
+Tamil Nadu
+Coimbatore
+ 
+Kadambarai
+10.408278
+77.042833
+Debris
+Slide
+NA
+27352
+TN/COI/58F03/2017/145
+Tamil Nadu
+Coimbatore
+ 
+Kadambarai
+10.409028
+77.044694
+Debris
+Slide
+NA

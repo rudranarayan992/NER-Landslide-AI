@@ -1,0 +1,541 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11100
+JK/DOD/43O12/2021/56
+Jammu & Kashmir (UT)
+Doda
+5km milestone, Pul Doda
+Pul Doda - Bhaderwah road
+33.10539722
+75.57805833
+Debris
+Slide
+2nd week of December 2020
+11101
+JK/DOD/43O12/2021/57
+Jammu & Kashmir (UT)
+Doda
+Bhalla
+Pul Doda - Bhaderwah road
+33.10233889
+75.57809167
+Rock
+Slide
+1st week of January 2021
+11102
+JK/DOD/43O12/2021/58
+Jammu & Kashmir (UT)
+Doda
+Chhani near Bhalla
+Pul Doda - Bhaderwah road
+33.07430556
+75.60728333
+Rock
+Slide
+1st week of January 2021
+11103
+JK/DOD/43O12/2021/59
+Jammu & Kashmir (UT)
+Doda
+Bhalla
+Pul Doda - Bhaderwah road
+33.07167222
+75.60883611
+Rock
+Slide
+1st week of January 2021
+11104
+JK/DOD/43O12/2021/60
+Jammu & Kashmir (UT)
+Doda
+Senai -Bhalla
+Pul Doda - Bhaderwah road
+33.05380556
+75.6347
+Debris
+Slide
+1st week of January 2021
+11105
+JK/DOD/43O12/2021/61
+Jammu & Kashmir (UT)
+Doda
+Senai
+Pul Doda - Bhaderwah road
+33.04199722
+75.65139444
+Rock
+Slide
+1st week of January 2021
+11106
+JK/DOD/43O12/2021/62
+Jammu & Kashmir (UT)
+Doda
+Dradu
+Pul Doda - Bhaderwah road
+33.02081111
+75.65798611
+Rock
+Slide
+1st week of January 2021
+11107
+JK/DOD/43O12/2021/63
+Jammu & Kashmir (UT)
+Bhalla
+Dradu-Manwa
+Dradu-Manwa village
+33.02411944
+75.66047222
+Rock
+Slide
+1st week of February 2021
+11108
+JK/DOD/43O12/2021/64
+Jammu & Kashmir (UT)
+Doda
+Sungli
+Dradu-Manwa village
+33.02495833
+75.65999444
+Rock
+Wedge failure
+2nd week of December 2020
+11109
+JK/DOD/43O12/2021/65
+Jammu & Kashmir (UT)
+Doda
+Sungli
+Dradu-Manwa village
+33.02931389
+75.657375
+Debris
+Slide
+1st week of February 2021
+11110
+JK/DOD/43O12/2021/66
+Jammu & Kashmir (UT)
+Manwa
+Dradu-Manwa
+Dradu-Manwa road
+33.03771111
+75.65823889
+Rock
+Slide
+2nd week of December 2020
+11111
+JK/DOD/43P09/2021/67
+Jammu & Kashmir (UT)
+Doda
+Hamingarh - 1
+Bhaderwah-Bani Road
+32.95459722
+75.72276389
+Rock
+Slide
+1st week of January 2021
+11112
+JK/DOD/43P09/2021/68
+Jammu & Kashmir (UT)
+Doda
+Hamingarh - 2
+Bhaderwah-Bani Road
+32.93634722
+75.71496111
+Rock
+Slide
+1st week of January 2021
+11113
+JK/DOD/43P09/2021/69
+Jammu & Kashmir (UT)
+Doda
+Hamingarh -3
+Bhaderwah-Bani Road
+32.93575
+75.71509167
+Rock
+Slide
+2nd week of December 2020
+11114
+JK/DOD/43P09/2021/70
+Jammu & Kashmir (UT)
+Doda
+Hamingarh - 4
+Bhaderwah-Bani Road
+32.92889167
+75.72372222
+Rock
+Slide
+2nd week of December 2020
+11115
+JK/DOD/43P09/2021/71
+Jammu & Kashmir (UT)
+Doda
+Hamingarh - 5
+Bhaderwah-Bani road
+32.92503889
+75.72653889
+Rock
+Slide
+1st week of January 2021
+11116
+JK/DOD/43P09/2021/72
+Jammu & Kashmir (UT)
+Doda
+Hamingarh -6
+Bhaderwah-Bani Road
+32.91782222
+75.72585556
+Rock
+Slide
+1st week of January 2021
+11117
+JK/DOD/43P09/2021/73
+Jammu & Kashmir (UT)
+Doda
+Hamingarh - 7
+Bhaderwah-Bani road
+32.91767222
+75.72638611
+Rock
+Wedge and 
+topple failures
+2nd week of December 2020
+11118
+JK/DOD/43P09/2021/74
+Jammu & Kashmir (UT)
+Doda
+Sehari Bhuttla -1
+Hamingarh-Thannala road
+32.93780556
+75.733125
+Debris
+Slide
+1st week of February 2021
+11119
+JK/DOD/43P09/2021/75
+Jammu & Kashmir (UT)
+Doda
+Sehari Bhuttla - 2
+Hamingarh-Thannala road
+32.93580833
+75.73398056
+Debris
+Slide
+1st week of February 2021
+11120
+JK/DOD/43P09/2021/76
+Jammu & Kashmir (UT)
+Doda
+Sehari Bhuttla-3
+Hamingarh-Thannala road
+32.9349
+75.73752778
+Debris
+Slide
+1st week of February 2021
+11121
+JK/DOD/43P09/2021/77
+Jammu & Kashmir (UT)
+Doda
+Sehari Bhuttla-4
+Hamingarh-Thannala road
+32.93916111
+75.74593333
+Debris
+Slide
+1st week of February 2021
+11122
+JK/DOD/43P13/2021/78
+Jammu & Kashmir (UT)
+Doda
+Sehari Bhuttla-5
+Hamingarh-Thannala road
+32.93471667
+75.75188889
+Rock
+Slide
+1st week of February 2021
+11123
+JK/DOD/43P13/2021/79
+Jammu & Kashmir (UT)
+Doda
+Sehari Bhuttla-6
+Hamingarh-Thannala road
+32.93114444
+75.75455833
+Debris
+Slide
+1st week of January 2021
+11124
+JK/DOD/43P13/2021/80
+Jammu & Kashmir (UT)
+Doda
+Sehari Bhuttla-7
+Hamingarh-Thannala road
+32.93012778
+75.75456667
+Debris
+Slide
+1st week of February 2021
+11125
+JK/DOD/43P13/2021/81
+Jammu & Kashmir (UT)
+Doda
+Sehari Bhuttla-8
+Hamingarh-Thannala road
+32.93101111
+75.75624444
+Debris
+Slide
+1st week of February 2021
+11126
+JK/DOD/43P13/2021/82
+Jammu & Kashmir (UT)
+Doda
+Thannala
+Hamingarh-Thannala road
+32.92334722
+75.76494167
+Debris
+Slide
+1st week of January 2021
+11127
+JK/DOD/43P13/2021/83
+Jammu & Kashmir (UT)
+Doda
+Thannala
+Hamingarh-Thannala road
+32.91644722
+75.76959722
+Debris
+Slide
+1st week of February 2021
+11128
+JK/DOD/43P13/2021/84
+Jammu & Kashmir (UT)
+Doda
+Thannala
+Hamingarh-Thannala road
+32.92642222
+75.78016389
+Rock
+Wedge failure
+2nd week of December 2020
+11129
+JK/DOD/43O12/2021/85
+Jammu & Kashmir (UT)
+Doda
+Rahi-1
+Doda-Gangalwar road
+33.15252222
+75.5186
+Rock
+Slide
+1st week of January 2021
+11130
+JK/DOD/43O12/2021/86
+Jammu & Kashmir (UT)
+Doda
+Rahi-2
+Doda-Gangalwar road
+33.15198333
+75.51781667
+Debris
+Slide
+1st week of January 2021
+11131
+JK/DOD/43O12/2021/87
+Jammu & Kashmir (UT)
+Doda
+Rahi - 3
+Doda-Gangalwar road
+33.15221944
+75.51721944
+Debris
+Slide
+1st week of February 2021
+11132
+JK/DOD/43O08/2021/88
+Jammu & Kashmir (UT)
+Doda
+Kukrasu
+Doda-Gangalwar road
+33.15471389
+75.49139722
+Debris
+Slide
+1st week of January 2021
+11133
+JK/DOD/43O08/2021/89
+Jammu & Kashmir (UT)
+Doda
+Rahi-4
+Doda-Gangalwar road
+33.17178889
+75.46066389
+Debris
+Slide
+1st week of January 2021
+11134
+JK/DOD/43O08/2021/90
+Jammu & Kashmir (UT)
+Doda
+Kalaya
+Doda-Gangalwar road
+33.16948611
+75.45078611
+Debris
+Slide
+1st week of January 2021
+11135
+JK/DOD/43O08/2021/91
+Jammu & Kashmir (UT)
+Doda
+Gangalwar
+Doda-Gangalwar road
+33.15279722
+75.44558611
+Debris/rock
+Slide
+1st week of January 2021
+11136
+JK/REA/43K16/2021/92
+Jammu & Kashmir (UT)
+Reasi
+Arnas
+Salal-Arnas – Mahore road
+33.17884722
+74.83807222
+Debris
+Slide
+1st week of January 2021
+11137
+JK/REA/43K16/2021/93
+Jammu & Kashmir (UT)
+Reasi
+Thuru-1
+Arnas - Mahore road
+33.23028333
+74.83315
+Debris
+Slide
+1st week of January 2021
+11138
+JK/REA/43K16/2021/94
+Jammu & Kashmir (UT)
+Reasi
+Thuru-2
+Arnas-Mahore road
+33.23041944
+74.83311667
+Rock
+Fall
+1st week of January 2021
+11139
+JK/REA/43K16/2021/95
+Jammu & Kashmir (UT)
+Reasi
+Thuru-3
+Arnas-Mahore road
+33.2348
+74.83945278
+Debris
+Slide
+1st week of January 2021
+11140
+JK/REA/43K16/2021/96
+Jammu & Kashmir (UT)
+Reasi
+Thuru-4
+Arnas-Mahore road
+33.24255278
+74.83768889
+Rock
+Fall
+1st week of January 2021
+11141
+JK/REA/43K16/2021/97
+Jammu & Kashmir (UT)
+Reasi
+Thuru-5
+Arnas-Mahore road
+33.24308611
+74.83672778
+Rock
+Slide
+1st week of January 2021
+11142
+JK/REA/43K15/2021/98
+Jammu & Kashmir (UT)
+Reasi
+Dharmari-1
+Arnas – Mahore road
+33.31535278
+74.84009722
+Debris
+Slide
+1st week of February 2021
+11143
+JK/REA/43K15/2021/99
+Jammu & Kashmir (UT)
+Reasi
+Dharmari-2
+Arnas – Mahore road
+33.31446111
+74.84056111
+Debris
+Slide
+1st week of February 2021
+11144
+JK/REA/43K15/2021/100
+Jammu & Kashmir (UT)
+Reasi
+Dharmari-3
+Arnas – Mahore road
+33.31351389
+74.84075556
+Debris
+Slide
+1st week of February 2021
+11145
+JK/REA/43K15/2021/101
+Jammu & Kashmir (UT)
+Reasi
+Dharmari-4
+Arnas – Mahore road
+33.31311389
+74.84101944
+Debris
+Slide
+1st week of February 2021
+11146
+JK/REA/43K15/2021/102
+Jammu & Kashmir (UT)
+Reasi
+Dharmari-5
+Arnas – Mahore road
+33.31311389
+74.84101944
+Debris
+Slide
+1st week of February 2021
+11147
+JK/REA/43K15/2021/103
+Jammu & Kashmir (UT)
+Reasi
+Dharmari -6
+Arnas – Mahore road
+33.30705833
+74.84472778
+Rock
+Wedge
+2nd week of December 2020

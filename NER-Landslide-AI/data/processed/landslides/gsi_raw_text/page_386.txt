@@ -1,0 +1,336 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15879
+KER/IDK/58G01/2018/172
+Kerala
+Idukki
+Konnathady
+Mukkudam-Ambalakunnu Road 9.954431
+77.021047
+Debris
+Flow
+15th August 2018
+15880
+KER/IDK/58G01/2018/173
+Kerala
+Idukki
+Mukkudom
+Mukkudom-Kambilikandam 
+Road
+9.951455
+77.012522
+Debris
+Slide
+15th August 2018
+15881
+KER/IDK/58G01/2018/174
+Kerala
+Idukki
+Parathodu
+Beenamol Stadium-Parathodu 
+Road
+9.930483
+77.039444
+Debris
+Flow
+15th August 2018
+15882
+KER/IDK/58G01/2018/175
+Kerala
+Idukki
+Pullukandam
+Beenamol Stadium-
+Pullukandom Road
+9.927964
+77.043449
+Debris
+Flow
+15th August 2018
+15883
+KER/IDK/58G01/2018/176
+Kerala
+Idukki
+Pullukandam
+Parathodu-Panikkankudi Road
+9.935864
+77.043535
+Soil
+Subsidence/slu
+mp
+15th August 2018
+15884
+KER/IDK/58G01/2018/177
+Kerala
+Idukki
+Panikkankudi
+Nedumkandam-Panikkankudy 
+Raod
+9.92845
+77.054174
+Debris
+Slide
+8th August 2018
+15885
+KER/IDK/58G01/2018/178
+Kerala
+Idukki
+Panikkankudi
+CSI Padi-Pullukandom Road
+9.93087
+77.053113
+Debris
+Slide
+8th August 2018
+15886
+KER/IDK/58G01/2018/179
+Kerala
+Idukki
+Panikkankudi
+Panikkankudi-Nedumkandom 
+Road
+9.925726
+77.063502
+Debris
+Slide
+15th August 2018
+15887
+KER/IDK/58G01/2018/180
+Kerala
+Idukki
+Kattadipara kavala
+Panikkankudi-Kattadipara 
+Kavala Road
+9.919304
+77.067634
+Debris
+Flow
+19th August 2018
+15888
+KER/IDK/58G01/2018/181
+Kerala
+Idukki
+Kattadipara kavala
+Panikkankudi-Kattadipara 
+Kavala Road
+9.919163
+77.069468
+Debris
+Slide
+17th August 2018
+15889
+KER/IDK/58G01/2018/182
+Kerala
+Idukki
+Panikkankudi
+Panikkankudi-Perinjankutti 
+Road
+9.92215
+77.064455
+Debris
+Slide
+15th August 2018
+15890
+KER/IDK/58G01/2018/183
+Kerala
+Idukki
+Kambilikandom
+Kambilikandom-Nedumkandom 
+Road
+9.94166
+77.020914
+Debris
+Slide
+15th August 2018
+15891
+KER/IDK/58G01/2018/184
+Kerala
+Idukki
+Parathodu
+Kambilikandom-Parathodu 
+Road
+9.94074
+77.027974
+Debris
+Slide
+15th August 2018
+15892
+KER/IDK/58G01/2018/185
+Kerala
+Idukki
+Panikkankudi
+Panikkankudi-Kurishinkal Road
+9.925242
+77.05987
+Debris
+Slide
+15th August 2018
+15893
+KER/IDK/58G01/2018/186
+Kerala
+Idukki
+Panikkankudi
+Panikkankudi-Kurishinkal Road
+9.924656
+77.058153
+Debris
+Slide
+15th August 2018
+15894
+KER/IDK/58G01/2018/187
+Kerala
+Idukki
+Panikkankudi-Parur City
+Panikkankudy-Kattapana Road
+9.92413
+77.06433
+Debris
+Slide
+15th August 2018
+15895
+KER/IDK/58G01/2018/188
+Kerala
+Idukki
+Mullarikudi
+Mullarikudi-Kailasam Road
+9.912851
+77.085948
+Debris
+Slide
+8th August 2018
+15896
+KER/IDK/58G01/2018/189
+Kerala
+Idukki
+Mullarikudi
+Mullarikudi-Kailasam Road
+9.909487
+77.084732
+Debris
+Flow
+8th August 2018
+15897
+KER/IDK/58G01/2018/190
+Kerala
+Idukki
+Mullarikudi
+Mullarikudi-Kailasam Road
+9.909126
+77.087629
+Debris
+Slide
+15th August 2018
+15898
+KER/IDK/58G01/2018/191
+Kerala
+Idukki
+Muniyara
+Muniyara-Kombodinjal Road
+9.933862
+77.066279
+Debris
+Slide
+15th August 2018
+15899
+KER/IDK/58G01/2018/192
+Kerala
+Idukki
+Kombodinjal North
+Kombodinjal North-Muniyara 
+Road
+9.942009
+77.064315
+Debris
+Flow
+9th August 2018
+15900
+KER/IDK/58G01/2018/193
+Kerala
+Idukki
+Kombodinjal North
+Kombodinjal North-Muniyara 
+Road
+9.942473
+77.066852
+Debris
+Slide
+15th August 2018
+15901
+KER/IDK/58G01/2018/194
+Kerala
+Idukki
+Muniyara
+Muniyara-Kombodinjal Road
+9.937718
+77.069749
+Debris
+Slide
+13th August 2018
+15902
+KER/IDK/58G01/2018/195
+Kerala
+Idukki
+Muniyara
+Muniyara-Kombodinjal Road
+9.935033
+77.069851
+Debris
+Flow
+17th August 2018
+15903
+KER/IDK/58G01/2018/196
+Kerala
+Idukki
+Muniyara
+Muniyara-Kombodinjal Road
+9.934642
+77.070259
+Debris
+Subsidence / 
+slump
+15th August 2018
+15904
+KER/IDK/58G01/2018/197
+Kerala
+Idukki
+Kombodinjal
+Kombodinjal-Konnathady Road
+9.937977
+77.057196
+Soil
+Subsidence / 
+slump
+15th August 2018
+15905
+KER/IDK/58G01/2018/198
+Kerala
+Idukki
+Kombodinjal
+Panikkankudi-Kombodinjal-
+Konnathady Road
+9.941271
+77.05068
+Debris
+Flow
+15th August 2018
+15906
+KER/IDK/58G01/2018/199
+Kerala
+Idukki
+Panniyar Nirappu
+Muniyara-Panniyar Nirappu-
+Karimala Road
+9.937117
+77.077869
+Debris
+Slide
+15th August 2018

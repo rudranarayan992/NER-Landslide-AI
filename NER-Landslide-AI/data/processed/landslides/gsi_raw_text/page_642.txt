@@ -1,0 +1,465 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+25328
+NG/NOK/83N04/2017/19
+Nagaland
+Noklak
+ 
+Noklak
+26.197944
+95.015972
+Rock cum debris
+Slide
+NA
+25329
+NAG/ZUNH/83J08/2015/ 0081
+Nagaland
+Zunheboto
+ 
+2 km SW of Lumami Village
+26.198528
+94.487528
+Rock
+Slide
+NA
+25330
+NAG/TUN/83J16/2016/0033
+Nagaland
+Tuensang
+ 
+3 km South of Tuensang Town
+26.200056
+94.81905
+Rock
+Slide
+NA
+25331
+NG/NOK/83N04/2017/20
+Nagaland
+Noklak
+ 
+Noklak
+26.202167
+95.017889
+Debris
+Slide
+NA
+25332
+NAG/WOK/83J/4/2016/0035
+Nagaland
+Wokha
+ 
+Doyang to Sanis Road
+26.202972
+94.213417
+Rock
+Slide
+2016
+25333
+NAG/WOK/83J/4/2016/0061
+Nagaland
+Wokha
+ 
+Doyang to Yekhum
+26.204028
+94.238389
+Rock
+Slide
+NA
+25334
+NAG/WOK/83J/4/2016/0041
+Nagaland
+Wokha
+ 
+Doyang to Sanis Road
+26.204472
+94.214861
+Debris
+Slide
+NA
+25335
+NAG/TUN/83J16/2016/0032
+Nagaland
+Tuensang
+ 
+2 km South of Tuensang Town
+26.205135
+94.811625
+Rock
+Slide
+NA
+25336
+NAG/WOK/83J/4/2016/0037
+Nagaland
+Wokha
+ 
+Doyang to Sanis Road
+26.205889
+94.221583
+Debris
+Slide
+NA
+25337
+NAG/WOK/83J/4/2016/0038
+Nagaland
+Wokha
+ 
+Doyang to Sanis Road
+26.206111
+94.223333
+Debris
+Slide
+NA
+25338
+NAG/WOK/83J/4/2016/0034
+Nagaland
+Wokha
+ 
+Doyang to Sanis Road
+26.206528
+94.223333
+Debris
+Slide
+2016
+25339
+NAG/WOK/83J/4/2016/0036
+Nagaland
+Wokha
+ 
+Doyang to Sanis Road
+26.206778
+94.215
+Rock
+Slide
+2016
+25340
+NG/TUE/83N4/2017/1
+Nagaland
+Tuensang
+ 
+Near Noklak Town
+26.207833
+95.001083
+Rock
+Slide
+NA
+25341
+NAG/WOK/83J/4/2016/0042
+Nagaland
+Wokha
+ 
+Sanis
+26.208417
+94.204389
+Debris
+Slide
+NA
+25342
+NAG/WOK/83J/4/2016/0113
+Nagaland
+Wokha
+ 
+1.2 km south of Yimza
+26.209389
+94.116411
+Debris
+Slide
+NA
+25343
+NAG/WOK/83J/4/2016/0033
+Nagaland
+Wokha
+ 
+Doyang to Sanis Road
+26.2095
+94.232083
+Debris
+Slide
+2016
+25344
+NAG/TUN/83J16/2016/0045
+Nagaland
+Tuensang
+ 
+2km West of Lonkhim village
+26.210043
+94.683989
+Rock
+Slide
+NA
+25345
+NAG/TUN/83J16/2016/0051
+Nagaland
+Tuensang
+ 
+3 km south of Tuensang Town
+26.210306
+94.810333
+Debris
+Slide
+NA
+25346
+NAG/WOK/83J/4/2016/0060
+Nagaland
+Wokha
+ 
+Doyang to Yekhum
+26.211028
+94.241389
+Rock
+Slide
+NA
+25347
+NG/TUE/83N4/2017/2
+Nagaland
+Tuensang
+ 
+Near Noklak Town
+26.212028
+95.000417
+Rock
+Slide
+NA
+25348
+NAG/WOK/83J/4/2016/0039
+Nagaland
+Wokha
+ 
+Doyang to Sanis Road
+26.212222
+94.234
+Debris
+Slide
+NA
+25349
+NAG/WOK/83J/4/2016/0032
+Nagaland
+Wokha
+ 
+Doyang to Sanis Road
+26.212861
+94.235889
+Rock
+Slide
+2016
+25350
+NAG/WOK/83J/4/2016/0112
+Nagaland
+Wokha
+ 
+800 m south of Yimza
+26.212972
+94.116583
+Debris
+Slide
+NA
+25351
+NAG/WOK/83J/4/2016/0043
+Nagaland
+Wokha
+ 
+Sanis to Bhagti Road
+26.213111
+94.208917
+Rock
+Slide
+2016
+25352
+NAG/WOK/83J/4/2016/0031
+Nagaland
+Wokha
+ 
+Doyang to Sanis Road
+26.213389
+94.235778
+Rock
+Slide
+2016
+25353
+NAG/WOK/83J/4/2016/0044
+Nagaland
+Wokha
+ 
+Sanis to Bhagti Road
+26.213889
+94.211111
+Rock
+Slide
+NA
+25354
+NAG/WOK/83J/4/2016/0040
+Nagaland
+Wokha
+ 
+Doyang to Sanis Road
+26.214389
+94.236694
+Rock
+Slide
+NA
+25355
+NG/TUE/83N4/2017/5
+Nagaland
+Tuensang
+ 
+Near Noklak Town
+26.21475
+95.010667
+Debris
+Slide
+NA
+25356
+NAG/TUN/83J16/2016/0050
+Nagaland
+Tuensang
+ 
+2 km south of Tuensang Town
+26.214972
+94.812056
+Rock
+Slide
+NA
+25357
+NAG/WOK/83J/4/2016/0045
+Nagaland
+Wokha
+ 
+Sanis to Bhagti Road
+26.215889
+94.212083
+Debris
+Slide
+NA
+25358
+NAG/TUN/83J16/2016/0046
+Nagaland
+Tuensang
+ 
+Lonhkhim Town
+26.216456
+94.681866
+Rock
+Fall
+NA
+25359
+NAG/WOK/83J/4/2016/0030
+Nagaland
+Wokha
+ 
+Doyang to Sanis Road
+26.216583
+94.240556
+Debris
+Slide
+2016
+25360
+NG/TUE/83N4/2017/4
+Nagaland
+Tuensang
+ 
+Near Noklak Town
+26.216778
+95.006139
+Debris
+Slide
+NA
+25361
+NG/TUE/83N4/2017/3
+Nagaland
+Tuensang
+ 
+Near Noklak Town
+26.216861
+95.002889
+Debris
+Slide
+NA
+25362
+NAG/MOKH/83J08/2015/ 0092
+Nagaland
+Mokokchung
+ 
+7 km North of Sastami 
+Village,NH 61
+26.217361
+94.419417
+Debris
+Slide
+NA
+25363
+NAG/ZUNH/83J08/2015/ 0087
+Nagaland
+Zunheboto
+ 
+Nagaland University campus, 
+Lumami
+26.219417
+94.477028
+Rock
+Slide
+NA
+25364
+NG/TUE/83N4/2017/9
+Nagaland
+Tuensang
+ 
+NoklakPangsha Road
+26.220028
+95.034417
+Rock
+Slide
+NA
+25365
+NAG/TUN/83J16/2016/0040
+Nagaland
+Tuensang
+ 
+500mt East of Chengtang Saddle 26.220449
+94.898329
+Debris
+Slide
+NA
+25366
+NAG/MOK/83J12/2017/0077
+Nagaland
+Mokokchung
+ 
+1 km N of Longsa Village
+26.220506
+94.550504
+Earth
+Slide
+NA
+25367
+NG/TUE/83N4/2017/6
+Nagaland
+Tuensang
+ 
+NoklakPangsha Road
+26.221083
+95.030139
+Rock
+Slide
+NA
+25368
+NAG/ZUNH/83J08/2015/ 0086
+Nagaland
+Zunheboto
+ 
+Nagaland University campus, 
+Lumami
+26.22125
+94.478056
+Rock
+Slide
+NA

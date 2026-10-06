@@ -1,0 +1,434 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+77
+AS/DIM/83C16/2017/41
+Assam
+Dima Hasao
+Durbintola4
+NH54
+25.01856
+92.77011
+Debris
+Slide
+NA
+78
+AS/DIM/83C16/2018/49
+Assam
+Dima Hasao
+Durbintola5
+NH53
+25.019029
+92.770549
+Debris
+Slide
+NA
+79
+AS/CHR/83C12/2020/1
+Assam
+Cachar
+Bhamai slide-1
+Karbi houses(Bhamai river side) 25.02
+92.52
+Debris
+Slide
+2019
+80
+AS/CHR/83C12/2020/2
+Assam
+Cachar
+Bhamai slide-2
+Karbi Houses (Bhamai river side) 25.02
+92.52
+Debris
+Slide
+2019
+81
+AS/CAC/83C4/2016/73
+Assam
+Cachar
+0.21 km N of Malidhar
+NH44
+25.029708
+92.463967
+Debris
+Slide
+2015
+82
+AS/CAC/83C4/2016/74
+Assam
+Cachar
+0.39 km N of Malidhar
+NH44
+25.031431
+92.463231
+Debris
+Slide
+2015
+83
+AS/CAC/83C4/2016/75
+Assam
+Cachar
+0.48 km N of Malidhar
+NH44
+25.032119
+92.462636
+Debris
+Slide
+2015
+84
+AS/CAC/83C4/2016/76
+Assam
+Cachar
+0.58 km NW of Malidhar
+NH44
+25.032989
+92.462214
+Debris
+Slide
+2015
+85
+AS/DIM/83C16/2017/58
+Assam
+Dima Hasao
+Durbintola5
+NH54
+25.034948
+92.778753
+Debris
+Slide
+NA
+86
+AS/DIM/83C16/2017/40
+Assam
+Dima Hasao
+Durbintola3
+NH54
+25.0365
+92.780417
+Debris
+Slide
+NA
+87
+MEG/WJH/83C4/2016/45
+Assam
+Cachar
+2 km E of Rathacherra
+NH44 (near to weight bridge)
+25.037203
+92.450339
+Debris
+Slide
+2015
+88
+AS/DIM/83C16/2017/39
+Assam
+Dima Hasao
+Durbintola2
+NH54
+25.039722
+92.781889
+Debris
+Slide
+NA
+89
+AS/DIM/83C16/2017/38
+Assam
+Dima Hasao
+Durbintola1
+NH54
+25.041083
+92.783111
+Debris
+Slide
+NA
+90
+AS/DIM/83C16/2017/37
+Assam
+Dima Hasao
+Bandarkhal11
+NH54
+25.046444
+92.789667
+Debris
+Slide
+NA
+91
+AS/DIM/83C16/2017/36
+Assam
+Dima Hasao
+Bandarkhal10
+NH54
+25.046778
+92.790111
+Debris
+Slide
+NA
+92
+AS/DIM/83C16/2017/25
+Assam
+Dima Hasao
+Bandarkhal9
+NH54
+25.047417
+92.793389
+Debris
+Slide
+NA
+93
+AS/DIM/83C16/2018/29
+Assam
+Dima Hasao
+Bandarkhal railway slide.
+Between NFR Bridge No. 305 
+and Tunnel No. 19 (~2 km SW of 
+Bandarkhal Railway Station).
+25.04783
+92.78931
+Debris
+Slide
+NA
+94
+AS/DIM/83C16/2017/24
+Assam
+Dima Hasao
+Bandarkhal8
+NH54
+25.049417
+92.796722
+Debris
+Slide
+NA
+95
+AS/DIM/83C16/2017/23
+Assam
+Dima Hasao
+Bandarkhal7
+NH54
+25.049444
+92.79725
+Soil
+Slide
+NA
+96
+AS/DIM/83C16/2017/22
+Assam
+Dima Hasao
+Bandarkhal7
+NH54
+25.049917
+92.799667
+Rock cum debris
+Slide
+NA
+97
+AS/DIM/83C16/2017/21
+Assam
+Dima Hasao
+Bandarkhal6
+NH54
+25.054917
+92.800333
+Soil
+Slide
+NA
+98
+AS/DIM/83C16/2017/20
+Assam
+Dima Hasao
+Bandarkhal5
+NH54
+25.056611
+92.801722
+Debris
+Slide
+NA
+99
+AS/DIM/83C16/2017/18
+Assam
+Dima Hasao
+Bandarkhal3
+NH54
+25.060088
+92.807089
+Debris
+Slide
+NA
+100
+AS/DIM/83C16/2017/19
+Assam
+Dima Hasao
+Bandarkhal4
+NH54
+25.060944
+92.80675
+Debris
+Slide
+NA
+101
+AS/DIM/83C16/2017/15
+Assam
+Dima Hasao
+Paschim Bandarkhla3
+West of Paschim Bandarkhal
+25.061375
+92.795906
+Debris
+Slide
+NA
+102
+AS/DIM/83C16/2017/17
+Assam
+Dima Hasao
+Bandarkhal2
+NH54
+25.061417
+92.806833
+Debris
+Slide
+NA
+103
+AS/DIM/83C16/2017/13
+Assam
+Dima Hasao
+Paschim Bandarkhla1
+West of Paschim Bandarkhal
+25.061847
+92.79345
+Debris
+Slide
+NA
+104
+AS/DIM/83C16/2017/14
+Assam
+Dima Hasao
+Paschim Bandarkhla2
+West of Paschim Bandarkhal
+25.063378
+92.795536
+Debris
+Slide
+NA
+105
+AS/DIM/83C16/2017/12
+Assam
+Dima Hasao
+Bandarkhal1
+NH54
+25.063472
+92.807796
+Debris
+Slide
+NA
+106
+AS/DIH/83G08/2020/33
+Assam
+Dima Hasao
+ 
+Data taken from P. Songkai to 
+Natun Songkai road
+25.07
+93.29
+Debris
+Slide
+NA
+107
+AS/DIM/83C16/2017/16
+Assam
+Dima Hasao
+Paschim Bandarkhla4
+North of Paschim Bandarkhal
+25.072636
+92.794514
+Soil
+Slide
+NA
+108
+AS/DIM/83C16/2017/11
+Assam
+Dima Hasao
+Kayang1
+NH54
+25.073228
+92.814734
+Debris
+Slide
+NA
+109
+AS/DIM/83C16/2017/09
+Assam
+Dima Hasao
+Duiheng2
+Old HaflongSilchar road
+25.078935
+92.95379
+Debris
+Slide
+NA
+110
+AS/DIM/83C16/2017/08
+Assam
+Dima Hasao
+Duiheng1
+Old HaflongSilchar road
+25.088389
+92.958944
+Debris
+Slide
+NA
+111
+AS/DIH/83G08/2020/31
+Assam
+Dima Hasao
+ 
+P. Songkai to Natun Songkai 
+road
+25.1
+93.28
+Rock
+Slide
+NA
+112
+AS/DIH/83G08/2020/32
+Assam
+Dima Hasao
+ 
+P. Songkai to Natun Songkai 
+road
+25.1
+93.28
+Rock
+Slide
+NA
+113
+AS/DIH/83G08/2020/36
+Assam
+Dima Hasao
+ 
+P. Songkai to Natun Songkai 
+road
+25.1
+93.28
+Debris
+Slide
+NA
+114
+AS/DIM/83C16/2017/06
+Assam
+Dima Hasao
+Retzawl5
+Old HaflongSilchar road
+25.10275
+92.986944
+Debris
+Slide
+NA

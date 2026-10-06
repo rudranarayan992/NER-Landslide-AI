@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+6989
+HP/KUL/52H04/2015/180
+Himachal Pradesh
+Kullu
+ 
+Manali-Naggar Road
+32.0703
+77.1577
+Debris
+Slide
+NA
+6990
+HP/KAN/52D08/2018/134
+Himachal Pradesh
+Kangra
+ 
+ 
+32.07142
+76.41408
+Debris
+Slide
+NA
+6991
+HP/KUL/52D16/2015/221
+Himachal Pradesh
+Kullu
+ 
+Lohardi-Barot link road
+32.0719
+76.8581
+Rock
+Slide
+NA
+6992
+HP/KUL/52D16/2015/220
+Himachal Pradesh
+Kullu
+ 
+Lohardi-Barot link road
+32.0745
+76.8585
+Rock
+Slide
+NA
+6993
+HP/KAN/52D04/2018/144
+Himachal Pradesh
+Kangra
+ 
+Almela
+32.075694
+76.091875
+Debris
+Slide
+NA
+6994
+HP/KAN/52D04/2018/143
+Himachal Pradesh
+Kangra
+ 
+Amlela
+32.077293
+76.092946
+Debris
+Slide
+NA
+6995
+HP/KUL/52H04/2015/183
+Himachal Pradesh
+Kullu
+ 
+Manali-Naggar Road
+32.0782
+77.1615
+Debris
+Slide
+NA
+6996
+HP/KUL/52H04/2015/181
+Himachal Pradesh
+Kullu
+ 
+Manali-Naggar Road
+32.0793
+77.1531
+Debris
+Subsidence
+NA
+6997
+HP/KAN/52D04/2018/145
+Himachal Pradesh
+Kangra
+ 
+Jarpal
+32.079518
+76.099402
+Rock
+Slide
+NA
+6998
+HP/KUL/52H04/2015/182
+Himachal Pradesh
+Kullu
+ 
+Manali-Naggar Road
+32.0796
+77.1557
+Debris
+Subsidence
+NA
+6999
+HP/KUL/52D16/2015/218
+Himachal Pradesh
+Kullu
+ 
+Lohardi-Barot link road
+32.0798
+76.8577
+Rock
+Slide
+NA
+7000
+HP/KUL/52D16/2015/219
+Himachal Pradesh
+Kullu
+ 
+Lohardi-Barot link road
+32.0798
+76.8577
+Debris
+Slide
+NA
+7001
+HP/KUL/52H04/2015/184
+Himachal Pradesh
+Kullu
+ 
+Manali-Naggar Road
+32.0813
+77.1597
+Debris
+Slide
+NA
+7002
+HP/KAN/52D08/2018/95
+Himachal Pradesh
+Kangra
+ 
+NH 20
+32.0834
+76.44958
+Rock cum debris
+Slide
+NA
+7003
+HP/KAN/52D04/2018/135
+Himachal Pradesh
+Kangra
+ 
+South of Lanj
+32.085287
+76.131158
+Debris
+Slide
+NA
+7004
+HP/KUL/52D16/2015/214
+Himachal Pradesh
+Kullu
+ 
+Polang link road
+32.0871
+76.8561
+Rock
+Slide
+NA
+7005
+HP/KUL/52D16/2015/215
+Himachal Pradesh
+Kullu
+ 
+Polang-Barot link road
+32.0871
+76.8561
+Debris
+Slide
+NA
+7006
+HP/KUL/52D16/2015/216
+Himachal Pradesh
+Kullu
+#N/A
+#N/A
+32.0871
+76.8561
+Rock
+Slide
+NA
+7007
+HP/KUL/52D16/2015/217
+Himachal Pradesh
+Kullu
+ 
+Polang-Barot link road
+32.0871
+76.8561
+Debris
+Slide
+NA
+7008
+HP/KAN/52D08/2018/69
+Himachal Pradesh
+Kangra
+ 
+KANGRA-NANDRUL ROAD
+32.09002
+76.25133
+Rock
+Fall
+NA
+7009
+HP/KAN/52D08/2018/19
+Himachal Pradesh
+Kangra
+ 
+KANGRA-NANDRUL ROAD
+32.09055
+76.26572
+Rock
+Slide
+NA
+7010
+HP/KAN/52D08/2018/80
+Himachal Pradesh
+Kangra
+UPPER RAKKAR
+KANGRA-NANDRUL ROAD
+32.09127
+76.25358
+Rock
+Slide
+NA
+7011
+HP/KAN/52D08/2018/58
+Himachal Pradesh
+Kangra
+ 
+ 
+32.09127
+76.26657
+Rock
+Slide
+NA
+7012
+HP/KAN/52D08/2018/46
+Himachal Pradesh
+Kangra
+SALAG
+KANGRA-NANDRUL ROAD
+32.09149
+76.25644
+Rock
+Slide
+NA
+7013
+HP/KAN/52D08/2018/82
+Himachal Pradesh
+Kangra
+ 
+KANGRA-NANDRUL ROAD
+32.09212
+76.25833
+Rock
+Slide
+NA
+7014
+HP/KAN/52D08/2018/83
+Himachal Pradesh
+Kangra
+ 
+KANGRA FORT ROAD
+32.0923
+76.2606
+Rock
+Slide
+NA
+7015
+HP/KAN/52D04/2018/142
+Himachal Pradesh
+Kangra
+ 
+Baloda R.F
+32.092542
+76.099438
+Rock
+Slide
+NA
+7016
+HP/KAN/52D08/2018/81
+Himachal Pradesh
+Kangra
+ 
+KANGRA-NANDRUL ROAD
+32.09377
+76.25688
+Rock
+Slide
+NA
+7017
+HP/KAN/52D04/2018/141
+Himachal Pradesh
+Kangra
+ 
+Baldoa R.F
+32.094321
+76.103113
+Debris
+Slide
+NA
+7018
+HP/KAN/52D04/2018/140
+Himachal Pradesh
+Kangra
+ 
+Baldoa R.F
+32.095251
+76.102503
+Rock
+Subsidence
+NA
+7019
+HP/KUL/52H04/2015/133
+Himachal Pradesh
+Kullu
+ 
+Shim-silingcha road
+32.0957
+77.1088
+Debris
+Slide
+NA
+7020
+HP/KAN/52D08/2018/92
+Himachal Pradesh
+Kangra
+ 
+KANGRA FORT ROAD
+32.09647
+76.26443
+Debris
+Slide
+NA
+7021
+HP/KAN/52D08/2018/101
+Himachal Pradesh
+Kangra
+ 
+KANGRA FORT ROAD
+32.096995
+76.267409
+Rock
+Slide
+NA
+7022
+HP/KAN/52D08/2018/139
+Himachal Pradesh
+Kangra
+ 
+NH 503
+32.097315
+76.269344
+Debris
+Slide
+NA
+7023
+HP/LSP/53L04/2018/12
+Himachal Pradesh
+Lahaul & Spiti
+ 
+West of Lingti, Pin valley
+32.09785
+78.16158
+Debris
+Slide
+NA
+7024
+HP/KAN/52D08/2018/103
+Himachal Pradesh
+Kangra
+SAROTRI
+KANGRA FORT ROAD
+32.09796
+76.26885
+Rock
+Slide
+NA
+7025
+HP/KAN/52D08/2018/102
+Himachal Pradesh
+Kangra
+ 
+KANGRA FORT ROAD
+32.09811
+76.268947
+Rock
+Slide
+NA
+7026
+HP/LSP/53L04/2018/13
+Himachal Pradesh
+Lahaul & Spiti
+ 
+West of Lingti, Pin valley
+32.09842
+78.16221
+Debris
+Slide
+NA
+7027
+HP/LSP/53L04/2018/9
+Himachal Pradesh
+Lahaul & Spiti
+ 
+West of Dhankar
+32.09857
+78.19365
+Debris
+Slide
+NA
+7028
+HP/LSP/53L04/2018/14
+Himachal Pradesh
+Lahaul & Spiti
+ 
+West of Lingti, Pin valley
+32.09895
+78.1625
+Debris
+Slide
+NA
+7029
+HP/LSP/53L04/2018/10
+Himachal Pradesh
+Lahaul & Spiti
+ 
+West of Dhankar
+32.09908
+78.19296
+Debris
+Slide
+NA
+7030
+HP/KUL/52H04/2015/134
+Himachal Pradesh
+Kullu
+ 
+Phojal village road
+32.0993
+77.0889
+Debris
+Slide
+NA
+7031
+HP/LSP/53L04/2018/11
+Himachal Pradesh
+Lahaul & Spiti
+ 
+West of Dhankar
+32.09937
+78.19239
+Debris
+Slide
+NA
+7032
+HP/KAN/52D12/2020/1
+Himachal Pradesh
+Kangra
+ 
+Deol Khas
+32.1
+76.67
+Debris
+Slide
+NA
+7033
+HP/KAN/52D12/2020/4
+Himachal Pradesh
+Kangra
+ 
+Binwa
+32.1
+76.66
+Debris
+Slide
+NA
+7034
+HP/KAN/52D12/2020/5
+Himachal Pradesh
+Kangra
+ 
+Deol Khas
+32.1
+76.67
+Debris
+Slide
+NA
+7035
+HP/KAN/52D12/2020/22
+Himachal Pradesh
+Kangra
+ 
+Deol Khas
+32.1
+76.67
+Debris
+Slide
+NA
+7036
+HP/KAN/52D08/2018/100
+Himachal Pradesh
+Kangra
+ 
+TANDA ROAD
+32.10268
+76.2997
+Debris
+Slide
+2018
+7037
+HP/KAN/52D04/2018/26
+Himachal Pradesh
+Kangra
+ 
+South of Nagruth
+32.104952
+76.188823
+Debris
+Slide
+NA
+7038
+HP/KUL/52H04/2015/135
+Himachal Pradesh
+Kullu
+ 
+Neri Village road
+32.1058
+77.0725
+Rock
+Slide
+2012
+7039
+HP/KUL/52H04/2015/190
+Himachal Pradesh
+Kullu
+ 
+Naggar - Patlikhul road
+32.1065
+77.158
+Debris
+Slide
+NA

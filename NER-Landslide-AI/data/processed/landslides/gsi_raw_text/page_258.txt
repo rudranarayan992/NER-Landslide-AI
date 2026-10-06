@@ -1,0 +1,469 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11185
+JK/REA/43O08/2022/05
+Jammu & Kashmir (UT)
+Reasi
+--
+Kanthan-Khanikot road (KRCL 
+project road)
+33.172294
+74.905544
+Rock
+Fall
+NA
+11186
+JK/REA/43O08/2022/06
+Jammu & Kashmir (UT)
+Reasi
+--
+Kanthan-Khanikot road (KRCL 
+project road)
+33.18099
+74.904879
+Debris
+Slide
+NA
+11187
+JK/REA/43O08/2022/07
+Jammu & Kashmir (UT)
+Reasi
+--
+Kanthan-Khanikot road (KRCL 
+project road)
+33.16842
+74.925356
+Debris
+Slide
+NA
+11188
+JK/REA/43O08/2022/08
+Jammu & Kashmir (UT)
+Reasi
+--
+Kanthan-Khanikot road (KRCL 
+project road)
+33.174247
+74.975147
+Rock
+Slide
+NA
+11189
+JK/REA/43O08/2022/09
+Jammu & Kashmir (UT)
+Reasi
+--
+Kanthan-Khanikot road (KRCL 
+project road)
+33.168129
+74.98386
+Debris
+Slide
+July 2022
+11190
+JK/REA/43O08/2022/10
+Jammu & Kashmir (UT)
+Reasi
+--
+Kanthan-Khanikot road (KRCL 
+project road)
+33.168013
+74.985755
+Rock
+Slide
+July 2022
+11191
+JK/REA/43O08/2022/11
+Jammu & Kashmir (UT)
+Reasi
+--
+Katra-Reasi Road
+33.056935
+74.840438
+Rock
+Slide
+NA
+11192
+JK/REA/43O08/2022/12
+Jammu & Kashmir (UT)
+Reasi
+--
+Katra-Reasi Road
+33.064076
+74.838455
+Debris
+Slide
+2022
+11193
+JK/DOD/43O16/2022/13
+Jammu & Kashmir (UT)
+Doda
+--
+Kahara
+33.090065
+75.863922
+Rock
+Slide
+2021
+11194
+JK/DOD/43O16/2022/14
+Jammu & Kashmir (UT)
+Doda
+--
+Kahara
+33.089997
+75.861423
+Debris
+Flow (Flash 
+flood)
+20 July 2022
+11195
+JK/UDH/43O03/2022/15
+Jammu & Kashmir (UT)
+Udhampur
+--
+NH-44
+33.010544
+75.222502
+Debris
+Flow
+2021, July 2022
+11196
+JK/DOD/43O12/2022/16
+Jammu & Kashmir (UT)
+Doda
+--
+Batote-Kishtwar road/Ghadsoo 33.141032
+75.571946
+Debris
+Slide
+2022
+11197
+JK/DOD/43O12/2022/17
+Jammu & Kashmir (UT)
+Doda
+--
+Batote-Kishtwar road/Ghadsoo 33.138639
+75.576971
+Debris
+Slide
+2022
+11198
+JK/KIS/43O15/2022/18
+Jammu & Kashmir (UT)
+Kishtwar
+--
+Batote-Kishtwar road
+33.260599
+75.774042
+Rock
+Slide
+2022
+11199
+JK/KIS/43O16/2022/19
+Jammu & Kashmir (UT)
+Kishtwar
+--
+Batote-Kishtwar road
+33.248266
+75.779237
+Rock
+Slide
+2022
+11200
+JK/KIS/43O16/2022/20
+Jammu & Kashmir (UT)
+Kishtwar
+--
+Batote-Kishtwar road
+33.23404
+75.786592
+Debris
+Slide
+2022
+11201
+JK/DOD/43O16/2023/21
+Jammu & Kashmir (UT)
+Doda
+--
+Thathri
+33.145599
+75.773907
+Debris
+Slide
+2022
+11202
+JK/DOD/43O16/2023/22
+Jammu & Kashmir (UT)
+Doda
+--
+Thathri
+33.144786
+75.769525
+Debris
+Slide
+2022
+11203
+LA/LEH/52F08/2022/23
+Jammu & Kashmir (UT)
+Leh
+--
+Srinagar-Leh Highway
+34.172222
+77.335833
+Rock
+Topple
+NA
+11204
+LA/LEH/52F08/2022/24
+Jammu & Kashmir (UT)
+Leh
+--
+Srinagar-Leh Highway/Basgo
+34.214167
+77.284722
+Soil
+Slide
+NA
+11205
+LA/LEH/52F08/2022/25
+Jammu & Kashmir (UT)
+Leh
+--
+Nimmo-Chilling road
+34.141389
+77.297778
+Debris
+Falls/Topple
+NA
+11206
+LA/LEH/52F08/2022/26
+Jammu & Kashmir (UT)
+Leh
+--
+Nimmo-Chilling road
+34.128333
+77.271944
+Debris
+Slide
+NA
+11207
+LA/LEH/52F04/2022/27
+Jammu & Kashmir (UT)
+Leh
+--
+Nimmo-Chilling road
+34.097256
+77.214429
+Debris
+Slide
+NA
+11208
+LA/LEH/52F16/2022/28
+Jammu & Kashmir (UT)
+Leh
+--
+Leh-Tangste road
+34.006944
+77.877222
+Rock
+Slide
+NA
+11209
+LA/LEH/52F16/2022/29
+Jammu & Kashmir (UT)
+Leh
+--
+Leh-Tangste road
+34.016667
+77.906667
+Debris
+Slide
+NA
+11210
+LA/LEH/52F16/2022/30
+Jammu & Kashmir (UT)
+Leh
+--
+Leh-Tangste road
+34.015833
+77.906944
+Debris
+Slide
+NA
+11211
+LA/LEH/52J04/2022/31
+Jammu & Kashmir (UT)
+Leh
+--
+Durbuk-Khalsar road
+34.135
+78.103611
+Rock
+Falls/Topple
+NA
+11212
+LA/LEH/52J04/2022/32
+Jammu & Kashmir (UT)
+Leh
+--
+Durbuk-Khalsar road
+34.138889
+78.101944
+Rock
+Slide
+NA
+11213
+LA/LEH/52J04/2022/33
+Jammu & Kashmir (UT)
+Leh
+--
+Durbuk-Khalsar road
+34.146944
+78.115
+Rock
+Slide
+NA
+11214
+LA/LEH/52J04/2022/34
+Jammu & Kashmir (UT)
+Leh
+--
+Durbuk-Khalsar road
+34.143889
+78.129444
+Debris
+Slide
+NA
+11215
+LA/LEH/52J04/2022/35
+Jammu & Kashmir (UT)
+Leh
+--
+Durbuk-Khalsar road
+34.216667
+78.115833
+Debris
+Slide
+NA
+11216
+LA/LEH/52J03/2022/36
+Jammu & Kashmir (UT)
+Leh
+--
+Durbuk-Khalsar road
+34.276944
+78.058889
+Rock
+Falls
+NA
+11217
+LA/LEH/52F15/2022/37
+Jammu & Kashmir (UT)
+Leh
+--
+Durbuk-Khalsar road
+34.3075
+77.943056
+Rock
+Slide
+NA
+11218
+LA/LEH/52F/10/2022/38
+Jammu & Kashmir (UT)
+Leh
+--
+Diskit-Turtuk road
+34.530278
+77.626111
+Rock
+Falls
+NA
+11219
+LA/LEH/52F/10/2022/39
+Jammu & Kashmir (UT)
+Leh
+--
+Diskit to Panamik road
+34.718056
+77.569167
+Rock
+Falls/Topple/Sli
+de
+NA
+11220
+LA/LEH/52F/10/2022/40
+Jammu & Kashmir (UT)
+Leh
+--
+Diskit to Panamik road
+34.71988
+77.569781
+Rock
+Fall/Topple
+2022
+11221
+LA/LEH/52F/10/2022/41
+Jammu & Kashmir (UT)
+Leh
+--
+Diskit to Panamik road
+34.720833
+77.57
+Debris
+Slide
+NA
+11222
+LA/LEH/52F/09/2022/42
+Jammu & Kashmir (UT)
+Leh
+--
+Diskit to Panamik road
+34.758333
+77.555
+Rock
+Slide
+NA
+11223
+LA/LEH/52F/11/2022/43
+Jammu & Kashmir (UT)
+Leh
+--
+Khalsar
+34.492222
+77.7
+Debris
+Slide
+NA
+11224
+LA/LEH/52F/11/2022/44
+Jammu & Kashmir (UT)
+Leh
+--
+Khalsar
+34.4875
+77.700556
+Rock
+Falls/Topple
+NA
+11225
+LA/LEH/52F/11/2022/45
+Jammu & Kashmir (UT)
+Leh
+--
+Khalsar
+34.486348
+77.699676
+Rock
+Slide
+NA

@@ -1,0 +1,380 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+26753
+SK/ES/78 A11/SW-II
+Sikkim
+ East Sikkim
+Swastik-II
+NH-10
+27.35333333
+88.61666667
+Debris material 
+(>2mm to cobble size 
+) to boulder.
+Slide
+NA
+26754
+SK/ES/78 A11/TG-I
+Sikkim
+ East Sikkim
+Tamang Gompa Slide-I
+Near Tamang Gompa
+27.33972222
+88.62055556
+Debris
+Slide
+8 June 2021 at night
+26755
+SK/ES/78 A11/TVP-I
+Sikkim
+ East Sikkim
+Tashi View Point -I
+National Highway to Mangan
+27.37055556
+88.61611111
+Debris
+Slide
+5 June 2021 in the midnight
+26756
+SK/ES/78 A11/
+Sikkim
+North Sikkim
+Tingda
+State  Highway Burtuk-Kabi.
+27.39472222
+88.62361111
+Debris
+Slide
+2018, July 2021
+26757
+SK/ES/78 A/07/2021/13
+Sikkim
+South Sikkim
+Tokdey block, Lingmoo
+Tokdey
+27.3250091
+88.4704442
+Debris cum rock
+Slide
+2020, 23 August 2021
+26758
+SK/ES/78 A11/TL
+Sikkim
+ East Sikkim
+Tshalumthang Landslide
+Sangkhola-Zingla Road
+27.25252778
+88.52777778
+Debris
+Slide
+July 2021
+26759
+SK/ES/78 A11/UB-I
+Sikkim
+ East Sikkim
+Upper Burtuk slide
+Indra By-Pass.
+27.35805556
+88.62111111
+Debris
+Slide
+NA
+26760
+SK/NS/78 A10/ Bop 1
+Sikkim
+North Sikkim
+Bop Slide
+Chungthang-Lachung Road
+27.61936111
+88.66131389
+Rock
+Slide
+18 June 2021
+26761
+SK/ES/78 A11/KL
+Sikkim
+ East Sikkim
+Khamdong Landslide
+Singtam Dikchu Road
+27.25061389
+88.46280278
+Debris
+Slide
+2021
+26762
+SK/NS/78 A10/Lachen Road 
+Slide-I
+Sikkim
+North Sikkim
+Lachen Slide
+Chungthang - Lachen Road
+27.69920278
+88.56659722
+Debris
+Slide
+NA
+26763
+SK/ES/78 A11/IBP-I
+Sikkim
+ East Sikkim
+Indira Bye Pass -I
+Indira Bye Pass Road
+27.32888889
+88.60777778
+Rock
+Slide
+18 May 2021
+26764
+SK/ES/78 A10/LS
+Sikkim
+North Sikkim
+Lachung Landslide
+Chungthang-Lachung  Road
+27.68445278
+88.7379
+Debris
+Slide
+2021
+26765
+SK/NS/78 A16/ Lingtam Slide-I
+Sikkim
+ East Sikkim
+Lingtam Slide
+Rongli-Lingtam road
+27.22122778
+88.735475
+Debris
+Slide
+18th-19th October 2021
+26766
+SK/ES/78A11/2021/1
+Sikkim
+ East Sikkim
+Shotak slide
+Along Burtuk Kabi Road, East of 
+Shotak village.
+27.38155556
+88.63883333
+Debris
+Slide
+September 2021.
+26767
+SK/ES/78 A11/PGS-I
+Sikkim
+ East Sikkim
+Paani House slide I
+NH-10
+27.32320833
+88.60986944
+Debris
+Slide
+19 October 2021 at 20:00 hrs.
+26768
+SK/SS/78 A08/SS01
+Sikkim
+South Sikkim
+Sombaria Landslide
+Jorethang-Sombaria  Road
+27.12344167
+88.24483889
+Debris
+Slide
+18th-19th October 2021.
+26769
+SK/ES/78 A11/2021/CPWD-1
+Sikkim
+ East Sikkim
+CPWD AEQ LANDSLIDE (Asst. Engineer 
+Quarter Slide)
+NH-10
+27.34027222
+88.61273333
+Debris
+Slide
+19 October 2021 at 18:00 hrs.
+26770
+SK/ES/78 A16/TL01
+Sikkim
+ East Sikkim
+Tarpin Landslide
+Rorathang-Rongli Road
+27.19558889
+88.62802778
+Debris
+Slide
+18th-19th  October 2021.
+26771
+SK/NS/78 A10/ 2021/Que Khola-
+I
+Sikkim
+ East Sikkim
+Que Khola Landslide
+Rongli-Phadamchen road
+27.236
+88.75722222
+Debris
+Slide
+1 August 2021 at 16:00 hrs.
+26772
+SK/NS/78 A10/ 2022/Taronag 
+Slide-I
+Sikkim
+ East Sikkim
+Taronag Slide
+Rorathnag-Rongli road
+27.20258333
+88.65547222
+Rock
+Slide
+18th-19th October 2021
+26773
+SK/ES/78 A11/2021/NPB-1
+Sikkim
+ East Sikkim
+Pagla Bhir slide
+Rumtek-Sang Road through 
+Martam Rice valley
+27.28577778
+88.5535
+Debris
+Slide
+27 August 2021
+26774
+SK/NS/78 A10/ 2022/Manul 
+Slide-I
+Sikkim
+North Sikkim
+Manul Slide
+Mangan - Chungthang Road
+27.51473889
+88.57758889
+Rock
+Shallow Planar 
+slide
+NA
+26775
+Sikkim/East Sikkim/ 78A10/ 
+2021
+Sikkim
+North Sikkim
+Shipgyer village
+NH10
+27.55704444
+88.57932222
+Debris
+Slide
+2019
+26776
+Sikkim/East Sikkim/ 78A08/ 
+2022
+Sikkim
+ East Sikkim
+Bardang Tunnel slide
+NH10
+27.20683333
+88.48930556
+Debris
+Slide
+2021
+26777
+SK/SSK/78A08/ 2022/MamringI Sikkim
+South Sikkim
+Mamring slide
+State road Namchi-Namthang 
+road.
+27.16993889
+88.51481944
+Debris
+Slide
+September 2021
+26778
+SK/ESK/ 78A11/ 2021/P-I
+Sikkim
+ East Sikkim
+Pakyong (Near Farm to Table 
+restaurant)
+Pakyong roads
+27.25225
+88.60811111
+Rock cum Debris
+slide
+May 2017, July-August 2021
+26779
+Sikkim/East Sikkim/ 78A12/ 
+2021
+Sikkim
+ East Sikkim
+Pakyong road near Central bank of 
+India
+717A, state road
+27.24777778
+88.5975
+Debris
+Slide
+2021
+26780
+SK/NSK/ 78A11/ 2021/RR-I
+Sikkim
+North Sikkim
+Rang-Rang
+NH 310A
+27.47888889
+88.52861111
+Rock
+Slide
+September 2021
+26781
+Sikkim/Namchi/78 A07/2022/01 Sikkim
+Namchi
+7th Mile_ Legship-Ravangla Road
+Legship-Ravangla Road
+27.28847
+88.30139
+Debris
+Slide
+10 July 2022 from 8:30 hrs. to 10:00 
+hrs.
+26782
+SKM/Gangtok/78A11/2022
+Sikkim
+Gangtok District
+14th Mile
+Gangtok-Rangpo Road
+27.2535
+88.54141667
+Debris
+Slide
+August 2022, 7th-8th October 2022
+26783
+SKM/ Namchi/78 A07/2022/01
+Sikkim
+Namchi
+Pathing Yang Yang Slide
+Ravangla-Yang Yang Road via 
+Pathing
+27.30140833
+88.3916
+Debris cum rock
+Slide
+18 November 2022
+26784
+SKM/ Soreng/78 A08/2022/01
+Sikkim
+Soreng
+01/JR/Baiguney
+Jorethang-Legship Road
+27.14871944
+88.28128889
+Debris
+Slide
+20 November 2022

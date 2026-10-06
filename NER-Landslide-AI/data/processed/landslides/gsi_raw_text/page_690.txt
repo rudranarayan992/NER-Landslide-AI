@@ -1,0 +1,375 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27274
+TN/COI/58B15/2017/12
+Tamil Nadu
+Coimbatore
+ 
+Lower Paralai Estate
+10.354944
+76.963183
+Soil
+Slide
+NA
+27275
+TN/COI/58B15/2017/10
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78, Iyerpadi 
+Estate
+10.355561
+76.972572
+Soil
+Slide
+NA
+27276
+TN/COI/58B15/2017/11
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78, Iyerpadi 
+Estate
+10.356444
+76.972536
+Soil
+Slide
+NA
+27277
+TN/COI/58B15/2017/85
+Tamil Nadu
+Coimbatore
+ 
+Lower Paralai Estate
+10.356811
+76.960642
+Soil
+Slide
+NA
+27278
+TN/COI/58B15/2017/84
+Tamil Nadu
+Coimbatore
+ 
+Lower Paralai Estate
+10.357117
+76.960231
+Soil
+Slide
+NA
+27279
+TN/ANN/58F11/2016/59
+Tamil Nadu
+Dindigul
+ 
+Road from Savarikadu  to Palani 10.358003
+77.556419
+Earth
+Slide
+NA
+27280
+TN/ANN/58F15/2016/14
+Tamil Nadu
+Dindigul
+ 
+Pandrimalai to 
+Dharumathupatti
+10.359469
+77.769122
+Earth
+Slide
+NA
+27281
+TN/COI/58F03/2017/56
+Tamil Nadu
+Coimbatore
+ 
+Kodandur village
+10.360361
+77.184222
+Rock cum debris
+Slide
+NA
+27282
+TN/COI/58B15/2017/16
+Tamil Nadu
+Coimbatore
+ 
+Iyerpadi  1st Division Tea Estate  
+(near JE binglow)
+10.360675
+76.994706
+Soil
+Slide
+NA
+27283
+TN/ANN/58F11/2016/64
+Tamil Nadu
+Dindigul
+ 
+Road from Savarikadu  to Palani 10.3608
+77.528139
+Rock
+Slide
+NA
+27284
+TN/ANN/58F11/2016/56
+Tamil Nadu
+Dindigul
+ 
+Road from Savarikadu  to Palani 10.361656
+77.533794
+Debris
+Slide
+NA
+27285
+TN/ANN/58F11/2016/63
+Tamil Nadu
+Dindigul
+ 
+Road from Savarikadu  to Palani 10.361797
+77.535025
+Rock
+Slide
+NA
+27286
+TN/ANN/58F11/2016/65
+Tamil Nadu
+Dindigul
+ 
+Road from Savarikadu  to Palani 10.362906
+77.529744
+Debris
+Slide
+NA
+27287
+TN/COI/58B15/2017/14
+Tamil Nadu
+Coimbatore
+ 
+Iyerpadi 2nd Division Tea Estate 10.363356
+76.981175
+Soil
+Slide
+NA
+27288
+TN/COI/58B15/2017/17
+Tamil Nadu
+Coimbatore
+ 
+Iyerpadi  1st Division Tea Estate  
+(near JE binglow)
+10.363389
+76.995825
+Soil
+Subsidence
+NA
+27289
+TN/ANN/58F11/2016/62
+Tamil Nadu
+Dindigul
+ 
+Road from Savarikadu  to Palani 10.363467
+77.539144
+Earth
+Slide
+NA
+27290
+TN/ANN/58F15/2016/10
+Tamil Nadu
+Dindigul
+ 
+Pandrimalai to 
+Dharumathupatti
+10.363958
+77.757472
+Debris
+Slide
+NA
+27291
+TN/ANN/58F11/2016/46
+Tamil Nadu
+Dindigul
+ 
+Melpallam to Palani Road
+10.364092
+77.530231
+Debris
+Slide
+NA
+27292
+TN/ANN/58F11/2016/44
+Tamil Nadu
+Dindigul
+ 
+North of Savrikadu village
+10.364186
+77.547044
+Debris
+Slide
+NA
+27293
+TN/ANN/58F11/2016/61
+Tamil Nadu
+Dindigul
+ 
+Road from Savarikadu  to Palani 10.364683
+77.539483
+Debris
+Slide
+NA
+27294
+TN/COI/58B15/2017/15
+Tamil Nadu
+Coimbatore
+ 
+Iyerpadi  1st Division Tea Estate 10.365706
+76.99165
+Soil
+Subsidence
+NA
+27295
+TN/COI/58B15/2017/83
+Tamil Nadu
+Coimbatore
+ 
+Velloni Estate
+10.3659
+76.9478
+Debris
+Slide
+NA
+27296
+TN/COI/58B15/2017/82
+Tamil Nadu
+Coimbatore
+ 
+Velloni Estate
+10.3667
+76.9515
+Debris
+Slide
+NA
+27297
+TN/COI/58B15/2017/81
+Tamil Nadu
+Coimbatore
+ 
+Velloni Estate
+10.3669
+76.9514
+Debris
+Slide
+NA
+27298
+TN/ANN/58F11/2016/48
+Tamil Nadu
+Dindigul
+ 
+Pachalur to Sembarankulam
+10.367647
+77.631219
+Earth
+Slide
+NA
+27299
+TN/ANN/58F11/2016/60
+Tamil Nadu
+Dindigul
+ 
+Road from Savarikadu  to Palani 10.367658
+77.539
+Earth
+Slide
+NA
+27300
+TN/ANN/58F15/2016/11
+Tamil Nadu
+Dindigul
+ 
+Pandrimalai to 
+Dharumathupatti
+10.367822
+77.756367
+Debris
+Slide
+NA
+27301
+TN/ANN/58F11/2016/45
+Tamil Nadu
+Dindigul
+ 
+Savrikadu to Palani Road
+10.367825
+77.538181
+Debris
+Slide
+NA
+27302
+TN/COI/58B15/2017/67
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78, H.P.B no. 
+38/40
+10.368411
+76.99395
+Soil
+Slide
+NA
+27303
+TN/COI/58B15/2017/68
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78, H.P.B no. 
+38/40
+10.36865
+76.992614
+Soil
+Slide
+NA
+27304
+TN/ANN/58F15/2016/12
+Tamil Nadu
+Dindigul
+ 
+Pandrimalai to 
+Dharumathupatti
+10.369194
+77.753939
+Debris
+Slide
+NA
+27305
+TN/COI/58B15/2017/66
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78
+10.369325
+76.992967
+Soil
+Slide
+NA
+27306
+TN/COI/58B15/2017/65
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78
+10.371014
+76.994111
+Soil
+Slide
+NA

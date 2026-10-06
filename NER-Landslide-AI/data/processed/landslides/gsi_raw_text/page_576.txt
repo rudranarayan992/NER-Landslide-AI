@@ -1,0 +1,312 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22676
+MZ/KOL/83D15/2020/34
+Mizoram
+Kolasib
+Saipum-Tuirial dam slide 8
+Saipum-Tuirial dam- Mauchhar 
+road section
+24.36
+92.89
+Rock
+Slide
+2019
+22677
+MZ/KOL/83D15/2020/35
+Mizoram
+Kolasib
+Saipum-Tuirial dam slide 9
+Saipum-Tuirial dam- Mauchhar 
+road section, near Tuirial Dam 
+site
+24.36
+92.88
+Debris
+Slide
+2019
+22678
+MZ/KOL/83D15/2020/39
+Mizoram
+Kolasib
+Saipum-Saiphai section slide 1
+Saipum-Saiphai village road 
+section
+24.36
+92.83
+Debris
+Slide
+2019
+22679
+MZ/KOL/83D15/2020/41
+Mizoram
+Kolasib
+Saipum-Saiphai section slide 3
+Saipum-Saiphai village road 
+section
+24.36
+92.82
+Debris
+Slide
+2019
+22680
+MZ/AIZ/83D15/2020/1
+Mizoram
+Aizawl
+Saipum-Tuirial dam slide 1
+Saipum-Tuirial dam- Mauchhar 
+road section
+24.37
+92.9
+Debris
+Slide
+2019
+22681
+MZ/AIZ/83D15/2020/2
+Mizoram
+Aizawl
+Saipum-Tuirial dam slide 2
+Saipum-Tuirial dam- Mauchhar 
+road section
+24.37
+92.9
+Rock
+Slide
+2019
+22682
+MZ/AIZ/83D15/2020/3
+Mizoram
+Aizawl
+Saipum-Tuirial dam slide 3
+Saipum-Tuirial dam- Mauchhar 
+road section
+24.37
+92.89
+Debris
+Slide
+2019
+22683
+MZ/AIZ/83D15/2020/4
+Mizoram
+Aizawl
+Saipum-Tuirial dam slide 4
+Saipum-Tuirial dam- Mauchhar 
+road section
+24.37
+92.89
+Rock
+Slide
+2019
+22684
+MZ/AIZ/83D15/2020/5
+Mizoram
+Aizawl
+Saipum-Tuirial dam slide 5
+Saipum-Tuirial dam- Mauchhar 
+road section
+24.37
+92.89
+Debris
+Slide
+2019
+22685
+MZ/AIZ/83D15/2020/6
+Mizoram
+Aizawl
+Saipum-Tuirial dam slide 6
+Saipum-Tuirial dam- Mauchhar 
+road section
+24.37
+92.89
+Debris
+Slide
+2019
+22686
+MZ/KOL/83D15/2020/14
+Mizoram
+Kolasib
+SW of N Chawnpui slide
+Serlui B TL to Saiphai road 
+section (SW tip of N Chawnpui 
+village)
+24.37
+92.78
+Earth
+Slide
+NA
+22687
+MZ/KOL/83D15/2020/36
+Mizoram
+Kolasib
+NEEPCO Guest House-Saipum village 
+road slide 1
+NEEPCO Guest House-Saipum 
+village road (NH 306A)
+24.37
+92.87
+Debris
+Slide
+2019
+22688
+MZ/KOL/83D15/2020/37
+Mizoram
+Kolasib
+NEEPCO Guest House-Saipum village 
+road slide 2
+NEEPCO Guest House-Saipum 
+village road (NH 306A)
+24.37
+92.86
+Debris
+Slide
+2019
+22689
+MZ/KOL/83D15/2020/38
+Mizoram
+Kolasib
+NEEPCO Guest House-Saipum village 
+road slide 3
+NEEPCO Guest House-Saipum 
+village road (NH 306A)
+24.37
+92.85
+Rock
+Slide
+2019
+22690
+MZ/KOL/83D15/2020/42
+Mizoram
+Kolasib
+Saipum-Saiphai section slide 4
+Saipum-Saiphai village road 
+section
+24.37
+92.81
+Debris
+Slide
+2019
+22691
+MZ/KLS/83D11/2020/5
+Mizoram
+Kolasib
+Phaisen slide
+Phaisen
+24.38
+92.68
+Debris
+Slide
+NA
+22692
+MZ/KOL/83D15/2020/43
+Mizoram
+Kolasib
+Saipum-Saiphai section slide 5
+Saipum-Saiphai village road 
+section
+24.38
+92.82
+Debris
+Slide
+2019
+22693
+MZ/KOL/83D15/2020/15
+Mizoram
+Kolasib
+S of Saiphai village slide
+Serlui B TL to Saiphai road 
+section (S of Saiphai village)
+24.39
+92.79
+Debris
+Slide
+2019
+22694
+MZ/KOL/83D15/2020/44
+Mizoram
+Kolasib
+South of  Saiphai slide
+South of  Saiphai village
+24.4
+92.8
+Debris
+Slide
+2019
+22695
+MZ/KOL/83D15/2020/45
+Mizoram
+Kolasib
+Saiphai village slide
+At Saiphai village
+24.41
+92.8
+Debris
+Slide
+NA
+22696
+MZ/KOL/83D15/2020/10
+Mizoram
+Kolasib
+Vairengte to Phainuam section slide
+Vairengte to Phainuam road 
+section
+24.45
+92.78
+Earth
+Slide
+2019
+22697
+MZ/KOL/83D15/2020/11
+Mizoram
+Kolasib
+SE of Vairengte slide
+1 km south east of Vairengte
+24.47
+92.76
+Rock
+Slide
+2019
+22698
+MZ/KOL/83D15/2020/12
+Mizoram
+Kolasib
+ Vairengte slide
+Vairengte to Phainuam road 
+section (Near Vairengte)
+24.48
+92.76
+Rock
+Slide
+2019
+22699
+MZ/KLS/83D14/2020/8
+Mizoram
+Kolasib
+Vairangte slide-1
+NH-306, Silchar-Kolasib road, 
+Vairangte
+24.5
+92.77
+Debris
+Slide
+NA
+22700
+MZ/KLS/83D14/2020/9
+Mizoram
+Kolasib
+Dholaikhal slide
+Dholaikhal, Vairengte
+24.51
+92.77
+Rock
+Fall
+NA

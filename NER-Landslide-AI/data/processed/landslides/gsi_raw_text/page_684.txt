@@ -1,0 +1,403 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27093
+TN/ANN/58F11/2016/23
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Palani
+10.266572
+77.535944
+Debris
+Slide
+NA
+27094
+TN/COI/58F03/2017/58
+Tamil Nadu
+Coimbatore
+ 
+Left bank of Manaliar
+10.267333
+77.280389
+Rock cum debris
+Slide
+NA
+27095
+TN/ANN/58F11/2016/7
+Tamil Nadu
+Dindigul
+ 
+Road from  Perumalmalai  to 
+Genguvarpatti
+10.268417
+77.558611
+Earth
+Slide
+NA
+27096
+TN/ANN/58F11/2016/8
+Tamil Nadu
+Dindigul
+ 
+Road from  Perumalmalai  to 
+Genguvarpatti
+10.269278
+77.554333
+Debris
+Slide
+NA
+27097
+TN/COI/58B15/2017/116
+Tamil Nadu
+Coimbatore
+ 
+Upasi
+10.269969
+76.967114
+Soil
+Slide
+NA
+27098
+TN/DIN/58F07/2017/21
+Tamil Nadu
+Dindigul
+ 
+Vilpatti
+10.269972
+77.4945
+Rock cum debris
+Fall
+NA
+27099
+TN/DIN/58F07/2017/9
+Tamil Nadu
+Dindigul
+ 
+Pallangi village to Adisarai
+10.270417
+77.451417
+Soil cum debris
+Slide
+NA
+27100
+TN/DIN/58F07/2017/22
+Tamil Nadu
+Dindigul
+ 
+Vilpatti
+10.270417
+77.495639
+Rock cum debris
+Fall
+NA
+27101
+TN/DIN/58F07/2017/3
+Tamil Nadu
+Dindigul
+ 
+Pumbarai to Kukkal road 4 km 
+east of Kukkal
+10.270444
+77.396361
+Soil cum debris
+Slide
+NA
+27102
+TN/COI/58B15/2017/101
+Tamil Nadu
+Coimbatore
+ 
+Pannimedu Tea Estate
+10.2718
+76.896231
+Soil
+Slide
+NA
+27103
+TN/DIN/58F07/2017/10
+Tamil Nadu
+Dindigul
+ 
+Pallangi village to Adisarai
+10.271972
+77.45325
+Soil cum debris
+Slide
+NA
+27104
+TN/DIN/58F07/2017/4
+Tamil Nadu
+Dindigul
+ 
+Pumparai to Anavattam road
+10.272111
+77.396389
+Soil cum debris
+Slide
+NA
+27105
+TN/COI/58B15/2017/70
+Tamil Nadu
+Coimbatore
+ 
+Road from Mudis to 
+Mukkottumudi Tea Estate
+10.272297
+76.9226
+Soil
+Slide
+NA
+27106
+TN/COI/58B15/2017/44
+Tamil Nadu
+Coimbatore
+ 
+Near Nirar Dam
+10.272486
+76.976197
+Soil
+Slide
+NA
+27107
+TN/DIN/58F07/2017/28
+Tamil Nadu
+Dindigul
+ 
+North of Vilpatti village
+10.2725
+77.498194
+Rock cum debris
+Fall
+NA
+27108
+TN/ANN/58F11/2016/6
+Tamil Nadu
+Dindigul
+ 
+Road from  Perumalmalai  to 
+Genguvarpatti
+10.272556
+77.560667
+Earth
+Slide
+NA
+27109
+TN/COI/58B15/2017/43
+Tamil Nadu
+Coimbatore
+ 
+2 km South West of Nirar Dam
+10.272675
+76.974933
+Soil
+Slide
+NA
+27110
+TN/ANN/58F11/2016/2
+Tamil Nadu
+Dindigul
+ 
+Road from  Kodaikanal to 
+Genguvarpatti
+10.27275
+77.572278
+Earth
+Slide
+NA
+27111
+TN/COI/58B15/2017/45
+Tamil Nadu
+Coimbatore
+ 
+Near Nirar Dam
+10.272758
+76.980692
+Debris
+Slide
+NA
+27112
+TN/DIN/58F07/2017/8
+Tamil Nadu
+Dindigul
+ 
+Pallangi village
+10.272861
+77.454472
+Soil cum debris
+Slide
+NA
+27113
+TN/ANN/58F11/2016/20
+Tamil Nadu
+Dindigul
+ 
+Road from Perumal Malai to 
+Palani, near pettuparai road 
+bifurcation
+10.273417
+77.533861
+Debris
+Slide
+NA
+27114
+TN/COI/58B15/2017/42
+Tamil Nadu
+Coimbatore
+ 
+Road from Singona Tea Estate 
+to Nirar Dam
+10.274317
+76.974889
+Soil
+Slide
+NA
+27115
+TN/DIN/58F07/2017/39
+Tamil Nadu
+Dindigul
+ 
+Kodaikanal
+10.274667
+77.395944
+Debris
+Slide
+NA
+27116
+TN/DIN/58F07/2017/40
+Tamil Nadu
+Dindigul
+ 
+Kodaikanal
+10.274778
+77.3935
+Debris
+Slide
+NA
+27117
+TN/ANN/58F11/2016/3
+Tamil Nadu
+Dindigul
+ 
+Road from  Kodaikanal to 
+Genguvarpatti
+10.274917
+77.567694
+Debris
+Slide
+NA
+27118
+TN/ANN/58F11/2016/1
+Tamil Nadu
+Dindigul
+ 
+Road from  Kodaikanal to 
+Genguvarpatti
+10.275
+77.56625
+Debris
+Slide
+NA
+27119
+TN/DIN/58F07/2017/5
+Tamil Nadu
+Dindigul
+ 
+Anavattam to Kukkal road
+10.275444
+77.395889
+Soil cum debris
+Slide
+NA
+27120
+TN/COI/58B15/2017/69
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78, H.P.B no. 
+38/40
+10.275511
+76.924528
+Debris
+Slide
+NA
+27121
+TN/ANN/58F11/2016/5
+Tamil Nadu
+Dindigul
+ 
+Road from  Kodaikanal to 
+Genguvarpatti
+10.275833
+77.55975
+Earth
+Slide
+NA
+27122
+TN/ANN/58F11/2016/24
+Tamil Nadu
+Dindigul
+ 
+South of Pettuparai village
+10.275972
+77.533528
+Debris
+Slide
+NA
+27123
+TN/DIN/58F07/2017/11
+Tamil Nadu
+Dindigul
+ 
+Pallangi village to Kombai
+10.277056
+77.449389
+Soil cum debris
+Slide
+NA
+27124
+TN/DIN/58F07/2017/19
+Tamil Nadu
+Dindigul
+ 
+Attuvampatti  to Kadalkudai 
+road
+10.277167
+77.471444
+Debris
+Slide
+NA
+27125
+TN/DIN/58F07/2017/20
+Tamil Nadu
+Dindigul
+ 
+Attuvampatti  to Kadalkudai 
+road
+10.277639
+77.467361
+Rock cum debris
+Slide
+NA
+27126
+TN/COI/58B15/2017/41
+Tamil Nadu
+Coimbatore
+ 
+Road from Singona Tea Estate 
+to Nirar Dam
+10.277736
+76.978353
+Soil
+Slide
+NA

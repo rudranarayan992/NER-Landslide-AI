@@ -1,0 +1,455 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15608
+KER/WYD/58A2/2018/150
+Kerala
+Wayanad
+Chenamala 1
+Thurkey bazar-Kaithakolly local 
+road
+11.60169444
+76.06908333
+Debris
+Slide
+09 August 2018
+15609
+KER/WYD/58A2/2018/151
+Kerala
+Wayanad
+Chenamala 2
+Thurkey bazar-Kaithakolly local 
+road
+11.60177778
+76.06994444
+Debris
+Slide
+09 August 2018
+15610
+KER/WYD/58A2/2018/152
+Kerala
+Wayanad
+Chenamala 3
+Anoth local road
+11.59652778
+76.02827325
+Debris
+Slide
+09 August 2018
+15611
+KER/WYD/58A2/2018/153
+Kerala
+Wayanad
+Thekumthara
+Pinangode-Thekumthara local 
+road
+11.62777778
+76.02786111
+Soil
+Slide
+09 August 2018
+15612
+KER/WYD/58A2/2018/154
+Kerala
+Wayanad
+Korattapadi
+Thekumthara-Korattapadi local 
+road
+11.64625
+76.03088889
+Soil
+Creep
+09 August 2018
+15613
+1
+Kerala
+Thiruvananthapuram
+Ponmudi
+6/22 Hair pin curve
+8.7437
+77.1226
+Debris
+Slide
+10th August 2018
+15614
+2
+Kerala
+Thiruvananthapuram
+Ponmudi
+8.7531
+77.1252
+Debris
+Slide
+10th August 2018
+15615
+3
+Kerala
+Thiruvananthapuram
+8.7557
+77.1248
+Debris
+Slide
+10th August 2018, 10.30pm
+15616
+4
+Kerala
+Kollam
+Chippanchira
+8.749
+77.0235
+Debris
+Slide
+10th August 2018 10.30pm
+15617
+5
+Kerala
+Kollam
+Aryankavu New Railway Station
+8.9555
+77.1333
+Debris
+Slide
+14th August 2018 10.30pm
+15618
+6
+Kerala
+Kollam
+Aryankavu
+8.9741
+77.1459
+Debris
+Slide
+14th August 2018 10.30pm
+15619
+7
+Kerala
+Kollam
+Aryankavu Old Railway Station
+8.982
+77.1529
+Debris
+Slide
+14th August 2018
+15620
+8
+Kerala
+Kollam
+Thenmala Railway Station
+8.9648
+77.08
+Debris
+Slide
+14th August 2018
+15621
+KRL/KZH/58A/3/14/2018/1
+Kerala
+Kozhikode
+Kakkadslide-1
+Kakkad
+11.318572
+76.111157
+Debris
+flow
+17th August 2018
+15622
+KRL/KZH/58A/3/14/2018/02
+Kerala
+Kozhikode
+Kakkad slide-2
+Kakkad
+11.31864
+76.112463
+Rock cum debris
+Slide
+17th August 2018
+15623
+KRL/KZH/58A/3/2018/03
+Kerala
+Kozhikode
+Kakkadslide-3
+Kakkad
+11.322878
+76.111882
+Rock cum debris
+Flow
+17th August 2018
+15624
+KRL/KZH/58C/14/2018/4
+Kerala
+Kozhikode
+Thalakkad slide
+Thalakkad
+11.331245
+76.100913
+Debris
+Slide
+16th August 2018
+15625
+KRL/KZH/49M/15/2018/5
+Kerala
+Kozhikode
+KannapunKundru slide-1
+KannapunKundru
+11.49753
+75.982558
+Rock cum debris flow Rotational
+15th August 2018
+15626
+KRL/KKD/49M/15/6
+Kerala
+Kozhikode
+Vallolikkal slide
+Koorotipara village
+11.4589
+76.063204
+Rock cum debris
+Flow
+15th August 2018
+15627
+KRL/KZH/49M/15/2018/7
+Kerala
+Kozhikode
+KannappanKundru slide-2
+KannappanKundru
+11.498281
+75.9842
+Rock cum Debris.
+flow
+17th August 2018
+15628
+KRL/KKD/58A/03/19/8
+Kerala
+Kozhikode
+Mundur slide
+Mundur
+11.4516
+76.0604
+Soil cum debris slide
+slide
+15th August 2018
+15629
+KRL/KZH/58C/14/2018/9
+Kerala
+Kozhikode
+Nellipoyal slide
+Nellipoyal
+11.4589
+76.063204
+Rock cum Debris.
+Debris flow
+12th August 2018
+15630
+KRL/KKD/58A/03/19/10
+Kerala
+Kozhikode
+Kadappanchal_1
+Kandappachal,Nellipoyal village 11.448076
+76.066732
+Debris
+slide
+15th August 2018
+15631
+KRL/KKD/58A/03/19/11
+Kerala
+Kozhikode
+Kadappanchal_2
+Kadappanchal
+11.447025
+76.064183
+Debris cum soil
+Flow
+15th August 2018
+15632
+KRL/KTM/58C/14/2018/12
+Kerala
+Kozhikode
+Mundur  slide
+Mundur
+11.4516
+76.0604
+Debris.
+flow
+12th August 2018
+15633
+KRL/KKD/58A/03/19/13
+Kerala
+Kozhikode
+Kallanpullu
+Poovaranthode
+11.392986
+76.077699
+rock cum debris
+Slide
+15th August 2018
+15634
+KRL/KOZ/58C/14/2018/14
+Kerala
+Kozhikode
+Kandappanchal
+Nellipoyal
+11.448076
+76.066732
+Debris.
+Slide
+12th August 2018
+15635
+KRL/KKD/58A/03/19/15
+Kerala
+Kozhikode
+Chulliyam_1
+Chulliyam(Tribal colony)
+11.3514
+76.0758
+Debris flow
+flow
+15th August 2018
+15636
+KRL/KKD/58A/03/19/16
+Kerala
+Kozhikode
+Panackachal_1
+Panackachal
+11.354191
+76.058962
+Rock cum debris.
+flow
+15th August 2018
+15637
+KRL/KKD/58A/03/19/17
+Kerala
+Kozhikode
+Panackachal_2
+Panackachal
+11.3524
+76.0583
+Debris flow
+flow
+15th August 2018
+15638
+KRL/KKD/58A/03/19/18
+Kerala
+Kozhikode
+Panackacahal_3
+Panackacahal
+11.35099
+76.05894
+Rock cum debris.
+flow
+15th August 2018
+15639
+KRL/KKD/49M/15/19/19
+Kerala
+Kozhikode
+Chidi slide
+Chidikuzhi
+11.516353
+76.909694
+Rock cum debris.
+slide
+15th August 2018
+15640
+KRL/KKD/49M/14/19/20
+Kerala
+Kozhikode
+KakkaKam to kakkayam Dam road 
+slide_1
+Bappootikannu
+11.55746
+76.912113
+Debris.
+slide
+15th August 2018
+15641
+KRL/KKD/49M/14/19/21
+Kerala
+Kozhikode
+KakkaKam to kakkayam Dam road 
+slide_2
+Kakkayam to Kakkayam Dam 
+PWD road
+11.55711
+75.913033
+Debris
+slide
+15th August 2018
+15642
+KRL/KKD/49M/14/19/22
+Kerala
+Kozhikode
+KakkaKam to kkayam Dam road 
+slide_3
+KakkaKam to kkayam Dam PWD 
+road slide
+11.56103
+75.91486
+Rock cum Debris.
+slide
+15th August 2018
+15643
+KRL/KKD/49M/14/19/23
+Kerala
+Kozhikode
+KakkaKam to kkayam Dam road 
+slide_4
+KakkaKam to kkayam Dam PWD 
+road
+11.557
+75.9132
+Debris.
+Slide
+15th August 2018
+15644
+KRL/KKD/49M/14/2019/24
+Kerala
+Kozhikode
+KakkaKam to kkayam Dam road 
+slide_5
+KakkaKam to kkayam Dam PWD 
+road
+11.5495
+75.9143
+Rock cum Debris
+Slide
+15th August 2018
+15645
+KRL/KKD/58A/3/2019/25
+Kerala
+Kozhikode
+Medapara_1
+Medapara
+11.381632
+76.083944
+Debris.
+Flow
+15th August 2018
+15646
+KRL/KKD/58A/3/2018/26
+Kerala
+Kozhikode
+Anaodu slide
+Koodaranhi village
+11.3400129
+76.071157
+Debris
+Flow
+15th August 2018
+15647
+KRL/KKD/58A/03/19/27
+Kerala
+Kozhikode
+Kadavu slide
+Manjakadavu
+11.352108
+76.077271
+Debris slide
+slide
+15th August 2018

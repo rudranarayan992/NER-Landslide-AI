@@ -1,0 +1,561 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+5271
+HP/SHI/53E11/2016/100
+Himachal Pradesh
+Shimla
+ 
+Nogli, NH-05
+31.406472
+77.630167
+Debris
+Slide
+NA
+5272
+HP/SHI/53E15/2016/17
+Himachal Pradesh
+Shimla
+ 
+Punar - Pat foot track
+31.4068
+77.7776
+Rock
+Slide
+NA
+5273
+HP/SHI/53E11/2016/6
+Himachal Pradesh
+Shimla
+ 
+Nogli, NH05
+31.406806
+77.63
+Debris
+Slide
+1999
+5274
+HP/BIL/53A07/2018/4
+Himachal Pradesh
+Bilaspur
+ 
+Nangal-Naina Devi road
+31.406964
+76.423814
+Debris
+Slide
+NA
+5275
+HP/SHI/53E15/2016/91
+Himachal Pradesh
+Shimla
+ 
+Near Thala
+31.407
+77.7567
+Debris
+Slide
+NA
+5276
+HP/SHI/53E15/2016/3
+Himachal Pradesh
+Shimla
+ 
+Pat village Punar - Pat foot track 31.4071
+77.8122
+Rock
+Flow
+NA
+5277
+HP/SHI/53E15/2016/12
+Himachal Pradesh
+Shimla
+ 
+Punar - Jogni road
+31.4077
+77.7667
+Rock
+Slide
+NA
+5278
+HP/SHI/53E15/2016/123
+Himachal Pradesh
+Shimla
+ 
+Jogni - Munish  road
+31.4083
+77.7602
+Debris
+Slide
+NA
+5279
+HP/SHI/53E15/2016/53
+Himachal Pradesh
+Shimla
+ 
+Pat - Punar track
+31.4086
+77.8032
+Debris
+Slide
+NA
+5280
+HP/BIL/53A11/2018/25
+Himachal Pradesh
+Bilaspur
+ 
+Sunani
+31.408903
+76.677604
+Soil
+Slide
+NA
+5281
+HP/BIL/53A15/2015/283
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.408917
+76.774944
+Rock
+Slide
+2015
+5282
+HP/BIL/53A15/2015/284
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.408942
+76.771808
+Rock
+Slide
+2015
+5283
+HP/SHI/53E15/2016/118
+Himachal Pradesh
+Shimla
+ 
+Near Munish - Jogni road
+31.4091
+77.7618
+Rock
+Slide
+NA
+5284
+HP/SHI/53E11/2016/13
+Himachal Pradesh
+Shimla
+ 
+Shatal, MDR-28
+31.409111
+77.626
+Rock
+Slide
+NA
+5285
+HP/BIL/53A11/2018/6
+Himachal Pradesh
+Bilaspur
+ 
+Berthin-Suhani-Bhager road
+31.40912
+76.67253
+Debris
+Slide
+NA
+5286
+HP/MAN/53A15/2015/185
+Himachal Pradesh
+Mandi
+ 
+ 
+31.409207
+76.957634
+Debris
+Slide
+NA
+5287
+HP/MAN/53A15/2015/186
+Himachal Pradesh
+Mandi
+ 
+ 
+31.40941
+76.957562
+Debris
+Slide
+NA
+5288
+HP/BIL/53A07/2018/14
+Himachal Pradesh
+Bilaspur
+ 
+Near Bhakra dam
+31.409432
+76.43598
+Rock cum debris
+Slide
+NA
+5289
+HP/BIL/53A11/2018/11
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.40978
+76.67352
+Rock
+Slide
+NA
+5290
+HP/BIL/53A11/2018/37
+Himachal Pradesh
+Bilaspur
+ 
+Near Bridge, Sunhani
+31.40978
+76.67352
+Rock
+Slide
+NA
+5291
+HP/BIL/53A07/2018/7
+Himachal Pradesh
+Bilaspur
+ 
+Nangal-Naina Devi road
+31.409952
+76.418826
+Debris
+Slide
+NA
+5292
+HP/SHI/53E15/2016/24
+Himachal Pradesh
+Shimla
+ 
+Near Munish Link road
+31.41
+77.7632
+Debris
+Slide
+NA
+5293
+HP/BIL/53A07/2018/22
+Himachal Pradesh
+Bilaspur
+ 
+Nangal-Naina Devi road
+31.410712
+76.444025
+Rock
+Slide
+NA
+5294
+HP/SHI/53E15/2016/55
+Himachal Pradesh
+Shimla
+ 
+Pat - Punar track
+31.4109
+77.816
+Debris
+Slide
+NA
+5295
+HP/SHI/53E15/2016/25
+Himachal Pradesh
+Shimla
+ 
+Near Munish Link road
+31.411
+77.7642
+Debris
+Slide
+NA
+5296
+HP/SHI/53E11/2016/109
+Himachal Pradesh
+Shimla
+ 
+Kalna, NH-05
+31.411444
+77.626
+Debris
+Slide
+NA
+5297
+HP/MAN/53E03/2015/271
+Himachal Pradesh
+Mandi
+ 
+ 
+31.411472
+77.203778
+Rock
+Slide
+2015
+5298
+HP/BIL/53A07/2018/8
+Himachal Pradesh
+Bilaspur
+ 
+Chukath
+31.412485
+76.427845
+Rock
+Slide
+NA
+5299
+HP/SHI/53E15/2016/125
+Himachal Pradesh
+Shimla
+ 
+Near Munish Link road
+31.4125
+77.7637
+Debris
+Slide
+NA
+5300
+HP/BIL/53A15/2015/32
+Himachal Pradesh
+Mandi
+ 
+ 
+31.412708
+76.871778
+Debris
+Slide
+NA
+5301
+HP/BIL/53A07/2018/1
+Himachal Pradesh
+Bilaspur
+ 
+Nangal-Naina Devi road
+31.412841
+76.412893
+Debris
+Slide
+NA
+5302
+HP/MAN/53E03/2015/261
+Himachal Pradesh
+Mandi
+ 
+ 
+31.413278
+77.109194
+Debris
+Slide
+NA
+5303
+HP/SHI/53E15/2016/128
+Himachal Pradesh
+Shimla
+ 
+Near Munish Link road
+31.4133
+77.766
+Rock
+Slide
+NA
+5304
+HP/BIL/53A15/2015/109
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.413389
+76.789083
+Debris
+Slide
+2015
+5305
+HP/MAN/53E03/2015/259
+Himachal Pradesh
+Mandi
+ 
+ 
+31.413472
+77.109278
+Rock
+Slide
+NA
+5306
+HP/BIL/53A15/2015/280
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.413667
+76.793528
+Rock
+Fall
+2015
+5307
+HP/BIL/53A15/2015/281
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.413833
+76.793722
+Rock
+Fall
+2015
+5308
+HP/SHI/53E11/2016/110
+Himachal Pradesh
+Shimla
+ 
+Shatal, MDR-28
+31.414361
+77.623056
+Rock
+Creep
+NA
+5309
+HP/SHI/53E15/2016/26
+Himachal Pradesh
+Shimla
+ 
+Near Munish Link road
+31.4144
+77.7642
+Debris
+Slide
+NA
+5310
+HP/SHI/53E15/2016/130
+Himachal Pradesh
+Shimla
+ 
+Near Munish Link road
+31.4144
+77.7674
+Debris
+Fall
+NA
+5311
+HP/SHI/53E15/2016/30
+Himachal Pradesh
+Shimla
+ 
+Near Munish Link road
+31.4146
+77.7675
+Debris
+Slide
+NA
+5312
+HP/SHI/53E15/2016/117
+Himachal Pradesh
+Shimla
+ 
+Near Munish - Jogni road
+31.415
+77.7682
+Rock
+Slide
+NA
+5313
+HP/SHI/53E15/2016/27
+Himachal Pradesh
+Shimla
+ 
+Near Munish Link road
+31.4151
+77.7649
+Debris
+Slide
+NA
+5314
+HP/SHI/53E15/2016/28
+Himachal Pradesh
+Shimla
+ 
+Near Munish Link road
+31.4151
+77.7655
+Debris
+Slide
+NA
+5315
+HP/MAN/53E03/2015/348
+Himachal Pradesh
+Mandi
+ 
+ 
+31.415139
+77.041278
+Rock
+Slide
+NA
+5316
+HP/MAN/53E03/2015/355
+Himachal Pradesh
+Mandi
+ 
+ 
+31.415139
+77.041278
+Debris
+Slide
+NA
+5317
+HP/SHI/53E15/2016/29
+Himachal Pradesh
+Shimla
+ 
+Near Munish Link road
+31.4153
+77.7657
+Debris
+Slide
+NA
+5318
+HP/MAN/53E03/2015/356
+Himachal Pradesh
+Mandi
+ 
+ 
+31.415639
+77.042194
+Rock
+Slide
+NA
+5319
+HP/BIL/53A15/2015/82
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.415668
+76.768577
+Debris
+Slide
+NA
+5320
+HP/SHI/53E15/2016/131
+Himachal Pradesh
+Shimla
+ 
+Near Munish Link road
+31.4159
+77.7675
+Debris
+Fall
+NA

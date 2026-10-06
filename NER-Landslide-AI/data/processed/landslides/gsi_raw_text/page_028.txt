@@ -1,0 +1,442 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+862
+AR/LON/83N05/2022/004
+Arunachal Pradesh
+Longding
+1.3 km E of Longding
+Longding-Khonsa road
+26.881881
+95.333027
+Debris
+Slide
+NA
+863
+AR/TIR/83N09/2022/019
+Arunachal Pradesh
+Tirap
+1.7 km SW of Lazu
+Khonsa-Lazu road
+26.885896
+95.562013
+Debris
+Slide
+NA
+864
+AR/TIR/83N09/2022/018
+Arunachal Pradesh
+Tirap
+3.5 km N of Sinnu
+Khonsa-Lazu road
+26.897502
+95.542612
+Rock
+Fall
+NA
+865
+AR/TIR/83N09/2022/017
+Arunachal Pradesh
+Tirap
+3.7 km SE of Sanliam
+Khonsa-Lazu road
+26.904294
+95.549313
+Debris
+Slide
+NA
+866
+AR/LON/83N05/2022/006
+Arunachal Pradesh
+Longding
+2 km W of Tissa
+Longding-Khonsa road
+26.904445
+95.360399
+Debris
+Slide
+NA
+867
+AR/TIR/83N09/2022/016
+Arunachal Pradesh
+Tirap
+1.5 km SE of Sanliam
+Khonsa-Lazu road
+26.919823
+95.545421
+Debris
+Slide
+NA
+868
+AR/LON/83N05/2022/007
+Arunachal Pradesh
+Longding
+2 km NE of Tissa
+Longding-Khonsa road
+26.925697
+95.371448
+Debris
+Slide
+NA
+869
+AR/TIR/83N05/2022/009
+Arunachal Pradesh
+Tirap
+4 km SW of Pangchau
+Longding-Khonsa road
+26.93529
+95.37696
+Debris
+Slide
+NA
+870
+AR/TIR/83N05/2022/008
+Arunachal Pradesh
+Tirap
+5 km SW of Pangchau
+Longding-Khonsa road
+26.936043
+95.370996
+Debris
+Slide
+NA
+871
+AR/TIR/83N09/2022/015
+Arunachal Pradesh
+Tirap
+700m SE of Thinsa
+Khonsa-Lazu road
+26.939232
+95.520994
+Debris
+Slide
+NA
+872
+AR/TIR/83N05/2022/010
+Arunachal Pradesh
+Tirap
+1.5 SW of Pangchau
+Longding-Khonsa road
+26.943433
+95.385986
+Debris
+Slide
+NA
+873
+AR/TIR/83N09/2022/014
+Arunachal Pradesh
+Tirap
+1.7 SE of Keti
+Khonsa-Lazu road
+26.952173
+95.519402
+Debris
+Slide
+NA
+874
+AR/TIR/83N05/2022/011
+Arunachal Pradesh
+Tirap
+300 m SE of Longo
+Longding-Khonsa road
+26.976731
+95.423103
+Debris
+Slide
+NA
+875
+AR/TIR/83N09/2022/020
+Arunachal Pradesh
+Tirap
+500 m SE of Khonsa
+Khonsa-Changlang road, NH-
+215
+26.984318
+95.510469
+Soil
+Slide
+NA
+876
+AR/TIR/83N05/2022/013
+Arunachal Pradesh
+Tirap
+500 m E of Lapnan
+Longding-Khonsa road
+26.994618
+95.486818
+Debris
+Slide
+NA
+877
+AR/TIR/83N05/2022/012
+Arunachal Pradesh
+Tirap
+1 Km W of Lapnan
+Longding-Khonsa road
+26.994942
+95.474591
+Debris
+Slide
+NA
+878
+ARN/WK/83A12/2016/01
+Arunachal Pradesh
+West Kameng
+Bhalukpong Circuit House slide
+NE of Bhalukpong Helipad
+27.018342
+92.6356
+Debris
+Slide
+1 July 2016 at 12:20 hrs.
+879
+AR/WKG/83A12/2021/051
+Arunachal Pradesh
+West Kameng
+Bhalukpong Cicuit House Slide
+Bhalukpong Circuit House
+27.018583
+92.635667
+Soil
+Slide
+NA
+880
+AR/TIR/83M12/2022/021
+Arunachal Pradesh
+Tirap
+3 km E of Khela
+Khonsa-Changlang road, NH-
+215
+27.019379
+95.555899
+Debris
+Slide
+NA
+881
+AR/PP/83E/12/2021/01
+Arunachal Pradesh
+Papum Pare
+N/A
+N/A
+27.03106
+93.62292
+Debris/unconsolidat
+ed material
+Debris slide 
+and subsidence
+2020
+882
+AR/TIR/83M12/2022/022
+Arunachal Pradesh
+Tirap
+Lamsa slide
+Khonsa-Changlang road, NH-
+215
+27.032124
+95.562208
+Soil
+Slide
+NA
+883
+AR/TIR/83M12/2022/024
+Arunachal Pradesh
+Tirap
+1.5 km NE of Lamsa
+Khonsa-Changlang road, NH-
+215
+27.035069
+95.56864
+Debris
+Slide
+NA
+884
+AP/WK/83E12/2008/A-9
+Arunachal Pradesh
+West Kameng
+Slide at Tippi
+ 
+27.035278
+92.610556
+Rock cum Debris
+Slide
+2008
+885
+AR/WKG/83A12/2021/050
+Arunachal Pradesh
+West Kameng
+Tippi Slide
+NH 13/ Tippi
+27.036111
+92.603333
+Debris
+Flow
+NA
+886
+AR/TIR/83M12/2022/023
+Arunachal Pradesh
+Tirap
+500 m NE of Lamsa
+Khonsa-Changlang road, NH-
+215
+27.036339
+95.564677
+Debris
+Slide
+NA
+887
+AR/CHNG/83M12/2022/053
+Arunachal Pradesh
+Changlang
+500 m N of Longkey
+Changlang-Khimioyng road
+27.039914
+95.73282
+Debris
+Slide
+NA
+888
+AR/CHNG/83M12/2022/052
+Arunachal Pradesh
+Changlang
+1.5 km N of Longkey
+Changlang-Khimioyng road
+27.043883
+95.72822
+Debris
+Slide
+NA
+889
+AR/TIR/83M12/2022/025
+Arunachal Pradesh
+Tirap
+4.7 km S of Natun Kheti
+Khonsa-Changlang road, NH-
+215
+27.046252
+95.592084
+Debris
+Slide
+NA
+890
+AR/CHNG/83M12/2022/051
+Arunachal Pradesh
+Changlang
+2.7km SE of Yanman
+Changlang-Khimioyng road
+27.047848
+95.729657
+Debris
+Slide
+NA
+891
+AR/CHNG/83M12/2022/050
+Arunachal Pradesh
+Changlang
+Yanman slide
+Changlang-Khimioyng road
+27.057191
+95.716883
+Debris
+Slide
+NA
+892
+AR/CHNG/83M12/2022/049
+Arunachal Pradesh
+Changlang
+500m NE of Yanman
+Changlang-Khimioyng road
+27.0611
+95.721024
+Debris
+Slide
+NA
+893
+AR/TIR/83M12/2022/026
+Arunachal Pradesh
+Tirap
+200 m S of Katang
+Khonsa-Changlang road, NH-
+215
+27.061845
+95.614212
+Debris
+Slide
+NA
+894
+AR/WKA/83A12/2014/23
+Arunachal Pradesh
+West Kameng
+ 
+NH-13
+27.06658
+92.59572
+Debris
+Slide
+2013
+895
+AR/CHNG/83M12/2022/048
+Arunachal Pradesh
+Changlang
+2km NE of Yanman
+Changlang-Khimioyng road
+27.068358
+95.725306
+Debris
+Slide
+NA
+896
+AR/TIR/83M12/2022/027
+Arunachal Pradesh
+Tirap
+400m S of Lanwang
+Khonsa-Changlang road, NH-
+215
+27.072206
+95.634021
+Rock
+Slide
+NA
+897
+AR/TIR/83M12/2022/042
+Arunachal Pradesh
+Tirap
+1.5 km SE of Lanwang
+Khonsa-Changlang road, NH-
+215
+27.074431
+95.638118
+Debris
+Slide
+NA
+898
+AP/PP/83E12/2008/A-1
+Arunachal Pradesh
+Papum Pare
+Slide at Vivekvihar
+ 
+27.078472
+93.605639
+NA
+Slide
+2008
+899
+AR/TIR/83M12/2022/041
+Arunachal Pradesh
+Tirap
+1 km NE of Lanwang
+Khonsa-Changlang road, NH-
+215
+27.079176
+95.638023
+Rock
+Slide
+NA

@@ -1,0 +1,385 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14687
+338
+Kerala
+Idukki
+Odakkacity
+Koompanpara - Odakacity road 10.005377
+76.992508
+Debris
+Flows
+8th August, 2018
+14688
+339
+Kerala
+Idukki
+Odakkacity
+Koompanpara - Mankadavu 
+road
+10.002694
+76.998237
+Debris
+Slide
+15th August, 2018
+14689
+340
+Kerala
+Idukki
+Maankadavu
+Koompanpara - Mankadavu 
+road
+10.00267
+76.999222
+Debris
+Slide
+13th August, 2018
+14690
+341
+Kerala
+Idukki
+Maankadavu
+Anaviratty - Mankadavu road
+10.000774
+77.007892
+Debris
+Slide
+15th August, 2018
+14691
+342
+Kerala
+Idukki
+Maankadavu
+Anaviratty - Mankadavu road
+10.00053
+77.00944
+Debris
+Slide
+10th August, 2018
+14692
+343
+Kerala
+Idukki
+Maankadavu
+Anaviratty - Mankadavu road
+10.0018
+77.011628
+Debris
+Slide
+10th August, 2018
+14693
+344
+Kerala
+Idukki
+Kallarkutty
+Adimali - Idukki highway
+9.979597
+76.999947
+Debris
+Flows
+9th August, 2018
+14694
+345
+Kerala
+Idukki
+Kallarkutty
+Adimali - Idukki highway
+9.97984
+77.00014
+Debris
+Slide
+7th August, 2018
+14695
+346
+Kerala
+Idukki
+Kallarkutty
+Adimali - Idukki highway
+9.980202
+77.000142
+Debris
+Flows
+8th August, 2018
+14696
+347
+Kerala
+Idukki
+Kallarkutty
+Adimali - Idukki highway
+9.981403
+76.998763
+Debris
+Slide
+14th August, 2018
+14697
+348
+Kerala
+Idukki
+Naikkunnu Kavala
+Adimali - Idukki highway
+9.983784
+76.998194
+Soil
+Slide
+14th August, 2018
+14698
+349
+Kerala
+Idukki
+Naikkunnu
+Kallarkutty - Naikunnu - 
+Koompanapara road
+9.990991
+76.99481
+Soil
+Slide
+16th August, 2018
+14699
+350
+Kerala
+Idukki
+Naikkunnu
+Naikunnu - Irunoorekar road
+9.993229
+76.990911
+Debris
+Slide
+16th August, 2018
+14700
+351
+Kerala
+Idukki
+Naikkunnu
+Naikunnu - 1000 acre road
+9.992667
+76.986522
+Debris
+Flows
+16th August, 2018
+14701
+352
+Kerala
+Idukki
+Kathipara
+Adimali - Idukki highway
+9.981009
+76.993645
+Soil
+Slide
+15th August, 2018
+14702
+353
+Kerala
+Idukki
+Kathipara
+Adimali - Idukki highway
+9.982213
+76.99182
+Debris
+Slide
+15th August, 2018
+14703
+354
+Kerala
+Idukki
+Kathipara
+Adimali - Idukki highway
+9.985087
+76.99036
+Debris
+Slide
+15th August, 2018
+14704
+355
+Kerala
+Idukki
+Kathipara
+Adimali - Idukki highway
+9.985506
+76.989806
+Soil
+Slide
+15th August, 2018
+14705
+356
+Kerala
+Idukki
+Viyyat Power Ltd., Iruttukanam
+Adimali - Idukki highway
+10.011229
+77.008421
+Debris
+Slide
+9th August, 2018
+14706
+357
+Kerala
+Idukki
+Viyyat Power Ltd., Iruttukanam
+Viyyat Power Ltd., Iruttukanam 
+road
+10.011209
+77.00884
+Debris
+Slide
+9th August, 2018
+14707
+358
+Kerala
+Idukki
+Selliampara
+Selliampara - Thottapura road
+9.993815
+77.01363
+Debris
+Slide
+14th August, 2018
+14708
+359
+Kerala
+Idukki
+Selliampara
+Selliampara - Thottapura road
+9.992094
+77.012662
+Debris
+Slide
+10th August, 2018
+14709
+360
+Kerala
+Idukki
+Near SH Convent Kallarkutty
+Kallarkutty SH convent - LP 
+school road
+9.983732
+77.005334
+Debris
+Slide
+15th August, 2018
+14710
+361
+Kerala
+Idukki
+Eenchathottipadi
+Selliampara - Kuthupara 
+unmettalled road
+9.999279
+77.026294
+Debris
+Slide
+17th August, 2018
+14711
+362
+Kerala
+Idukki
+Poothalanirappu
+Poothilanirappu - Pacholippadi 
+road
+9.989474
+77.024464
+Debris
+Flows
+17th August, 2018
+14712
+363
+Kerala
+Idukki
+Selliampara
+Selliampara - Kuthupara road
+9.996097
+77.02497
+Debris
+Slide
+15th August, 2018
+14713
+364
+Kerala
+Idukki
+Selliampara
+Selliampara - Kuthupara road
+9.995845
+77.024741
+Debris
+Slide
+15th August, 2018
+14714
+365
+Kerala
+Idukki
+Thottapura
+Adimali - Idukki highway
+9.985976
+77.007938
+Debris
+Slide
+15th August, 2018
+14715
+366
+Kerala
+Idukki
+Thottapura
+Kallarkuty - Rajakkad road
+9.986016
+77.007309
+Debris
+Slide
+15th August, 2018
+14716
+367
+Kerala
+Idukki
+1000 acre
+1000 acre - South Kathipara 
+road
+9.984595
+76.984941
+Debris
+Flows
+15th August, 2018
+14717
+368
+Kerala
+Idukki
+1000 acre
+1001 acre - South Kathipara 
+road
+9.981667
+76.988333
+Debris
+Slide
+15th August, 2018
+14718
+369
+Kerala
+Idukki
+1000 acre
+1002 acre - South Kathipara 
+road
+9.981944
+76.988889
+Debris
+Slide
+15th August, 2018
+14719
+370
+Kerala
+Idukki
+South Kathipara
+South Kathipara - Kaithachal 
+road
+9.979167
+76.986111
+Debris
+Slide
+16th August, 2018

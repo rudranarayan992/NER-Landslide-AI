@@ -1,0 +1,288 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+24118
+MIZ/LUN/84A16/2025/172
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Mualthuam N to Saichhoh
+23.08373
+92.757679
+Earth
+Slide
+September 2025
+24119
+MIZ/LUN/84A16/2025/173
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Near Horticulture Centre of 
+Excellence Saichhoh
+23.082149
+92.758285
+Earth
+Slide
+August 2025
+24120
+MIZ/LUN/84A16/2025/175
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Saichhoh
+23.074255
+92.76222
+Debris
+Slide
+01 June 2025
+24121
+MIZ/LUN/84A16/2025/176
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Saichhoh to Haulawng
+23.07006
+92.764514
+Debris
+Slide
+Septemebr 2025
+24122
+MIZ/LUN/84A16/2025/177
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Saichhoh to Haulawng
+23.069585
+92.765797
+Debris
+Slide
+31 May 2025
+24123
+MIZ/LUN/84A16/2025/178
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Saichhoh to Haulawng
+23.067473
+92.767201
+Earth
+Slide
+30 May 2025
+24124
+MIZ/LUN/84A16/2025/179
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Saichhoh to Haulawng
+23.065772
+92.767979
+Debris
+Slide
+July 2024
+24125
+MIZ/LUN/84A16/2025/180
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Saichhoh to Haulawng
+23.06533
+92.768329
+Debris
+Slide
+13 Septemebr 2025
+24126
+MIZ/LUN/84A16/2025/181
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Saichhoh to Haulawng
+23.063838
+92.769004
+Debris
+Slide
+15 June 2025
+24127
+MIZ/LUN/84A16/2025/182
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Saichhoh to Haulawng
+23.061745
+92.770105
+Debris
+Slide
+30 May 2025
+24128
+MIZ/LUN/84A16/2025/183
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Saichhoh to Haulawng
+23.059168
+92.771186
+Debris
+Slide
+NA
+24129
+MIZ/LUN/84A16/2025/186
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Haulawng
+23.056424
+92.772983
+Rock
+Slide
+June 2025
+24130
+MIZ/LUN/84A16/2025/187
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Haulawng
+23.054573
+92.772578
+Debris
+Slide
+July 2024
+24131
+MIZ/LUN/84A16/2025/188
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Haulawng
+23.053698
+92.772504
+Debris
+Slide
+NA
+24132
+MIZ/LUN/84A16/2025/189
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Haulawng
+23.050965
+92.772524
+Debris
+Slide
+July 2025
+24133
+MIZ/LUN/84A16/2025/190
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Haulawng
+23.047367
+92.772849
+Debris
+Slide
+June 2025
+24134
+MIZ/LUN/84A16/2025/191
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Haulawng
+23.046442
+92.772974
+Debris
+Slide
+September 2025
+24135
+MIZ/LUN/84A16/2025/192
+Mizoram
+Lunglei
+Haulawng Forest Veng
+23.045557
+92.772557
+Debris
+Slide
+July 2024
+24136
+MIZ/LUN/84A16/2025/193
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Haulawng
+23.046939
+92.772748
+Debris
+Slide and flow 
+along nala
+May 2024
+24137
+MIZ/LUN/84A16/2025/194
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+outside Haulawng
+23.044434
+92.772583
+Debris
+Slide
+June 2025
+24138
+MIZ/LUN/84A16/2025/195
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+outside Haulawng
+23.04345
+92.772408
+Debris
+Slide
+Septemebr 2025
+24139
+MIZ/LUN/84A16/2025/196
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+outside Haulawng
+23.043269
+92.77264
+Debris
+Slide
+NA
+24140
+MIZ/LUN/84A16/2025/197
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+outside Haulawng
+23.040669
+92.772823
+Debris
+Slide
+July 2024
+24141
+MIZ/LUN/84A16/2025/198
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+outside Haulawng
+23.040051
+92.773327
+Debris
+Slide
+June 2025
+24142
+MIZ/LUN/84A16/2025/199
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+outside Haulawng
+23.038879
+92.773703
+Debris
+Slide
+June 2025

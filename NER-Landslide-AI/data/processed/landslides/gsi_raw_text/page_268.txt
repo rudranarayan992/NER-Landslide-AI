@@ -1,0 +1,420 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11626
+KA/CHI/48O12/2017/14
+Karnataka
+Chikmagalur
+MudigereTattakola road section
+1.1km from Mudigere
+13.13935
+75.636272
+Debris
+Slide
+NA
+11627
+KA/CHI/48O12/2017/13
+Karnataka
+Chikmagalur
+MudigereTattakola road section, 
+125m from Slide no. 12
+2.3km from Mudigere
+13.146917
+75.631236
+Debris
+Slide
+NA
+11628
+KA/CHI/48O12/2017/12
+Karnataka
+Chikmagalur
+MudigereTattakola road section, 50m 
+from Slide no. 11
+2.4km from Mudigere
+13.148333
+75.630464
+Debris
+Slide
+NA
+11629
+KA/CHI/48O12/2017/10
+Karnataka
+Chikmagalur
+MudigereTattakola road section
+87m from Slide no. 09
+13.148653
+75.630356
+Debris
+Slide
+NA
+11630
+KA/CHI/48O12/2017/9
+Karnataka
+Chikmagalur
+MudigereTattakola road section
+2.5km from Mudigere
+13.149242
+75.629869
+Debris
+Slide
+NA
+11631
+KA/CHI/48O12/2017/11
+Karnataka
+Chikmagalur
+MudigereTattakola road section, 40m 
+from Slide no. 10
+2.5km from Mudigere
+13.149242
+75.629869
+Debris
+Slide
+NA
+11632
+KA/CHI/48O12/2017/5
+Karnataka
+Chikmagalur
+Naduvina Madakal village
+1.7km from Kannapura village 
+on KannapuraMudigere road
+13.156464
+75.681725
+Debris
+Slide
+NA
+11633
+KA/CHI/48O12/2017/4
+Karnataka
+Chikmagalur
+Kannapura village
+1km from Kannapura village on 
+KannapuraMudigere road
+13.157842
+75.683764
+Debris
+Slide
+NA
+11634
+KA/CHI/48O12/2017/3
+Karnataka
+Chikmagalur
+Kannapura village
+1km from Kannapura village on 
+KannapuraMudigere road
+13.157858
+75.687461
+Debris
+Slide
+NA
+11635
+KA/CHI/48O12/2017/31
+Karnataka
+Chikmagalur
+Horatti village area
+Horatti village area
+13.158122
+75.525186
+Debris
+Slide
+NA
+11636
+KA/CHI/48O08/2017/98
+Karnataka
+Chikmagalur
+North East of Maidadi
+Marasanige  Sunkasale
+13.165048
+75.410493
+Debris
+Subsidence
+NA
+11637
+KA/CHI/48O08/2017/97
+Karnataka
+Chikmagalur
+North East of Maidadi
+Marasanige  Sunkasale
+13.165128
+75.409349
+Debris
+Slide
+NA
+11638
+KA/CHI/48O08/2017/96
+Karnataka
+Chikmagalur
+North of Maidadi
+Marasanige  Sunkasale
+13.165612
+75.408087
+Debris
+Slide
+NA
+11639
+KA/CHI/48O08/2017/12
+Karnataka
+Chikmagalur
+North West of Kelagur
+Kalasa  Kotighere (SH  106)
+13.167662
+75.451962
+Debris
+Slide
+NA
+11640
+KA/CHI/48O12/2017/30
+Karnataka
+Chikmagalur
+Mudigere towards chikmagalur on 
+SH64
+5 km from Mudigere towards 
+chikmagalur on SH64
+13.170225
+75.651144
+Debris
+Slide
+NA
+11641
+KA/CHI/48O08/2017/94
+Karnataka
+Chikmagalur
+South of Galigandi
+Marasanige  Samse
+13.183087
+75.365963
+Debris
+Slide
+NA
+11642
+KA/CHI/48O08/2017/93
+Karnataka
+Chikmagalur
+South of Galigandi
+Marasanige  Samse
+13.183209
+75.365925
+Rock
+Fall
+NA
+11643
+KA/CHI/48O08/2017/95
+Karnataka
+Chikmagalur
+South West of Galigandi
+Marasanige  Samse
+13.184673
+75.356275
+Debris
+Slide
+NA
+11644
+KA/CHI/48O08/2017/15
+Karnataka
+Chikmagalur
+West of Samse
+Kalasa  Kudremukh (SH  66)
+13.189503
+75.309979
+Debris
+Slide
+NA
+11645
+KA/CHI/48O08/2017/11
+Karnataka
+Chikmagalur
+South East of Hirebail
+Kalasa  Kotighere (SH  106)
+13.191528
+75.419431
+Debris
+Slide
+NA
+11646
+KA/CHI/48O12/2017/20
+Karnataka
+Chikmagalur
+ChandugoduKanegadde village area
+30 from Slide no.19, 
+ChandugoduKanegadde road 
+section
+13.194086
+75.56865
+Debris
+Slide
+NA
+11647
+KA/CHI/48O08/2017/16
+Karnataka
+Chikmagalur
+West of Samse
+Kalasa  Kudremukh (SH  66)
+13.194101
+75.295056
+Debris
+Slide
+NA
+11648
+KA/CHI/48O08/2017/10
+Karnataka
+Chikmagalur
+South of Hirebail
+Kalasa  Kotighere (SH  106)
+13.196686
+75.409557
+Debris
+Slide
+NA
+11649
+KA/CHI/48O08/2017/7
+Karnataka
+Chikmagalur
+West of Hirebail
+Kalasa  Kotighere (SH  106)
+13.19676
+75.397879
+Debris
+Slide
+NA
+11650
+KA/CHI/48O12/2017/29
+Karnataka
+Chikmagalur
+Mudigere village area on SH64
+10 km from Mudigere towards 
+chikmagalur on SH6
+13.196778
+75.668722
+Debris
+Slide
+NA
+11651
+KA/CHI/48O08/2017/6
+Karnataka
+Chikmagalur
+West of Hirebail
+Kalasa  Kotighere (SH  106)
+13.196928
+75.3917
+Debris
+Slide
+NA
+11652
+KA/CHI/48O08/2017/9
+Karnataka
+Chikmagalur
+North of Hirebail
+Kalasa  Kotighere (SH  106)
+13.197735
+75.407739
+Debris
+Slide
+NA
+11653
+KA/CHI/48O08/2017/8
+Karnataka
+Chikmagalur
+North West of Hirebail
+Kalasa  Kotighere (SH  106)
+13.198978
+75.401696
+Debris
+Slide
+NA
+11654
+KA/DAK/48O3/2017/33
+Karnataka
+Dakshin Kannad
+1.2 km SE of Malachouki
+KalnabettuMalachouki road 
+section
+13.202244
+75.117919
+Debris
+Slide
+NA
+11655
+KA/DAK/48O3/2017/34
+Karnataka
+Dakshin Kannad
+Bhagavati
+BhagavatiKalasa road section
+13.209122
+75.202078
+Debris
+Slide
+NA
+11656
+KA/CHI/48O08/2017/17
+Karnataka
+Chikmagalur
+West of Jamble
+Kalasa  Kudremukh (SH  66)
+13.210603
+75.258846
+Rock
+Slide
+NA
+11657
+KA/DAK/48O3/2017/35
+Karnataka
+Dakshin Kannad
+N/A
+N/A
+13.214444
+75.226133
+Debris
+Slide
+NA
+11658
+KA/CHI/48O08/2017/5
+Karnataka
+Chikmagalur
+Gangankudrige
+Kalasa  Kotighere (SH  106)
+13.214726
+75.377836
+Debris
+Slide
+NA
+11659
+KA/CHI/48O08/2017/4
+Karnataka
+Chikmagalur
+North West of Gangankudrige
+Kalasa  Kotighere (SH  106)
+13.215624
+75.376824
+Debris
+Slide
+NA
+11660
+KA/CHI/48O08/2017/3
+Karnataka
+Chikmagalur
+North West of Gangankudrige
+Kalasa  Kotighere (SH  106)
+13.21594
+75.375912
+Debris
+Slide
+NA
+11661
+KA/CHI/48O08/2017/2
+Karnataka
+Chikmagalur
+South East of Kalasa
+Kalasa  Kotighere (SH  106)
+13.220686
+75.370078
+Debris
+Slide
+NA

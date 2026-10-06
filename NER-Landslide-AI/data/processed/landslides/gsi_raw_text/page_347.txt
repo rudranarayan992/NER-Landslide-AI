@@ -1,0 +1,366 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14489
+140
+Kerala
+Idukki
+Vellallu III
+Rajagiri - Kamboorkanam road 
+(unmettaled jeep road)
+9.987717237
+76.84765951
+Debris
+Flow
+15th August, 2018
+14490
+141
+Kerala
+Idukki
+Ayyappanpara
+Vellakkayam - Pattekkudi road
+9.982850167
+76.85154431
+Debris
+Slide
+15th August, 2018
+14491
+142
+Kerala
+Idukki
+Ayyappanpara II
+Vellakkayam - Pattekkudi road
+9.982223142
+76.85375679
+Debris
+Slide
+15th August, 2018
+14492
+143
+Kerala
+Idukki
+Ayyappanpara III
+Vellakkayam - Pattekkudi road
+9.982320551
+76.85412212
+Debris
+Slide
+15th August, 2018
+14493
+144
+Kerala
+Idukki
+Edathana
+Edathana - Eenithazham - 
+Aanakkuzhi road
+10.00356148
+76.84659077
+Debris
+Slide
+16th August 2018
+14494
+145
+Kerala
+Idukki
+Edathana II
+A footpath 
+10.00059678
+76.84324522
+Debris
+Slide
+16th August, 2018
+14495
+146
+Kerala
+Idukki
+Edathana III
+A footpath 
+10.00063521
+76.84446751
+Debris
+Slide
+15th August, 2018
+14496
+147
+Kerala
+Idukki
+Pulikkathotti
+Pattekudi - Vellakkayam road
+9.989180344
+76.85279302
+Debris
+Slide
+15th August, 2018
+14497
+148
+Kerala
+Idukki
+Pattekkudi
+Venmani - Pattekudi road
+9.986434635
+76.86853603
+Debris
+Slide
+15th August, 2018
+14498
+149
+Kerala
+Idukki
+Pattekkudi II
+Venmani - Pattekudi road
+9.986824213
+76.86838322
+Debris
+Slide
+15th August, 2018
+14499
+150
+Kerala
+Idukki
+Pattekkudi III
+Pattekkudi - Meenuliyar road
+9.989086256
+76.87124144
+Debris
+Slide
+16th August, 2018
+14500
+151
+Kerala
+Idukki
+Pattekkudi IV
+Pattekudi - Varikkamuthan road 9.984242131
+76.87422315
+Debris
+Slide
+16th August, 2018
+14501
+152
+Kerala
+Idukki
+Aanakkuzhi
+Aanakkuzhi - Aenithanam road
+9.996837962
+76.85754223
+Debris
+Flow
+16th August, 2018
+14502
+153
+Kerala
+Idukki
+Aenithazham
+Aanakkuzhi - Aenithanam road
+10.0038801
+76.85431726
+Debris
+Flow
+16th August, 2018
+14503
+154
+Kerala
+Idukki
+Balannaadu II
+Balannaadu - Blathikavala road
+9.983003843
+76.84665713
+Debris
+Flow
+16th August, 2018
+14504
+155
+Kerala
+Idukki
+Balannaadu III
+Balannaadu - Blathikavala road
+9.984947566
+76.84500833
+Debris
+Slide
+16th August, 2018
+14505
+156
+Kerala
+Idukki
+Kallippara
+Vannapuram - Chelachuvadu 
+road
+9.975410902
+76.838334
+Debris
+Slide
+16th August, 2018
+14506
+157
+Kerala
+Idukki
+Kallippara II
+Vannapuram - Chelachuvadu 
+road
+9.975962537
+76.83830062
+Debris
+Slide
+16th August, 2018
+14507
+158
+Kerala
+Idukki
+Kallippara III
+Vannapuram - Chelachuvadu 
+road
+9.979038103
+76.84286846
+Debris
+Flow
+15th August, 2018
+14508
+159
+Kerala
+Idukki
+Vallallu
+Vellakkayam - Blathikavala road 9.990173
+76.838353
+Debris
+Subsidence
+15th August, 2018
+14509
+160
+Kerala
+Idukki
+Kudakkachira
+Kudakkachira road
+9.983378
+76.836163
+Debris
+Subsidence
+16th August, 2018
+14510
+161
+Kerala
+Idukki
+Mundanmudi
+9.979038
+76.842868
+Debris
+Cut slope 
+failure
+15th August, 2018
+14511
+162
+Kerala
+Idukki
+Mundanmudi
+9.974056
+76.829891
+Debris
+Subsidence
+15th August, 2018
+14512
+163
+Kerala
+Idukki
+Vannapuram
+10.004959
+76.827638
+Debris
+Subsidence
+15th August, 2018
+14513
+164
+Kerala
+Idukki
+Mundanmudi
+9.983651
+76.835881
+Debris
+Slide
+16th August, 2018
+14514
+165
+Kerala
+Idukki
+Vazhavara
+Nirmala city - Vazhavara 
+municipality road
+9.792627
+77.067686
+Soil
+Slide
+16th August, 2018
+14515
+166
+Kerala
+Idukki
+KSRTC Kattappana Sub Depo
+Idukki - Kattappana road
+9.768134907
+77.10829402
+Debris
+Slide
+18th August 2018
+14516
+167
+Kerala
+Idukki
+Kattappana
+Idukki - Kattappana road
+9.764816866
+77.10987687
+Debris
+Slide
+15th August, 2018
+14517
+168
+Kerala
+Idukki
+Kallukunnu
+Idukki - Kattappana road
+9.761131123
+77.11245058
+Debris
+Slide
+15th August, 2018
+14518
+169
+Kerala
+Idukki
+Kochuthovala
+Kattapana - Kochuthovala road
+9.768435268
+77.12828801
+Debris
+Slide
+15th August, 2018
+14519
+170
+Kerala
+Idukki
+Kochuthovala
+Kochuthovala - Pulikkalpadi 
+road
+9.770978685
+77.13349811
+Soil
+Slide
+15th August, 2018
+14520
+171
+Kerala
+Idukki
+Vakappadi
+Private jeep road
+9.793411893
+77.06495693
+NA
+Subsidence
+15th August, 2018

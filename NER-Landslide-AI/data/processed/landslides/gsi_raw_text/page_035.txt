@@ -1,0 +1,509 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1129
+AP/EK/83E03/2021/50
+Arunachal Pradesh
+East Kameng
+Sube Village  slide-1
+Road to Rang Village
+27.347917
+93.012194
+Earth
+Slide
+NA
+1130
+AP/EK/83E03/2021/47
+Arunachal Pradesh
+East Kameng
+Rang Village  slide-5
+Road to Rang Village
+27.357083
+93.026361
+Debris
+Slide
+NA
+1131
+AR/WKG/83A03/2021/039
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 31
+NH 13
+27.358194
+92.24325
+Debris
+Slide
+NA
+1132
+AP/EK/83E03/2021/40
+Arunachal Pradesh
+East Kameng
+Patiwa Village slide-1
+NH-37
+27.361222
+93.035778
+Debris
+Slide
+NA
+1133
+AR/WKG/83A03/2021/034
+Arunachal Pradesh
+West Kameng
+Dirang- Rungkhung Road Section Slide 
+1
+Dirang- Rungkhung Road 
+Section
+27.362028
+92.244028
+Debris
+Slide
+NA
+1134
+AR/WKG/83A03/2021/035
+Arunachal Pradesh
+West Kameng
+Dirang- Rungkhung Road Section Slide 
+2
+Dirang- Rungkhung Road 
+Section
+27.362444
+92.243972
+Debris
+Slide
+NA
+1135
+AR/WKG/83A03/2021/036
+Arunachal Pradesh
+West Kameng
+Dirang-Rungkhung Road Section Slide 
+3
+Dirang-Rungkhung Road Section 27.363417
+92.24375
+Debris
+Slide
+NA
+1136
+AP/EK/83E03/2021/48
+Arunachal Pradesh
+East Kameng
+Rang Village  slide-6
+Road to Rang Village
+27.363833
+93.025139
+Soil
+Slide
+NA
+1137
+AR/WKG/83A03/2021/037
+Arunachal Pradesh
+West Kameng
+Dirang Town Baptist Church Slide 1
+Dirang-Rungkhung Road Section 27.367611
+92.2415
+Debris
+Slide
+NA
+1138
+AR/WKG/83A03/2021/038
+Arunachal Pradesh
+West Kameng
+Dirang Town Baptist Church Slide 2
+Dirang-Rungkhung Road Section 27.368333
+92.241583
+Debris
+Slide
+NA
+1139
+AP/EK/83E04/2021/41
+Arunachal Pradesh
+East Kameng
+Patiwa Village slide-2
+NH-38
+27.391639
+93.011861
+Debris
+Slide
+NA
+1140
+AR/WKG/83A03/2021/024
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 21
+NH 13/ W of Milumkang
+27.394306
+92.157333
+Rock
+Slide
+NA
+1141
+AR/WKG/83A03/2021/023
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 20
+NH 13/ W of Milumkang
+27.395444
+92.164167
+Debris
+Slide
+NA
+1142
+AR/WKG/83A03/2021/022
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 19
+NH 13/ W of Milumkang
+27.396722
+92.163861
+Rock
+Slide
+NA
+1143
+AR/WKG/83A03/2021/025
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 22
+NH 13/ NW of Milumkang
+27.403722
+92.141056
+Debris
+Slide
+NA
+1144
+AR/WKG/83A03/2021/032
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 29
+NH 13/ S of Nyakmadung
+27.405861
+92.133778
+Debris
+Slide
+NA
+1145
+AR/WKG/83A07/2021/033
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 30
+NH 13/ S of Nyakmadung
+27.409778
+92.132167
+Soil
+Slide
+NA
+1146
+AP/EK/83E03/2021/42
+Arunachal Pradesh
+East Kameng
+Patiwa Village slide-3
+NH-39
+27.411944
+93.010528
+Debris
+Slide
+NA
+1147
+AP/EK/83E03/2021/43
+Arunachal Pradesh
+East Kameng
+Rang Village  slide-1
+NH-39
+27.411944
+93.010528
+Debris
+Slide
+NA
+1148
+AP/EK/83E03/2021/01
+Arunachal Pradesh
+East Kameng
+North Seppa slide-1
+North Seppa
+27.420722
+93.011083
+Earth
+Slide
+NA
+1149
+AP/EK/83E03/2021/05
+Arunachal Pradesh
+East Kameng
+North Seppa slide-5
+North Seppa
+27.421139
+93.017611
+Debris
+Slide
+NA
+1150
+AP/EK/83E03/2021/04
+Arunachal Pradesh
+East Kameng
+North Seppa slide-4
+North Seppa
+27.422111
+93.014639
+Soil
+Slide
+NA
+1151
+AP/EK/83E03/2021/44
+Arunachal Pradesh
+East Kameng
+Rang Village  slide-2
+NH-31, Patiwa Village
+27.423722
+93.007583
+Rock
+Fall
+NA
+1152
+AP/EK/83E03/2021/06
+Arunachal Pradesh
+East Kameng
+North Seppa slide-6
+North Seppa
+27.428833
+93.025306
+Debris
+Slide
+NA
+1153
+AR/WKG/83A03/2021/026
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 23
+NH 13/ NW of Milumkang
+27.433056
+92.123583
+Soil
+Slide
+NA
+1154
+AP/EK/83E03/2021/13
+Arunachal Pradesh
+East Kameng
+NH-31 slide-4
+NH-32
+27.436722
+93.003639
+Debris
+Slide
+NA
+1155
+AP/EK/83E03/2021/07
+Arunachal Pradesh
+East Kameng
+North Seppa slide-7
+North Seppa
+27.437333
+93.029667
+Soil
+Slide
+NA
+1156
+AP/EK/83E03/2021/02
+Arunachal Pradesh
+East Kameng
+North Seppa slide-2
+North Seppa
+27.441028
+93.020389
+Soil/Earth
+Slide
+NA
+1157
+AR/WKG/83A03/2021/027
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 24
+NH 13/ S of Shomtsher
+27.441361
+92.117417
+Debris
+Slide
+NA
+1158
+AP/EK/83E03/2021/03
+Arunachal Pradesh
+East Kameng
+North Seppa slide-3
+North Seppa
+27.441694
+93.021472
+Debris
+Slide
+NA
+1159
+AR/CHNG/92A07/2022/072
+Arunachal Pradesh
+Changlang
+Deban, Namdapha Natonal Park
+Miao-Vijyanagar road
+27.447181
+96.439865
+Debris
+Slide
+NA
+1160
+AR/CHNG/92A07/2022/073
+Arunachal Pradesh
+Changlang
+Deban, Namdapha Natonal Park
+Miao-Vijyanagar road
+27.449807
+96.444466
+Debris
+Slide
+NA
+1161
+AR/US/82P04/2022/036
+Arunachal Pradesh
+Upper Siang
+North of Damro-Gingkong Slide 2
+Pasighat-yingkiong road
+27.452833
+95.239
+Debris
+slide
+NA
+1162
+AR/CHNG/92A07/2022/074
+Arunachal Pradesh
+Changlang
+Deban, Namdapha Natonal Park
+Miao-Vijyanagar road
+27.453197
+96.444944
+Debris
+Slide
+NA
+1163
+AR/CHNG/92A07/2022/071
+Arunachal Pradesh
+Changlang
+Deban, Namdapha Natonal Park
+Miao-Vijyanagar road
+27.455222
+96.440908
+Debris
+Slide
+NA
+1164
+AR/WKG/83A03/2021/028
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 25
+NH 13/ NE of Senge
+27.456278
+92.109556
+Debris
+Slide
+NA
+1165
+AR/CHNG/92A07/2022/070
+Arunachal Pradesh
+Changlang
+Deban, Namdapha Natonal Park
+Miao-Vijyanagar road
+27.458768
+96.440093
+Debris
+Slide
+NA
+1166
+AR/US/82P04/2022/035
+Arunachal Pradesh
+Upper Siang
+North of Damro-Gingkong Slide 1
+Pasighat-yingkiong road
+27.459167
+95.233639
+Rock
+Slide
+NA
+1167
+AP/WK/83E12/2008/A-12
+Arunachal Pradesh
+West Kameng
+Slide on Dirang -Tawang road
+ 
+27.460278
+92.110278
+Rock
+Fall
+2008
+1168
+AR/CHNG/92A07/2022/068
+Arunachal Pradesh
+Changlang
+Deban, Namdapha Natonal Park
+Miao-Vijyanagar road
+27.460656
+96.412177
+Debris
+Slide
+NA
+1169
+AR/CHNG/92A07/2022/069
+Arunachal Pradesh
+Changlang
+Deban, Namdapha Natonal Park
+Miao-Vijyanagar road
+27.460731
+96.41975
+Soil
+Slide
+NA
+1170
+AR/CHNG/92A07/2022/067
+Arunachal Pradesh
+Changlang
+Deban, Namdapha Natonal Park
+Miao-Vijyanagar road
+27.466137
+96.407194
+Debris
+Slide
+NA
+1171
+AR/CHNG/92A07/2022/066
+Arunachal Pradesh
+Changlang
+Deban, Namdapha Natonal Park
+Miao-Vijyanagar road
+27.467849
+96.409616
+Debris
+Slide
+NA
+1172
+AR/CHNG/92A07/2022/065
+Arunachal Pradesh
+Changlang
+Deban, Namdapha Natonal Park
+Miao-Vijyanagar road
+27.470221
+96.407798
+Rock
+Fall
+NA
+1173
+AR/CHNG/92A07/2022/064
+Arunachal Pradesh
+Changlang
+Deban, Namdapha Natonal Park
+Miao-Vijyanagar road
+27.474408
+96.408773
+Debris
+Slide
+NA

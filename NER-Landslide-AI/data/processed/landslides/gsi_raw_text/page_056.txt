@@ -1,0 +1,403 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1906
+AP/DV/82P/13/2022/LS-120
+Arunachal Pradesh
+Dibang Valley
+ Mipi Slide
+Below GREF camp, Mipi Village. 28.813905
+95.920439
+Earth
+Slide
+NA
+1907
+AR/USI/82L13/2022/51
+Arunachal Pradesh
+Upper Siang
+Mosing-Tuting Road Slide
+Mosing-Tuting Road
+28.816882
+94.791032
+Rock-cum-Debris
+Slide
+NA
+1908
+AR/USI/82L13/2022/49
+Arunachal Pradesh
+Upper Siang
+Janbo-Mosing-Tuting Road Slide
+Janbo-Mosing-Tuting Road
+28.817009
+94.791755
+Rock-cum-Debris
+Slide
+NA
+1909
+AP/DV/82P/13/2022/LS-122
+Arunachal Pradesh
+Dibang Valley
+ Near Mipi slide
+ Near Mipi Village.
+28.817477
+95.922181
+Earth
+Slide
+NA
+1910
+AP/DV/82P/13/2022/LS-123
+Arunachal Pradesh
+Dibang Valley
+ Mipi slide
+ Mipi Village road
+28.822521
+95.92931
+Earth
+Slide
+NA
+1911
+AP/DV/82P/13/2022/LS-124
+Arunachal Pradesh
+Dibang Valley
+Dambuen Slide
+Anini to Dambuen road section
+28.822525
+95.93415
+Debris
+Slide
+NA
+1912
+AP/DV/82P/13/2022/LS-125
+Arunachal Pradesh
+Dibang Valley
+Etabe slide
+Etabe bridge, Anini
+28.823558
+95.882966
+Debris
+Slide
+NA
+1913
+AP/DV/82P/13/2022/LS-126
+Arunachal Pradesh
+Dibang Valley
+Dembuen Acheso slide
+Dembuen Acheso Village
+28.823766
+95.922046
+Debris
+Slide
+NA
+1914
+AP/DV/82P/13/2022/LS-127
+Arunachal Pradesh
+Dibang Valley
+Acheso slide
+Dembuen Acheso Village
+28.824703
+95.93119
+Debris
+Slide
+NA
+1915
+AP/E-Siang/82P8/2022/LS45
+Arunachal Pradesh
+Dibang Valley
+LS-45
+NH-13, Komlighat park
+28.827069
+95.9225
+Debris
+Slide
+NA
+1916
+AR/USI/82L13/2022/52
+Arunachal Pradesh
+Upper Siang
+Likor-Palling Road Slide
+Likor-Palling Road
+28.830097
+94.874715
+Rock-cum-Debris
+Slide
+NA
+1917
+AP/DV/82P/13/2022/LS-128
+Arunachal Pradesh
+Dibang Valley
+Dambuen Slide
+Dembuen to Anini Village
+28.830316
+95.877843
+Debris
+Slide
+NA
+1918
+AP/DV/82P/13/2022/LS-129
+Arunachal Pradesh
+Dibang Valley
+Dambuen Slide
+Dembuen to Anini Village
+28.830919
+95.880901
+Debris
+Slide
+NA
+1919
+AP/DV/82P/13/2022/LS-130
+Arunachal Pradesh
+Dibang Valley
+Dambuen Slide
+Mile stone Anini 9 km Dembuen-
+Anini road
+28.831619
+95.882949
+Debris
+Slide
+NA
+1920
+AP/DV/82P/13/2022/LS-131
+Arunachal Pradesh
+Dibang Valley
+Dambuen Slide
+Dembuen-Anini road corridor
+28.831826
+95.882841
+Debris
+Sldies
+NA
+1921
+AP/DV/82P/13/2022/LS-132
+Arunachal Pradesh
+Dibang Valley
+Dambuen Slide
+Dembuen-Anini road corridor
+28.836083
+95.963806
+Debris
+Slide
+NA
+1922
+AP/DV/82P/13/2022/LS-133
+Arunachal Pradesh
+Dibang Valley
+Anini-Dambuen Slide
+Dembuen-Anini road corridor - 
+6 km mile stone
+28.846067
+95.865922
+Debris
+Slide
+NA
+1923
+AP/DV/82P/13/2022/LS-134
+Arunachal Pradesh
+Dibang Valley
+Dambuen Slide
+Anini-Dambuen road corridor 8 
+km mile stone
+28.852213
+95.863907
+Debris
+Slide
+NA
+1924
+AP/LDV/82P11/2022/LS79
+Arunachal Pradesh
+Dibang Valley
+LS-79
+NH-13
+28.85641
+95.859872
+Debris
+Slide
+NA
+1925
+AP/DV/82P/13/2022/LS-135
+Arunachal Pradesh
+Dibang Valley
+Dambuen Slide
+Dembuen-Anini road corridor
+28.858358
+95.858469
+Debris
+Slide
+NA
+1926
+AP/DV/82P/13/2022/LS-136
+Arunachal Pradesh
+Dibang Valley
+Dambuen road Slide
+Anini-Dambuen road corridor 4 
+km mile stone
+28.863017
+95.856703
+Debris
+Slide
+NA
+1927
+AP/DV/82P/13/2022/LS-137
+Arunachal Pradesh
+Dibang Valley
+Anini-Etalin slide
+Anini-Etalin road section
+28.868037
+95.983398
+Earth
+Slide
+NA
+1928
+AP/DV/82P/13/2022/LS-138
+Arunachal Pradesh
+Dibang Valley
+Anini-Etalin slide
+Anini-Etalin road section
+28.871556
+95.852732
+Earth
+Slide
+NA
+1929
+AP/DV/82P/13/2022/LS-139
+Arunachal Pradesh
+Dibang Valley
+Anini-Etalin slide
+Anini-Etalin road section
+28.873622
+95.850285
+Debris
+Slide
+NA
+1930
+AP/DV/82P/13/2022/LS-140
+Arunachal Pradesh
+Dibang Valley
+Anini-Etalin slide
+Anini-Etalin road section
+28.874939
+95.981911
+Debris
+Slide
+NA
+1931
+AP/DV/82P/13/2022/LS-141
+Arunachal Pradesh
+Dibang Valley
+Anini-Etalin slide
+Anini-Etalin road section
+28.87826
+95.847156
+Debris
+Slide
+NA
+1932
+AP/DV/82P/13/2022/LS-142
+Arunachal Pradesh
+Dibang Valley
+Anini-Etalin slide
+Anini-Etalin road section, NH-
+313
+28.937833
+95.820661
+Debris
+Slide
+NA
+1933
+AP/DV/82P/13/2022/LS-143
+Arunachal Pradesh
+Dibang Valley
+Anini-Etalin slide
+Anini-Etalin road section
+28.940482
+95.82044
+Debris
+Slide
+NA
+1934
+AP/DV/82P/13/2022/LS-144
+Arunachal Pradesh
+Dibang Valley
+Anini-Etalin slide
+Anini-Etalin road section, NH-
+313
+28.9407
+95.82058
+Debris
+Slide
+NA
+1935
+AP/DV/82P/13/2022/LS-145
+Arunachal Pradesh
+Dibang Valley
+Anini-Etalin slide
+Anini-Etalin road section
+28.963981
+95.808627
+Earth
+Slide
+NA
+1936
+3290
+Arunachal Pradesh
+Papum Pare
+NULL
+NULL
+27.2575411
+93.7963965
+Debris
+Slide
+NA
+1937
+3293
+Arunachal Pradesh
+Papum Pare
+NULL
+NULL
+27.2858578
+93.798472
+Debris
+Slide
+NA
+1938
+ARA/PP/83E16/2024/01
+Arunachal Pradesh
+Papum Pare
+Banderdewa Petrol Pump Slide
+NH 415
+27.105253
+93.825399
+Debris
+Slide
+18 June 2024 at 11:00 hrs.
+1939
+ARA/PP/83E16/2024/02
+Arunachal Pradesh
+Papum Pare
+Nirjuli Slide
+Banderdewa-Nirjuli Road (NH-
+415)
+27.121136
+93.762164
+Debris
+Flow
+18 June 2024 at 04:30 hrs.
+1940
+ARA/PP/83E16/2024/03
+Arunachal Pradesh
+Papum Pare
+Chiputa Slide
+Yupia-Possa Road (NH-713A)
+27.121136
+93.762164
+Earth
+Slide
+18 June 2024 at 04:30 hrs.

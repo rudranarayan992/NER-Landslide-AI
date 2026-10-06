@@ -1,0 +1,425 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12005
+KA/SHI/48O01/2020/87
+Karnataka
+Shimoga
+Sampemane
+Sampemane
+13.87
+75.05
+Debris
+Slide
+2020
+12006
+KA/UDU/48K13/2020/28
+Karnataka
+Udupi
+1.27 Km North of Kollur along Kollur-
+Nagodi road
+1.27 Km North of Kollur along 
+Kollur-Nagodi road
+13.88
+74.81
+Earth
+Slide
+NA
+12007
+KA/UDU/48K13/2020/29
+Karnataka
+Udupi
+1.34 Km North of Kollur along Kollur-
+Nagodi road
+1.34 Km North of Kollur along 
+Kollur-Nagodi road
+13.88
+74.81
+Debris
+Slide
+NA
+12008
+KA/SHI/48K13/2020/78
+Karnataka
+Shimoga
+Ambiladi-Sampekatte road; 
+Milestone: Sampekatte-3Km
+Ambiladi-Sampekatte road; 
+Milestone: Sampekatte-3Km
+13.88
+74.93
+Earth
+Slide
+NA
+12009
+KA/SHI/48K13/2020/80
+Karnataka
+Shimoga
+Sampekatte- Ambiladi road
+Sampekatte- Ambiladi road
+13.88
+74.93
+Debris
+Slide
+NA
+12010
+KA/SHI/48K13/2020/81
+Karnataka
+Shimoga
+Sampekatte-Ambiladi road
+Sampekatte-Ambiladi road
+13.88
+74.93
+Debris
+Slide
+NA
+12011
+KA/SHI/48K13/2020/82
+Karnataka
+Shimoga
+Sampekatte -  Ambiladi road
+Sampekatte -  Ambiladi road
+13.88
+74.92
+Debris
+Slide
+NA
+12012
+KA/SHI/48K13/2020/83
+Karnataka
+Shimoga
+Sampekatte -  Ambiladi road
+Sampekatte -  Ambiladi road
+13.88
+74.92
+Debris
+Slide
+NA
+12013
+KA/SHI/48O01/2020/27
+Karnataka
+Shimoga
+Varamballi
+Varamballi
+13.88
+75.13
+Earth
+Slide
+2020
+12014
+KA/SHI/48O01/2020/43
+Karnataka
+Shimoga
+Kadasuru
+Kadasuru
+13.88
+75.19
+Debris
+Slide
+2020
+12015
+KA/SHI/48O01/2020/52
+Karnataka
+Shimoga
+Hondalagadde
+Hondalagadde
+13.88
+75.22
+Earth
+Slide
+2020
+12016
+KA/SHI/48O01/2020/53
+Karnataka
+Shimoga
+Hondalagadde-1
+Hondalagadde-1
+13.88
+75.22
+Debris
+Slide
+2020
+12017
+KA/SHI/48O01/2020/73
+Karnataka
+Shimoga
+Alagaru
+Alagaru
+13.88
+75.14
+Debris
+Slide
+2020
+12018
+KA/SHI/48O01/2020/74
+Karnataka
+Shimoga
+Alagaru-1
+Alagaru-1
+13.88
+75.14
+Debris
+Slide
+2020
+12019
+KA/SHI/48O01/2020/75
+Karnataka
+Shimoga
+Alagaru-2
+Alagaru-2
+13.88
+75.14
+Debris
+Slide
+2020
+12020
+KA/SHI/48O01/2020/76
+Karnataka
+Shimoga
+Sattodi
+Sattodi
+13.88
+75.16
+Earth
+Slide
+2020
+12021
+KA/SHI/48O01/2020/86
+Karnataka
+Shimoga
+Handayalakoppa
+Handayalakoppa
+13.88
+75.11
+Debris
+Slide
+2020
+12022
+KA/UDU/48K13/2020/30
+Karnataka
+Udupi
+ Kollur-Nagodi road
+ Kollur-Nagodi road
+13.89
+74.82
+Debris
+Slide
+NA
+12023
+KA/UDU/48K13/2020/32
+Karnataka
+Udupi
+ Kollur-Nagodi road
+ Kollur-Nagodi road
+13.89
+74.82
+Debris
+Slide
+NA
+12024
+KA/UDU/48K13/2020/34
+Karnataka
+Udupi
+ Kollur-Nagodi road
+ Kollur-Nagodi road
+13.89
+74.82
+Earth
+Slide
+NA
+12025
+KA/UDU/48K13/2020/35
+Karnataka
+Udupi
+ Kollur-Nagodi road
+ Kollur-Nagodi road
+13.89
+74.82
+Earth
+Slide
+NA
+12026
+KA/UDU/48K13/2020/36
+Karnataka
+Udupi
+ Kollur-Nagodi road
+ Kollur-Nagodi road
+13.89
+74.82
+Debris
+Slide
+NA
+12027
+KA/UDU/48K13/2020/54
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.89
+74.83
+Debris
+Slide
+NA
+12028
+KA/UDU/48K13/2020/55
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.89
+74.83
+Earth
+Slide
+NA
+12029
+KA/UDU/48K13/2020/56
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.89
+74.83
+Earth
+Slide
+NA
+12030
+KA/UDU/48K13/2020/57
+Karnataka
+Udupi
+ Nagodi- Kollur road
+ Nagodi- Kollur road
+13.89
+74.83
+Earth
+Slide
+NA
+12031
+KA/UDU/48K13/2020/58
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.89
+74.83
+Debris
+Slide
+NA
+12032
+KA/UDU/48K13/2020/59
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.89
+74.83
+Debris
+Slide
+NA
+12033
+KA/UDU/48K13/2020/60
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.89
+74.83
+Debris
+Slide
+NA
+12034
+KA/UDU/48K13/2020/61
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.89
+74.83
+Debris
+Slide
+NA
+12035
+KA/UDU/48K13/2020/62
+Karnataka
+Udupi
+ Kollur-Nagodi road
+ Kollur-Nagodi road
+13.89
+74.83
+Debris
+Slide
+NA
+12036
+KA/UDU/48K13/2020/63
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.89
+74.83
+Debris
+Slide
+NA
+12037
+KA/UDU/48K13/2020/64
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.89
+74.83
+Earth
+Slide
+NA
+12038
+KA/UDU/48K13/2020/66
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.89
+74.83
+Debris
+Slide
+NA
+12039
+KA/UDU/48K13/2020/70
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.89
+74.84
+Debris
+Slide
+NA
+12040
+KA/UDU/48K13/2020/71
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.89
+74.84
+Debris
+Slide
+NA
+12041
+KA/UDU/48K13/2020/72
+Karnataka
+Udupi
+Nagodi- Kollur road
+Nagodi- Kollur road
+13.89
+74.84
+Debris
+Slide
+NA

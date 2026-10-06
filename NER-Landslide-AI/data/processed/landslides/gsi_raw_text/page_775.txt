@@ -1,0 +1,348 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30301
+WB/DAR/78A12/2015/174
+West Bengal
+Darjeeling
+17km from Algara on Algara-Rishi 
+road
+ 
+27.165049
+88.633306
+Debris
+Slide
+1982
+30302
+WB/DAR/78A12/2015/214
+West Bengal
+Darjeeling
+12.5 km from Algara on Algara-Rishi 
+road
+ 
+27.16514
+88.627184
+Debris
+Slide
+2009
+30303
+WB/DAR/78A12/2015/183
+West Bengal
+Darjeeling
+13.25 km from Algara on Algara-Rishi 
+road
+ 
+27.166428
+88.623747
+Debris
+Slide
+2006
+30304
+WB/DAR/78A12/2015/175
+West Bengal
+Darjeeling
+Around 3km. north of Algarah
+Around 3km. north of Algarah
+27.166713
+88.60407
+Rock cum Debris
+Slide
+1984
+30305
+WB/DAR/78A12/2015/1339
+West Bengal
+Darjeeling
+Dalep subsidence
+Dalep
+27.167083
+88.626111
+Debris
+Subsidence
+2011
+30306
+WB/DAR/78A12/2015/182
+West Bengal
+Darjeeling
+13.25 km from Algara on Algara-Rishi 
+road
+ 
+27.167336
+88.623543
+Debris
+Slide
+2006
+30307
+WB/DAR/78A12/2015/1378
+West Bengal
+Darjeeling
+Kashyem, Near Upper 12 Dhura
+KASHYEM
+27.170111
+88.602528
+Rock cum Debris
+Slide
+2016
+30308
+WB/DARJ/78A12/2007/0031
+West Bengal
+Darjeeling
+Algara-Monsong junction
+Algara-Kalimpong-Monsong 
+road junction on Algara-
+Kalimpong road
+27.1733
+88.5647
+Debris
+Slide
+2007
+30309
+WB/DAR/78A12/2015/249
+West Bengal
+Darjeeling
+Lower Mansong
+ 
+27.174007
+88.563688
+Rock
+Slide
+2013
+30310
+WB/DAR/78A12/2015/239
+West Bengal
+Darjeeling
+20 km on Algara-Rangpo road
+20 km on Algara-Rangpo road
+27.175
+88.56
+Rock
+Slide
+2012
+30311
+WB/DAR/78A12/2015/238
+West Bengal
+Darjeeling
+23 km on Algara-Rangpo road
+23 km on Algara-Rangpo road
+27.176309
+88.545405
+Debris
+Subsidence
+2012
+30312
+WB/DAR/78A12/2015/1379
+West Bengal
+Darjeeling
+Dhumtham village, Kashyem
+KASHYEM
+27.184361
+88.576
+Rock
+Slide
+2016
+30313
+WB/DAR/78A12/2015/1380
+West Bengal
+Darjeeling
+RANIBUND
+RANIBUND
+27.184639
+88.570278
+Rock
+Slide
+2015
+30314
+NULL
+West Bengal
+Darjeeling
+NULL
+NULL
+27.09095539
+88.10041224
+Debris
+Slide
+27 September 2024
+30315
+WB/DAR/2024/78A/4/Point/34
+West Bengal
+Darjeeling
+NULL
+NULL
+27.10399405
+88.12941681
+Debris
+Slide
+2024
+30316
+WB/DAR/2025/78A/4/Point/61
+West Bengal
+Darjeeling
+NULL
+NULL
+27.09204063
+88.24652602
+Debris
+Slide
+2024
+30317
+WB/DAR/2024/78A/4/Point/6
+West Bengal
+Darjeeling
+NULL
+NULL
+27.09933009
+88.10552132
+Debris
+Flow
+2024
+30318
+WB/DAR/2024/78A/4/Point/37
+West Bengal
+Darjeeling
+NULL
+NULL
+27.08985699
+88.15146463
+Debris
+Slide
+2024
+30319
+WB/DAR/2024/78A/4/Point/39
+West Bengal
+Darjeeling
+NULL
+NULL
+27.07614313
+88.15588986
+Debris
+Subsidence
+2024
+30320
+NULL
+West Bengal
+Darjeeling
+NULL
+NULL
+27.08180557
+88.09218644
+Debris
+Slide
+24 September 2024
+30321
+WB/DAR/2024/78A/4/Point/7
+West Bengal
+Darjeeling
+NULL
+NULL
+27.09693859
+88.10858752
+Soil
+Slide
+NA
+30322
+WB/DAR/2024/78A/4/Point/20
+West Bengal
+Darjeeling
+NULL
+NULL
+27.1012568
+88.11428769
+Debris
+Fall
+NA
+30323
+WB/DAR/2024/78A/4/Point/15
+West Bengal
+Darjeeling
+NULL
+NULL
+27.10130325
+88.11429524
+Debris
+Fall
+24 September 2024
+30324
+WB/DAR/2024/78A/4/Point/16
+West Bengal
+Darjeeling
+NULL
+NULL
+27.10922544
+88.13205736
+Debris
+Slide
+NA
+30325
+WB/DAR/2024/78A/4/Point/18
+West Bengal
+Darjeeling
+NULL
+NULL
+27.10329368
+88.11841334
+Debris
+Slide
+NA
+30326
+WB/DAR/2024/78A/4/Point/24
+West Bengal
+Darjeeling
+NULL
+NULL
+27.09819827
+88.12994772
+Debris
+Slide
+18 July 2024
+30327
+WB/DAR/2025/78A/8/Point/62
+West Bengal
+Darjeeling
+NULL
+NULL
+27.08769344
+88.2510748
+Debris
+Slide
+NA
+30328
+NULL
+West Bengal
+Darjeeling
+NULL
+NULL
+27.00178378
+88.16582292
+Debris
+Slide
+NA
+30329
+WB/DAR/2024/78A/4/Point/28
+West Bengal
+Darjeeling
+NULL
+NULL
+27.00454656
+88.11838389
+Rock
+Fall
+NA
+30330
+WB/DAR/2024/78A/4/Point/29
+West Bengal
+Darjeeling
+NULL
+NULL
+27.02253214
+88.21773926
+Rock
+Fall
+NA

@@ -1,0 +1,361 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+26855
+TR/NTR/84A05/2015/26
+Tripura
+North Tripura
+ 
+S of Tlangsang
+23.892694
+92.272667
+Debris
+Slide
+2015
+26856
+TR/NTR/84A05/2015/31
+Tripura
+North Tripura
+ 
+W of Tharmapara
+23.894667
+92.287972
+Debris
+Slide
+NA
+26857
+TR/NTR/84A05/2015/28
+Tripura
+North Tripura
+ 
+ 
+23.896194
+92.296667
+Debris
+Slide
+NA
+26858
+TR/NTR/84A05/2015/27
+Tripura
+North Tripura
+ 
+Near Tharmapara
+23.896806
+92.283361
+Debris
+Slide
+NA
+26859
+TR/NTR/84A05/2015/33
+Tripura
+North Tripura
+ 
+W of Tharmapara
+23.896806
+92.283361
+Debris
+Slide
+NA
+26860
+TR/NTR/84A05/2015/34
+Tripura
+North Tripura
+ 
+W of Tharmapara
+23.897556
+92.282889
+Debris
+Slide
+NA
+26861
+TR/NTR/84A05/2015/29
+Tripura
+North Tripura
+ 
+~3.5 km NW of Tharmapara
+23.899944
+92.279222
+Debris
+Slide
+NA
+26862
+TR/NTR/84A05/2015/14
+Tripura
+North Tripura
+ 
+Tlansang
+23.906917
+92.271944
+Debris
+Slide
+NA
+26863
+TR/NTR/84A05/2015/13
+Tripura
+North Tripura
+ 
+Tlansang
+23.914472
+92.27125
+Debris
+Slide
+NA
+26864
+TR/NTR/84A05/2015/12
+Tripura
+North Tripura
+ 
+~2km S of Bangla village
+23.927194
+92.275389
+Debris
+Fall
+NA
+26865
+TR/NTR/84A01/2015/10
+Tripura
+North Tripura
+ 
+Near Baganpara Village
+23.953333
+92.233139
+Debris
+Flow
+2015
+26866
+TR/GMT/79 M09/2018/008
+Tripura
+Gomati
+Sontang no.3 landslide
+Palku, Ompi Block
+23.980333
+91.475278
+Soil
+Slide
+18 May 2018
+26867
+TR/WTR/79 M09/2018/004
+Tripura
+West Tripura
+Narengbari landslide
+Champabari, Belbari Block 
+(formerly part of Jirania block)
+24.003417
+91.45425
+Debris
+Slide
+18 May 2018
+26868
+TR/WTR/79 M09/2018/05
+Tripura
+West Tripura
+ 
+Champabari, Belbari Block 
+(formerly part of Jirania block)
+24.012306
+91.451778
+Debris
+Slide
+2016, 18 May 2018
+26869
+TR/DHA/84D04/2015/56
+Tripura
+Dhalai
+ 
+near the TSR camp, 
+Mainaraipara
+24.028194
+92.091861
+Earth
+Slide
+2015
+26870
+TR/NTR/84D08/2015/35
+Tripura
+North Tripura
+ 
+Kanchanpur-Jampui road
+24.031139
+92.2535
+Debris
+Slide
+NA
+26871
+TR/DHA/84D04/2015/57
+Tripura
+Dhalai
+ 
+Near Manaraipara, Kanchanpur- 
+Manu road
+24.0335
+92.100694
+Earth
+Slide
+2016
+26872
+TR/DHA/84D04/2015/58
+Tripura
+Dhalai
+ 
+E of Joimanipara, Kanchanpur- 
+Manu road
+24.039139
+92.106944
+Debris
+Slide
+2016
+26873
+TR/NTR/84D08/2015/7
+Tripura
+North Tripura
+ 
+~3km N of Longthir; western 
+bank of Sunai river
+24.048556
+92.314306
+Debris
+Slide
+2015
+26874
+TR/NTR/84D08/2015/11
+Tripura
+North Tripura
+ 
+Vaisam
+24.063194
+92.28225
+Debris
+Flow
+NA
+26875
+TR/NTR/84D08/2015/47
+Tripura
+North Tripura
+ 
+2km milestone on Hmunpui-
+Vaisam road
+24.066639
+92.277417
+Rock
+Fall
+2015
+26876
+TR/NTR/84D08/2015/49
+Tripura
+North Tripura
+ 
+Hmunpui-Kedacherra new road 
+section
+24.068472
+92.290833
+Debris
+Slide
+2015
+26877
+TR/NTR/84D08/2015/48
+Tripura
+North Tripura
+ 
+Hmunpui-Kedacherra new road 
+section
+24.069444
+92.287167
+Debris
+Slide
+2015
+26878
+TR/NTR/84D08/2015/50
+Tripura
+North Tripura
+ 
+Hmunpui-Kedacherra new road 
+section
+24.069556
+92.291361
+Debris
+Slide
+2015
+26879
+TR/NTR/84D08/2015/51
+Tripura
+North Tripura
+ 
+Hmunpui-Kedacherra new road 
+section
+24.070611
+92.290944
+Rock
+Slide
+2015
+26880
+TR/NTR/84D08/2015/52
+Tripura
+North Tripura
+ 
+Hmunpui-Kedacherra new road 
+section
+24.071167
+92.291694
+Debris
+Slide
+2015
+26881
+TR/NTR/84D08/2015/45
+Tripura
+North Tripura
+ 
+Vaisam-Hmunpui junction road 
+section
+24.106444
+92.276389
+Debris
+Slide
+2015
+26882
+TR/NTR/84D08/2015/44
+Tripura
+North Tripura
+ 
+Damcherra-Hmunpui junction 
+road section along Jampui hill 
+range
+24.107028
+92.276667
+Debris
+Slide
+2015
+26883
+TR/NTR/84D08/2015/43
+Tripura
+North Tripura
+ 
+Damcherra-Hmunpui junction 
+road section along Jampui hill 
+range
+24.129083
+92.277667
+Rock
+Slide
+2015
+26884
+TR/NTR/84D08/2015/42
+Tripura
+North Tripura
+ 
+Damcherra-Hmunpui junction 
+road section along Jampui hill 
+range
+24.133306
+92.27775
+Debris
+Slide
+2015

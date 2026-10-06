@@ -1,0 +1,333 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+13962
+KER/IDK/58G01/2018/04
+Kerala
+Idukki
+Kallimali
+Unmetalled road to Ponmudi 
+Reservoir connecting the 
+Adimali-Rajakad road.
+9.9509
+77.0795
+Debris
+Flow
+09 June, 2018
+13963
+KER/IDK/58G01/2018/05
+Kerala
+Idukki (Devikulam Taluk)
+Kallarkutty
+Kallarkutty Dam Road
+9.974
+76.9968
+Debris
+Slide
+09 June, 2018
+13964
+KER/IDK/58C03/2018/06
+Kerala
+Idukki
+Kallarkutty II
+Kallarkutty approach road
+9.9737
+76.9992
+Soil
+Subsidence
+09 June, 2018, 02.00hrs
+13965
+KER/IDK/58B16/2018/07
+Kerala
+Idukki
+Cheruthoni
+Thodupuzha-Puliyanmala road
+9.8538
+76.9681
+Soil
+Slide
+Date of initiation:09th June, 2018
+13966
+KER/IDK/58B16/2018/08
+Kerala
+Idukki
+Valara
+Valara-Vadakkechal road (By 
+road to NH 49)
+10.0455
+76.8472
+Rock
+Fall
+Date of initiation:03rd May, 2018, Date 
+of reactivation:09th   June, 2018
+13967
+KER/IDK/58F04/2018/09
+Kerala
+Idukki
+Anaviratty
+NH – 49 (Kochi – Dhanushkodi 
+Road)
+10.0172
+76.9891
+Soil
+Slide
+Date of initiation:09th   June, 2018
+13968
+KER/IDK/58F04/2018/10
+Kerala
+Idukki
+Ambazhachal
+Thottapura-Selliampara Road
+10.0191
+77.0162
+Soil
+Slide
+Date of initiation:09th   June, 2018
+13969
+KER/KKD/49M15/2018/01
+Kerala
+Kozhikode
+Karinchola mala slide
+Punur – Kattipara road
+11.4708
+75.9213
+Debris
+Flow
+14th June 2018 (05:00 hrs)
+13970
+KER/KKD/49M15/2018/02
+Kerala
+Kozhikode
+Vettiozhinja Thottam Landslide
+Vettiozhinjathottam - 
+Karinchola road
+11.4633
+75.9248
+Debris
+Slide
+14th June 2018 (03:15 hrs)
+13971
+KER/KKD/49M15/2018/03
+Kerala
+Kozhikode
+Kalvari Landslide
+Kattipara - Chamal road
+11.4747
+75.9306
+Debris
+Flow
+14th June 2018 (04:30 hrs)
+13972
+KER/KKD/58A3/2018/04
+Kerala
+Kozhikode
+Kakkadampoyil Landslide
+Kakkadampoyil - Nilambur road 11.3191
+76.1109
+Debris
+Slide
+14th June 2018
+13973
+KER/KKD/58A3/2018/05
+Kerala
+Kozhikode
+Kooderanji Landslide
+Kooderanji - Kakkadampoyil 
+road
+11.3221
+76.0883
+Debris
+Flow
+14th June 2018
+13974
+KER/KKD/58A3/2018/06
+Kerala
+Kozhikode
+Muthappanpuzha Landslide
+Anakkampoyil – Karimbu - 
+Poomarathumkolli road
+11.4302
+76.0854
+Debris cum rock
+Flow
+13th June 2018 (17:00 hrs)
+13975
+KER/KKD/58A3/2018/07
+Kerala
+Kozhikode
+Karimbu Landslide
+Anakkampoyil 
+–Poomarathumkolli road
+11.4335
+76.0802
+Debris
+Flow
+14th June 2018 (17:30 hrs)
+13976
+KER/KKD/58A3/2018/08
+Kerala
+Kozhikode
+Melemuthappanpuzha - 1 Landslide
+Melemuthappanpuzha road
+11.4404
+76.0889
+Debris
+Slide
+12th June 2018 (17:30 hrs)
+13977
+KER/KKD/58A3/2018/09
+Kerala
+Kozhikode
+Melemuthappanpuzha - 2 Landslide
+Melemuthappanpuzha road
+11.439
+76.0881
+Soil
+Slide
+12th June 2018 (18:00 hrs)
+13978
+KER/KKD/58A3/2018/10
+Kerala
+Kozhikode
+Maripuzha -1 Landslide
+Maripuzha road
+11.4475
+76.0959
+Debris
+Slide
+12th June 2018
+13979
+KER/KKD/58A3/2018/11
+Kerala
+Kozhikode
+Maripuzha -2 Landslide
+Anakkampoyil – Kalladi - 
+Meppadi road
+11.4492
+76.1014
+Debris
+Slide
+12th June 2018
+13980
+KER/KKD/49M15/2018/12
+Kerala
+Kozhikode
+Kurumpoyil Landslide
+Kurumpoyil - Vayalada road
+11.4978
+75.8647
+Debris
+Flow
+14th June 2018
+13981
+KER/KKD/49M14/2018/13
+Kerala
+Kozhikode
+Thalayad Landslide
+Thalayad - Vayalada road
+11.5076
+75.8817
+Debris
+Slide
+14th June 2018
+13982
+KER/KKD/49M15/2018/14
+Kerala
+Kozhikode
+Poovanmala Landslide
+Kattipara – Chamal - 
+Thamarassery road
+11.4653
+75.9337
+Debris
+Flow
+14th June 2018 (03:00 hrs)
+13983
+KER/KKD/49M15/2018/15
+Kerala
+Kozhikode
+Theyyapara Landslide
+Kodencheri – Theyyapara road
+11.4337
+75.9931
+Debris
+Slide
+14th June 2018 (03:00 hrs)
+13984
+KER/KKD/58A3/2018/16
+Kerala
+Kozhikode
+Kandapanchal - 1 Landslide
+Nellipoyil – Kandapanchal road
+11.4441
+76.0709
+Debris
+Slide
+13th June 2018 (17:30 hrs)
+13985
+KER/KKD/58A3/2018/17
+Kerala
+Kozhikode
+Kandapanchal - 2 Landslide
+Nellipoyil – Mundur - 
+Kandapanchal road
+11.445
+76.0739
+Debris
+Slide
+13th June 2018 (01:00 hrs)
+13986
+KER/KKD/58A3/2018/18
+Kerala
+Kozhikode
+Kulakkadanmala Landslide
+Mukkam - Kakkadampoyil road
+11.3041
+76.0441
+Debris
+Flow
+14th June 2018 (05:30 hrs)
+13987
+KER/KKD/58A3/2018/19
+Kerala
+Kozhikode
+Vattachuvadu Landslide
+Pulikkayam - Thusharagiri road
+11.4562
+76.0429
+Debris
+Flow
+12th June 2018 (18:00 hrs)
+13988
+KER/KKD/58A3/2018/20
+Kerala
+Kozhikode
+Vendekkumpoyil-1 Landslide
+Chempukadavu - 
+Vendekumpoyil road
+11.4616
+76.0379
+Debris
+Flow
+13th June 2018 (04:00 hrs)
+13989
+KER/KKD/58A3/2018/21
+Kerala
+Kozhikode
+Vendekkumpoyil-2 Landslide
+Chempukadavu - 
+Vendekumpoyil road
+11.46
+76.0382
+Debris
+Flow
+13th June 2018 (18:00 hrs)

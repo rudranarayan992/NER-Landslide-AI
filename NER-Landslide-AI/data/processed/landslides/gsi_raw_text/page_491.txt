@@ -1,0 +1,496 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+19868
+ME/WJH/83C03/2015/180
+Meghalaya
+West Jaintia Hills
+ 
+.80 km E of Leshka Dam
+25.266067
+92.204897
+Debris
+Slide
+NA
+19869
+ME/WJH/83C03/2015/179
+Meghalaya
+West Jaintia Hills
+ 
+ 
+25.266222
+92.202528
+Debris
+Slide
+NA
+19870
+MG/WKH/78O07/2017/1
+Meghalaya
+South West Khasi  Hills
+Mawpud village slide
+Mawpud village
+25.266939
+91.383208
+Debris
+Slide
+NA
+19871
+MG/EKH/78O11/2017/11
+Meghalaya
+East Khasi Hills
+ 
+Along MawsynramLawbah
+25.26851
+91.580418
+Rock
+Slide
+NA
+19872
+ME/EKJ/78O15/2015/120
+Meghalaya
+East Khasi Hills
+ 
+Tangamng approach road
+25.269949
+91.875273
+Debris
+Slide
+NA
+19873
+ME/EKJ/78O15/2015/121
+Meghalaya
+East Khasi Hills
+ 
+Tangamng approach road
+25.27142
+91.874884
+Debris
+Slide
+NA
+19874
+ME/EKJ/78O15/2015/122
+Meghalaya
+East Khasi Hills
+ 
+Tangamng approach road
+25.27197
+91.874872
+Debris
+Slide
+NA
+19875
+MG/EKH/78O11/2017/8
+Meghalaya
+East Khasi Hills
+ 
+<Null>
+25.273217
+91.609962
+Rock
+Slide
+NA
+19876
+MG/EKH/78O11/2017/16
+Meghalaya
+East Khasi Hills
+ 
+Along MawsynramLawbah
+25.27342
+91.578074
+Rock
+Slide
+NA
+19877
+MG/EKH/78O11/2017/10
+Meghalaya
+East Khasi Hills
+ 
+Along MawsynramLawbah
+25.273477
+91.577794
+Rock
+Slide
+NA
+19878
+MEG/WJH/83C4/2016/127
+Meghalaya
+East Jaintia Hills
+1.57 km SW ofUmtyra
+NH44
+25.274
+92.373944
+Debris
+Slide
+2016
+19879
+ME/EKJ/78O15/2015/113
+Meghalaya
+East Khasi Hills
+ 
+Mawbeh approach road
+25.277215
+91.865449
+Debris
+Slide
+NA
+19880
+MG/EKH/78O11/2017/3
+Meghalaya
+East Khasi Hills
+ 
+Along MawsynramLawbah
+25.277934
+91.575
+Rock
+Slide
+NA
+19881
+MG/WKH/78O07/2017/2
+Meghalaya
+South West Khasi  Hills
+Nongnah slide
+NongnahRanikor road
+25.278028
+91.348931
+Rock
+Slide
+NA
+19882
+MEG/WJH/83C4/2016/128
+Meghalaya
+East Jaintia Hills
+0.65 km S of Umtyra
+NH44
+25.280528
+92.380042
+Debris
+Slide
+2014
+19883
+MEG/WJH/83C4/2016/139
+Meghalaya
+East Jaintia Hills
+2.63 km E of Umsatai
+ 
+25.281122
+92.345397
+Debris
+Slide
+2016
+19884
+MEG/WJH/83C4/2016/138
+Meghalaya
+East Jaintia Hills
+2.24 km E of Umsatai
+ 
+25.282267
+92.341433
+Debris
+Slide
+2016
+19885
+MEG/EKH/78O11/2024/03
+Meghalaya
+East Khasi Hills
+NA
+NA
+25.28236861
+91.73874417
+Debris
+Slide and flow
+30 May 2024 at 02:00 AM.
+19886
+MG/EKH/78O11/2017/14
+Meghalaya
+East Khasi Hills
+ 
+<Null>
+25.282485
+91.57685
+Rock
+Slide
+NA
+19887
+ME/EKJ/78O15/2015/114
+Meghalaya
+East Khasi Hills
+ 
+Nongjiri approach road
+25.282608
+91.867354
+Debris
+Slide
+NA
+19888
+MG/EKH/78O11/2017/13
+Meghalaya
+East Khasi Hills
+ 
+<Null>
+25.282943
+91.580161
+Rock
+Slide
+NA
+19889
+MG/WKH/78O03/2017/14
+Meghalaya
+West Khasi Hills
+1.1 km N of Nongphanwior
+Phlangdiloin  langpa road
+25.288467
+91.224269
+Debris
+Slide
+NA
+19890
+MG/EKH/78O11/2017/5
+Meghalaya
+South West Khasi  Hills
+ 
+<Null>
+25.289055
+91.533039
+Rock
+Slide
+NA
+19891
+ME/EKJ/78O15/2015/108
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (Shillong-Dauki road)
+25.294601
+91.930853
+Debris
+Slide
+NA
+19892
+MEGH/EKH/78O15/2009/D-41
+Meghalaya
+East Khasi Hills
+Siatbakan slide
+ 
+25.294778
+91.930833
+Rock
+Slide
+NA
+19893
+MG/EKH/78O11/2017/2
+Meghalaya
+East Khasi Hills
+ 
+village approach road
+25.295624
+91.56964
+Rock
+Slide
+NA
+19894
+MG/WKH/78O03/2017/12
+Meghalaya
+West Khasi Hills
+2 km N of Kulang
+Kulang  Sdaddkhar road
+25.295881
+91.071747
+Debris
+Slide
+NA
+19895
+MEG/EKH/78O15/2022/01
+Meghalaya
+East Khasi Hills
+NA
+NA
+25.296
+91.932
+Rock
+Slide
+04 April 2022
+19896
+MEG/WJH/83C4/2016/129
+Meghalaya
+East Jaintia Hills
+1.38 km NNE of Umtyra
+NH44
+25.297628
+92.387525
+Debris
+Slide
+2016
+19897
+MEGH/EKH/78O15/2008/D-44
+Meghalaya
+East Khasi Hills
+Pynursla-4 slide
+ 
+25.298806
+91.923167
+Rock
+Slide
+NA
+19898
+MG/EKH/78O11/2017/1
+Meghalaya
+East Khasi Hills
+Arwa Slide
+Along the way (near) to Arwa 
+cave
+25.298951
+91.726475
+Rock
+Slide
+NA
+19899
+MG/WKH/78O07/2017/3
+Meghalaya
+South West Khasi  Hills
+Turnia Shining Secondary School slide Ngunrao village.
+25.299369
+91.325575
+Debris
+Slide
+NA
+19900
+MG/EKH/78O11/2017/9
+Meghalaya
+East Khasi Hills
+ 
+Along the way to Arwa cave
+25.299931
+91.726268
+Rock
+Slide
+NA
+19901
+ME/EKJ/78O15/2015/123
+Meghalaya
+East Khasi Hills
+ 
+Pynter approach raod
+25.300281
+91.944944
+Rock
+Slide
+NA
+19902
+MEGH/EKH/78O11/2009/D-37
+Meghalaya
+East Khasi Hills
+Umstew landslide
+Road (Shillong-Sohra)
+25.300389
+91.726722
+Debris
+Slide
+29 June 2009
+19903
+MEGH/EKH/78O15/2008/D-42
+Meghalaya
+East Khasi Hills
+Pynursla slide
+ 
+25.301167
+91.929306
+Rock
+Slide
+NA
+19904
+ME/EKJ/78O15/2015/112
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (Shillong-Dauki road)
+25.301383
+91.922017
+Debris
+Slide
+NA
+19905
+MEGH/EKH/78O15/2008/D-43
+Meghalaya
+East Khasi Hills
+Pynursla-2 slide
+ 
+25.301444
+91.9245
+Rock
+Slide
+NA
+19906
+ME/EKJ/78O15/2015/111
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (Shillong-Dauki road)
+25.301559
+91.922585
+Debris
+Slide
+NA
+19907
+ME/EKJ/78O15/2015/110
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (Shillong-Dauki road)
+25.301676
+91.923138
+Debris
+Slide
+NA
+19908
+ME/EKJ/78O15/2015/109
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (Shillong-Dauki road)
+25.302544
+91.925218
+Debris
+Slide
+NA
+19909
+MG/WKH/78O03/2017/13
+Meghalaya
+West Khasi Hills
+3 km NNE of Kulang
+Kulang  Sdaddkhar road
+25.305047
+91.075778
+Debris
+Slide
+NA
+19910
+MG/EJH/83C11/2018/17
+Meghalaya
+East Jaintia Hills
+Thuruk slide no 5
+Lura-Thuruk road
+25.309969
+92.69525
+Rock
+Slide
+NA
+19911
+MG/WKH/78K15/2018/4
+Meghalaya
+West Khasi Hills
+South of Shikna
+NULL
+25.311336
+90.969222
+Debris
+Slide
+NA

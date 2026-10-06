@@ -1,0 +1,426 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20070
+ME/EKJ/78O15/2015/70
+Meghalaya
+East Khasi Hills
+ 
+Shillong-Sohra road
+25.452164
+91.819054
+Debris
+Slide
+NA
+20071
+MG/WKH/78O03/2017/11
+Meghalaya
+West Khasi Hills
+1 km NNW of Nongpathar
+Maweit  Nongyier road
+25.455639
+91.082944
+Debris
+Slide
+NA
+20072
+MG/WKH/78O03/2017/4
+Meghalaya
+West Khasi Hills
+1 km N of Nongpathar
+Nongstoin  Maweit road
+25.455817
+91.086289
+Debris
+Slide
+NA
+20073
+ME/EKJ/78O15/2015/57
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (4 km from laityngkot)
+25.461894
+91.830791
+Debris
+Slide
+NA
+20074
+MG/WKH/78O03/2017/3
+Meghalaya
+West Khasi Hills
+0.5 kmmiangshang SSW of Nong
+Nongstoin  Maweit road
+25.462319
+91.096836
+Debris
+Slide
+NA
+20075
+ME/WJH/83C03/2015/175
+Meghalaya
+West Jaintia Hills
+ 
+.7km SE of Dienglieng
+25.463778
+92.04425
+Debris
+Slide
+NA
+20076
+MG/SGH/78K11/2018/5
+Meghalaya
+South Garo hills
+Nengkhra-Nongalbibra road slide
+NH-62
+25.47542
+90.698611
+Debris
+Slide
+NA
+20077
+MG/WKH/78K15/2018/1
+Meghalaya
+West Khasi Hills
+Northwest of Awiak
+NULL
+25.479069
+90.807167
+Debris
+Slide
+NA
+20078
+MG/EJH/83C11/2018/1
+Meghalaya
+East Jaintia Hills
+Nongryngkoh slide
+2 km West of Nongryngkoh
+25.484178
+92.510928
+Rock
+Slide
+NA
+20079
+MG/SGH/78K11/2018/4
+Meghalaya
+South Garo hills
+Nengkhra-Nongalbibra road slide
+NH-62
+25.48586
+90.7005
+Debris
+Slide
+NA
+20080
+ME/EKH/83C02/2015/186
+Meghalaya
+East Khasi Hills
+ 
+ 
+25.489833
+92.069033
+Rock
+Slide
+NA
+20081
+ME/WJH/83C03/2015/176
+Meghalaya
+West Jaintia Hills
+ 
+2km NW of Nongjrong
+25.490472
+92.069472
+Debris
+Slide
+NA
+20082
+ME/WJH/883C03/2015/198
+Meghalaya
+West Jaintia Hills
+ 
+ 
+25.490475
+92.069278
+Rock
+Slide
+NA
+20083
+ME/WJH/83C03/2015/177
+Meghalaya
+West Jaintia Hills
+ 
+2.3km NW of Nongjrong
+25.490961
+92.070397
+Debris
+Slide
+NA
+20084
+ME/EKJ/78O15/2015/56
+Meghalaya
+East Khasi Hills
+ 
+Mylliem (south)
+25.49137
+91.821688
+Debris
+Slide
+NA
+20085
+MEG/EKH/78O11/2021/002
+Meghalaya
+East Khasi Hills
+NA
+NA
+25.49151667
+91.77329444
+Rock
+Rock fall
+NA
+20086
+MG/WKH/78O03/2017/2
+Meghalaya
+West Khasi Hills
+Wah Lyngdoh
+Nongstoin  Maweit road
+25.496081
+91.117675
+Debris
+Slide
+NA
+20087
+MG/WKH/78O03/2017/1
+Meghalaya
+West Khasi Hills
+0.9 km E of Mawlait
+Nongstoin  Maweit road
+25.496367
+91.163575
+Debris
+Slide
+NA
+20088
+MG/WKH/78O03/2017/17
+Meghalaya
+West Khasi Hills
+Mawlangriang
+Nongstoin  Riangpoit road
+25.496861
+91.198556
+Debris
+Slide
+NA
+20089
+MEG/EKH/78O15/2021/01
+Meghalaya
+East Khasi Hills
+NA
+NA
+25.49736111
+91.77902778
+Debris
+Slide
+2021
+20090
+MEG/ EKH/ 78011/2021/03
+Meghalaya
+East Khasi Hills
+NA
+NA
+25.49833333
+91.73361111
+Debris
+Slide
+2021
+20091
+MG/WGH/78K03/2020/1
+Meghalaya
+West Garo Hills
+Tura-Dalu road slide no1
+NH-217,Tura Dalu Road, 
+Dobasipara, Tura
+25.5
+90.21
+Debris
+Slide
+NA
+20092
+MG/WGH/78K03/2020/2
+Meghalaya
+West Garo Hills
+Tura-Dalu road slide no2
+NH-217,Tura Dalu Road, Tura
+25.5
+90.22
+Debris
+Slide
+2019
+20093
+MG/WGH/78K03/2020/3
+Meghalaya
+West Garo Hills
+Tura-Dalu road slide no 3
+NH-217,Tura Dalu Road, Tura
+25.5
+90.22
+Debris
+Slide
+2019
+20094
+MG/WGH/78K03/2020/4
+Meghalaya
+West Garo Hills
+Tura-Dalu road slide no 4
+NH-217,Tura Dalu Road, Tura
+25.5
+90.22
+Debris
+Slide
+NA
+20095
+MG/EGH/78K10/2018/3
+Meghalaya
+East Garo hills
+Williamnagar road slide
+NH-127B
+25.5014
+90.68972
+Debris
+Slide
+NA
+20096
+MEGH/WKH/78O06/2007/D-8
+Meghalaya
+West Khasi Hills
+Nongjyllieh slide
+ 
+25.50335
+91.28335
+Rock
+Slide
+25 July 2007
+20097
+MEG/EKH/78O10/2021/04
+Meghalaya
+East Khasi Hills
+NA
+NA
+25.50368056
+91.72342222
+Rock
+Slide
+19 July 2007
+20098
+MEG/EKH/78O10/2016/32
+Meghalaya
+East Khasi Hills
+ShillongMairang bypass R.S4
+New Shillong mairang bypass 
+road 2 km E of Sohiong village
+25.504083
+91.723028
+Debris
+Slide
+2016
+20099
+MEGH/WKH/78O06/2007/D-9
+Meghalaya
+West Khasi Hills
+Nongjyllieh-2 slide
+ 
+25.50667
+91.28318
+Debris
+Slide
+19 July 2007
+20100
+MG/WKH/78O02/2017/46
+Meghalaya
+West Khasi Hills
+0.6 km SW of Thahkanar
+Nongstoin  Maweit road
+25.507378
+91.223883
+Debris
+Slide
+NA
+20101
+MG/WKH/78O02/2017/47
+Meghalaya
+West Khasi Hills
+0.5 km SW of Thahkanar
+Nongstoin  Maweit road
+25.507528
+91.224333
+Soil
+Slide
+NA
+20102
+MEG/EKH/78O10/2016/29
+Meghalaya
+East Khasi Hills
+ShillongMairang bypass R.S1
+New Shillong mairang bypass 
+road 1.5 km NW of Sohiong 
+village
+25.507586
+91.708236
+Debris
+Slide
+2016
+20103
+MG/EGH/78K10/2018/2
+Meghalaya
+East Garo hills
+Williamnagar road slide
+NH-127B
+25.50781
+90.68
+Rock
+Slide
+NA
+20104
+MG/WKH/78O02/2017/48
+Meghalaya
+West Khasi Hills
+0.4 km SW of Thahkanar
+Nongstoin  Maweit road
+25.508
+91.225694
+Soil
+Slide
+NA
+20105
+MEG/EKH/78O10/2016/30
+Meghalaya
+East Khasi Hills
+ShillongMairang bypass R.S2
+New Shillong mairang bypass 
+road 2 km NW of Sohiong 
+village
+25.509233
+91.703961
+Debris
+Slide
+2016
+20106
+MEG/EKH/78O10/2016/31
+Meghalaya
+East Khasi Hills
+ShillongMairang bypass R.S3
+New Shillong mairang bypass 
+road 1 km NE of Sohiong village
+25.509358
+91.719631
+Debris
+Slide
+2016

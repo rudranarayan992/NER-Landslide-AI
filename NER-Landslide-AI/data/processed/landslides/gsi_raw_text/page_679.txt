@@ -1,0 +1,461 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+26921
+5724
+Tripura
+North Tripura
+Hmunpui
+South of Hmunpui, NH-44A 
+Kanchanpur - Vangmun road 
+section
+24.033017
+92.26034
+Rock
+Slide
+ July 2025
+26922
+5745
+Tripura
+North Tripura
+24.24263
+92.212137
+Debris
+slide
+NA
+26923
+5746
+Tripura
+North Tripura
+24.209473
+92.27134
+Debris
+slide
+NA
+26924
+5781
+Tripura
+Dhalai
+23.91951111
+91.87873333
+Soil
+Slide
+2024
+26925
+7454
+Tripura
+West Tripura
+Badharghat
+Near hill slope behind 
+residential area
+23.802772
+91.272189
+Soil and Rock
+Slide
+30 May 2026
+26926
+TN/KAN/58H07/2020/1
+Tamil Nadu
+Kanyakumari
+Balamore estate slide
+Balamore ghat road
+8.49
+77.39
+Debris
+Slide
+NA
+26927
+TN/TIR/58H06/2020/1
+Tamil Nadu
+Tirunelveli
+Sengaltheri slide -1
+Thalayanai to Sengaltheri road
+8.54
+77.47
+Debris
+Slide
+NA
+26928
+TN/TIR/58H06/2020/2
+Tamil Nadu
+Tirunelveli
+Sengaltheri slide -2
+Thalayanai to Sengaltheri road
+8.54
+77.47
+Debris
+Slide
+NA
+26929
+TN/TIR/58H06/2020/4
+Tamil Nadu
+Tirunelveli
+Muthaliruppan slide
+Thalayanai-Sengaltheri ghat 
+road
+8.54
+77.47
+Debris
+Slide
+NA
+26930
+TN/TIR/58H06/2020/7
+Tamil Nadu
+Tirunelveli
+Nalumukku slide
+Manjolai-Kudhiraivetti road
+8.56
+77.4
+Debris
+Slide
+NA
+26931
+TN/TIR/58H06/2020/3
+Tamil Nadu
+Tirunelveli
+Manjolai estate check post
+Manjolai
+8.58
+77.43
+Debris
+Slide
+NA
+26932
+TN/TIR/58H06/2020/5
+Tamil Nadu
+Tirunelveli
+Oothu slide-1
+Oothu to Manjolai ghat road
+8.59
+77.35
+Debris
+Flow
+NA
+26933
+TN/TIR/58H06/2020/6
+Tamil Nadu
+Tirunelveli
+Oothu slide-2
+Manjolai- Kuthiraivetti road
+8.59
+77.35
+Debris
+Slide
+NA
+26934
+TN/TIR/58G08/2020/9
+Tamil Nadu
+Tirunelveli
+Cortallam road Rock fall
+Road from Tenkasi to 
+Courtallam
+8.9
+77.3
+Rock
+Fall
+NA
+26935
+TN/TIR/58G08/2020/8
+Tamil Nadu
+Tirunelveli
+ 
+Road from Sengottai to Kollam
+9
+77.17
+Debris
+Slide
+NA
+26936
+TN/VIR/58G04/2020/1
+Tamil Nadu
+Virudhunagar
+Mekkarai slide
+Mekkarai
+9.07
+77.22
+Debris
+Flow
+1992
+26937
+TN/VIR/58G07/2020/1
+Tamil Nadu
+Virudhunagar
+Sastha kovil west debris flow
+West of Sastha kovil
+9.45
+77.37
+Debris
+Flow
+2018
+26938
+TN/THE/58G06/2015/32
+Tamil Nadu
+Theni
+ 
+Vellimalai road
+9.53
+77.4
+Earth
+Slide
+NA
+26939
+TN/THE/58G06/2015/31
+Tamil Nadu
+Theni
+ 
+Vellimalai road
+9.54
+77.37
+Earth
+Slide
+NA
+26940
+TN/THE/58G06/2015/30
+Tamil Nadu
+Theni
+ 
+Vellimalai road
+9.55
+77.38
+Earth
+Slide
+NA
+26941
+TN/THE/58G06/2015/9
+Tamil Nadu
+Theni
+ 
+Vellimalai road
+9.57
+77.4
+Earth
+Slide
+NA
+26942
+TN/THE/58G06/2015/16
+Tamil Nadu
+Theni
+ 
+Vellimalai road
+9.59
+77.41
+Earth
+Slide
+NA
+26943
+TN/THE/58G06/2015/24
+Tamil Nadu
+Theni
+ 
+Near Ervayalar Dam
+9.61
+77.3
+Earth
+Slide
+NA
+26944
+TN/THE/58G06/2015/29
+Tamil Nadu
+Theni
+ 
+Veniyar Tea Estate
+9.61
+77.31
+Debris
+Slide
+NA
+26945
+TN/THE/58G06/2015/15
+Tamil Nadu
+Theni
+ 
+Vellimalai road
+9.61
+77.42
+Earth
+Slide
+NA
+26946
+TN/THE/58G06/2015/17
+Tamil Nadu
+Theni
+ 
+Manalar Tea Estate
+9.62
+77.34
+Debris
+Slide
+NA
+26947
+TN/THE/58G06/2015/19
+Tamil Nadu
+Theni
+ 
+Road to Venniyar Tea Estate
+9.62
+77.33
+Earth
+Slide
+NA
+26948
+TN/THE/58G06/2015/20
+Tamil Nadu
+Theni
+ 
+Venniyar Tea Estate
+9.62
+77.31
+Earth
+Slide
+NA
+26949
+TN/THE/58G06/2015/22
+Tamil Nadu
+Theni
+ 
+Maharaja Mettu Estate
+9.62
+77.3
+Debris
+Slide
+NA
+26950
+TN/THE/58G06/2015/1
+Tamil Nadu
+Theni
+ 
+Suruliyar P.H., HPB 18
+9.62
+77.28
+Debris
+Slide
+NA
+26951
+TN/THE/58G06/2015/7
+Tamil Nadu
+Theni
+ 
+Highwavys dam
+9.65
+77.36
+Earth
+Slide
+NA
+26952
+TN/THE/58G06/2015/5
+Tamil Nadu
+Theni
+ 
+Woodbriar Tea Estate
+9.68
+77.39
+Earth
+Slide
+NA
+26953
+TN/THE/58G06/2015/12
+Tamil Nadu
+Theni
+ 
+Woodbriar office
+9.69
+77.39
+Earth
+Slide
+NA
+26954
+TN/THE/58G06/2015/3
+Tamil Nadu
+Theni
+ 
+Road to Meghamalai
+9.7
+77.4
+Earth
+Slide
+NA
+26955
+TN/THE/58G06/2015/8
+Tamil Nadu
+Theni
+ 
+Vellimalai road
+9.71
+77.41
+Earth
+Slide
+NA
+26956
+TN/THE/58G06/2015/33
+Tamil Nadu
+Theni
+ 
+Meghamalai Road, HPB 15
+9.72
+77.42
+Debris
+Slide
+NA
+26957
+TN/THE/58G06/2015/34
+Tamil Nadu
+Theni
+ 
+Meghamalai Road, After HPB 18 9.72
+77.41
+Earth
+Slide
+NA
+26958
+TN/MAD/58G10/2019/1
+Tamil Nadu
+Madurai
+Melpatti rock fall
+Melpatti
+9.72
+77.74
+Rock
+Fall
+NA
+26959
+TN/THE/58G06/2015/11
+Tamil Nadu
+Theni
+ 
+Meghamalai Road, HPB- 10/18
+9.73
+77.42
+Earth
+Slide
+NA
+26960
+TN/TEN/58F08/2016/48
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.019722
+77.265664
+Debris
+Slide
+NA
+26961
+TN/TEN/58F08/2016/49
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.020022
+77.265406
+Debris
+Slide
+NA

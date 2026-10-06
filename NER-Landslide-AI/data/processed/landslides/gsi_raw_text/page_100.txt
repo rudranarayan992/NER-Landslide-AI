@@ -1,0 +1,513 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+3975
+HP/SOL/53A16/2017/186
+Himachal Pradesh
+Solan
+ 
+TAMU
+31.074417
+76.821556
+Debris
+Slide
+NA
+3976
+HP/SOL/53A16/2017/44
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.074556
+76.943944
+Debris
+Slide
+NA
+3977
+HP/SOL/53A16/2017/47
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.074639
+76.939194
+Rock
+Slide
+NA
+3978
+HP/SOL/53A16/2017/50
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.074972
+76.935139
+Rock
+Slide
+NA
+3979
+HP/SHI/53E16/2016/57
+Himachal Pradesh
+Shimla
+ 
+NEAR KUDDUNH-72-
+31.0751
+77.8105
+Debris
+Fall
+NA
+3980
+HP/SOL/53A16/2017/49
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.075111
+76.935972
+Rock
+Slide
+NA
+3981
+HP/SOL/53A16/2017/55
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.075167
+76.8975
+Debris
+Slide
+NA
+3982
+HP/SOL/53A16/2017/46
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.075333
+76.940139
+Debris
+Slide
+NA
+3983
+HP/SHI/53E16/2016/168
+Himachal Pradesh
+Shimla
+ 
+NEAR KUDDUKUDDU-
+DHARMAN ROAD
+31.0757
+77.8056
+Debris
+Fall
+NA
+3984
+HP/SHI/53E04/2017/26
+Himachal Pradesh
+Shimla
+ 
+CHHOTA SHIMLA
+31.075944
+77.182333
+Rock
+Slide
+NA
+3985
+HP/SOL/53A16/2017/45
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.076139
+76.943167
+Debris
+Slide
+NA
+3986
+HP/SOL/53A16/2017/185
+Himachal Pradesh
+Solan
+ 
+RAMSHAHR
+31.076222
+76.802222
+Debris
+Slide
+NA
+3987
+HP/SOL/53A16/2017/198
+Himachal Pradesh
+Solan
+ 
+BAKRUDI
+31.076528
+76.778306
+Rock
+Slide
+NA
+3988
+HP/SOL/53A16/2017/213
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.07725
+76.86025
+Debris
+Slide
+NA
+3989
+HP/SOL/53A16/2017/178
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.077556
+76.752722
+Rock
+Slide
+NA
+3990
+HP/SHI/53E04/2017/25
+Himachal Pradesh
+Shimla
+ 
+CHHOTA SHIMLA
+31.077922
+77.185267
+Rock
+Slide
+NA
+3991
+HP/SHI/53E16/2016/165
+Himachal Pradesh
+Shimla
+ 
+NEAR KUDDUKUDDU-DARMAN 
+ROAD
+31.078
+77.7817
+Debris
+Slide
+NA
+3992
+HP/SOL/53A16/2017/179
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.078194
+76.756639
+Debris
+Slide
+NA
+3993
+HP/SOL/53A16/2017/214
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.07875
+76.86125
+Debris
+Slide
+NA
+3994
+HP/SHI/53E04/2017/24
+Himachal Pradesh
+Shimla
+ 
+CHHOTA SHIMLA
+31.07923
+77.184984
+Rock
+Slide
+NA
+3995
+HP/SHI/53E08/2016/89
+Himachal Pradesh
+Shimla
+ 
+TalaiSH-5
+31.079746
+77.307343
+Rock cum debris
+Slide
+NA
+3996
+HP/SOL/53A16/2017/43
+Himachal Pradesh
+Solan
+ 
+KOTHI,SH 9
+31.080667
+76.953278
+Rock
+Slide
+NA
+3997
+HP/SOL/53A16/2017/184
+Himachal Pradesh
+Solan
+ 
+RAMSHAHR
+31.080972
+76.80325
+Rock
+Slide
+NA
+3998
+HP/SHI/53E16/2016/167
+Himachal Pradesh
+Shimla
+ 
+KUDDU-DHARMANKUDDU-
+DHARMAN ROAD
+31.0813
+77.7984
+Debris
+Fall
+NA
+3999
+HP/SHI/53E04/2017/23
+Himachal Pradesh
+Shimla
+ 
+NH 22
+31.081616
+77.185323
+Rock
+Slide
+NA
+4000
+HP/SOL/53E04/2017/241
+Himachal Pradesh
+Solan
+ 
+SHOGI KASUMPTI ROAD
+31.082222
+77.052389
+Debris
+Slide
+NA
+4001
+HP/SOL/53A16/2017/120
+Himachal Pradesh
+Solan
+ 
+KOTHI
+31.082639
+76.954806
+Rock
+Slide
+NA
+4002
+HP/SOL/53A16/2017/183
+Himachal Pradesh
+Solan
+ 
+SH 16,RAMSHAHR
+31.083417
+76.790944
+Rock
+Slide
+NA
+4003
+HP/SHI/53E16/2016/55
+Himachal Pradesh
+Shimla
+ 
+LEFT BANK OF 
+PABBAROPPOSITE OF KUDDU
+31.0835
+77.8089
+Debris
+Slide
+NA
+4004
+HP/SOL/53A16/2017/182
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.083667
+76.785806
+Rock
+Slide
+NA
+4005
+HP/SOL/53A16/2017/215
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.084083
+76.863167
+Debris
+Slide
+NA
+4006
+HP/SHI/53E16/2016/43
+Himachal Pradesh
+Shimla
+ 
+NEAR PAHAR
+31.0841
+77.7901
+Debris
+Slide
+NA
+4007
+HP/SHI/53E16/2016/112
+Himachal Pradesh
+Shimla
+ 
+KUDDU-DHARMANKUDDU-
+DHARMAN ROAD
+31.0841
+77.7937
+Debris
+Slide
+NA
+4008
+HP/SOL/53E04/2017/242
+Himachal Pradesh
+Solan
+ 
+SHOGI KASUMPTI ROAD
+31.08425
+77.060278
+Debris
+Slide
+2017
+4009
+HP/SHI/53E08/2016/24
+Himachal Pradesh
+Shimla
+ 
+Fagu roadSH-5
+31.084267
+77.306457
+Rock cum debris
+Slide
+NA
+4010
+HP/SOL/53A16/2017/72
+Himachal Pradesh
+Solan
+ 
+JANDU
+31.084444
+76.843333
+Debris
+Slide
+NA
+4011
+HP/SOL/53A16/2017/71
+Himachal Pradesh
+Solan
+ 
+JANDU
+31.084472
+76.844083
+Debris
+Slide
+NA
+4012
+HP/SHI/53E16/2016/197
+Himachal Pradesh
+Shimla
+ 
+DARKOTIKUDDU-DARMAN 
+ROAD
+31.0845
+77.7912
+Debris
+Slide
+NA
+4013
+HP/SHI/53E04/2017/184
+Himachal Pradesh
+Shimla
+ 
+NH 88
+31.084833
+77.135972
+Debris
+Slide
+NA
+4014
+HP/SOL/53A16/2017/73
+Himachal Pradesh
+Solan
+ 
+JANDU
+31.085028
+76.841167
+Debris
+Slide
+NA
+4015
+HP/SHI/53E08/2016/8
+Himachal Pradesh
+Shimla
+ 
+Chella-Sainj roadSH-6
+31.085105
+77.389778
+Rock cum debris
+Slide
+NA
+4016
+HP/SHI/53E04/2017/21
+Himachal Pradesh
+Shimla
+ 
+SHIMLA
+31.08525
+77.190972
+Rock
+Slide
+NA
+4017
+HP/SOL/53A16/2017/74
+Himachal Pradesh
+Solan
+ 
+JANDU
+31.085389
+76.840917
+Debris
+Slide
+NA
+4018
+HP/SOL/53A16/2017/181
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.085611
+76.77825
+Debris
+Slide
+NA
+4019
+HP/SOL/53A16/2017/56
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.086194
+76.886417
+Rock
+Slide
+NA

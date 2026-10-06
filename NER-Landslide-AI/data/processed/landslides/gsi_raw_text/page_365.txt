@@ -1,0 +1,398 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15099
+KRL/IDK/58C13/2018/108
+KERALA
+IDUKKI
+Karimpan-Manipara
+nil
+9.897713323
+76.96713148
+Debris
+slide graded 
+into flow
+15th August 2018
+15100
+KRL/IDK/58C13/2018/109
+KERALA
+IDUKKI
+Manipara
+nil
+9.896606156
+76.96787244
+Debris
+flow,direction 
+N90
+15th August 2018
+15101
+KRL/IDK/58C13/2018/110
+KERALA
+IDUKKI
+Manipara
+nil
+9.896095749
+76.96549912
+Debris
+flow,direction 
+N80
+15th August 2018
+15102
+KRL/IDK/58C13/2018/111
+KERALA
+IDUKKI
+Manipara
+nil
+9.896225924
+76.96487997
+Debris
+flow
+15th August 2018
+15103
+KRL/IDK/58C13/2018/112
+KERALA
+IDUKKI
+Karimpan -Attikalam
+Cheruthoni-Ernakulam road.
+9.899932135
+76.96951501
+Debris
+slide
+15th August 2018
+15104
+KRL/IDK/58C13/2018/113
+KERALA
+IDUKKI
+Karimpan
+Cheruthoni-Ernakulam road.
+9.896373726
+76.97205552
+Debris
+slide,direction 
+140
+15th August 2018
+15105
+KRL/IDK/58C13/2018/114
+KERALA
+IDUKKI
+Karimpan
+Cheruthoni-Ernakulam road.
+9.894890916
+76.97211049
+Debris
+flow,directiom 
+115
+15th August 2018
+15106
+KRL/IDK/58C13/2018/115
+KERALA
+IDUKKI
+Karimpan
+Cheruthoni-Ernakulam road.
+9.893845359
+76.97159373
+Debris
+slide
+15th August 2018
+15107
+KRL/IDK/58C13/2018/116
+KERALA
+IDUKKI
+Karimpan bus stand
+nil
+9.893600818
+76.97167432
+Debris
+slide, direction 
+N80
+15th August 2018
+15108
+KRL/IDK/58C13/2018/117
+KERALA
+IDUKKI
+Karimpan
+nil
+9.892361533
+76.97182191
+Debris
+slide, direction 
+N150
+15th August 2018
+15109
+KRL/IDK/58C13/2018/118
+KERALA
+IDUKKI
+Karimpan
+nil
+9.89132512
+76.97128698
+Debris
+slide
+15th August 2018
+15110
+KRL/IDK/58C13/2018/119
+KERALA
+IDUKKI
+Karimpan
+nil
+9.876282701
+76.96674878
+Debris
+slide, direction 
+N110
+15th August 2018
+15111
+KRL/IDK/58C13/2018/120
+KERALA
+IDUKKI
+Pallikavala
+nil
+9.873823491
+76.96527563
+Debris
+slide, direction 
+N55
+15th August 2018
+15112
+KRL/IDK/58C13/2018/121
+KERALA
+IDUKKI
+Pallikavala
+nil
+9.872201729
+76.96280473
+Debris
+slide, direction 
+N30
+15th August 2018
+15113
+KRL/IDK/58C13/2018/122
+KERALA
+IDUKKI
+Gandhinagar
+Peppara Cheruthoni-Adimali 
+road
+9.866450778
+76.96465761
+Earth
+flow, direction 
+N60
+15th August 2018
+15114
+KRL/IDK/58C13/2018/123
+KERALA
+IDUKKI
+Vellakayam
+nil
+9.860503084
+76.96924393
+Debris
+slide, direction 
+N130
+15th August 2018
+15115
+KRL/IDK/58C13/2018/124
+KERALA
+IDUKKI
+Vellakayam
+nil
+9.859678381
+76.96960366
+Debris
+15th August 2018
+15116
+KRL/IDK/58C13/2018/125
+KERALA
+IDUKKI
+Gandhinagar
+nil
+9.858306034
+76.96311442
+Debris
+slide
+15th August 2018
+15117
+KRL/IDK/58C13/2018/126
+KERALA
+IDUKKI
+Gandhinagar
+nil
+9.858770135
+76.9641381
+Debris
+flow
+15th August 2018
+15118
+KRL/IDK/58C13/2018/127
+KERALA
+IDUKKI
+Gandhinagar
+nil
+9.858640824
+76.96461134
+Debris
+slide
+15th August 2018
+15119
+KRL/IDK/58C13/2018/128
+KERALA
+IDUKKI
+Gandhinagar
+nil
+9.857203587
+76.96615245
+Debris
+slide
+15th August 2018
+15120
+KRL/IDK/58C13/2018/129
+KERALA
+IDUKKI
+Gandhinagar
+nil
+9.855919641
+76.96775827
+Debris
+flow
+15th August 2018
+15121
+KRL/IDK/58C13/2018/130
+KERALA
+IDUKKI
+Gandhinagar
+nil
+9.855886993
+76.96870607
+Debris
+slide
+15th August 2018
+15122
+KRL/IDK/58C13/2018/131
+KERALA
+IDUKKI
+Gandhinagar
+nil
+9.855107701
+76.9690296
+Debris
+slide
+15th August 2018
+15123
+KRL/IDK/58C13/2018/132
+KERALA
+IDUKKI
+Gandhinagar
+nil
+9.854931962
+76.96661299
+Debris
+slide
+15th August 2018
+15124
+KRL/IDK/58C13/2018/133
+KERALA
+IDUKKI
+Gandhinagar
+nil
+9.855986735
+76.96555274
+Debris
+flow
+15th August 2018
+15125
+KRL/IDK/58C13/2018/134
+KERALA
+IDUKKI
+Gandhinagar
+nil
+9.856484268
+76.96549188
+Debris
+slide
+15th August 2018
+15126
+KRL/IDK/58C13/2018/135
+KERALA
+IDUKKI
+Gandhinagar
+nil
+9.852044755
+76.97187362
+Debris
+slide
+15th August 2018
+15127
+KRL/IDK/58C13/2018/136
+KERALA
+IDUKKI
+Cheruthoni CSI Church
+Cheruthoni-Alinchuvadu road.
+9.857386113
+76.9643031
+Debris
+flow
+15th August 2018
+15128
+KRL/IDK/58C13/2018/137
+KERALA
+IDUKKI
+Cheruthoni
+Painavu- Thodupuzha road
+9.856677314
+76.96338736
+Debris
+slide
+15th August 2018
+15129
+KRL/IDK/58C13/2018/138
+KERALA
+IDUKKI
+Cheruthoni Junction 
+Painavu- Thodupuzha road
+9.856634928
+76.962904
+Debris
+slide
+15th August 2018
+15130
+KRL/IDK/58C13/2018/139
+KERALA
+IDUKKI
+Cheruthoni Petrol pumb
+Painavu- Thodupuzha road
+9.855011988
+76.9621834
+Debris
+slide
+15th August 2018
+15131
+KRL/IDK/58C13/2018/140
+KERALA
+IDUKKI
+Gandhinagar
+nil
+9.856794259
+76.96503795
+Debris
+slide
+15th August 2018
+15132
+KRL/IDK/58C13/2018/141
+KERALA
+IDUKKI
+Cheruthon-Vanjikavala road
+nil
+9.859747103
+76.96246663
+Debris
+slide
+15th August 2018

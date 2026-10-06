@@ -1,0 +1,364 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22349
+MIZ/AIZ/84A13/2016/25
+Mizoram
+Aizawl
+ 
+~6.5 km S of Khawruhlian 
+towards Sesawng on NH 150
+23.883306
+92.861917
+Debris
+Flow
+2016
+22350
+MIZ/AIZ/84A13/2016/24
+Mizoram
+Aizawl
+ 
+~4.8 km S of Khawruhlian 
+towards Sesawng on NH 150
+23.88375
+92.866778
+Debris
+Slide
+2016
+22351
+MIZ/AIZ/84A13/2016/21
+Mizoram
+Aizawl
+ 
+2km Khawruhlian milestone 
+towards Sesawng on NH 150
+23.883944
+92.880528
+Debris
+Slide
+2016
+22352
+MZ/CHA/84E01/2017/38
+Mizoram
+Champhai
+ 
+18 km from ngopa
+23.883944
+93.247528
+Rock
+Slide
+NA
+22353
+MZ/CHA/84E01/2017/36
+Mizoram
+Champhai
+Ngopa
+Ngopa village, 0 point
+23.884083
+93.209908
+Rock
+Slide
+NA
+22354
+MZ/CHA/84E01/2017/6
+Mizoram
+Champhai
+ 
+Ngopa village, 0 pointTuivai R
+23.885195
+93.202332
+Rock
+Slide
+NA
+22355
+MZ/CHA/84E01/2017/48
+Mizoram
+Champhai
+ 
+Ngopa village, 0 point to Tuivai 
+river
+23.885279
+93.207726
+Debris
+Flow
+NA
+22356
+MIZ/AIZ/84A13/2016/26
+Mizoram
+Aizawl
+ 
+~7.3 km S of Khawruhlian  
+towards Sesawng on NH 150
+23.885639
+92.857861
+Debris
+Slide
+NA
+22357
+MZ/CHA/84E01/2017/33
+Mizoram
+Champhai
+ 
+Ngopa village, 0 pointTuivai R
+23.886723
+93.200279
+Debris
+Slide
+2017
+22358
+MZ/AIZ/84E01/2017/93
+Mizoram
+Aizawl
+ 
+Ainawl village, near Tuivai river
+23.887251
+93.095612
+Debris
+Slide
+NA
+22359
+MIZ/AIZ/84A13/2016/30
+Mizoram
+Aizawl
+ 
+11 km Khawruhlian milestone 
+towards Sesawng on NH 150
+23.887333
+92.851111
+Debris
+Flow
+2016
+22360
+MZ/AIZ/84E01/2017/66
+Mizoram
+Aizawl
+ 
+ZawnginPhullen section
+23.888081
+93.026642
+Debris
+Slide
+NA
+22361
+MZ/AIZ/84E01/2017/83
+Mizoram
+Aizawl
+ 
+ZawnginPhullen section
+23.888945
+93.033974
+Rock
+Slide
+NA
+22362
+MIZ/AIZ/84A09/2016/55
+Mizoram
+Aizawl
+ 
+Lungdai village, Silchar road
+23.889306
+92.736528
+Rock
+Slide
+NA
+22363
+MZ/CHA/84E05/2017/13
+Mizoram
+Champhai
+ 
+NgopaTeikhang section
+23.890694
+93.275024
+Rock
+Slide
+2017
+22364
+MIZ/AIZ/84A13/2016/28
+Mizoram
+Aizawl
+ 
+10 km Khawruhlian milestone 
+towards Sesawng on NH 150
+23.891722
+92.84925
+Debris
+Slide
+2016
+22365
+MIZ/AIZ/84A13/2016/29
+Mizoram
+Aizawl
+ 
+~07 m from prev location
+23.891722
+92.84925
+Debris
+Slide
+2016
+22366
+MZ/AIZ/84E01/2017/69
+Mizoram
+Aizawl
+ 
+ZawnginPhullen section
+23.894444
+93.019279
+Debris
+Slide
+NA
+22367
+MZ/AIZ/84A09/2014/06
+Mizoram
+Aizawl
+ 
+NH 54
+23.8985
+92.64739
+Rock cum Debris
+Slide
+NA
+22368
+MZ/AIZ/84E01/2017/107
+Mizoram
+Aizawl
+ 
+Zawngin village
+23.899305
+93.015587
+Rock
+Slide
+NA
+22369
+MZ/MAM/84A05/2020/3
+Mizoram
+Mamit
+Mamit-Tuidam road section slide
+Mamit-Tuidam road section
+23.9
+92.39
+Rock
+Slide
+2019
+22370
+MZ/AIZ/84E01/2017/62
+Mizoram
+Aizawl
+ 
+Zawngin village
+23.900694
+93.015587
+Debris
+Slide
+NA
+22371
+MZ/CHA/84E05/2017/12
+Mizoram
+Champhai
+ 
+12 km milestone to Teikhang 
+from Ngopa
+23.901638
+93.278641
+Debris
+Slide
+NA
+22372
+MIZ/AIZ/84A13/2016/8
+Mizoram
+Aizawl
+ 
+Pehlawn
+23.902111
+92.922556
+Debris
+Slide
+2016
+22373
+MZ/CHA/84E01/2017/46
+Mizoram
+Champhai
+ 
+Ngopa village, 0 point to Tuivai 
+river
+23.905027
+93.185776
+Rock
+Slide
+2016
+22374
+MZ/AIZ/84E01/2017/91
+Mizoram
+Aizawl
+ 
+Zawngin village, northern 
+outskirts
+23.907555
+93.015114
+Debris
+Slide
+2017
+22375
+MZ/CHA/84E01/2017/35
+Mizoram
+Champhai
+ 
+Ngopa village, 0 point to Tuivai 
+river
+23.908806
+93.177391
+Debris
+Slide
+2017
+22376
+MZ/CHA/84E01/2017/9
+Mizoram
+Champhai
+ 
+Ngopa village, 0 point to Tuivai 
+river
+23.908806
+93.180832
+Rock
+Slide
+NA
+22377
+MZ/AIZ/84E01/2017/80
+Mizoram
+Aizawl
+ 
+SuangpuilawnZawngin section
+23.909111
+93.02375
+Rock
+Slide
+NA
+22378
+MZ/MAM/84A05/2020/1
+Mizoram
+Mamit
+Mamit-Tuidam old road section slide 1 Mamit-Tuidam old road section 23.91
+92.45
+Debris
+Slide
+2019
+22379
+MZ/CHA/84E01/2017/34
+Mizoram
+Champhai
+ 
+Ngopa village, 0 point to Tuivai 
+river
+23.91011
+93.177193
+Rock
+Slide
+NA

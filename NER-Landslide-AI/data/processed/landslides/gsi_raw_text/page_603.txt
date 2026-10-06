@@ -1,0 +1,329 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+23933
+MIZ/SER/84E04/2025/221
+Mizoram
+Serchhip
+Serchhip to Khawbung S road
+23.19917
+93.000199
+Debris
+Flow
+01 June 2025 
+23934
+MIZ/SER/84E04/2025/222
+Mizoram
+Serchhip
+Serchhip to Khawbung S road
+23.1915
+93.011024
+Debris
+Slide
+31 May 2025 
+23935
+MIZ/SER/84E04/2025/223
+Mizoram
+Serchhip
+Serchhip to Khawbung S road
+23.183361
+93.066742
+Debris
+Slide
+31 May 2025 
+23936
+MIZ/KHAW/84E04/2025/224
+Mizoram
+Khawzawl
+Serchhip to Khawbung S road
+23.241722
+93.098254
+Debris
+Slide
+30 May 2025, 12 June 2025
+23937
+MIZ/KHAW/84E04/2025/225
+Mizoram
+Khawzawl
+Serchhip to Khawbung S road
+23.229765
+93.127521
+Earth
+Slide
+31 May 2025 
+23938
+MIZ/KHAW/84E04/2025/226
+Mizoram
+Khawzawl
+Serchhip to Khawbung S road
+23.2066
+93.148665
+Debris
+Slide
+01 June 2025 
+23939
+MIZ/KHAW/84E04/2025/227
+Mizoram
+Khawzawl
+Serchhip to Khawbung S road
+23.197704
+93.163019
+Debris
+Slide
+31 May 2025 
+23940
+MIZ/CHAM/84E04/2025/228
+Mizoram
+Champhai
+Serchhip to Vaphai road
+23.198136
+93.166988
+Debris
+Flow
+01 June 2025 
+23941
+MIZ/CHAM/84E04/2025/229
+Mizoram
+Champhai
+Serchhip to Vaphai road
+23.177311
+93.198157
+Debris
+Flow
+01 June 2025 
+23942
+MIZ/CHAM/84E08/2025/230
+Mizoram
+Champhai
+Vaphai
+23.148209
+93.321183
+Debris
+Flow
+31 May 2025 (4:15am) 
+23943
+MIZ/KHAW/84E08/2025/231
+Mizoram
+Khawzawl
+Vaphai
+23.14788
+93.323791
+Debris
+Slide
+01 June 2025 
+23944
+MIZ/KHAW/84E03/2025/232
+Mizoram
+Khawzawl
+NH 6
+23.486306
+93.220639
+Debris
+Slide
+12 June 2025 
+23945
+MIZ/KHAW/84E02/2025/233
+Mizoram
+Khawzawl
+NH 6
+23.544052
+93.155591
+Debris
+Slide
+14 June 2025 
+23946
+MIZ/KHAW/84E02/2025/234
+Mizoram
+Khawzawl
+NH 6
+23.545766
+93.147931
+Debris
+Slide
+14 June 2025 
+23947
+MIZ/KHAW/84E02/2025/235
+Mizoram
+Khawzawl
+NH 6
+23.5266
+93.192968
+Debris
+Slide
+14 June 2025 
+23948
+MIZ/SAI/84A14/2025/236
+Mizoram
+Saitual
+NH 6
+23.667553
+92.89259
+Rock
+Slide
+15 June 2025 
+23949
+MIZ/SAI/84A14/2025/237
+Mizoram
+Saitual
+outside Maite
+23.527592
+92.984969
+Debris
+Subsidence
+31 May 2025
+23950
+MIZ/AIZ/84A14/2025/238
+Mizoram
+Aizawl
+NH 6
+23.700835
+92.877449
+Debris
+Slide
+15 June 2025 
+23951
+MIZ/AIZ/84A13/2025/239
+Mizoram
+Aizawl
+Sesawng
+23.760466
+92.848969
+Debris
+Flow
+31 May 2025
+23952
+MIZ/AIZ/84A13/2025/240
+Mizoram
+Aizawl
+Mualmam
+23.807952
+92.834037
+Earth
+Slide
+01 June 2025 
+23953
+MIZ/AIZ/83D15/2025/241
+Mizoram
+Aizawl
+Zohmun
+24.285871
+92.94599
+Debris
+Slide
+14 June 2025 
+23954
+MIZ/AIZ/83D15/2025/242
+Mizoram
+Aizawl
+Zohmun
+24.288014
+92.946017
+Earth
+Slide
+14 June 2025 
+23955
+MIZ/AIZ/83D15/2025/243
+Mizoram
+Aizawl
+Mauchar
+24.354658
+92.925511
+Debris
+Slide
+29 May 2025 
+23956
+MIZ/AIZ/83D15/2025/244
+Mizoram
+Aizawl
+Mauchar
+24.365715
+92.930137
+Debris
+Slide
+01 June 2025 
+23957
+MIZ/AIZ/84A14/2025/245
+Mizoram
+Aizawl
+Sesawng
+23.747519
+92.853155
+Debris
+Slide
+15 June 2025 
+23958
+MZ/LUN/84B09/2017/0001
+Mizoram
+Lunglei
+Phairuangkai Slide
+Phairuangkai-West Rotlang 
+road, ChangpuiVeng, 
+Phairuangkai.
+22.82104167
+92.63873333
+Soil
+Flow
+12 June 2017
+23959
+MZ/AIZ/84E02/2017/0002
+Mizoram
+Aizawl
+Keifang Slide
+NH-Aizawl-Champhai Road, 
+19km East of Keifang, near
+Tuivawl river
+23.65701389
+93.02799167
+Rock
+Slide
+2015, 07 July, 2017
+23960
+MZ/AIZ/84A10/2017/0003
+Mizoram
+Aizawl
+Hunthar slide
+NH-54 Aizawl-Kolasib-Silchar, 
+HuntharVeng
+23.74035833
+92.71311667
+Debris
+Slide
+1992, 2007, 2015,
+23 April 2017
+23961
+MIZ/LU/84B/13/2018/01
+Mizoram
+Lunglei
+Lunglawn landslide
+Lunglawn Veng, SE of Lunglei 
+town.
+22.87355833
+92.75595278
+Debris
+Slide
+2014, 06 June 2018 at 6:30pm.
+23962
+Mizoram/Aizawl/84A14/2018/0
+01
+Mizoram
+Aizawl
+Barailui slide
+Zemabuak Stone Quarry about 
+5.7km southeast of Zemabawk 
+village, Aizawl District,
+Mizoram on NH-54 Aizawl-
+Seling road.
+23.72949444
+92.77544444
+Rock
+Slide
+2017,  12 May 2018.

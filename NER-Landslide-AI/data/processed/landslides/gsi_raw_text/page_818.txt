@@ -1,0 +1,563 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+32278
+UK/ALM/53O05/2017/28
+Uttarakhand
+Almora
+ 
+UphrainkhalPawantoli road
+29.932496
+79.126407
+Rock
+Slide
+2014
+32279
+UK/PAU/53K09/2016/122
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.932832
+78.591494
+Rock
+Slide
+NA
+32280
+UK/ALM/53O05/2017/29
+Uttarakhand
+Almora
+ 
+UphrainkhalPawantoli road
+29.932907
+79.126607
+Rock
+Slide
+2014
+32281
+UK/PAU/53K13/2016/53
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Dewalikhal
+29.933576
+78.874352
+Debris
+Slide
+NA
+32282
+UK/PAU/53K09/2016/112
+Uttarakhand
+Pauri Garhwal
+ 
+NH532
+29.933652
+78.740579
+Debris
+Slide
+NA
+32283
+UK/PAU/53K09/2016/121
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.933772
+78.591131
+Debris
+Slide
+NA
+32284
+UK/ALM/53O05/2017/69
+Uttarakhand
+Almora
+ 
+Near Totalgaon
+29.933922
+79.356805
+Debris
+Slide
+2012
+32285
+UK/PIT/62C01/2015/427
+Uttarakhand
+Pithoragarh
+ 
+ 
+29.934192
+80.147296
+Rock cum Debris
+Slide
+NA
+32286
+UK/PAU/53K09/2016/177
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.934366
+78.590789
+Rock cum Debris
+Slide
+NA
+32287
+UK/PAU/53K13/2016/51
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Dewalikhal
+29.934438
+78.875785
+Debris
+Slide
+NA
+32288
+UK/ALM/53O05/2017/54
+Uttarakhand
+Almora
+ 
+Forest
+29.934638
+79.403016
+Rock
+Slide
+2014
+32289
+UK/PAU/53K13/2016/52
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Dewalikhal
+29.934964
+78.875247
+Rock
+Slide
+NA
+32290
+UK/PAU/53K09/2016/178
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.934976
+78.591151
+Rock cum Debris
+Slide
+NA
+32291
+UK/PAU/53K09/2016/141
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.935013
+78.602434
+Debris
+Flow
+NA
+32292
+UK/ALM/53O05/2017/44
+Uttarakhand
+Almora
+ 
+Sungari
+29.935225
+79.335266
+Debris
+Flow
+NA
+32293
+UK/PAU/53O01/2017/50
+Uttarakhand
+Pauri Garhwal
+ 
+DhaundThapla road
+29.935274
+79.070718
+Rock
+Slide
+2013
+32294
+UK/PAU/53K05/2016/31
+Uttarakhand
+Pauri Garhwal
+Chobra
+ 
+29.935466
+78.477362
+Rock
+Slide
+NA
+32295
+UK/PAU/53K09/2016/114
+Uttarakhand
+Pauri Garhwal
+Baunsal
+NH532
+29.935625
+78.744499
+Debris
+Slide
+NA
+32296
+UK/BAG/53O13/2013/0058
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_ 58
+Ghanshyam Nagri. Right bank of 
+Kanal Gad.
+29.937611
+79.765083
+Rock
+Slide
+16th-17th June 2013
+32297
+UK/ALM/53O05/2017/43
+Uttarakhand
+Almora
+ 
+NH87
+29.937738
+79.346233
+Debris
+Flow
+2014
+32298
+UK/BAG/53O09/2018/41
+Uttarakhand
+Bageshwar
+Simlekh
+Simlekh-Bageshwar
+29.938074
+79.561722
+Rock
+Topple
+2015
+32299
+UK/PAU/53K09/2016/142
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.938392
+78.595355
+Rock cum Debris
+Slide
+NA
+32300
+UK/ALM/53O05/2017/30
+Uttarakhand
+Almora
+ 
+UphrainkhalPawantoli road
+29.938494
+79.131991
+Rock
+Fall
+2015
+32301
+UK/ALM/53O05/2017/31
+Uttarakhand
+Almora
+ 
+UphrainkhalPawantoli road
+29.939061
+79.131868
+Rock
+Fall
+2015
+32302
+UK/PAU/53K09/2016/120
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.939591
+78.600457
+Debris
+Slide
+NA
+32303
+UK/PIT/62C09/2020/10
+Uttarakhand
+Pithoragarh
+ 
+Tawa Ghat-Dharchula-Gothi
+29.94
+80.58
+Rock
+Slide
+2014
+32304
+UK/PAU/53K13/2016/24
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.940325
+78.753746
+Rock
+Slide
+NA
+32305
+UK/PAU/53K09/2016/162
+Uttarakhand
+Pauri Garhwal
+Near Ramjiwala
+ 
+29.940513
+78.368992
+Debris
+Slide
+NA
+32306
+UK/PAU/53K05/2016/35
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.940841
+78.484013
+Debris
+Slide
+NA
+32307
+UK/PAU/53K09/2016/182
+Uttarakhand
+Pauri Garhwal
+kimsar
+ 
+29.941021
+78.358445
+Rock
+Slide
+NA
+32308
+UK/PAU/53O01/2017/78
+Uttarakhand
+Pauri Garhwal
+ 
+Suraikhet road
+29.941097
+79.097696
+Rock
+Slide
+2012
+32309
+UK/PAU/53O01/2017/48
+Uttarakhand
+Pauri Garhwal
+ 
+Gurufali road
+29.941285
+79.076401
+Rock
+Slide
+2014
+32310
+UK/BAG/62C01/2015/428
+Uttarakhand
+Bageshwar
+ 
+ 
+29.941667
+80.141389
+Rock
+Slide
+NA
+32311
+UK/PAU/53O01/2017/49
+Uttarakhand
+Pauri Garhwal
+ 
+Gurufali road
+29.941733
+79.07616
+Debris
+Flow
+2014
+32312
+UK/CHA/53O05/2017/61
+Uttarakhand
+Chamoli
+ 
+Forest
+29.941886
+79.332523
+Rock cum debris
+Slide
+2012
+32313
+UK/ALM/53O05/2017/33
+Uttarakhand
+Almora
+ 
+Samaya
+29.942124
+79.173022
+Debris
+Flow
+2012
+32314
+UK/PAU/53K05/2016/34
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.942171
+78.482875
+Debris
+Slide
+NA
+32315
+UK/PAU/53O01/2017/47
+Uttarakhand
+Pauri Garhwal
+ 
+Gurufali road
+29.942611
+79.077556
+Rock
+Slide
+2012
+32316
+UK/PAU/53K09/2016/135
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.942676
+78.510382
+Debris
+Subsidence
+NA
+32317
+UK/PAU/53K09/2016/119
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.942949
+78.599987
+Rock
+Slide
+NA
+32318
+UK/PAU/53K09/2016/154
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.943208
+78.578758
+Debris
+Slide
+NA
+32319
+UK/PAU/53O01/2017/51
+Uttarakhand
+Pauri Garhwal
+ 
+DhaundThapla road
+29.943316
+79.054447
+Rock
+Slide
+2011
+32320
+UK/CHA/53O05/2017/62
+Uttarakhand
+Chamoli
+ 
+Forest
+29.943367
+79.329094
+Rock cum debris
+Slide
+2012
+32321
+UK/CHA/53O05/2017/63
+Uttarakhand
+Chamoli
+ 
+Forest
+29.943427
+79.328566
+Rock cum debris
+Slide
+2012
+32322
+UK/PAU/53K05/2016/29
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.943743
+78.477895
+Rock
+Slide
+NA
+32323
+UK/PAU/53K13/2016/115
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.943962
+78.752005
+Rock
+Slide
+NA
+32324
+UK/PAU/53K09/2016/108
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.943978
+78.696936
+Debris
+Slide
+NA
+32325
+UK/PAU/53K13/2016/116
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.944139
+78.752408
+Rock
+Slide
+NA
+32326
+UK/PAU/53O01/2017/45
+Uttarakhand
+Pauri Garhwal
+ 
+Chopta
+29.944569
+79.078828
+Rock
+Slide
+2012
+32327
+UK/PAU/53K13/2016/23
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.944803
+78.755218
+Rock
+Slide
+NA

@@ -1,0 +1,310 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29773
+WB/DARJ/78A08/2012/0328
+West Bengal
+Darjeeling
+ 
+Leprosy Hospital near 
+Kalimpong
+27.077
+88.471
+Debris
+Slide
+NA
+29774
+WB/DARJ/78A08/2007/0322
+West Bengal
+Darjeeling
+ 
+Kalimpong City
+27.077
+88.475
+Debris
+Slide
+2007
+29775
+WB/DARJ/78A08/2007/0323
+West Bengal
+Darjeeling
+ 
+Kalimpong City
+27.077
+88.472
+Debris
+Flow
+2007
+29776
+WB/DAR/78A16/2015/297
+West Bengal
+Darjeeling
+Bhupali khola slide On Paren-Bindu 
+road of Jaldhaka Hydel Project, Stage-I
+On Paren-Bindu road of 
+Jaldhaka Hydel Project, Stage-I
+27.077022
+88.862846
+Rock
+Slide
+1996
+29777
+WB/DARJ/78A12/2007/0041
+West Bengal
+Darjeeling
+10th mile petrol pump
+10.5 mile from chitre towards 
+Algara on Chitre-Algara road
+27.0772
+88.4863
+Debris
+Slide
+2007
+29778
+WB/DAR/78A04/2021/PDLS/16
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07738036
+88.20623481
+Debris
+Slide
+October 2021
+29779
+WB/DARJ/78A12/2007/0039
+West Bengal
+Darjeeling
+Bhatte Khola
+5 km from Kalimpong towards 
+Algara on Chitre-Algara road
+27.0774
+88.5162
+Debris
+Subsidence
+2007
+29780
+WB/DAR/78A04/2021/PDLS/16
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.0774524
+88.20625575
+Debris
+Slide
+October 2021
+29781
+WB/DAR/78A08/2015/71
+West Bengal
+Darjeeling
+12.5 mile from Chitre towards  Algara  
+on Chitre-Algara road
+12.5 mile from Chitre towards  
+Algara  on Chitre-Algara road
+27.0775
+88.49948
+Debris
+Slide
+2007
+29782
+WB/DAR/78A08/2015/157
+West Bengal
+Darjeeling
+11th Mile
+11th Mile, Kalimpong
+27.077556
+88.485417
+Debris
+Slide
+2015
+29783
+WB/DAR/78A08/2015/147
+West Bengal
+Darjeeling
+11th Mile
+11th Mile, Kalimpong
+27.077556
+88.485417
+Debris
+Slide
+2015
+29784
+WB/DAR/78A04/2021/PDLS/16
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07759656
+88.20628755
+Debris
+Slide
+October 2021
+29785
+WB/DAR/78A08/2015/69
+West Bengal
+Darjeeling
+Kalimpong City
+Kalimpong City
+27.07768
+88.471037
+Debris
+Flow
+2007
+29786
+WB/DAR/78A08/2015/1354
+West Bengal
+Darjeeling
+TOPKHANA NEAR POST OFFICE
+TOPKHANA AREA
+27.077778
+88.485167
+Debris
+Slide
+2016
+29787
+WB/DAR/78A16/2015/312
+West Bengal
+Darjeeling
+Surok slide
+Surok
+27.077972
+88.870222
+Debris
+Slide
+2016
+29788
+WB/DARJ/78A08/2007/0325
+West Bengal
+Darjeeling
+ 
+12.5 mile from Chitre towards 
+Algara  on Chitre-Algara road
+27.078
+88.499
+Debris
+Slide
+2007
+29789
+WB/DARJ/78A08/2007/0324
+West Bengal
+Darjeeling
+ 
+10.5 mile from Chitre towards 
+Algara  on Chitre-Algara road
+27.078
+88.491
+NA
+Slide
+2007
+29790
+WB/DARJ/78A08/2007/0331
+West Bengal
+Darjeeling
+ 
+Simgbong Division Road, 
+Glenbern T.E
+27.078
+88.351
+Debris
+Flow
+NA
+29791
+WB/DAR/78A04/2015/1234
+West Bengal
+Darjeeling
+ 
+SOOM TG
+27.078167
+88.23425
+Debris
+Slide
+2011
+29792
+WB/DAR/78A08/2021/PDLS/21
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07817843
+88.25328855
+Debris
+Slide
+October 2021
+29793
+WB/DARJ/78A12/2007/0040
+West Bengal
+Darjeeling
+11 mile road subsidence
+11mile from chitre towards 
+Algara on Chitre-Algara road
+27.07825
+88.4912
+Debris
+Subsidence
+2007
+29794
+WB/DAR/78A08/2015/70
+West Bengal
+Darjeeling
+10.5 mile from Chitre towards  Algara  
+on Chitre-Algara road
+10.5 mile from Chitre towards  
+Algara  on Chitre-Algara road
+27.078384
+88.491014
+Debris
+Slide
+2007
+29795
+WB/DAR/78A08/2015/1318
+West Bengal
+Darjeeling
+On Kalimpong - Rishi road within 
+Kalimpong Municipal limit
+On Kalimpong - Rishi road 
+within Kalimpong Municipal 
+limit
+27.078633
+88.487198
+Debris
+Slide
+2002
+29796
+WB/DAR/78A04/2021/PDLS/16
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07897244
+88.20795619
+Debris
+Slide
+October 2021
+29797
+WB/DARJ/78A08/2006/0329
+West Bengal
+Darjeeling
+ 
+On Kalimpong - Rishi road 
+within Kalimpong Municipal 
+limit
+27.079
+88.487
+Debris
+Slide
+2006

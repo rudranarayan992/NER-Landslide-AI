@@ -1,0 +1,449 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1
+ASM/HKN/83D07/2020/2
+Assam
+Hailakandi
+Kukinala slide
+Kukinala
+24.27
+92.5
+Debris
+Slide
+NA
+2
+AS/HKN/83D11/2020/1
+Assam
+Hailakandi
+Jalnachaura slide
+Jalnachaura
+24.31
+92.56
+Debris
+Slide
+NA
+3
+AS/HKN/83D10/2020/6
+Assam
+Hailakandi
+Nandagram slide
+Nandagram Pt. I
+24.32
+92.51
+Debris
+Slide
+NA
+4
+AS/HKN/83D11/2020/4
+Assam
+Hailakandi
+Nishkar slide
+Mahapur
+24.43
+92.55
+Debris
+Slide
+NA
+5
+AS/KRJ/83D07/2020/1
+Assam
+Karimganj
+Paglacherra slide
+PaglacherraPunj
+24.44
+92.5
+Rock
+Slide
+NA
+6
+AS/HKN/83D11/2020/3
+Assam
+Hailakandi
+Lalpani slide
+NH - 154
+24.44
+92.56
+Debris
+Slide
+NA
+7
+AS/HKN/83D11/2020/2
+Assam
+Hailakandi
+Garapunjislide
+Telecherra
+24.46
+92.52
+Debris
+Slide
+NA
+8
+ASM/HLKD/83D10/2016/58
+Assam
+Hailakandi
+Terracherra Slide
+Terracherra area
+24.478972
+92.682861
+Debris
+Slide
+17 May 2016
+9
+AS/HKN/83D07/2020/1
+Assam
+Hailakandi
+Maneshwarpur landslide
+Maneshwarpur
+24.48
+92.49
+Debris
+Slide
+NA
+10
+AS/HKN/83D10/2020/7
+Assam
+Hailakandi
+Kurttathal slide
+Nunaikhal
+24.51
+92.64
+Debris
+Slide
+NA
+11
+AS/HKN/83D10/2020/4
+Assam
+Hailakandi
+Dholaikhal slide
+Inner Line Reserved Forest
+24.51
+92.75
+Rock
+Slide
+NA
+12
+AS/CHR/83D14/2020/3
+Assam
+Cachar
+Bishnupur Puniyar Slide
+Bishnupur Puniyar
+24.51
+92.9
+Debris
+Slide
+NA
+13
+AS/HKN/83D10/2020/5
+Assam
+Hailakandi
+Barthal slide
+Bilaipur
+24.51
+92.71
+Debris
+Slide
+NA
+14
+ASM/HLKD/83D10/2016/59
+Assam
+Hailakandi
+Lalcherra Slide (Rabinala)
+Near Patakhouri Durga Mandir 
+Under  Bilaipur Forest Village; 
+Lala  Police Station
+24.511306
+92.693028
+Debris
+Slide
+18 May 2016
+15
+ASM/HLKD/83D10/2016/60
+Assam
+Hailakandi
+Ramchandi (Koyabasti)
+Ramchandi area
+24.515944
+92.540889
+Earth
+Slide
+18 May 2016
+16
+AS/HKN/83D10/2020/3
+Assam
+Hailakandi
+Dinanathpur slide
+Dinanathpur
+24.52
+92.53
+Debris
+Slide
+NA
+17
+AS/HKN/83D10/2020/8
+Assam
+Hailakandi
+Lala Chaura Bagan slide
+Lala Chaura Bagan
+24.53
+92.63
+Debris
+Slide
+NA
+18
+AS/CHR/83D14/2020/4
+Assam
+Cachar
+Raj Nagar Slide
+Raj Nagar
+24.53
+92.84
+Debris
+Slide
+NA
+19
+AS/CHR/83D14/2020/5
+Assam
+Cachar
+Shymacharanpur slide
+Shyamacharanpur
+24.53
+92.84
+Debris
+Slide
+NA
+20
+AS/HKN/83D10/2020/11
+Assam
+Hailakandi
+Nubarnapur slide
+Lalamukh village
+24.54
+92.63
+Debris
+Slide
+NA
+21
+AS/HKN/83D10/2020/1
+Assam
+Hailakandi
+Dwarbond- Bilaipur slide
+Dwarbond- Bilaipur road
+24.55
+92.74
+Debris
+Slide
+NA
+22
+AS/HKN/83D10/2020/9
+Assam
+Hailakandi
+Purbanakshatila slide 1
+Purbanakshatila
+24.55
+92.75
+Debris
+Slide
+NA
+23
+AS/HKN/83D10/2020/10
+Assam
+Hailakandi
+Purbanakshatila slide 2
+Purbanakshatila
+24.55
+92.75
+Debris
+Slide
+NA
+24
+AS/CHR/83D14/2020/2
+Assam
+Cachar
+Maniarkhal Slide
+Maniarkhal Pt VII (Tea estate)
+24.56
+92.94
+Debris
+Slide
+NA
+25
+AS/CAC/83D10/2009-10/AS-1
+Assam
+Cachar
+Palgana slide
+Paglagaon (near Mursabarti) 
+under Baghbahar GP part 3
+24.57025
+92.685
+Debris
+Slide
+02 April 2010
+26
+AS/CHR/83D14/2020/6
+Assam
+Cachar
+Pruptal slide
+Pruptal
+24.62
+92.83
+Debris
+Slide
+NA
+27
+AS/CHR/83D14/2020/7
+Assam
+Cachar
+Panibara slide
+Panibara
+24.62
+92.84
+Debris
+Slide
+2019
+28
+AS/HKN/83D10/2020/2
+Assam
+Hailakandi
+BoroJalenga slide
+BoroJalenga
+24.63
+92.74
+Debris
+Slide
+NA
+29
+AS/CHR/83D14/2020/1
+Assam
+Cachar
+Bhuban Nagar slide
+Bhuban Nagar
+24.64
+92.98
+Debris
+Slide
+2019
+30
+ASM/CCR/83H2/2016/66
+Assam
+Cachar
+Khasiapunji slide
+Khasiapunji village
+24.645417
+93.005361
+Debris
+Slide
+31 August 2016
+31
+ASM/KRGJ/83D06/2016/61
+Assam
+Karimganj
+Rakhalbasti
+Rakhalbasti, near Sonaicherra 
+TG. Under Ram Krishna
+24.659389
+92.497361
+Earth
+Slide
+18 May 2016
+32
+ASM/HLK/83D10/2020/003
+Assam
+Hailakandi
+Mohanpur Grant Slide 1
+Mohanpur Grant, Hailakandi 
+Circle.
+24.70364
+92.64681
+Debris
+Slide
+02nd June 2020
+33
+AS/KRM/83D06/2014/01
+Assam
+Karimganj
+Satkaragul 
+NH-44
+24.70619
+92.28997
+Earth
+Flow
+NA
+34
+ASM/HLK/83D10/2020/004
+Assam
+Hailakandi
+Mohanpur Grant Slide 2
+Mohanpur Grant, Hailakandi 
+Circle.
+24.70656
+92.65008
+Debris
+Slide
+02 June 2020
+35
+AS/KAR/83D06/2009-10/AS-2
+Assam
+Karimganj
+Rongpur slide
+Rongpur Village
+24.710833
+92.481167
+Debris
+Slide
+03 June 2010
+36
+ASM/CHR/83D14/2020/0002
+Assam
+Cachar
+Govindnagar Slide
+Govindnagar Pt. II, Sonai
+24.72192
+92.90381
+Debris
+Slide
+05 June 2020
+37
+ASM/HLK/83D10/2020/005
+Assam
+Hailakandi
+Mohanpur Grant Slide 3
+Mohanpur Grant, Hailakandi 
+Circle.
+24.73117
+92.64739
+Debris
+Slide
+02 June 2020
+38
+ASM/KGJ/83D05/2020/0008
+Assam
+Karimganj
+Karimpur Slide 2
+Karimpur, Nilam Bazar
+24.78002778
+92.45372222
+Earth
+Slide
+02 June 2020
+39
+ASM/KGJ/83D05/2020/007
+Assam
+Karimganj
+Karimpur Slide 1
+Karimpur, Nilam Bazar
+24.78380556
+92.45563889
+Earth
+Slide
+02 June 2020
+LANDSLIDE INVENTORY (Field vaidated)

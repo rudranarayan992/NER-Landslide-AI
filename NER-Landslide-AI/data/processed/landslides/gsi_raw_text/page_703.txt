@@ -1,0 +1,433 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27778
+TN/NIL/58A06/2020/6
+Tamil Nadu
+Nilgiri
+ 
+Mathukutti tea estate
+11.53
+76.47
+Debris
+Slide
+NA
+27779
+TN/NIL/58A06/2020/7
+Tamil Nadu
+Nilgiri
+ 
+Pandanthorai
+11.53
+76.47
+Debris
+Slide
+2019
+27780
+TN/NIL/58A06/2020/8
+Tamil Nadu
+Nilgiri
+ 
+Road from Pandanthorai to 
+Devarshola
+11.53
+76.46
+Debris
+Slide
+NA
+27781
+TN/NIL/58A06/2020/9
+Tamil Nadu
+Nilgiri
+Devarsholai road debris slide1
+Road from Pandanthorai to 
+Devarshola
+11.53
+76.46
+Debris
+Slide
+NA
+27782
+TN/NIL/58A06/2020/17
+Tamil Nadu
+Nilgiri
+Sulthan Bathery road debris slide
+Road from Nellakottai to 
+Kariyashola
+11.53
+76.4
+Debris
+Slide
+NA
+27783
+TN/NIL/58A06/2020/18
+Tamil Nadu
+Nilgiri
+ 
+Sulthan Bathery road
+11.53
+76.4
+Debris
+Slide
+NA
+27784
+TN/NIL/58A06/2020/19
+Tamil Nadu
+Nilgiri
+ 
+Near Cherambadi
+11.53
+76.26
+Debris
+Slide
+NA
+27785
+TN/NIL/58A06/2020/1
+Tamil Nadu
+Nilgiri
+ 
+Road from Pandanthorai to 
+Mukkur
+11.54
+76.48
+Debris
+Slide
+NA
+27786
+TN/NIL/58A06/2020/13
+Tamil Nadu
+Nilgiri
+Devarsholai road debris slide2
+Road from Nellakottai to 
+Kariyashola
+11.54
+76.41
+Debris
+Slide
+2019
+27787
+TN/NIL/58A06/2020/14
+Tamil Nadu
+Nilgiri
+ 
+Road from Nellakottai to 
+Kariyashola
+11.54
+76.41
+Debris
+Slide
+NA
+27788
+TN/NIL/58A06/2020/15
+Tamil Nadu
+Nilgiri
+ 
+Road from Nellakottai to 
+Kariyashola
+11.54
+76.41
+Debris
+Slide
+NA
+27789
+TN/NIL/58A06/2020/16
+Tamil Nadu
+Nilgiri
+ 
+Road from Nellakottai to 
+Kariyashola
+11.54
+76.41
+Debris
+Slide
+NA
+27790
+TN/NIL/58A06/2020/10
+Tamil Nadu
+Nilgiri
+Nellakottai Cut slope
+Road from Pandanthorai to 
+Devarshola, near Nellakottai
+11.55
+76.43
+Debris
+Slide
+NA
+27791
+TN/NIL/58A06/2020/11
+Tamil Nadu
+Nilgiri
+Nellakottai stream bank failure
+Nelakottai
+11.55
+76.43
+Debris
+Slide
+NA
+27792
+TN/NIL/58A06/2020/12
+Tamil Nadu
+Nilgiri
+ 
+Road from Nellakottai to 
+Kariyashola
+11.55
+76.41
+Debris
+Slide
+NA
+27793
+TN/CBE/58B15/2024/01 
+Tamil Nadu
+Coimbatore
+Pollachi-Valparai-Road-16th hairpin 
+bend/35/6
+SH-78
+10.447257
+76.984351
+Rock
+Slide
+19 May 2024
+27794
+TN/CBE/58B15/2024/02
+Tamil Nadu
+Coimbatore
+Pollachi-Valparai-Road-31/8
+SH-78
+10.451245
+76.981973
+Debris
+Slide
+19 May 2024
+27795
+TN/CBE/58B15/2024/03
+Tamil Nadu
+Coimbatore
+Pollachi-Valparai-Road-31/4
+SH-78
+10.451802
+76.981495
+Debris
+Slide
+19 May 2024
+27796
+TN/CBE/58B15/2024/04
+Tamil Nadu
+Coimbatore
+Pollachi-Valparai-Road-29/10
+SH-78
+10.450891
+76.976945
+Debris
+Slide
+19 May 2024
+27797
+TN/CBE/58B15/2024/05
+Tamil Nadu
+Coimbatore
+Pollachi-Valparai-Road-30/8
+SH-78
+10.449755
+76.976183
+Rock
+Slide
+19 May 2024
+27798
+TN/CBE/58B15/2024/06
+Tamil Nadu
+Coimbatore
+Pollachi-Valparai-Road-31/2
+SH-78
+10.450355
+76.979802
+Rock
+Slide
+19 May 2024
+27799
+TN/CBE/58B15/2024/07
+Tamil Nadu
+Coimbatore
+Pollachi-Valparai-Road-31/2
+SH-78
+10.450497
+76.97869
+Rock
+Slide
+19 May 2024
+27800
+TN/CBE/58B15/2024/08
+Tamil Nadu
+Coimbatore
+Pollachi-Valparai-Road-31/2
+SH-78
+10.450672
+76.98034
+Debris
+Slide
+19 May 2024
+27801
+TN/CBE/58B15/2024/09
+Tamil Nadu
+Coimbatore
+Pollachi-Valparai-Road-27th hairpin 
+bend-40/6
+SH-78
+10.431505
+76.98407
+Rock
+Slide
+19 May 2024
+27802
+TN/NIL/58A7/2024/10
+Tamil Nadu
+Nilgiri
+Gudalur GH slide
+NH-181, Gudalur Government 
+hospital
+11.4921
+76.4997
+Earth
+Slide
+26 June 2024
+27803
+TN/NIL/58A11/2024/11
+Tamil Nadu
+Nilgiri
+Ooty-Gudalur Road-NH-181
+NH-181
+11.49052
+76.527422
+Debris
+slide
+29 August 2024
+27804
+TN/NIL/58A11/2024/12
+Tamil Nadu
+Nilgiri
+Ooty-Gudalur Road-NH-181
+NH-181
+11.490697
+76.532657
+Debris
+slide
+29 August 2024
+27805
+TN/NIL/58A11/2024/13
+Tamil Nadu
+Nilgiri
+Gandhipettai
+MDR
+11.3645
+76.705615
+Earth 
+Slide
+16 July 2024
+27806
+TN/NIL/58A11/2024/14
+Tamil Nadu
+Nilgiri
+Appukudu
+MDR
+11.359923
+76.667
+Debris
+slide
+16 July 2024
+27807
+TN/NIL/58A11/2024/15
+Tamil Nadu
+Nilgiri
+Emerald
+Ooty-kundah road
+11.327553
+76.6317
+Earth
+Slide
+19 July 2024
+27808
+TN/NIL/58A11/2024/16
+Tamil Nadu
+Nilgiri
+Ithalar
+Ooty-kundah road
+11.34204
+76.63419
+Earth 
+Slide
+19 July 2024
+27809
+7152
+Tamil Nadu
+Nilgiri
+NULL
+NULL
+11.347369
+76.789377
+Debris
+Slide
+1 January 2026
+27810
+7150
+Tamil Nadu
+Nilgiri
+NULL
+NULL
+11.344605
+76.792407
+Debris
+Slide
+1 January 2026 at 05.00hrs
+27811
+7154
+Tamil Nadu
+Nilgiri
+NULL
+NULL
+11.349663
+76.788382
+Debris
+Slide
+1 January 2026
+27812
+7156
+Tamil Nadu
+Nilgiri
+NULL
+NULL
+11.352623
+76.786392
+Debris
+Slide
+1 January 2026 at 01.30hrs
+27813
+7176
+Tamil Nadu
+Nilgiri
+NULL
+NULL
+11.346408
+76.798896
+Debris
+Slide
+1 January 2026 at 2.30hrs
+27814
+TN/NIL/58A11/2025/1
+Tamil Nadu
+Nilgiri
+NIL-1
+Basavakkal Nanjanadu 2 village 
+Ooty taluk
+11.39636111
+76.65091667
+Earth
+subsidence
+27 May 2025

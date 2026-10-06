@@ -1,0 +1,334 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14550
+201
+Kerala
+Idukki
+Irattayar North V
+Erattayar North - Idinjamala 
+road
+9.810814407
+77.09989652
+Debris
+Flow
+15th August, 2018
+14551
+202
+Kerala
+Idukki
+Irattayar North VI
+Erattayar North - Idinjamala 
+road
+9.810796669
+77.09984173
+Debris
+Slide
+15th August, 2018
+14552
+203
+Kerala
+Idukki
+Irattayar North VII
+Erattayar North - Idinjamala 
+road
+9.810482128
+77.10100627
+Debris
+Slide
+15th August, 2018
+14553
+204
+Kerala
+Idukki
+Naalumukku III
+9.805415922
+77.07973116
+Debris
+Flow
+15th August, 2018
+14554
+205
+Kerala
+Idukki
+Naalumukku IV
+Idukki - Thankamani road
+9.812280493
+77.07761406
+Debris
+Slide
+15th August, 2018
+14555
+206
+Kerala
+Idukki
+Ezhukumel
+Asharakavala - Erattayar north
+9.812482254
+77.11077937
+Debris
+Slide
+15th August, 2018
+14556
+207
+Kerala
+Idukki
+Ezhukumel II
+Asharakavala - Erattayar north
+9.811227332
+77.11199261
+Debris
+Slide
+15th August, 2018
+14557
+208
+Kerala
+Idukki
+Anjumukku
+Ezhukumel - Valiyathovala road 9.806066024
+77.12358836
+Soil
+Slide
+15th August, 2018
+14558
+209
+Kerala
+Idukki
+Thovalameedu
+Thovalamettu - Urumboli road
+9.80346592
+77.12020907
+Debris
+Flow
+15th August, 2018
+14559
+210
+Kerala
+Idukki
+Thovalameedu II
+Thovalamettu - Aashari kavala 
+road
+9.805074536
+77.12025575
+Debris
+Flow
+15th August, 2018
+14560
+211
+Kerala
+Idukki
+Nathukallu
+Vellayamkudi - Nanguthotti - 
+Kattappana road
+9.789481948
+77.09413966
+Debris
+Flow
+15th August, 2018
+14561
+212
+Kerala
+Idukki
+Kurishumala
+Nanguthotty - Velliyamkudi 
+road
+9.789688045
+77.09149821
+Debris
+Slide
+15th August, 2018
+14562
+213
+Kerala
+Idukki
+Naanguthotti
+Nanguthotty - Vazhavara road
+9.794839084
+77.08139674
+Debris
+Flow
+15th August, 2018
+14563
+214
+Kerala
+Idukki
+Vaazhavara
+Nanguthotty - Vazhavara road
+9.797631161
+77.07565461
+Debris
+Flow
+16th August, 2018
+14564
+215
+Kerala
+Idukki
+Vaazhavara ST colony
+Vaazhavara ST colony road
+9.807040381
+77.06833123
+Debris
+Slide
+15th August, 2018
+14565
+216
+Kerala
+Idukki
+Idinjamala
+9.820333
+77.082221
+Soil
+Subsidence
+15th August, 2018
+14566
+217
+Kerala
+Idukki
+Shanthigram
+9.806708
+77.08415
+Debris
+Cut slope 
+failure
+15th August, 2018
+14567
+218
+Kerala
+Idukki
+Shanthigram
+9.812467
+77.07664
+Debris
+Cut slope 
+failure
+15th August, 2018
+14568
+219
+Kerala
+Idukki
+Mevarayattu
+9.795973
+77.104232
+Debris
+Subsidence
+15th August, 2018
+14569
+220
+Kerala
+Idukki
+Naalumukku
+9.811719
+77.076298
+Debris
+Subsidence
+15th August, 2018
+14570
+221
+Kerala
+Idukki
+Edappokkulam
+Merikulam - Anavilasam road
+9.676364042
+77.04987125
+Debris
+Slide
+15th August, 2018
+14571
+222
+Kerala
+Idukki
+Pullumeedu
+Pullumedu - Sulthaniya road
+9.667328231
+77.05837057
+Debris
+Slide
+15th August, 2018
+14572
+223
+Kerala
+Idukki
+Pullumeedu II
+Pullumedu - Sulthaniya road
+9.667029512
+77.05844163
+Debris
+Slide
+15th August, 2018
+14573
+224
+Kerala
+Idukki
+Ambalameedu
+Ambalameedu - Sulthaniya 
+footpath
+9.685096342
+77.05283039
+Debris
+Flow
+15th August, 2018
+14574
+225
+Kerala
+Idukki
+Pathinalam Mile
+Vaitilakandam - Pathinalam 
+mile road
+10.030773
+76.88974
+Debris
+Slide
+15th August, 2018
+14575
+226
+Kerala
+Idukki
+Pathinalam Mile II
+Arakkapadi - Thumbipara road
+10.0309
+76.900786
+Debris
+Flow
+14th August, 2018
+14576
+227
+Kerala
+Idukki
+Pathinalam Mile III
+Arakkapadi - Thumbipara road
+10.031347
+76.900022
+Debris
+Flow
+14th August, 2018
+14577
+228
+Kerala
+Idukki
+Pathinalam Mile IV
+Arakkapadi - Thumbipara road
+10.030213
+76.900791
+Debris
+Flow
+14th August, 2018
+14578
+229
+Kerala
+Idukki
+Pathinalam Mile V
+Arakkapadi - Thumbipara road
+10.029819
+76.90015
+Soil
+Slide
+15th August, 2018

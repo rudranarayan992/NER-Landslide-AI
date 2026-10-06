@@ -1,0 +1,453 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+17116
+MH/SAT/47F16/2019/4
+Maharashtra
+Pune
+ 
+2km from Jaydev Khind Phata 
+towards north
+18.245178
+73.759937
+Rock cum debris
+Slide
+NA
+17117
+MH/PUN/47F11/2020/69
+Maharashtra
+Pune
+Ekalgaon-1
+NULL
+18.25
+73.54
+Rock
+Slide
+NA
+17118
+MH/PUN/47F11/2020/70
+Maharashtra
+Pune
+Ekalgaon-2
+NULL
+18.25
+73.54
+Rock
+Slide
+NA
+17119
+MH/PUN/47F11/2020/74
+Maharashtra
+Pune
+Varoti
+NULL
+18.25
+73.56
+Debris
+Slide
+NA
+17120
+MH/PUN/47F11/2020/71
+Maharashtra
+Pune
+Shingapur-1
+NULL
+18.26
+73.53
+Rock
+Slide
+NA
+17121
+MH/PUN/47F11/2020/72
+Maharashtra
+Pune
+-
+NULL
+18.26
+73.53
+Rock
+Slide
+NA
+17122
+MH/PUN/47F11/2020/73
+Maharashtra
+Pune
+Shingapur-3
+NULL
+18.26
+73.53
+Rock
+Slide
+NA
+17123
+MH/PUN/47F11/2020/75
+Maharashtra
+Pune
+Harpud
+NULL
+18.26
+73.55
+Rock
+Slide
+NA
+17124
+MH/PUN/47F11/2020/76
+Maharashtra
+Pune
+Velhe - Madhe-1
+NULL
+18.26
+73.59
+Rock
+Slide
+NA
+17125
+MH/PUN/47F11/2020/77
+Maharashtra
+Pune
+Velhe - Madhe-2
+NULL
+18.27
+73.6
+Debris
+Slide
+NA
+17126
+MH/PUN/47F11/2020/78
+Maharashtra
+Pune
+Velhe - Madhe-3
+NULL
+18.27
+73.6
+Debris
+Slide
+NA
+17127
+MH/PUN/47F11/2020/79
+Maharashtra
+Pune
+Bhatti-1
+NULL
+18.27
+73.6
+Rock
+Slide
+NA
+17128
+MH/PUN/47F11/2020/80
+Maharashtra
+Pune
+Bhatti-2
+NULL
+18.27
+73.6
+Debris
+Slide
+NA
+17129
+MH/PUN/47F11/2020/81
+Maharashtra
+Pune
+Bhatti-3
+NULL
+18.27
+73.6
+Rock
+Slide
+NA
+17130
+MH/PUN/47F11/2020/82
+Maharashtra
+Pune
+Bhatti-4
+NULL
+18.27
+73.6
+Debris
+Slide
+NA
+17131
+MH/PUN/47F11/2020/86
+Maharashtra
+Pune
+Bhatti-5
+NULL
+18.27
+73.6
+Rock
+Slide
+NA
+17132
+MH/RAI/47B15/2020/1
+Maharashtra
+Raigad
+-
+Nanavali-Dighi Road
+18.27
+72.96
+Rock
+Fall
+NA
+17133
+MH/RAI/47B15/2020/2
+Maharashtra
+Raigad
+-
+Dighi Nanavali Road
+18.27
+72.95
+Rock
+Slide
+NA
+17134
+MH/RAIG/47F03/2008/0016
+Maharashtra
+Raigarh (Raygad)
+ 
+SH 92; Murud - Roha Road, 20 
+m from 15 km stone
+18.272778
+73.034722
+Debris
+Slide
+NA
+17135
+MH/RAIG/?47F03/2008/0015
+Maharashtra
+Raigarh (Raygad)
+ 
+SH 92; Murud - Roha Road, near 
+Tokehar
+18.273056
+73.031667
+Debris
+Flow
+NA
+17136
+MH/RAIG/2008/47F03/0017
+Maharashtra
+Raigarh (Raygad)
+ 
+SH92; Murud-Roha road, close 
+to Savli village
+18.273889
+73.038611
+NA
+ 
+NA
+17137
+MH/RAIG/47F03/2008/0017A
+Maharashtra
+Raigarh (Raygad)
+ 
+SH 92; Murud- Roha road, near 
+Mithaghar village
+18.278611
+73.040278
+Debris
+Slide
+NA
+17138
+MH/PUN/47F11/2020/83
+Maharashtra
+Pune
+Galegani-1
+NULL
+18.28
+73.59
+Debris
+Slide
+NA
+17139
+MH/PUN/47F11/2020/84
+Maharashtra
+Pune
+Galegani-2
+NULL
+18.28
+73.59
+Debris
+Slide
+NA
+17140
+MH/PUN/47F11/2020/85
+Maharashtra
+Pune
+Galegani-3
+NULL
+18.28
+73.6
+Rock
+Slide
+NA
+17141
+MH/RAI/47F03/2020/5
+Maharashtra
+Raigad
+-
+Mandad-Tala Road
+18.28
+73.09
+Debris
+Fall
+NA
+17142
+MH/RAIG/47F03/2008/0011
+Maharashtra
+Raigarh (Raygad)
+ 
+SH 96; Khajani - Tala Road
+18.280556
+73.090278
+Debris
+Slide
+NA
+17143
+MH/PUN/47F11/2020/87
+Maharashtra
+Pune
+Ghisar-1
+NULL
+18.29
+73.56
+Rock
+Slide
+NA
+17144
+MH/PUN/47F11/2020/88
+Maharashtra
+Pune
+Ghisar-2
+NULL
+18.29
+73.56
+Rock
+Slide
+NA
+17145
+MH/RAIG/47F03/2008/0020
+Maharashtra
+Raigarh (Raygad)
+ 
+Between Mithaghar and 
+Bhalgaon, on SH-92, on Murud-
+Roha road
+18.291111
+73.040556
+Debris
+Slide
+NA
+17146
+MH/RAIG/47F03/2008/0020
+Maharashtra
+Raigarh (Raygad)
+ 
+Between Mithaghar and 
+Bhalgaon, on SH-92, on Murud-
+Roha road
+18.295556
+73.036667
+Debris
+Slide
+NA
+17147
+MH/RAIG/47F03/2008/0012
+Maharashtra
+Raigarh (Raygad)
+Across bridge at Khajani
+SH 96; Khajani – Tala road
+18.299444
+73.063056
+Debris
+Slide
+NA
+17148
+MH/RAIG/47F03/2008/0019
+Maharashtra
+Raigarh (Raygad)
+ 
+Between Bhalgaon and Roha on 
+SH-92, Murud-Roha road
+18.307778
+73.055556
+Debris
+Slide
+NA
+17149
+MH/RAIG/47F03/2008/0018
+Maharashtra
+Raigarh (Raygad)
+ 
+SH-92, Murud-Roha road
+18.309167
+73.068889
+NA
+ 
+NA
+17150
+MH/RAI/47F03/2020/4
+Maharashtra
+Raigad
+-
+Bhalgaon Road
+18.31
+73.04
+Debris
+Flow
+NA
+17151
+MH/RAI/47F07/2020/3
+Maharashtra
+Raigad
+-
+Nizampur Pachad Road
+18.31
+73.37
+Rock
+Fall
+NA
+17152
+MH/RAI/47F07/2020/4
+Maharashtra
+Raigad
+-
+Nizampur-Pachad Road
+18.31
+73.37
+Debris
+Slide
+NA
+17153
+MH/RAIG/47F03/2008/0022
+Maharashtra
+Raigarh (Raygad)
+ 
+Between Bhalgaon and 
+Kandane Budrukh, on Murud-
+Roha road
+18.311389
+73.074444
+Debris
+Slide
+NA
+17154
+MH/PUN/47F11/2020/64
+Maharashtra
+Pune
+Mangaon-1
+NULL
+18.32
+73.5
+Rock
+Slide
+NA

@@ -1,0 +1,551 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+5024
+HP/SOL/53A15/2015/19
+Himachal Pradesh
+Solan
+ 
+ 
+31.332512
+76.86912
+Debris
+Slide
+NA
+5025
+HP/BIL/53A15/2015/194
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.332722
+76.773694
+Debris
+Slide
+NA
+5026
+HP/SOL/53A15/2015/141
+Himachal Pradesh
+Solan
+ 
+ 
+31.33323
+76.926209
+Debris
+Slide
+NA
+5027
+HP/SHI/53E07/2016/49
+Himachal Pradesh
+Shimla
+ 
+Chakhati
+31.334056
+77.609222
+Rock
+Slide
+NA
+5028
+HP/SOL/53A15/2015/20
+Himachal Pradesh
+Solan
+ 
+ 
+31.334567
+76.868967
+Debris
+Slide
+NA
+5029
+HP/SHI/53E07/2016/13
+Himachal Pradesh
+Shimla
+ 
+Kingal,NH-05
+31.334639
+77.421611
+Debris
+Slide
+NA
+5030
+HP/SHI/53E15/2016/138
+Himachal Pradesh
+Shimla
+ 
+Jatwaninh - 72- Rohal Link road 31.3348
+77.9145
+Debris
+Slide
+NA
+5031
+HP/SHI/53E11/2016/108
+Himachal Pradesh
+Shimla
+ 
+Bhera Khad
+31.334972
+77.53225
+Rock
+Slide
+NA
+5032
+HP/MAN/53E03/2015/188
+Himachal Pradesh
+Mandi
+ 
+ 
+31.335069
+77.017197
+Debris
+Slide
+NA
+5033
+HP/SHI/53E07/2016/77
+Himachal Pradesh
+Shimla
+ 
+South of Luhri, NH05
+31.335333
+77.435722
+Debris
+Slide
+NA
+5034
+HP/MAN/53E07/2016/76
+Himachal Pradesh
+Mandi
+ 
+North of Luhri, NH305
+31.335444
+77.422306
+Rock
+Slide
+NA
+5035
+HP/SHI/53E07/2016/25
+Himachal Pradesh
+Shimla
+ 
+South of Luhri, NH05
+31.336194
+77.429667
+Rock
+Slide
+NA
+5036
+HP/SHI/53E07/2016/59
+Himachal Pradesh
+Shimla
+ 
+Jhamol
+31.336472
+77.392194
+Rock
+Slide
+NA
+5037
+HP/SHI/53E15/2016/72
+Himachal Pradesh
+Shimla
+ 
+Near Tandwari NH-72- Rohal 
+link road
+31.3366
+77.8914
+Debris
+Slide
+NA
+5038
+HP/SHI/53E07/2016/32
+Himachal Pradesh
+Shimla
+ 
+South of Luhri, NH05
+31.337111
+77.434556
+Rock
+Slide
+NA
+5039
+HP/MAN/53A15/2015/170
+Himachal Pradesh
+Mandi
+ 
+ 
+31.337464
+76.952659
+Debris
+Slide
+NA
+5040
+HP/SHI/53E07/2016/90
+Himachal Pradesh
+Shimla
+ 
+Jhamol
+31.337528
+77.392833
+Rock
+Slide
+NA
+5041
+HP/MAN/53A15/2015/169
+Himachal Pradesh
+Mandi
+ 
+ 
+31.338274
+76.952842
+Debris
+Slide
+NA
+5042
+HP/MAN/53E03/2015/3
+Himachal Pradesh
+Mandi
+ 
+ 
+31.338608
+77.003835
+Debris
+Slide
+NA
+5043
+HP/MAN/53A15/2015/56
+Himachal Pradesh
+Mandi
+ 
+ 
+31.338642
+76.952169
+Debris
+Slide
+NA
+5044
+HP/SHI/53E07/2016/52
+Himachal Pradesh
+Shimla
+ 
+Jhamol
+31.339056
+77.394611
+Rock
+Slide
+NA
+5045
+HP/BIL/53A15/2015/18
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.339788
+76.85829
+Debris
+Slide
+NA
+5046
+HP/BIL/53A15/2015/42
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.340139
+76.780278
+Debris
+Slide
+NA
+5047
+HP/BIL/53A15/2015/17
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.340306
+76.857998
+Debris
+Slide
+NA
+5048
+HP/BIL/53A15/2015/16
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.340607
+76.85776
+Debris
+Slide
+NA
+5049
+HP/SHI/53E07/2016/26
+Himachal Pradesh
+Shimla
+ 
+Sainji, NH05
+31.341139
+77.448778
+Debris
+Slide
+NA
+5050
+HP/SHI/53E07/2016/48
+Himachal Pradesh
+Shimla
+ 
+Chakhati
+31.341556
+77.608389
+Debris
+Slide
+NA
+5051
+HP/BIL/53A15/2015/31
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.342713
+76.790647
+Debris
+Slide
+NA
+5052
+HP/BIL/53A15/2015/33
+Himachal Pradesh
+Mandi
+ 
+ 
+31.343274
+76.959695
+Debris
+Slide
+NA
+5053
+HP/SHI/53E07/2016/55
+Himachal Pradesh
+Shimla
+ 
+Chakhati
+31.344556
+77.609028
+Debris
+Slide
+NA
+5054
+HP/SHI/53E07/2016/69
+Himachal Pradesh
+Shimla
+ 
+Sainji, NH05
+31.3465
+77.455778
+Debris
+Slide
+NA
+5055
+HP/SHI/53E07/2016/31
+Himachal Pradesh
+Shimla
+ 
+Bithal,NH05
+31.34825
+77.474222
+Debris
+Slide
+NA
+5056
+HP/SOL/53A15/2015/134
+Himachal Pradesh
+Solan
+ 
+ 
+31.349924
+76.872811
+Debris
+Slide
+NA
+5057
+HP/BIL/53A11/2018/44
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.350086
+76.505033
+Soil
+Slide
+NA
+5058
+HP/MAN/53E03/2015/358
+Himachal Pradesh
+Mandi
+ 
+ 
+31.350444
+77.009028
+Rock
+Slide
+NA
+5059
+HP/BIL/53A15/2015/28
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.350722
+76.812963
+Debris
+Slide
+NA
+5060
+HP/BIL/53A15/2015/27
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.351069
+76.8131
+Debris
+Slide
+NA
+5061
+HP/MAN/53E03/2015/53
+Himachal Pradesh
+Mandi
+ 
+ 
+31.351343
+77.02617
+Debris
+Slide
+NA
+5062
+HP/MAN/53E03/2015/54
+Himachal Pradesh
+Mandi
+ 
+ 
+31.351392
+77.02627
+Debris
+Slide
+NA
+5063
+HP/MAN/53E03/2015/51
+Himachal Pradesh
+Mandi
+ 
+ 
+31.351488
+77.024845
+Debris
+Slide
+NA
+5064
+HP/MAN/53E07/2016/18
+Himachal Pradesh
+Mandi
+ 
+Jabla
+31.3515
+77.272472
+Debris
+Fall
+NA
+5065
+HP/MAN/53E03/2015/49
+Himachal Pradesh
+Mandi
+ 
+ 
+31.351861
+77.006861
+Rock
+Slide
+NA
+5066
+HP/MAN/53E03/2015/359
+Himachal Pradesh
+Mandi
+ 
+ 
+31.351861
+77.006861
+Rock
+Slide
+NA
+5067
+HP/SOL/53A15/2015/44
+Himachal Pradesh
+Solan
+ 
+ 
+31.352306
+76.876944
+Debris
+Slide
+NA
+5068
+HP/MAN/53E03/2015/335
+Himachal Pradesh
+Mandi
+ 
+ 
+31.352611
+77.022083
+Rock
+Slide
+NA
+5069
+HP/BIL/53A15/2015/26
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.352944
+76.813111
+Debris
+Slide
+NA
+5070
+HP/MAN/53E03/2015/50
+Himachal Pradesh
+Mandi
+ 
+ 
+31.352972
+77.012139
+Rock
+Slide
+NA
+5071
+HP/MAN/53A15/2015/61
+Himachal Pradesh
+Mandi
+ 
+ 
+31.353076
+76.9291
+Debris
+Slide
+NA
+5072
+HP/MAN/53E03/2015/360
+Himachal Pradesh
+Mandi
+ 
+ 
+31.3535
+77.011028
+Rock
+Slide
+NA

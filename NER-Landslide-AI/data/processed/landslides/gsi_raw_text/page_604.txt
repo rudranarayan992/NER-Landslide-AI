@@ -1,0 +1,318 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+23963
+Mizoram/Aizawl/84A09/2018/0
+02
+Mizoram
+Aizawl
+Selesih Slide
+Near the Auditorium of Central 
+Agricultural University (College 
+of Veterinary Science and 
+Animal Husbandry), Selesih 
+village, Aizawl District, Mizoram
+24.80375556
+92.733375
+Rock
+Creep
+28 April 2018
+23964
+MIZ/AZL/84A/09/2019/01
+Mizoram
+Aizawl
+BSUP Landslide
+BSUP Colony, Durtlang Leitan 
+Veng, Durtlang
+22.87355833
+92.75595278
+Rock
+Slide
+02 July 2019 at 18:30hrs.
+23965
+MZ/KOL/83D11/2019/0001
+Mizoram
+Kolasib
+Saihapui(K) Slide
+Kolasib- Saihapui(K).
+24.27899722
+92.642375
+Soil
+Flow
+2008
+23966
+Mizoram/Aizawl/84A14/2020/0
+01
+Mizoram
+Aizawl
+Zemabawk landslide
+Zemabawk area near Bharat 
+Petroleum, Zemabawk, along 
+NH6/306A Aizawl-Seling-
+Champhai road 
+24.73197222
+92.75988889
+Rock
+Slide 
+2 February 2020
+23967
+MIZ/AZL/84A/10/2021/01
+Mizoram
+Aizawl
+Ngaizel Ophel Tyres Rockslide
+Ngaizel, Kulikawn, Aizawl.
+23.70166667
+92.71944444
+Rock
+Slide
+13.06.2021 at 20:30 hrs 
+23968
+MIZ/AZL/84A/10/2021/02
+Mizoram
+Aizawl
+GWC Road Ṭhuampui Landslide
+GWC Road, Ainawn Section,  
+Ṭhuampui
+23.74190833
+92.74161389
+Debris (Colluvium)
+Slide
+11.06.2021 at 21.23hrs
+23969
+MIZ/AZL/84A/14/2021/03
+Mizoram
+Aizawl
+Hospital Area slide
+Hospital Area, Vengsang, 
+Thingsulthliah
+23.68416667
+92.85708333
+Debris (Older well 
+compacted debris)
+Slide
+ 09.10.2021 at 01:00 hrs. 1997, 2019 
+23970
+MZ/RV/84A/10/2022/01
+Mizoram
+Aizawl
+Republic Veng Landslide
+Republic Venghnun (Section III) 23.71688889
+92.72083333
+Soil (Top soil, 
+overburden-
+weathered rock 
+fragments and filled 
+material)
+Slide
+2012,2020, 2021 and
+26 July 2022
+23971
+MZ/AZL/84A/10/2023/01
+Mizoram
+Aizawl
+Vaivakawn landslide
+Vaivakawn, Aizawl
+23.74150833
+92.70785833
+Rock
+Slide
+04 June 2023
+23972
+MZ-27/2010-12
+Mizoram
+MAMIT
+Mamit landsinking
+23.92322222
+92.49222222
+NA
+NA
+June 2010
+23973
+MZ-28/2010-12
+Mizoram
+CHHITUIPUI
+College Veng landsinking
+22.49086111
+92.98086111
+NA
+NA
+June 2010
+23974
+MZ-29/2010-12
+Mizoram
+CHHITUIPUI
+Council Veng landsinking
+22.48541667
+92.98238889
+NA
+NA
+June 2010
+23975
+MZ-30/2011
+Mizoram
+CHAMPHAI
+Ngopa landsinking
+23.88591667
+93.20961111
+NA
+NA
+3rd and 6th October 2010
+23976
+MZ-31/2011
+Mizoram
+Aizawl
+Naizawl rock fall
+23.70213889
+92.71822222
+NA
+NA
+22 May 2011
+23977
+MZ-32/2011
+Mizoram
+Aizawl
+Muallungthuk rock slide (2km South 
+of Muallungthuk)
+23.60722222
+92.72505556
+NA
+NA
+June 2011
+23978
+MZ-33/2011
+Mizoram
+Aizawl
+Muallungthuk rock slide (2km South 
+of Muallungthuk)
+23.60722222
+92.72505556
+NA
+NA
+June 2011
+23979
+MZ/AZL/84A10/2016/01
+Mizoram
+Aizawl
+Tlungvel slide
+Tlungvel-Seling main road
+23.60830556
+92.85058333
+Earth
+Slide
+17 September 2016
+23980
+MZ/AZL/84A10/2016/02
+Mizoram
+Aizawl
+Tlungvel Presbyterian church slide
+Tlungvel village (near the 
+Presbyterian church)
+23.61372222
+92.85188889
+Soil (insitu soil + 
+regolith)
+Flow
+17 September 2016
+23981
+MIZ/LUN/84A12/2025/005
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.2034
+92.7379
+Rock
+Falls
+July 2025
+23982
+MIZ/LUN/84A12/2025/006
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.2029
+92.7371
+Earth
+Slide
+June 2025
+23983
+MIZ/LUN/84A12/2025/007
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.2029
+92.7369
+Rock
+Slide
+July 2025
+23984
+MIZ/LUN/84A12/2025/008
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.2028
+92.7368
+Debris
+Slide
+July 2025
+23985
+MIZ/AZL/84A11/2025/009
+Mizoram
+Aizawl
+Thiak road Horticulture Center
+23.4700
+92.7215
+Debris
+slide
+25 May 2024, 02 June 2025
+23986
+MIZ/AZL/84A11/2025/010
+Mizoram
+Aizawl
+Thiak road 
+23.4688
+92.7208
+Debris
+slide
+02 January 2025
+23987
+MIZ/AZL/84A11/2025/015
+Mizoram
+Aizawl
+Thiak link road 
+23.4672
+92.7193
+Debris
+Slide
+July 2025
+23988
+MIZ/AZL/84A11/2025/016
+Mizoram
+Aizawl
+Thiak
+23.4731
+92.7119
+Debris
+Slide
+July 2025
+23989
+MIZ/AZL/84A11/2025/017
+Mizoram
+Aizawl
+Thiak
+23.4761
+92.7066
+Earth
+Slide
+August 2025

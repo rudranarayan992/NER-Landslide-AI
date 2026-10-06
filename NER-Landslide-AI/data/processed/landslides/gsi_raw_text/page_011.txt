@@ -1,0 +1,433 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+340
+AS/DIM/83G2/2015/02
+Assam
+Dima Hasao
+ 
+NH 54, about 2.5 km SEof 
+Langlao Disa  (NC Hills)
+25.65167
+93.12083
+Earth
+Slide
+2014
+341
+AS/DIM/83G2/2015/03
+Assam
+Dima Hasao
+ 
+NH 54, about 2km SE of Langlao 
+Disa (NC Hills)
+25.65792
+93.11811
+Debris
+Slide
+2014
+342
+AS/DIM/83G2/2015/01
+Assam
+Dima Hasao
+ 
+NH 54, about 2km SE of Langlao 
+Disa (NC Hills)
+25.65839
+93.11808
+Debris
+Slide
+2015
+343
+AS/DIM/83G2/2015/05
+Assam
+Dima Hasao
+ 
+NH 54, about 1 km East of 
+Langlao Disa
+25.67153
+93.11522
+Debris
+Topple
+2015
+344
+AS/DIM/83G2/2015/10
+Assam
+Dima Hasao
+ 
+Manderdisa Daolapur 3, Dima 
+Hasao
+25.72486
+93.131083
+Debris
+Slide
+2015
+345
+AS/DIM/83G2/2015/09
+Assam
+Dima Hasao
+ 
+Manderdisa Daolapur 3, Dima 
+Hasao
+25.72561
+93.13075
+Debris
+Slide
+2015
+346
+ASM/WKA/83C09/2016/26
+Assam
+West Karbi Anglong
+Umpu
+SH-18, S of Umpu
+25.75933
+92.52258
+Earth cum Rock
+Slide
+NA
+347
+AS/KAM/78O5/2020/4
+Assam
+Kamrup (Rural)
+Noth Lumpi slide
+Boko-Lumpi road
+25.79
+91.24
+Debris
+Slide
+NA
+348
+ASM/WKA/83C09/2016/25
+Assam
+West Karbi Anglong
+NW of Umrasi
+SH-18, Hamren-Umpu road
+25.79939
+92.52653
+Earth
+Slide
+NA
+349
+ASM/WKA/83B08/2017/47
+Assam
+West Karbi Anglong
+Hamren-Longpai road slide
+~1 Km North of Longpai, 
+Longpai road section
+25.809417
+92.474833
+Rock cum Debris
+Slide
+2016
+350
+AS/KAR/83G09/2017/1
+Assam
+Karbi Anglong
+Dhansiri
+DiphuDhansiri road
+25.81044
+93.58616
+Soil
+Slide
+NA
+351
+ASM/WKA/83C09/2016/18
+Assam
+West Karbi Anglong
+N of Rongkhong-4
+SH-18, Hamren-Umpu road
+25.81175
+92.55003
+Earth
+Slide
+NA
+352
+ASM/WKA/83C09/2016/19
+Assam
+West Karbi Anglong
+N of Rongkhong-5
+SH-18, Hamren-Umpu road
+25.812
+92.55069
+Debris
+Slide
+NA
+353
+ASM/WKA/83C09/2016/17
+Assam
+West Karbi Anglong
+N of Rongkhong-3
+SH-18, Hamren-Umpu road
+25.81236
+92.55156
+Earth
+Slide
+NA
+354
+ASM/WKA/83C09/2016/16
+Assam
+West Karbi Anglong
+N of Rongkhong-2
+SH-18, Hamren-Umpu road
+25.81428
+92.55422
+Debris
+Slide
+NA
+355
+ASM/WKA/83C09/2016/15
+Assam
+West Karbi Anglong
+N of Rongkhong-1
+SH-18, Hamren-Umpu road
+25.81542
+92.5535
+Debris
+Slide
+NA
+356
+ASM/WKA/83C09/2016/37
+Assam
+West Karbi Anglong
+Derajuri-2
+Pangyatiso-Derajuri-Kolonga 
+road
+25.81678
+92.71878
+Earth
+Slide
+NA
+357
+ASM/WKA/83C09/2016/36
+Assam
+West Karbi Anglong
+Derajuri-1
+Pangyatiso-Derajuri-Kolonga 
+road
+25.81689
+92.71744
+Earth
+Slide
+NA
+358
+AS/NAG/83G2/2015/08
+Assam
+Nagaon
+ 
+NH 54, About 2km SW of 
+Arlongapai, Nagaon
+25.81756
+93.10886
+Rock
+Fall
+2015
+359
+ASM/WKA/83C09/2016/38
+Assam
+West Karbi Anglong
+N of Tarang
+Pangyatiso-Derajuri-Kolonga 
+road
+25.81806
+92.74872
+Earth
+Slide
+NA
+360
+ASM/WKA/83C09/2016/14
+Assam
+West Karbi Anglong
+S of Ambinong-4
+SH-18, Hamren-Umpu road
+25.82108
+92.544
+Debris
+Slide
+NA
+361
+ASM/WKA/83C09/2016/13
+Assam
+West Karbi Anglong
+S of Ambinong-3
+SH-18, Hamren-Umpu road
+25.822458
+92.546381
+Debris
+Slide
+NA
+362
+AS/KAR/83G05/2017/13
+Assam
+Karbi Anglong
+Taralangso
+DiphuLumding road
+25.82522
+93.4243
+Soil cum debris
+Slide
+NA
+363
+ASM/WKA/83C09/2016/12
+Assam
+West Karbi Anglong
+S of Ambinong-2
+SH-18, Hamren-Umpu road
+25.82528
+92.54775
+Rock cum Debris
+Slide
+NA
+364
+ASM/WKA/83C09/2016/11
+Assam
+West Karbi Anglong
+S of Ambinong-1
+SH-18, Hamren-Umpu road
+25.82769
+92.55658
+Earth cum Rock
+Slide
+NA
+365
+AS/KAR/83G05/2017/2
+Assam
+Karbi Anglong
+Panbari
+DiphuDhansiri road
+25.83128
+93.45257
+Soil cum debris
+Slide
+NA
+366
+AS/KAM/78O5/2020/3
+Assam
+Kamrup (Rural)
+Ukiam slide
+Ukiam
+25.84
+91.35
+Debris
+Slide
+2018
+367
+AS/KAR/83G05/2017/14
+Assam
+Karbi Anglong
+Dharamnala1
+Diphu
+25.84152
+93.45138
+Soil
+Slide
+NA
+368
+AS/KAR/83G05/2017/16
+Assam
+Karbi Anglong
+Dharamnala2
+Diphu
+25.84267
+93.45244
+Soil cum debris
+Slide
+NA
+369
+AS/KAR/83G05/2017/15
+Assam
+Karbi Anglong
+Matipung
+Diphu
+25.84444
+93.45331
+Soil cum debris
+Slide
+NA
+370
+ASM/WKA/83C09/2016/24
+Assam
+West Karbi Anglong
+Amlong
+Hamren-Amlong road
+25.84494
+92.61514
+Debris
+Slide
+NA
+371
+AS/KAR/83G09/2017/10
+Assam
+Karbi Anglong
+Hafjan Kidingpur5
+DhansiriChiru Timung road
+25.84512
+93.56682
+Debris
+Slide
+NA
+372
+AS/KAR/83G09/2017/19
+Assam
+Karbi Anglong
+Nowgong2
+Along Northeast Frontiers 
+Railway line
+25.84516
+93.68408
+Debris
+Slide
+NA
+373
+AS/KAR/83G09/2017/18
+Assam
+Karbi Anglong
+Nowgong1
+DiphuDimapur road
+25.84541
+93.68312
+Debris
+Slide
+NA
+374
+AS/KAR/83G09/2017/20
+Assam
+Karbi Anglong
+Nowgong3
+Along Northeast Frontiers 
+Railway line
+25.8465
+93.687
+Debris
+Slide
+NA
+375
+AS/KAR/83G09/2017/17
+Assam
+Karbi Anglong
+NowgongTilabasti
+Near Railway line
+25.84782
+93.70174
+Rock cum debris
+Slide
+NA
+376
+ASM/WKA/83C09/2016/23
+Assam
+West Karbi Anglong
+Pangyatiso
+Mikading-Pangyatiso-Ranghidi 
+road
+25.84875
+92.68328
+Rock cum Debris
+Slide
+NA

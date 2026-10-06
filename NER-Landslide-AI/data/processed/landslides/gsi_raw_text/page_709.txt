@@ -1,0 +1,413 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27945
+TN/NIL/58A/15/2019/21
+Tamil Nadu
+Nilgiri
+Burliar road cut slope failure 5
+NH-67, near Burliar
+11.33449
+76.81551
+Debris
+Slide
+16 November 2019
+27946
+TN/NIL/58A/15/2019/22
+Tamil Nadu
+Nilgiri
+Burliar road cut slope failure 6
+NH-67, near Burliar
+11.33815
+76.8267
+Debris
+Slide
+16 November 2019
+27947
+TN/NIL/58A/15/2019/23
+Tamil Nadu
+Nilgiri
+Burliar road cut slope failure 7
+NH-67, near Burliar
+11.3392
+76.8392
+Debris
+Slide
+16 November 2019
+27948
+TN/NIL/58A/15/2019/24
+Tamil Nadu
+Nilgiri
+Lamb’s rock road cut slope failure
+Lamb’s rock road
+11.35161
+76.83177
+Debris
+Slide
+16 November 2019
+27949
+TN/NIL/58A/15/2019/25
+Tamil Nadu
+Nilgiri
+Spencer’s road cut slope failure
+Spencer’s road, Coonoor
+11.34167
+76.80274
+Debris
+Slide
+16 November 2019
+27950
+TN/NIL/58A/15/2019/26
+Tamil Nadu
+Nilgiri
+Kanni Mariamman Koil street debris 
+flow
+Kanni Mariamman Koil street, 
+Coonoor, behind Masjid-e-Bilal
+11.34165
+76.80003
+Debris
+Flow
+17 November 2019
+27951
+TN/NIL/58A/15/2019/27
+Tamil Nadu
+Nilgiri
+KMK street cut slope failure
+KMK street, Coonoor
+11.34065
+76.80033
+Debris
+Slide
+16 November 2019
+27952
+TN/NIL/58A/15/2019/28
+Tamil Nadu
+Nilgiri
+Spencer’s road cut slope failure 2
+Down slope of Spencer’s road, 
+Coonoor
+11.3416
+76.80029
+Debris
+Slide
+16 November 2019
+27953
+TN/NIL/58A/15/2019/29
+Tamil Nadu
+Nilgiri
+Gymkhana road cut slope failure
+Gymkhana road, Coonoor
+11.35857
+76.79312
+Debris
+Slide
+16 November 2019
+27954
+TN/NIL/58A/15/2019/30
+Tamil Nadu
+Nilgiri
+Orange Groove road cut slope failure 
+1
+Orange Groove road, Coonoor
+11.35724
+76.79177
+Debris
+Slide
+16 November 2019
+27955
+TN/NIL/58A/15/2019/31
+Tamil Nadu
+Nilgiri
+Orange Groove road cut slope failure 
+2
+Orange Groove road, Coonoor
+11.35744
+76.79195
+Debris
+Slide
+16 November 2019
+27956
+TN/NIL/58A/15/2019/32
+Tamil Nadu
+Nilgiri
+Ottupattarai road junction cut slope 
+failure
+Ottupattarai, Coonoor
+11.34342
+76.79352
+Debris
+Slide
+16 November 2019
+27957
+TN/NIL/58A11/2019/1
+Tamil Nadu
+Nilgiri
+Mariammakoil slide
+Mariamma colony
+11.460242
+76.597277
+Debris
+Slide
+07 August 2019 (3-4 pm)
+27958
+TN/NIL/58A11/2019/2
+Tamil Nadu
+Nilgiri
+Hanumapuram slide-1
+Eastern parts of Hanumapuram 11.458368
+76.596142
+Rock-cum-debris
+Slide
+07 August 2019 (3-4 pm)
+27959
+TN/NIL/58A11/2019/3
+Tamil Nadu
+Nilgiri
+Hanumapuram slide-2
+Eastern parts of Hanumapuram 11.459491
+76.593253
+Debris
+Slide
+06 August 2019
+27960
+TN/NIL/58A11/2019/4
+Tamil Nadu
+Nilgiri
+Hanumapuram slide-3
+Eastern parts of Hanumapuram 11.460005
+76.591319
+Debris
+Slide
+06 August 2019
+27961
+TN/NIL/58A11/2019/5
+Tamil Nadu
+Nilgiri
+Hanumanthapuram slide-4
+Hanumanthapuram
+11.45808611
+76.58490556
+Debris
+Slide
+06 August 2019 (1:30 pm)
+27962
+TN/NIL/58A11/2019/6
+Tamil Nadu
+Nilgiri
+Brook dale slide
+Before Brook dale
+11.46798056
+76.58358889
+Debris
+Slide
+06 August 2019 (3:30 pm)
+27963
+TN/NIL/58A11/2019/7
+Tamil Nadu
+Nilgiri
+Indranagar
+South West part of Brook dale
+11.46818333
+76.58011389
+Debris
+Slide
+08 August 2019
+27964
+TN/NIL/58A11/2019/8
+Tamil Nadu
+Nilgiri
+Wood estateslide-1
+Wood estate
+11.46819444
+76.57836389
+Debris
+Slide
+18 August 2019 (10:00 pm)
+27965
+TN/NIL/58A11/2019/9
+Tamil Nadu
+Nilgiri
+Wood brook slide
+North western part of wood 
+brook
+11.46814444
+76.56437778
+Rock cum debris
+Slide
+07 August 2019
+27966
+TN/NIL/58A11/2019/10
+Tamil Nadu
+Nilgiri
+Woodbrook slide-2
+NE parts of Wood brook
+11.46975556
+76.56556389
+Debris
+Slide
+07 August 2019
+27967
+TN/NIL/58A11/2019/11
+Tamil Nadu
+Nilgiri
+Junction of Naduvattam flume slide
+Naduvatam
+11.46933889
+76.56520833
+Debris
+Slide
+07 August 2019
+27968
+TN/NIL/58A11/2019/12
+Tamil Nadu
+Nilgiri
+Needle hill slide
+Needle hill
+11.48909722
+76.53898333
+Rock-cum-debris
+Slide
+07 August 2019
+27969
+TN/NIL/58A11/2019/13
+Tamil Nadu
+Nilgiri
+View point 1st bend towards Ooty to 
+Gudalur slide-1
+Gudalur
+11.49066944
+76.52748889
+Rock cum Debris
+Slide
+07 August 2019
+27970
+TN/NIL/58A11/2019/14
+Tamil Nadu
+Nilgiri
+Gudalur slide-2
+Gudalur
+11.49181111
+76.52634722
+Debris
+Slide
+6th to 8th August 2019
+27971
+TN/NIL/58A11/2019/15
+Tamil nadu
+Nilgiri
+Gudalurslide-2
+Gudalur
+11.48928611
+76.52571111
+Rock cum debris
+Slide
+6th to 8th August 2019
+27972
+TN/NIL/58A11/2019/16
+Tamil Nadu
+Nilgiri
+Param village slide-1
+Param village
+11.46606389
+76.48689722
+Debris.
+Slide
+6th to 8th August 2019
+27973
+TN/NIL/58A11/2019/17
+Tamil Nadu
+Nilgiri
+Param village slide-2
+Param village
+11.46349444
+76.48565
+Debris
+slide
+6th to 8th August 2019
+27974
+TN/NIL/58A11/2019/18
+Tamil Nadu
+Nilgiri
+Nil
+Northeastern part of ‘O’ valley
+11.458725
+76.48157778
+Debris.
+Slide
+6th to 8th August 2019
+27975
+TN/NIL/58A11/2019/19
+Tamil Nadu
+Nilgiri
+Nil
+Northeastern part of ‘O’ valley
+11.45239167
+76.47916667
+Rock cum debris
+slide
+6th to 8th August 2019
+27976
+TN/NIL/58A11/2019/20
+Tamil Nadu
+Nilgiri
+Periyasurandai slide-2
+Periyasurandai
+11.45363611
+76.47908889
+Debris
+Slide
+08 August 2019 (3:00 pm)
+27977
+TN/NIL/58A07/2019/21
+Tamil Nadu
+Nilgiri
+Bar wood slide-1
+Bar wood estate
+11.43723333
+76.488775
+Debris.
+Slide
+06 August 2019 (6:00 pm)
+27978
+TN/NIL/58A07/2019/22
+Tamil Nadu
+Nilgiri
+Bar wood slide-2
+Barwood estate
+11.39624444
+76.48404167
+Debris
+Slide
+06 August 2019
+27979
+TN/NIL/58A07/2019/23
+Tamil Nadu
+Nilgiri
+Barwood-3
+Barwood estate
+11.49186944
+76.43094722
+Debris.
+Slide
+08 August 2019
+27980
+TN/NIL/58A07/2019/24
+Tamil Nadu
+Nilgiri
+Bar wood-4
+Barwood estate
+11.43076111
+76.49176944
+Debris
+Slide
+08 August 2019

@@ -1,0 +1,430 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11855
+KA/SHI/48O02/2020/20
+Karnataka
+Shimoga
+North of Ulakoppa village
+Ulakoppa village
+13.72
+75.05
+Debris
+Slide
+NA
+11856
+KA/SHI/48O02/2020/21
+Karnataka
+Shimoga
+South of  Halagunda village
+Halagunda village
+13.72
+75.04
+Debris
+Slide
+NA
+11857
+KA/SHI/48O02/2020/26
+Karnataka
+Shimoga
+Doddammane village
+Doddammane village
+13.72
+75.39
+Debris
+Slide
+NA
+11858
+KA/SHI/48O02/2020/32
+Karnataka
+Shimoga
+Hulikal road section
+Hulikal road section
+13.72
+75
+Debris
+Slump
+NA
+11859
+KA/SHI/48O02/2020/33
+Karnataka
+Shimoga
+Hulikal road section
+Hulikal road section
+13.72
+75.01
+Debris
+Slide
+NA
+11860
+KA/SHI/48O06/2020/42
+Karnataka
+Chikmagalur
+Shimoga road (NH-13)
+Shimoga road
+13.72
+75.43
+Debris
+Slide
+NA
+11861
+KA/DAK/48K14/2020/2
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+13.72
+75
+Debris
+Slide
+NA
+11862
+KA/DAK/48K14/2020/3
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+13.72
+75
+Debris
+Slide
+NA
+11863
+KA/DAK/48K14/2020/4
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+13.72
+75
+Debris
+Slide
+NA
+11864
+KA/DAK/48K14/2020/5
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+13.72
+75
+Debris
+Slide
+NA
+11865
+KA/DAK/48K14/2020/6
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+13.72
+75
+Debris
+Slide
+NA
+11866
+KA/DAK/48K14/2020/7
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+13.72
+75
+Debris
+Slide
+NA
+11867
+KA/DAK/48K14/2020/14
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+13.72
+75
+Debris
+Slide
+NA
+11868
+KA/DAK/48K14/2020/15
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+13.72
+74.99
+Debris
+Slide
+NA
+11869
+KA/DAK/48K14/2020/16
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+13.72
+74.97
+Debris
+Slide
+NA
+11870
+KA/DAK/48K14/2020/17
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+13.72
+74.97
+Debris
+Slide
+NA
+11871
+KA/DAK/48K14/2020/18
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+13.72
+74.97
+Earth
+Slide
+NA
+11872
+KA/DAK/48K14/2020/19
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+13.72
+74.98
+Earth
+Slide
+NA
+11873
+KA/DAK/48K14/2020/20
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+13.72
+74.98
+Earth
+Slide
+NA
+11874
+KA/DAK/48K14/2020/21
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-72
+13.72
+74.98
+Earth
+Slide
+NA
+11875
+KA/DAK/48K14/2020/22
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.98
+Earth
+Slide
+NA
+11876
+KA/DAK/48K14/2020/23
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.98
+Debris
+Slide
+NA
+11877
+KA/DAK/48K14/2020/24
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.98
+Debris
+Slide
+NA
+11878
+KA/DAK/48K14/2020/25
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.98
+Earth
+Slide
+NA
+11879
+KA/DAK/48K14/2020/26
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.98
+Earth
+Slide
+NA
+11880
+KA/DAK/48K14/2020/27
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.98
+Debris
+Slide
+NA
+11881
+KA/DAK/48K14/2020/28
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.98
+Debris
+Slide
+NA
+11882
+KA/DAK/48K14/2020/29
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.98
+Debris
+Slide
+NA
+11883
+KA/DAK/48K14/2020/30
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.98
+Debris
+Slide
+NA
+11884
+KA/DAK/48K14/2020/31
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.99
+Earth
+Slide
+NA
+11885
+KA/DAK/48K14/2020/32
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.99
+Earth
+Slide
+NA
+11886
+KA/DAK/48K14/2020/33
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.99
+Earth
+Slide
+NA
+11887
+KA/DAK/48K14/2020/34
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.99
+Earth
+Slide
+NA
+11888
+KA/DAK/48K14/2020/35
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.99
+Debris
+Slide
+NA
+11889
+KA/DAK/48K14/2020/36
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.99
+Debris
+Slide
+NA
+11890
+KA/DAK/48K14/2020/38
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.99
+Debris
+Slide
+NA
+11891
+KA/DAK/48K14/2020/39
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.99
+Earth
+Slide
+NA
+11892
+KA/DAK/48K14/2020/40
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.72
+74.99
+Earth
+Slide
+NA

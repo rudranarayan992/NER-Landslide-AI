@@ -1,0 +1,464 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27353
+TN/COI/58B15/2017/91
+Tamil Nadu
+Coimbatore
+ 
+Road from Thalanar Tea Estate 
+to Shakthi Estate
+10.414558
+76.950028
+Debris
+Slide
+NA
+27354
+TN/COI/58B15/2017/47
+Tamil Nadu
+Coimbatore
+ 
+SH78, Waterfalls Tea Estate
+10.414911
+76.995531
+Debris
+Slide
+NA
+27355
+TN/COI/58B15/2017/92
+Tamil Nadu
+Coimbatore
+ 
+Road from Thalanar Tea Estate 
+to Shakthi Estate
+10.415111
+76.949639
+Soil
+Slide
+NA
+27356
+TN/COI/58F03/2017/118
+Tamil Nadu
+Coimbatore
+ 
+Kadambarai road
+10.415278
+77.043722
+Debris
+Slide
+NA
+27357
+TN/COI/58B15/2017/93
+Tamil Nadu
+Coimbatore
+ 
+Road from Thalanar Tea Estate 
+to Shakthi Estate
+10.415981
+76.948419
+Soil
+Slide
+NA
+27358
+TN/COI/58B15/2017/94
+Tamil Nadu
+Coimbatore
+ 
+Shakthi Estate
+10.416625
+76.948019
+Soil cum debris
+Slide
+NA
+27359
+TN/COI/58F03/2017/117
+Tamil Nadu
+Coimbatore
+ 
+Kadambarai road
+10.418444
+77.039194
+Debris
+Slide
+NA
+27360
+TN/COI/58F03/2017/119
+Tamil Nadu
+Coimbatore
+ 
+Kadambarai road
+10.418444
+77.039194
+Debris
+Slide
+NA
+27361
+TN/COI/58F03/2017/116
+Tamil Nadu
+Coimbatore
+ 
+Kadambarai road
+10.418611
+77.038944
+Debris
+Slide
+NA
+27362
+TN/COI/58B15/2017/46
+Tamil Nadu
+Coimbatore
+ 
+SH78, near HPB28/40
+10.418997
+76.992547
+Soil
+Slide
+NA
+27363
+TN/COI/58F03/2017/115
+Tamil Nadu
+Coimbatore
+ 
+Kadambarai road
+10.419278
+77.037944
+Debris
+Slide
+NA
+27364
+TN/COI/58F03/2017/97
+Tamil Nadu
+Coimbatore
+ 
+Torakadavu  area
+10.419972
+77.036528
+Debris
+Topple
+NA
+27365
+TN/COI/58F03/2017/96
+Tamil Nadu
+Coimbatore
+ 
+Torakadavu  area
+10.420694
+77.035944
+Debris
+Topple
+NA
+27366
+TN/COI/58F03/2017/95
+Tamil Nadu
+Coimbatore
+ 
+Torakadavu  area
+10.421417
+77.035139
+Debris
+Topple
+NA
+27367
+TN/COI/58F03/2017/93
+Tamil Nadu
+Coimbatore
+ 
+Uppar Aliyar to Kadambarai
+10.422528
+77.03175
+Debris
+Topple
+NA
+27368
+TN/COI/58F03/2017/92
+Tamil Nadu
+Coimbatore
+ 
+Uppar Aliyar to Kadambarai
+10.422583
+77.031556
+Debris
+Topple
+NA
+27369
+TN/COI/58F03/2017/94
+Tamil Nadu
+Coimbatore
+ 
+Uppar Aliyar to Kadambarai
+10.422722
+77.031806
+Debris
+Topple
+NA
+27370
+TN/COI/58F03/2017/86
+Tamil Nadu
+Coimbatore
+ 
+Uppar Aliyar to Kadambarai
+10.424639
+77.020139
+Debris
+Fall
+NA
+27371
+TN/COI/58F03/2017/87
+Tamil Nadu
+Coimbatore
+ 
+Uppar Aliyar to Kadambarai
+10.425
+77.02025
+Debris
+Fall
+NA
+27372
+TN/COI/58F03/2017/85
+Tamil Nadu
+Coimbatore
+ 
+Uppar Aliyar to Kadambarai
+10.427972
+77.018278
+Debris
+Fall
+NA
+27373
+TN/COI/58F03/2017/84
+Tamil Nadu
+Coimbatore
+ 
+Uppar Aliyar to Kadambarai
+10.428
+77.018083
+Debris
+Fall
+NA
+27374
+TN/COI/58F03/2017/91
+Tamil Nadu
+Coimbatore
+ 
+Uppar Aliyar to Kadambarai
+10.428306
+77.022625
+Debris
+Topple
+NA
+27375
+TN/COI/58F03/2017/88
+Tamil Nadu
+Coimbatore
+ 
+Uppar Aliyar to Kadambarai
+10.428444
+77.022111
+Debris
+Fall
+NA
+27376
+TN/COI/58F03/2017/89
+Tamil Nadu
+Coimbatore
+ 
+Uppar Aliyar to Kadambarai
+10.428694
+77.022222
+Debris
+Fall
+NA
+27377
+TN/COI/58F03/2017/90
+Tamil Nadu
+Coimbatore
+ 
+Uppar Aliyar to Kadambarai
+10.429889
+77.022889
+Debris
+Fall
+NA
+27378
+TN/COI/58F03/2017/81
+Tamil Nadu
+Coimbatore
+ 
+Upper Nirar area
+10.434222
+77.003972
+Debris
+Slide
+NA
+27379
+TN/COI/58F03/2017/82
+Tamil Nadu
+Coimbatore
+ 
+Upper Nirar area
+10.436056
+77.01075
+Rock cum debris
+Fall
+NA
+27380
+TN/COI/58F03/2017/83
+Tamil Nadu
+Coimbatore
+ 
+Upper Nirar area
+10.436056
+77.011139
+Rock cum debris
+Fall
+NA
+27381
+TN/COI/58F03/2017/136
+Tamil Nadu
+Coimbatore
+ 
+Upper Aliyar
+10.437361
+77.012444
+Debris
+Slide
+NA
+27382
+TN/COI/58F03/2017/138
+Tamil Nadu
+Coimbatore
+ 
+Upper Nirar area
+10.437972
+77.011139
+Rock cum debris
+Slide
+NA
+27383
+TN/COI/58F03/2017/137
+Tamil Nadu
+Coimbatore
+ 
+Upper Aliyar
+10.438278
+77.011806
+Rock cum debris
+Slide
+NA
+27384
+TN/COI/58F03/2017/120
+Tamil Nadu
+Coimbatore
+ 
+Right bank of upper Aliyar dam
+10.439167
+77.013056
+Rock
+Slide
+NA
+27385
+TN/COI/58F03/2017/122
+Tamil Nadu
+Coimbatore
+ 
+Mavadap
+10.44625
+77.028806
+Debris
+Slide
+NA
+27386
+TN/COI/58F03/2017/121
+Tamil Nadu
+Coimbatore
+ 
+Upper Nirar area
+10.447361
+77.026222
+Debris
+Slide
+NA
+27387
+TN/COI/58B15/2017/103
+Tamil Nadu
+Coimbatore
+ 
+Road from Pollachi to Valparai 
+(SH78)
+10.449658
+76.982583
+Soil
+Slide
+NA
+27388
+TN/COI/58B15/2017/110
+Tamil Nadu
+Coimbatore
+ 
+Road from Topslip to Anaigundi 10.450786
+76.838131
+Soil
+Slide
+NA
+27389
+TN/COI/58B15/2017/106
+Tamil Nadu
+Coimbatore
+ 
+Road from Topslip to 
+Perambikulam
+10.452069
+76.825522
+Soil
+Slide
+NA
+27390
+TN/COI/58B15/2017/109
+Tamil Nadu
+Coimbatore
+ 
+Road from Topslip to Anaigundi 10.452206
+76.832933
+Soil
+Slide
+NA
+27391
+TN/COI/58B15/2017/108
+Tamil Nadu
+Coimbatore
+ 
+Road from Topslip to Anaigundi 10.452394
+76.833617
+Soil
+Slide
+NA
+27392
+TN/COI/58B15/2017/107
+Tamil Nadu
+Coimbatore
+ 
+Road from Topslip to Anaigundi 10.454117
+76.834178
+Soil
+Slide
+NA
+27393
+TN/COI/58F03/2017/49
+Tamil Nadu
+Coimbatore
+ 
+Nallar colony village
+10.465139
+77.061556
+Rock cum debris
+Fall
+NA

@@ -1,0 +1,397 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+19995
+MEG/EJH/83C07/2024/02
+Meghalaya
+East Jaintia Hills
+NA
+NA
+25.37539167
+92.431275
+Debris
+Slide
+28 May 2024 at 4:30 AM
+19996
+MG/EJH/83C11/2018/5
+Meghalaya
+East Jaintia Hills
+Pdeingrynkati slide
+Pdeingrynkati-Saipung road
+25.375719
+92.610181
+Soil
+Slide
+NA
+19997
+MG/EJH/83C11/2018/4
+Meghalaya
+East Jaintia Hills
+Pdeingrynkati slide
+Pdeingrynkati-Saipung road
+25.375806
+92.609725
+Soil
+Slide
+NA
+19998
+ME/EKJ/78O15/2015/58
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (Shillong-Pynursla road)
+25.375917
+91.876
+Debris
+Slide
+NA
+19999
+MEGH/EKH/78O15/2008/D-52
+Meghalaya
+East Khasi Hills
+Ryngnga-5 slide
+ 
+25.376083
+91.876944
+Rock
+Slide
+NA
+20000
+ME/EKJ/78O15/2015/97
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (Shillong-Pynursla road)
+25.3763
+91.874028
+Rock
+Slide
+NA
+20001
+MG/WKH/78O03/2017/5
+Meghalaya
+West Khasi Hills
+2 km NW of Umwein
+Maweit  Shallang B road
+25.376992
+91.038136
+Debris
+Slide
+NA
+20002
+ME/EKJ/78O15/2015/61
+Meghalaya
+East Khasi Hills
+ 
+Shillong-Sohra road
+25.381107
+91.756477
+Rock
+Slide
+NA
+20003
+ME/EKJ/78O15/2015/96
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (Shillong-Pynursla road)
+25.382428
+91.874568
+Rock
+Slide
+NA
+20004
+ME/EKJ/78O15/2015/62
+Meghalaya
+East Khasi Hills
+ 
+Shillong-Sohra road
+25.382563
+91.757675
+Debris
+Slide
+2015
+20005
+MEGH/EKH/78O15/2008/D-53
+Meghalaya
+East Khasi Hills
+Ryngnga-6 slide
+ 
+25.382694
+91.877528
+Rock
+Slide
+NA
+20006
+ME/EKJ/78O15/2015/63
+Meghalaya
+East Khasi Hills
+ 
+Shillong-Sohra road
+25.382898
+91.757906
+Debris
+Slide
+NA
+20007
+ME/EKJ/78O15/2015/95
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (Shillong-Pynursla road)
+25.383298
+91.87473
+Rock
+Slide
+NA
+20008
+ME/EKJ/78O15/2015/84
+Meghalaya
+East Khasi Hills
+ 
+Approach road to Lynyshing 
+village
+25.385535
+91.988473
+Debris
+Slide
+NA
+20009
+ME/EKJ/78O15/2015/94
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (Shillong-Pynursla road)
+25.386191
+91.874586
+Rock
+Slide
+NA
+20010
+MEGH/EKH/78O15/2008/D-54
+Meghalaya
+East Khasi Hills
+Mawkajem slide
+ 
+25.386583
+91.874694
+Rock
+Slide
+NA
+20011
+ME/EKJ/78O15/2015/85
+Meghalaya
+East Khasi Hills
+ 
+ 
+25.38707
+91.988294
+Debris
+Slide
+NA
+20012
+ME/EKJ/78O15/2015/137
+Meghalaya
+East Khasi Hills
+ 
+Approach road to Mawkhap
+25.387781
+91.877117
+Debris
+Slide
+NA
+20013
+ME/EKJ/78O15/2015/64
+Meghalaya
+East Khasi Hills
+ 
+Shillong-Sohra road
+25.387912
+91.762233
+Debris
+Slide
+NA
+20014
+MEGH/WKH/78O07/2007/D-15 Meghalaya
+West Khasi Hills
+Jashiar East slide
+ 
+25.38803
+91.46977
+Debris
+Slide
+16 June 2007
+20015
+ME/EKJ/78O15/2015/138
+Meghalaya
+East Khasi Hills
+ 
+Approach road to Mawkhap
+25.388039
+91.8773
+Debris
+Slide
+NA
+20016
+MEGH/EKH/78O15/2008/D-55
+Meghalaya
+East Khasi Hills
+Mawkajem-2 slide
+ 
+25.389028
+91.874917
+Rock
+Slide
+NA
+20017
+ME/EKJ/78O15/2015/93
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (Shillong-Pynursla road)
+25.390145
+91.87196
+Rock
+Slide
+NA
+20018
+ME/EKJ/78O15/2015/135
+Meghalaya
+East Khasi Hills
+ 
+Approach road to Mawkhap
+25.390444
+91.883806
+Debris
+Slide
+NA
+20019
+ME/EKJ/78O15/2015/65
+Meghalaya
+East Khasi Hills
+ 
+Shillong-Sohra road
+25.390714
+91.764766
+Rock
+Slide
+NA
+20020
+ME/EKJ/78O15/2015/136
+Meghalaya
+East Khasi Hills
+ 
+Approach road to Mawkhap
+25.391265
+91.884164
+Debris
+Slide
+NA
+20021
+ME/EKJ/78O15/2015/92
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (Shillong-Pynursla road)
+25.391723
+91.871851
+Rock
+Slide
+NA
+20022
+MEGH/EKH/78O15/2008/D-56
+Meghalaya
+East Khasi Hills
+Mawkajem-3 slide
+ 
+25.391944
+91.875028
+Rock
+Slide
+NA
+20023
+ME/EKJ/78O15/2015/91
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (Shillong-Pynursla road)
+25.393914
+91.872066
+Rock
+Slide
+NA
+20024
+MG/SGH/78K11/2018/1
+Meghalaya
+South Garo hills
+Nengkhra-Nongalbibra road slide
+NH-62
+25.39466
+90.69083
+Debris
+Slide
+NA
+20025
+ME/EKJ/78O15/2015/90
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (Shillong-Pynursla road)
+25.394983
+91.872484
+Rock
+Slide
+NA
+20026
+ME/EKJ/78O15/2015/89
+Meghalaya
+East Khasi Hills
+ 
+NH-40 (Shillong-Pynursla road)
+25.397287
+91.872324
+Rock
+Slide
+NA
+20027
+MG/SGH/78K11/2018/2
+Meghalaya
+South Garo hills
+Nengkhra-Nongalbibra road slide
+NH-62
+25.39766
+90.70111
+Debris
+Slide
+NA
+20028
+ME/EKJ/78O15/2015/66
+Meghalaya
+East Khasi Hills
+ 
+Shillong-Sohra road
+25.397722
+91.769417
+Rock
+Slide
+NA
+20029
+MG/SGH/78K11/2018/6
+Meghalaya
+South Garo hills
+Nengkhra-Nongalbibra road slide
+NH-62
+25.39799
+90.69972
+Debris
+Slide
+NA

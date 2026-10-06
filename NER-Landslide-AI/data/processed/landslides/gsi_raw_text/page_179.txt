@@ -1,0 +1,562 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+7654
+HP/CHA/43P15/2020/37
+Himachal Pradesh
+Chamba
+Taragarh
+Taragarh
+32.42
+75.96
+Debris
+Slide
+2017
+7655
+HP/CHA/43P15/2020/38
+Himachal Pradesh
+Chamba
+ 
+Taragarh
+32.42
+75.96
+Debris
+Slide
+2017
+7656
+HP/CHA/43P15/2020/44
+Himachal Pradesh
+Chamba
+ 
+Taragarh
+32.42
+75.96
+Debris
+Slide
+2005
+7657
+HP/CHA/43P15/2020/49
+Himachal Pradesh
+Chamba
+ 
+Kalidhar
+32.42
+75.99
+Debris
+Slide
+2015
+7658
+HP/CHA/43P15/2020/61
+Himachal Pradesh
+Chamba
+ 
+Jatroon
+32.42
+75.99
+Debris
+Slide
+NA
+7659
+HP/CHA/43P15/2020/63
+Himachal Pradesh
+Chamba
+ 
+Taragarh
+32.42
+75.95
+Debris
+Slide
+NA
+7660
+HP/CHA/43P15/2020/66
+Himachal Pradesh
+Chamba
+ 
+Berrian
+32.42
+75.96
+Debris
+Slide
+2000
+7661
+HP/CHA/43P15/2020/67
+Himachal Pradesh
+Chamba
+ 
+Berrian
+32.42
+75.96
+Debris
+Slide
+NA
+7662
+HP/CHA/43P15/2020/68
+Himachal Pradesh
+Chamba
+ 
+Berrian
+32.42
+75.96
+Debris
+Slide
+2005
+7663
+HP/CHA/43P15/2020/69
+Himachal Pradesh
+Chamba
+ 
+Berrian
+32.42
+75.96
+Debris
+Slide
+2012
+7664
+HP/CHA/52D03/2020/70
+Himachal Pradesh
+Chamba
+ 
+Chudhana
+32.42
+76.01
+Debris
+Slide
+NA
+7665
+HP/CHA/52D03/2020/94
+Himachal Pradesh
+Chamba
+Jatroon
+Lahru-Chowari road
+32.42
+76
+Debris
+Slide
+NA
+7666
+HP/CHA/52D07/2020/50
+Himachal Pradesh
+Chamba
+ 
+Batot link road
+32.42
+76.36
+Rock
+Slide
+NA
+7667
+HP/CHA/52D07/2020/137
+Himachal Pradesh
+Chamba
+ 
+Left bank of ravi river
+32.42
+76.49
+Debris
+Slide
+NA
+7668
+HP/CHA/52D11/2020/65
+Himachal Pradesh
+Chamba
+ 
+Manimahesh Trekking Route
+32.42
+76.61
+Rock
+Slide
+NA
+7669
+HP/LSP/52H15/2018/2
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Near Pangmo
+32.42434
+77.93989
+Debris
+Slide
+NA
+7670
+HP/LSP/52H15/2018/1
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Near Hansa Village
+32.42743
+77.93735
+Debris
+Slide
+NA
+7671
+HP/LAH/52H03/2015/3
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Keylong NH21
+32.4293
+77.2144
+Rock
+Subsidence
+NA
+7672
+HP/LAH/52H03/2015/4
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Keylong NH21
+32.4293
+77.2144
+Rock
+Topple
+NA
+7673
+HP/CHA/43P15/2020/1
+Himachal Pradesh
+Chamba
+ 
+Barrian nala
+32.43
+75.96
+Debris
+Slide
+NA
+7674
+HP/CHA/43P15/2020/3
+Himachal Pradesh
+Chamba
+Berian
+Berian
+32.43
+75.97
+Rock
+Slide
+NA
+7675
+HP/CHA/43P15/2020/6
+Himachal Pradesh
+Chamba
+Barrian nala
+SH-28
+32.43
+75.96
+Debris
+Slide
+2000
+7676
+HP/CHA/43P15/2020/7
+Himachal Pradesh
+Chamba
+Taragarh
+Lahru-Taragarh road
+32.43
+75.96
+Debris
+Slide
+NA
+7677
+HP/CHA/43P15/2020/13
+Himachal Pradesh
+Chamba
+Barian
+SH-28
+32.43
+75.96
+Debris
+Slide
+2012
+7678
+HP/CHA/43P15/2020/14
+Himachal Pradesh
+Chamba
+Barian
+SH-28
+32.43
+75.96
+Debris
+Slide
+NA
+7679
+HP/CHA/43P15/2020/21
+Himachal Pradesh
+Chamba
+Hathola
+ 
+32.43
+75.97
+Debris
+Slide
+2010
+7680
+HP/CHA/43P15/2020/22
+Himachal Pradesh
+Chamba
+Barian
+SH-28
+32.43
+75.96
+Debris
+Slide
+NA
+7681
+HP/CHA/43P15/2020/25
+Himachal Pradesh
+Chamba
+Barian
+SH-28
+32.43
+75.96
+Debris
+Slide
+2018
+7682
+HP/CHA/43P15/2020/32
+Himachal Pradesh
+Chamba
+Barrian
+Barrian Nala
+32.43
+75.96
+Debris
+Slide
+NA
+7683
+HP/CHA/43P15/2020/35
+Himachal Pradesh
+Chamba
+ 
+Berian
+32.43
+75.96
+Debris
+Slide
+2005
+7684
+HP/CHA/43P15/2020/39
+Himachal Pradesh
+Chamba
+ 
+Taragarh
+32.43
+75.95
+Rock
+Slide
+2015
+7685
+HP/CHA/43P15/2020/40
+Himachal Pradesh
+Chamba
+ 
+Taragarh
+32.43
+75.95
+Rock
+Slide
+2017
+7686
+HP/CHA/43P15/2020/41
+Himachal Pradesh
+Chamba
+ 
+Taragarh
+32.43
+75.95
+Debris
+Slide
+2018
+7687
+HP/CHA/43P15/2020/62
+Himachal Pradesh
+Chamba
+ 
+Berrian
+32.43
+75.96
+Debris
+Slide
+NA
+7688
+HP/CHA/43P15/2020/64
+Himachal Pradesh
+Chamba
+ 
+Berrian
+32.43
+75.96
+Debris
+Slide
+NA
+7689
+HP/CHA/43P15/2020/65
+Himachal Pradesh
+Chamba
+ 
+Berrian
+32.43
+75.96
+Debris
+Slide
+2010
+7690
+HP/CHA/52D03/2020/41
+Himachal Pradesh
+Chamba
+ 
+Utwalu P.F
+32.43
+76.03
+Debris
+Slide
+NA
+7691
+HP/CHA/52D03/2020/42
+Himachal Pradesh
+Chamba
+ 
+north of Kulera
+32.43
+76.03
+Debris
+Slide
+NA
+7692
+HP/CHA/52D07/2020/2
+Himachal Pradesh
+Chamba
+ 
+Luna Kur link road
+32.43
+76.38
+Rock
+Fall
+NA
+7693
+HP/CHA/52D07/2020/13
+Himachal Pradesh
+Chamba
+ 
+Luna Kur link road
+32.43
+76.38
+Debris
+Fall
+NA
+7694
+HP/CHA/52D07/2020/21
+Himachal Pradesh
+Chamba
+ 
+Left bank of ravi river
+32.43
+76.49
+Rock
+Slide
+NA
+7695
+HP/CHA/52D07/2020/24
+Himachal Pradesh
+Chamba
+ 
+Luna Kur link road
+32.43
+76.38
+Rock
+Fall
+NA
+7696
+HP/CHA/52D11/2020/8
+Himachal Pradesh
+Chamba
+ 
+Bharmour-Grima Rd
+32.43
+76.53
+Debris
+Slide
+NA
+7697
+HP/CHA/52D11/2020/9
+Himachal Pradesh
+Chamba
+ 
+Bharmour-Grima Rd
+32.43
+76.53
+Debris
+Slide
+NA
+7698
+HP/CHA/52D11/2020/10
+Himachal Pradesh
+Chamba
+ 
+Bharmour-Grima Rd
+32.43
+76.53
+Debris
+Slide
+NA
+7699
+HP/CHA/52D11/2020/11
+Himachal Pradesh
+Chamba
+ 
+Bharmour-Grima Rd
+32.43
+76.53
+Debris
+Slide
+NA
+7700
+HP/CHA/52D11/2020/12
+Himachal Pradesh
+Chamba
+ 
+Bharmour-Grima Rd
+32.43
+76.53
+Debris
+Slide
+NA
+7701
+HP/CHA/52D11/2020/14
+Himachal Pradesh
+Chamba
+ 
+Bharmour-Grima Rd
+32.43
+76.52
+Debris
+Slide
+NA
+7702
+HP/CHA/52D11/2020/15
+Himachal Pradesh
+Chamba
+ 
+Bharmour-Grima Rd
+32.43
+76.52
+Debris
+Slide
+NA
+7703
+HP/CHA/52D11/2020/19
+Himachal Pradesh
+Chamba
+ 
+Bharmour-Grima Rd
+32.43
+76.52
+Rock
+Slide
+NA

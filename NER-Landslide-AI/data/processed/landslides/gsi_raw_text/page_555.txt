@@ -1,0 +1,312 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21995
+MZ/AIZ/84A14/2015/107
+Mizoram
+Aizawl
+ 
+1.9 km south of Keifang village 
+on SH Keifang-Seling road near 
+water reservoir
+23.658861
+92.963722
+Debris
+Slide
+NA
+21996
+MZ/AIZ/84A14/2015/106
+Mizoram
+Aizawl
+ 
+2 km south of Keifang village on 
+SH Keifang-Seling road near 
+water reservoir
+23.658944
+92.964056
+Rock
+Slide
+NA
+21997
+MZ/CHA/84E06/2017/28
+Mizoram
+Champhai
+ 
+12 km N of Vapar
+23.659891
+93.349052
+Debris
+Slide
+NA
+21998
+MZ/CHA/84E06/2017/17
+Mizoram
+Champhai
+ 
+Murlen village
+23.660361
+93.285548
+Debris
+Slide
+NA
+21999
+MZ/AIZ/84E02/2017/31
+Mizoram
+Aizawl
+Keifang Slide
+20km E of Keifang
+23.663354
+93.023297
+Rock
+Slide
+2017
+22000
+MZ/MAM/84A10/2015/177
+Mizoram
+Mamit
+ 
+North of W Lungdar, PMGSY 
+Darung - W Lungdar - 
+Chungtlang - Rulpuihlim
+23.664583
+92.590111
+Rock
+Slide
+NA
+22001
+MZ/AIZ/84A14/2015/96
+Mizoram
+Aizawl
+ 
+East of Keifang, SH- Keifang- 
+Champhai road
+23.665806
+92.969556
+Rock
+Slide
+NA
+22002
+MZ/AIZ/84A14/2015/114
+Mizoram
+Aizawl
+ 
+16.5 Km from Seling aon  SH 
+Seling-Champhai rd
+23.665806
+92.892639
+Rock
+Slide
+NA
+22003
+MZ/AIZ/84A14/2015/95
+Mizoram
+Aizawl
+ 
+Keifang, SH- Keifang- Champhai 
+road
+23.666361
+92.975972
+Debris
+Slide
+NA
+22004
+MZ/CHA/84E06/2017/10
+Mizoram
+Champhai
+ 
+13.5 km N of Vapar
+23.666608
+93.350691
+Debris
+Slide
+NA
+22005
+MZ/AIZ/84A14/2015/115
+Mizoram
+Aizawl
+ 
+16 Km stone (seling) on SH 
+Keifang-Seling.
+23.666722
+92.890889
+Debris
+Slide
+NA
+22006
+MZ/AIZ/84A14/2015/93
+Mizoram
+Aizawl
+ 
+Keifang, BRTF Quarry,  SH- 
+Keifang- Champhai road
+23.667306
+92.978028
+Rock
+Slide
+NA
+22007
+MZ/AIZ/84A14/2015/91
+Mizoram
+Aizawl
+ 
+Keifang, SH- Keifang- Champhai 
+road
+23.667361
+92.978
+Rock
+Slide
+NA
+22008
+MZ/AIZ/84A14/2015/92
+Mizoram
+Aizawl
+ 
+Keifang, quarry section on SH- 
+Keifang- Champhai road
+23.667361
+92.978
+Rock
+Slide
+NA
+22009
+MZ/AIZ/84A14/2015/112
+Mizoram
+Aizawl
+ 
+About 1.500km South of Turini 
+bridge, on  SH Seling-Champhai 
+rd
+23.669056
+92.888889
+Rock
+Slide
+NA
+22010
+MZ/MAM/84A10/2015/174
+Mizoram
+Mamit
+ 
+NW of Reiek Tlang, SH Reiek - 
+Chungtlang - Rulpuihlim
+23.669278
+92.592278
+Debris
+Slide
+NA
+22011
+MZ/AIZ/84E02/2017/38
+Mizoram
+Aizawl
+ 
+19.5 km E of keifang (kawlkulh 
+road)
+23.66958
+93.02425
+Rock
+Slide
+NA
+22012
+MZ/MAM/84A10/2015/178
+Mizoram
+Mamit
+ 
+NE of Reiek Tlang, SH Reiek - 
+Chungtlang - Rulpuihlim
+23.669694
+92.592667
+Rock
+Slide
+NA
+22013
+MZ/AIZ/84A14/2015/94
+Mizoram
+Aizawl
+ 
+Keifang village, Play Ground, 
+Saitual - Phullen Rd
+23.670389
+92.964417
+Rock
+Slide
+NA
+22014
+MZ/AIZ/84A10/2015/73
+Mizoram
+Aizawl
+ 
+About 3km North of 
+Hungohmun, SH-Aizawl - 
+Lunglei road
+23.670556
+92.728528
+Rock
+Slide
+NA
+22015
+MZ/AIZ/84A14/2015/111
+Mizoram
+Aizawl
+ 
+Seling-Champhai SH about 
+1.3km South of Turini bridge, on 
+SH Seling-Champhai rd
+23.671
+92.888333
+Debris
+Slide
+NA
+22016
+MZ/CHA/84E06/2017/18
+Mizoram
+Champhai
+ 
+15.5 km n of Vapar
+23.672022
+93.349595
+Debris
+Slide
+NA
+22017
+MZ/CHA/84E06/2017/4
+Mizoram
+Champhai
+ 
+15km N of Vapar
+23.673104
+93.349412
+Debris
+Slide
+NA
+22018
+MZ/MAM/84A10/2015/173
+Mizoram
+Mamit
+ 
+SW slope of Reiek Tlang, SH 
+Reiek - Chungtlang - Rulpuihlim
+23.674167
+92.596889
+Rock
+Slide
+NA
+22019
+MZ/MAM/84A10/2015/122
+Mizoram
+Mamit
+ 
+South of Chungtlang, SH-Reiek- 
+Mamit-Aizawl
+23.67425
+92.587278
+Debris
+Slide
+NA

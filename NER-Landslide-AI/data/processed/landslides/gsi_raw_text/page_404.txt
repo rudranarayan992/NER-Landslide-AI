@@ -1,0 +1,520 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16509
+MH/RAT/47H14/2016/30
+Maharashtra
+Ratnagiri
+ 
+Karak- Ambewadi Road
+16.723
+73.797
+Rock
+Slide
+2016
+16510
+MH/RAT/47H14/2016/31
+Maharashtra
+Ratnagiri
+ 
+Karak- Ambewadi Road
+16.725
+73.798
+Rock
+Fall
+2014
+16511
+MH/RAT/47H14/2016/39
+Maharashtra
+Ratnagiri
+ 
+Anuskara Road; SH-150
+16.734
+73.771
+Debris
+Slide
+2016
+16512
+MH/RAT/47H14/2016/38
+Maharashtra
+Ratnagiri
+ 
+Anuskara Road; SH-150
+16.736
+73.772
+Debris
+Slide
+2016
+16513
+MH/RAT/47H14/2016/37
+Maharashtra
+Ratnagiri
+ 
+Anuskara Road; SH-150
+16.737
+73.773
+Debris
+Slide
+2015
+16514
+MH/RAT/47H14/2016/36
+Maharashtra
+Ratnagiri
+ 
+Anuskara Road; SH-150
+16.738
+73.775
+Debris
+Fall
+2016
+16515
+MH/RAT/47H14/2016/34
+Maharashtra
+Ratnagiri
+ 
+Anuskara Road; SH-150
+16.745
+73.739
+Debris
+Slide
+2016
+16516
+MH/RAT/47H14/2016/35
+Maharashtra
+Ratnagiri
+ 
+Anuskara Road; SH-150
+16.745
+73.789
+Debris
+Slide
+2016
+16517
+MH/RAT/47H06/2016/4
+Maharashtra
+Ratnagiri
+ 
+Bhu-Chikle Road
+16.746
+73.459
+Debris
+Slide
+2016
+16518
+MH/RAT/47H06/2016/3
+Maharashtra
+Ratnagiri
+ 
+Bhu-Chikle Road
+16.748
+73.459
+Earth
+Fall
+2016
+16519
+MH/RAT/47H06/2016/66
+Maharashtra
+Ratnagiri
+ 
+Bhu-Chikhle Road
+16.748
+73.458
+Earth
+Fall
+2016
+16520
+MH/RAT/47H06/2016/2
+Maharashtra
+Ratnagiri
+ 
+Bhu-Chikle Road
+16.75
+73.459
+Debris
+Slide
+2016
+16521
+MH/RAT/47H09/2017/8
+Maharashtra
+Ratnagiri
+ 
+VadvaliShivne road
+16.750506
+73.517045
+Rock cum debris
+Slide
+NA
+16522
+MH/RAT/47H09/2017/10
+Maharashtra
+Ratnagiri
+ 
+VadvaliShivne road
+16.75062
+73.515877
+Rock
+Fall
+NA
+16523
+MH/RAT/47H09/2017/9
+Maharashtra
+Ratnagiri
+ 
+VadvaliShivne road
+16.75064
+73.516631
+Rock cum debris
+Slide
+NA
+16524
+MH/RAT/47H09/2017/7
+Maharashtra
+Ratnagiri
+ 
+NH66
+16.75186
+73.584442
+Rock cum debris
+Slide
+NA
+16525
+MH/KOL/47H13/2017/8
+Maharashtra
+Kolhapur
+ 
+SH150
+16.758028
+73.797861
+Rock cum debris
+Slide
+NA
+16526
+MH/RAT/47H13/2017/13
+Maharashtra
+Ratnagiri
+ 
+SH150 earlier SH111
+16.762333
+73.790694
+Rock
+Fall
+NA
+16527
+MH/RAT/47H05/2017/2
+Maharashtra
+Ratnagiri
+ 
+LanjaSatavli Rd
+16.76387
+73.46766
+Debris
+Creep
+NA
+16528
+MH/KOL/47H13/2017/7
+Maharashtra
+Kolhapur
+ 
+Yelvanjugai
+16.860222
+73.799639
+Rock cum debris
+Slide
+NA
+16529
+MH/KOL/47H13/2017/6
+Maharashtra
+Kolhapur
+ 
+SH150
+16.868667
+73.801528
+Rock cum debris
+Slide
+NA
+16530
+MH/RAT/47H09/2017/6
+Maharashtra
+Ratnagiri
+ 
+VadgaonBenikhurd road
+16.872083
+74.136556
+Rock cum debris
+Slide
+NA
+16531
+MH/KOL/47H13/2017/5
+Maharashtra
+Kolhapur
+ 
+ParivneManjre road
+16.884945
+73.86776
+Rock cum debris
+Slide
+NA
+16532
+MH/KOL/47H13/2017/1
+Maharashtra
+Kolhapur
+ 
+MalkapurKarad road
+16.949944
+73.942333
+Rock cum debris
+Fall
+NA
+16533
+MH/RAT/47H05/2017/1
+Maharashtra
+Ratnagiri
+ 
+Ibrahimpatam, Chanderai, 
+ChanderaiThonde Road
+16.95225
+73.42578
+Rock
+Fall
+NA
+16534
+MH/KOL/47H13/2017/16
+Maharashtra
+Kolhapur
+ 
+East of KerleKerle Dhangarwadi 
+Road
+16.965475
+73.843339
+Soil
+Creep
+NA
+16535
+MH/KOL/47H13/2017/14
+Maharashtra
+Kolhapur
+ 
+East of KerleKerle Dhangarwadi 
+Road
+16.96655
+73.843022
+Debris
+Slide
+NA
+16536
+MH/RAT/47H09/2017/5
+Maharashtra
+Ratnagiri
+ 
+SH107
+16.973689
+73.608629
+Debris
+Slide
+NA
+16537
+MH/KOL/47H13/2017/2
+Maharashtra
+Kolhapur
+ 
+NH204
+16.974944
+73.789842
+Debris
+Slide
+NA
+16538
+MH/RAT/47H13/2017/12
+Maharashtra
+Ratnagiri
+ 
+NH166
+16.984481
+73.783264
+Rock
+Fall
+NA
+16539
+MH/RAT/47H09/2017/4
+Maharashtra
+Ratnagiri
+ 
+NH66
+16.986931
+73.684917
+Debris
+Slide
+NA
+16540
+MH/KOL/47H13/2017/9
+Maharashtra
+Kolhapur
+ 
+NH166
+16.991083
+73.866188
+Soil
+Slide
+NA
+16541
+MH/RAT/47H09/2017/1
+Maharashtra
+Ratnagiri
+ 
+SH107
+16.991667
+73.676944
+Rock cum debris
+Slide
+NA
+16542
+MH/RAT/47H09/2017/2
+Maharashtra
+Ratnagiri
+ 
+VadvaliShivne road
+16.991897
+73.677049
+Rock cum debris
+Slide
+NA
+16543
+MH/RAT/47H09/2017/3
+Maharashtra
+Ratnagiri
+ 
+VadavaliShivne road
+16.992058
+73.675903
+Rock cum debris
+Slide
+NA
+16544
+MH/KOL/47H13/2017/10
+Maharashtra
+Kolhapur
+ 
+NH166
+16.992226
+73.866512
+Soil
+Slide
+NA
+16545
+MH/KOL/47H13/2017/15
+Maharashtra
+Kolhapur
+ 
+West of VankoliParle Ninai Road 16.992642
+73.859669
+Soil
+Creep
+NA
+16546
+MH/KOL/47H13/2017/3
+Maharashtra
+Kolhapur
+ 
+NH166
+16.996778
+73.773139
+Debris
+Slide
+NA
+16547
+MH/KOL/47H13/2017/4
+Maharashtra
+Kolhapur
+ 
+ManYelvan Jugai
+16.997482
+73.77488
+Rock cum debris
+Slide
+NA
+16548
+MH/RAT/47H13/2017/11
+Maharashtra
+Ratnagiri
+ 
+NH166
+16.999391
+73.776772
+Rock cum debris
+Slide
+NA
+16549
+MH/RAT/47G12/2017/10
+Maharashtra
+Ratnagiri
+ 
+DevrukhSakarpa Rd
+17.0004
+73.67408
+Rock
+Fall
+NA
+16550
+MH/RAT/47G12/2017/3
+Maharashtra
+Ratnagiri
+ 
+DevlaMeghi Rd
+17.00053
+73.60334
+Rock cum debris
+Fall
+NA
+16551
+MH/RAT/47G16/2017/20
+Maharashtra
+Ratnagiri
+ 
+Amba Ghat NH 204
+17.000836
+73.766952
+Debris
+Slide
+NA
+16552
+MH/RAT/47G16/2017/19
+Maharashtra
+Ratnagiri
+ 
+MalkapurManel road
+17.004348
+73.764449
+Debris
+Fall
+NA
+16553
+MH/RAT/47G12/2017/9
+Maharashtra
+Ratnagiri
+ 
+DevrukhSakarpa Rd
+17.00531
+73.6754
+Rock cum debris
+Slide
+NA
+16554
+MH/RAT/47G12/2017/15
+Maharashtra
+Ratnagiri
+ 
+Amba Rd
+17.00543
+73.74246
+Rock cum debris
+Fall
+NA

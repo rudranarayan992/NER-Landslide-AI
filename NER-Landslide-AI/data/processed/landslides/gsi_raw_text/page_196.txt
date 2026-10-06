@@ -1,0 +1,259 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+8441
+HP/SOLAN/53A/16/2025/12
+Himachal Pradesh
+Solan
+Shrella debris slide & subsidence 
+(localized subsidences)
+-
+31.012702
+76.873434
+Debris
+Slide
+August, 2023
+8442
+HP/Solan/53A/16/2025/01
+Himachal Pradesh
+Solan
+Katli-1, Debris slide
+Katli village
+31.16436666
+76.7617555
+Debris
+Slide
+ 7 August 2025
+8443
+HP/SOLAN/53A/16/2025/02
+Himachal Pradesh
+Solan
+Katli -2, Debris slide
+Katli village
+31.16997222
+76.76130555
+Debris
+Slide
+31 August 2025
+8444
+HP/SOLAN/53A/12/2025/03
+Himachal Pradesh
+Solan
+Baha subsidence
+NH-105
+31.20961944
+76.71348333
+Debris
+Subsidence
+2023, 2025
+8445
+HP/SOLAN/53A/12/2025/04
+Himachal Pradesh
+Solan
+Naal (Ghaniri) and Chamba- 
+Subsidence
+NH-105
+31.21918611
+76.72500833
+Debris
+Subsidence/Slid
+e
+22 August 2025
+8446
+HP/LAH/52D14/2025/01
+Himachal Pradesh
+Lahaul & Spiti
+Lindoor
+Lindoor village
+32.64833333
+76.87694444
+Debris
+Slide/Subsidenc
+e/Creep
+2000, August 2023.
+8447
+HP/LAH/52D14/2025/02
+Himachal Pradesh
+Lahaul & Spiti
+Jhalma
+NH-03
+32.62888889
+76.86361111
+Debris
+Flow
+2023
+8448
+HP/LAH/52D14/2025/03
+Himachal Pradesh
+Lahaul & Spiti
+Haling
+NH-03
+32.63083333
+76.86111111
+Debris
+Flow
+2021
+8449
+HP/LAH/52D14/2025/04
+Himachal Pradesh
+Lahaul & Spiti
+Jasrath
+Jasrath Village located on the 
+left bank of Chandrabhaga River
+(Fig. 1)
+32.63638889
+76.85611111
+Debris
+Flow
+2021
+8450
+HP/LAH/52D14/2025/05
+Himachal Pradesh
+Lahaul & Spiti
+Junda
+Junda Slide situated on the right 
+bank of Chandrabahag River
+(Fig. 1).
+32.63833333
+76.85222222
+Debris
+Flow
+NA
+8451
+HP/LAH/52D13/2025/06
+Himachal Pradesh
+Lahaul & Spiti
+Chaling
+Chaling Village located in Miyar 
+Valley and is approx. 26 kms
+from Udaipur.
+32.86027778
+76.815
+Debris
+Flow
+2025
+8452
+HP/LAH/52D14/2025/07
+Himachal Pradesh
+Lahaul & Spiti
+Tingret
+Tingret Village located in Miyar 
+Valley and is approx. 22 kms
+from Udaipur.
+32.63833333
+76.85222222
+Debris
+Flow
+2025
+8453
+HP/LAH/52D09/2025/08
+Himachal Pradesh
+Lahaul & Spiti
+Karpat Debris Flow
+Karpat village under Udaipur 
+Sub Division
+32.82666667
+76.74638889
+Debris
+Flow
+ 13 August 2025
+8454
+HP/LAH/52D14/2025/09
+Himachal Pradesh
+Lahaul & Spiti
+Chimret
+NH-03
+32.63833333
+76.85222222
+Debris
+Flow
+2021
+8455
+HP/LAH/52L08/2025/10
+Himachal Pradesh
+Lahaul & Spiti
+Poh
+NH-505
+32.06916667
+78.33222222
+Debris
+Slide
+05 August 2025
+8456
+HP/LAH/52L04/2025/11
+Himachal Pradesh
+Lahaul & Spiti
+Shichiling Debris Flow
+NH-505
+32.06138889
+78.21944444
+Debris
+Flow
+NA
+8457
+HP/KINN/53I09/2025/12
+Himachal Pradesh
+Kinnaur
+Maling Nala (Left Bank)
+NH-505
+31.90333333
+78.63166667
+Debris
+Slide
+Maling Slide zone was initially 
+triggered during the year 1968
+(DDMA Kinnaur Website) after which, 
+subsequent
+reactivations have been witnessed 
+during the monsoons every damage on 
+15^{th} August 2025 which was 
+subsequently
+reactivated on 21^{st} August 2025 
+and a major road blockage was
+observed on 1^{st} September 2025 
+(Fig. 2, 3 & 4).
+year. A part of left bank slope of 
+Maling Nala suffered initial
+8458
+HP/KINN/53I02/2025/13
+Himachal Pradesh
+Kinnaur
+Meeru Slide
+Meeru village (Approx 5kms 
+North of NH-05 at Choling)
+31.53472222
+78.14333333
+Debris
+Slide
+2019
+8459
+HP/KINN/53I03/2025/14
+Himachal Pradesh
+Kinnaur
+Ruturang (Kupa)
+Karcham-Sangla Road
+31.435
+78.23638889
+Debris
+Slide
+2005
+8460
+HP/KIN/53E14/2025/15
+Himachal Pradesh
+Kinnaur
+Nathpa
+NH-05
+31.5625
+77.98194444
+Rock
+Slide
+27 October 2023, 1, 26 August 2025

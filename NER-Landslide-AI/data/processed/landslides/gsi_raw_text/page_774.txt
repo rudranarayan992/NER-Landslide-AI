@@ -1,0 +1,396 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30268
+WB/DAR/78A12/2015/1494
+West Bengal
+Darjeeling
+ 
+ 
+27.134978
+88.540356
+Rock cum Debris
+Slide
+2013
+30269
+WB/DAR/78A12/2015/163
+West Bengal
+Darjeeling
+NH-31A_ 50 km
+At Km. 50 from Sevoke on NH 
+31A
+27.138066
+88.519288
+Debris
+Subsidence
+1968
+30270
+WB/DAR/78A08/2021/PDLS/37
+7
+West Bengal
+Kalimpong
+N/A
+N/A
+27.14112958
+88.51883207
+Rock
+Slide
+October 2021
+30271
+WB/DAR/78A12/2015/1295
+West Bengal
+Darjeeling
+ 
+KAGEY
+27.141917
+88.66425
+Debris
+Slide
+2016
+30272
+WB/DAR/78A12/2015/219
+West Bengal
+Darjeeling
+7.5 km on Algara-Munsong-Rangpo 
+road
+7.5 km on Algara-Munsong-
+Rangpo road
+27.141929
+88.563286
+Debris
+Slide
+2012
+30273
+WB/DAR/78A12/2015/1289
+West Bengal
+Darjeeling
+ 
+POCHOK,  GITDUBLING ROAD
+27.142194
+88.66525
+Debris
+Subsidence
+2015
+30274
+WB/DAR/78A12/2015/252
+West Bengal
+Darjeeling
+Barmek
+ 
+27.142637
+88.560902
+Debris
+Subsidence
+2013
+30275
+WB/DAR/78A12/2015/1496
+West Bengal
+Darjeeling
+ 
+ 
+27.143115
+88.536036
+Debris
+Slide
+2013
+30276
+WB/DAR/78A12/2015/1294
+West Bengal
+Darjeeling
+ 
+LINGSAKHA ROAD
+27.15125
+88.668222
+Rock
+Slide
+2015
+30277
+WB/DAR/78A12/2015/1497
+West Bengal
+Darjeeling
+ 
+ 
+27.151457
+88.551109
+Debris
+Slide
+2006
+30278
+WB/DAR/78A12/2015/241
+West Bengal
+Darjeeling
+Upper Munsong on Algara-Rangpo 
+road
+Upper Munsong on Algara-
+Rangpo road
+27.15296
+88.567144
+Debris
+Slide
+2012
+30279
+WB/DAR/78A12/2015/1529
+West Bengal
+Darjeeling
+ 
+THAPA GAON
+27.153861
+88.569803
+Debris
+Slide
+2016
+30280
+WB/DAR/78A12/2015/250
+West Bengal
+Darjeeling
+Rangpo-Algara Road
+Rongpo-Algara Road
+27.154
+88.57
+Rock
+Slide
+2013
+30281
+WB/DAR/78A12/2015/215
+West Bengal
+Darjeeling
+17.2 km on Algara-Rishi road
+ 
+27.155676
+88.638629
+Debris
+Slide
+2009
+30282
+WB/DAR/78A08/2021/PDLS/37
+8
+West Bengal
+Kalimpong
+N/A
+N/A
+27.15655256
+88.53407629
+Debris
+Slide
+October 2021
+30283
+WB/DAR/78A12/2015/1336
+West Bengal
+Darjeeling
+PEDONG ROADSUBSIDENCE
+PEDONG 12 KM MILESTONE
+27.157667
+88.633528
+Rock
+Subsidence
+2010
+30284
+WB/DAR/78A12/2015/240
+West Bengal
+Darjeeling
+12 km on Algara-Munsong-Rangpo 
+road
+Dhobi Khola near village 
+Kshyiem (12 km on Algara-
+Munsong-Rangpo road)
+27.158
+88.584
+Debris
+Subsidence
+2012
+30285
+WB/DAR/78A12/2015/184
+West Bengal
+Darjeeling
+17km from Algara on Algara-Rishi 
+road
+ 
+27.158141
+88.635771
+Debris
+Slide
+2006
+30286
+WB/DAR/78A12/2015/1292
+West Bengal
+Darjeeling
+ 
+LINGSAY ROAD
+27.158667
+88.670389
+Debris
+Slide
+2014
+30287
+WB/DAR/78A12/2015/1337
+West Bengal
+Darjeeling
+ 
+ 
+27.158778
+88.634056
+Debris
+Subsidence
+2010
+30288
+WB/DAR/78A12/2015/251
+West Bengal
+Darjeeling
+Rangpo-Algara Road
+Rongpo-Algara Road
+27.158851
+88.581731
+Debris
+Subsidence
+2013
+30289
+WB/DAR/78A12/2015/167
+West Bengal
+Darjeeling
+At Km. 3.5 on Rangpo-Payong road
+At Km. 3.5 on Rangpo-Payong 
+road
+27.159
+88.543
+Rock cum Debris
+Subsidence
+1976
+30290
+WB/DAR/78A12/2015/422
+West Bengal
+Darjeeling
+NH55  At Km. 25.5 from Darjeeling on 
+NH 55
+At Km. 25.5 from Darjeeling on 
+NH 55
+27.159
+88.543
+Debris
+Flow
+2003
+30291
+WB/DAR/78A12/2015/280
+West Bengal
+Darjeeling
+Rishi
+Rishi near Sikkim-West Bengal 
+boundary Kalimpong 
+Sub-division.
+27.15925
+88.639556
+Rock
+Slide
+2015
+30292
+WB/DAR/78A12/2015/1338
+West Bengal
+Darjeeling
+RISHOP ROAD SLIDE
+RISHOP ROAD
+27.159778
+88.633778
+Rock
+Slide
+2010
+30293
+WB/DAR/78A12/2015/1334
+West Bengal
+Darjeeling
+RISHI KHOLA SUBSIDENCE
+Rishi
+27.159806
+88.634111
+Debris
+Subsidence
+2010
+30294
+WB/DAR/78A12/2015/1335
+West Bengal
+Darjeeling
+RISHI SLIDE
+RISHI
+27.159889
+88.636
+Rock
+Slide
+2010
+30295
+WB/DAR/78A12/2015/216
+West Bengal
+Darjeeling
+18 km from Algara on Algara-Rishi 
+road
+ 
+27.160046
+88.635752
+Debris
+Subsidence
+2009
+30296
+WB/DAR/78A12/2015/173
+West Bengal
+Darjeeling
+11.0 km from Algara on Algara-Rishi 
+road
+ 
+27.160509
+88.629263
+Debris
+Subsidence
+1982
+30297
+WB/DAR/78A12/2015/162
+West Bengal
+Darjeeling
+18.5 km from Algara on Algara-Rishi 
+road
+18.5 km on Algara-Rishi road
+27.16192
+88.634733
+Rock
+Slide
+1968
+30298
+WB/DAR/78A12/2015/1290
+West Bengal
+Darjeeling
+ 
+LINGSAY ROAD
+27.162306
+88.690917
+Debris
+Slide
+2016
+30299
+WB/DAR/78A12/2015/1291
+West Bengal
+Darjeeling
+ 
+LINGSAY ROAD
+27.162556
+88.668111
+Debris
+Subsidence
+2014
+30300
+WB/DAR/78A12/2015/172
+West Bengal
+Darjeeling
+7.5 km from Algara on Algara-Rishi 
+road
+At 3.5 Km. from Pedong on 
+Pedong ΓêÜ Rhenok road
+27.163385
+88.622741
+Debris
+Subsidence
+1982

@@ -1,0 +1,390 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20720
+MZ/SAI/84F04/2020/19
+Mizoram
+Saiha
+Mawhro chapi slide 3
+Mawhro chapi road
+22.21
+93.12
+Debris
+Slide
+2017
+20721
+MZ/LAW/84B12/2020/6
+Mizoram
+Lawngtlai
+Chhippui road slide
+Chhippui road
+22.22
+92.62
+Debris
+Slide
+2018
+20722
+MZ/LAW/84B12/2020/7
+Mizoram
+Lawngtlai
+Chhippui slide
+Outside Chhippui
+22.22
+92.62
+Debris
+Slide
+NA
+20723
+MZ/LAW/84B12/2020/8
+Mizoram
+Lawngtlai
+Chhippui road slide 2
+Chhippui road
+22.22
+92.62
+Debris
+Slide
+NA
+20724
+MZ/LAW/84B16/2020/6
+Mizoram
+Saiha
+SE of Tuipuibari slide 1
+About 6km SE of Tuipuibari on 
+SH Aizawl - West Phaileng - 
+Tupiuibar - Rajiv Nagar road.
+22.22
+92.95
+Debris
+Slide
+2019
+20725
+MZ/LAW/84B16/2020/7
+Mizoram
+Saiha
+SE of Vaihai slide 1
+5km south east of vaihai
+22.22
+92.96
+Debris
+Slide
+NA
+20726
+MZ/SAI/84F04/2020/20
+Mizoram
+Saiha
+Mawhro chapi slide 4
+Mawhro chapi road
+22.22
+93.11
+Debris
+Slide
+2017
+20727
+MZ/LAW/84B12/2020/4
+Mizoram
+Lawngtlai
+Damdep II slide 1
+Outside Damdep II
+22.23
+92.62
+Debris
+Slide
+NA
+20728
+MZ/LAW/84B12/2020/5
+Mizoram
+Lawngtlai
+Damdep II slide 2
+Outside Damdep II
+22.23
+92.62
+Debris
+Slide
+NA
+20729
+MZ/LAW/84B16/2020/4
+Mizoram
+Saiha
+South of Kanan Veng slide 1
+South of Kanan Veng, West 
+Phaileng on SH Aizawl - West 
+Phaileng - Marpara Road
+22.23
+92.93
+Rock
+Slide
+2019
+20730
+MZ/LAW/84B16/2020/5
+Mizoram
+Saiha
+Thaichanglui Anti Poaching Camp slide 
+1
+Near Thaichanglui Anti Poaching 
+Camp, Dampa Tiger Reserve on 
+SH Aizawl - West Phaileng - 
+Teirei - Tuipuibari road
+22.23
+92.93
+Rock
+Slide
+2018
+20731
+MZ/LAW/84B12/2020/1
+Mizoram
+Lawngtlai
+Fangfarlui slide 1
+Fangfarlui
+22.24
+92.69
+Debris
+Slide
+NA
+20732
+MZ/LAW/84B12/2020/3
+Mizoram
+Lawngtlai
+Damdep I slide
+Damdep I
+22.24
+92.62
+Debris
+Slide
+2019
+20733
+MZ/LAW/84B12/2020/34
+Mizoram
+Lawngtlai
+Chikhurlui to Vathuampui road slide 4 Chikhurlui to Vathuampui road
+22.24
+92.68
+Debris
+Slide
+2019
+20734
+MZ/LAW/84B12/2020/41
+Mizoram
+Lawngtlai
+India Bangladesh Fencing road slide 4
+India Bangladesh Fencing road
+22.24
+92.6
+Debris
+Slide
+2019
+20735
+MZ/SAI/84F04/2020/21
+Mizoram
+Saiha
+Chapi slide
+1km from chapi village
+22.24
+93.1
+Debris
+Slide
+2017
+20736
+MZ/LAW/84B11/2020/37
+Mizoram
+Lawngtlai
+Guisury to Damdep II road slide 4
+Guisury to Damdep II road
+22.25
+92.63
+Debris
+Slide
+2019
+20737
+MZ/LAW/84B12/2020/2
+Mizoram
+Lawngtlai
+Damdep II road slide
+Damdep II road
+22.25
+92.63
+Debris
+Slide
+2019
+20738
+MZ/LAW/84B12/2020/36
+Mizoram
+Lawngtlai
+Bifurcation from Damdep II slide 1
+Bifurcation from Damdep II
+22.25
+92.62
+Debris
+Slide
+2019
+20739
+MZ/LAW/84B12/2020/37
+Mizoram
+Lawngtlai
+Bifurcation from Damdep II slide 2
+Bifurcation from Damdep II
+22.25
+92.62
+Debris
+Slide
+2019
+20740
+MZ/SAI/84F04/2020/1
+Mizoram
+Saiha
+SW of Zawngling slide
+SW of Zawngling village
+22.25
+93.03
+Debris
+Slide
+NA
+20741
+MZ/SAI/84F04/2020/22
+Mizoram
+Saiha
+Chheihlu Mawhro section slide 1
+Chheihlu Mawhro section
+22.25
+93.09
+Debris
+Slide
+2017
+20742
+MZ/LAW/84B11/2020/35
+Mizoram
+Lawngtlai
+Guisury to Damdep II road slide 2
+Guisury to Damdep II road
+22.26
+92.63
+Debris
+Slide
+2019
+20743
+MZ/LAW/84B11/2020/36
+Mizoram
+Lawngtlai
+Guisury to Damdep II road slide 3
+Guisury to Damdep II road
+22.26
+92.63
+Debris
+Slide
+2019
+20744
+MZ/LAW/84B11/2020/39
+Mizoram
+Lawngtlai
+Chikhurlui to Vathuampui road slide 2 Chikhurlui to Vathuampui road
+22.26
+92.68
+Debris
+Slide
+NA
+20745
+MZ/LAW/84B11/2020/64
+Mizoram
+Lawngtlai
+Chikhurlui to Vathuampui road slide 3 Chikhurlui to Vathuampui road
+22.26
+92.68
+Debris
+Slide
+2019
+20746
+MZ/SAI/84F03/2020/4
+Mizoram
+Saiha
+Zawngling slide
+Zawngling village
+22.26
+93.05
+Debris
+Slide
+NA
+20747
+MZ/SAI/84F03/2020/12
+Mizoram
+Saiha
+SW of Zawngling village slide 1
+3km SW of Zawngling village
+22.26
+93.03
+Rock
+Slide
+NA
+20748
+MZ/SAI/84F03/2020/13
+Mizoram
+Saiha
+SW of Zawngling village slide2
+3km SW of Zawngling village
+22.26
+93.03
+Rock
+Slide
+NA
+20749
+MZ/LAW/84B11/2020/34
+Mizoram
+Lawngtlai
+Guisury to Damdep II road slide 1
+Guisury to Damdep II road
+22.27
+92.63
+Debris
+Slide
+2019
+20750
+MZ/LAW/84B11/2020/38
+Mizoram
+Lawngtlai
+Chikhurlui to Vathuampui road slide 1 Chikhurlui to Vathuampui road
+22.27
+92.68
+Debris
+Slide
+2019
+20751
+MZ/SAI/84F03/2020/1
+Mizoram
+Saiha
+Chheihlu Mawhro section slide 4
+Chheihlu Mawhro section
+22.27
+93.09
+Debris
+Slide
+2017
+20752
+MZ/SAI/84F03/2020/5
+Mizoram
+Saiha
+South east of Phudungsei slide
+South east of Phudungsei
+22.27
+93.05
+Debris
+Slide
+NA
+20753
+MZ/SAI/84F03/2020/6
+Mizoram
+Saiha
+SE of Zawngling slide
+SE of zawngling village
+22.27
+93.06
+Rock
+Slide
+NA

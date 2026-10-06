@@ -1,0 +1,363 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15755
+KER/IDK/58G01/2018/48
+Kerala
+Idukki
+Thankamony
+Thankamony-Kalvarimount 
+Road
+9.836947
+77.036161
+Earth
+Slide
+15th August 2018
+15756
+KER/IDK/58G01/2018/49
+Kerala
+Idukki
+Alphonsa Nagar
+Thankamony-Kalvarimount 
+Road
+9.836559
+77.028557
+Debris
+Flow
+15th August 2018
+15757
+KER/IDK/58G01/2018/50
+Kerala
+Idukki
+Alphonsa Nagar
+Thankamony-Kalvarimount 
+Road
+9.837452
+77.027359
+Debris
+Flow
+15th August 2018
+15758
+KER/IDK/58G01/2018/51
+Kerala
+Idukki
+Koottakkallu
+Koottakallu-Eettikavala Road
+9.830635
+77.026142
+Debris
+Slide
+15th August 2018
+15759
+KER/IDK/58G01/2018/52
+Kerala
+Idukki
+Alphonsa Nagar
+Koottakallu-Eettikavala Road
+9.832216
+77.026261
+Debris
+Flow
+15th August 2018
+15760
+KER/IDK/58G01/2018/53
+Kerala
+Idukki
+Koottakkallu
+Koottakallu
+9.828299
+77.029682
+Debris
+Slide
+2013 & 15th August 2018
+15761
+KER/IDK/58G01/2018/54
+Kerala
+Idukki
+Koottakkallu
+Koottakallu-Kalvarimount-
+Thankamony Road
+9.826841
+77.036163
+Debris
+Slide
+15th August 2018
+15762
+KER/IDK/58G01/2018/55
+Kerala
+Idukki
+Koottakallu-Nellipara
+Koottakallu-Nellipara Road
+9.82085
+77.040337
+Soil
+Subsidence
+15th August 2018
+15763
+KER/IDK/58G01/2018/56
+Kerala
+Idukki
+Koottakalllu
+Koottakallu-Nellipara Road
+9.823565
+77.044282
+Debris
+Slide
+15th August 2018
+15764
+KER/IDK/58G01/2018/57
+Kerala
+Idukki
+Koottakalllu
+Koottakallu-Nellipara Road
+9.822187
+77.043581
+Debris
+Flow
+16th August 2018
+15765
+KER/IDK/58G01/2018/58
+Kerala
+Idukki
+Nellipara
+Kamashi-Nellipara Road
+9.8248
+77.050815
+Debris
+Flow
+16th August 2018
+15766
+KER/IDK/58G01/2018/59
+Kerala
+Idukki
+Kamashi
+Kamashi-Koottakallu Road
+9.824954
+77.041802
+Earth
+Slide
+15th August 2018
+15767
+KER/IDK/58G01/2018/60
+Kerala
+Idukki
+Pandipara
+Thankamony-Pallimedu-
+Pandimedu Road
+9.853161
+77.014074
+Debris
+Flow
+16th August 2018
+15768
+KER/IDK/58G01/2018/61
+Kerala
+Idukki
+Malikakkalpadi
+Thankamony-Pallimedu-
+Pandimedu Road
+9.851583
+77.016316
+Debris
+Flow
+16th August 2018
+15769
+KER/IDK/58G01/2018/62
+Kerala
+Idukki
+Malikakkalpadi
+Thankamony-Pallimedu-
+Pandimedu Road
+9.85135
+77.016078
+Debris
+Flow
+16th August 2018
+15770
+KER/IDK/58G01/2018/63
+Kerala
+Idukki
+Pandipara
+Pandipara-Irukooti Road
+9.856356
+77.007184
+Earth
+Slide / Slump
+15th August 2018
+15771
+KER/IDK/58G01/2018/64
+Kerala
+Idukki
+Irukootti
+Pandipara-Irukooti Road
+9.858107
+77.0123
+Earth
+Slide
+16th August 2018
+15772
+KER/IDK/58G01/2018/65
+Kerala
+Idukki
+Karikkintholam
+Khethrampadi-Karikkintholam 
+Road
+9.860549
+77.006415
+Debris
+Flow
+16th August 2018
+15773
+KER/IDK/58G01/2018/66
+Kerala
+Idukki
+Pandipara
+Pandipara-Tourist para Road
+9.859315
+77.003593
+Debris
+Flow
+16th August 2018
+15774
+KER/IDK/58G01/2018/67
+Kerala
+Idukki
+Achanganam
+Thankamony-Irukooti Road
+9.849512
+77.02252
+Debris
+Flow
+15th August 2018
+15775
+KER/IDK/58G01/2018/68
+Kerala
+Idukki
+Achanganam
+Thankamony-Irukooti Road
+9.850975
+77.021253
+Debris
+Flow
+15th August 2018
+15776
+KER/IDK/58G01/2018/69
+Kerala
+Idukki
+Achanganam
+Thankamony-Irukooti Road
+9.851952
+77.022672
+Debris
+Flow
+15th August 2018
+15777
+KER/IDK/58G01/2018/70
+Kerala
+Idukki
+Achanganam
+Karimpanapadi-Achanganam 
+Road
+9.850756
+77.027595
+Debris
+Flow
+16th August 2018
+15778
+KER/IDK/58G01/2018/71
+Kerala
+Idukki
+Achanganam
+Karimpanapadi-Achanganam 
+Road
+9.849942
+77.029295
+Debris
+Flow
+14th & 15th August 2018
+15779
+KER/IDK/58G01/2018/72
+Kerala
+Idukki
+Achanganam
+Karimpanapadi-Achanganam 
+Road
+9.850227
+77.029989
+Debris
+Flow
+15th August 2018
+15780
+KER/IDK/58C13/2018/73
+Kerala
+Idukki
+Madathinkadavu
+Vimalagiri-Thadiyampadu Road 9.878841
+76.971404
+Debris
+Slide
+15th August 2018
+15781
+KER/IDK/58G01/2018/74
+Kerala
+Idukki
+Achanganam
+Thankamony-Irukooti Road
+9.85099
+77.023313
+Soil
+Soil Piping
+15th August 2018
+15782
+KER/IDK/58G01/2018/75
+Kerala
+Idukki
+Thankamony
+Thankamony-Idukki road
+9.839444
+77.031355
+Earth
+Slide
+15th August 2018
+15783
+KER/IDK/58G01/2018/76
+Kerala
+Idukki
+Eettikkavala
+Eettikavala-Narekkanam Road
+9.839217
+77.019395
+Debris
+Slide
+14th August 2018
+15784
+KER/IDK/58G01/2018/77
+Kerala
+Idukki
+Eettikavala
+Eettikavala-Narekkanam Road
+9.840943
+77.014994
+Debris
+Slide
+15th August 2018
+15785
+KER/IDK/58G01/2018/78
+Kerala
+Idukki
+Eettikkavala
+Eettikavala-Narekkanam Road
+9.841081
+77.014566
+Debris
+Slide
+15th August 2018

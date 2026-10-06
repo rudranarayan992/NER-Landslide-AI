@@ -1,0 +1,368 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29287
+WB/DAR/78A04/2015/1209
+West Bengal
+Darjeeling
+ 
+SW OF DHANGIA BAZAR
+27.023
+88.14825
+Debris
+Subsidence
+2014
+29288
+WB/DAR/78A04/2015/1247
+West Bengal
+Darjeeling
+ 
+LEPCHA BUSTY
+27.023167
+88.205583
+Rock
+Slide
+2016
+29289
+WB/DAR/78A08/2015/700
+West Bengal
+Darjeeling
+On NH-10 (near 5 km milestone from 
+Sevok)
+NH-10
+27.023444
+88.433694
+Debris
+Slide
+2015
+29290
+WB/DAR/78A08/2015/111
+West Bengal
+Darjeeling
+NH-31A  _ 24 Km (29th Mile) from 
+Sevok(Tiger Bridge) towards  Gangtok
+NH31A
+27.023536
+88.43302
+Debris
+Slide
+2011
+29291
+WB/DAR/78A12/2015/204
+West Bengal
+Darjeeling
+24.5Km . from Damdim on Damdim-
+Algarah road
+Right abutment of Chel Bridge
+27.023638
+88.697117
+Rock
+Slide
+2007
+29292
+WB/DAR/78A08/2015/112
+West Bengal
+Darjeeling
+NH-31A  _ 24 Km (29th Mile) from 
+Sevok(Tiger Bridge) towards  Gangtok
+NH31A
+27.023666
+88.437776
+Debris
+Slide
+2011
+29293
+WB/DAR/78A12/2015/1532
+West Bengal
+Darjeeling
+ 
+LAMAHATTA
+27.023694
+88.697284
+Debris
+Slide
+2015
+29294
+WB/DAR/78A04/2021/PDLS/66
+West Bengal
+Darjeeling
+N/A
+N/A
+27.02392986
+88.09460148
+Debris
+Slide
+October 2021
+29295
+WB/DARJ/78A08/2011/0267
+West Bengal
+Darjeeling
+ 
+NH31A
+27.024
+88.434
+Debris
+Slide
+NA
+29296
+WB/DARJ/78A08/2006/0339
+West Bengal
+Darjeeling
+ 
+Within Nimkidhara village, 4kms 
+from Darjeeling Town
+27.024
+88.262
+Rock cum Debris
+Slide
+NA
+29297
+WB/DARJ/78A08/2009/0338
+West Bengal
+Darjeeling
+ 
+ 
+27.024
+88.26
+Debris
+Slide
+NA
+29298
+WB/DAR/78A12/2015/231
+West Bengal
+Darjeeling
+Khani village on Pala-Samalbung road Khani village on Pala-Samalbung 
+road
+27.024
+88.532
+Rock
+Slide
+2012
+29299
+WB/DAR/78A12/2015/273
+West Bengal
+Darjeeling
+Samalbung-Bagrakote road
+Samalbung-Bagrakote road
+27.024178
+88.536793
+Rock
+Slide
+2013
+29300
+WB/DAR/78A08/2015/41
+West Bengal
+Darjeeling
+Within Nimkidhara village, 4km. From 
+Darjeeling Town
+Within Nimkidhara village, 4km. 
+From Darjeeling Town
+27.024287
+88.26236
+Rock cum Debris
+Slide
+2006
+29301
+WB/DAR/78A08/2015/103
+West Bengal
+Darjeeling
+Jalapahar-Kotwali Cantonment
+ 
+27.024472
+88.259611
+Debris
+Slide
+2009
+29302
+WB/DAR/78A12/2015/232
+West Bengal
+Darjeeling
+Khani village on Pala-Samalbung road Khani village on Pala-Samalbung 
+road
+27.024489
+88.532501
+Rock
+Slide
+2012
+29303
+WB/DAR/78A12/2015/1308
+West Bengal
+Darjeeling
+ 
+KHANI
+27.02475
+88.531417
+Debris
+Slide
+2014
+29304
+WB/DAR/78A08/2015/1347
+West Bengal
+Darjeeling
+SEVOK ROAD
+SEVOK ROAD
+27.024806
+88.432139
+Debris
+Slide
+2015
+29305
+WB/DAR/78A12/2015/1375
+West Bengal
+Darjeeling
+MELLI ROAD
+KHANI
+27.024806
+88.531472
+Debris
+Slide
+2015
+29306
+WB/DAR/78A04/2015/1246
+West Bengal
+Darjeeling
+ 
+MARYBONG TG
+27.024889
+88.206806
+Debris
+Slide
+2015
+29307
+WB/DDARJ/78A04/2009/0241
+West Bengal
+Darjeeling
+ 
+ 
+27.025
+88.24
+Debris
+Fall
+NA
+29308
+WB/DAR/78A04/2015/18
+West Bengal
+Darjeeling
+Darjeeling-Bijanbari Road_Barbatia 
+village
+ 
+27.025
+88.24
+Debris
+Fall
+2009
+29309
+WB/DAR/78A08/2015/60
+West Bengal
+Darjeeling
+Alubari-Phulbari village, just below of 
+Alubari road
+South of Alubari-Phulbari 
+village, just below of Alubari 
+road
+27.025053
+88.27664
+Rock
+Slide
+2007
+29310
+WB/DAR/78A12/2015/1386
+West Bengal
+Darjeeling
+SOUTH OF PHAPERKHETI
+SH-12
+27.025056
+88.695472
+Rock cum Debris
+Slide
+2012
+29311
+WB/DAR/78A08/2015/1434
+West Bengal
+Darjeeling
+ 
+ 
+27.025358
+88.451398
+Debris
+Slide
+2006
+29312
+WB/DAR/78A08/2015/1436
+West Bengal
+Darjeeling
+ 
+ 
+27.025394
+88.4803
+Debris
+Slide
+2011
+29313
+WB/DAR/78A08/2015/1435
+West Bengal
+Darjeeling
+ 
+ 
+27.025525
+88.450807
+Debris
+Slide
+2015
+29314
+WB/DAR/78A04/2015/29
+West Bengal
+Darjeeling
+Along the  road between Rammam to 
+mane Bhanjan (towards  
+Sukhiapokhri)
+ 
+27.025528
+88.098722
+Debris
+Slide
+2015
+29315
+WB/DAR/78A04/2015/31
+West Bengal
+Darjeeling
+Along the  road between Rammam to 
+mane Bhanjan (towards  
+Sukhiapokhri)
+SH12
+27.025528
+88.098722
+Debris
+Slide
+2015
+29316
+WB/DAR/78A04/2021/PDLS/43
+West Bengal
+Darjeeling
+N/A
+N/A
+27.02558949
+88.19470382
+Debris
+Slide
+October 2021
+29317
+WB/DAR/78A04/2015/1208
+West Bengal
+Darjeeling
+ 
+LANGUR DAND
+27.025833
+88.150861
+Rock cum Debris
+Slide
+2015

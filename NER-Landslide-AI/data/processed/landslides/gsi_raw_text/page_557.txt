@@ -1,0 +1,287 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22044
+MZ/MAM/84A10/2015/175
+Mizoram
+Mamit
+ 
+Northwestern slope of Reiek 
+Tlang (1485m), Waiting shed 
+Reiek on SH Reiek - Chungtlang - 
+Rulpuihlim
+23.688389
+92.595583
+Rock
+Slide
+NA
+22045
+MZ/CHA/84E02/2017/0061
+Mizoram
+Champhai
+ 
+3.8 km N of Rabung
+23.689256
+93.192172
+Rock
+Slide
+NA
+22046
+MZ/CHA/84E02/2017/5
+Mizoram
+Champhai
+ 
+15km E of Saitual
+23.689282
+93.039041
+Debris
+Slide
+NA
+22047
+MZ/MAM/84A06/2020/3
+Mizoram
+Mamit
+South of Kanan Veng slide 2
+South of Kanan Veng, West 
+Phaileng on SH Aizawl - West 
+Phaileng - Marpara Road
+23.69
+92.49
+Rock
+Slide
+2019
+22048
+MZ/MAM/84A06/2020/4
+Mizoram
+Mamit
+Thaichanglui Anti Poaching Camp slide 
+2
+Near Thaichanglui Anti Poaching 
+Camp, Dampa Tiger Reserve on 
+SH Aizawl - West Phaileng - 
+Teirei - Tuipuibari road
+23.69
+92.35
+Rock
+Slide
+2018
+22049
+MZ/MAM/84A06/2020/5
+Mizoram
+Mamit
+SE of Tuipuibari slide 2
+About 6km SE of Tuipuibari on 
+SH Aizawl - West Phaileng - 
+Tupiuibar - Rajiv Nagar road.
+23.69
+92.35
+Debris
+Slide
+2019
+22050
+MZ/MAM/84A10/2015/133
+Mizoram
+Mamit
+ 
+Chungtlang, SH-Reiek- Mamit-
+Aizawl
+23.690722
+92.570139
+Rock
+Slide
+NA
+22051
+MZ/CHA/84E02/2017/6
+Mizoram
+Champhai
+N/A
+N/A
+23.69159
+93.190067
+Rock
+Slide
+NA
+22052
+MZ/MAM/84A10/2015/136
+Mizoram
+Mamit
+ 
+Chungtlang, SH-Reiek- Mamit-
+Aizawl
+23.691722
+92.575111
+Debris
+Slide
+NA
+22053
+MZ/MAM/84A10/2015/135
+Mizoram
+Mamit
+ 
+Chungtlang, SH-Reiek- Mamit-
+Aizawl
+23.6935
+92.570306
+Rock
+Slide
+NA
+22054
+MZ/AIZ/84A10/2015/231
+Mizoram
+Aizawl
+ 
+Melthum, SH- Aizawl - Lunglei
+23.693667
+92.719056
+Rock
+Slide
+NA
+22055
+MZ/CHA/84E02/2017/0062
+Mizoram
+Champhai
+ 
+S of Aiduzawl
+23.694333
+93.183335
+Rock
+Slide
+NA
+22056
+MZ/MAM/84A10/2015/132
+Mizoram
+Mamit
+ 
+North of Chungtlang, SH-Reiek- 
+Mamit-Aizawl
+23.695083
+92.570639
+Rock
+Slide
+NA
+22057
+MZ/CHA/84E02/2017/0095
+Mizoram
+Champhai
+ 
+16km E of Saitual
+23.695088
+93.041426
+Debris
+Slide
+NA
+22058
+MZ/AIZ/84A14/2015/64
+Mizoram
+Aizawl
+ 
+North of Thingsultliah along NH 
+54, NW slope of 982 peak
+23.695444
+92.861667
+Debris
+Slide
+NA
+22059
+MZ/AIZ/84A14/2015/85
+Mizoram
+Aizawl
+ 
+About 11 Km SE of Seling on SH 
+Seling-Keifang road
+23.695528
+92.884167
+Rock
+Slide
+NA
+22060
+MZ/CHA/84E02/2017/0096
+Mizoram
+Champhai
+ 
+16.5km E of Saitual
+23.696979
+93.041829
+Debris
+Slide
+NA
+22061
+MZ/AIZ/84A14/2015/87
+Mizoram
+Aizawl
+ 
+About 9 Km SE of Seling on SH 
+Seling-Champhai road
+23.697056
+92.877944
+Debris
+Slide
+NA
+22062
+MZ/MAM/84A10/2015/118
+Mizoram
+Mamit
+ 
+South of Rulpuihlim, SH-Reiek- 
+Mamit-Aizawl
+23.697889
+92.568444
+Debris
+Slide
+NA
+22063
+MZ/AIZ/84A10/2015/230
+Mizoram
+Aizawl
+ 
+Tlangnuam Vengthar, Melthum -
+Tlangnuam - Kulikawn Rd
+23.699472
+92.716167
+Rock
+Slide
+NA
+22064
+MZ/AIZ/84A10/2014/04
+Mizoram
+Aizawl
+CP Road
+Tlangnuan, CP Road
+23.6995
+92.71617
+Rock cum Debris
+Slide
+NA
+22065
+MZ/AIZ/84A14/2015/59
+Mizoram
+Aizawl
+ 
+About 8.5 Km SE of Seling along 
+SH Seling-Champhai road
+23.699611
+92.874917
+Debris
+Slide
+NA
+22066
+MZ/AIZ/84A10/2015/229
+Mizoram
+Aizawl
+ 
+Tlangnuam Vengthar, Melthum -
+Tlangnuam - Kulikawn Rd
+23.700556
+92.715972
+Rock
+Slide
+NA

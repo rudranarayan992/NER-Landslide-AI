@@ -1,0 +1,514 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+4403
+HP/SOL/53A16/2017/135
+Himachal Pradesh
+Solan
+ 
+PANHARU
+31.171667
+76.890167
+Debris
+Slide
+NA
+4404
+HP/SOL/53A16/2017/136
+Himachal Pradesh
+Solan
+ 
+PANHARU
+31.172083
+76.889583
+Rock
+Slide
+NA
+4405
+HP/SOL/53A16/2017/176
+Himachal Pradesh
+Solan
+ 
+RAMSHAHR SWARGHAT 
+ROAD,NAND
+31.172222
+76.756306
+Debris
+Slide
+NA
+4406
+HP/SOL/53A16/2017/16
+Himachal Pradesh
+Solan
+ 
+ARKI PIPLUGHAT ROAD
+31.173222
+76.935056
+Debris
+Slide
+NA
+4407
+HP/SHI/53E04/2017/113
+Himachal Pradesh
+Shimla
+ 
+BASANTPUR KARIALI ROAD
+31.174806
+77.229528
+Rock
+Slide
+NA
+4408
+HP/SOL/53A16/2017/137
+Himachal Pradesh
+Solan
+ 
+BAGH
+31.175639
+76.88025
+Debris
+Slide
+NA
+4409
+HP/SOL/53A16/2017/254
+Himachal Pradesh
+Solan
+ 
+SH 9,DADWANI
+31.175639
+76.971889
+Rock
+Slide
+NA
+4410
+HP/SOL/53A16/2017/102
+Himachal Pradesh
+Solan
+ 
+JAINAGAR
+31.176194
+76.851194
+Debris
+Slide
+NA
+4411
+HP/SHI/53E16/2016/129
+Himachal Pradesh
+Shimla
+ 
+NEAR GWASAROHRU-GWASA 
+LINK ROAD
+31.1763
+77.822
+Debris
+Slide
+NA
+4412
+HP/SHI/53E12/2016/51
+Himachal Pradesh
+Shimla
+ 
+Menthali Rohru road
+31.17728
+77.72623
+Debris
+Slide
+2014
+4413
+HP/SOL/53A12/2017/72
+Himachal Pradesh
+Solan
+ 
+NH 21, DADWAL
+31.177361
+76.690861
+Debris
+Slide
+NA
+4414
+HP/SOL/53A12/2017/46
+Himachal Pradesh
+Solan
+ 
+NH 21A,JHARNI
+31.177361
+76.690861
+Rock
+Slide
+NA
+4415
+HP/SHI/53E04/2017/112
+Himachal Pradesh
+Shimla
+ 
+BASANTPUR KARIALI ROAD
+31.178167
+77.226778
+Rock
+Slide
+NA
+4416
+HP/SOL/53A12/2017/70
+Himachal Pradesh
+Solan
+ 
+NH 21, DADWAL
+31.178556
+76.697389
+Debris
+Slide
+NA
+4417
+HP/SOL/53A12/2017/44
+Himachal Pradesh
+Solan
+ 
+NH 21A,JHARNI
+31.178556
+76.697389
+Debris
+Slide
+NA
+4418
+HP/SHI/53E16/2016/206
+Himachal Pradesh
+Shimla
+ 
+NEAR GWASAROHRU-GWASA 
+LINK ROAD
+31.1791
+77.8228
+Debris
+Fall
+NA
+4419
+HP/SOL/53A12/2017/71
+Himachal Pradesh
+Solan
+ 
+NH 21, DADWAL
+31.179639
+76.694444
+Debris
+Slide
+NA
+4420
+HP/SOL/53A12/2017/45
+Himachal Pradesh
+Solan
+ 
+NH 21A,JHARNI
+31.179639
+76.694444
+Debris
+Slide
+NA
+4421
+HP/SHI/53E16/2016/195
+Himachal Pradesh
+Shimla
+ 
+NEAR LOHARDIROHRU-SIDROTI 
+LINK ROAD
+31.1797
+77.751
+Rock
+Slide
+NA
+4422
+HP/SHI/53E12/2016/16
+Himachal Pradesh
+Shimla
+ 
+Sadu
+31.1798
+77.7254
+Rock
+Slide
+NA
+4423
+HP/SHI/53E12/2016/17
+Himachal Pradesh
+Shimla
+ 
+SH-10
+31.1798
+77.7254
+Rock
+Slide
+NA
+4424
+HP/SHI/53E04/2017/111
+Himachal Pradesh
+Shimla
+ 
+BASANTPUR KARIALI ROAD
+31.179917
+77.222083
+Rock
+Slide
+NA
+4425
+HP/SHI/53E16/2016/114
+Himachal Pradesh
+Shimla
+ 
+NEAR LOHARDIROHRU-SIDROTI 
+LINK ROAD
+31.1804
+77.7569
+Debris
+Flow
+NA
+4426
+HP/SHI/53E04/2017/163
+Himachal Pradesh
+Shimla
+ 
+NH 88,JUTOGH
+31.180528
+77.122083
+Debris
+Slide
+NA
+4427
+HP/SHI/53E04/2017/110
+Himachal Pradesh
+Shimla
+ 
+NH 88
+31.180694
+77.221389
+Rock
+Slide
+NA
+4428
+HP/SHI/53E16/2016/194
+Himachal Pradesh
+Shimla
+ 
+DOGARIROHRU-GWASA LINK 
+ROAD
+31.1813
+77.816
+Debris
+Fall
+NA
+4429
+HP/SOL/53A16/2017/131
+Himachal Pradesh
+Solan
+ 
+DAYOTHAL
+31.181722
+76.892694
+Debris
+Slide
+NA
+4430
+HP/SHI/53E04/2017/122
+Himachal Pradesh
+Shimla
+ 
+JAMOG
+31.182528
+77.031278
+Rock
+Slide
+NA
+4431
+HP/SOL/53A12/2017/11
+Himachal Pradesh
+Solan
+ 
+BHINI
+31.183778
+76.749778
+Debris
+Slide
+NA
+4432
+HP/SOL/53A12/2017/54
+Himachal Pradesh
+Solan
+ 
+NH 21
+31.183778
+76.749778
+Rock
+Slide
+NA
+4433
+HP/SHI/53E04/2017/165
+Himachal Pradesh
+Shimla
+ 
+NH 88
+31.183833
+77.173861
+Rock
+Slide
+NA
+4434
+HP/SHI/53E04/2017/40
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.183917
+77.1865
+Rock
+Slide
+NA
+4435
+HP/SHI/53E04/2017/154
+Himachal Pradesh
+Shimla
+ 
+SH 16
+31.184611
+77.170028
+Debris
+Slide
+NA
+4436
+HP/SHI/53E08/2016/40
+Himachal Pradesh
+Shimla
+ 
+Annu Chalanag-Annu road
+31.185091
+77.359528
+Rock cum debris
+Slide
+NA
+4437
+HP/SOL/53A16/2017/103
+Himachal Pradesh
+Solan
+ 
+PANJAL
+31.186028
+76.854778
+Rock
+Slide
+NA
+4438
+HP/SHI/53E04/2017/41
+Himachal Pradesh
+Shimla
+ 
+SH 13,NALDERA
+31.186139
+77.169639
+Debris
+Slide
+NA
+4439
+HP/SOL/53A16/2017/231
+Himachal Pradesh
+Solan
+ 
+NH 88
+31.186139
+76.990389
+Rock
+Slide
+NA
+4440
+HP/SOL/53A16/2017/130
+Himachal Pradesh
+Solan
+ 
+DAYOTHAL
+31.186444
+76.899083
+Rock
+Slide
+NA
+4441
+HP/SOL/53A16/2017/251
+Himachal Pradesh
+Solan
+ 
+NH 88
+31.186556
+76.990861
+Rock
+Slide
+NA
+4442
+HP/SOL/53A16/2017/129
+Himachal Pradesh
+Solan
+ 
+DAYOTHAL
+31.187083
+76.89875
+Rock
+Slide
+NA
+4443
+HP/SOL/53A16/2017/252
+Himachal Pradesh
+Solan
+ 
+NH 88
+31.187139
+76.99
+Rock
+Slide
+NA
+4444
+HP/SOL/53A16/2017/128
+Himachal Pradesh
+Solan
+ 
+DAYOTHAL
+31.187222
+76.897389
+Rock
+Slide
+NA
+4445
+HP/SHI/53E16/2016/107
+Himachal Pradesh
+Shimla
+ 
+NEAR BAGIROHRU-GWASA LINK 
+ROAD
+31.1874
+77.8127
+Debris
+Slide
+NA
+4446
+HP/SHI/53E04/2017/42
+Himachal Pradesh
+Shimla
+ 
+SH 13,NALDERA
+31.1875
+77.170472
+Debris
+Slide
+NA
+4447
+HP/SOL/53A12/2017/69
+Himachal Pradesh
+Solan
+ 
+NH 21, SWARGHAT
+31.187833
+76.694444
+Rock
+Slide
+NA

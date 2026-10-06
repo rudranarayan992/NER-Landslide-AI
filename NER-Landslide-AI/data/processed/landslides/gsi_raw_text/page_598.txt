@@ -1,0 +1,387 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+23722
+MIZ/AZL/84A09/2025/010
+Mizoram
+Aizawl
+Bawngkawn Shalom Veng
+23.758901
+92.730863
+Debris
+slide
+30 May 2025(early morning) 
+23723
+MIZ/AZL/84A09/2025/011
+Mizoram
+Aizawl
+Chaltlang Lily Veng
+23.755925
+92.726753
+Rock
+Fall
+24 May 2025 
+23724
+MIZ/AZL/84A10/2025/012
+Mizoram
+Aizawl
+Chanmari West, Aizawl
+23.745802
+92.717053
+Earth
+Slide
+01 June 2025 
+23725
+MIZ/AZL/84A10/2025/013
+Mizoram
+Aizawl
+Hualngohmun
+23.605091
+92.72184
+Debris
+Flow
+28 May 2024 and 01 June 2025
+23726
+MIZ/AZL/84A10/2025/014
+Mizoram
+Aizawl
+Tachhip
+23.581766
+92.713413
+Debris
+Slide
+28 May 2024 and 30 May 2025
+23727
+MIZ/AZL/84A11/2025/015
+Mizoram
+Aizawl
+Sumsuih
+23.469247
+92.744068
+Earth
+Slide
+01 June 2025 
+23728
+MIZ/AZL/84A15/2025/016
+Mizoram
+Aizawl
+Sialsuk
+23.410771
+92.753123
+Debris
+Slide
+28 May 2024 
+23729
+MIZ/AZL/84A15/2025/017
+Mizoram
+Aizawl
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.367366
+92.767304
+Rock
+Slide
+01 June 2025 
+23730
+MIZ/AZL/84A15/2025/018
+Mizoram
+Aizawl
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.353485
+92.780193
+Debris
+Slide
+31 May 2025
+23731
+MIZ/AZL/84A15/2025/019
+Mizoram
+Aizawl
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.350187
+92.778852
+Debris
+Slide
+30 May 2025 
+23732
+MIZ/AZL/84A15/2025/020
+Mizoram
+Aizawl
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.341022
+92.776761
+Debris
+Slide
+30 May 2025 
+23733
+MIZ/AZL/84A15/2025/021
+Mizoram
+Aizawl
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.339144
+92.786128
+Debris
+Slide
+30 May 2025 
+23734
+MIZ/AZL/84A15/2025/022
+Mizoram
+Aizawl
+Thenzawl Quarry
+23.336229
+92.787113
+Debris
+Flow
+30 May 2025 
+23735
+MIZ/AZL/84A15/2025/023
+Mizoram
+Aizawl
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.313871
+92.792739
+Debris
+Slide
+01 June 2025 
+23736
+MIZ/SER/84A15/2025/024
+Mizoram
+Serchhip
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.315355
+92.790619
+Debris
+Slide
+31 May 2025
+23737
+MIZ/SER/84A15/2025/025
+Mizoram
+Serchhip
+Outside Thenzawl
+23.316491
+92.788798
+Debris
+Slide
+31 May 2025
+23738
+MIZ/SER/84A12/2025/026
+Mizoram
+Serchhip
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.239637
+92.748175
+Debris
+Slide
+30 May 2025 
+23739
+MIZ/SER/84A12/2025/027
+Mizoram
+Serchhip
+Buangpui
+23.239077
+92.745631
+Earth
+Slide
+31 May 2025
+23740
+MIZ/SER/84A12/2025/028
+Mizoram
+Serchhip
+Buangpui
+23.239137
+92.744468
+Debris
+Slide
+01 June 2025 
+23741
+MIZ/SER/84A12/2025/029
+Mizoram
+Serchhip
+Buangpui
+23.239797
+92.744214
+Debris
+Slide
+31 May 2025
+23742
+MIZ/SER/84A12/2025/030
+Mizoram
+Serchhip
+Buangpui
+23.238785
+92.744224
+Debris
+Slide
+31 May 2025
+23743
+MIZ/SER/84A12/2025/031
+Mizoram
+Serchhip
+Buangpui
+23.235716
+92.744499
+Earth
+Slide
+31 May 2025 at 3am 
+23744
+MIZ/LUNG/84A12/2025/032
+Mizoram
+Lunglei
+Kanghmun
+23.214239
+92.740856
+Debris
+Slide
+31 May 2025
+23745
+MIZ/LUNG/84A12/2025/033
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.203253
+92.735838
+Earth
+Slide
+31 May 2025
+23746
+MIZ/LUNG/84A12/2025/034
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.200475
+92.735007
+Debris
+Slide
+01 June 2025 
+23747
+MIZ/LUNG/84A12/2025/035
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.195661
+92.73562
+Rock
+Slide
+01 June 2025 
+23748
+MIZ/LUNG/84A12/2025/036
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.194007
+92.734654
+Rock
+Slide
+30 May 2025
+23749
+MIZ/LUNG/84A12/2025/037
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.193468
+92.734849
+Debris
+Slide
+30 May 2025
+23750
+MIZ/LUNG/84A12/2025/038
+Mizoram
+Lunglei
+Ramlaitui
+23.183856
+92.735346
+Debris
+Slide
+30 May 2025
+23751
+MIZ/LUNG/84A12/2025/039
+Mizoram
+Lunglei
+Ramlaitui
+23.182152
+92.734299
+Debris
+Slide
+06.06.2018 31.05.2025
+23752
+MIZ/LUNG/84A12/2025/040
+Mizoram
+Lunglei
+Ramlaitui
+23.181806
+92.736868
+Earth
+slide
+30 May 2025
+23753
+MIZ/LUNG/84A12/2025/041
+Mizoram
+Lunglei
+Ramlaitui
+23.18077
+92.735789
+Debris
+Flow
+31 May 2025
+23754
+MIZ/LUNG/84A12/2025/042
+Mizoram
+Lunglei
+Ramlaitui
+23.173606
+92.739793
+Debris
+Slide
+31 May 2025
+23755
+MIZ/LUNG/84A12/2025/043
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.150939
+92.748258
+Debris
+Slide
+31 May 2025
+23756
+MIZ/LUNG/84A16/2025/044
+Mizoram
+Lunglei
+Sekhum
+23.140846
+92.751229
+Debris
+Slide
+31 May 2025
+23757
+MIZ/LUNG/84A12/2025/045
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.1351
+92.748694
+Debris
+Slide
+31 May 2025

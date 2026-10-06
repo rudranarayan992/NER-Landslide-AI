@@ -1,0 +1,495 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30518
+60
+West Bengal
+Darjeeling
+on Kurseong to Rohini road
+26.86497222
+88.28616667
+Debris
+slide
+2015
+30519
+61
+West Bengal
+Darjeeling
+on Kurseong to Rohini road
+26.85955556
+88.29344444
+Debris
+slide
+2015
+30520
+71
+West Bengal
+Darjeeling
+Near Peshoke bridge
+Near Peshoke bridge
+27.06694444
+88.42713889
+Rock
+SUBSIDENCE 
+cracks
+2015
+30521
+83
+West Bengal
+Darjeeling
+Teesta bazar
+Teesta bazar
+27.0665
+88.42833333
+Rock
+Slide
+2015
+30522
+77
+West Bengal
+Darjeeling
+6th Mile,
+6th Mile, Kalimpong
+27.058
+88.49836111
+Debris
+Slide
+2015
+30523
+84
+West Bengal
+Darjeeling
+8th Mile,
+8th Mile, Kalimpong
+27.07258333
+88.45725
+Debris
+Slide
+NA
+30524
+76
+West Bengal
+Darjeeling
+Chisopani, 
+Chisopani, Kalimpong
+27.08461111
+88.49313889
+Rock
+Slide
+2015
+30525
+85
+West Bengal
+Darjeeling
+Chisopani, 
+Chisopani, Kalimpong
+27.08222222
+88.48983333
+Rock cum Debris
+Slide
+2015
+30526
+81
+West Bengal
+Darjeeling
+11th Mile
+11th Mile, Kalimpong
+27.07755556
+88.48541667
+Debris
+Slide
+2015
+30527
+86
+West Bengal
+Darjeeling
+Sadudhara
+Sadudhara, near Agriculture 
+University, Kalimpong
+27.06602778
+88.47647222
+Rock
+Slide
+2015
+30528
+79
+West Bengal
+Darjeeling
+Bong
+Bong, south east of Agriculture 
+University, Kalimpong
+27.06077778
+88.48063889
+Debris
+SUBSIDENCE 
+cracks
+2015
+30529
+72
+West Bengal
+Darjeeling
+Rishi
+Rishi near Sikkim-West Bengal 
+boundary
+27.15925
+88.63955556
+Rock
+SLIDE
+2015
+30530
+80
+West Bengal
+Darjeeling
+Gairigaon, Bhamegaon
+Gairigaon, Bhamegaon
+27.06822222
+88.49666667
+Debris
+SLIDE
+NA
+30531
+78
+West Bengal
+Darjeeling
+Chhibo Busty
+Chhibo Busty
+27.05058333
+88.45675
+Debris
+SUBSIDENCE
+1 July 2015
+30532
+82
+West Bengal
+Darjeeling
+Kolbong/Nim busty
+Kolbong/Nim busty
+27.06205556
+88.64861111
+Debris
+Slide
+1 July 2015
+30533
+73
+West Bengal
+Darjeeling
+Phaperkheti
+Phaparkheti(LAVA)
+27.04344444
+88.69563889
+Debris
+Slide, 
+Subsidence
+NA
+30534
+74
+West Bengal
+Darjeeling
+Trivenitol
+Trivenitol(LAVA)
+27.08672222
+88.66413889
+Rock
+Slide
+2015
+30535
+75
+West Bengal
+Darjeeling
+KOLAKHAM
+KOLAKHAM(LAVA)
+27.09980556
+88.08236111
+Rock
+Slide
+2015
+30536
+87
+West Bengal
+Darjeeling
+KOLAKHAM
+KOLAKHAM(LAVA)
+27.10458333
+88.07066667
+Rock
+Slide
+2015
+30537
+3484
+West Bengal
+Kalimpong
+near 27th mile
+27.011492
+88.439575
+debris_mixture
+slide
+NA
+30538
+4703
+West Bengal
+Darjeeling
+Gayabari
+26.852701
+88.32359
+Debris
+slide
+NA
+30539
+4705
+West Bengal
+Darjeeling
+Goke
+27.105703
+88.217723
+Soil
+slide
+NA
+30540
+5705
+West Bengal
+Darjeeling
+South West of Jamuni
+In Oulbazar Jorethang road
+27.095765
+88.226207
+Debris
+slide
+NA
+30541
+5709
+West Bengal
+Darjeeling
+Sukhia
+On Sukhia Mane Bhanjang road 26.995266
+88.160309
+Debris
+slide
+NA
+30542
+5710
+West Bengal
+Darjeeling
+Near Mane Bhanjung
+Sukhia Mane Bhanjang road
+26.990259
+88.130252
+Soil
+slide
+NA
+30543
+6897
+West Bengal
+Darjeeling
+Dhotrey to Lodhama road
+27.084273
+88.092563
+Debris
+slide
+NA
+30544
+6900
+West Bengal
+Darjeeling
+Parbong Busty
+In Oulbazar Jorethang road
+27.092586
+88.225115
+Debris
+slide
+NA
+30545
+6901
+West Bengal
+Darjeeling
+Near Pul Bazar
+In Oulbazar Jorethang road
+27.079088
+88.208091
+Soil
+slide
+NA
+30546
+6902
+West Bengal
+Darjeeling
+Near Jamuni
+Joarthang Pul bazar road
+27.097204
+88.227014
+Debris
+slide
+NA
+30547
+6903
+West Bengal
+Darjeeling
+Kamjer
+On Goke Joarthang road
+27.119828
+88.249097
+Soil
+slide
+NA
+30548
+6904
+West Bengal
+Darjeeling
+Kamjer
+On Home Josrthang road
+27.114449
+88.24281
+Debris
+slide
+NA
+30549
+UK/CHA/62C04/2017/34
+Uttarakhand
+Champawat
+ 
+ 
+29.135275
+80.090843
+Debris
+Slide
+2014
+30550
+UK/CHA/62C04/2017/24
+Uttarakhand
+Champawat
+ 
+ 
+29.139732
+80.073974
+Rock
+Slide
+2012
+30551
+UK/CHA/53O16/2017/9
+Uttarakhand
+Champawat
+ 
+Katal
+29.142636
+79.958384
+Rock
+Slide
+2014
+30552
+UK/CHA/62C04/2017/11
+Uttarakhand
+Champawat
+ 
+ 
+29.144012
+80.174222
+Debris
+Slide
+2011
+30553
+UK/CHA/62C04/2017/12
+Uttarakhand
+Champawat
+ 
+ 
+29.145411
+80.180642
+Debris
+Slide
+2006
+30554
+UK/CHA/53O16/2017/7
+Uttarakhand
+Champawat
+ 
+Katal
+29.14557
+79.986097
+Rock
+Slide
+2015
+30555
+UK/CHA/53O16/2017/15
+Uttarakhand
+Champawat
+ 
+ 
+29.147085
+79.941277
+Debris
+Slide
+2016
+30556
+UK/CHA/53O16/2017/6
+Uttarakhand
+Champawat
+ 
+Katal
+29.147481
+79.997854
+Rock
+Slide
+2015
+30557
+UK/CHA/53O16/2017/10
+Uttarakhand
+Champawat
+ 
+Katal
+29.147738
+79.954939
+Debris
+Slide
+2014
+30558
+UK/CHA/53O16/2017/16
+Uttarakhand
+Champawat
+ 
+ 
+29.148941
+79.935497
+Debris
+Slide
+2016
+30559
+UK/CHA/53O16/2017/14
+Uttarakhand
+Champawat
+ 
+ 
+29.14906
+79.943888
+Debris
+Slide
+2016
+30560
+UK/CHA/53O16/2017/11
+Uttarakhand
+Champawat
+ 
+Katal
+29.149158
+79.946961
+Debris
+Slide
+2016
+30561
+UK/CHA/53O16/2017/4
+Uttarakhand
+Champawat
+ 
+ 
+29.150005
+79.996229
+Rock
+Slide
+2015

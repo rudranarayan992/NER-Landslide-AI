@@ -1,0 +1,362 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30060
+WB/DAR/78A04/2021/PDLS/26
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10034465
+88.23853643
+Debris
+Slide
+October 2021
+30061
+WB/DAR/78A04/2015/1194
+West Bengal
+Darjeeling
+ 
+GOKE
+27.100463
+88.229497
+Rock cum Debris
+Slide
+2015
+30062
+WB/DAR/78A04/2015/1193
+West Bengal
+Darjeeling
+ 
+GOKE
+27.100556
+88.229389
+Rock cum Debris
+Slide
+2016
+30063
+WB/DAR/78A08/2015/1316
+West Bengal
+Darjeeling
+ 
+BADAMTAN, FOREST OFFICE
+27.100667
+88.319556
+Rock
+Slide
+2015
+30064
+WB/DAR/78A04/2021/PDLS/17
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10078375
+88.22965485
+Debris
+Slide
+October 2021
+30065
+WB/DAR/78A12/2015/276
+West Bengal
+Darjeeling
+Algara-Rishi road
+Algara-Rishi road
+27.1008
+88.601595
+Rock
+Slide
+2013
+30066
+WB/DARJ/78A08/2007/0291
+West Bengal
+Darjeeling
+ 
+37.6 km from Sevok (Tiger 
+Bridge) on NH-31A towards 
+Gangtok
+27.101
+88.47
+Debris
+Slide
+NA
+30067
+WB/DARJ/78A04/0261
+West Bengal
+Darjeeling
+ 
+Darjeeling-Bijanbari Road
+27.101
+88.231
+Debris
+Slide
+NA
+30068
+WB/DARJ/78A04/1980/0247
+West Bengal
+Darjeeling
+ 
+On Linsebong-forebay road 
+(near to Linsebong) of Rammam 
+Hydel Project Stage-II
+27.101
+88.107
+Debris
+Slide
+NA
+30069
+WB/DAR/78A12/2015/236
+West Bengal
+Darjeeling
+Uupper Dalapchand on Algara road
+Uupper Dalapchand on Algara 
+road
+27.101
+88.542
+Rock
+Slide
+2012
+30070
+WB/DAR/78A04/2021/PDLS/26
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10107823
+88.23929092
+Debris
+Slide
+October 2021
+30071
+WB/DAR/78A04/2015/1192
+West Bengal
+Darjeeling
+ 
+GOKE
+27.101086
+88.230392
+Rock cum Debris
+Slide
+2015
+30072
+WB/DAR/78A04/2015/26
+West Bengal
+Darjeeling
+Bijanbari-Gok Road, Parbong Village
+Bijanbari-Gok Road
+27.1012
+88.2305
+Debris
+Slide
+2011
+30073
+WB/DAR/78A04/2015/6
+West Bengal
+Darjeeling
+At around 4.5km from Linsbong on 
+Linsebong-forebay road  of Rammam 
+Project
+At around 4.5km from Linsbong 
+on Linsebong-Forebay road of 
+Rammam Hydel Project Stage-II
+27.101256
+88.106893
+Debris
+Slide
+1984
+30074
+WB/DAR/78A04/2021/PDLS/11
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10134347
+88.14858262
+Debris
+Slide
+October 2021
+30075
+WB/DAR/78A12/2015/218
+West Bengal
+Darjeeling
+13 km on Pedong-Lava road from 
+Pedong
+13 km on Pedong-Lava road 
+from Pedong
+27.101778
+88.640627
+Debris
+Subsidence
+2012
+30076
+WB/DARJ/78A08/1968/0292
+West Bengal
+Darjeeling
+ 
+Near Km. 33 from Sevoke on NH 
+31A
+27.102
+88.471
+Debris
+Slide
+1968
+30077
+WB/DAR/78A12/2015/244
+West Bengal
+Darjeeling
+Upper Payung
+ 
+27.102
+88.545
+Debris
+Slide
+2013
+30078
+WB/DAR/78A08/2015/1360
+West Bengal
+Darjeeling
+NEAR KIRNEY BAZAR,MELLI ROAD
+1/2 KM. FROM KIRNEY 
+BAZAR,MELLI ROAD
+27.102139
+88.4675
+Rock
+Fall
+2014
+30079
+WB/DAR/78A08/2021/PDLS/37
+2
+West Bengal
+Kalimpong
+N/A
+N/A
+27.10214701
+88.46757189
+Rock
+Slide
+October 2021
+30080
+WB/DAR/78A08/2015/1162
+West Bengal
+Darjeeling
+ 
+TAKVAR TG
+27.102333
+88.250417
+Rock
+Slide
+2015
+30081
+WB/DAR/78A04/2021/PDLS/11
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10234097
+88.14692844
+Debris
+Slide
+October 2021
+30082
+WB/DAR/78A16/2015/310
+West Bengal
+Darjeeling
+Chichu slide
+Chi Chu
+27.102583
+88.831361
+Debris
+Slide
+2016
+30083
+WB/DAR/78A04/2015/1191
+West Bengal
+Darjeeling
+ 
+Goke
+27.103139
+88.232194
+Rock cum Debris
+Slide
+2016
+30084
+WB/DAR/78A04/2015/1170
+West Bengal
+Darjeeling
+ 
+Goke
+27.103139
+88.232194
+Debris
+Slide
+2015
+30085
+WB/DAR/78A04/2015/1172
+West Bengal
+Darjeeling
+ 
+Goke - Bijanbari road
+27.103158
+88.230303
+Debris
+Subsidence
+2015
+30086
+WB/DAR/78A04/2021/PDLS/19
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10327763
+88.23247619
+Debris
+Slide
+October 2021
+30087
+WB/KAL/78A12/2021/PDLS/307 West Bengal
+Kalimpong
+N/A
+N/A
+27.10331504
+88.59875827
+Rock
+Slide
+October 2021
+30088
+WB/DAR/78A04/2015/1171
+West Bengal
+Darjeeling
+ 
+Goke
+27.103389
+88.231028
+Debris
+Slide
+2015
+30089
+WB/DAR/78A04/2021/PDLS/17
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10339522
+88.23038948
+Debris
+Slide
+October 2021

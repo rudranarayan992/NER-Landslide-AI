@@ -1,0 +1,533 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+5819
+HP/KIN/53E14/2016/125
+Himachal Pradesh
+Kinnaur
+ 
+Chauhra
+31.571821
+77.863126
+Debris
+Slide
+NA
+5820
+HP/KIN/53E14/2016/104
+Himachal Pradesh
+Kinnaur
+ 
+S of Phagi
+31.572
+77.824
+Debris
+Slide
+NA
+5821
+HP/KIN/53E14/2016/31
+Himachal Pradesh
+Kinnaur
+ 
+Right bank of Satluj, near 
+Penstock
+31.5724
+77.9436
+Debris
+Slide
+2014
+5822
+HP/KUL/53E06/2016/44
+Himachal Pradesh
+Kullu
+ 
+Jalora,NH 305
+31.57286
+77.362523
+Debris
+Slide
+2005
+5823
+HP/KIN/53E14/2016/20
+Himachal Pradesh
+Kinnaur
+ 
+Near Garsu village, Garsu- 
+Chota Kamba foot track
+31.5732
+77.8865
+Debris
+Slide
+2014
+5824
+HP/HAM/53A09/2018/3
+Himachal Pradesh
+Hamirpur
+ 
+ 
+31.573306
+76.734917
+Debris
+Slide
+NA
+5825
+HP/MAN/53A10/2018/8
+Himachal Pradesh
+Mandi
+ 
+SH-32
+31.573333
+76.734889
+Debris
+Subsidence
+NA
+5826
+HP/KUL/53E10/2016/30
+Himachal Pradesh
+Kullu
+ 
+Samatan
+31.573476
+77.581912
+Debris
+Slide
+NA
+5827
+HP/KIN/53E14/2016/101
+Himachal Pradesh
+Kinnaur
+ 
+N of Chauhra
+31.573542
+77.857002
+Rock
+Fall
+NA
+5828
+HP/MAN/53E02/2015/144
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.573917
+77.155611
+Rock cum debris
+Slide
+NA
+5829
+HP/KUL/53E06/2016/32
+Himachal Pradesh
+Kullu
+ 
+Chhabra P.F.
+31.573934
+77.307064
+Rock
+Slide
+NA
+5830
+HP/KUL/53E06/2016/54
+Himachal Pradesh
+Kullu
+ 
+Chhabra P.F.
+31.574
+77.31
+Debris
+Slide
+NA
+5831
+HP/KIN/53E14/2016/32
+Himachal Pradesh
+Kinnaur
+ 
+Khachrang foot track
+31.5742
+77.9422
+Debris
+Slide
+2014
+5832
+HP/KIN/53E14/2016/16
+Himachal Pradesh
+Kinnaur
+ 
+Kachrang - Naptha foot track
+31.5745
+77.949
+Debris
+Slide
+2016
+5833
+HP/KIN/53E14/2016/47
+Himachal Pradesh
+Kinnaur
+ 
+Near Chota Kamba link road
+31.5749
+77.8933
+Rock
+Slide
+NA
+5834
+HP/KIN/53E14/2016/100
+Himachal Pradesh
+Kinnaur
+ 
+S of Linge Dogri
+31.574904
+77.844893
+Rock cum debris
+Slide
+NA
+5835
+HP/MAN/53A14/2015/325
+Himachal Pradesh
+Mandi
+ 
+Pathri P.F,SH 13
+31.575135
+76.990257
+Rock
+Slide
+NA
+5836
+HP/KIN/53E14/2016/99
+Himachal Pradesh
+Kinnaur
+ 
+Near Chota Kamba link road
+31.5755
+77.8947
+Debris
+Slide
+NA
+5837
+HP/KIN/53E14/2016/121
+Himachal Pradesh
+Kinnaur
+ 
+N of Chauhra
+31.576977
+77.852405
+Rock
+Slide
+NA
+5838
+HP/KIN/53E14/2016/102
+Himachal Pradesh
+Kinnaur
+ 
+Linge Dogri
+31.578054
+77.847901
+Debris
+Slide
+NA
+5839
+HP/KUL/53E06/2016/62
+Himachal Pradesh
+Kullu
+ 
+Lambri
+31.578159
+77.40656
+Rock
+Slide
+NA
+5840
+HP/KIN/53E14/2016/75
+Himachal Pradesh
+Kinnaur
+ 
+Near Nathpa village
+31.5787
+77.9706
+Debris
+Slide
+2014
+5841
+HP/SHI/53E14/2016/94
+Himachal Pradesh
+Shimla
+ 
+Kandri
+31.578991
+77.740336
+Debris
+Slide
+NA
+5842
+HP/KIN/53E14/2016/79
+Himachal Pradesh
+Kinnaur
+ 
+Near Kachrang
+31.5791
+77.9485
+Rock
+Slide
+2012
+5843
+HP/MAN/53E02/2015/145
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.579389
+77.153444
+Rock cum debris
+Slide
+NA
+5844
+HP/MAN/53A14/2015/324
+Himachal Pradesh
+Mandi
+ 
+Near Baggi,SH 13
+31.579519
+76.989374
+Rock
+Slide
+NA
+5845
+HP/KIN/53E14/2016/58
+Himachal Pradesh
+Kinnaur
+ 
+Near Rokchad
+31.5799
+77.9275
+Rock
+Slide
+NA
+5846
+HP/KIN/53E14/2016/74
+Himachal Pradesh
+Kinnaur
+ 
+Near Nathpa village
+31.5818
+77.9663
+Debris
+Slide
+2014
+5847
+HP/MAN/53A14/2015/313
+Himachal Pradesh
+Mandi
+ 
+Tamled,SH 32
+31.582167
+76.791972
+Rock
+Slide
+NA
+5848
+HP/MAN/53A14/2015/315
+Himachal Pradesh
+Mandi
+ 
+Dhol Khan,SH 32
+31.583199
+76.784971
+Rock
+Slide
+NA
+5849
+HP/KUL/53E06/2016/63
+Himachal Pradesh
+Kullu
+ 
+Lambri
+31.583298
+77.403607
+Rock
+Slide
+NA
+5850
+HP/SHI/53E10/2016/24
+Himachal Pradesh
+Shimla
+ 
+Kandri
+31.583506
+77.738558
+Debris
+Slide
+NA
+5851
+HP/KAN/53A09/2018/4
+Himachal Pradesh
+Kangra
+ 
+Syoh - sandhol road
+31.583639
+76.649278
+Debris
+Slide
+NA
+5852
+HP/KAN/53A09/2018/5
+Himachal Pradesh
+Kangra
+ 
+SH 19
+31.58375
+76.6345
+Debris
+Slide
+NA
+5853
+HP/MAN/53A14/2015/310
+Himachal Pradesh
+Mandi
+ 
+Dhol Khan,SH 32
+31.584163
+76.790932
+Rock
+Slide
+NA
+5854
+HP/SHI/53E10/2016/26
+Himachal Pradesh
+Shimla
+ 
+Kandri
+31.584286
+77.737686
+Debris
+Slide
+NA
+5855
+HP/KUL/53E06/2016/64
+Himachal Pradesh
+Kullu
+ 
+Lambri
+31.584708
+77.40242
+Rock
+Slide
+NA
+5856
+HP/MAN/53A14/2015/314
+Himachal Pradesh
+Mandi
+ 
+Dhol Khan,SH 32
+31.585308
+76.787509
+Rock
+Slide
+NA
+5857
+HP/MAN/53A14/2015/312
+Himachal Pradesh
+Mandi
+ 
+Jakherh,SH 32
+31.585447
+76.80053
+Rock
+Slide
+NA
+5858
+HP/SHI/53E10/2016/25
+Himachal Pradesh
+Shimla
+ 
+Kandri
+31.585666
+77.737592
+Debris
+Slide
+NA
+5859
+HP/KIN/53E14/2016/46
+Himachal Pradesh
+Kinnaur
+ 
+Near forst RH, Kachrang, Left 
+bank of Solaring Khad
+31.5857
+77.9423
+Debris
+Slide
+2014
+5860
+HP/MAN/53A14/2015/311
+Himachal Pradesh
+Mandi
+ 
+Jakherh,SH 32
+31.585925
+76.800781
+Rock
+Slide
+NA
+5861
+HP/MAN/53A14/2015/346
+Himachal Pradesh
+Mandi
+ 
+Dhalwan,SH 32,Lunch 
+restaurant
+31.585976
+76.77751
+Rock cum debris
+Slide
+2009
+5862
+HP/KIN/53I06/2018/1
+Himachal Pradesh
+Kinnaur
+ 
+Ribba
+31.58605
+78.37533
+Debris
+Slide
+NA
+5863
+HP/KUL/53E06/2016/65
+Himachal Pradesh
+Kullu
+ 
+Lambri
+31.586844
+77.398687
+Rock
+Slide
+NA
+5864
+HP/KUL/53E10/2016/32
+Himachal Pradesh
+Kullu
+ 
+Dimajan P.F.
+31.587
+77.596
+Debris
+Slide
+NA
+5865
+HP/MAN/53A14/2015/345
+Himachal Pradesh
+Mandi
+ 
+Dhalwan,SH 32
+31.587649
+76.777411
+Rock
+Slide
+NA

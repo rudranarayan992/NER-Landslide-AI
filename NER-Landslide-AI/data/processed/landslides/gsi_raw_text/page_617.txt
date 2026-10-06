@@ -1,0 +1,416 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+24373
+NG/PHE/83K14/2017/33
+Nagaland
+Phek
+ 
+Shillio to Avakhung
+25.626833
+94.847053
+Debris
+Slide
+NA
+24374
+NG/PHE/83K2/2015/191
+Nagaland
+Phek
+ 
+Downslope of Kohima-Pfiitsero-
+Meluri road (NH-150?)
+25.628
+94.211
+Debris
+Slide
+2014
+24375
+NG/PHE/83K6/2015/253
+Nagaland
+Phek
+ 
+Thipuzu-Rihuba approach road
+25.629
+94.273
+Rock
+Slide
+2015
+24376
+NG/PHE/83K6/2015/259
+Nagaland
+Phek
+ 
+Thipuzu-Rihuba approach road
+25.629
+94.274
+Debris
+Slide
+2015
+24377
+NG/PER/83G14/2015/27
+Nagaland
+Peren
+ 
+South of Sainik School, Punglwa 25.629
+93.855
+Rock cum Debris
+Slide
+2010
+24378
+NL/KOH/83K02/2014/33
+Nagaland
+Kohima
+Dzu-a to Jakhama road
+SH Dzu-a to Jakhama road via 
+Kigwema
+25.62978
+94.19514
+Debris
+Slide
+2014
+24379
+NG/KOH/83K2/2015/103
+Nagaland
+Kohima
+ 
+Kohima-Khonoma-Pedi-Peren 
+SH (at km 16.490)
+25.63
+94.014
+Debris
+Slide
+2014
+24380
+NG/PHE/83K6/2015/277
+Nagaland
+Phek
+ 
+ 
+25.63
+94.25
+Debris
+Slide
+NA
+24381
+NG/PHE/83K6/2015/269
+Nagaland
+Phek
+ 
+Thipuzu approach road
+25.63
+94.259
+Debris
+Slide
+2013
+24382
+NG/KOH/83K2/2015/186
+Nagaland
+Kohima
+ 
+On the immediate downslope of 
+NH-29
+25.63
+94.103
+Debris
+Slide
+2014
+24383
+NG/PHE/83K2/2015/71
+Nagaland
+Phek
+ 
+SSE of Kezo Town on Kohima-
+Pfiitsero-Meluri road (NH-150?)
+25.631
+94.203
+Debris
+Slide
+2010
+24384
+NG/KOH/83K2/2015/211
+Nagaland
+Kohima
+ 
+NE of Mitelephe village
+25.631
+94.174
+Debris
+Slide
+NA
+24385
+NG/PHE/83K6/2015/303
+Nagaland
+Phek
+ 
+Thipuzu approach road
+25.631
+94.257
+Debris
+Slide
+2013
+24386
+NG/KOH/83G14/2015/5
+Nagaland
+Kohima
+ 
+Between Khonoma & Dziilekie
+25.631
+93.999
+Rock
+Slide
+2015
+24387
+NG/PHE/83K10/2017/9
+Nagaland
+Phek
+ 
+Waziho to Mokie
+25.631122
+94.748497
+Debris
+Slide
+NA
+24388
+NG/PHE/83K14/2017/1
+Nagaland
+Phek
+ 
+Waziho to Mokie
+25.631833
+94.750139
+Rock
+Slide
+NA
+24389
+NG/PHE/83K6/2015/271
+Nagaland
+Phek
+ 
+Thipuzu approach road
+25.632
+94.257
+Debris
+Slide
+2013
+24390
+NG/PHE/83K6/2015/274
+Nagaland
+Phek
+ 
+Thipuzu approach road
+25.632
+94.25
+Debris
+Slide
+2013
+24391
+NG/PHE/83K2/2015/67
+Nagaland
+Phek
+ 
+ 
+25.632
+94.25
+Rock
+Slide
+NA
+24392
+NG/PHE/83K6/2015/264
+Nagaland
+Phek
+ 
+Thipuzu approach road
+25.632
+94.25
+Debris
+Slide
+2013
+24393
+NG/PHE/83K2/2015/158
+Nagaland
+Phek
+ 
+Opp. Kezo Town
+25.632
+94.215
+Rock
+Slide
+NA
+24394
+NG/PHE/83K10/2017/8
+Nagaland
+Phek
+ 
+Waziho to Zipu
+25.633944
+94.733056
+Debris
+Slide
+NA
+24395
+NG/PHE/83K6/2015/306
+Nagaland
+Phek
+ 
+Thipuzu approach road
+25.634
+94.255
+Debris
+Slide
+2013
+24396
+NG/PHE/83K6/2015/287
+Nagaland
+Phek
+ 
+Thipuzu approach road from 
+Kohima-Pfiitsero road
+25.635
+94.253
+Debris
+Slide
+2013
+24397
+NG/PHE/83K2/2015/207
+Nagaland
+Phek
+ 
+Opp. Kezo Town
+25.635
+94.217
+Rock
+Slide
+NA
+24398
+NG/PHE/83K6/2015/300
+Nagaland
+Phek
+ 
+Thipuzu approach road
+25.635
+94.252
+Debris
+Slide
+2013
+24399
+NL/PHE/83K02/2014/02
+Nagaland
+Phek
+Confluence of Sedzu Ru and Kerori Ru 
+25.63669
+94.21986
+Rock
+Slide
+2014
+24400
+NG/PHE/83K14/2017/2
+Nagaland
+Phek
+ 
+Waziho to Mokie
+25.6375
+94.757556
+Rock
+Fall
+NA
+24401
+NG/KOH/83K2/2015/172
+Nagaland
+Kohima
+ 
+On the immediate downslope of 
+NH-29
+25.638
+94.109
+Debris
+Composite
+1990
+24402
+NAG/KOH/83K02/2007/F-1
+Nagaland
+Kohima
+Phesama slide
+ 
+25.63861
+94.115
+Debris
+Slide
+11 August 2007 to12 August 2007
+24403
+NG/PHE/83K14/2017/3
+Nagaland
+Phek
+ 
+Waziho to Mokie
+25.640056
+94.765278
+Debris
+Slide
+NA
+24404
+NG/PHE/83K10/2017/7
+Nagaland
+Phek
+ 
+Waziho to Zipu
+25.640389
+94.732444
+Debris
+Slide
+NA
+24405
+NG/PHE/83K10/2017/16
+Nagaland
+Phek
+ 
+Wazeho to Molen
+25.641
+94.730878
+Debris
+Slide
+NA
+24406
+NG/PHE/83K2/2015/83
+Nagaland
+Phek
+ 
+Eastern downslope of Kezo 
+Town on Kohima-Pfiitsero-
+Meluri road (NH-150?)
+25.642
+94.201
+Debris
+Composite
+2010
+24407
+NG/KOH/83K2/2015/91
+Nagaland
+Kohima
+ 
+Upslope of NH-29
+25.644
+94.107
+Debris
+Slide
+2014
+24408
+NG/KOH/83K2/2015/140
+Nagaland
+Kohima
+ 
+Kohima-Khonoma-Pedi-Peren 
+SH
+25.645
+94.034
+Debris
+Slide
+2013

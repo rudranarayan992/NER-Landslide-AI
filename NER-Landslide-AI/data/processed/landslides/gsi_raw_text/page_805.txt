@@ -1,0 +1,506 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+31671
+UK/BAG/53O13/2013/0030
+Uttarakhand
+Bageshwar
+UK_BAG_SH-6_ 30
+1 km from Katpuriya Chinna at 
+the northward U-bend of the 
+road
+29.755556
+79.771667
+Debris
+Slide
+16th-17th June 2013
+31672
+UK/BAG/53O13/2015/325
+Uttarakhand
+Bageshwar
+ 
+ 
+29.755619
+79.771559
+Rock cum Debris
+Slide
+2013
+31673
+UK/PAU/53O01/2017/109
+Uttarakhand
+Pauri Garhwal
+ 
+NH121
+29.75579
+79.019591
+Rock
+Slide
+2013
+31674
+UK/PIT/53O13/2015/358
+Uttarakhand
+Pithoragarh
+ 
+ 
+29.756051
+79.901721
+Rock cum Debris
+Slide
+NA
+31675
+UK/PAU/53K09/2016/186
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.757124
+78.556338
+Rock
+Fall
+NA
+31676
+UK/PAU/53O01/2017/108
+Uttarakhand
+Pauri Garhwal
+ 
+NH121
+29.757315
+79.020186
+Rock
+Slide
+NA
+31677
+UK/PITH/62C05/2013/0059
+Uttarakhand
+Pithoragarh
+UK/Pith/ Jauljibi-Didihat/LS/0059
+State Highway
+29.75833
+80.3475
+Rock cum Debris
+Fall
+16th-17th June 2013
+31678
+UK/PAU/53K09/2016/10
+Uttarakhand
+Pauri Garhwal
+Kotdwar
+ 
+29.758467
+78.542153
+Rock
+Slide
+NA
+31679
+UK/BAG/53O09/2018/22
+Uttarakhand
+Bageshwar
+Siseta
+Siseta-Someshwar
+29.758528
+79.514139
+Rock
+Slide
+2018
+31680
+UK/BAG/53O13/2013/0029
+Uttarakhand
+Bageshwar
+UK_BAG_SH-6_ 29
+500 m NNE of Katpuriya Chhina 29.758972
+79.771028
+Rock
+Slide
+16th-17th June 2013
+31681
+UK/PIT/53O13/2015/357
+Uttarakhand
+Pithoragarh
+ 
+ 
+29.759057
+79.900389
+Rock cum Debris
+Slide
+NA
+31682
+UK/PAU/53K09/2016/185
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.759385
+78.554278
+Rock
+Fall
+NA
+31683
+UK/BAG/53O09/2018/21
+Uttarakhand
+Bageshwar
+Siseta
+Siseta-Someshwar
+29.759389
+79.513194
+Rock
+Slide
+2018
+31684
+UK/PIT/53O13/2015/354
+Uttarakhand
+Pithoragarh
+ 
+ 
+29.760038
+79.983821
+Rock
+Slide
+NA
+31685
+UK/PAU/53K09/2016/37
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.760406
+78.54515
+Debris
+Slide
+NA
+31686
+UK/PAU/53O01/2017/110
+Uttarakhand
+Pauri Garhwal
+ 
+NH121
+29.761732
+79.015934
+Rock
+Slide
+2015
+31687
+UK/PAU/53K09/2016/72
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.762116
+78.550144
+Debris
+Flow
+NA
+31688
+UK/PAU/53K09/2016/55
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.763292
+78.529789
+Rock
+Slide
+NA
+31689
+UK/PITH/62C05/2013/0060
+Uttarakhand
+Pithoragarh
+UK/Pith/ Jauljibi-Didihat/LS/0060
+State Highway
+29.76389
+80.33139
+Rock cum Debris
+Fall
+16th-17th June 2013
+31690
+UK/BAG/53O13/2015/353
+Uttarakhand
+Bageshwar
+ 
+ 
+29.764108
+79.97879
+Rock
+Slide
+NA
+31691
+UK/PAU/53K09/2016/78
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.765716
+78.549401
+Rock
+Flow
+NA
+31692
+UK/ALM/53O05/2017/78
+Uttarakhand
+Almora
+ 
+Antpur
+29.765889
+79.185427
+Rock
+Slide
+2016
+31693
+UK/PAU/53O01/2017/119
+Uttarakhand
+Pauri Garhwal
+ 
+Raisya MahadevMaithana Marg 29.766183
+79.071299
+Debris
+Slide
+2016
+31694
+UK/ALM/53O01/2017/13
+Uttarakhand
+Almora
+ 
+Forest
+29.766605
+79.173346
+Debris
+Slide
+2011
+31695
+UK/PAU/53O01/2017/118
+Uttarakhand
+Pauri Garhwal
+ 
+RamnagarSaufkhetSaraikhet 
+Marg
+29.76765
+79.106814
+Rock
+Slide
+2011
+31696
+UK/PAU/53K09/2016/22
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.767873
+78.701448
+Debris
+Slide
+NA
+31697
+UK/PAU/53K09/2016/36
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.767945
+78.554516
+Rock
+Slide
+NA
+31698
+UK/ALM/53O01/2017/14
+Uttarakhand
+Almora
+ 
+BajkhetNail road
+29.76851
+79.180219
+Debris
+Slide
+2011
+31699
+UK/ALM/53O01/2017/15
+Uttarakhand
+Almora
+ 
+BajkhetNail road
+29.768926
+79.175919
+Rock
+Slide
+2011
+31700
+UK/ALM/53O01/2017/16
+Uttarakhand
+Almora
+ 
+BajkhetNail road
+29.768999
+79.175607
+Rock
+Slide
+2011
+31701
+UK/ALM/53O01/2017/17
+Uttarakhand
+Almora
+ 
+BajkhetNail road
+29.769146
+79.17524
+Rock
+Slide
+2011
+31702
+UK/ALM/53O01/2017/19
+Uttarakhand
+Almora
+ 
+BajkhetNail road
+29.7693
+79.165294
+Debris
+Slide
+2017
+31703
+UK/PAU/53O01/2017/126
+Uttarakhand
+Pauri Garhwal
+ 
+NH121
+29.769875
+79.119965
+Rock
+Slide
+2009
+31704
+UK/ALM/53O01/2017/18
+Uttarakhand
+Almora
+ 
+BajkhetNail road
+29.770124
+79.173256
+Debris
+Slide
+2011
+31705
+UK/PAU/53O01/2017/121
+Uttarakhand
+Pauri Garhwal
+ 
+Raisya MahadevMaithana Marg 29.770703
+79.049678
+Debris
+Slide
+2011
+31706
+UK/PAU/53O01/2017/128
+Uttarakhand
+Pauri Garhwal
+ 
+NH121
+29.770856
+79.126885
+Rock
+Slide
+2011
+31707
+UK/PAU/53O01/2017/125
+Uttarakhand
+Pauri Garhwal
+ 
+NH121
+29.77096
+79.118024
+Rock
+Slide
+2011
+31708
+UK/PAU/53O01/2017/124
+Uttarakhand
+Pauri Garhwal
+ 
+NH121
+29.770984
+79.117456
+Rock
+Slide
+2009
+31709
+UK/BAG/53O09/2018/24
+Uttarakhand
+Bageshwar
+Jhiroli
+Jhiroli-Baijnath
+29.771052
+79.741412
+Rock cum debris
+Slide
+2018
+31710
+UK/PAU/53O01/2017/127
+Uttarakhand
+Pauri Garhwal
+ 
+NH121
+29.771343
+79.123544
+Rock
+Slide
+2011
+31711
+UK/PAU/53O01/2017/120
+Uttarakhand
+Pauri Garhwal
+ 
+Raisya MahadevMaithana Marg 29.771456
+79.064459
+Rock
+Slide
+2012
+31712
+UK/ALM/53O01/2017/20
+Uttarakhand
+Almora
+ 
+BajkhetNail road
+29.773151
+79.167168
+Rock
+Slide
+2017
+31713
+UK/PAU/53K13/2016/119
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.773345
+78.860493
+Rock
+Slide
+NA
+31714
+UK/PAU/53K09/2016/20
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.773522
+78.541788
+Debris
+Slide
+NA
+31715
+UK/ALM/53O01/2017/21
+Uttarakhand
+Almora
+ 
+BajkhetNail road
+29.77358
+79.168366
+Rock
+Slide
+2017

@@ -1,0 +1,375 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+8605
+H.P./Lahaul & 
+Spiti/52H02/2019/36
+Himachal Pradesh
+Lahaul & Spiti
+Keylong Slide
+Keylong - Jispa Road.
+32.57053056
+77.03691944
+Debris
+Slide
+2019
+8606
+H.P./Lahaul & 
+Spiti/52H02/2019/37
+Himachal Pradesh
+Lahaul & Spiti
+Deepak Tal slide -1
+Keylong – Zing Zing Bar Road.
+32.74058889
+77.24786667
+Colluvium
+Slide
+ Before 2013, 2019
+8607
+H.P./Lahaul & 
+Spiti/52H02/2019/38
+Himachal Pradesh
+Lahaul & Spiti
+Deepak Tal slide -2
+Keylong – Zing Zing Bar Road.
+32.73893889
+77.24663333
+Colluvium
+Slide
+ Before 2013, 2019
+8608
+H.P./Lahaul & 
+Spiti/52H02/2019/39
+Himachal Pradesh
+Lahaul & Spiti
+Rangyo slide zone -1
+Keylong – Zing Zing Bar Road.
+32.69951944
+77.22338611
+Debris
+Slide
+2019
+8609
+H.P./Lahaul & 
+Spiti/52H02/2019/40
+Himachal Pradesh
+Lahaul & Spiti
+Rangyo slide - 2
+Keylong – Zing Zing Bar Road.
+32.68931667
+77.21891111
+Debris cum rock
+Slide
+2019
+8610
+H.P./Lahaul & 
+Spiti/52H02/2019/41
+Himachal Pradesh
+Lahaul & Spiti
+Rangyo slide - 3
+Keylong – Zing Zing Bar Road.
+32.67661667
+77.20196944
+Debris cum rock
+Slide
+2019
+8611
+H.P./Lahaul & 
+Spiti/52H02/2019/42
+Himachal Pradesh
+Lahaul & Spiti
+Gemur slide
+Keylong – Darcha Road.
+32.59633889
+77.13941111
+Debris
+Slide
+2019
+8612
+H.P./Lahaul & 
+Spiti/52H02/2019/43
+Himachal Pradesh
+Lahaul & Spiti
+Kawaring Slide 1
+Keylong – Darcha Road.
+32.57558056
+77.10963056
+Debris
+Slide
+Before 2010, 2019
+8613
+H.P./Lahaul & 
+Spiti/52H02/2019/44
+Himachal Pradesh
+Lahaul & Spiti
+Kawaring Slide 2 (zone)
+Keylong – Darcha Road.
+32.57291667
+77.10258611
+Debris
+Slide
+2004, 2019
+8614
+HP/KIN/53E14/2022/02
+Himachal Pradesh
+Kinnaur
+Sector-26 slide
+NH-05, Nigulsari Village
+31.563877
+77.884119
+Rock
+Fall
+NA
+8615
+H.P/ Kangra/52D/8/2021/02
+Himachal Pradesh
+Kangra
+SH-503        (Chandigarh-Una-
+Chintpurni-Dharamshala        
+Rd.)
+[Dharamshala - Cantt. -
+McLeodganj Rd.: Offshoot]
+32.22252222
+76.31806667
+Debris
+Slide/Subsidenc
+e
+2021
+8616
+HP/KIN/53E14/2022/01
+Himachal Pradesh
+Kinnaur
+Nigulsari slide
+NH-05, Thachh Village
+31.56293
+77.872847
+Rock
+Slide
+2019
+8617
+H.P./SIR/53F10/2021
+Himachal Pradesh
+Sirmur
+Kali Dhank Landslide (NH-707)
+NH-707-(Paonta Sahib- Sataun-   
+Hatkoti road)
+30.59083333
+77.65777778
+Debris
+Slide
+30 July 2021
+8618
+H.P./KIN/53E07/2021
+Himachal Pradesh
+Kinnaur
+ Batseri Landslide
+Sangla-Chitkul Link Road, 
+Batseri Village, Kalpa Div., 
+Sangla tehsil
+31.41138333
+78.30615278
+Rock
+Fall
+24-25 July 2021
+8619
+H.P./BIL/53A11/2022/01
+Himachal Pradesh
+Bilaspur
+Naina Devi Temple
+Naina Devi
+31.305985
+76.536663
+Rock cum debris
+slide
+NA
+8620
+H.P./BIL/53A11/2022/02
+Himachal Pradesh
+Bilaspur
+Naina Devi slide
+Naina Devi
+31.304638
+76.536628
+Debris
+slide
+NA
+8621
+HP/Shimla/53E/14/2023/01
+Himachal Pradesh
+Shimla
+Kache Slide
+Kache, Link road to NH-05
+31.551479
+77.918532
+Rock
+Falls
+2003
+8622
+HP/Kinnaur/53I/02/2023/01
+Himachal Pradesh
+Kinnaur
+Sapni Slide
+Sapni link road, 2.6 km from 
+Karcham dam
+31.482028
+78.177578
+Debris
+slide
+September 2022, 28 Jan 2023
+8623
+HP/SOL/53F/2022/LS_01
+Himachal Pradesh
+Solan
+Kasauli-Dharampur road slide
+NH-05 and Kasauli-Dharampur 
+road
+30.896535
+77.009852
+Debris
+Slide
+NA
+8624
+HP/SOL/53F/2022/LS_02
+Himachal Pradesh
+Solan
+Solan-Shimla flyover slide.
+NH-05
+30.88227
+77.0932
+Debris
+Slide
+NA
+8625
+HP/SOL/53F/2022/LS_03
+Himachal Pradesh
+Solan
+Kalka-Shimla Rail track slide.
+Kalka-Shimla Rail track
+30.900587
+77.030105
+NA
+Slide
+NA
+8626
+HP/SOL/53F/2022/LS_04
+Himachal Pradesh
+Solan
+Siharri-Brahmna Slide
+NH-05
+30.89322
+77.046705
+Debris
+Slide
+NA
+8627
+HP/SOL/53F/2022/LS_05
+Himachal Pradesh
+Solan
+Sanwara slide
+NH-05
+30.896963
+77.004
+Debris
+Slide
+NA
+8628
+HP/SOL/53F/2022/LS_06
+Himachal Pradesh
+Solan
+Jabli Slide
+NH-05
+30.875535
+76.999926
+Debris
+Slide
+NA
+8629
+HP/MAN/53A14/2023/
+Himachal Pradesh
+Mandi
+Tarna Hill debris slide
+Near Hotel Koyal, Mangwai 
+Road
+31.70522
+76.933442
+Debris
+Slide
+14 August 2023 (Morning)
+8630
+HP/MAN/53A14/2023/
+Himachal Pradesh
+Mandi
+---
+Near HPPWD Circuit house, 
+Tarna Hill
+31.700833
+76.927222
+Debris
+Slide
+14 August 2023 (Morning)
+8631
+HP/MAN/53A10/2023/
+Himachal Pradesh
+Mandi
+Juccain Cloudburst
+Juccain Village
+31.66694
+76.74722
+Debris
+Flow
+13th August 2023
+8632
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+Tatih debris slide
+Tatih Village
+31.704166
+76.723611
+Debris
+Slide
+14th August 2023 (Morning)
+8633
+HP/MAN/53A/13/2023/
+Himachal Pradesh
+Mandi
+Narera Cloudburst
+Narera Village
+31.793055
+76.780555
+Debris
+Flow
+14 August 2023 (06:30 hrs)
+8634
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+Banal Slide
+Banal village
+31.79333
+76.76222
+Debris
+Slide/Subsidenc
+e
+14 August 2023 (Morning)
+8635
+HP/MAN/53A13/2023/
+Himachal Pradesh
+Mandi
+---
+Banal village
+31.78944
+76.75555
+Debris
+Slide/Subsidenc
+e
+13 and 14 August 2023 (Morning)

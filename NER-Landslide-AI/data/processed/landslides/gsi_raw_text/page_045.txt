@@ -1,0 +1,437 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1519
+AR/ES/82P/8/2021/02
+Arunachal Pradesh
+East Siang
+N/A
+N/A
+28.14251
+95.27439
+Debris/unconsolidat
+ed material
+Debris slide 
+and subsidence
+1950, 2021
+1520
+AP/E-Siang/82P8/2022/LS53
+Arunachal Pradesh
+East Siang
+LS-53, Mebo river slide
+NH-13
+28.142551
+95.287886
+Debris
+Slide
+NA
+1521
+AP/E-Siang/82P8/2022/LS54
+Arunachal Pradesh
+East Siang
+LS-54
+NH-13
+28.143839
+95.285971
+Debris
+Slide
+NA
+1522
+AR/ES/82P04/2022/002
+Arunachal Pradesh
+East Siang
+NH-13 Slide 2
+NH-13
+28.145306
+95.239167
+Rock
+Slide
+NA
+1523
+AR/ANJ/91D11/2014/26
+Arunachal Pradesh
+Anjaw
+9 km Slide
+HMC road
+28.14531
+96.54897
+Rock
+Slide
+2013
+1524
+AP/E-Siang/82P8/2021/LS22
+Arunachal Pradesh
+East Siang
+LS-22
+NH-13
+28.145629
+95.275805
+Debris
+Slide
+NA
+1525
+AP/E-Siang/82P8/2021/LS23
+Arunachal Pradesh
+East Siang
+LS-23
+NH-13
+28.145847
+95.273686
+Rock
+Wedge failure
+NA
+1526
+AR/ES/82P04/2022/003
+Arunachal Pradesh
+East Siang
+NH-13 Slide 3
+NH-13
+28.147806
+95.224833
+Debris
+Slide
+NA
+1527
+AP/E-Siang/82P8/2022/LS55
+Arunachal Pradesh
+East Siang
+LS-55
+NH-13
+28.14787
+95.279987
+Debris
+Slide
+NA
+1528
+AP/LDV/82P11/2022/LS56
+Arunachal Pradesh
+East Siang
+Dambuk Slide
+NH-13, Dambuk area
+28.148417
+95.277964
+Debris
+Slide
+NA
+1529
+AP/LDV/82P11/2022/LS57
+Arunachal Pradesh
+East Siang
+Dambuk Slide
+NH-13 Dambuk
+28.149568
+95.277177
+Debris
+Slide
+NA
+1530
+AP/LDV/82P11/2022/LS58
+Arunachal Pradesh
+East Siang
+Dambuk Slide
+NH-13, Dambuk
+28.150741
+95.275122
+Debris
+Slide
+NA
+1531
+AR/ANJ/92D12/2014/45
+Arunachal Pradesh
+Anjaw
+Chipru slide
+HMC road
+28.15292
+96.53858
+Rock
+Slide
+2013
+1532
+AR/S/82P04/2022/007
+Arunachal Pradesh
+East Siang
+NH-13 Slide 7
+NH-13
+28.153028
+95.218294
+Debris
+slide
+NA
+1533
+AR/ES/82P04/2022/004
+Arunachal Pradesh
+East Siang
+NH-13 Slide 4
+NH-13
+28.154111
+95.181694
+Rock
+Slide
+NA
+1534
+AP/LDV/82P11/2022/LS59
+Arunachal Pradesh
+East Siang
+LS-59
+NH-13
+28.160664
+95.446755
+Debris
+Slide
+NA
+1535
+AP/LDV/82P11/2022/LS60
+Arunachal Pradesh
+East Siang
+LS-60
+NH-13, Kapang Valley, near 602 
+mile stone
+28.160853
+95.446925
+Debris
+Slide
+NA
+1536
+AR/ANJ/92D12/2014/44
+Arunachal Pradesh
+Anjaw
+Teapani river slide
+H. M. C. Road
+28.16206
+96.53061
+Debris
+Topple
+2013
+1537
+AP/LDV/82P11/2022/LS61
+Arunachal Pradesh
+East Siang
+Roing-Dambuk Slide
+NH-13, Towards Roing- Dambuk 28.162497
+95.441244
+Debris
+Slide
+NA
+1538
+AP/LDV/82P11/2022/LS62
+Arunachal Pradesh
+East Siang
+LS-62
+NH-13
+28.16317
+95.450433
+Debris
+Slide
+NA
+1539
+AP/LDV/82P11/2022/LS63
+Arunachal Pradesh
+East Siang
+LS-63
+NH-13, Aohali
+28.163322
+95.459813
+Debris
+Slide
+NA
+1540
+AP/LDV/82P11/2022/LS64
+Arunachal Pradesh
+East Siang
+LS-64
+NH-13
+28.163691
+95.458
+Debris
+Slide
+NA
+1541
+AR/WS/82L16/2022/088
+Arunachal Pradesh
+West Siang
+Aalo Slide 1
+NH-13
+28.16425
+94.792417
+Debris
+Slide
+NA
+1542
+AP/LDV/82P11/2022/LS66
+Arunachal Pradesh
+East Siang
+LS-66
+NH-13, Mebo- 50km mile stone 28.165684
+95.462909
+Debris
+Slide
+NA
+1543
+AP/LDV/82P11/2022/LS65
+Arunachal Pradesh
+East Siang
+LS-65
+NH-13
+28.165711
+95.46208
+Debris
+Slide
+NA
+1544
+AP/LDV/82P11/2022/LS67
+Arunachal Pradesh
+East Siang
+LS-67
+NH-13
+28.167982
+95.431764
+Debris
+Slide
+NA
+1545
+AR/ES/82P04/2022/009
+Arunachal Pradesh
+East Siang
+Pasighat-Yingkiong road Slide 2
+NH-13 (Pasighat-Yingkiong 
+road)
+28.169389
+95.235722
+Debris
+slide
+NA
+1546
+AR/ANJ/91D12/2014/06
+Arunachal Pradesh
+Anjaw
+ 
+HMC road
+28.16939
+96.52578
+Rock
+Slide
+2013
+1547
+AR/ES/82P04/2022/010
+Arunachal Pradesh
+East Siang
+Pasighat-Yingkiong road Slide 3
+NH-513
+28.169583
+95.223917
+Rock
+slide
+NA
+1548
+AR/ES/82P04/2022/008
+Arunachal Pradesh
+East Siang
+Pasighat-Yingkiong road Slide 1
+NH-13 (Pasighat-Yingkiong 
+road)
+28.169611
+95.240639
+Debris
+slide
+NA
+1549
+AP/LDV/82P16/2022/74
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 5.4 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.171187
+95.833166
+Earth
+Slide
+NA
+1550
+AP/LDV/82P16/2022/75
+Arunachal Pradesh
+Lower Dibang Valley
+350 m NE of slide no. 74
+ NH-313 (Roing-Anini road)
+28.173434
+95.836605
+Earth
+Slide
+NA
+1551
+AR/US/82P04/2022/027
+Arunachal Pradesh
+West Siang
+Northwest of Yembung camp Slide
+NH-13
+28.174806
+95.025111
+Debris
+Slide
+NA
+1552
+AR/S/82P04/2022/029
+Arunachal Pradesh
+Siang
+South of Jeru Slide 1
+NH-13
+28.174806
+95.025111
+Debris
+slide
+NA
+1553
+AP/DV/82P/13/2022/LS-146
+Arunachal Pradesh
+East Siang
+Anini-Etalin slide
+Anini-Etalin road section, NH-
+313
+28.174973
+95.469402
+Debris
+Slide
+NA
+1554
+AP/DV/82P/13/2022/LS-147
+Arunachal Pradesh
+East Siang
+Anini-Etalin slide
+Anini-Etalin road section, NH-
+313
+28.175079
+95.469602
+Debris
+Slide
+NA
+1555
+AR/ES/82P04/2022/011
+Arunachal Pradesh
+East Siang
+Pasighat-Yingkiong road Slide 4
+NH-513
+28.175556
+95.221861
+Rock
+slide
+NA
+1556
+AP/DV/82P/13/2022/LS-148
+Arunachal Pradesh
+East Siang
+Anini-Etalin slide
+Anini-Etalin road section, NH-
+313
+28.175659
+95.470804
+Debris
+Slide
+NA

@@ -1,0 +1,484 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+4069
+HP/SHI/53E04/2017/17
+Himachal Pradesh
+Shimla
+ 
+BANOG
+31.093806
+77.205694
+Debris
+Slide
+NA
+4070
+HP/SHI/53E04/2017/149
+Himachal Pradesh
+Shimla
+ 
+SH 16
+31.094167
+77.110528
+Rock
+Slide
+NA
+4071
+HP/SHI/53E16/2016/75
+Himachal Pradesh
+Shimla
+ 
+DHANASAR
+31.0942
+77.8322
+Debris
+Slide
+NA
+4072
+HP/SHI/53E12/2016/25
+Himachal Pradesh
+Shimla
+ 
+Mehana Village road
+31.094278
+77.737361
+Rock cum debris
+Slide
+NA
+4073
+HP/SHI/53E16/2016/81
+Himachal Pradesh
+Shimla
+ 
+DHANASAR
+31.0943
+77.8306
+Debris
+Slide
+NA
+4074
+HP/SHI/53E16/2016/77
+Himachal Pradesh
+Shimla
+ 
+DHANASAR
+31.0943
+77.8372
+Debris
+Slide
+NA
+4075
+HP/SHI/53E16/2016/78
+Himachal Pradesh
+Shimla
+ 
+DHANASAR
+31.0943
+77.838
+Debris
+Slide
+NA
+4076
+HP/SHI/53E16/2016/158
+Himachal Pradesh
+Shimla
+ 
+BADOT VILLAGEBADOT-NH-72 
+LINK ROAD
+31.0943
+77.7663
+Debris
+Slide
+NA
+4077
+HP/SHI/53E16/2016/79
+Himachal Pradesh
+Shimla
+ 
+DHANASAR
+31.0944
+77.8292
+Debris
+Slide
+NA
+4078
+HP/SHI/53E16/2016/76
+Himachal Pradesh
+Shimla
+ 
+DHANASAR
+31.0945
+77.833
+Debris
+Slide
+NA
+4079
+HP/SHI/53E16/2016/80
+Himachal Pradesh
+Shimla
+ 
+DHANASAR
+31.0946
+77.8298
+Debris
+Slide
+NA
+4080
+HP/SHI/53E12/2016/21
+Himachal Pradesh
+Shimla
+ 
+Shamot Village road
+31.094756
+77.737806
+Rock cum debris
+Slide
+NA
+4081
+HP/SHI/53E12/2016/68
+Himachal Pradesh
+Shimla
+ 
+close to S81
+31.09483
+77.165135
+Rock cum debris
+Slide
+NA
+4082
+HP/SHI/53E08/2016/14
+Himachal Pradesh
+Shimla
+ 
+ChharabraNH-5
+31.094837
+77.280403
+Rock
+Slide
+NA
+4083
+HP/SHI/53E12/2016/55
+Himachal Pradesh
+Shimla
+ 
+ 
+31.09486
+77.165138
+Rock
+Fall
+NA
+4084
+HP/SOL/53A16/2017/62
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.094889
+76.864972
+Debris
+Slide
+NA
+4085
+HP/SHI/53E16/2016/157
+Himachal Pradesh
+Shimla
+ 
+BADOT VILLAGEBADOT-NH-72 
+LINK ROAD
+31.095
+77.7669
+Debris
+Slide
+NA
+4086
+HP/SHI/53E12/2016/24
+Himachal Pradesh
+Shimla
+ 
+Shamot Village road
+31.095083
+77.738
+Rock cum debris
+Slide
+NA
+4087
+HP/SHI/53E16/2016/74
+Himachal Pradesh
+Shimla
+ 
+DHANASAR
+31.0952
+77.8296
+Debris
+Slide
+NA
+4088
+HP/SHI/53E12/2016/20
+Himachal Pradesh
+Shimla
+ 
+Dhapli Village road
+31.095333
+77.740444
+Rock cum debris
+Slide
+NA
+4089
+HP/SHI/53E16/2016/152
+Himachal Pradesh
+Shimla
+ 
+BADOT VILLAGEBADOT-NH-72 
+LINK ROAD
+31.0956
+77.7675
+Debris
+Slide
+NA
+4090
+HP/SHI/53E04/2017/16
+Himachal Pradesh
+Shimla
+ 
+SANJAULI
+31.095611
+77.206222
+Rock
+Fall
+NA
+4091
+HP/SHI/53E04/2017/18
+Himachal Pradesh
+Shimla
+ 
+BANOG
+31.095694
+77.204167
+Debris
+Slide
+NA
+4092
+HP/SHI/53E08/2016/9
+Himachal Pradesh
+Shimla
+ 
+ChellaSH-10
+31.095874
+77.411568
+Rock cum debris
+Slide
+NA
+4093
+HP/SHI/53E04/2017/146
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.095917
+77.126333
+Rock
+Slide
+NA
+4094
+HP/SHI/53E08/2016/25
+Himachal Pradesh
+Shimla
+ 
+Chella, SH-10
+31.095974
+77.412964
+Rock cum debris
+Slide
+NA
+4095
+HP/SHI/53E16/2016/66
+Himachal Pradesh
+Shimla
+ 
+JILTARI VILLAGEJILTARI LINK 
+ROAD
+31.096
+77.8177
+Debris
+Slide
+NA
+4096
+HP/SHI/53E16/2016/67
+Himachal Pradesh
+Shimla
+ 
+JILTARI VILLAGEJILTARI LINK 
+ROAD
+31.0961
+77.8132
+Debris
+Slide
+NA
+4097
+HP/SHI/53E08/2016/10
+Himachal Pradesh
+Shimla
+ 
+Guri; near Sainj crossingTheog-
+Hatkoti Road
+31.096306
+77.410806
+Rock cum debris
+Slide
+NA
+4098
+HP/SHI/53E08/2016/26
+Himachal Pradesh
+Shimla
+ 
+Near Sainj crossing Theog-
+Hatkoti Road
+31.096306
+77.410806
+Rock cum debris
+Slide
+NA
+4099
+HP/SHI/53E04/2017/116
+Himachal Pradesh
+Shimla
+ 
+DHAROG
+31.096417
+77.125139
+Debris
+Slide
+NA
+4100
+HP/SHI/53E08/2016/65
+Himachal Pradesh
+Shimla
+ 
+Gumma, NH-5
+31.096874
+77.421112
+Rock
+Slide
+NA
+4101
+HP/SHI/53E16/2016/65
+Himachal Pradesh
+Shimla
+ 
+JILTARI VILLAGEJILTARI LINK 
+ROAD
+31.097
+77.813
+Debris
+Slide
+NA
+4102
+HP/SHI/53E12/2016/23
+Himachal Pradesh
+Shimla
+ 
+Dhapli Village road
+31.097111
+77.742972
+Rock cum debris
+Slide
+NA
+4103
+HP/SHI/53E12/2016/58
+Himachal Pradesh
+Shimla
+ 
+Sanawa, SH-10
+31.09757
+77.63583
+Rock cum debris
+Slide
+NA
+4104
+HP/SHI/53E12/2016/2
+Himachal Pradesh
+Shimla
+ 
+close to LS99
+31.09768
+77.64944
+Rock cum debris
+Slide
+NA
+4105
+HP/SHI/53E16/2016/48
+Himachal Pradesh
+Shimla
+ 
+LEFT BANK OF PABBAR
+31.0977
+77.7924
+Debris
+Slide
+NA
+4106
+HP/SHI/53E08/2016/60
+Himachal Pradesh
+Shimla
+ 
+Near BalogSH-10; Theog 
+Kotkhai Road
+31.097738
+77.383789
+Rock cum debris
+Slide
+NA
+4107
+HP/SHI/53E04/2017/19
+Himachal Pradesh
+Shimla
+ 
+BANOG
+31.097944
+77.202361
+Debris
+Slide
+NA
+4108
+HP/SHI/53E12/2016/27
+Himachal Pradesh
+Shimla
+ 
+Sanawa, SH-10
+31.09796
+77.63983
+Rock cum debris
+Slide
+NA
+4109
+HP/SHI/53E12/2016/1
+Himachal Pradesh
+Shimla
+ 
+SH-10
+31.09796
+77.63983
+Rock cum debris
+Slide
+NA
+4110
+HP/SHI/53E16/2016/64
+Himachal Pradesh
+Shimla
+ 
+NEAR KATINDA VILLAGE 
+KATINDA LINK ROAD
+31.0981
+77.8141
+Debris
+Slide
+NA

@@ -1,0 +1,396 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+25152
+NG/NOK/83N04/2017/52
+Nagaland
+Noklak
+ 
+Sanglao
+26.064111
+95.03975
+Rock
+Fall
+NA
+25153
+NAG/WOKH/83J08/2015/0014
+Nagaland
+Wokha
+ 
+1.5 km NE of Niroyo Village.
+26.065972
+94.270389
+Rock
+Slide
+NA
+25154
+NG/NOK/83N04/2017/51
+Nagaland
+Noklak
+ 
+Sanglao
+26.066583
+95.033361
+Debris
+Slide
+NA
+25155
+NAG/WOKH/83J08/2015/0004
+Nagaland
+Wokha
+ 
+Yimkha Village, 12 km SE of 
+Wokha Town.
+26.067194
+94.317611
+Rock
+Slide
+NA
+25156
+NAG/WOK/83J/4/2016/0068
+Nagaland
+Wokha
+ 
+4 km SW of Wokha
+26.067889
+94.224889
+Rock
+Slide
+2016
+25157
+NAG/WOKH/83J08/2015/0005
+Nagaland
+Wokha
+ 
+Yimkha Village, 12 km SE of 
+Wokha Town.
+26.068028
+94.317833
+Debris
+Subsidence
+NA
+25158
+NG/NOK/83N04/2017/50
+Nagaland
+Noklak
+ 
+Sanglao
+26.068111
+95.025972
+Rock
+Slide
+NA
+25159
+NG/NOK/83N04/2017/49
+Nagaland
+Noklak
+ 
+Sanglao
+26.069278
+95.023806
+Debris
+Slide
+NA
+25160
+NAG/WOK/83J/4/2016/0069
+Nagaland
+Wokha
+ 
+4.3 km SW of Wohka
+26.069722
+94.223444
+Debris
+Subsidence
+NA
+25161
+NAG/ZUNH/83J08/2015/ 0061
+Nagaland
+Zunheboto
+ 
+300 meters East of Philimi 
+Village.
+26.069917
+94.411639
+Rock
+Subsidence
+NA
+25162
+NAG/WOKH/83J08/2015/0031
+Nagaland
+Wokha
+ 
+NH 61, Gate of Yanthamo 
+Village.
+26.070306
+94.280586
+Rock
+Slide
+NA
+25163
+NAG/ZUNH/83J08/2015/ 0060
+Nagaland
+Zunheboto
+ 
+Philimi Village, 7.5 km SE of 
+Coco Bridge.
+26.070806
+94.408028
+Rock
+Subsidence
+NA
+25164
+NL/DMR/83F16/2019/01
+Nagaland
+Dimapur
+Zhekhise Slide
+Niuland
+26.07256
+93.928
+Soil
+Slide
+NA
+25165
+NG/NOK/83N04/2017/42
+Nagaland
+Noklak
+ 
+Choklangan
+26.073167
+95.0785
+Debris
+Slide
+NA
+25166
+NAG/ZUNH/83J08/2015/ 0064
+Nagaland
+Zunheboto
+ 
+1.5 km West of Asukhuto 
+Village.
+26.073194
+94.482139
+Debris
+Slide
+NA
+25167
+NAG/ZUNH/83J08/2015/ 0091
+Nagaland
+Zunheboto
+ 
+Way to Asukhuto from Rotomi
+26.073778
+94.482194
+Rock
+Slide
+NA
+25168
+NG/NOK/83N04/2017/43
+Nagaland
+Noklak
+ 
+Choklangan
+26.074
+95.083833
+Debris
+Slide
+NA
+25169
+NAG/ZUNH/83J08/2015/ 0062
+Nagaland
+Zunheboto
+ 
+New Rotomi Village, 10km SE of 
+Coco Bridge.
+26.074417
+94.423667
+Rock
+Subsidence
+NA
+25170
+NAG/ZUNH/83J08/2015/ 0065
+Nagaland
+Zunheboto
+ 
+2 km West of Asukhuto Village.
+26.075722
+94.481611
+Rock
+Slide
+NA
+25171
+NAG/ZUNH/83J08/2015/ 0063
+Nagaland
+Zunheboto
+ 
+Old Rotomi Village, 12km SE of 
+Coco Bridge.
+26.076583
+94.433611
+Rock
+Subsidence
+NA
+25172
+NAG/ZUN/83J12/2016/0020
+Nagaland
+Zunheboto
+ 
+Lokhomi Village
+26.07675
+94.558611
+Rock
+Slide
+NA
+25173
+NAG/ZUN/83J12/2016/0068
+Nagaland
+Zunheboto
+ 
+Lokhomi Village
+26.077122
+94.559107
+Rock
+Slide
+NA
+25174
+NAG/ZUN/83J12/2016/0001
+Nagaland
+Zunheboto
+ 
+Asukhomi Village
+26.077167
+94.542306
+Rock
+Slide
+2016
+25175
+NAG/ZUNH/83J08/2015/ 0066
+Nagaland
+Zunheboto
+ 
+3 km West of Asukhuto Village.
+26.080917
+94.481697
+Rock
+Slide
+NA
+25176
+NG/NOK/83N04/2017/48
+Nagaland
+Noklak
+ 
+Sanglao
+26.081472
+95.02625
+Debris
+Slide
+NA
+25177
+NAG/WOKH/83J08/2015/0013
+Nagaland
+Wokha
+ 
+Saron Colony, 4 km SE of Wokha
+Town.
+26.082972
+94.267528
+Rock
+Slide
+NA
+25178
+NAG/WOK/83J/4/2016/0087
+Nagaland
+Wokha
+ 
+Near Lotsu
+26.084444
+94.09
+Rock
+Slide
+NA
+25179
+NAG/WOKH/83J08/2015/0002
+Nagaland
+Wokha
+ 
+NH-61/ 2 km South of Wokha 
+Town near Forest Colony.
+26.084806
+94.263083
+Debris
+Slide
+NA
+25180
+NAG/ZUNH/83J08/2015/ 0089
+Nagaland
+Zunheboto
+ 
+Way to Asukhuto
+26.085333
+94.49025
+Rock
+Slide
+NA
+25181
+NAG/WOKH/83J08/2015/0059
+Nagaland
+Wokha
+ 
+Near Zuvatong Colony
+26.085389
+94.258
+Rock
+Slide
+NA
+25182
+NAG/WOKH/83J08/2015/0058
+Nagaland
+Wokha
+ 
+Near Zuvatong Colony
+26.085528
+94.257556
+Rock
+Slide
+NA
+25183
+NAG/ZUN/83J12/2016/0014
+Nagaland
+Zunheboto
+ 
+5 km NE of Asukhomi
+26.085597
+94.559075
+Rock
+Slide
+NA
+25184
+NAG/ZUN/83J12/2016/0069
+Nagaland
+Zunheboto
+ 
+2km NE of Lokhomi Village
+26.086444
+94.564667
+Earth
+Slide
+NA
+25185
+NAG/WOK/83J/4/2016/0086
+Nagaland
+Wokha
+ 
+2 kmSW of Longtsung
+26.087917
+94.098056
+Rock
+Slide
+2016

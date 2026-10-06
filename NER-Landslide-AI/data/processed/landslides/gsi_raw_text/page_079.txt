@@ -1,0 +1,553 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+2947
+HP/SIR/53F06/2017/260
+Himachal Pradesh
+Sirmur
+ 
+North of Kufar
+30.73142
+77.356582
+Rock
+Slide
+NA
+2948
+HP/SIR/53F06/2017/261
+Himachal Pradesh
+Sirmur
+ 
+North of Kufar
+30.731873
+77.355672
+Rock
+Slide
+NA
+2949
+HP/SIR/53F06/2017/271
+Himachal Pradesh
+Sirmur
+ 
+Khurkuna
+30.732603
+77.332733
+Rock
+Slide
+NA
+2950
+HP/SIR/53F10/2017/139
+Himachal Pradesh
+Sirmur
+ 
+Katara
+30.732812
+77.675608
+Rock cum debris
+Slide
+NA
+2951
+HP/SIR/53F10/2017/140
+Himachal Pradesh
+Sirmur
+ 
+Katara
+30.733797
+77.675748
+Rock
+Slide
+NA
+2952
+HP/SIR/53F06/2017/270
+Himachal Pradesh
+Sirmur
+ 
+Khurkuna
+30.733852
+77.329866
+Rock
+Slide
+NA
+2953
+HP/SIR/53F06/2017/269
+Himachal Pradesh
+Sirmur
+ 
+Khurkuna
+30.733869
+77.329447
+Rock
+Slide
+NA
+2954
+HP/SOL/53F02/2017/88
+Himachal Pradesh
+Solan
+ 
+ 
+30.734038
+77.134426
+Rock
+Slide
+NA
+2955
+HP/SIR/53F06/2017/268
+Himachal Pradesh
+Sirmur
+ 
+Khurkuna
+30.734759
+77.328535
+Rock
+Slide
+NA
+2956
+HP/SIR/53F10/2017/215
+Himachal Pradesh
+Sirmur
+ 
+Anyar
+30.735398
+77.72563
+Rock
+Slide
+NA
+2957
+HP/SIR/53F10/2017/213
+Himachal Pradesh
+Sirmur
+ 
+Umri
+30.737355
+77.716318
+Rock
+Slide
+NA
+2958
+HP/SIR/53F06/2017/275
+Himachal Pradesh
+Sirmur
+ 
+Khurkuna
+30.73755
+77.331507
+Rock
+Slide
+NA
+2959
+HP/SIR/53F10/2017/141
+Himachal Pradesh
+Sirmur
+ 
+Katara
+30.737838
+77.675959
+Rock
+Slide
+NA
+2960
+HP/SIR/53F10/2017/214
+Himachal Pradesh
+Sirmur
+ 
+Umri
+30.738046
+77.714846
+Rock
+Slide
+NA
+2961
+HP/SIR/53F06/2017/274
+Himachal Pradesh
+Sirmur
+ 
+Khurkuna
+30.738662
+77.33066
+Rock
+Slide
+NA
+2962
+HP/SIR/53F10/2017/212
+Himachal Pradesh
+Sirmur
+ 
+Sanog
+30.73876
+77.708543
+Rock
+Slide
+NA
+2963
+HP/SIR/53F10/2017/211
+Himachal Pradesh
+Sirmur
+ 
+Sanog
+30.74017
+77.705436
+Rock
+Slide
+NA
+2964
+HP/SOL/53F02/2017/102
+Himachal Pradesh
+Solan
+ 
+Palticut road
+30.74873
+77.169596
+Rock
+Slide
+NA
+2965
+HP/SOL/53F02/2017/103
+Himachal Pradesh
+Solan
+ 
+Palticut road
+30.74873
+77.169596
+Rock
+Slide
+NA
+2966
+HP/SOL/53F01/2017/268
+Himachal Pradesh
+Solan
+ 
+KumarhattiNahan road
+30.749265
+77.170328
+Rock
+Slide
+NA
+2967
+HP/SIR/53F05/2017/16
+Himachal Pradesh
+Sirmur
+ 
+Lana Macher
+30.753561
+77.315803
+Rock cum debris
+Slide
+NA
+2968
+HP/SOL/53F01/2017/322
+Himachal Pradesh
+Solan
+ 
+NainatikkarSarahan road
+30.754536
+77.132663
+Rock
+Slide
+NA
+2969
+HP/SIR/53F05/2017/26
+Himachal Pradesh
+Sirmur
+ 
+Bhanra/MDR3
+30.754653
+77.441347
+Rock
+Fall
+NA
+2970
+HP/SIR/53F05/2017/22
+Himachal Pradesh
+Sirmur
+ 
+Bhanra
+30.755364
+77.307417
+Debris
+Slide
+NA
+2971
+HP/SIR/53F05/2017/23
+Himachal Pradesh
+Sirmur
+ 
+MDR3,Bhanra
+30.755944
+77.441825
+Rock cum debris
+Fall
+NA
+2972
+HP/SIR/53F05/2017/85
+Himachal Pradesh
+Sirmur
+ 
+Kotla mangan
+30.756336
+77.315536
+Rock cum debris
+Slide
+NA
+2973
+HP/SIR/53F05/2017/17
+Himachal Pradesh
+Sirmur
+ 
+Kotla mangan
+30.7565
+77.316869
+Rock
+Fall
+NA
+2974
+HP/SIR/53F09/2017/45
+Himachal Pradesh
+Sirmur
+ 
+Jarwa Juneile
+30.756508
+77.597869
+Debris
+Slide
+NA
+2975
+HP/SIR/53F05/2017/90
+Himachal Pradesh
+Sirmur
+ 
+Kotla mangan
+30.756844
+77.317569
+Rock cum debris
+Slide
+NA
+2976
+HP/SHM/53F09/2017/49
+Himachal Pradesh
+Shimla
+ 
+Haripurdhar Ranat Road
+30.756917
+77.632889
+Rock cum debris
+Slide
+NA
+2977
+HP/SIR/53F05/2017/27
+Himachal Pradesh
+Sirmur
+ 
+Bhanra
+30.757153
+77.439139
+Rock
+Fall
+NA
+2978
+HP/SHM/53F09/2017/46
+Himachal Pradesh
+Shimla
+ 
+JurwaThariya village
+30.758361
+77.599611
+Rock cum debris
+Slide
+NA
+2979
+HP/SIR/53F09/2017/44
+Himachal Pradesh
+Sirmur
+ 
+Haripurdhar Ranat Road
+30.758475
+77.592844
+Rock cum debris
+Slide
+NA
+2980
+HP/SIR/53F09/2017/43
+Himachal Pradesh
+Sirmur
+ 
+Haripurdhar Ranat Road
+30.758528
+77.58975
+Rock cum debris
+Slide
+NA
+2981
+HP/SIR/53F09/2017/42
+Himachal Pradesh
+Sirmur
+ 
+Haripurdhar Ranat Road
+30.758578
+77.589211
+Debris
+Slide
+NA
+2982
+HP/SHM/53F09/2017/48
+Himachal Pradesh
+Shimla
+ 
+Panog
+30.759694
+77.609639
+Debris
+Slide
+NA
+2983
+HP/SHM/53F09/2017/47
+Himachal Pradesh
+Shimla
+ 
+Haripurdhar Ranat Road
+30.761214
+77.603542
+Rock cum debris
+Slide
+NA
+2984
+HP/SIR/53F09/2017/39
+Himachal Pradesh
+Sirmur
+ 
+Tikiri Dasakna, 
+HaripurdharRanat road
+30.761308
+77.603703
+Debris
+Slide
+NA
+2985
+HP/SOL/53F01/2017/72
+Himachal Pradesh
+Solan
+ 
+NaragDalhan road
+30.761546
+77.197579
+Debris
+Slide
+NA
+2986
+HP/SIR/53F05/2017/47
+Himachal Pradesh
+Sirmur
+ 
+Chaloga Byas
+30.761947
+77.308911
+Debris
+Slide
+NA
+2987
+HP/SIR/53F05/2017/43
+Himachal Pradesh
+Sirmur
+ 
+Naichana
+30.762094
+77.437281
+Rock
+Fall
+NA
+2988
+HP/SOL/53F01/2017/320
+Himachal Pradesh
+Solan
+ 
+KumarhattiNahan road
+30.762115
+77.152756
+Rock
+Slide
+NA
+2989
+HP/SIR/53F05/2017/19
+Himachal Pradesh
+Sirmur
+ 
+Bagrauti
+30.762161
+77.307811
+Debris
+Fall
+NA
+2990
+HP/SHM/53F09/2017/26
+Himachal Pradesh
+Shimla
+ 
+Tikiri Dasakna
+30.764453
+77.561217
+Debris
+Slide
+NA
+2991
+HP/SIR/53F09/2017/41
+Himachal Pradesh
+Sirmur
+ 
+Haripurdhar Ranat Road
+30.765167
+77.582911
+Rock cum debris
+Slide
+NA
+2992
+HP/SIR/53F05/2017/62
+Himachal Pradesh
+Sirmur
+ 
+Naichana
+30.765497
+77.411125
+Debris
+Slide
+NA
+2993
+HP/SIR/53F09/2017/40
+Himachal Pradesh
+Sirmur
+ 
+Haripurdhar Ranat Road
+30.765642
+77.581697
+Debris
+Slide
+NA
+2994
+HP/SOL/53F01/2017/267
+Himachal Pradesh
+Solan
+ 
+KumarhattiNahan road
+30.766811
+77.148463
+Rock
+Slide
+NA
+2995
+HP/SHM/53F09/2017/33
+Himachal Pradesh
+Shimla
+ 
+Tikiri Dasakna, 
+HaripurdharRanat road
+30.767306
+77.566417
+Rock cum debris
+Slide
+NA

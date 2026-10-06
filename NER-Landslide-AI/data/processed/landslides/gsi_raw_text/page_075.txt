@@ -1,0 +1,513 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+2758
+HP/SIR/53F02/2017/7
+Himachal Pradesh
+Sirmur
+ 
+Kala ambPoanta road
+30.645665
+77.188158
+Debris
+Slide
+NA
+2759
+HP/SIR/53F14/2017/38
+Himachal Pradesh
+Sirmur
+ 
+Kyontha
+30.646869
+77.753782
+Rock
+Slide
+NA
+2760
+HP/SIR/53F10/2017/79
+Himachal Pradesh
+Sirmur
+ 
+Jathyan, PaontaShillai road
+30.647243
+77.658204
+Rock
+Slide
+NA
+2761
+HP/SIR/53F14/2017/32
+Himachal Pradesh
+Sirmur
+ 
+West of Koti
+30.647635
+77.754581
+Rock
+Slide
+NA
+2762
+HP/SIR/53F06/2017/208
+Himachal Pradesh
+Sirmur
+ 
+Chunkhar, Bacheri ka bagh 
+Dadahu road
+30.647691
+77.395456
+Rock
+Slide
+NA
+2763
+HP/SIR/53F06/2017/206
+Himachal Pradesh
+Sirmur
+ 
+Chunkhar, Bacheri ka bagh 
+Dadahu road
+30.648488
+77.392265
+Rock
+Slide
+NA
+2764
+HP/SIR/53F06/2017/144
+Himachal Pradesh
+Sirmur
+ 
+Kakog, Dadahu 
+Sangrah road
+30.648535
+77.441542
+Rock
+Slide
+NA
+2765
+HP/SIR/53F06/2017/207
+Himachal Pradesh
+Sirmur
+ 
+Chunkhar, Bacheri ka bagh 
+Dadahu road
+30.648576
+77.393697
+Rock
+Slide
+NA
+2766
+HP/SIR/53F14/2017/37
+Himachal Pradesh
+Sirmur
+ 
+Kyontha
+30.64884
+77.756197
+Rock
+Slide
+NA
+2767
+HP/SIR/53F10/2017/80
+Himachal Pradesh
+Sirmur
+ 
+Jathyan, PaontaShillai road
+30.648912
+77.658136
+Rock
+Slide
+NA
+2768
+HP/SIR/53F02/2017/8
+Himachal Pradesh
+Sirmur
+ 
+Bhajjar link road
+30.649657
+77.186049
+Debris
+Slide
+NA
+2769
+HP/SIR/53F10/2017/81
+Himachal Pradesh
+Sirmur
+ 
+Jathyan, PaontaShillai road
+30.650732
+77.653178
+Rock
+Slide
+NA
+2770
+HP/SIR/53F14/2017/33
+Himachal Pradesh
+Sirmur
+ 
+Kyontha
+30.651217
+77.758593
+Rock
+Slide
+NA
+2771
+HP/SIR/53F14/2017/25
+Himachal Pradesh
+Sirmur
+ 
+West of Koti
+30.653296
+77.767848
+Rock
+Slide
+NA
+2772
+HP/SIR/53F02/2017/9
+Himachal Pradesh
+Sirmur
+ 
+Bahar link road
+30.653549
+77.184548
+Debris
+Slide
+NA
+2773
+HP/SIR/53F14/2017/26
+Himachal Pradesh
+Sirmur
+ 
+West of Koti
+30.653648
+77.768193
+Rock
+Slide
+NA
+2774
+HP/SIR/53F14/2017/27
+Himachal Pradesh
+Sirmur
+ 
+West of Koti
+30.653878
+77.768773
+Rock
+Slide
+NA
+2775
+HP/SIR/53F14/2017/23
+Himachal Pradesh
+Sirmur
+ 
+West of Koti
+30.654556
+77.767209
+Rock
+Slide
+NA
+2776
+HP/SIR/53F14/2017/24
+Himachal Pradesh
+Sirmur
+ 
+West of Koti
+30.654974
+77.766019
+Rock
+Slide
+NA
+2777
+HP/SIR/53F14/2017/30
+Himachal Pradesh
+Sirmur
+ 
+West of Koti
+30.65505
+77.785625
+Rock
+Slide
+NA
+2778
+HP/SIR/53F02/2017/22
+Himachal Pradesh
+Sirmur
+ 
+KumarhattiNahan road
+30.655681
+77.184091
+Rock
+Slide
+NA
+2779
+HP/SIR/53F02/2017/16
+Himachal Pradesh
+Sirmur
+ 
+SH02
+30.656356
+77.22558
+Rock
+Slide
+NA
+2780
+HP/SIR/53F02/2017/23
+Himachal Pradesh
+Sirmur
+ 
+KumarhattiNahan road
+30.656704
+77.183142
+Rock
+Slide
+NA
+2781
+HP/SIR/53F02/2017/15
+Himachal Pradesh
+Sirmur
+ 
+SH02
+30.65704
+77.224474
+Rock
+Slide
+NA
+2782
+HP/SIR/53F14/2017/29
+Himachal Pradesh
+Sirmur
+ 
+West of Koti
+30.657058
+77.789386
+Rock
+Slide
+NA
+2783
+HP/SIR/53F14/2017/28
+Himachal Pradesh
+Sirmur
+ 
+West of Koti
+30.657422
+77.787449
+Rock
+Slide
+NA
+2784
+HP/SIR/53F14/2017/31
+Himachal Pradesh
+Sirmur
+ 
+West of Koti
+30.657513
+77.78814
+Rock
+Slide
+NA
+2785
+HP/SIR/53F02/2017/14
+Himachal Pradesh
+Sirmur
+ 
+SH02
+30.658507
+77.222564
+Rock
+Slide
+NA
+2786
+HP/SIR/53F02/2017/21
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.659523
+77.188996
+Rock
+Slide
+NA
+2787
+HP/SIR/53F02/2017/13
+Himachal Pradesh
+Sirmur
+ 
+SH02
+30.659615
+77.220759
+Rock
+Slide
+NA
+2788
+HP/SIR/53F10/2017/82
+Himachal Pradesh
+Sirmur
+ 
+Gangtoli, PaontaShillai road
+30.659898
+77.659879
+Rock
+Slide
+NA
+2789
+HP/SIR/53F06/2017/202
+Himachal Pradesh
+Sirmur
+ 
+Banel, BanethiRajgarh road
+30.660177
+77.26166
+Rock
+Slide
+NA
+2790
+HP/SIR/53F10/2017/91
+Himachal Pradesh
+Sirmur
+ 
+Larao, paontaShillai road
+30.660686
+77.674656
+Rock
+Slide
+NA
+2791
+HP/SIR/53F14/2017/46
+Himachal Pradesh
+Sirmur
+ 
+West of Koti
+30.661283
+77.77499
+Rock
+Slide
+NA
+2792
+HP/SIR/53F14/2017/47
+Himachal Pradesh
+Sirmur
+ 
+West of Koti
+30.661568
+77.774259
+Rock
+Slide
+NA
+2793
+HP/SIR/53F10/2017/90
+Himachal Pradesh
+Sirmur
+ 
+Larao, paontaShillai road
+30.661674
+77.673378
+Rock
+Slide
+NA
+2794
+HP/SIR/53F02/2017/12
+Himachal Pradesh
+Sirmur
+ 
+SH02
+30.661998
+77.217881
+Rock
+Slide
+NA
+2795
+HP/SIR/53F02/2017/24
+Himachal Pradesh
+Sirmur
+ 
+KumarhattiNahan road
+30.662261
+77.178608
+Rock
+Slide
+NA
+2796
+HP/SIR/53F10/2017/92
+Himachal Pradesh
+Sirmur
+ 
+South of Tikar, PaontaShillai 
+road
+30.662276
+77.67865
+Rock
+Slide
+NA
+2797
+HP/SIR/53F10/2017/89
+Himachal Pradesh
+Sirmur
+ 
+Larao, paontaShillai road
+30.662523
+77.673166
+Rock
+Slide
+NA
+2798
+HP/SIR/53F10/2017/93
+Himachal Pradesh
+Sirmur
+ 
+South of Tikar, PaontaShillai 
+road
+30.66285
+77.679174
+Rock
+Slide
+NA
+2799
+HP/SIR/53F02/2017/25
+Himachal Pradesh
+Sirmur
+ 
+KumarhattiNahan road
+30.66303
+77.178793
+Rock
+Slide
+NA
+2800
+HP/SIR/53F06/2017/203
+Himachal Pradesh
+Sirmur
+ 
+Banel, BanethiRajgarh road
+30.664368
+77.262329
+Rock
+Slide
+NA
+2801
+HP/SIR/53F10/2017/88
+Himachal Pradesh
+Sirmur
+ 
+Larao, paontaShillai road
+30.664481
+77.671733
+Rock
+Slide
+NA
+2802
+HP/SIR/53F10/2017/87
+Himachal Pradesh
+Sirmur
+ 
+Larao, paontaShillai road
+30.665193
+77.670624
+Rock
+Slide
+NA

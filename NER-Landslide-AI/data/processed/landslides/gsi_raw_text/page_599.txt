@@ -1,0 +1,479 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+23758
+MIZ/LUNG/84A12/2025/046
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.134009
+92.746247
+Earth
+Slide
+31 May 2025
+23759
+MIZ/LUNG/84A12/2025/047
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.132082
+92.746268
+Debris
+Slide
+31 May 2025
+23760
+MIZ/LUNG/84A12/2025/048
+Mizoram
+Lunglei
+N. Mualthuam
+23.114694
+92.743931
+Debris
+Slide
+01 June 2025 
+23761
+MIZ/LUNG/84A12/2025/049
+Mizoram
+Lunglei
+N. Mualthuam
+23.114225
+92.746024
+Debris
+Slide
+31 May 2025
+23762
+MIZ/LUNG/84A12/2025/050
+Mizoram
+Lunglei
+N. Mualthuam
+23.111824
+92.745097
+Debris
+Slide
+31 May 2025
+23763
+MIZ/LUNG/84A16/2025/051
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.015005
+92.765065
+Rock
+Slide
+30 May 2025
+23764
+MIZ/LUNG/84A16/2025/052
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.022804
+92.755698
+Debris
+Slide
+31 May 2025
+23765
+MIZ/LUNG/84B09/2025/053
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei 
+Highway
+22.973735
+92.725975
+Debris
+Slide
+30 May 2025
+23766
+MIZ/LAW/84B14/2025/054
+Mizoram
+Lawngtlai
+Chanmari and Bazar Veng, 
+Lawngtlai
+22.529731
+92.896699
+Debris
+Slide
+Sept 1992, 22 May 1995, 30.05.2025 
+10:30pm
+23767
+MIZ/LAW/84B14/2025/055
+Mizoram
+Lawngtlai
+College Veng, Lawngtlai
+22.519716
+92.891037
+Debris
+Slide
+31 May 2025
+23768
+MIZ/LAW/84B15/2025/056
+Mizoram
+Lawngtlai
+NH 54
+22.48765
+92.886806
+Rock
+Fall
+31 May 2025
+23769
+MIZ/SIA/84B15/2025/057
+Mizoram
+Siaha
+Kawchaw W
+22.404215
+92.951647
+Debris
+Slide
+31 May 2025
+23770
+MIZ/SIA/84B15/2025/058
+Mizoram
+Siaha
+NH 54
+22.444376
+92.947323
+Debris
+Slide
+30 May 2025
+23771
+MIZ/SIA/84B15/2025/059
+Mizoram
+Siaha
+Meiseviah, Siaha
+22.491822
+92.970252
+Earth
+Slide
+31 May 2025
+23772
+MIZ/SIA/84B15/2025/060
+Mizoram
+Siaha
+Meiseviah, Siaha
+22.491
+92.97076
+Debris
+Slide
+31 May 2025
+23773
+MIZ/SIA/84F03/2025/061
+Mizoram
+Siaha
+Lobo
+22.469737
+93.100868
+Debris
+Slide
+01 June 2025 
+23774
+MIZ/SIA/84B15/2025/061
+Mizoram
+Siaha
+Siaha to Kawlchaw
+22.437107
+92.946912
+Debris
+Slide
+31 May 2025
+23775
+MIZ/LAW/84B14/2025/061
+Mizoram
+Lawngtlai
+Thingkah
+22.54735
+92.882032
+Debris
+Slide
+31 May 2025
+23776
+MIZ/LUNG/84B14/2025/062
+Mizoram
+Lunglei
+NH 54
+22.641087
+92.867635
+Debris
+Slide
+31 May 2025
+23777
+MIZ/LUNG/84B14/2025/063
+Mizoram
+Lunglei
+NH 54
+22.660692
+92.855602
+Debris
+Slide
+31 May 2025
+23778
+MIZ/LUNG/84B14/2025/064
+Mizoram
+Lunglei
+NH 54
+22.688472
+92.842907
+Debris
+Slide
+31 May 2025
+23779
+MIZ/LUNG/84B14/2025/065
+Mizoram
+Lunglei
+NH 54
+22.702165
+92.836523
+Debris
+Slide
+31 May 2025
+23780
+MIZ/LUNG/84B14/2025/066
+Mizoram
+Lunglei
+NH 54
+22.706999
+92.841597
+Debris
+Slide
+31 May 2025
+23781
+MIZ/LUNG/84B14/2025/067
+Mizoram
+Lunglei
+NH 54
+22.745387
+92.841543
+Debris
+Slide
+31 May 2025
+23782
+MIZ/LUNG/84B13/2025/070
+Mizoram
+Lunglei
+NH 54
+22.788323
+92.833817
+Debris
+Slide
+31 May 2025
+23783
+MIZ/LUNG/84B13/2025/071
+Mizoram
+Lunglei
+NH 54
+22.793307
+92.819831
+Debris
+Slide
+31 May 2025
+23784
+MIZ/LUNG/84B13/2025/072
+Mizoram
+Lunglei
+Theiriat
+22.866131
+92.772713
+Debris
+Slide
+01 June 2025 
+23785
+MIZ/LUNG/84B13/2025/073
+Mizoram
+Lunglei
+Serkawn PHE Complex
+22.903567
+92.758702
+Debris
+Flow
+01 June 2025 
+23786
+MIZ/LUNG/84B13/2025/074
+Mizoram
+Lunglei
+Zohnuai, Lunglei
+22.903454
+92.760096
+Debris
+Slide
+01 June 2025 
+23787
+MIZ/LUNG/84B13/2025/075
+Mizoram
+Lunglei
+Serkawn, Lunglei
+22.904615
+92.75705
+Debris
+Slide
+01 June 2025 
+23788
+MIZ/LUNG/84B13/2025/076
+Mizoram
+Lunglei
+Zohnuai, Lunglei
+22.922528
+92.752404
+Debris
+Slide
+01 June 2025 
+23789
+MIZ/LUNG/84B09/2025/077
+Mizoram
+Lunglei
+Bazar Veng, Lunglei
+22.895235
+92.747812
+Debris
+Slide
+02 June 2025 
+23790
+MIZ/LUNG/84B13/2025/078
+Mizoram
+Lunglei
+NH 54
+22.88042
+92.821692
+Debris
+Slide
+01 June 2025 
+23791
+MIZ/LUNG/84B13/2025/079
+Mizoram
+Lunglei
+NH 54
+22.892426
+92.822937
+Debris
+Slide
+31 May 2025
+23792
+MIZ/HNAH/84B13/2025/080
+Mizoram
+Hnahthial
+NH 54
+22.902089
+92.879909
+Debris
+Slide
+31 May 2025
+23793
+MIZ/HNAH/84B13/2025/081
+Mizoram
+Hnahthial
+Hnahthial Kanaan Veng
+22.967715
+92.925677
+Debris
+Slide
+31 May 2025
+23794
+MIZ/HNAH/84B13/2025/082
+Mizoram
+Hnahthial
+Electric Veng, Hnahthial
+22.971217
+92.925544
+Earth
+Slide
+31 May 2025
+23795
+MIZ/HNAH/84B13/2025/083
+Mizoram
+Hnahthial
+Electric Veng, Hnahthial
+22.969582
+92.925917
+Earth
+Slide
+31 May 2025
+23796
+MIZ/HNAH/84A16/2025/084
+Mizoram
+Hnahthial
+Pangzawl
+23.077813
+92.89844
+Debris
+Slide
+31 May 2025
+23797
+MIZ/HNAH/84A16/2025/085
+Mizoram
+Hnahthial
+Pangzawl
+23.081023
+92.897247
+Debris
+Slide
+31 May 2025
+23798
+MIZ/HNAH/84A16/2025/086
+Mizoram
+Hnahthial
+Pangzawl
+23.084343
+92.898597
+Debris
+Slide
+31 May 2025
+23799
+MIZ/HNAH/84A16/2025/087
+Mizoram
+Hnahthial
+Pangzawl
+23.170678
+92.899334
+Rock
+Slide
+01 June 2025 
+23800
+MIZ/SER/84A16/2025/088
+Mizoram
+Serchhip
+Bungtlang
+23.180345
+92.900082
+Debris
+Slide
+01 June 2025 
+23801
+MIZ/SER/84A16/2025/089
+Mizoram
+Serchhip
+Bungtlang Vengsang
+23.187383
+92.89826
+Earth
+Slide
+01 June 2025 
+23802
+MIZ/SER/84A16/2025/090
+Mizoram
+Serchhip
+Bungtlang
+23.187762
+92.898034
+Earth
+slide
+01 June 2025 
+23803
+MIZ/SER/84A16/2025/091
+Mizoram
+Serchhip
+Bungtlang
+23.188273
+92.898879
+Earth
+Slide
+31 May 2025

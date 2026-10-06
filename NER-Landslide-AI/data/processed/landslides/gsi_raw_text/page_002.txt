@@ -1,0 +1,432 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+40
+ASM/HLK/83D09/2020/006
+Assam
+Hailakandi
+Chandipur Grant Slide 
+Bowarthar, Chandipur, Algapur 
+Circle. 
+24.79489
+92.55506
+Debris
+Slide
+02 June 2020
+41
+AS/DIM/83C16/2018/27
+Assam
+Cachar
+Lowajuri
+NH53
+24.795892
+93.045425
+Debris
+Slide
+NA
+42
+AS/DIM/83C16/2018/28
+Assam
+Cachar
+Lalpani
+NH53
+24.813648
+93.073009
+Debris
+Slide
+NA
+43
+ASM/CHR/83H01/2020/001
+Assam
+Cachar
+Kanakpur Slide
+Kanakpur Pt. III, Lakhipur, 
+Joypur
+24.92097
+93.07306
+Earth
+Slide
+02 June 2020
+44
+AS/CHR/83D13/2020/9
+Assam
+Cachar
+Haticherra slide
+NH-27(Old NH-54E, Silchar-
+Lumding road)
+24.93
+92.84
+Debris
+Slide
+NA
+45
+AS/CHR/83D09/2020/8
+Assam
+Cachar
+Borkola Cyan Nagar slide
+Borkola Cyan Nagar Natun Basti 24.95
+92.73
+Debris
+Slide
+2018
+46
+AS/CHR/83D13/2020/7
+Assam
+Cachar
+Subong slide
+Subong Tea Estate
+24.95
+92.8
+Debris
+Slide
+NA
+47
+AS/CHR/83D13/2020/5
+Assam
+Cachar
+Nagadun slide
+Nagadun
+24.96
+92.92
+Debris
+Slide
+NA
+48
+AS/CHR/83D09/2020/2
+Assam
+Cachar
+Bicrampore slide-1
+Bicrampore Tea Estate, near 
+BSF camp
+24.96
+92.7
+Debris
+Slide
+NA
+49
+AS/CHR/83D09/2020/3
+Assam
+Cachar
+Bicrampore Slide -2
+Bicrampore Tea Estate, near 
+BSF camp
+24.96
+92.7
+Debris
+Slide
+NA
+50
+AS/CHR/83D13/2020/4
+Assam
+Cachar
+Guabari slide-2
+Guabari (Naku nala)
+24.96
+92.95
+Debris
+Slide
+NA
+51
+AS/CHR/83D09/2020/1
+Assam
+Cachar
+Sonbari Slide
+Sonbari
+24.96
+92.66
+Debris
+Slide
+NA
+52
+AS/CHR/83D09/2020/5
+Assam
+Cachar
+Dinonatpur slide
+Dinonatpur
+24.96
+92.66
+Debris
+Slide
+NA
+53
+AS/CHR/83D13/2020/8
+Assam
+Cachar
+Tikal Nadi
+ONGC road
+24.96
+92.98
+Debris
+Slide
+NA
+54
+AS/CHR/83D13/2020/1
+Assam
+Cachar
+Balichhara slide-1
+NH-27(Old NH-54E, Silchar-
+Lumding road)
+24.97
+92.76
+Debris
+Slide
+NA
+55
+AS/CHR/83D09/2020/4
+Assam
+Cachar
+Narainchara grant slide
+Narainchara grant
+24.97
+92.72
+Debris
+Slide
+NA
+56
+AS/CHR/83D09/2020/6
+Assam
+Cachar
+Narainchora slide-1
+Narainchora
+24.97
+92.72
+Debris
+Slide
+NA
+57
+AS/CHR/83D09/2020/7
+Assam
+Cachar
+Naraichhora slide-2
+Narainchora
+24.97
+92.72
+Debris
+Slide
+2017
+58
+AS/CAC/83H01/2018/55
+Assam
+Cachar
+Lailongchara 3
+Lailongchara village
+24.97228
+93.03289
+Debris
+Slide
+NA
+59
+AS/CAC/83H01/2018/54
+Assam
+Cachar
+Lailongchara 2
+Near Lailongchara village
+24.97692
+93.033
+Rock
+Fall
+NA
+60
+AS/CAC/83H01/2018/53
+Assam
+Cachar
+Lailongchara 1
+NH53
+24.97714
+93.03344
+Debris
+Slide
+NA
+61
+AS/CHR/83D13/2020/6
+Assam
+Cachar
+Balichhara slide-3
+NH-27(Old NH-54E, Silchar-
+Lumding road)
+24.98
+92.75
+Debris
+Slide
+NA
+62
+AS/CHR/83D13/2020/3
+Assam
+Cachar
+Guabari slide-1
+Guabari
+24.98
+92.96
+Debris
+Slide
+NA
+63
+AS/CHR/83C12/2020/3
+Assam
+Cachar
+Ekala Basti slide
+Ekala Basti (Railway line)
+24.98
+92.72
+Debris
+Slide
+NA
+64
+AS/CHR/83D09/2020/9
+Assam
+Cachar
+Khurkurie slide
+Khurkurie
+24.99
+92.6
+Debris
+Slide
+NA
+65
+AS/CHR/83D05/2020/2
+Assam
+Cachar
+Tarapur slide
+Tarapur
+24.99
+92.45
+Debris
+Slide
+2016
+66
+AS/CHR/83D13/2020/2
+Assam
+Cachar
+Balichhara slide-2
+NH-27(Old NH-54E, Silchar-
+Lumding road)
+24.99
+92.75
+Debris
+Slide
+NA
+67
+AS/CAC/83H01/2018/42
+Assam
+Cachar
+Bara Arkap_1
+Raja Bazaar ΓÇôBara Arkap 
+road.
+24.993
+93.161583
+Debris
+Slide
+NA
+68
+AS/CAC/83H01/2018/43
+Assam
+Cachar
+Bara Arkap_2
+Raza Bazaar ΓÇôBara Arkap 
+Highway.
+24.99561
+93.16261
+Debris
+Slide
+NA
+69
+AS/CHR/83D05/2020/1
+Assam
+Cachar
+Natanpur slide
+Natanpur
+25
+92.43
+Debris
+Slide
+NA
+70
+AS/DIM/83G4/2015/61
+Assam
+Dima Hasao
+Jenam Ghat road
+State Highway, 3 km before 
+Jenam Ghat
+25.003
+93.164
+Earth
+Slide
+NA
+71
+AS/DIM/83G4/2015/33
+Assam
+Dima Hasao
+Nutan Leikul-6
+Nutan Leikul.NH-54
+25.008
+93.04
+Earth
+Slide
+2014
+72
+AS/CHR/83C12/2020/5
+Assam
+Cachar
+New Jatinga slide
+NH-27(Old NH-54E, Silchar-
+Lumding road)
+25.01
+92.75
+Debris
+Slide
+NA
+73
+AS/CHR/83C12/2020/6
+Assam
+Cachar
+NH -27 slide 2
+NH-27(Old NH-54E, Silchar-
+Lumding road)
+25.01
+92.75
+Debris
+Slide
+NA
+74
+AS/CHR/83C12/2020/7
+Assam
+Cachar
+NH -27 slide 1
+NH-27(Old NH-54E, Silchar-
+Lumding road)
+25.01
+92.75
+Debris
+Slide
+NA
+75
+AS/CHR/83C12/2020/4
+Assam
+Cachar
+Jatinga River slide-2
+Damchara
+25.01
+92.73
+Debris
+Slide
+NA
+76
+AS/DIM/83C16/2017/10
+Assam
+Dima Hasao
+Miyunkro1
+NH54
+25.010379
+92.75482
+Debris
+Slide
+NA

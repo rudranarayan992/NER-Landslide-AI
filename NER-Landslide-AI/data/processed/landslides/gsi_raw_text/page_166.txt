@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+7040
+HP/KUL/52H04/2015/191
+Himachal Pradesh
+Kullu
+ 
+Naggar - Patlikhul road
+32.108
+77.154
+Debris
+Slide
+NA
+7041
+HP/KUL/52H04/2015/192
+Himachal Pradesh
+Kullu
+ 
+Naggar - Patlikhul road
+32.1087
+77.1541
+Debris
+Slide
+NA
+7042
+HP/KUL/52H04/2015/193
+Himachal Pradesh
+Kullu
+ 
+Naggar - Patlikhul road
+32.1093
+77.1538
+Debris
+Slide
+NA
+7043
+HP/KAN/52D08/2018/91
+Himachal Pradesh
+Kangra
+ 
+ 
+32.109319
+76.488214
+Rock cum debris
+Slide
+2018
+7044
+HP/KAN/43P16/2020/17
+Himachal Pradesh
+Kangra
+Patti
+Sanjwan-Dini link road
+32.11
+75.8
+Debris
+Slide
+NA
+7045
+HP/KAN/52D12/2020/2
+Himachal Pradesh
+Kangra
+ 
+Binwa
+32.11
+76.66
+Debris
+Slide
+NA
+7046
+HP/KAN/52D12/2020/3
+Himachal Pradesh
+Kangra
+ 
+Binwa
+32.11
+76.66
+Rock
+Slide
+NA
+7047
+HP/KAN/52D12/2020/6
+Himachal Pradesh
+Kangra
+ 
+Utrala-Galau Tikkar Rd
+32.11
+76.63
+Debris
+Slide
+NA
+7048
+HP/KAN/52D12/2020/7
+Himachal Pradesh
+Kangra
+ 
+Utrala-Galau Tikkar Rd
+32.11
+76.63
+Debris
+Slide
+NA
+7049
+HP/KAN/52D12/2020/14
+Himachal Pradesh
+Kangra
+ 
+Utrala-Galau Tikkar Rd
+32.11
+76.63
+Debris
+Slide
+NA
+7050
+HP/KAN/52D12/2020/15
+Himachal Pradesh
+Kangra
+ 
+Utrala-Galau Tikkar Rd
+32.11
+76.62
+Debris
+Slide
+NA
+7051
+HP/KAN/52D12/2020/21
+Himachal Pradesh
+Kangra
+ 
+Binwa
+32.11
+76.66
+Debris
+Slide
+NA
+7052
+HP/KAN/52D08/2018/130
+Himachal Pradesh
+Kangra
+DARNOO
+PALAMPUR ROAD
+32.110388
+76.490495
+Rock cum debris
+Slide
+NA
+7053
+HP/KAN/52D08/2018/129
+Himachal Pradesh
+Kangra
+ARMY CANTONMENT
+NH 154
+32.1108
+76.31034
+Debris
+Slide
+NA
+7054
+HP/KAN/52D08/2018/138
+Himachal Pradesh
+Kangra
+NADDI
+NH 154
+32.11103
+76.3113
+Debris
+Slide
+NA
+7055
+HP/KAN/52D04/2018/126
+Himachal Pradesh
+Kangra
+ 
+Samleta
+32.111601
+76.158497
+Rock
+Slide
+NA
+7056
+HP/KAN/52D08/2018/88
+Himachal Pradesh
+Kangra
+ 
+BHAGOTLA
+32.11166
+76.488207
+Debris
+Slide
+NA
+7057
+HP/KAN/52D08/2018/90
+Himachal Pradesh
+Kangra
+ 
+ 
+32.112039
+76.48828
+Debris
+Slide
+NA
+7058
+HP/KAN/52D04/2018/131
+Himachal Pradesh
+Kangra
+ 
+North of Lanj, SH 23
+32.11216
+76.137797
+Rock
+Slide
+NA
+7059
+HP/KAN/52D08/2018/89
+Himachal Pradesh
+Kangra
+ 
+BHAGOTLA
+32.11242
+76.48828
+Rock
+Slide
+2018
+7060
+HP/KAN/52D08/2018/87
+Himachal Pradesh
+Kangra
+ 
+BHAGOTLA
+32.112744
+76.488209
+Debris
+Slide
+NA
+7061
+HP/KAN/52D04/2018/130
+Himachal Pradesh
+Kangra
+ 
+Manol, SH 23
+32.113208
+76.137608
+Rock
+Slide
+NA
+7062
+HP/KUL/52H04/2015/186
+Himachal Pradesh
+Kullu
+ 
+Naggar Castle road
+32.1161
+77.1936
+Rock
+Slide
+NA
+7063
+HP/KUL/52H04/2015/185
+Himachal Pradesh
+Kullu
+ 
+Naggar Castle road
+32.1165
+77.1944
+Debris
+Slide
+NA
+7064
+HP/KAN/52D08/2018/55
+Himachal Pradesh
+Kangra
+ 
+BHAGOTLA
+32.11653
+76.48993
+Debris
+Slide
+NA
+7065
+HP/KAN/52D08/2018/145
+Himachal Pradesh
+Kangra
+RAJHAUN
+BHAGOTLA
+32.116842
+76.489831
+Debris
+Slide
+NA
+7066
+HP/KUL/52H04/2015/188
+Himachal Pradesh
+Kullu
+ 
+Naggar Castle road
+32.1173
+77.1893
+Debris
+Slide
+NA
+7067
+HP/KAN/52D04/2018/162
+Himachal Pradesh
+Kangra
+ 
+Hamal
+32.118461
+76.032663
+Debris
+Slide
+NA
+7068
+HP/KAN/52D04/2018/163
+Himachal Pradesh
+Kangra
+ 
+Hamal
+32.118489
+76.032167
+Debris
+Slide
+NA
+7069
+HP/KUL/52H04/2015/187
+Himachal Pradesh
+Kullu
+ 
+Naggar Castle road
+32.1187
+77.1912
+Debris
+Slide
+NA
+7070
+HP/KAN/52D04/2018/27
+Himachal Pradesh
+Kangra
+ 
+West of Parai
+32.11895
+76.172328
+Rock
+Slide
+NA
+7071
+HP/KAN/52D08/2018/123
+Himachal Pradesh
+Kangra
+ 
+BHAGOTLA
+32.119212
+76.49013
+Debris
+Slide
+NA
+7072
+HP/KAN/52D04/2018/29
+Himachal Pradesh
+Kangra
+ 
+Bhorbal
+32.122483
+76.176075
+Rock
+Slide
+NA
+7073
+HP/KAN/52D04/2018/164
+Himachal Pradesh
+Kangra
+ 
+Badhala
+32.123854
+76.030334
+Debris
+Slide
+NA
+7074
+HP/KUL/52H04/2015/136
+Himachal Pradesh
+Kullu
+ 
+NH21
+32.1241
+77.151
+Debris
+Slide
+NA
+7075
+HP/KUL/52H04/2015/189
+Himachal Pradesh
+Kullu
+ 
+Sarsai-Baltha road
+32.1243
+77.1675
+Debris
+Creep
+NA
+7076
+HP/KUL/52H04/2015/137
+Himachal Pradesh
+Kullu
+ 
+NH21
+32.1263
+77.1527
+Debris
+Slide
+NA
+7077
+HP/KAN/52D04/2018/36
+Himachal Pradesh
+Kangra
+ 
+West of Chatreta
+32.127756
+76.171261
+Debris
+Slide
+NA
+7078
+HP/KAN/52D04/2018/37
+Himachal Pradesh
+Kangra
+ 
+West of Chatreta
+32.128064
+76.174364
+Rock
+Slide
+NA
+7079
+HP/KAN/52D04/2018/30
+Himachal Pradesh
+Kangra
+ 
+West of Chatreta
+32.129215
+76.176529
+Rock cum debris
+Slide
+NA
+7080
+HP/KAN/52D12/2020/8
+Himachal Pradesh
+Kangra
+ 
+Thala
+32.13
+76.53
+Debris
+Slide
+NA
+7081
+HP/KAN/52D04/2018/101
+Himachal Pradesh
+Kangra
+ 
+Tiara R. F
+32.130578
+76.223767
+Debris
+Slide
+NA
+7082
+HP/KUL/52H04/2015/178
+Himachal Pradesh
+Kullu
+ 
+Manali-Naggar Road
+32.1325
+77.1722
+Rock
+Slide
+NA
+7083
+HP/KAN/52D04/2018/165
+Himachal Pradesh
+Kangra
+ 
+Badhala
+32.13397
+76.027752
+Debris
+Slide
+NA
+7084
+HP/KAN/43P16/2020/3
+Himachal Pradesh
+Kangra
+Bhatoli
+Near Bhatoli
+32.14
+75.88
+Debris
+Slide
+2016
+7085
+HP/KAN/43P16/2020/16
+Himachal Pradesh
+Kangra
+ 
+Bhatili
+32.14
+75.88
+Debris
+Slide
+NA
+7086
+HP/KUL/52H04/2015/132
+Himachal Pradesh
+Kullu
+ 
+Kathor-Shil road
+32.1401
+77.1184
+Rock
+Slide
+NA
+7087
+HP/KAN/52D04/2018/38
+Himachal Pradesh
+Kangra
+ 
+Balta
+32.140765
+76.195255
+Rock cum debris
+Slide
+NA
+7088
+HP/KAN/52D04/2018/132
+Himachal Pradesh
+Kangra
+ 
+Jhroli
+32.145327
+76.137115
+Rock
+Slide
+NA
+7089
+HP/KAN/52D04/2018/39
+Himachal Pradesh
+Kangra
+ 
+Kolha
+32.146207
+76.191258
+Debris
+Slide
+NA
+7090
+HP/KAN/52D12/2020/18
+Himachal Pradesh
+Kangra
+ 
+Thala
+32.15
+76.53
+Debris
+Slide
+NA

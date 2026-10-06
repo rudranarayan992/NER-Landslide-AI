@@ -1,0 +1,491 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15442
+KL/TSR/58B/07/2019/39
+Kerala
+Thrissur
+Puttankadu slide2
+Puttankadu village
+10.48781389
+76.32260278
+Debris
+Slide  
+15 August 2018
+15443
+KL/TSR/58B/07/2019/40
+Kerala
+Thrissur
+Puttankadu slide3
+Puttankadu village
+10.48766111
+76.32200556
+Debris
+Slide  
+NA
+15444
+KL/TSR/58B/07/2019/41
+Kerala
+Thrissur
+Puttankadu subsidence 
+Puttankadu village
+10.48451389
+76.32183333
+Soil 
+Subsidence 
+15th August 2018
+15445
+KL/TSR/58B/07/2019/42
+Kerala
+Thrissur
+Puttankadu slide4
+Puttankadu village
+10.48055833
+76.32093056
+Debris
+Slide  
+15th August 2018
+15446
+KL/TSR/58B/07/2019/43
+Kerala
+Thrissur
+Puttankadu debris flow1
+Puttankadu village
+10.47969444
+76.32331667
+Debris
+Flow 
+15th August 2018
+15447
+KL/TSR/58B/07/2019/44
+Kerala
+Thrissur
+Puttankadu debris flow2
+Puttankadu village
+10.47921667
+76.32351667
+Debris
+Flow 
+15th August 2018
+15448
+KL/TSR/58B/06/2019/45
+Kerala
+Thrissur
+Kainur Slide
+Kainur village
+10.50057778
+76.28667222
+Debris
+Slide 
+15th August 2018
+15449
+KL/TSR/58B/06/2019/46
+Kerala
+Thrissur
+Vattappara Slide1
+Vattappara village
+10.51589722
+76.30816944
+Debris
+Slide 
+15th August 2018
+15450
+KL/TSR/58B/06/2019/47
+Kerala
+Thrissur
+Vattappara Slide2
+Vattappara village
+10.51630833
+76.31001944
+Debris
+Slide 
+15th August 2018
+15451
+KL/TSR/58B/06/2019/48
+Kerala
+Thrissur
+Peechi slide 
+Peechi 
+10.53402778
+76.36093611
+Soil 
+Subsidence  
+15th August 2018
+15452
+KL/TSR/58B/06/2019/49
+Kerala
+Thrissur
+Pullankandu slide 
+Madakkathara  village 
+10.59210833
+76.30595556
+Rock cum debris 
+Flow 
+15th August 2018
+15453
+KL/TSR/58B/06/2019/50
+Kerala
+Thrissur
+Pazhayanoopadam slide 
+Manalithara village 
+10.61500833
+76.2926
+Debris
+Slide  
+15th August 2018
+15454
+KL/TSR/58B/06/2019/51
+Kerala
+Thrissur
+Kallidukk slide 
+Thanipadam village 
+10.55973611
+76.34181389
+Debris
+Slide  
+15th August 2018
+15455
+KL/TSR/58B/06/2019/52(1)
+Kerala
+Thrissur
+Aayod debris flows  
+Aayod, Poonchira village.
+10.56352778
+76.34280556
+Debris
+Slide  
+15th August 2018
+15456
+KL/TSR/58B/06/2019/52(2)
+Kerala
+Thrissur
+Aayod debris flows  
+Aayod, Poonchira village.
+10.56356111
+76.34336389
+Debris
+Slide  
+15th August 2018
+15457
+KL/TSR/58B/06/2019/53
+Kerala
+Thrissur
+Poovanchira slide 
+Poovanchira village 
+10.57234444
+76.35405
+soil
+slide  
+15th August 2018
+15458
+KL/TSR/58B/06/2019/54
+Kerala
+Thrissur
+Poovanchira slide  2
+Poovanchira village 
+10.58056389
+76.352325
+Rock cum debris
+Flow
+15th August 2018
+15459
+KL/TSR/58B/06/2019/55
+Kerala
+Thrissur
+Vazhukkupara slide
+Vazhukkupara village 
+10.57592778
+76.37895556
+Soil
+Slide
+15th August 2018
+15460
+KL/TSR/58B/06/2019/56
+Kerala
+Thrissur
+Kuthiranmala temple slide
+Kuthiran village 
+10.57672222
+76.38002222
+Debris
+slide
+15th August 2018
+15461
+KL/TSR/58B/06/2019/57
+Kerala
+Thrissur
+Kuthiran slide
+Kuthiran village 
+10.57328611
+76.38566389
+Debris
+slide
+15th August 2018
+15462
+KL/TSR/58B/06/2019/58
+Kerala
+Thrissur
+Kuthiran slide 2
+Kuthiran village 
+10.57715833
+76.40607222
+Debris
+Slide
+15th August 2018
+15463
+KL/TSR/58B/06/2019/59(1)
+Kerala
+Thrissur
+Kuthiran tunnel slides
+Kuthiran village 
+10.57211111
+76.40366667
+Debris
+Slide
+15th August 2018
+15464
+KL/TSR/58B/06/2019/59(2)
+Kerala
+Thrissur
+Kuthiran tunnel slides
+Kuthiran village 
+10.57211111
+76.40366667
+Debris
+Slide
+15th August 2018
+15465
+KL/TSR/58B/06/2019/60
+Kerala
+Thrissur
+Kuthiran slide 3
+Kuthiran village 
+10.57055556
+76.37544444
+Debris
+Slide
+15th August 2018
+15466
+KL/TSR/58B/06/2019/61
+Kerala
+Thrissur
+Kuthiran slide 4
+Kuthiran village 
+10.57009722
+76.37508889
+Debris
+Slide
+15th August 2018
+15467
+KL/TSR/58B/06/2019/62
+Kerala
+Thrissur
+Uravanpadam slide
+Kuthiran village 
+10.55409722
+76.37019167
+Debris
+flow
+15th August 2018
+15468
+KL/TSR/58B/07/2019/63, 64, 65, 
+66, 67, 68
+Kerala
+Thrissur
+Pulikanni subsidence 
+Pulikanni
+10.43885833
+76.36256667
+Soil 
+Subsidence 
+15th August 2018
+15469
+KL/TSR/58B/06/2019/69
+Kerala
+Thrissur
+Chimmini slide
+West of Chimmini reservoir,  
+Mukundapuram
+10.439975
+76.43793889
+Debris
+flow
+15th August 2018
+15470
+KL/TSR/58B/02/2019/70
+Kerala
+Thrissur
+Kuranchery slide
+Kuranchery-Nayarangadi road 
+near Shornur-Kodungallur SH.
+10.62977778
+76.23077778
+Debris
+Slide
+15th August 2018
+15471
+KL/TSR/58B/06/2019/71
+Kerala
+Thrissur
+Pallam slide 1
+Pallam
+10.74039722
+76.23532778
+Debris
+Slide
+15th August 2018
+15472
+KL/TSR/58B/02/2019/72
+Kerala
+Thrissur
+Pallam slide 2
+Pallam
+10.74073056
+76.23487778
+Debris
+Slide
+15th August 2018
+15473
+KL/TSR/58B/06/2019/73
+Kerala
+Thrissur
+Pallam slide 2
+Pallam
+10.74073056
+76.23487778
+Debris
+Slide
+15th August 2018
+15474
+KL/TSR/58B/06/2019/74
+Kerala
+Thrissur
+Chottupara slide
+Konchery-Chottupara road
+10.59479444
+76.24233333
+Debris
+Slide
+15th August 2018
+15475
+KL/TSR/58B/06/2019/75
+Kerala
+Thrissur
+Thaalikode slide
+Thalikode, Pattikadu
+10.5643
+76.30727222
+Rock cum debris
+Slide
+16th August 2018
+15476
+KL/TSR/58B/06/2019/76
+Kerala
+Thrissur
+Thaalikode slide 2
+Mudikode-Thalikode road, 
+TEAMS global village academy
+10.56536667
+76.30219722
+Debris
+Slide
+16th August 2018
+15477
+KL/TSR/58B/06/2019/77
+Kerala
+Thrissur
+Anand Nagar slide
+Anand Nagar, Madakkathara.
+10.57015556
+76.29810556
+Debris
+Flow
+16th August 2018
+15478
+KL/TSR/58B/06/2019/78
+Kerala
+Thrissur
+Kurumala debris flow
+Kurumala
+10.672875
+76.33805556
+Debris
+Flow
+16th August 2018
+15479
+KL/TSR/58B/07/2019/79
+Kerala
+Thrissur
+Chittaakkunnu
+Chittaakkunnu, 
+Mannamangalam
+10.47962778
+76.32351944
+Debris
+Flow
+16th August 2018
+15480
+KL/TSR/58B/07/2019/80
+Kerala
+Thrissur
+Chittaakkunnu slide 2
+Chittaakkunnu, 
+Mannamangalam
+10.48003333
+76.32395278
+Debris
+flow
+16th August 2018
+15481
+KER/WYD/58A2/2018/23
+Kerala
+Wayanad
+Vythiri busstand
+NH-212
+11.55277778
+76.03888889
+Debris
+Slide
+09 August 2018
+15482
+KER/WYD/58A2/2018/24
+Kerala
+Wayanad
+Ammara anganvadi
+Chundale-Anoth Road
+11.58477778
+76.03427778
+Debris
+Slide
+09 August 2018
+15483
+KER/WYD/58A2/2018/25
+Kerala
+Wayanad
+Chundel estate 2
+Chundale-Anoth Road
+11.58519444
+76.039
+Debris
+Slide
+09 August 2018
+15484
+KER/WYD/58A2/2018/26
+Kerala
+Wayanad
+Chundel estate 3
+Chundale-Anoth Road
+11.58455556
+76.03836111
+Debris
+Slide
+09 August 2018

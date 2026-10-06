@@ -1,0 +1,487 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20293
+MEG/EKH/78O14/2024/01
+Meghalaya
+East Khasi Hills
+NA
+NA
+25.6251
+91.9118
+Slope cut debris
+(weathered 
+quartzite)
+Slide
+27 May 2024
+20294
+MG/WKH/78K14/2018/6
+Meghalaya
+West Khasi Hills
+North of Ginulgithim
+NA
+25.625142
+90.791675
+Soil
+Slide
+2018
+20295
+MG/WKH/78O02/2017/9
+Meghalaya
+West Khasi Hills
+1.2 km NE of Mawruksoin
+Riwang  Langpih road
+25.625331
+91.182614
+Debris
+Slide
+2017
+20296
+MEGH/EKH/78O14/2007/D-24
+Meghalaya
+East Khasi Hills
+Mawiong slide
+ 
+25.626417
+91.887028
+Debris
+Slide
+NA
+20297
+MG/WKH/78O02/2017/72
+Meghalaya
+West Khasi Hills
+1.4 km E of Patharkhnang
+NH44E
+25.626767
+91.165211
+Debris
+Slide
+NA
+20298
+ME/EKJ/78O14/2015/01
+Meghalaya
+East Khasi Hills
+ 
+Lum- Diengei Rd
+25.626794
+91.829725
+Rock
+Slide
+NA
+20299
+ME/EKJ/78O14/2015/48
+Meghalaya
+East Khasi Hills
+ 
+old shillong -guwahati road
+25.627946
+91.876487
+Debris
+Slide
+NA
+20300
+MG/WKH/78O02/2017/97
+Meghalaya
+West Khasi Hills
+0.7 km S of Umdein
+NH44E
+25.628361
+91.037139
+Debris
+Slide
+NA
+20301
+MG/WKH/78O02/2017/73
+Meghalaya
+West Khasi Hills
+1.3 km E of Patharkhnang
+NH44E
+25.628758
+91.164169
+Debris
+Slide
+NA
+20302
+MG/WKH/78O02/2017/96
+Meghalaya
+West Khasi Hills
+0.6 km S of Umdein
+NH44E
+25.629003
+91.037664
+Debris
+Slide
+NA
+20303
+MG/WKH/78O02/2017/28
+Meghalaya
+West Khasi Hills
+1.3 km NE of Patharkhnang
+NH44E
+25.629683
+91.163172
+Debris
+Slide
+NA
+20304
+MG/WGH/78K06/2020/9
+Meghalaya
+West Garo Hills
+Rongram-Jengjal road slide 9
+NH-217,Paikan-Tura Dalu Road
+25.63
+90.33
+Debris
+Slide
+NA
+20305
+MG/WGH/78K06/2020/10
+Meghalaya
+West Garo Hills
+Rongram-Jengjal road slide 10
+NH-217,Paikan-Tura Dalu Road
+25.63
+90.33
+Rock
+Slide
+NA
+20306
+ME/EKJ/78O14/2015/49
+Meghalaya
+East Khasi Hills
+ 
+old shillong -guwahati road
+25.630652
+91.87886
+Debris
+Slide
+NA
+20307
+MG/WKH/78O02/2017/27
+Meghalaya
+West Khasi Hills
+1.5 km NE of Patharkhnang
+NH44E
+25.632286
+91.162786
+Debris
+Slide
+NA
+20308
+ME/EKJ/78O14/2015/19
+Meghalaya
+East Khasi Hills
+ 
+NH-40
+25.633896
+91.891833
+Debris
+Slide
+2015
+20309
+MG/EGH/78K14/2018/5
+Meghalaya
+East Garo hills
+East of Achengbok
+NULL
+25.635556
+90.807778
+Soil
+Slide
+NA
+20310
+MG/WKH/78O02/2017/26
+Meghalaya
+West Khasi Hills
+3 km SE of Seinduli
+NH44E
+25.636747
+91.162711
+Rock
+Slide
+2017
+20311
+ME/EKJ/78O14/2015/03
+Meghalaya
+East Khasi Hills
+ 
+Lum- Diengei Rd
+25.636913
+91.843235
+Debris
+Slide
+NA
+20312
+ME/EKJ/78O14/2015/02
+Meghalaya
+East Khasi Hills
+ 
+Lum- Diengei Rd
+25.637026
+91.844464
+Debris
+Slide
+2015
+20313
+ME/EKJ/78O14/2015/29
+Meghalaya
+East Khasi Hills
+ 
+Mawatawar- Bhoilymbong Rd
+25.637189
+91.93345
+Debris
+Slide
+NA
+20314
+ME/EKJ/78O14/2015/04
+Meghalaya
+East Khasi Hills
+ 
+Lum- Diengei Rd
+25.637274
+91.844234
+Debris
+Slide
+NA
+20315
+ME/EKJ/78O14/2015/31
+Meghalaya
+East Khasi Hills
+ 
+Mawatawar- Bhoilymbong Rd
+25.637365
+91.932235
+Debris
+Slide
+NA
+20316
+ME/EKJ/78O14/2015/30
+Meghalaya
+East Khasi Hills
+ 
+Mawatawar- Bhoilymbong Rd
+25.637779
+91.932565
+Debris
+Slide
+NA
+20317
+MG/WKH/78O02/2017/95
+Meghalaya
+West Khasi Hills
+1 km NE of Umdein
+NH44E
+25.639417
+91.044806
+Debris
+Slide
+NA
+20318
+ME/EKJ/78O14/2015/05
+Meghalaya
+East Khasi Hills
+ 
+Lum- Diengei Rd
+25.640264
+91.848588
+Rock
+Slide
+NA
+20319
+ME/EKJ/78O14/2015/51
+Meghalaya
+East Khasi Hills
+ 
+NH-40
+25.641194
+91.890667
+Debris
+Slide
+NA
+20320
+ME/EKJ/78O14/2015/06
+Meghalaya
+East Khasi Hills
+ 
+Lum- Diengei Rd
+25.641388
+91.854928
+Rock
+Slide
+NA
+20321
+ME/EKJ/78O14/2015/07
+Meghalaya
+East Khasi Hills
+ 
+Lum- Diengei Rd
+25.64213
+91.851852
+Debris
+Slide
+NA
+20322
+ME/EKJ/78O14/2015/08
+Meghalaya
+East Khasi Hills
+ 
+Lum- Diengei Rd
+25.642198
+91.851055
+Debris
+Slide
+NA
+20323
+MG/WKH/78O02/2017/74
+Meghalaya
+West Khasi Hills
+1.7 km SE of Tumtum
+NH44E
+25.643494
+91.159222
+Debris
+Slide
+NA
+20324
+ME/EKJ/78O14/2015/20
+Meghalaya
+East Khasi Hills
+ 
+NH-40
+25.643591
+91.890859
+Debris
+Slide
+NA
+20325
+ME/EKJ/78O14/2015/50
+Meghalaya
+East Khasi Hills
+ 
+ 
+25.64366
+91.899342
+Rock
+Slide
+NA
+20326
+MG/WKH/78O02/2017/75
+Meghalaya
+West Khasi Hills
+1.6 km SE of Tumtum
+NH44E
+25.644222
+91.158528
+Debris
+Slide
+NA
+20327
+MG/WKH/78O02/2017/82
+Meghalaya
+West Khasi Hills
+1.1 km NW of Sinduli
+NH44E
+25.644833
+91.134778
+Debris
+Slide
+NA
+20328
+MG/WKH/78O02/2017/76
+Meghalaya
+West Khasi Hills
+1.5 km E of Tumtum
+NH44E
+25.644944
+91.158153
+Debris
+Slide
+NA
+20329
+ME/EKH/83C03/2015/184
+Meghalaya
+East Khasi Hills
+ 
+ 
+25.64575
+92.071167
+Debris
+Slide
+NA
+20330
+MG/WKH/78O02/2017/77
+Meghalaya
+West Khasi Hills
+1.4 km E of Tumtum
+NH44E
+25.6466
+91.157592
+Debris
+Slide
+NA
+20331
+MG/WKH/78O02/2017/94
+Meghalaya
+West Khasi Hills
+1.3 km E of porshieh
+NH44E
+25.647514
+91.055144
+Soil
+Slide
+NA
+20332
+MEG/EKH/78O10/2021/03
+Meghalaya
+East Khasi Hills
+NA
+NA
+25.64906111
+91.89733611
+Rock
+Slide
+August 2019 & July 2020
+20333
+MEG/EKH/78O14/2021/02
+Meghalaya
+East Khasi Hills
+NA
+NA
+25.64908889
+91.899
+Debris
+Slide
+July 2020
+20334
+ME/EKJ/78O14/2015/21
+Meghalaya
+East Khasi Hills
+ 
+NH-40
+25.649222
+91.899
+Debris
+Slide
+NA
+20335
+MG/WKH/78O02/2017/78
+Meghalaya
+West Khasi Hills
+1.3 km SE of Seinduli
+NH44E
+25.649856
+91.154383
+Debris
+Slide
+NA

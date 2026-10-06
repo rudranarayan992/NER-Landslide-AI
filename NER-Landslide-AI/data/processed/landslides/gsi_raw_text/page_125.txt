@@ -1,0 +1,542 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+5073
+HP/MAN/53E03/2015/331
+Himachal Pradesh
+Mandi
+ 
+ 
+31.3535
+77.011028
+Rock
+Slide
+NA
+5074
+HP/MAN/53E03/2015/78
+Himachal Pradesh
+Mandi
+ 
+ 
+31.353596
+77.053735
+Debris
+Slide
+NA
+5075
+HP/MAN/53E03/2015/48
+Himachal Pradesh
+Mandi
+ 
+ 
+31.353679
+77.012941
+Debris
+Slide
+NA
+5076
+HP/MAN/53E03/2015/333
+Himachal Pradesh
+Mandi
+ 
+ 
+31.354861
+77.018667
+Rock
+Slide
+NA
+5077
+HP/MAN/53E03/2015/334
+Himachal Pradesh
+Mandi
+ 
+ 
+31.354917
+77.02025
+Rock
+Slide
+NA
+5078
+HP/MAN/53E03/2015/332
+Himachal Pradesh
+Mandi
+ 
+ 
+31.355139
+77.01675
+Rock
+Slide
+NA
+5079
+HP/MAN/53A15/2015/65
+Himachal Pradesh
+Mandi
+ 
+ 
+31.355227
+76.927341
+Debris
+Slide
+NA
+5080
+HP/BIL/53A11/2018/24
+Himachal Pradesh
+Bilaspur
+ 
+Near Kallar
+31.35556
+76.724121
+Debris
+Slide
+NA
+5081
+HP/SHI/53E11/2016/22
+Himachal Pradesh
+Shimla
+ 
+Sarot Dhar
+31.356111
+77.69875
+Debris
+Fall
+NA
+5082
+HP/SOL/53A15/2015/43
+Himachal Pradesh
+Solan
+ 
+ 
+31.356537
+76.882982
+Debris
+Slide
+NA
+5083
+HP/BIL/53A15/2015/163
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.357787
+76.806054
+Debris
+Slide
+NA
+5084
+HP/MAN/53A15/2015/171
+Himachal Pradesh
+Mandi
+ 
+ 
+31.358383
+76.931037
+Debris
+Slide
+NA
+5085
+HP/MAN/53E03/2015/337
+Himachal Pradesh
+Mandi
+ 
+ 
+31.359778
+77.025889
+Earth
+Creep
+NA
+5086
+HP/SOL/53A15/2015/203
+Himachal Pradesh
+Solan
+ 
+ 
+31.360083
+76.894611
+Debris
+Slide
+NA
+5087
+HP/MAN/53E03/2015/338
+Himachal Pradesh
+Mandi
+ 
+ 
+31.360222
+77.025167
+Debris
+Slide
+NA
+5088
+HP/SOL/53A15/2015/140
+Himachal Pradesh
+Solan
+ 
+ 
+31.360265
+76.893557
+Debris
+Slide
+NA
+5089
+HP/SOL/53A15/2015/139
+Himachal Pradesh
+Solan
+ 
+ 
+31.361221
+76.8777
+Debris
+Slide
+NA
+5090
+HP/MAN/53E03/2015/245
+Himachal Pradesh
+Mandi
+ 
+ 
+31.361917
+77.068167
+Rock
+Slide
+NA
+5091
+HP/MAN/53E07/2016/5
+Himachal Pradesh
+Mandi
+ 
+Teshan, NH 305
+31.36225
+77.397833
+Debris
+Slide
+NA
+5092
+HP/SHI/53E11/2016/89
+Himachal Pradesh
+Shimla
+ 
+Chokaru
+31.362389
+77.710194
+Rock
+Slide
+NA
+5093
+HP/MAN/53E07/2016/83
+Himachal Pradesh
+Mandi
+ 
+Jachh
+31.362583
+77.294139
+Rock
+Slide
+NA
+5094
+HP/SOL/53A15/2015/46
+Himachal Pradesh
+Solan
+ 
+ 
+31.36262
+76.877068
+Debris
+Slide
+NA
+5095
+HP/SHI/53E15/2016/19
+Himachal Pradesh
+Shimla
+ 
+Maralu Khaddarkali - Taklech 
+Link road
+31.3637
+77.7947
+Debris
+Slide
+NA
+5096
+HP/MAN/53E03/2015/339
+Himachal Pradesh
+Mandi
+ 
+ 
+31.364056
+77.020861
+Debris
+Slide
+NA
+5097
+HP/MAN/53A15/2015/135
+Himachal Pradesh
+Mandi
+ 
+ 
+31.364306
+76.873361
+Rock
+Slide
+2015
+5098
+HP/BIL/53A15/2015/132
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.364643
+76.808144
+Debris
+Slide
+NA
+5099
+HP/MAN/53E07/2016/17
+Himachal Pradesh
+Mandi
+ 
+Kelodhar
+31.365111
+77.268833
+Rock
+Slide
+NA
+5100
+HP/MAN/53E03/2015/246
+Himachal Pradesh
+Mandi
+ 
+ 
+31.365167
+77.065167
+Rock
+Slide
+NA
+5101
+HP/MAN/53A15/2015/48
+Himachal Pradesh
+Mandi
+ 
+ 
+31.366101
+76.879948
+Debris
+Slide
+NA
+5102
+HP/MAN/53A15/2015/47
+Himachal Pradesh
+Mandi
+ 
+ 
+31.366587
+76.879689
+Debris
+Slide
+NA
+5103
+HP/MAN/53E03/2015/341
+Himachal Pradesh
+Mandi
+ 
+ 
+31.366806
+77.016694
+Rock
+Slide
+NA
+5104
+HP/MAN/53E03/2015/340
+Himachal Pradesh
+Mandi
+ 
+ 
+31.367278
+77.016972
+Rock
+Slide
+NA
+5105
+HP/SHI/53E15/2016/71
+Himachal Pradesh
+Shimla
+ 
+Darkali village, Darkali - Taklech 
+link road
+31.3674
+77.7945
+Debris
+Flow
+NA
+5106
+HP/MAN/53A15/2015/199
+Himachal Pradesh
+Mandi
+ 
+ 
+31.367631
+76.991875
+Debris
+Slide
+NA
+5107
+HP/MAN/53A15/2015/138
+Himachal Pradesh
+Mandi
+ 
+ 
+31.367771
+76.87573
+Debris
+Slide
+NA
+5108
+HP/BIL/53A11/2018/21
+Himachal Pradesh
+Bilaspur
+ 
+Near Tarer village
+31.368176
+76.728395
+Debris
+Slide
+NA
+5109
+HP/MAN/53A15/2015/200
+Himachal Pradesh
+Mandi
+ 
+ 
+31.368361
+76.990944
+Debris
+Slide
+NA
+5110
+HP/MAN/53A15/2015/15
+Himachal Pradesh
+Mandi
+ 
+ 
+31.368378
+76.875522
+Debris
+Slide
+NA
+5111
+HP/MAN/53A15/2015/13
+Himachal Pradesh
+Mandi
+ 
+ 
+31.368465
+76.875437
+Debris
+Slide
+NA
+5112
+HP/MAN/53A15/2015/14
+Himachal Pradesh
+Mandi
+ 
+ 
+31.368587
+76.87524
+Debris
+Slide
+NA
+5113
+HP/SHI/53E15/2016/44
+Himachal Pradesh
+Shimla
+ 
+Bayasu hill
+31.3691
+77.8744
+Rock
+Slide
+NA
+5114
+HP/SHI/53E15/2016/6
+Himachal Pradesh
+Shimla
+ 
+Radoli village road
+31.3693
+77.7828
+Debris
+Fall
+NA
+5115
+HP/MAN/53A15/2015/9
+Himachal Pradesh
+Mandi
+ 
+ 
+31.369431
+76.875083
+Debris
+Slide
+NA
+5116
+HP/MAN/53A15/2015/12
+Himachal Pradesh
+Mandi
+ 
+ 
+31.36962
+76.874834
+Debris
+Slide
+NA
+5117
+HP/MAN/53A15/2015/41
+Himachal Pradesh
+Mandi
+ 
+ 
+31.369734
+76.90843
+Debris
+Slide
+NA
+5118
+HP/MAN/53A15/2015/137
+Himachal Pradesh
+Mandi
+ 
+ 
+31.369978
+76.874833
+Rock
+Slide
+NA
+5119
+HP/BIL/53A11/2018/29
+Himachal Pradesh
+Bilaspur
+ 
+Tarer
+31.37013
+76.730505
+Debris
+Slide
+NA
+5120
+HP/BIL/53A11/2018/43
+Himachal Pradesh
+Bilaspur
+ 
+Balagad
+31.370313
+76.607073
+Rock
+Slide
+NA

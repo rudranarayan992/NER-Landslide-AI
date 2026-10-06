@@ -1,0 +1,242 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14061
+KRL/PKD/58B10/2018/109
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.526197
+76.639938
+rock cum debris
+Flow
+Initiated on 16/8/2018, 
+14062
+KRL/PKD/58B10/2018/110
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.52625
+76.640712
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14063
+KRL/PKD/58B10/2018/111
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.52859
+76.643365
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14064
+KRL/PKD/58B10/2018/112
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.52845
+76.644182
+Debris
+slide
+Initiated on 16/8/2018, 
+14065
+KRL/PKD/58B10/2018/113
+Kerala
+Palakkad
+Near Pothundi Reservoir area
+10.547798
+76.665388
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14066
+KRL/PKD/58B10/2018/114
+Kerala
+Palakkad
+Near Pothundi Reservoir area
+10.548483
+76.66505
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14067
+KRL/PKD/58B10/2018/115
+Kerala
+Palakkad
+Near Pothundi Reservoir area
+10.543345
+76.666954
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14068
+KRL/PKD/58B10/2018/116
+Kerala
+Palakkad
+Near Pothundi Reservoir area
+10.536763
+76.665423
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14069
+KRL/PKD/58B10/2018/117
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.527033
+76.646188
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14070
+KRL/PKD/58B10/2018/118
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.525447
+76.6469
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14071
+KRL/PKD/58B10/2018/119
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.523768
+76.6528
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14072
+KRL/PKD/58B10/2018/120
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.525205
+76.64719
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14073
+KRL/PKD/58B10/2018/121
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.523018
+76.648022
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14074
+KRL/PKD/58B10/2018/122
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.52281
+76.648173
+Debris
+slide
+Initiated on 16/8/2018, 
+14075
+KRL/PKD/58B10/2018/123
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.522207
+76.64859
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14076
+KRL/PKD/58B10/2018/124
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.522236
+76.649148
+Debris
+slide
+Initiated on 16/8/2018, 
+14077
+KRL/PKD/58B10/2018/125
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.524426
+76.653293
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14078
+KRL/PKD/58B10/2018/126
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.525053
+76.653811
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14079
+KRL/PKD/58B10/2018/127
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.53758
+76.67444
+Debris
+Subsidence
+Initiated on 16/8/2018, 
+14080
+KRL/PKD/58B10/2018/128
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy
+10.547612
+76.664617
+rock cum debris
+slide
+Initiated on 16/8/2018, 

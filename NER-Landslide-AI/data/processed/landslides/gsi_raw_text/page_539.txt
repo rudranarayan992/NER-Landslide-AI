@@ -1,0 +1,306 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21555
+MZ/CHA/84E07/2017/13
+Mizoram
+Champhai
+ 
+3.5 km north of Khuangleng
+23.304833
+93.306778
+Debris
+Slide
+NA
+21556
+MZ/CHA/84E07/2017/4
+Mizoram
+Champhai
+ 
+Khaungleng (near health centre) 23.305111
+93.311528
+Debris
+Slide
+NA
+21557
+MZ/SER/84A15/2016/2
+Mizoram
+Serchhip
+ 
+About 1.6km East of Mat River 
+Bridge (DGM Gate), SH 
+Thenzawl-Serchhip Road
+23.305259
+92.809736
+Debris
+Slide
+2016
+21558
+MZ/CHA/84E07/2017/119
+Mizoram
+Champhai
+ 
+4km north of Khuangleng
+23.30622
+93.294554
+Debris
+Slide
+NA
+21559
+MZ/CHA/84E07/2017/103
+Mizoram
+Champhai
+ 
+KhuanglengChamphai Rd
+23.306444
+93.303889
+Rock
+Slide
+NA
+21560
+MZ/CHA/84E07/2017/110
+Mizoram
+Champhai
+Khuangleng slide
+Khuangleng
+23.306444
+93.311639
+Rock
+Slide
+NA
+21561
+MZ/SER/84A15/2016/117
+Mizoram
+Serchhip
+ 
+East of Tlawng River Bridge, SH-
+Thenzawl-Buarpui Road
+23.306654
+92.707482
+Rock
+Fall
+NA
+21562
+MZ/CHA/84E07/2017/91
+Mizoram
+Champhai
+ 
+Khuangleng area
+23.307833
+93.311672
+Rock
+Slide
+NA
+21563
+MZ/SER/84A15/2016/118
+Mizoram
+Serchhip
+ 
+East of Tlawng River Bridge, SH-
+Thenzawl-Buarpui Road
+23.308202
+92.731268
+Rock
+Slide
+2016
+21564
+MZ/SER/84A15/2016/35
+Mizoram
+Serchhip
+ 
+About 100m  South of Assam 
+rifeles Camp, Chanmari Veng, 
+Serchhip-DIET Road
+23.308769
+92.862258
+Rock
+Slide
+2016
+21565
+MZ/SER/84A15/2016/34
+Mizoram
+Serchhip
+ 
+About 50m West of dumping 
+site, Chanmari veng, Serchhip-
+DIET Road
+23.309091
+92.86293
+Debris
+Slide
+2016
+21566
+MZ/CHA/84E07/2017/84
+Mizoram
+Champhai
+ 
+0.8km north of Khuangleng
+23.310167
+93.311889
+Rock
+Slide
+2017
+21567
+MZ/CHA/84E07/2017/74
+Mizoram
+Champhai
+ 
+North of Khuangleng
+23.310611
+93.312
+Rock
+Slide
+NA
+21568
+MZ/CHA/84E07/2017/59
+Mizoram
+Champhai
+ 
+Khuangleng  Seisa road
+23.311082
+93.323501
+Debris
+Slide
+NA
+21569
+MZ/CHA/84E07/2017/3
+Mizoram
+Champhai
+ 
+Khuangleng (Sesih 8km mile 
+stone)
+23.311604
+93.313134
+Rock
+Slide
+NA
+21570
+MZ/CHA/84E07/2017/1
+Mizoram
+Champhai
+ 
+Khuangleng  Seisa road
+23.312747
+93.314456
+Debris
+Slide
+NA
+21571
+MZ/SER/84A15/2016/42
+Mizoram
+Serchhip
+ 
+P & E Veng,(Power and Electric 
+department), Serchhip
+23.314208
+92.858096
+Rock
+Slide
+2016
+21572
+MZ/SER/84A15/2016/1
+Mizoram
+Serchhip
+ 
+About 50m East of Mat River 
+Bridge (DGM Gate), SH 
+Thenzawl-Serchhip Road
+23.314408
+92.808662
+Rock
+Slide
+2016
+21573
+MZ/SER/84A15/2016/126
+Mizoram
+Serchhip
+ 
+About 1.7km Northwest of 
+Serchhip road junction, SH-
+Aizawl-Thenzawl-Lunglei Road
+23.315355
+92.786906
+Rock
+Slide
+2016
+21574
+MZ/SER/84A15/2016/125
+Mizoram
+Serchhip
+ 
+About 1.2km Northwest of 
+Serchhip road junction, SH-
+Aizawl-Thenzawl-Lunglei Road
+23.3154
+92.791224
+Rock
+Slide
+2016
+21575
+MZ/SER/84A15/2016/43
+Mizoram
+Serchhip
+N/A
+N/A
+23.315806
+92.859192
+Debris
+Slide
+2014
+21576
+MZ/SER/84A15/2016/41
+Mizoram
+Serchhip
+ 
+Near Presbyterian English 
+School, NH-54 Aizawl-Serchhip-
+Lunglei Road
+23.316221
+92.856217
+Debris
+Slide
+2015
+21577
+MZ/SER/84A15/2016/40
+Mizoram
+Serchhip
+ 
+Leisang veng, Serchhip, NH-54 
+Aizawl-Serchhip-Lunglei Road
+23.318805
+92.853099
+Debris
+Slide
+2016
+21578
+MZ/CHA/84E07/2017/2
+Mizoram
+Champhai
+ 
+10 km south of Dilkawn
+23.320197
+93.285718
+Rock
+Slide
+NA
+21579
+MZ/SER/84A15/2016/39
+Mizoram
+Serchhip
+ 
+IOC Veng, Serchhip, NH-54 
+Aizawl-Serchhip-Lunglei Road
+23.320289
+92.854914
+Rock
+Slide
+NA

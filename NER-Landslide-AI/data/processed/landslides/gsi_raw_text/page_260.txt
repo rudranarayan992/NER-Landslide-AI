@@ -1,0 +1,457 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11261
+JK/RAM/43O4/2023/12
+Jammu & Kashmir (UT)
+Ramban
+Cafeteria- Mehar
+NH-44
+33.23526
+75.2456
+Debris
+Flow and 
+shooting stone
+17 October 2023
+11262
+JK/RAM/43O3/2023/13
+Jammu & Kashmir (UT)
+Ramban
+Ramsoo
+National High (Jammu to 
+Srinagar)
+33.332022
+75.200139
+Debris
+Flow
+17 October 2023
+11263
+JK/RAM/43O3/2023/14
+Jammu & Kashmir (UT)
+Ramban
+Hingni
+NH-44
+33.351361
+75.177917
+Debris
+Flow
+24 December 2023
+11264
+JK/REA/43K16/2023/15
+Jammu & Kashmir (UT)
+Reasi
+Dera Baba
+Local Road
+33.000583
+74.821028
+Debris
+Flow
+NA
+11265
+JK/REA/43K16/2023/16
+Jammu & Kashmir (UT)
+Reasi
+Mansooh-I
+Left bank of River Chenab
+33.017806
+74.812111
+Earth
+Flow
+2008
+11266
+JK/REA/43K16/2023/17
+Jammu & Kashmir (UT)
+Reasi
+Mansooh-II
+Left bank of River Chenab
+33.015472
+74.823889
+Debris
+Flow
+NA
+11267
+JK/ BUD/43J16/2024/18
+Jammu & Kashmir (UT)
+Budgam
+RTC-CRPF Humhama
+Humhama
+34.02194444
+74.7625
+Soil (Earth)
+Slide
+9 January 2024
+11268
+JK/RAM/43O3/2024/19
+Jammu & Kashmir (UT)
+Ramban
+Khuni nala morh (Makerkote)
+National High (Jammu to 
+Srinagar)
+33.31375
+75.186917
+Rock
+Rock slide.
+NA
+11269
+JK/RAM/43O3/2024/20
+Jammu & Kashmir (UT)
+Ramban
+Kishtwari
+National Highway-44 (Jammu to 
+Srinagar)
+33.36625
+75.18625
+Rock and Debris
+Rock slide.
+1 February 2024
+11270
+JK/UDH/43O6/2023/21
+Jammu & Kashmir (UT)
+Udhampur
+Kogban
+National Highway-44 (Jammu to 
+Srinagar)
+33.010303
+75.222482
+Debris
+Flow
+NA
+11271
+JK/RAM/43O3/2024/22
+Jammu & Kashmir (UT)
+Ramban
+Nachlana
+Nachlana-Khari
+33.362619
+75.175742
+Rock
+Slide
+3 March 2024
+11272
+3491
+Jammu & Kashmir (UT)
+Kathua
+32.447265
+75.518707
+debris_mixture
+slide
+17 August 2025 at 11.00hrs
+11273
+4535
+Jammu & Kashmir (UT)
+Doda
+New Thathri
+33.1458833
+75.784005
+Rock
+Slide
+NA
+11274
+4617
+Jammu & Kashmir (UT)
+Rajouri
+Bhamla
+33.041361
+74.59254
+debris_mixture
+slide
+NA
+11275
+7212
+Jammu & Kashmir (UT)
+Udhampur
+33.089695
+75.329709
+Debris
+slide
+29 August 2025 at 15.30hrs
+11276
+7213
+Jammu & Kashmir (UT)
+Ramban
+Chandarkote
+33.184717
+75.31306
+Debris
+slide
+17 July 2025
+11277
+7214
+Jammu & Kashmir (UT)
+Ramban
+Chandarkote
+33.184433
+75.316882
+Rock
+slide
+17 July 2025
+11278
+7215
+Jammu & Kashmir (UT)
+Ramban
+patnitop
+33.097678
+75.325725
+Debris
+slide
+09 September 2025
+11279
+7216
+Jammu & Kashmir (UT)
+Ramban
+33.193303
+75.339613
+Soil
+slide
+01 September 2025
+11280
+7217
+Jammu & Kashmir (UT)
+Ramban
+33.195603
+75.337746
+Rock
+slide
+01 September 2025
+11281
+7218
+Jammu & Kashmir (UT)
+Ramban
+33.205743
+75.347395
+Debris
+slide
+01 September 2025
+11282
+7219
+Jammu & Kashmir (UT)
+Ramban
+33.195183
+75.359804
+Debris
+slide
+30 August 2025
+11283
+7220
+Jammu & Kashmir (UT)
+Ramban
+33.196652
+75.352971
+Debris
+flow
+30 August 2025
+11284
+7221
+Jammu & Kashmir (UT)
+Ramban
+33.194759
+75.360139
+Debris
+flow
+30 August 2025
+11285
+7222
+Jammu & Kashmir (UT)
+Ramban
+33.201932
+75.363243
+Debris
+slide
+30 August 2025
+11286
+7223
+Jammu & Kashmir (UT)
+Ramban
+33.204841
+75.347603
+Rock
+slide
+01 September 2025
+11287
+7406
+Jammu & Kashmir (UT)
+Ramban
+Karol
+33.214947
+75.272822
+Rock
+topple
+26 March 2026
+11288
+7600
+Jammu & Kashmir (UT)
+Kishtwar
+Kwar
+33.355976
+75.882285
+Debris
+flow
+06 July 2026 at 4.55 hrs
+11289
+7601
+Jammu & Kashmir (UT)
+Kishtwar
+Kandi
+33.228767
+75.78888
+Rock
+slide
+NA
+11290
+7602
+Jammu & Kashmir (UT)
+Doda
+New Thatri
+33.144803
+75.79186
+Debris
+flow
+18 July 2017, 07 July 2026 2.30hrs
+11291
+7603
+Jammu & Kashmir (UT)
+Doda
+New Thatri
+33.145191
+75.787804
+Debris
+flow
+07 July 2026 2.00hrs
+11292
+7604
+Jammu & Kashmir (UT)
+Doda
+33.144859
+75.771611
+Debris
+flow
+07 July 2026 2.30hrs
+11293
+7606
+Jammu & Kashmir (UT)
+Doda
+Premnagar
+33.157473
+75.686986
+Debris
+flow
+06 July 2026 6.00hrs
+11294
+7607
+Jammu & Kashmir (UT)
+Kathua
+Jandrota
+32.539844
+75.802446
+Rock
+fall
+NA
+11295
+7608
+Jammu & Kashmir (UT)
+Kathua
+Barmargala Forest
+32.539787
+75.799731
+Debris
+slide
+NA
+11296
+7609
+Jammu & Kashmir (UT)
+Kathua
+Opposite Parbal Village Slope
+32.540811
+75.804122
+Rock
+fall
+NA
+11297
+7610
+Jammu & Kashmir (UT)
+Kathua
+Chhota Nala
+32.540376
+75.806398
+Debris
+slide
+NA
+11298
+7611
+Jammu & Kashmir (UT)
+Kathua
+Jiter
+32.547277
+75.815593
+Rock
+slide
+NA
+11299
+7612
+Jammu & Kashmir (UT)
+Kathua
+Jiter
+32.542564
+75.823058
+Debris
+slide
+NA
+11300
+7614
+Jammu & Kashmir (UT)
+Kathua
+Chhota Nala
+32.542082
+75.813698
+Debris
+slide
+NA
+11301
+7615
+Jammu & Kashmir (UT)
+Kathua
+Jiter
+32.539827
+75.821022
+Debris
+slide
+NA
+11302
+7616
+Jammu & Kashmir (UT)
+Kathua
+Samman
+32.539222
+75.822588
+Debris
+slide
+NA
+11303
+7617
+Jammu & Kashmir (UT)
+Kathua
+Samman
+32.540823
+75.822422
+Debris
+slide
+NA
+11304
+7618
+Jammu & Kashmir (UT)
+Kathua
+Samman
+32.543271
+75.823804
+Debris
+slide
+NA

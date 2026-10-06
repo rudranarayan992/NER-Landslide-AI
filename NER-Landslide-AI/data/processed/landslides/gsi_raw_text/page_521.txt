@@ -1,0 +1,400 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21012
+MZ/LAW/84B10/2020/36
+Mizoram
+Lawngtlai
+Buisek slide
+Buisek
+22.68
+92.57
+Rock
+Slide
+2019
+21013
+MZ/LAW/84B10/2020/39
+Mizoram
+Lawngtlai
+Ugadasury slide
+Ugadasury
+22.68
+92.56
+Rock
+Slide
+NA
+21014
+MZ/LUN/84B10/2020/61
+Mizoram
+Lunglei
+Ruallalung to S Lungrang road slide 2
+Ruallalung to S Lungrang road
+22.68
+92.66
+Debris
+Fall
+2016
+21015
+MZ/LUN/84B10/2020/83
+Mizoram
+Lunglei
+Zehtet village slide 2
+Outside Zehtet village
+22.68
+92.69
+Debris
+Slide
+NA
+21016
+MZ/LUNG/84B14/2018/9
+Mizoram
+Lunglei
+ 
+Southwest of Thlengang
+22.681
+92.884003
+Rock
+Fall
+NA
+21017
+MZ/LUNG/84B14/2018/10
+Mizoram
+Lunglei
+ 
+Southwest of Thlengang
+22.683001
+92.882004
+Rock
+Fall
+NA
+21018
+MZ/LUNG/84B14/2018/25
+Mizoram
+Lunglei
+ 
+NH 54 
+22.688
+92.842003
+Rock
+Fall
+NA
+21019
+MZ/LUN/84B10/2020/62
+Mizoram
+Lunglei
+Raillalung slide 1
+Outside Raillalung
+22.69
+92.72
+Debris
+Slide
+NA
+21020
+MZ/LUNG/84B14/2018/26
+Mizoram
+Lunglei
+ 
+NH 54 
+22.691
+92.841003
+Debris
+Slide
+NA
+21021
+MZ/LUNG/84B14/2018/27
+Mizoram
+Lunglei
+ 
+NH 54 
+22.691999
+92.841003
+Debris
+Fall
+NA
+21022
+MZ/LAW/84B10/2020/37
+Mizoram
+Lawngtlai
+Buisek to Chhotapansury slide
+Buisek to Chhotapansury road
+22.7
+92.56
+Rock
+Slide
+2019
+21023
+MZ/LUN/84B10/2020/64
+Mizoram
+Lunglei
+Ruallalung to S Lungrang road slide 1
+Ruallalung to S Lungrang road
+22.7
+92.66
+Debris
+Fall
+2019
+21024
+MZ/LUN/84B10/2020/65
+Mizoram
+Lunglei
+Ruallalung to S Lungrang road slide 2
+Ruallalung to S Lungrang road
+22.7
+92.66
+Debris
+Fall
+2019
+21025
+MZ/LUN/84B10/2020/66
+Mizoram
+Lunglei
+Ruallalung to S Lungrang road slide 3
+Ruallalung to S Lungrang road
+22.7
+92.66
+Debris
+Slide
+2019
+21026
+MZ/LAW/84B14/2019/8
+Mizoram
+Lawngtlai
+ 
+Vartek Road
+22.700001
+92.994003
+Rock
+Slide
+NA
+21027
+MZ/LAW/84B14/2019/7
+Mizoram
+Lawngtlai
+ 
+Outside Lungtian village
+22.704
+92.985001
+Debris
+Slide
+NA
+21028
+MZ/LUNG/84B14/2018/28
+Mizoram
+Lunglei
+ 
+NH 54 2 kms south of N. 
+Tawipui II 
+22.705
+92.842003
+Debris
+Slide
+NA
+21029
+MZ/LAW/84B10/2020/41
+Mizoram
+Lawngtlai
+Borapansury to Montola slide
+Borapansury to Montola road
+22.71
+92.54
+Debris
+Slide
+NA
+21030
+MZ/LUN/84B10/2020/63
+Mizoram
+Lunglei
+Raillalung slide 2
+Outside Raillalung
+22.71
+92.7
+Debris
+Slide
+NA
+21031
+MZ/LUN/84B10/2020/67
+Mizoram
+Lunglei
+Ruallalung to S Lungrang road slide 4
+Ruallalung to S Lungrang road
+22.71
+92.66
+Debris
+Slide
+2019
+21032
+MZ/LUN/84B14/2018/1 
+Mizoram
+Lunglei
+ 
+N. Tawipui I
+22.711
+92.839996
+Debris
+Slide
+NA
+21033
+MZ/LUN/84B10/2020/68
+Mizoram
+Lunglei
+Lungrang S slide
+Lungrang S
+22.73
+92.65
+Debris
+Slide
+NA
+21034
+MZ/LUN/84B10/2020/69
+Mizoram
+Lunglei
+S Lungrang slide
+S Lungrang
+22.73
+92.65
+Debris
+Slide
+2019
+21035
+MZ/LUN/84B10/2020/70
+Mizoram
+Lunglei
+S Lungrang to Lalnutui road slide 1
+S Lungrang to Lalnutui road
+22.73
+92.65
+Debris
+Slide
+2019
+21036
+MZ/LUN/84B10/2020/71
+Mizoram
+Lunglei
+S Lungrang to Lalnutui road slide 2
+S Lungrang to Lalnutui road
+22.73
+92.65
+Debris
+Slide
+2019
+21037
+MZ/LAW/84B10/2020/38
+Mizoram
+Lawngtlai
+Kurbalavasora to Borapansury slide
+Kurbalavasora to Borapansury 
+road
+22.74
+92.52
+Debris
+Slide
+2019
+21038
+MZ/LUN/84B10/2020/72
+Mizoram
+Lunglei
+S Lungrang to Lalnutui road slide 3
+S Lungrang to Lalnutui road
+22.74
+92.63
+Debris
+Flow
+2018
+21039
+MZ/LUN/84B13/2018/1
+Mizoram
+Lunglei
+ 
+SW of Mualthum along 
+Thualthu-Tawipui road
+22.751808
+92.838905
+Debris
+Slide
+NA
+21040
+MZ/LUN/84B13/2018/2
+Mizoram
+Lunglei
+ 
+Thualte village area
+22.771872
+92.840324
+Rock
+Slide
+NA
+21041
+MZ/LUN/84B13/2018/3
+Mizoram
+Lunglei
+ 
+N of Thualte
+22.777763
+92.833969
+Rock
+Slide
+NA
+21042
+MZ/LUN/84B13/2018/4
+Mizoram
+Lunglei
+ 
+about 8km S of Bualte
+22.779978
+92.833778
+Debris
+Slide
+NA
+21043
+MZ/LUN/84B13/2018/5
+Mizoram
+Lunglei
+ 
+about 7.5km SE of Bualte
+22.785034
+92.834671
+Rock
+Slide
+NA
+21044
+MZ/LUN/84B09/2018/1
+Mizoram
+Lunglei
+ 
+Rangte- S. Lungrang
+22.786274
+92.620659
+Debris
+Slide
+NA
+21045
+MZ/LUN/84B09/2018/2
+Mizoram
+Lunglei
+ 
+Rangte- S. Lungrang
+22.786629
+92.62748
+Rock
+Slide
+NA
+21046
+MZ/LUN/84B13/2018/6
+Mizoram
+Lunglei
+ 
+about 5km SE Bualte
+22.788198
+92.825165
+Rock
+Slide
+NA

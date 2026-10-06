@@ -1,0 +1,499 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12526
+KA/UTT/48J13/2020/23
+Karnataka
+Uttar Kannada
+Chauti village
+Chauti village
+14.77
+74.81
+Earth
+Slide
+2019
+12527
+KA/UK/48J01/2015/113
+Karnataka
+Uttar Kannada
+ 
+Near Arga village
+14.770642
+74.163617
+Debris
+Slide
+NA
+12528
+KA/UK/48J01/2015/114
+Karnataka
+Uttar Kannada
+ 
+Govt. school Arga
+14.771761
+74.162281
+Debris
+Slide
+NA
+12529
+KA/UK/48J09/2015/32
+Karnataka
+Uttar Kannada
+ 
+ 
+14.7782
+74.6613
+Debris
+Slide
+NA
+12530
+KA/UTT/48J13/2020/16
+Karnataka
+Uttar Kannada
+Onithotta village
+Onithotta village
+14.78
+74.84
+Earth
+Slide
+2019
+12531
+KA/UTT/48J13/2020/24
+Karnataka
+Uttar Kannada
+Chauti village
+Chauti village
+14.78
+74.81
+Debris
+Slide
+NA
+12532
+KA/UTT/48J13/2020/25
+Karnataka
+Uttar Kannada
+Kundargi village
+Kundargi village
+14.78
+74.88
+Debris
+Slide
+2019
+12533
+KA/UK/48J01/2015/116
+Karnataka
+Uttar Kannada
+ 
+1 km from arga govt.colledge 
+NH-17
+14.7809
+74.14655
+Debris
+Slide
+NA
+12534
+KA/UK/48J01/2015/101
+Karnataka
+Uttar Kannada
+ 
+Near binaga on NH-17
+14.781483
+74.136114
+Debris
+Slide
+NA
+12535
+KA/UTT/48J13/2020/11
+Karnataka
+Uttar Kannada
+Atbail village
+Atbail village
+14.79
+74.95
+Earth
+Slide
+2020
+12536
+KA/UK/48J01/2015/119
+Karnataka
+Uttar Kannada
+ 
+Binaga Hebble, NH-17
+14.790583
+74.115267
+Debris
+Slide
+NA
+12537
+KA/UK/48J01/2015/102
+Karnataka
+Uttar Kannada
+ 
+Near binaga diversion on NH-17 14.791131
+74.116453
+Rock
+Slide
+NA
+12538
+KA/UTT/48J13/2020/7
+Karnataka
+Uttar Kannada
+Hitlalli village
+Hitlalli village
+14.8
+74.81
+Debris
+Slide
+2019
+12539
+KA/UTT/48J13/2020/8
+Karnataka
+Uttar Kannada
+Hitlalli village
+Hitlalli village
+14.8
+74.81
+Debris
+Slide
+2020
+12540
+KA/UTT/48J13/2020/10
+Karnataka
+Uttar Kannada
+East of Ganeshpal village, Shivaganga 
+Falls
+East of Ganeshpal village, 
+Shivaganga Falls
+14.8
+74.75
+Debris
+Slide
+2020
+12541
+KA/UTT/48J13/2020/18
+Karnataka
+Uttar Kannada
+Tarehalli village
+Tarehalli village
+14.8
+74.83
+Debris
+Slide
+2020
+12542
+KA/UK/48J01/2015/103
+Karnataka
+Uttar Kannada
+ 
+DC office/aligadde
+14.803672
+74.125169
+Debris
+Slide
+NA
+12543
+KA/UTT/48J13/2020/2
+Karnataka
+Uttar Kannada
+Kummanmane village
+Kummanmane village
+14.81
+74.81
+Earth
+Slide
+2019
+12544
+KA/UTT/48J13/2020/9
+Karnataka
+Uttar Kannada
+Harigadde-Arbail village
+Harigadde-Arbail village
+14.81
+74.76
+Debris
+Slide
+2019
+12545
+KA/UTT/48J13/2020/15
+Karnataka
+Uttar Kannada
+Bidralli
+Bidralli
+14.82
+74.81
+Debris
+Slide
+2019
+12546
+KA/UK/48J01/2015/104
+Karnataka
+Uttar Kannada
+ 
+Shirwad village/sasanwad 
+village
+14.834917
+74.177044
+Rock
+Slide
+NA
+12547
+KA/UK/48J09/2015/33
+Karnataka
+Uttar Kannada
+ 
+ 
+14.8361
+74.6537
+Debris
+Slide
+NA
+12548
+KA/UK/48J05/2015/36
+Karnataka
+Uttar Kannada
+ 
+ 
+14.8376
+74.4395
+Debris
+Slide
+NA
+12549
+KA/UTT/48J13/2020/17
+Karnataka
+Uttar Kannada
+Onithotta village
+Onithotta village
+14.84
+74.84
+Debris
+Slide
+2019
+12550
+KA/UK/48J01/2015/108
+Karnataka
+Uttar Kannada
+ 
+Mudarali village
+14.846669
+74.183056
+Debris
+Slide
+NA
+12551
+KA/UK/48J01/2015/107
+Karnataka
+Uttar Kannada
+ 
+Mudarali village
+14.846883
+74.182911
+Debris
+Slide
+NA
+12552
+KA/UK/48J01/2015/110
+Karnataka
+Uttar Kannada
+ 
+200 m Mudarali village
+14.846883
+74.182911
+Debris
+Slide
+NA
+12553
+KA/UK/48J01/2015/109
+Karnataka
+Uttar Kannada
+ 
+Mudarali village
+14.849875
+74.179033
+Debris
+Slide
+NA
+12554
+KA/UTT/48J13/2020/20
+Karnataka
+Uttar Kannada
+Hasangi village
+Hasangi village
+14.85
+74.83
+Debris
+Slide
+2019
+12555
+KA/UTT/48J13/2020/21
+Karnataka
+Uttar Kannada
+Devarkalahalli village
+Devarkalahalli village
+14.85
+74.85
+Debris
+Slide
+2019
+12556
+KA/UK/48J01/2015/112
+Karnataka
+Uttar Kannada
+ 
+Near siddar village
+14.853583
+74.217447
+Debris
+Slide
+NA
+12557
+KA/UK/48J01/2015/111
+Karnataka
+Uttar Kannada
+ 
+Siddar/Sakalvadda village
+14.857375
+74.230567
+Debris
+Slide
+NA
+12558
+KA/UK/48J01/2015/115
+Karnataka
+Uttar Kannada
+ 
+kolage
+14.873633
+74.136217
+Debris
+Slide
+NA
+12559
+KA/UK/48J09/2015/31
+Karnataka
+Uttar Kannada
+ 
+ 
+14.8755
+74.6543
+Debris
+Slide
+NA
+12560
+KA/UTT/48J13/2020/14
+Karnataka
+Uttar Kannada
+Mankulli village
+Mankulli village
+14.88
+74.76
+Debris
+Slide
+2020
+12561
+KA/UK/48J01/2015/124
+Karnataka
+Uttar Kannada
+ 
+Ganesh nagar/near temple
+14.88455
+74.141756
+Debris
+Slide
+NA
+12562
+KA/UK/48J01/2015/117
+Karnataka
+Uttar Kannada
+ 
+Savantvada on main road
+14.886633
+74.165033
+Debris
+Slide
+NA
+12563
+KA/UK/48J09/2015/29
+Karnataka
+Uttar Kannada
+ 
+ 
+14.8879
+74.5624
+Debris
+Slide
+NA
+12564
+KA/UK/48J09/2015/30
+Karnataka
+Uttar Kannada
+ 
+ 
+14.889
+74.5612
+Debris
+Slide
+NA
+12565
+KA/UK/48J09/2015/28
+Karnataka
+Uttar Kannada
+ 
+ 
+14.8908
+74.6549
+Debris
+Slide
+NA
+12566
+KA/UK/48J09/2015/27
+Karnataka
+Uttar Kannada
+ 
+ 
+14.8935
+74.6538
+Debris
+Slide
+NA
+12567
+KA/UTT/48J13/2020/19
+Karnataka
+Uttar Kannada
+Anejaddi village
+Anejaddi village
+14.9
+74.82
+Debris
+Slide
+2019
+12568
+KA/UK/48J01/2015/118
+Karnataka
+Uttar Kannada
+ 
+Savantvada on main road
+14.9005
+74.197283
+Rock
+Slide
+NA
+12569
+KA/UK/48J09/2015/34
+Karnataka
+Uttar Kannada
+ 
+ 
+14.9021
+74.5611
+Debris
+Slide
+NA

@@ -1,0 +1,472 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+34007
+UK/TEH/53J11/2015/2123
+Uttarakhand
+Tehri Garhwal
+ 
+Rajakhet-Nanuwa
+30.386061
+78.57937
+Debris
+Slide
+NA
+34008
+UK/TEH/53J15/2015/958
+Uttarakhand
+Tehri Garhwal
+ 
+Kanda-Chirpatyakhal Road (SH-
+15)
+30.386107
+78.757178
+Rock cum Debris
+Slide
+NA
+34009
+UK/TEH/53J11/2015/2125
+Uttarakhand
+Tehri Garhwal
+ 
+Rajakhet-Nanuwa
+30.386282
+78.57549
+Debris
+Slide
+NA
+34010
+UK/CHA/53N07/2015/1220
+Uttarakhand
+Chamoli
+ 
+ 
+30.386355
+79.413495
+Debris
+Slide
+NA
+34011
+UK/DEH/53F15/2015/517
+Uttarakhand
+Dehradun
+ 
+Kinswalgaon - Nakatpur
+30.386521
+77.979554
+Debris
+Subsidence
+NA
+34012
+UK/TEH/53J11/2015/2126
+Uttarakhand
+Tehri Garhwal
+ 
+Rajakhet-Nanuwa
+30.386755
+78.571594
+Debris
+Slide
+NA
+34013
+UK/DEH/53F15/2015/516
+Uttarakhand
+Dehradun
+ 
+Kinswalgaon - Nakatpur
+30.386836
+77.982869
+Debris
+Slide
+NA
+34014
+UK/TEH/53J11/2015/2121
+Uttarakhand
+Tehri Garhwal
+ 
+Rajakhet-Nanuwa
+30.386836
+78.581647
+Debris
+Slide
+NA
+34015
+UK/CHA/53N03/2015/822
+Uttarakhand
+Chamoli
+ 
+Pokhri-Nandprayag road
+30.386944
+79.198083
+Rock
+Slide
+NA
+34016
+UK/CHA/53N03/2015/829
+Uttarakhand
+Chamoli
+ 
+Pokhri-Nandprayag road
+30.38703
+79.214833
+Rock
+Slide
+NA
+34017
+UK/TEH/53J11/2015/2124
+Uttarakhand
+Tehri Garhwal
+ 
+Rajakhet-Nanuwa
+30.387476
+78.578171
+Debris
+Slide
+NA
+34018
+UK/RUD/53J15/2015/984
+Uttarakhand
+Rudraprayag
+ 
+Chirpatyakhal-Mayali Road (SH-
+15)
+30.387508
+78.881425
+Rock
+Slide
+NA
+34019
+UK/DEH/53F15/2015/515
+Uttarakhand
+Dehradun
+ 
+Kinswalgaon - Nakatpur
+30.387929
+77.984044
+Debris
+Subsidence
+NA
+34020
+UK/TEH/53J15/2015/970
+Uttarakhand
+Tehri Garhwal
+ 
+Kanda-Chirpatyakhal Road (SH-
+15)
+30.388011
+78.816508
+Debris
+Slide
+NA
+34021
+UK/DEH/53J03/2015/2001
+Uttarakhand
+Dehradun
+ 
+Maldeota-Dhumkot road
+30.388074
+78.174466
+Rock
+Slide
+NA
+34022
+UK/DEH/53J03/2015/2036
+Uttarakhand
+Dehradun
+ 
+GhatiKhola-Chauran road
+30.388283
+78.05945
+Debris
+Slide
+NA
+34023
+UK/DEH/53F15/2015/514
+Uttarakhand
+Dehradun
+ 
+Kinswalgaon - Nakatpur
+30.388444
+77.984202
+Debris
+Subsidence
+NA
+34024
+UK/DEH/53J03/2015/2000
+Uttarakhand
+Dehradun
+ 
+Maldeota-Dhumkot road
+30.388889
+78.175639
+Rock cum Debris
+Slide
+NA
+34025
+UK/CHA/53N07/2015/1231
+Uttarakhand
+Chamoli
+ 
+ 
+30.389639
+79.299972
+Rock
+Slide
+NA
+34026
+UK/RUD/53J15/2015/1018
+Uttarakhand
+Rudraprayag
+ 
+Panjan-Taila Road
+30.389899
+78.936044
+Rock
+Slide
+NA
+34027
+UK/DEH/53J03/2015/2047
+Uttarakhand
+Dehradun
+ 
+Birpara-Haldwala road
+30.390318
+78.027033
+Debris
+Slide
+NA
+34028
+UK/CHA/53N03/2015/823
+Uttarakhand
+Chamoli
+ 
+Pokhri-Nandprayag road
+30.390556
+79.200667
+Rock
+Slide
+NA
+34029
+UK/TEH/53J11/2015/2162
+Uttarakhand
+Tehri Garhwal
+ 
+Ghansyali-Kothi
+30.390584
+78.738462
+Rock cum Debris
+Slide
+NA
+34030
+UK/TEH/53J11/2015/2161
+Uttarakhand
+Tehri Garhwal
+ 
+Ghansyali-Kothi
+30.390658
+78.738049
+Rock
+Slide
+NA
+34031
+UK/TEH/53J15/2015/969
+Uttarakhand
+Tehri Garhwal
+ 
+Kanda-Chirpatyakhal Road (SH-
+15)
+30.390838
+78.818987
+Rock
+Slide
+NA
+34032
+UK/TEH/53J11/2015/2111
+Uttarakhand
+Tehri Garhwal
+ 
+Gadolia -Rajakhet-Khathol
+30.390867
+78.516755
+Debris
+Slide
+NA
+34033
+UK/TEH/53J11/2015/2115
+Uttarakhand
+Tehri Garhwal
+ 
+Rajakhet-Nanuwa
+30.391103
+78.584183
+Rock cum Debris
+Slide
+NA
+34034
+UK/TEH/53J11/2015/2160
+Uttarakhand
+Tehri Garhwal
+ 
+Ghansyali-Kothi
+30.391177
+78.735952
+Debris
+Slide
+NA
+34035
+UK/TEH/53J15/2015/972
+Uttarakhand
+Tehri Garhwal
+ 
+Kanda-Chirpatyakhal Road (SH-
+15)
+30.391191
+78.828239
+Rock cum Debris
+Slide
+NA
+34036
+UK/TEH/53J15/2015/967
+Uttarakhand
+Tehri Garhwal
+ 
+Kanda-Chirpatyakhal Road (SH-
+15)
+30.391289
+78.797175
+Rock
+Slide
+NA
+34037
+UK/TEH/53J11/2015/2128
+Uttarakhand
+Tehri Garhwal
+ 
+Rajakhet-Nanuwa
+30.391485
+78.560475
+Debris
+Slide
+NA
+34038
+UK/DEH/53J03/2015/1990
+Uttarakhand
+Dehradun
+ 
+Sahasdharadhara Majara road
+30.391531
+78.135094
+Rock cum Debris
+Slide
+NA
+34039
+UK/RUD/53J15/2015/975
+Uttarakhand
+Rudraprayag
+ 
+Kanda-Chirpatyakhal Road (SH-
+15)
+30.391674
+78.838334
+Debris
+Slide
+NA
+34040
+UK/TEH/53J15/2015/974
+Uttarakhand
+Tehri Garhwal
+ 
+Kanda-Chirpatyakhal Road (SH-
+15)
+30.39182
+78.837187
+Rock
+Slide
+NA
+34041
+UK/TEH/53J11/2015/2112
+Uttarakhand
+Tehri Garhwal
+ 
+Gadolia -Rajakhet-Khathol
+30.391974
+78.522244
+Rock cum Debris
+Slide
+NA
+34042
+UK/TEH/53J15/2015/968
+Uttarakhand
+Tehri Garhwal
+ 
+Kanda-Chirpatyakhal Road (SH-
+15)
+30.39212
+78.818267
+Rock
+Slide
+NA
+34043
+UK/TEH/53J11/2015/2113
+Uttarakhand
+Tehri Garhwal
+ 
+Gadolia -Rajakhet-Khathol
+30.392637
+78.524516
+Rock cum Debris
+Slide
+NA
+34044
+UK/TEH/53J11/2015/2159
+Uttarakhand
+Tehri Garhwal
+ 
+Ghansyali-Kothi
+30.392841
+78.73521
+Rock cum Debris
+Slide
+NA
+34045
+UK/DEH/53J03/2015/1989
+Uttarakhand
+Dehradun
+ 
+Sahasdharadhara Majara road
+30.393437
+78.135086
+Rock
+Slide
+NA
+34046
+UK/RUD/53N03/2015/864
+Uttarakhand
+Rudraprayag
+ 
+Vijaynagar
+30.393556
+79.030528
+Debris
+Slide
+2013
+34047
+UK/TEH/53J11/2015/2120
+Uttarakhand
+Tehri Garhwal
+ 
+Rajakhet-Nanuwa
+30.39371
+78.584478
+Debris
+Slide
+NA

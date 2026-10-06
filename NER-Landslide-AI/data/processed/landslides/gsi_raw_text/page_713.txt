@@ -1,0 +1,503 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28080
+TN/NIL/58A15/2022/19
+Tamil Nadu
+Nilgiri
+Slide-19
+Mettupalayam-Ooty railway 
+corridor
+11.3499
+76.8478
+Debris
+Slide
+13 December 2022
+28081
+TN/NIL/58A15/2022/20
+Tamil Nadu
+Nilgiri
+Slide-20
+Mettupalayam-Ooty railway 
+corridor
+11.3494
+76.8484
+Debris
+Slide
+13 December 2022
+28082
+TN/NIL/58A15/2022/21
+Tamil Nadu
+Nilgiri
+Slide-21
+Mettupalayam-Ooty railway 
+corridor
+11.3491
+76.8486
+Debris
+Slide
+13 December 2022
+28083
+TN/NIL/58A15/2022/22
+Tamil Nadu
+Nilgiri
+Slide-22
+Mettupalayam-Ooty railway 
+corridor
+11.3575
+76.7837
+Earth 
+Slide
+13 December 2022
+28084
+TN/NIL/58A15/2022/23
+Tamil Nadu
+Nilgiri
+Slide-23
+Mettupalayam-Ooty railway 
+corridor
+11.3428
+76.8665
+Debris
+Slide
+13 December 2022
+28085
+TN/NIL/58A15/2022/24
+Tamil Nadu
+Nilgiri
+Slide-24
+Mettupalayam-Ooty railway 
+corridor
+11.3485
+76.8699
+Debris
+Slide
+13 December 2022
+28086
+TN/NIL/58A15/2022/25
+Tamil Nadu
+Nilgiri
+Slide-25
+Mettupalayam-Ooty railway 
+corridor
+11.3444
+76.861345
+Debris
+Slide
+13 December 2022
+28087
+TN/GUD/58A07/2022/01 
+Tamil Nadu
+Nilgiri
+Panthalur slide
+Panthalur taluk
+11.4887
+76.3391
+Debris
+Slide
+July 2022
+28088
+TN/GUD/58A07/2022/02 
+Tamil Nadu
+Nilgiri
+Devala slide
+Devala
+11.4726
+76.382
+Debris
+Slide
+July 2022
+28089
+TN/GUD/58A07/2022/03
+Tamil Nadu
+Nilgiri
+Devala slide
+Devala
+11.4713
+76.4113
+Debris
+Slide
+July 2022
+28090
+TN/GUD/58A07/2022/04
+Tamil Nadu
+Nilgiri
+Devala slide
+Devala-Gudalur Road
+11.4861
+76.4369
+Debris
+Slide
+July 2022
+28091
+TN/GUD/58A07/2022/05
+Tamil Nadu
+Nilgiri
+Gudular road slide
+Gudalur
+11.495
+76.4552
+Debris
+Slide
+July 2022
+28092
+TN/GUD/58A07/2022/06
+Tamil Nadu
+Nilgiri
+Needle rock  slide
+Enroute to needle rock
+11.4905
+76.5275
+Debris
+Slide
+27 July 2022
+28093
+TN/GUD/58A07/2022/07
+Tamil Nadu
+Nilgiri
+Gudular road slide
+Gudalur
+11.4905
+76.5325
+Debris
+Slide
+27 July 2022
+28094
+TN/DD/2022/1
+Tamil Nadu
+Dindigul
+Pannaikadu-hairpinbend LSD
+Paniikadu-tandikudi road
+10.27456
+77.61869
+Debris
+Slide
+5 September 2022
+28095
+TN/DD/2022/2
+Tamil Nadu
+Dindigul
+Thandikudi LSD1
+Thandikudi 
+10.30272
+77.66003
+Debris
+Slide
+29 July 2022
+28096
+TN/DD/2022/3
+Tamil Nadu
+Dindigul
+Kilavayil slide2
+Thandikudi 
+10.2543
+77.33308
+Debris
+LSD
+11 November 2022
+28097
+TN/DD/2022/4
+Tamil Nadu
+Dindigul
+mannavanur house LSD
+Mannavanur
+10.22302
+77.34488
+Debris
+Slide
+11 November 2022
+28098
+TN/DD/2022/5
+Tamil Nadu
+Dindigul
+Mannavanur-KumburLSD
+Mannavanur
+10.22713
+77.33827
+Earth
+Slide
+11 November 2022
+28099
+TN/DD/2022/6
+Tamil Nadu
+Dindigul
+Mannavanur LSD
+Mannavanur
+10.22466
+77.34555
+Debris
+Slide
+11 November 2022
+28100
+TN/DD/2022/7
+Tamil Nadu
+Dindigul
+Kilavayayil-Mannvanur.RV
+Kilavayayil
+10.24369
+77.33454
+Earth
+Slide
+11 November 2022
+28101
+TN/DD/2022/8
+Tamil Nadu
+Dindigul
+Padmalodge-LSD
+Munjikkal
+10.23888
+77.49593
+Debris
+Slide
+14 November 2022
+28102
+TN/DD/2022/9
+Tamil Nadu
+Dindigul
+Kodai-silverfalls LSD
+Kodaikanal road
+10.23786
+77.50736
+Debris
+Slide
+11 November 2022
+28103
+TN/DD/2022/10
+Tamil Nadu
+Dindigul
+KPDAI-SILVERCASCADE LSD2
+Kodaikanal road
+10.23826
+77.50792
+Debris
+Slide
+11 November 2022
+28104
+TN/Nil/2023/CSF-1
+Tamil Nadu
+Nilgiri
+CSF-1
+NH-181
+11.33833
+76.87086
+Debris
+Slide
+23 November 2023
+28105
+TN/Nil/2023/CSF-2
+Tamil Nadu
+Nilgiri
+CSF-2
+NH-181
+11.34019
+76.86667
+Debris
+Slide
+23 November 2023
+28106
+TN/Nil/2023/CSF-3
+Tamil Nadu
+Nilgiri
+CSF-3
+NH-181
+11.34039
+76.86431
+Debris
+Slide
+23 November 2023
+28107
+TN/Nil/2023/CSF-4
+Tamil Nadu
+Nilgiri
+CSF-4
+NH-181
+11.34025
+76.86203
+Debris
+Slide
+23 November 2023
+28108
+TN/Nil/2023/CSF-5
+Tamil Nadu
+Nilgiri
+CSF-5
+NH-181
+11.33842
+76.86083
+Debris
+Slide
+23 November 2023
+28109
+TN/Nil/2023/CSF-6
+Tamil Nadu
+Nilgiri
+CSF-6
+NH-181
+11.33814
+76.86067
+Earth 
+Slide
+23 November 2023
+28110
+TN/Nil/2023/CSF-7
+Tamil Nadu
+Nilgiri
+CSF-7
+NH-181
+11.33906
+76.8575
+Debris
+Slide
+23 November 2023
+28111
+TN/Nil/2023/CSF-8
+Tamil Nadu
+Nilgiri
+CSF-8
+NH-181
+11.33956
+76.85731
+Earth
+Slide
+23 November 2023
+28112
+TN/Nil/2023/CSF-9
+Tamil Nadu
+Nilgiri
+CSF-9
+NH-181
+11.34003
+76.85708
+Debris
+Slide
+23 November 2023
+28113
+TN/Nil/2023/CSF-10
+Tamil Nadu
+Nilgiri
+CSF-10
+NH-181
+11.34083
+76.85725
+Debris
+Slide
+23 November 2023
+28114
+TN/Nil/2023/CSF-11
+Tamil Nadu
+Nilgiri
+CSF-11
+NH-181
+11.34097
+76.85692
+Earth
+Slide
+23 November 2023
+28115
+TN/Nil/2023/CSF-12
+Tamil Nadu
+Nilgiri
+CSF-12
+NH-181
+11.33972
+76.84953
+Earth
+Slide
+23 November 2023
+28116
+TN/Nil/2023/CSF-13
+Tamil Nadu
+Nilgiri
+CSF-13
+NH-181
+11.34036
+76.84983
+Earth
+Slide
+23 November 2023
+28117
+TN/Nil/2023/CSF-14
+Tamil Nadu
+Nilgiri
+CSF-14
+NH-181
+11.34183
+76.85008
+Earth 
+Slide
+23 November 2023
+28118
+TN/Nil/2023/CSF-15
+Tamil Nadu
+Nilgiri
+CSF-15
+NH-181
+11.34244
+76.85006
+Earth
+Slide
+23 November 2023
+28119
+TN/Nil/2023/CSF-16
+Tamil Nadu
+Nilgiri
+CSF-16
+NH-181
+11.34419
+76.84842
+Earth
+Slide
+23 November 2023
+28120
+TN/Nil/2023/CSF-17
+Tamil Nadu
+Nilgiri
+CSF-17
+NH-181
+11.34242
+76.84642
+Earth 
+Slide
+23 November 2023
+28121
+TN/Nil/2023/CSF-18
+Tamil Nadu
+Nilgiri
+CSF-18
+NH-181
+11.3423
+76.84593
+Debris
+Slide
+23 November 2023
+28122
+TN/Nil/2023/CSF-19
+Tamil Nadu
+Nilgiri
+CSF-19
+NH-181
+11.33889
+76.84272
+Earth 
+Slide
+23 November 2023
+28123
+TN/Nil/2023/CSF-20
+Tamil Nadu
+Nilgiri
+CSF-20
+NH-181
+11.33975
+76.84194
+Earth 
+Slide
+23 November 2023

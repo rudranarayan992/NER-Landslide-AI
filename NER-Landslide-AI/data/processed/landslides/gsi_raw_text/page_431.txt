@@ -1,0 +1,282 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+17608
+MII/RAI/47F12/2021/07
+Maharashtra
+Raigad/Poladpur
+Adacha Kond of Morsade 
+15km distance from Poladpur
+18.03822222
+73.55033333
+Soil
+Subsidence
+1 July 2021
+17609
+MH/RAI/47F12/2021/08
+Maharashtra
+Raigad/Poladpu
+Chikhali 
+18 km distance from the 
+Poladpur 
+18.00878889
+73.53707778
+Debris
+Slide
+22 July 2021
+17610
+MH/RAI/47F12/2021/09A
+Maharashtra
+Raigad/Poladpu
+Sonarwadi-Vadghar 
+21 km distance by Poladpur-
+Kamthe road
+18.03599722
+73.58481944
+Debris
+Slide with flow 21-22 July 2021
+17611
+MH/RAI/47F12/2021/09B
+Maharashtra
+Raigad/Poladpu
+Sonarwadi-Vadghar 
+21 km distance by Poladpur-
+Kamthe road
+18.03996667
+73.58654167
+Debris
+Slide with flow 21-22 July 2022
+17612
+MH/RAI/47F12/2021/09C
+Maharashtra
+Raigad/Poladpu
+Sonarwadi-Vadghar 
+21 km distance by Poladpur-
+Kamthe road
+18.04067778
+73.58425833
+Debris
+Slide with flow 21-22 July 2023
+17613
+MH/RAI/47F12/2021/10
+Maharashtra
+Raigad/Poladpu
+Kamthe 
+23 km distance by Poladpur-
+Kamthe road
+18.03365833
+73.60383889
+Debris
+Slide with flow 22 July 2021
+17614
+MH/RAI/47F12/2021/18A
+Maharashtra
+Raigad/Poladpur
+Kamthe Foujdarwadi 
+23km away Kamthe road via 
+Kapde Bu.
+18.03703333
+73.6056
+Debris and Rock
+Slide
+NA
+17615
+MH/RAI/47F12/2021/18B
+Maharashtra
+Raigad/Poladpur
+Kamthe Foujdarwadi 
+23km away Kamthe road via 
+Kapde Bu.
+18.03795
+73.60495278
+Debris and Rock
+Slide
+NA
+17616
+MH/RAI/47F12/2021/12
+Maharashtra
+Raigad/Poladpur
+Morsade Balmachi 
+18 km away Kamathe road via 
+Kapde Bu.
+18.04758333
+73.56177778
+Debris
+Slide
+21 July 2021
+17617
+MH/RAI/47F12/2021/13
+Maharashtra
+Raigad/Poladpur
+Morsade-Sadekond 
+15 km away Poladpur via Kapde 
+Bu.
+18.03494444
+73.56327778
+Debris
+Slide
+NA
+17618
+MH/RAI/47F12/2021/14
+Maharashtra
+Raigad/Poladpur
+Adavale Budruk 
+15 km awayPoladpur-Borwale 
+road
+18.01436944
+73.54708333
+Debris
+Slide with flow 22 July 2021
+17619
+MH/RAI/47G09/2021/15
+Maharashtra
+Raigad
+Lahulse 
+16 km awayPoladpur-Borwale 
+road
+17.96511111
+73.58875
+Soil
+Subsidence
+22 July 2021
+17620
+MH/RAI/47F08/2021/16
+Maharashtra
+Raigad/Poladpur
+Kalawali-Bhonslewadi 
+20 km  by Poladpur-Kalawali 
+road
+18.04163889
+73.49672222
+Soil
+Slide/landslip
+2005, 2021
+17621
+MH/RAI/47G05/2021/17
+Maharashtra
+Raigad/Poladpur
+Katli-Kamatwadi 
+10 km Poladpur-Khed tar road.
+17.91005556
+73.43744444
+Debris
+Slide
+2005, 2021
+17622
+MH/RAI/47G09/2021/18A
+Maharashtra
+Raigad/Poladpur
+Kudpan Khurd 
+13km by Poladpur-Borwale road 17.87736111
+73.55197222
+Debris
+Slide
+July 2021
+17623
+MH/RAI/47G09/2021/18B
+Maharashtra
+Raigad/Poladpur
+Kudpan Khurd 
+13km by Poladpur-Borwale road 17.87755556
+73.55375
+Debris
+Slide
+July 2021
+17624
+MH/RAI/47G09/2021/19
+Maharashtra
+Raigad/Poladpur
+Kineshwar 
+21km  by Poladpur Kineshwar 
+tar road.
+17.92630556
+73.53969444
+Rock cum debris
+Slide
+19th to 23d July 2021
+17625
+MH/RAI/47G09/2021/20
+Maharashtra
+Raigad/Poladpur
+Kineshwar-Pethewadi 
+13km Poladpur-Kineshwar road 17.93001944
+73.537
+Soil
+Subsidence
+2005
+17626
+MH/RAI/47G09/2021/21
+Maharashtra
+Raigad/Poladpur
+Kapde Khurd 
+10km Poladpur-Wakan road
+17.94422222
+73.52241667
+Soil
+Subsidence
+July 2021
+17627
+MH/RAI/47G09/2021/22
+Maharashtra
+Raigad/Poladpur
+Kumbhalvane 
+16km by Poladpur-Kapde Khurd 
+road.
+17.94045
+73.53484167
+Soil
+Subsidence
+July 2021
+17628
+MH/RAT/47G06/2021/55
+Maharashtra
+Ratnagiri/Dapoli
+Bhadavale 
+Dapoli-Dabhol-Bhadvale road
+17.5821
+73.341925
+Soil
+Subsidence
+July 2021
+17629
+MH/RAT/47G06/2021/56
+Maharashtra
+Ratnagiri/Dapoli
+Kolbandre 
+Dapoli-Kolbandre road
+17.66041389
+73.24643889
+Soil
+Subsidence
+July 2021
+17630
+MH/RAT/47G06/2021/57
+Maharashtra
+Ratnagiri/Dapoli
+Pangari 
+Dapoli-Phansu-Pangari road.
+17.60254167
+73.27314722
+Soil
+July 2021
+17631
+MH/RAT/47G01/2021/58
+Maharashtra
+Ratnagiri/Dapoli
+Asud 
+Dapoli-Harnai road at 7 km NW 
+of Dapoli.
+17.78031667
+73.14555833
+Soil
+Subsidence
+19 July 2021

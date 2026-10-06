@@ -1,0 +1,407 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+152
+AS/DIM/83G4/2015/58
+Assam
+Dima Hasao
+Bara Haflong-3
+Bara Haflong,Near New Haflong 
+RS
+25.139
+93.025
+Earth
+Slide
+NA
+153
+AS/DIM/83G4/2015/30
+Assam
+Dima Hasao
+NutanLeikul-3
+Nutan.Leikul,NH-54
+25.139
+93.04
+Earth
+Slide
+2014
+154
+ASM/DH/83G4/2016/18
+Assam
+Dima Hasao
+Jatinga-Haflong Road section-1
+Jatinga-Haflong Road section, 
+Haflong
+25.139611
+93.019556
+Rock cum Debris
+Slide
+2016
+155
+AS/DIH/83G08/2020/20
+Assam
+Dima Hasao
+ 
+Below Hangrum village.
+25.14
+93.31
+Debris
+Slide
+NA
+156
+AS/DIH/83G08/2020/30
+Assam
+Dima Hasao
+ 
+Hangrum village
+25.14
+93.3
+Debris
+Slide
+2018
+157
+ASM/DH/83G4/2016/17
+Assam
+Dima Hasao
+Near and below Assam rifles camp, 
+Boro Haflong-3
+Boro Haflong, Haflong
+25.140417
+93.020389
+Debris
+Slide
+2014
+158
+AS/DIM/83G4/2015/28
+Assam
+Dima Hasao
+Nutan Leikul-1
+Nutan Leikul, NH-54
+25.142
+93.04
+Earth
+Slide
+2014
+159
+AS/DIM/83G4/2015/31
+Assam
+Dima Hasao
+Nutan Leikul-4
+Nutan Leikul,NH-54
+25.142
+93.04
+Earth
+Slide
+2014
+160
+AS/DIM/83G4/2015/49
+Assam
+Dima Hasao
+Thingbhung
+Near Thingbhung village
+25.145
+93.158
+Earth
+Slide
+NA
+161
+ASM/DH/83G4/2016/44
+Assam
+Dima Hasao
+New Haflong R. S slide(3)
+New Haflong Railway Station
+25.14525
+93.029167
+Debris
+Slide
+2016
+162
+ASM/DH/83G4/2016/16
+Assam
+Dima Hasao
+Vidya Mandir, Boro Haflong-2
+Boro Haflong, Haflong
+25.145861
+93.024194
+Rock cum Debris
+Slide
+2016
+163
+AS/DH/83C16/2018/002
+Assam
+Dima Hasao
+Jatinga Lampur landslide.
+Between Jatinga Lampur 
+Railway Station and Harangajao 
+Railway Station.
+25.146306
+93.942167
+Debris
+Slide
+14 June 2018
+164
+ASM/DH/83G4/2016/02
+Assam
+Dima Hasao
+New Haflong R. S slide(1)
+West slope of New Haflong 
+Railway Station.
+25.146778
+93.030972
+Rock cum Debris
+Slide
+2016
+165
+ASM/DH/83G4/2016/43
+Assam
+Dima Hasao
+New Haflong R.S. slide - (2)
+New Haflong Railway Station
+25.148722
+93.031917
+Debris
+Slide
+2016
+166
+AS/DIH/83G08/2020/21
+Assam
+Dima Hasao
+ 
+Data recorded from Hejaichak 
+to Hangrum road
+25.15
+93.37
+Debris
+Slide
+NA
+167
+ASM/DH/83G4/2016/15
+Assam
+Dima Hasao
+Boro Haflong-1
+Near Boro Haflong village, 
+Haflong
+25.150694
+93.025833
+Debris
+Slide
+2016
+168
+AS/DIM/83G4/2015/41
+Assam
+Dima Hasao
+Pura slide.-2
+Near Pura village
+25.155
+93.067
+Earth
+Slide
+2014
+169
+AS/DIM/83G4/2015/42
+Assam
+Dima Hasao
+Pura,NH-54
+Pura
+25.155
+93.067
+Earth
+Slide
+2014
+170
+AS/DIM/83G4/2015/26
+Assam
+Dima Hasao
+Pura slide.
+NH-54,Near Pura village
+25.155
+93.073
+Earth
+Slide
+2014
+171
+ASM/DH/83G4/2016/25
+Assam
+Dima Hasao
+Mahadev Tila slide-2
+Haflong town
+25.155611
+93.022222
+Debris
+Slide
+2016
+172
+ASM/DH/83G4/2016/24
+Assam
+Dima Hasao
+Mahadev Tilla-1
+Mahadev Tilla, Haflong
+25.155722
+93.022778
+Earth
+Slide
+2016
+173
+AS/DIM/83G4/2015/57
+Assam
+Dima Hasao
+Bara Haflong
+Bara Haflong,Near New Haflong 
+RS
+25.156
+93.018
+Earth
+Slide
+2014
+174
+ASM/DH/83G4/2016/27
+Assam
+Dima Hasao
+Haflong-Jatinga road section slide-02
+Haflong  town
+25.156389
+93.018389
+Rock cum Debris
+Slide
+2016
+175
+ASM/DH/83G4/2016/26
+Assam
+Dima Hasao
+Haflong-Jatinga road section slide-01
+Haflong  town
+25.156583
+93.019611
+Rock cum Debris
+Slide
+2016
+176
+ASM/DH/83G4/2016/06
+Assam
+Dima Hasao
+G. C. Langthasa High school slide
+Near Mahadev Tila, Haflong
+25.156694
+93.017667
+Debris
+Slide
+1998
+177
+AS/DIM/83G4/2015/64
+Assam
+Dima Hasao
+Pura Sinking Zone village
+Pura village on NH-54
+25.157
+93.062
+Earth
+Slide
+2014
+178
+AS/DIM/83G4/2015/43
+Assam
+Dima Hasao
+Pura-4
+Pura,NH-54
+25.157
+93.066
+Earth
+Slide
+2014
+179
+ASM/DH/83G4/2016/29
+Assam
+Dima Hasao
+Haflong-Jatinga road section slide-04
+Haflong  town
+25.157139
+93.017194
+Debris
+Slide
+2016
+180
+ASM/DH/83G4/2016/28
+Assam
+Dima Hasao
+Haflong-Jatinga road section slide-03
+Haflong  town
+25.157361
+93.016083
+Rock cum Debris
+Slide
+2016
+181
+ASM/DH/83G4/2016/30
+Assam
+Dima Hasao
+Gadhi Rojai Slide
+Haflong  town
+25.159333
+93.017
+Earth
+Slide
+2016
+182
+ASM/DH/83G4/2016/14
+Assam
+Dima Hasao
+Songpiang-2
+Songpiang village, Haflong
+25.163444
+93.023167
+Debris
+Slide
+2016
+183
+ASM/DH/83G4/2016/42
+Assam
+Dima Hasao
+96 km Migrendisa slide
+96 km, Migrendisa – Haflong rail 
+section, near Diyung bridge.
+25.164
+93.040194
+Debris
+Slide
+2016
+184
+ASM/DH/83G4/2016/13
+Assam
+Dima Hasao
+Songpiang-1
+Songpiang village, Haflong
+25.165639
+93.025444
+Debris
+Slide
+2016
+185
+AS/DIM/83G4/2015/44
+Assam
+Dima Hasao
+Pangmol
+Near Pangmol village
+25.169
+93.155
+Earth
+Slide
+NA
+186
+AS/DIM/83G4/2015/45
+Assam
+Dima Hasao
+Riao slide
+Near Riao village.
+25.169
+93.156
+Earth
+Slide
+NA

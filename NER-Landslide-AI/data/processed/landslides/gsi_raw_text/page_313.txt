@@ -1,0 +1,519 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+13381
+KER/PALA/58B11/2007/0033
+Kerala
+Palakkad
+Kadappara
+Mangalam dam
+10.4698
+76.5641
+Debris
+Slide
+NA
+13382
+KER/PALA/58B11/2007/0031
+Kerala
+Palakkad
+Kavalupara
+Kizhakkulamcherry-II
+10.4808
+76.5356
+Debris
+Avalanche
+16 July 2007 (02:30 hrs)
+13383
+KER/PALA/58B11/2007/0030
+Kerala
+Palakkad
+Kavalupara-Ladak
+Kizhakkulamcherry-II
+10.4813
+76.5261
+Debris
+Avalanche
+16 July 2007 (02:30 hrs)
+13384
+KER/PALA/58B11/2007/0032
+Kerala
+Palakkad
+Kavalupara 2nd
+Kizhakkulamcherry-II
+10.483
+76.5286
+Debris
+Avalanche
+16 July 2007 (02:30 hrs)
+13385
+KER/PALA/58B11/2007/0034
+Kerala
+Palakkad
+Poothamkuzhi
+Mangalam dam
+10.493
+76.5618
+Debris
+Avalanche
+16 July 2007 (01:30 hrs)
+13386
+KER/PALA/58B10/2007/0039
+Kerala
+Palakkad
+Kundarachola-Cherunelli
+PadaGiri hillock, Pothundi 
+reservoir
+10.5185
+76.6306
+Debris
+Slide
+16 July 2007
+13387
+KER/PALA/58B10/2007/0041
+Kerala
+Palakkad
+Kundarachola-cherunelli-3
+Pothundi dam
+10.5248
+76.6413
+Debris
+Flow
+16 July 2007
+13388
+KER/PALA/58B10/2007/0042
+Kerala
+Palakkad
+Cherunelli Estate
+Nelliyampathy
+10.5249
+76.6414
+Debris
+Flow
+16 July 2007
+13389
+KER/PALA/58B10/2007/0040
+Kerala
+Palakkad
+Kundarachola-Cherunelli-2
+Pothundi dam
+10.5252
+76.6391
+Debris
+Slide
+16 July 2007
+13390
+KER/PALA/58B10/2007/0043
+Kerala
+Palakkad
+Cherunelli Estate-2
+Pada Giri hillock
+10.5259
+76.6566
+Debris
+Slide
+16 July 2007
+13391
+KER/PALA/58B10/2007/0045
+Kerala
+Palakkad
+Cherunelli Estate-4
+ 
+10.527
+76.6603
+Debris
+Avalanche
+16 July 2007
+13392
+KER/PALA/58B10/2007/0044
+Kerala
+Palakkad
+Cherunelli Estate-3
+ 
+10.528
+76.6587
+Debris
+Slide
+16 July 2007
+13393
+KER/PALA/58B10/2007/0046
+Kerala
+Palakkad
+Cherunelli Estate-5
+ 
+10.528
+76.6675
+Debris
+Slide
+16 July 2007
+13394
+KER/PALA/58B10/2007/0035
+Kerala
+Palakkad
+Kairadi-Kaithahira
+Chittur
+10.5481
+76.5671
+Debris
+Slide
+16 July 2007 (23:50 hrs)
+13395
+KER/KOZH/58B10/2007/0036
+Kerala
+Kozhikode
+Kairadi-Naalaamkooppu_1
+ 
+10.5483
+76.5622
+Debris
+Flow
+16 July 2007 (01:30 hrs)
+13396
+KER/PALA/58B10/2007/0037
+Kerala
+Palakkad
+Kairadi-Naalaamkooppu_2
+Ayala Mudichi
+10.5494
+76.5612
+Debris
+Flow
+16 July 2007 (12:30 hrs)
+13397
+KER/PALA/58B10/2007/0038
+Kerala
+Palakkad
+Thekkekulambu
+Kairadi
+10.553
+76.5578
+Debris
+Flow
+16 July 2007 (11:50 hrs)
+13398
+KER/PALA/58B10/2007/0047
+Kerala
+Palakkad
+Cherunelli Estate-6
+ 
+10.5641
+76.6729
+Debris
+Flow
+16 July 2007 (11:50 hrs)
+13399
+KER/MALA/58A04/2007/0011
+Kerala
+Malappuram
+Chengara-Kottavurmala
+Kavanur
+10.8505
+76.2711
+Debris
+Slide
+1956, 1994, 17 July 2007
+13400
+KER/MALA/58B05/2007/0017
+Kerala
+Malappuram
+Kallidimbu
+Eranad
+10.8508
+76.2712
+Debris
+Slide
+2007
+13401
+KRL/PAL/58B09/2016/73
+Kerala
+Palakkad
+Ambala Mala
+Ambala Mala
+10.864489
+76.604869
+Rock cum Debris
+Flow
+2006
+13402
+KRL/PAL/58B09/2016/72
+Kerala
+Palakkad
+Dhoni
+Dhoni
+10.868686
+76.619767
+Debris
+Flow
+2003
+13403
+KRL/PAL/58B09/2016/75
+Kerala
+Palakkad
+Elival
+Elival
+10.906467
+76.679003
+Rock cum Debris
+Flow
+NA
+13404
+KRL/PAL/58B09/2016/79
+Kerala
+Palakkad
+Melemadam
+Melemadam
+10.912111
+76.554256
+Rock
+Fall
+NA
+13405
+KRL/PAL/58B09/2016/70
+Kerala
+Palakkad
+Thirupapathi
+Thirupapathi
+10.937644
+76.558936
+Debris
+Slide
+NA
+13406
+KRL/PAL/58B09/2016/68
+Kerala
+Palakkad
+Inchikunnu
+Inchikunnu
+10.975989
+76.572928
+Debris
+Slide
+2014
+13407
+KRL/PAL/58B09/2016/77
+Kerala
+Palakkad
+Inchikuunu
+Inchikuunu
+10.977286
+76.574889
+Debris
+Slide
+NA
+13408
+KRL/PAL/58B09/2016/76
+Kerala
+Palakkad
+Inchikuunu
+Inchikuunu
+10.977561
+76.570944
+Debris
+Slide
+NA
+13409
+KRL/PAL/58B09/2016/78
+Kerala
+Palakkad
+Inchikuunu
+Inchikuunu
+10.981403
+76.579403
+Debris
+Slide
+NA
+13410
+KER/MALA/58A04/2007/0014
+Kerala
+Malappuram
+Mannarmala
+Kariyavattam
+11.0008
+76.2455
+Debris
+Slide
+17 July 2007 (02:00 hrs)
+13411
+KRL/PAL/58A12/2016/65
+Kerala
+Palakkad
+Punchola
+Punchola
+11.011778
+76.5562
+Debris
+Flow
+NA
+13412
+KRL/PAL/58B09/2016/67
+Kerala
+Palakkad
+Kanjiram
+Kanjiram
+11.012586
+76.531503
+Rock cum Debris
+Flow
+NA
+13413
+KRL/PAL/58A12/2016/47
+Kerala
+Palakkad
+Siruvani estate(f-15)
+Siruvani estate(f-15)
+11.017189
+76.664061
+Earth
+Slide
+1999
+13414
+KRL/PAL/58A12/2016/46
+Kerala
+Palakkad
+Siruvani estate(f-15)
+Siruvani estate(f-15)
+11.018503
+76.664311
+Debris
+Slide
+NA
+13415
+KRL/PAL/58A12/2016/66
+Kerala
+Palakkad
+Punchola
+Punchola
+11.018786
+76.554092
+Debris
+Slide
+NA
+13416
+KRL/PAL/58A12/2016/45
+Kerala
+Palakkad
+Siruvani estate(f-15)
+Siruvani estate(f-15)
+11.019092
+76.664319
+Debris
+Slide
+1998
+13417
+KRL/PAL/58A12/2016/44
+Kerala
+Palakkad
+Siruvani estate(f-14)
+Siruvani estate(f-14)
+11.020853
+76.665867
+Earth
+Slide
+NA
+13418
+KRL/PAL/58A12/2016/04
+Kerala
+Palakkad
+Thumbapara
+Thumbapara
+11.022908
+76.616231
+Debris
+Slide
+1987
+13419
+KRL/PAL/58A12/2016/50
+Kerala
+Palakkad
+Siruvani estate(f-14)
+Siruvani estate(f-14)
+11.024278
+76.666142
+Rock cum Debris
+Slide
+NA
+13420
+KRL/PAL/58A12/2016/05
+Kerala
+Palakkad
+Thumbapara
+Thumbapara
+11.024417
+76.617081
+Debris
+Flow
+1987
+13421
+KRL/PAL/58A12/2016/51
+Kerala
+Palakkad
+Thekke Puliyara
+Thekke Puliyara
+11.024856
+76.626281
+Debris
+Slide
+NA
+13422
+KRL/PAL/58A12/2016/52
+Kerala
+Palakkad
+Thekke Puliyara
+Thekke Puliyara
+11.026083
+76.626261
+Debris
+Slide
+NA
+13423
+KRL/PAL/58A12/2016/64
+Kerala
+Palakkad
+Anamooli
+Anamooli
+11.026772
+76.517839
+Debris
+Slide
+NA
+13424
+KRL/PAL/58A12/2016/03
+Kerala
+Palakkad
+Thumbapara
+Thumbapara
+11.027011
+76.616214
+Debris
+Slide
+1996
+13425
+KRL/PAL/58A12/2016/01
+Kerala
+Palakkad
+Thumbapara
+Thumbapara
+11.027433
+76.617458
+Debris
+Flow
+1987
+13426
+KRL/PAL/58A12/2016/02
+Kerala
+Palakkad
+Thumbapara
+Thumbapara
+11.027444
+76.617342
+Debris
+Slide
+1996

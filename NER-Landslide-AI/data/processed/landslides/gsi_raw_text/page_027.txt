@@ -1,0 +1,402 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+825
+LS_ASM_DH_0401/2024
+Assam
+Dima Hasao
+Lungkhok-Asiakrobi road slide 2
+Lungkhok-Asiakrobi road 
+section
+25.19509
+92.9995
+Debris
+Slide
+2024
+826
+LS_ASM_DH_0402/2024
+Assam
+Dima Hasao
+Lungkhok-Asiakrobi road slide 3
+Lungkhok-Asiakrobi road 
+section
+25.199617
+92.997478
+Debris
+Slide
+2024
+827
+LS_ASM_DH_0403/2024
+Assam
+Dima Hasao
+Gunjung-Maibang road slide 1
+Gunjung-Maibang road section
+25.325408
+93.037147
+Earth
+Slide
+NA
+828
+LS_ASM_DH_0404/2024
+Assam
+Dima Hasao
+Gunjung-Maibang road slide 2
+Gunjung-Maibang road section
+23.333165
+93.057945
+Earth
+Slide
+NA
+829
+LS_ASM_DH_0405/2024
+Assam
+Dima Hasao
+Belang road slide
+Belang road section
+25.197888
+93.02683
+Earth
+Slide
+NA
+830
+LS_ASM_DH_0406/2024
+Assam
+Dima Hasao
+Khomunnom playground slide
+Khomunnom
+25.18833
+93.104922
+Earth
+Slide
+2016, 2022
+831
+LS_ASM_DH_0407/2024
+Assam
+Dima Hasao
+Lasang Aam road slide
+Lasang Aam road section
+25.147883
+93.085354
+Debris
+Slide
+2022
+832
+LS_ASM_DH_0408/2024
+Assam
+Dima Hasao
+Dehangi-Umrangso road slide
+Dehangi-Umrangso road section 25.425403
+92.982053
+Earth
+Slide
+NA
+833
+LS_ASM_DH_0409/2024
+Assam
+Dima Hasao
+Sampardisa-Gaijon road slide 1
+Sampardisa-Gaijon road section 25.241135
+93.007627
+Debris
+Slide
+NA
+834
+LS_ASM_DH_0410/2024
+Assam
+Dima Hasao
+Sampardisa-Gaijon road slide 2
+Sampardisa-Gaijon road section 25.245448
+93.003937
+Debris
+Slide
+NA
+835
+LS_ASM_DH_0412/2024
+Assam
+Dima Hasao
+Lungkhok-Sampardisa road slide 1
+Lungkhok-Sampardisa road 
+section
+25.211625
+93.001130
+Debris
+Slide
+2024
+836
+LS_ASM_DH_0411/2024
+Assam
+Dima Hasao
+Lungkhok-Sampardisa road slide 2
+Lungkhok-Sampardisa road 
+section
+25.21112
+92.999782
+Debris
+Slide
+2024
+837
+LS_ASM_DH_0413/2024
+Assam
+Dima Hasao
+Maibang-Guilongkam road slide 1
+Maibang-Guilongkam road 
+section
+25.267553
+93.191317
+Earth
+Slide
+2024
+838
+LS_ASM_DH_0414/2024
+Assam
+Dima Hasao
+Maibang-Guilongkam road slide 2
+Maibang-Guilongkam road 
+section
+25.266788
+93.190998
+Earth
+Slide
+2024
+839
+LS_ASM_DH_0415/2024
+Assam
+Dima Hasao
+Maibang-Guilongkam road slide 3
+Maibang-Guilongkam road 
+section
+25.266760
+93.196400
+Earth
+Slide
+2024
+840
+LS_ASM_DH_0416/2024
+Assam
+Dima Hasao
+Maibang-Guilongkam road slide 4
+Maibang-Guilongkam road 
+section
+25.266142
+93.197997
+Debris
+Slide
+2024
+841
+LS_ASM_DH_0417/2024
+Assam
+Dima Hasao
+Maibang-Guilongkam road slide 5
+Maibang-Guilongkam road 
+section
+25.265743
+93.217780
+Earth
+Slide
+2022
+842
+6986
+Assam
+Kamrup
+Sundarpur village
+25.757752
+91.252285
+Debris
+flow
+17 July 2014
+843
+7077
+Assam
+Kamrup (Metro)
+708
+26.238016
+91.945953
+Soil
+slide
+2 November 2025
+844
+7115
+Assam
+Kamrup
+lepgaon
+25.872268
+91.213965
+Debris
+flow
+23 September 2014
+845
+7192
+Assam
+Kamrup
+26.2272613
+91.6922458
+Debris
+slide
+26 December 2008
+846
+7193
+Assam
+Kamrup (Metro)
+Birkuchi
+26.184324
+91.855395
+Soil
+slide
+31 May 2025
+847
+7194
+Assam
+Kamrup
+26.24698
+91.964383
+Debris
+slide
+05 July 2025
+848
+7195
+Assam
+Kamrup (Metro)
+Nalgedra
+26.11956
+92.052125
+Soil
+slide
+05 June 2025
+849
+7196
+Assam
+Dima Hasao
+25.69814
+93.129423
+Soil
+slide
+05 June 2025
+850
+7197
+Assam
+Dima Hasao
+25.648512
+93.121528
+Debris
+slide
+05 June 2025
+851
+7198
+Assam
+Dima Hasao
+25.388977
+93.121008
+Debris
+slide
+2024
+852
+7201
+Assam
+West Khasi Hills
+Harsanagar
+25.740148
+91.224044
+Soil
+slide
+18 July 2014
+853
+7203
+Assam
+Dima Hasao
+25.341478
+93.133718
+Debris
+slide
+31st May 2025
+854
+7210
+Assam
+West Karbi Anglong
+hamren- dinkamukam road sector
+25.888959
+92.61669
+Debris
+slide
+2024
+855
+7211
+Assam
+West Karbi Anglong
+25.890032
+92.621245
+Debris
+slide
+2024
+856
+7241
+Assam
+Kamrup (Metro)
+Amchong tea estate
+26.156633
+91.938576
+Soil
+slide
+8 August 2024
+857
+7460
+Assam
+Kamrup (Metro)
+Khanapara
+26.1445
+91.7362
+Soil and Rock
+Flow
+31 May 2026, 15 July 2025
+858
+AR/LON/83N06/2022/003
+Arunachal Pradesh
+Longding
+800 m S of Bonia
+Longding-Konsa road
+26.736494
+95.261822
+Debris
+Slide
+NA
+859
+AR/LON/83N05/2022/002
+Arunachal Pradesh
+Longding
+500 m E of Niausa village
+Longding - Konsa road
+26.799929
+95.309533
+Debris
+Slide
+NA
+860
+AR/LON/83N05/2022/001
+Arunachal Pradesh
+Longding
+2.5 km SE of Longding
+Longding-Khonsa road
+26.849624
+95.320878
+Debris
+Slide
+NA
+861
+AR/LON/83N05/2022/005
+Arunachal Pradesh
+Longding
+4 km E of Longding
+Longding-Khonsa road
+26.87859
+95.35234
+Debris
+Slide
+NA

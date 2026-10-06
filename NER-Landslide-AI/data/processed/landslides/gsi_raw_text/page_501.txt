@@ -1,0 +1,435 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20255
+MG/WGH/78K06/2020/2
+Meghalaya
+West Garo Hills
+Rongram-Jengjal road slide 2
+NH-217,Paikan-Tura Dalu Road, 
+Near Rongram bazaar
+25.6
+90.29
+Debris
+Slide
+NA
+20256
+MG/WKH/78O02/2017/70
+Meghalaya
+West Khasi Hills
+0.6 km NNW of Umjaru
+NH44E
+25.600736
+91.177453
+Debris
+Slide
+NA
+20257
+MG/WKH/78O02/2017/1
+Meghalaya
+West Khasi Hills
+Rwiang
+NH44E
+25.602683
+91.180708
+Debris
+Slide
+NA
+20258
+ME/EKJ/78O15/2015/142
+Meghalaya
+East Khasi Hills
+ 
+Umj jew- Lumpyngrope 
+approach road
+25.60339
+91.856222
+Rock
+Slide
+NA
+20259
+MG/WKH/78O02/2017/63
+Meghalaya
+West Khasi Hills
+2.5 km W of Rwiang
+NH44E  Umshinrut road
+25.606189
+91.157706
+Debris
+Slide
+NA
+20260
+ME/EKJ/78O14/2015/47
+Meghalaya
+East Khasi Hills
+ 
+Umj jew- Lumpyngrope 
+approach road
+25.606193
+91.856276
+Rock
+Slide
+NA
+20261
+MG/WKH/78O02/2017/10
+Meghalaya
+West Khasi Hills
+0.5 km NW of Rwiang
+NH44E
+25.606969
+91.176158
+Debris
+Slide
+NA
+20262
+MG/WKH/78O02/2017/68
+Meghalaya
+West Khasi Hills
+2.7 km W of Rwiang
+NH44E  Umshinrut road
+25.607458
+91.157039
+Debris
+Slide
+NA
+20263
+MG/WKH/78O02/2017/11
+Meghalaya
+West Khasi Hills
+0.7 km NW of Rwaing
+NH44E
+25.607567
+91.174906
+Debris
+Slide
+NA
+20264
+MG/WGH/78K06/2020/1
+Meghalaya
+West Garo Hills
+Rongram-Jengjal road slide 1
+NH-217,Paikan-Tura Dalu Road
+25.61
+90.29
+Debris
+Slide
+2019
+20265
+MG/WGH/78K06/2020/3
+Meghalaya
+West Garo Hills
+Rongram-Jengjal road slide 3
+NH-217,Paikan-Tura Dalu Road
+25.61
+90.29
+Debris
+Slide
+NA
+20266
+MG/WGH/78K06/2020/4
+Meghalaya
+West Garo Hills
+Rongram-Jengjal road slide 4
+NH-217,Paikan-Tura Dalu Road
+25.61
+90.29
+Debris
+Slide
+2019
+20267
+MG/WGH/78K06/2020/5
+Meghalaya
+West Garo Hills
+Rongram-Jengjal road slide 5
+NH-217,Paikan-Tura Dalu Road
+25.61
+90.29
+Debris
+Slide
+NA
+20268
+MG/WGH/78K06/2020/6
+Meghalaya
+West Garo Hills
+Rongram-Jengjal road slide 6
+NH-217,Paikan-Tura Dalu Road
+25.61
+90.3
+Debris
+Slide
+NA
+20269
+MG/WGH/78K06/2020/7
+Meghalaya
+West Garo Hills
+Rongram-Jengjal road slide 7
+NH-217,Paikan-Tura Dalu Road
+25.61
+90.31
+Debris
+Slide
+NA
+20270
+MG/WKH/78O02/2017/98
+Meghalaya
+West Khasi Hills
+0.6 km NE of Langumshing
+NH44E
+25.611361
+91.022019
+Debris
+Slide
+NA
+20271
+MG/WJH/83C06/2018/7
+Meghalaya
+West Jaintia hills
+Barato slide
+2 km North of Barato
+25.611931
+92.452931
+Debris
+Slide
+NA
+20272
+ME/EKJ/78O14/2015/33
+Meghalaya
+East Khasi Hills
+ 
+Old shillong -Guwahati road
+25.612528
+91.870861
+Earth
+Slide
+NA
+20273
+MG/WKH/78O02/2017/71
+Meghalaya
+West Khasi Hills
+Mawruksoin
+NH44E
+25.612794
+91.173697
+Debris
+Slide
+NA
+20274
+ME/EKJ/78O15/2015/78
+Meghalaya
+East Khasi Hills
+ 
+Old shillong -Guwahati road
+25.613583
+91.871778
+Earth
+Slide
+NA
+20275
+ME/EKJ/78O14/2015/34
+Meghalaya
+East Khasi Hills
+ 
+Old shillong -Guwahati road
+25.613917
+91.868639
+Earth
+Slide
+NA
+20276
+ME/EKJ/78O14/2015/35
+Meghalaya
+East Khasi Hills
+ 
+Old shillong -Guwahati road
+25.614112
+91.869632
+Earth
+Slide
+NA
+20277
+ME/EKJ/78O14/2015/36
+Meghalaya
+East Khasi Hills
+ 
+Old shillong -Guwahati road
+25.614537
+91.87005
+Earth
+Slide
+NA
+20278
+ME/EKJ/78O14/2015/38
+Meghalaya
+East Khasi Hills
+ 
+Old shillong -Guwahati road
+25.614657
+91.870692
+Earth
+Slide
+NA
+20279
+ME/EKJ/78O14/2015/37
+Meghalaya
+East Khasi Hills
+ 
+Old shillong -Guwahati road
+25.614664
+91.870266
+Earth
+Slide
+NA
+20280
+ME/EKJ/78O14/2015/39
+Meghalaya
+East Khasi Hills
+ 
+Old shillong -Guwahati road
+25.614807
+91.871158
+Earth
+Slide
+NA
+20281
+ME/EKJ/78O14/2015/40
+Meghalaya
+East Khasi Hills
+ 
+Old shillong -Guwahati road
+25.614912
+91.871711
+Earth
+Slide
+NA
+20282
+MG/WKH/78O06/2017/4
+Meghalaya
+South West Khasi  Hills
+Mawphynsiar slide
+Rambrai Road
+25.615092
+91.309872
+Debris
+Slide
+NA
+20283
+ME/EKJ/78O14/2015/41
+Meghalaya
+East Khasi Hills
+ 
+Old shillong -Guwahati road
+25.615134
+91.872232
+Debris
+Slide
+NA
+20284
+ME/EKJ/78O14/2015/17
+Meghalaya
+East Khasi Hills
+ 
+NH-40
+25.616596
+91.876562
+Earth
+Slide
+2015
+20285
+ME/EKJ/78O14/2015/42
+Meghalaya
+East Khasi Hills
+ 
+Old shillong -Guwahati road
+25.617787
+91.872745
+Debris
+Slide
+NA
+20286
+MG/WKH/78O02/2017/8
+Meghalaya
+West Khasi Hills
+1 km E of Mawruksoin
+Riwang  Langpih road
+25.618994
+91.185681
+Debris
+Slide
+NA
+20287
+MEG/WKH/78O10/2016/28
+Meghalaya
+West Khasi Hills
+MairangNongkhlaw R.S4
+MairangNongkhlaw road, about 
+0.5 km NW of Nongrmai village
+25.619625
+91.616567
+Earth
+Slide
+2016
+20288
+ME/EKJ/78O14/2015/43
+Meghalaya
+East Khasi Hills
+ 
+Old shillong -Guwahati road
+25.619861
+91.875111
+Debris
+Slide
+NA
+20289
+MG/WGH/78K06/2020/8
+Meghalaya
+West Garo Hills
+NA
+NA
+25.62
+90.33
+Debris
+Slide
+NA
+20290
+MEG/EKH/78O14/2020-21/1
+Meghalaya
+East Khasi Hills
+NA
+NA
+25.62
+91.88272222
+Soil
+Slide
+2013
+20291
+MEG/WKH/78O10/2016/27
+Meghalaya
+West Khasi Hills
+MairangNongkhlaw R.S3
+MairangNongkhlaw road, about 
+1 km NW of Nongrmai village
+25.620361
+91.617083
+Earth
+Slide
+2016
+20292
+MG/WKH/78O02/2017/12
+Meghalaya
+West Khasi Hills
+1.1 km NNW of Mawruksoin
+NH44E
+25.624778
+91.16775
+Debris
+Slide
+NA

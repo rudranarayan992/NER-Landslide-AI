@@ -1,0 +1,563 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+3137
+HP/SHI/53F13/2016/16
+Himachal Pradesh
+Shimla
+ 
+NEAR CHOINYAN RIGHT BANK 
+OF SHALONG GAD
+30.8316
+77.7567
+Debris
+Slide
+NA
+3138
+HP/SOL/53B13/2017/121
+Himachal Pradesh
+Solan
+ 
+NH22
+30.831859
+76.967198
+Rock
+Slide
+NA
+3139
+HP/SOL/53B13/2017/120
+Himachal Pradesh
+Solan
+ 
+NH22
+30.831872
+76.96791
+Rock
+Slide
+NA
+3140
+HP/SOL/53F01/2017/314
+Himachal Pradesh
+Solan
+ 
+KumarhattiNahan road
+30.832338
+77.07517
+Rock
+Slide
+NA
+3141
+HP/SHM/53F09/2017/81
+Himachal Pradesh
+Shimla
+ 
+Kulath link road
+30.832486
+77.586469
+Debris
+Slide
+NA
+3142
+HP/SIM/53F13/2016/27
+Himachal Pradesh
+Shimla
+Near Choinyan
+ 
+30.834
+77.7552
+Debris
+Slide
+NA
+3143
+HP/SHI/53F13/2016/17
+Himachal Pradesh
+Shimla
+ 
+NEAR CHOINYAN
+30.834
+77.7552
+Debris
+Slide
+NA
+3144
+HP/SOL/53B13/2017/21
+Himachal Pradesh
+Solan
+ 
+NH22
+30.834476
+76.96533
+Debris
+Slide
+NA
+3145
+HP/SOL/53B13/2017/49
+Himachal Pradesh
+Solan
+ 
+NH22
+30.8359
+76.9796
+Rock
+Slide
+NA
+3146
+HP/SHM/53F09/2017/79
+Himachal Pradesh
+Shimla
+ 
+Jannu link road
+30.835958
+77.599678
+Rock cum debris
+Slide
+NA
+3147
+HP/SOL/53F01/2017/382
+Himachal Pradesh
+Solan
+ 
+left bank of Giri River
+30.836
+77.250384
+Rock
+Slide
+NA
+3148
+HP/SOL/53F01/2017/381
+Himachal Pradesh
+Solan
+ 
+left bank of Giri River
+30.836065
+77.249966
+Rock
+Slide
+NA
+3149
+HP/SOL/53B13/2017/93
+Himachal Pradesh
+Solan
+ 
+NH22
+30.83609
+76.983865
+Rock
+Slide
+NA
+3150
+HP/SOL/53F01/2017/415
+Himachal Pradesh
+Solan
+ 
+NainatikkarNarag road
+30.836108
+77.162248
+Rock
+Slide
+NA
+3151
+HP/SOL/53F01/2017/416
+Himachal Pradesh
+Solan
+ 
+NainatikkarNarag road
+30.836108
+77.162248
+Rock
+Slide
+NA
+3152
+HP/SOL/53F01/2017/340
+Himachal Pradesh
+Solan
+ 
+NaragOcchghat road
+30.83638
+77.163064
+Rock
+Slide
+NA
+3153
+HP/SOL/53B13/2017/91
+Himachal Pradesh
+Solan
+ 
+NH22
+30.83645
+76.982895
+Rock
+Slide
+NA
+3154
+HP/SOL/53F01/2017/168
+Himachal Pradesh
+Solan
+ 
+BhojnagarChakki road
+30.836954
+77.004814
+Rock
+Slide
+NA
+3155
+HP/SOL/53F01/2017/380
+Himachal Pradesh
+Solan
+ 
+left bank of Giri River
+30.837003
+77.248815
+Rock
+Slide
+NA
+3156
+HP/SHM/53F09/2017/78
+Himachal Pradesh
+Shimla
+ 
+Jannu link road
+30.8371
+77.6023
+Debris
+Slide
+NA
+3157
+HP/SOL/53F01/2017/169
+Himachal Pradesh
+Solan
+ 
+BhojnagarChakki road
+30.837289
+77.003353
+Rock
+Slide
+NA
+3158
+HP/SHM/53F09/2017/76
+Himachal Pradesh
+Shimla
+ 
+Jannu link road
+30.837478
+77.603439
+Debris
+Slide
+NA
+3159
+HP/SOL/53F01/2017/379
+Himachal Pradesh
+Solan
+ 
+left bank of Giri River
+30.837481
+77.247151
+Rock
+Slide
+NA
+3160
+HP/SHM/53F09/2017/77
+Himachal Pradesh
+Shimla
+ 
+Jannu link road
+30.837889
+77.604189
+Debris
+Slide
+NA
+3161
+HP/SOL/53F01/2017/435
+Himachal Pradesh
+Solan
+ 
+KandaghatChail road
+30.838252
+77.043779
+Rock
+Slide
+NA
+3162
+HP/SOL/53F01/2017/5
+Himachal Pradesh
+Solan
+ 
+BhojnagarChakki road
+30.838323
+77.059828
+Rock
+Fall
+NA
+3163
+HP/SOL/53F01/2017/341
+Himachal Pradesh
+Solan
+ 
+NaragOcchghat road
+30.838846
+77.162639
+Rock
+Slide
+NA
+3164
+HP/SOL/53F01/2017/167
+Himachal Pradesh
+Solan
+ 
+BhojnagarChakki road
+30.838978
+77.00569
+Rock
+Slide
+NA
+3165
+HP/SOL/53F01/2017/303
+Himachal Pradesh
+Solan
+ 
+BhojnagarChakki road
+30.838982
+77.05868
+Rock
+Slide
+NA
+3166
+HP/KUL/53E01/2015/19
+Himachal Pradesh
+Kullu
+ 
+ 
+30.839528
+77.148167
+Rock cum debris
+Slide
+NA
+3167
+HP/SOL/53F01/2017/284
+Himachal Pradesh
+Solan
+ 
+NaragKaasar link road
+30.83965
+77.2348
+Rock
+Slide
+NA
+3168
+HP/SOL/53F01/2017/165
+Himachal Pradesh
+Solan
+ 
+BhojnagarChakki road
+30.83989
+77.003327
+Rock
+Slide
+NA
+3169
+HP/SOL/53F01/2017/166
+Himachal Pradesh
+Solan
+ 
+BhojnagarChakki road
+30.83994
+77.005528
+Rock
+Slide
+NA
+3170
+HP/SOL/53F01/2017/342
+Himachal Pradesh
+Solan
+ 
+NaragOcchghat road
+30.840056
+77.16297
+Rock
+Slide
+NA
+3171
+HP/KUL/53E01/2015/20
+Himachal Pradesh
+Kullu
+ 
+ 
+30.840556
+77.144889
+Rock cum debris
+Slide
+NA
+3172
+HP/SOL/53F01/2017/74
+Himachal Pradesh
+Solan
+ 
+NainatikkarNarag road
+30.841073
+77.152706
+Debris
+Slide
+NA
+3173
+HP/SOL/53F01/2017/393
+Himachal Pradesh
+Solan
+ 
+left bank of Giri River
+30.841118
+77.244906
+Rock
+Slide
+NA
+3174
+HP/SOL/53B13/2017/34
+Himachal Pradesh
+Solan
+ 
+NH22
+30.84121
+76.991177
+Debris
+Slide
+NA
+3175
+HP/SOL/53B13/2017/50
+Himachal Pradesh
+Solan
+ 
+NH22
+30.84121
+76.991177
+Rock
+Slide
+NA
+3176
+HP/SOL/53F01/2017/302
+Himachal Pradesh
+Solan
+ 
+BhojnagarChakki road
+30.841326
+77.043314
+Rock
+Slide
+NA
+3177
+HP/SOL/53F01/2017/343
+Himachal Pradesh
+Solan
+ 
+NaragOcchghat road
+30.841485
+77.161664
+Rock
+Slide
+NA
+3178
+HP/SOL/53F01/2017/73
+Himachal Pradesh
+Solan
+ 
+DilmanDenthal road
+30.841545
+77.154598
+Debris
+Slide
+NA
+3179
+HP/SOL/53B13/2017/33
+Himachal Pradesh
+Solan
+ 
+NH22
+30.841565
+76.991834
+Debris
+Slide
+NA
+3180
+HP/SOL/53F01/2017/155
+Himachal Pradesh
+Solan
+ 
+NaragOcchghat road
+30.841675
+77.161047
+Rock
+Slide
+NA
+3181
+HP/SOL/53B13/2017/172
+Himachal Pradesh
+Solan
+ 
+NH22
+30.841891
+76.992263
+Rock
+Slide
+NA
+3182
+HP/SOL/53F01/2017/156
+Himachal Pradesh
+Solan
+ 
+NaragOcchghat road
+30.842717
+77.16416
+Rock
+Slide
+NA
+3183
+HP/SHM/53F09/2017/80
+Himachal Pradesh
+Shimla
+ 
+Kupvi link road
+30.842864
+77.598411
+Rock cum debris
+Slide
+NA
+3184
+HP/SOL/53B13/2017/94
+Himachal Pradesh
+Solan
+ 
+NH22
+30.843192
+76.990981
+Rock
+Slide
+NA
+3185
+HP/SOL/53B13/2017/95
+Himachal Pradesh
+Solan
+ 
+NH22
+30.84362
+76.99208
+Rock
+Slide
+NA
+3186
+HP/SOL/53B13/2017/146
+Himachal Pradesh
+Solan
+ 
+NH22
+30.84376
+76.99199
+Rock
+Slide
+NA

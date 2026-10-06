@@ -1,0 +1,416 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16104
+KER/WYN/58A2/2019/37
+Kerala
+Wayanad
+Harrisons Malayalam Estate
+Estate road
+11.506241
+76.136642
+Debris
+Flow
+8th August 2019
+16105
+KER/WYN/58A2/2019/38
+Kerala
+Wayanad
+Kalladi
+Meppadi - Puthumala road
+11.510344
+76.137337
+Debris
+Slide
+8th August 2019
+16106
+KER/WYN/58A3/2019/39
+Kerala
+Wayanad
+900 acres
+Kalladi – 900-acres jeep road
+11.49859
+76.125528
+Debris
+Flow
+8th August 2019
+16107
+KER/WYN/58A3/2019/40
+Kerala
+Wayanad
+900 acres
+Kalladi - 900-acre road
+11.499223
+76.127859
+Debris
+Slide
+8th August 2019
+16108
+KER/WYN/58A3/2019/41
+Kerala
+Wayanad
+900 acres
+Kalladi - 900-acres road
+11.498578
+76.128535
+Debris
+Flow
+8th August 2019
+16109
+KER/WYN/58A3/2019/042
+Kerala
+Wayanad
+Puthumala
+Mepadi - Churalmala Road
+11.497473
+76.12908
+Debris
+Flow
+Date of initiation: 8th August 2019, 
+16.00 hrs
+16110
+KER/WYN/49M14/2019/43
+Kerala
+Wayanad
+Kurichyaar Mala (reactivated slide)
+-
+11.605889
+75.987703
+Debris
+Flow
+Reactivation: 7th August 2019, 08.00 
+am
+9th August 2018
+16111
+KER/WYN/58A2/2019/44
+Kerala
+Wayanad
+Vengachola Colony, Manikkunnumala -
+11.608153
+76.11606
+Soil
+Slide
+8th August 2019
+16112
+KER/WYN/58A2/2019/45
+Kerala
+Wayanad
+Kavanapara
+-
+11.606776
+76.118888
+Soil
+Slide
+8th August 2019
+16113
+KER/WYN/58A3/2019/46
+Kerala
+Wayanad
+Mundakkai Estate
+15th No. Padi road
+11.486797
+76.160537
+Debris
+Slide
+8th August 2019
+16114
+KER/WYN/58A3/2019/47
+Kerala
+Wayanad
+Mundakkai Estate
+15th No. Padi road
+11.485279
+76.160183
+Debris
+Slide
+8th August 2019
+16115
+KER/WYN/58A3/2019/48
+Kerala
+Wayanad
+Mundakkai Estate
+Harrisons Malayalam estate 
+road
+11.489735
+76.158496
+Debris
+Slide
+8th August 2019
+16116
+KER/WYN/58A3/2019/49
+Kerala
+Wayanad
+Mundakai Estate
+Estate road
+11.489962
+76.158194
+Debris
+Flow
+8th August 2019
+16117
+KER/WYN/58A3/2019/50
+Kerala
+Wayanad
+Mundakai Estate
+Estate road
+11.490127
+76.157562
+Debris
+Slide
+8th August 2019
+16118
+KER/WYN/58A3/2019/51
+Kerala
+Wayanad
+Churalmala
+Vallarmala division estate road
+11.496489
+76.16076
+Debris
+Slide
+8th August 2019
+16119
+KER/WYN/58A3/2019/52
+Kerala
+Wayanad
+Churalmala Silver Rock Estate
+Estate road
+11.496464
+76.160201
+Debris
+Slide
+8th August 2019
+16120
+KER/WYN/58A2/2019/53
+Kerala
+Wayanad
+Attamala Estate
+Attamala Estate road
+11.50535
+76.167608
+Debris
+Flow
+8th August 2019
+16121
+KER/WYN/58A2/2019/54
+Kerala
+Wayanad
+Attamala Estate
+Attamala Estate road
+11.504907
+76.167671
+Debris
+Slide
+8th August 2019
+16122
+KER/WYN/58A2/2019/55
+Kerala
+Wayanad
+Attamala
+Attamala – Chooralmala road
+11.502947
+76.164885
+Debris
+Slide
+8th August 2019
+16123
+KER/WYN/58A2/2019/56
+Kerala
+Wayanad
+Attamala
+Attamala – Chooralmala road
+11.502947
+76.164885
+Debris
+Slide
+8th August 2019
+16124
+KER/WYN/58A2/2019/57
+Kerala
+Wayanad
+Attamala
+Attamala – Chooralmala road
+11.50273
+76.16493
+Debris
+Slide
+8th August 2019
+16125
+KER/WYN/58A2/2019/58
+Kerala
+Wayanad
+Chooralmala
+Chooralmala road
+11.502775
+76.15347
+Debris
+Slide
+8th August 2019, 15.00 hrs.
+16126
+KER/WYN/58A2/2019/59
+Kerala
+Wayanad
+Kalladi
+Meppadi - Puthumala road
+11.514932
+76.133862
+Debris
+Slide
+8th August 2019
+16127
+KER/KNR/49M13/2019/01
+Kerala
+Kannur
+Memala
+Adackathodu – Shanthigiri - 
+Vendekenchal road
+11.913745
+75.842529
+Debris
+Flow
+8th August 2019, 23.30 hrs
+16128
+KER/KNR/49M13/2019/02
+Kerala
+Kannur
+Kailasampadi – Shanthigiri
+Kailasampadi – Shanthigiri road 11.910607
+75.860608
+Debris
+Slump
+Initiated during 2003 monsoon, 
+reactivated in 2018 and 2019 
+monsoons
+16129
+KER/KNR/49M13/2019/03
+Kerala
+Kannur
+Nelliyodi
+Pambrapan – Nelliyodi road
+11.856775
+75.861045
+Debris
+Flow
+8th August 2019
+16130
+KER/KNR/49M13/2019/04
+Kerala
+Kannur
+Chappamala
+-
+11.861662
+75.844728
+Debris
+Flow
+8th August, 22.30 hrs
+16131
+KER/KNR/49M13/2019/05
+Kerala
+Kannur
+Chappamala
+-
+11.8615
+75.844378
+Debris
+Flow
+8th August 23.00 hrs.
+16132
+KER/KNR/49M13/2019/06
+Kerala
+Kannur
+Karimbumkandam
+Thalakkani-Karimbumkandam 
+Road
+11.871064
+75.842369
+Debris
+Slide
+9th August 2019; 04.00 hrs.
+16133
+KER/KNR/48P12/2019/07
+Kerala
+Kannur
+Thermala
+-
+12.028903
+75.629107
+Debris
+Slump
+8th August 2019
+16134
+KER/PKD/58B09/2019/01
+Kerala
+Palakkad
+Tekke Malampuzha 1
+Tekke Malampuzha, near 
+Malampuzha dam
+10.85858333
+76.64751667
+Debris
+Flow
+9th August 2019
+16135
+KER/PKD/58B09/2019/02
+Kerala
+Palakkad
+Tekke Malampuzha 2
+Tekke Malampuzha 2, Near 
+Malampuzha dam
+10.83624167
+76.67796111
+Debris
+Slide
+ 2018 and 09 August 2019
+16136
+KER/PKD/58B09/2019/03
+Kerala
+Palakkad
+Anakkal 1
+Malampuzha, Anakkal road
+10.84491389
+76.73904167
+Debris
+Flow
+8 August 2018 and 09 August 2019
+16137
+KER/PKD/58B09/2019/04
+Kerala
+Palakkad
+Anakkal 2
+Malampuzha, Anakkal road
+10.86233611
+76.73838333
+Debris
+Flow
+8 August 2018 and 09 August 2019
+16138
+KER/PKD/58B09/2019/05
+Kerala
+Palakkad
+Anakkal 3
+Malampuzha, Anakkal road
+10.86786111
+76.69186111
+Debris
+Flow
+8 August 2018 and 09 August 2019
+16139
+KER/PKD/58B09/2019/06
+Kerala
+Palakkad
+Karimba Colony
+Munnekkar road
+10.92816667
+76.55565833
+Debris
+Flows
+9th August 2019

@@ -1,0 +1,325 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+18393
+MN/TEN/83L03/2018/20
+Manipur
+Tengnoupal
+ 
+1km south of Simang village
+24.506317
+94.180147
+Debris
+Slide
+NA
+18394
+MN/CHA/83L02/2018/18
+Manipur
+Chandel
+ 
+Pelyang Village
+24.506528
+94.180389
+Rock cum debris
+Slide
+NA
+18395
+MN/PZL/83H02/2020/41
+Manipur
+Pherzawl
+ 
+JT road, between Kharkhuplien 
+to Jaikhang
+24.51
+93.12
+Debris
+Slide
+NA
+18396
+MN/PZL/83H02/2020/27
+Manipur
+Pherzawl
+ 
+JT road, betweenLower 
+Kharkhuplien to Savomphai 
+village
+24.52
+93.09
+Debris
+Slide
+NA
+18397
+MN/PZL/83H02/2020/29
+Manipur
+Pherzawl
+ 
+Below JT road, betweenLower 
+Kharkhuplien to Savomphai 
+village
+24.52
+93.09
+Debris
+Slide
+2016
+18398
+MN/PZL/83H02/2020/30
+Manipur
+Pherzawl
+ 
+Below JT road, betweenLower 
+Kharkhuplien to Savomphai 
+village
+24.52
+93.09
+Debris
+Slide
+2016
+18399
+MN/PZL/83H02/2020/31
+Manipur
+Pherzawl
+ 
+Below JT road, betweenLower 
+Kharkhuplien to Savomphai 
+village
+24.52
+93.09
+Debris
+Slide
+NA
+18400
+MN/PZL/83H02/2020/32
+Manipur
+Pherzawl
+ 
+Below JT road, betweenLower 
+Kharkhuplien to Savomphai 
+village
+24.52
+93.08
+Rock
+Slide
+NA
+18401
+MN/PZL/83H02/2020/33
+Manipur
+Pherzawl
+ 
+Data taken from JT road, at LS 
+49
+24.52
+93.09
+Debris
+Slide
+NA
+18402
+MN/PZL/83H02/2020/34
+Manipur
+Pherzawl
+ 
+Data taken from JT road, at LS 
+49
+24.52
+93.1
+Debris
+Slide
+NA
+18403
+MN/PZL/83H02/2020/35
+Manipur
+Pherzawl
+ 
+JT road.
+24.52
+93.07
+Debris
+Slide
+NA
+18404
+MN/PZL/83H02/2020/38
+Manipur
+Pherzawl
+ 
+Lower Kharkhuplien area.
+24.52
+93.11
+Debris
+Slide
+2016
+18405
+MN/PZL/83H02/2020/39
+Manipur
+Pherzawl
+ 
+Lower Kharkhuplien area.
+24.52
+93.11
+Debris
+Slide
+NA
+18406
+MN/PZL/83H02/2020/43
+Manipur
+Pherzawl
+ 
+Lower Kharkhuplien area.
+24.52
+93.1
+Debris
+Slide
+NA
+18407
+MN/PZL/83H02/2020/44
+Manipur
+Pherzawl
+ 
+JT road
+24.52
+93.09
+Debris
+Slide
+NA
+18408
+MN/PZL/83H02/2020/45
+Manipur
+Pherzawl
+ 
+JT road
+24.52
+93.09
+Debris
+Slide
+NA
+18409
+MN/BNP/83H14/2020/1
+Manipur
+Bishnupur
+ 
+Ikhing village 1 km E of Loktak 
+Lake
+24.52
+93.8
+Debris
+Slide
+NA
+18410
+MN/CHA/83L02/2018/17
+Manipur
+Chandel
+ 
+Nungtak
+24.528778
+94.156667
+Soil
+Slide
+NA
+18411
+MN/CCR/83H02/2020/1
+Manipur
+Churachandpur
+ 
+JT road
+24.53
+93.08
+Debris
+Slide
+NA
+18412
+MN/CCR/83H02/2020/2
+Manipur
+Churachandpur
+ 
+JT road
+24.53
+93.07
+Rock
+Slide
+NA
+18413
+MN/CHU/83H10/2018/83
+Manipur
+Churachandpur
+ 
+Data taken from  Nalon village
+24.534017
+93.680433
+Debris
+Slide
+NA
+18414
+MN/CHU/83H10/2018/88
+Manipur
+Churachandpur
+ 
+Data taken from  Nalon village
+24.536556
+93.670047
+Debris
+Slide
+NA
+18415
+MN/CHU/83H10/2018/85
+Manipur
+Churachandpur
+ 
+Data taken from  Nalon village
+24.538817
+93.676767
+Debris
+Slide
+NA
+18416
+MN/PZL/83H02/2020/36
+Manipur
+Pherzawl
+ 
+Data taken from JT road, 
+betweenLower Kharkhuplien to 
+Savomphai village
+24.54
+93.11
+Debris
+Slide
+NA
+18417
+MN/CHU/83H10/2018/86
+Manipur
+Churachandpur
+ 
+Agri linked road Nalon village
+24.543806
+93.676528
+Debris
+Slide
+NA
+18418
+MN/CHU/83H10/2018/84
+Manipur
+Churachandpur
+ 
+Near Nalon village
+24.544361
+93.674917
+Debris
+Slide
+NA
+18419
+MN/CHU/83H10/2018/87
+Manipur
+Churachandpur
+ 
+Agri linked road Nalon village
+24.5465
+93.671667
+Debris
+Slide
+NA

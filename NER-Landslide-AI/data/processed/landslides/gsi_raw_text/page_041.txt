@@ -1,0 +1,530 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1360
+AR/WS/83I13/2022/097
+Arunachal Pradesh
+West Siang
+Likabali-Aalo road Slide 6
+Likabali-Aalo road
+27.858972
+94.783917
+Debris
+Slide
+NA
+1361
+AR/WS/83I13/2022/095
+Arunachal Pradesh
+West Siang
+Likabali-Aalo road Slide 4
+Likabali-Aalo road
+27.859444
+94.789222
+Rock
+Slide
+NA
+1362
+AP/KK/83E09/2021/20
+Arunachal Pradesh
+Kurung Kumey
+Relung New camp slide 2
+Relung New camp
+27.863722
+93.473389
+Debris
+Slide
+NA
+1363
+AP/KK/83E09/2021/21
+Arunachal Pradesh
+Kurung Kumey
+Relung New camp slide 1
+NW of Relung New camp
+27.866083
+93.467306
+Debris
+Slide
+NA
+1364
+AP/KK/83E09/2021/22
+Arunachal Pradesh
+Kurung Kumey
+Nainital  Kathgodam slide
+Nainital  Kathgodam
+27.86775
+93.465861
+Debris
+Slide
+NA
+1365
+AR/WS/83I13/2022/098
+Arunachal Pradesh
+West Siang
+Likabali-Aalo road Slide 7
+Likabali-Aalo road
+27.868667
+94.787083
+Rock
+Slide
+NA
+1366
+AR/WS/83I13/2022/099
+Arunachal Pradesh
+West Siang
+S of Daring Slide
+Daring road
+27.870361
+94.817861
+Debris
+Slide
+NA
+1367
+AP/KK/83E09/2021/23
+Arunachal Pradesh
+Kurung Kumey
+Kele Village slide 3
+Kele Village
+27.872722
+93.456306
+Debris
+Slide
+NA
+1368
+AP/KK/83E09/2021/24
+Arunachal Pradesh
+Kurung Kumey
+Kele Village slide 2
+Kele Village
+27.874667
+93.452917
+Debris
+Slide
+NA
+1369
+AR/LOH/92A05/2014/05
+Arunachal Pradesh
+Lohit
+ 
+NH 52
+27.87469
+96.35986
+Rock
+Slide
+May 2014
+1370
+AR/LOH/92A05/2014/01
+Arunachal Pradesh
+Lohit
+ 
+NH 52
+27.87825
+96.36614
+Rock
+Fall
+May 2014
+1371
+AP/KK/83E09/2021/29
+Arunachal Pradesh
+Kurung Kumey
+Kele village slide 1
+NW of Kele village
+27.882056
+93.444333
+Debris
+Slide
+NA
+1372
+AR/LOH/92A05/2014/02
+Arunachal Pradesh
+Lohit
+ 
+NH 52
+27.89311
+96.36336
+Rock
+Fall
+May 2014
+1373
+AR/WS/83I13/2022/100
+Arunachal Pradesh
+West Siang
+NE of Daring Slide 1
+Daring road
+27.893389
+94.842194
+Soil
+Slide
+NA
+1374
+AR/WS/83I13/2022/101
+Arunachal Pradesh
+West Siang
+NE of Daring Slide 2
+Daring road
+27.897361
+94.844111
+Rock
+Slide
+NA
+1375
+AP/KK/83E09/2021/26
+Arunachal Pradesh
+Kurung Kumey
+Koloriang slide 4
+East of Koloriang
+27.897722
+93.406306
+Debris
+Slide
+NA
+1376
+AP/KK/83E09/2021/25
+Arunachal Pradesh
+Kurung Kumey
+Koloriang slide 3
+East of Koloriang
+27.898806
+93.408444
+Debris
+Slide
+NA
+1377
+AP/KK/83E09/2021/28
+Arunachal Pradesh
+Kurung Kumey
+Koloriang slide 1
+Near Koloriang
+27.903389
+93.370361
+Debris
+Slide
+NA
+1378
+AP/KK/83E09/2021/27
+Arunachal Pradesh
+Kurung Kumey
+Koloriang slide 2
+Near Koloriang
+27.903417
+93.371722
+Debris
+Slide
+NA
+1379
+AR/LOH/92A05/2014/03
+Arunachal Pradesh
+Lohit
+ 
+NH 52
+27.90417
+96.35869
+Rock cum Debris
+Slide
+May 2014
+1380
+AR/ANJ/92A05/2014/21
+Arunachal Pradesh
+Lohit
+ 
+NH-52
+27.90467
+96.35917
+Rock
+Slide
+2013
+1381
+AR/ANJ/92A05/2014/19
+Arunachal Pradesh
+Lohit
+ 
+NH-52
+27.90475
+96.34811
+Debris
+Fall
+2013
+1382
+AR/LOH/92A05/2014/04
+Arunachal Pradesh
+Lohit
+ 
+NH 52
+27.90581
+96.35933
+Rock
+Fall
+May 2014
+1383
+AR/ANJ/92A05/2014/20
+Arunachal Pradesh
+Lohit
+ 
+NH-52
+27.90664
+96.35964
+Rock
+Slide
+2013
+1384
+AR/LOH/92A05/2014/06
+Arunachal Pradesh
+Lohit
+ 
+NH 52
+27.90772
+96.34517
+Rock
+Fall
+May 2014
+1385
+AR/LOH/92A05/2014/52
+Arunachal Pradesh
+Lohit
+ 
+NH-52
+27.90814
+96.36028
+Rock
+Slide
+2013
+1386
+AP/LEP/83I09/2021/88
+Arunachal Pradesh
+Lepa rada
+Ego-Yamin Basar road slide 1
+Ego-Yamin Basar road section
+27.909278
+94.736111
+Debris
+Slide
+NA
+1387
+AP/LEP/83I09/2021/90
+Arunachal Pradesh
+Lepa rada
+Ego-Yamin Basar road slide 3
+Ego-Yamin Basar road section
+27.910417
+94.739528
+Debris
+Slide
+NA
+1388
+AR/ANJ/92A05/2014/18
+Arunachal Pradesh
+Lohit
+ 
+Tohangam-Hayuliang Road
+27.91164
+96.34269
+Rock cum Debris
+Slide
+May 2014
+1389
+AP/LEP/83I09/2021/79
+Arunachal Pradesh
+Lepa rada
+Garo- Basar road section slide 1
+Garo to Basar road
+27.912806
+94.726972
+Rock
+Slide
+NA
+1390
+AP/LEP/83I09/2021/89
+Arunachal Pradesh
+Lepa rada
+Ego-Yamin Basar road slide 2
+Ego-Yamin Basar road section
+27.913333
+94.737472
+Debris
+Slide
+NA
+1391
+AP/LEP/83I09/2021/87
+Arunachal Pradesh
+Lepa rada
+Kamdak-Basar road slide
+Kamdak-Basar road section
+27.914944
+94.721806
+Rock
+Slide
+NA
+1392
+AR/LOH/92A05/2014/50
+Arunachal Pradesh
+Lohit
+ 
+NH-52
+27.91636
+96.33392
+Rock
+Fall
+2013
+1393
+AR/LOH/92A05/2014/49
+Arunachal Pradesh
+Lohit
+ 
+NH-52
+27.91647
+96.33161
+Rock
+Slide
+2013
+1394
+AR/LOH/92A05/2014/51
+Arunachal Pradesh
+Lohit
+ 
+NH-52
+27.91669
+96.33833
+Rock cum Debris
+Slide
+2013
+1395
+AR/LOH/92A05/2014/07
+Arunachal Pradesh
+Lohit
+ 
+Tohangam-Hayuliang Road
+27.91886
+96.33156
+Rock
+Slide
+May 2014
+1396
+AR/LOH/92A05/2014/24
+Arunachal Pradesh
+Lohit
+ 
+Tezu-Hayuliang road
+27.91897
+96.33108
+Rock
+Slide
+2013
+1397
+AP/LEP/83I09/2021/86
+Arunachal Pradesh
+Lepa rada
+Pagi-Basar road slide
+Pagi- Basar road section
+27.933611
+94.703472
+Rock
+Slide
+NA
+1398
+AP/LEP/83I09/2021/85
+Arunachal Pradesh
+Lepa rada
+Garo- Basar road section slide 5
+Garo- Basar road section
+27.937861
+94.702139
+Rock
+Slide
+NA
+1399
+AP/LEP/83I09/2021/84
+Arunachal Pradesh
+Lepa rada
+Garo- Basar road section slide 4
+Garo- Basar road section
+27.938056
+94.700306
+Rock
+Slide
+NA
+1400
+AR/LOH/92A05/2014/08
+Arunachal Pradesh
+Lohit
+ 
+Tohangam-Hayuliang Road
+27.93967
+96.38097
+Debris
+Slide
+May 2014
+1401
+AR/LOH/92A05/2014/13
+Arunachal Pradesh
+Lohit
+Lalpani slide
+Tezu-Hayuliang road
+27.94083
+96.38161
+Rock cum Debris
+Subsidence
+2013
+1402
+AP/LEP/83I09/2021/83
+Arunachal Pradesh
+Lepa rada
+Garo- Basar road section slide 3
+Garo- Basar road section
+27.94175
+94.695694
+Rock
+Slide
+NA
+1403
+AP/LEP/83I09/2021/82
+Arunachal Pradesh
+Lepa rada
+Garo- Basar road section slide 2
+Garo- Basar road section
+27.942917
+94.694528
+Rock
+Slide
+NA
+1404
+AR/LD/82P04/2022/033
+Arunachal Pradesh
+Lower dibang valley
+West of Ledum Slide 1
+Naer to Ledum village
+27.944389
+95.117586
+Rock
+Slide
+NA
+1405
+AP/LEP/83I09/2021/81
+Arunachal Pradesh
+Lepa rada
+Garo- Basar road section slide 1
+Garo- Basar road section
+27.944444
+94.692528
+Rock
+Slide
+NA
+1406
+AR/LOH/92A05/2014/12
+Arunachal Pradesh
+Lohit
+52 km slide
+Tezu-Hayuliang road
+27.94903
+96.39158
+Rock
+Slide and 
+topple
+2013

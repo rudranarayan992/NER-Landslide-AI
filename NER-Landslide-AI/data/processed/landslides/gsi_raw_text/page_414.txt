@@ -1,0 +1,368 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16925
+MH/SAT/47G09/2018/28
+Maharashtra
+Satara
+ 
+Poladpur ╬ô├ç├┤Pratapgad 
+road
+17.79967
+73.71211
+Debris
+Slide
+NA
+16926
+MH/SAT/47G13/2019/18
+Maharashtra
+Satara
+ 
+1km on village road from MDR-
+19 to Padumlemura
+17.802881
+73.845634
+Rock
+Fall
+NA
+16927
+MH/SAT/47G13/2019/14
+Maharashtra
+Satara
+ 
+1.3km on village Road from 
+MDR-19 to Padumlemura
+17.803478
+73.844418
+Rock
+Fall
+NA
+16928
+MH/RAT/47G01/2019/9
+Maharashtra
+Ratnagiri
+ 
+Murdi-Harnai Road
+17.80375
+73.10468
+Debris
+Fall
+NA
+16929
+MH/SAT/47G09/2018/4
+Maharashtra
+Satara
+Machutar
+Machutar village road, 
+Mahabaleshwar
+17.8049
+73.70938
+Debris
+Slide
+NA
+16930
+MH/SAT/47G09/2018/29
+Maharashtra
+Satara
+ 
+Bamnoli-Mahabaleshwar road
+17.80498
+73.70938
+Debris
+Slide
+NA
+16931
+MH/RAT/47G05/2018/20
+Maharashtra
+Ratnagiri
+~ 10 km from Sakhroli road
+Sakhroli-Mandangad road
+17.814
+73.326
+Debris
+Slide
+NA
+16932
+MH/SAT/47G09/2019/57
+Maharashtra
+Satara
+ 
+Kalamgaon-Taldev road
+17.81444
+73.67594
+Debris
+Slide
+NA
+16933
+MH/SAT/47G13/2019/19
+Maharashtra
+Satara
+ 
+1.7km on Bhilar-Medha Road 
+from MDR-19 towards Divdev
+17.814803
+73.840508
+Rock cum debris
+Slide
+NA
+16934
+MH/SAT/47G09/2019/56
+Maharashtra
+Satara
+ 
+Kalamgaon-Taldev road
+17.81536
+73.44947
+Debris
+Slide
+NA
+16935
+MH/SAT/47G13/2019/20
+Maharashtra
+Satara
+ 
+2.4km on Bhilar-Medha Road 
+from MDR-19 towards Divdev
+17.818086
+73.841804
+Rock cum debris
+Slide
+NA
+16936
+MH/SAT/47G13/2018/9
+Maharashtra
+Satara
+ 
+01 km on Village road from 
+Galdev to Bhogavlimura
+17.819593
+73.771287
+Rock cum debris
+Slide
+NA
+16937
+MH/RAT/47G01/2019/7
+Maharashtra
+Ratnagiri
+ 
+Tadil-Murdi Road
+17.83223
+73.14884
+Debris
+Slide
+NA
+16938
+MH/SAT/47G09/2018/13
+Maharashtra
+Satara
+11 Km from Mahabaleshwar
+Mahabaleshwar - Tapola road, 
+MDR-26.
+17.84827
+73.67419
+Rock
+Fall
+NA
+16939
+MH/SAT/47G09/2018/22
+Maharashtra
+Satara
+3 Km from Devli
+Khumbhrosh-Goroshi-Devli
+17.84842
+73.64756
+Debris
+Slide
+NA
+16940
+MH/RAT/47G01/2019/5
+Maharashtra
+Ratnagiri
+ 
+Anjarle-Harnei Road
+17.8502
+73.10267
+Debris
+Slide
+NA
+16941
+MH/SAT/47G09/2018/21
+Maharashtra
+Satara
+3.5 km from chaturbet
+Khumbhrosh-Chaturbet
+17.85064
+73.63476
+Debris
+Slide
+NA
+16942
+MH/RAT/47G05/2018/8
+Maharashtra
+Ratnagiri
+Umbarwadi
+Karanjadi-Natunagar Road
+17.8515
+73.40094
+Debris
+Slide
+NA
+16943
+MH/SAT/47G09/2018/23
+Maharashtra
+Satara
+4.5 Km from Devli
+Khumbhrosh-Goroshi-Devli
+17.8526
+73.64557
+Debris
+Slide
+NA
+16944
+MH/RAI/47G05/2018/11
+Maharashtra
+Raigad
+Jaganwadi
+Ombli- Ghogare-Khed Rd
+17.86003
+73.4688
+Debris
+Slide
+NA
+16945
+MH/SAT/47G09/2018/14
+Maharashtra
+Satara
+10 km from Mahabaleshwar
+Mahabaleshwar-Tapola road
+17.86478
+73.6732
+Rock
+Slide
+NA
+16946
+MH/SAT/47G13/2018/11
+Maharashtra
+Satara
+ 
+Slide occurred in a moderately 
+dissected slope near cultivation 
+about 400m from Ghuteghar
+17.866835
+73.750793
+Debris
+Slide
+NA
+16947
+MH/SAT/47G09/2019/55
+Maharashtra
+Satara
+ 
+Mahabaleshwar-Satara road
+17.8679
+73.74183
+Debris
+Slide
+NA
+16948
+MH/SAT/47G09/2019/42
+Maharashtra
+Satara
+ 
+Mahabaleshwar-Medha-Satara 
+road
+17.86861
+73.74122
+Debris
+Slide
+NA
+16949
+MH/SAT/47G09/2018/15
+Maharashtra
+Satara
+9 km from Mahabaleshwar
+Mahabaleshwar-Tapola road
+17.86874
+73.67768
+Debris
+Slide
+NA
+16950
+MH/SAT/47G09/2019/44
+Maharashtra
+Satara
+ 
+Mahabaleshwar-Medha-Satara 
+road
+17.86935
+73.73753
+Debris
+Slide
+NA
+16951
+MH/SAT/47G09/2019/43
+Maharashtra
+Satara
+ 
+Mahabaleshwar-Medha-Satara 
+road
+17.86946
+73.7383
+Debris
+Slide
+NA
+16952
+MH/SAT/47G09/2019/45
+Maharashtra
+Satara
+ 
+Mahabaleshwar-Medha-Satara 
+road
+17.87278
+73.73698
+Debris
+Slide
+NA
+16953
+MH/SAT/47G09/2019/46
+Maharashtra
+Satara
+ 
+Mahabaleshwar-Medha-Satara 
+road
+17.88074
+73.73603
+Rock
+Fall
+NA
+16954
+MH/RAI/47G05/2018/9
+Maharashtra
+Raigad
+Ombli
+Paithan -Ombli road
+17.88139
+73.47944
+Debris
+Slide
+NA
+16955
+MH/RAT/47G05/2018/7
+Maharashtra
+Ratnagiri
+Raigad-Ratnagiri distric boundary
+Karanjadi-Natunagar Road
+17.88228
+73.38417
+Debris
+Slide
+NA

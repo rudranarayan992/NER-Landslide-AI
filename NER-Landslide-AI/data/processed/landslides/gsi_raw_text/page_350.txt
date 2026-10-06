@@ -1,0 +1,422 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14579
+230
+Kerala
+Idukki
+Machiplavu
+Machiplavu - 
+Thattekannamkudi road
+10.031718
+76.912574
+Debris
+Flow
+14th August, 2018
+14580
+231
+Kerala
+Idukki
+Machiplavu
+Machiplavu - 
+Thattekannamkudi road
+10.024114
+76.914381
+Debris
+Slide
+15th August, 2018
+14581
+232
+Kerala
+Idukki
+Machiplavu
+Machiplavu - 
+Thattekannamkudi road
+10.0236
+76.914314
+Soil
+Slide
+15th August, 2018
+14582
+233
+Kerala
+Idukki
+Noorankara - Muthuvankudi
+Noorankara - Muthuvankudi 
+road
+10.036551
+76.941205
+Debris
+Flow
+15th August, 2018
+14583
+234
+Kerala
+Idukki
+Noorankara
+Korangatti - Plamala road
+10.03529
+76.948184
+Debris
+Slide
+15th August, 2018
+14584
+235
+Kerala
+Idukki
+Noorankara
+Korangatti - Plamala road
+10.033387
+76.948911
+Debris
+Slide
+15th August, 2018
+14585
+236
+Kerala
+Idukki
+Korangatti
+Korangatti - Plamala road
+10.030843
+76.94035
+Debris
+Slide
+15th August, 2018
+14586
+237
+Kerala
+Idukki
+Korangatti
+Korangatti - Plamala road
+10.033634
+76.936135
+Debris
+Slide
+15th August, 2018
+14587
+238
+Kerala
+Idukki
+Korangatti
+Korangatti - Plamala road
+10.032608
+76.935362
+Debris
+Slide
+15th August, 2018
+14588
+239
+Kerala
+Idukki
+Korangatti
+Korangatti - Plamala road
+10.03203
+76.933708
+Debris
+Slide
+15th August, 2018
+14589
+240
+Kerala
+Idukki
+Korangatti
+Korangatti - Plamala road
+10.031732
+76.933624
+Debris
+Slide
+15th August, 2018
+14590
+241
+Kerala
+Idukki
+Chattuparakudi
+Korangatti - Plamala road
+10.031173
+76.933329
+Debris
+Slide
+15th August, 2018
+14591
+242
+Kerala
+Idukki
+Chattuparakudi
+Korangatti - Plamala road
+10.030556
+76.9338
+Debris
+Flow
+15th August, 2018
+14592
+243
+Kerala
+Idukki
+Chattuparakudi
+Korangatti - Plamala road
+10.028576
+76.933742
+Debris
+Slide
+15th August, 2018
+14593
+244
+Kerala
+Idukki
+Adimali
+Adimali - Library road
+10.013351
+76.960455
+Debris
+Slide
+15th August, 2018
+14594
+245
+Kerala
+Idukki
+Adimali Library Road
+Adimali - Library road
+10.011862
+76.964605
+Debris
+Slide
+8th August, 2018
+14595
+246
+Kerala
+Idukki
+Adimali Library Road
+Adimali - Library road
+10.011908
+76.964396
+Debris
+Slide
+8th August, 2018
+14596
+247
+Kerala
+Idukki
+Adimali Library Road
+Adimali - Library road
+10.011914
+76.964861
+Debris
+Slide
+8th August, 2018
+14597
+248
+Kerala
+Idukki
+Adimali Library Road
+Adimali - Library road
+10.011894
+76.965253
+Soil
+Slide
+8th August, 2018
+14598
+249
+Kerala
+Idukki
+Palachuvadu
+Adimali - Munnar highway
+10.013924
+76.964344
+Debris
+Slide
+9th August, 2018
+14599
+250
+Kerala
+Idukki
+Mukkalekkar
+200 acre - Mezhukumchal road
+9.997868
+76.964767
+Debris
+Slide
+8th August, 2018
+14600
+251
+Kerala
+Idukki
+Mukkalekkar
+201 acre - Mezhukumchal road
+10.001608
+76.959035
+Debris
+Slide
+8th August, 2018
+14601
+252
+Kerala
+Idukki
+Munithand
+Adimali - Koompanpara road
+10.011485
+76.964065
+Debris
+Slide
+8th August, 2018
+14602
+253
+Kerala
+Idukki
+Munithand
+Adimali - Koompanpara road
+10.011132
+76.965759
+Debris
+Slide
+9th August, 2018
+14603
+254
+Kerala
+Idukki
+Kallar - Eight acre
+Ettekkar road
+10.025678
+76.986658
+Soil
+Slide
+14th August, 2018
+14604
+255
+Kerala
+Idukki
+8 acre
+Kallar - Koopanpara road
+10.02443
+76.986861
+Debris
+Slide
+15th August, 2018
+14605
+256
+Kerala
+Idukki
+Pettimudi
+Kallar - Koopanpara road
+10.022416
+76.978923
+Debris
+Slide
+14th August, 2018
+14606
+257
+Kerala
+Idukki
+Pettimudi
+Kallar - Koopanpara road
+10.024074
+76.976863
+Debris
+Flow
+15th August, 2018
+14607
+258
+Kerala
+Idukki
+Pettimudi Settlement
+Kallar - Koopanpara road
+10.02155
+76.97403
+Debris
+Slide
+15th August, 2018
+14608
+259
+Kerala
+Idukki
+Pettimudi
+Pettimudi - Thekkekkara road
+10.020316
+76.976311
+Debris
+Flow
+14th August, 2018
+14609
+260
+Kerala
+Idukki
+Pettimudi
+Pettimudi - Koompanpara road
+10.022125
+76.970194
+Debris
+Slide
+15th August, 2018
+14610
+261
+Kerala
+Idukki
+Pettimudi
+Pettimudi - Koompanpara - 
+Vattayar road
+10.022568
+76.960903
+Debris
+Flow
+15th August, 2018
+14611
+262
+Kerala
+Idukki
+Thalamali
+Korangatti - Thalamali road
+10.023758
+76.953842
+Debris
+Slide
+15th August, 2018
+14612
+263
+Kerala
+Idukki
+Korangatti
+Korangatti - Koompanpara road 10.032249
+76.942529
+Debris
+Slide
+9th August, 2018
+14613
+264
+Kerala
+Idukki
+Korangatti
+Korangatti - Koompanpara road 10.032275
+76.942702
+Debris
+Slide
+2nd August, 2018
+14614
+265
+Kerala
+Idukki
+Chinnaparakkudi
+Adimali - Chinnaprarkkudi road
+9.997695
+76.944932
+Debris
+Slide
+15th August, 2018
+14615
+266
+Kerala
+Idukki
+Chinnaparakkudi
+Adimali - Chinnaprarkkudi road
+9.99701
+76.946049
+Debris
+Slide
+15th August, 2018

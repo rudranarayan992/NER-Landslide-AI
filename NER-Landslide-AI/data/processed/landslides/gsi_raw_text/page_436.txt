@@ -1,0 +1,318 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+17721
+MH/RAT/47G10/2021/15
+Maharashtra
+Ratnagiri/Khed
+Tisangi 
+33 km by Khed-Tisangi tar road. 17.71288889
+73.50775
+Overburden soil
+Subsidence
+July 2021
+17722
+MH/RAT/47G10/2021/17B
+Maharashtra
+Ratnagiri/Khed
+Kelane 
+31 km from Khed and can be 
+reached by Khed-Kelane road
+17.58544722
+73.56065278
+Debris
+Slide with flow July 2021
+17723
+MH/RAT/47GI0/2021/18
+Maharashtra
+Ratnagiri/Khed
+Dhamnand 
+48 km by Khed-Saparli tar road. 17.62333611
+73.60278889
+Debris
+Slide
+July 2021
+17724
+ MH/RAT/47G10/2021/19
+Maharashtra
+Ratnagiri/Khed
+Posare 
+43 km  by Khed-Posare Khurd 
+road via Dhamnand.
+17.61919444
+73.63130556
+Overburden Soil
+Subsidence
+July 2021
+17725
+MH/RAT47G10/2021/20
+Maharashtra
+Ratnagiri/Khed
+Sakhar 
+46km Khed-Sakhar road via 
+Dhamnand.
+17.63169444
+73.63877778
+Debris
+Slide
+July 2021
+17726
+MIWRAT/47G10/2021/21
+Maharashtra
+Ratnagiri/Khed
+Sakhar 
+46km Khed-Sakhar road via 
+Dhamnand.
+17.63922222
+73.636
+Debris
+Slide
+July 2021
+17727
+MH/RAT/47G10/2021/22
+Maharashtra
+Ratnagiri/Khed
+Musad 
+32 km by Khed-Musad road
+17.60086111
+73.63894444
+Debris
+Slide
+July 2021
+17728
+MH/RAT/47G10/2021 /23
+Maharashtra
+Ratnagiri/Khed
+Musad 
+32 km distance from Khed by 
+Khed-Musad road
+17.56680556
+73.63008333
+Debris
+Slide with flow July 2021
+17729
+MH/RAT/47G10/2021/24
+Maharashtra
+Ratnagiri/Khed
+Saparli 
+40 km distance from Khed by 
+Khed-Posre Khurd road via 
+Dhamnand.
+17.63714722
+73.66856111
+Debris
+Slide
+July 2021
+17730
+MH/RAT/47G10/2021/25
+Maharashtra
+Ratnagiri/Khed
+Talwat Khed 
+35 km distance from Khed by 
+Khed-Talw road.
+17.64560833
+73.6094
+Debris
+Slide with flow July 2021
+17731
+MH/PUN/47E12/2020/01
+Maharashtra
+Pune
+Bhiwade Budruk
+Aptale road, 24km NW of 
+Junnar
+19.21386111
+73.68444444
+Soil
+Subsidence 
+2014, 22 August 2020.
+17732
+MH/PUN/47F/12/2021A
+Maharashtra
+Pune
+Karnavadi village
+21km in south from Velhe town 18.18398889
+73.58443611
+Soil
+Subsidence
+2019, 23 July 2021
+17733
+MH/PUN/47F/12/2021B
+Maharashtra
+Pune
+Karnavadi village
+21km in south from Velhe town 18.18527778
+73.58819722
+Debris
+ Fall
+2019, 23 July 2021
+17734
+MH/RAT/47G08/2021/47
+Maharashtra
+Ratnagiri
+Shil
+7km northeast of Ratnagiri
+17.03744167
+73.34485556
+Debris
+Slide 
+2019, July 2021
+17735
+MH/RAT/47G08/2021/48
+Maharashtra
+Ratnagiri
+Dhamanse 
+26km NNE of Ratnagiri via 
+Ratnagiri-Nevre-Dhamanse 
+Road.
+17.13904167
+73.33825
+Soil
+Ground Crack
+14-15 July 2021
+17736
+MH/RAT/47G08/2021/49
+Maharashtra
+Ratnagiri
+Chave
+32km NNE of Ratnagiri via 
+Ratnagiri-Nevre-Chafe and 
+Chave  Road
+17.20471944
+73.37901111
+Debris
+Slide
+2001, 2021
+17737
+MH/RAT/47G12/2021/50
+Maharashtra
+Ratnagiri
+Thombrewadi
+28 km east of Ratnagiri via Pali
+17.01421944
+73.51014167
+Soil
+Subsidence
+2005, July 2021
+17738
+MH/RAT/47H05/2021/51
+Maharashtra
+Ratnagiri
+Golap 
+10km south of Ratnagiri
+16.89833611
+73.32015
+Debris
+Slide
+16 July 2021
+17739
+MH/RAT/47H05/2021/52
+Maharashtra
+Ratnagiri
+Pawas 
+16 km south of Ratnagiri on 
+Pawas-Nakhare Road
+16.86441111
+73.33604722
+Soil
+Subsidence
+July 2021
+17740
+MH/RAT/47H05/2021/53
+Maharashtra
+Ratnagiri
+Harcheri 
+20km southeast of Ratnagiri
+16.94264444
+73.44118611
+Soil
+Subsidence
+2019, 17 -22 July 2021
+17741
+MH/RAT/47H05/2021/54
+Maharashtra
+Ratnagiri
+Harcheri-Khedkuli road
+16.95222222
+73.43364352
+Overburden Soil
+Ground crack 
+22-23 July 2021
+17742
+MH/SAT/47G15/2021/01
+Maharashtra
+Satara/Patan
+Ambeghar 
+Ambeghar, Morgiri road, Patan 
+tehsil, Satara district
+17.28469444
+73.82971944
+Debris
+Flow
+ 23 July 2021, 0200 hrs
+17743
+MH/SAT/47G15/2021/02
+Maharashtra
+Satara/Patan
+Dhokavale LandSlide
+Morgiri-Risavad-Dhokavale road 17.32239444
+73.74988333
+Debris
+Flow
+22 July 2021 , 2130 hrs
+17744
+MH/SAT/47G15/2021/06
+Maharashtra
+Satara/Patan
+Mirgaon LandSlide
+Koyna-Helwak road
+17.42428889
+73.74567778
+Debris
+Flow
+22 July 2021 , 2330 hrs
+17745
+MH/SAT/47G15/2021/9A
+Maharashtra
+Satara/Patan
+Dikshi village
+12km in southwest of Patan by 
+Morgiri road
+17.29777778
+73.82458333
+Debris
+Slide 
+23 July 2021 (between 2 to 3 AM)
+17746
+MH/SAT/47G15/2021/9B
+Maharashtra
+Satara/Patan
+Dikshi village
+12km in southwest of Patan by 
+Morgiri road
+17.29841667
+73.82675
+Debris
+Slide 
+23 July 2021 (between 2 to 3 AM)
+17747
+MH/SAT/47G15/2021/10A
+Maharashtra
+Satara/Patan
+Ambeghar 
+14km in the southwest of Patan 
+through Morgiri road
+17.28225
+73.83363889
+Debris
+Slide
+ 2019,23 July 2021

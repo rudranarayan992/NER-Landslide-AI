@@ -1,0 +1,376 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20409
+MEG/RIB/78O13/2016/2
+Meghalaya
+Ri-Bhoi
+47.020 chainage slide
+NH6
+25.759278
+91.882861
+Earth
+Slide
+2015
+20410
+MEG/RIB/78O13/2016/3
+Meghalaya
+Ri-Bhoi
+46.720 chainage slide
+NH6
+25.760611
+91.88225
+Earth
+Slide
+2015
+20411
+MEG/WKH/78O10/2016/48
+Meghalaya
+West Khasi Hills
+Ladpanai village slide1
+MairangPatharkhamma  road 2 
+km NE of Ladpanai village
+25.763347
+91.657153
+Rock
+Slide
+2016
+20412
+MEG/RIB/83C1/2016/1
+Meghalaya
+Ri-Bhoi
+Khlieh Umlaita
+SH
+25.776087
+92.03754
+Debris
+Slide
+2015
+20413
+MEG/RIB/78O13/2016/4
+Meghalaya
+Ri-Bhoi
+43.030 chainage slide
+NH6
+25.787
+91.876583
+Earth
+Slide
+2015
+20414
+MG/WKH/78O1/2020/5
+Meghalaya
+West Khasi Hills
+Nongporuo-NamASoi slide-2
+Nongporuo-NamASoi road
+25.79
+91.02
+Debris
+Slide
+NA
+20415
+MG/WGH/78K05/2020/1
+Meghalaya
+West Garo Hills
+NH-217 road slide
+NH-217 , Paikan-Tura-Dalu 
+road, near Mendal village
+25.79
+90.44
+Debris
+Slide
+2019
+20416
+MEG/WKH/78O10/2016/50
+Meghalaya
+West Khasi Hills
+ 
+NongkhlawPatharkhammah 
+road  1 km SW of Ladpanai 
+vilalge
+25.795444
+91.662111
+Earth
+Slide
+2016
+20417
+MEG/RIB/83C1/2016/5
+Meghalaya
+Ri-Bhoi
+Umlatara
+SH
+25.796657
+92.143462
+Earth
+Slide
+2015
+20418
+MG/WKH/78O1/2020/6
+Meghalaya
+West Khasi Hills
+Chitrapul slide
+Hahim-Riangdo road
+25.8
+91.11
+Earth
+Slide
+NA
+20419
+MG/WKH/78O1/2020/4
+Meghalaya
+West Khasi Hills
+Nongporuo-NamASoi slide-1
+Nongporuo-NamASoi road
+25.8
+91.01
+Debris
+Slide
+NA
+20420
+MG/WKH/78O1/2020/3
+Meghalaya
+West Khasi Hills
+Malangkona-Nongporuo slide-3
+Malangkona-Nongporuo road
+25.81
+91.02
+Earth
+Slide
+NA
+20421
+MG/WKH/78O1/2020/8
+Meghalaya
+West Khasi Hills
+Banspani slide
+Banspani
+25.83
+91.14
+Earth
+Subsidence
+NA
+20422
+MG/WKH/78O1/2020/2
+Meghalaya
+West Khasi Hills
+Malangkona-Nongporuo slide-2
+Malangkona-Nongporuo road
+25.83
+91.05
+Debris
+Slide
+NA
+20423
+MG/WKH/78O1/2020/1
+Meghalaya
+West Khasi Hills
+Malangkona-Nongporuo slide-1
+Malangkona-Nongporuo road
+25.83
+91.05
+Earth
+Slide
+2019
+20424
+MG/WKH/78O5/2020/5
+Meghalaya
+Ri-Bhoi
+Belahari slide
+Belahari village
+25.84
+91.47
+Earth
+Slide
+NA
+20425
+MG/WKH/78O1/2020/7
+Meghalaya
+West Khasi Hills
+Aradonga slide
+Hahim-Riangdo road
+25.85
+91.17
+Earth
+Slide
+NA
+20426
+MEG/RIB/78O13/2016/6
+Meghalaya
+Ri-Bhoi
+34.300 chainage slide
+NH6
+25.852222
+91.881361
+Earth
+Slide
+2015
+20427
+MEG/RIB/78O13/2016/5
+Meghalaya
+Ri-Bhoi
+34.190 chainage slide
+NH6
+25.853111
+91.881583
+Debris
+Slide
+2015
+20428
+MEG/RIB/83C1/2016/8
+Meghalaya
+Ri-Bhoi
+Mawpat
+SH
+25.86575
+92.153286
+Earth
+Slide
+2015
+20429
+MEG/RIB/78O13/2016/16
+Meghalaya
+Ri-Bhoi
+Umdihar
+NH6
+25.865894
+91.880278
+Earth
+Slide
+2015
+20430
+MEG/RIB/83C1/2016/6
+Meghalaya
+Ri-Bhoi
+Mawkangi
+SH
+25.874293
+92.018322
+Debris
+Slide
+2015
+20431
+MEG/RIB/78O09/2016/49
+Meghalaya
+Ri-Bhoi
+Patharkhamma village Slide1
+Patharkhamma Guwahati road 
+1 km NW of Patharkhamma 
+village
+25.895583
+91.599333
+Debris
+Slide
+2016
+20432
+MEG/RIB/78O09/2016/47
+Meghalaya
+Ri-Bhoi
+Jirang village slide8
+Patharkhamma Guwahati road 
+near New Jirang village
+25.913997
+91.578903
+Debris
+Slide
+2016
+20433
+MEG/RIB/78O09/2016/46
+Meghalaya
+Ri-Bhoi
+Jirang village slide7
+Patharkhamma Guwahati road 
+about 1 km NW of New Jirang 
+village
+25.9235
+91.574222
+Debris
+Slide
+2016
+20434
+ML/RIB/78O13/2014/10
+Meghalaya
+Ri-Bhoi
+Pamdingoh B
+GS road
+25.92792
+91.87717
+Debris
+Slide
+August-September 2014
+20435
+MEG/RIB/78O13/2016/7
+Meghalaya
+Ri-Bhoi
+Krosia slide
+NH6
+25.927972
+91.877194
+Earth
+Slide
+2015
+20436
+MEG/RIB/78O09/2016/45
+Meghalaya
+Ri-Bhoi
+Jirang village slide6
+Patharkhamma Guwahati road 
+about 2 km SW of Jirang village
+25.930386
+91.571822
+Earth
+Slide
+2016
+20437
+MEG/RIB/78O09/2016/54
+Meghalaya
+Ri-Bhoi
+UmlingPatharkhamma R.S3
+UmlingPatharkhamma road
+25.934889
+91.714389
+Earth
+Slide
+2016
+20438
+MEG/RIB/78O09/2016/53
+Meghalaya
+Ri-Bhoi
+UmlingPatharkhamma R.S2
+UmlingPatharkhamma road
+25.935708
+91.714556
+Earth
+Slide
+2016
+20439
+MEG/RIB/78O09/2016/44
+Meghalaya
+Ri-Bhoi
+Jirang village slide5
+Patharkhamma Guwahati road 
+about 1 km NW of Jirang village
+25.935833
+91.56525
+Earth
+Slide
+2016
+20440
+MEG/RIB/78O09/2016/43
+Meghalaya
+Ri-Bhoi
+Jirang village slide4
+Patharkhamma Guwahati road 
+about 1 km NW of Jirang village
+25.935908
+91.564903
+Earth
+Slide
+2016

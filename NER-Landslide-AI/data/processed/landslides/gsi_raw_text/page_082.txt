@@ -1,0 +1,493 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+3094
+HP/SOL/53F01/2017/315
+Himachal Pradesh
+Solan
+ 
+KumarhattiNahan road
+30.821032
+77.090353
+Rock
+Slide
+NA
+3095
+HP/SOL/53F01/2017/218
+Himachal Pradesh
+Solan
+ 
+SH02
+30.821492
+77.096026
+Rock
+Slide
+NA
+3096
+HP/SOL/53F01/2017/51
+Himachal Pradesh
+Solan
+ 
+KumarhattiNahan road
+30.821492
+77.096026
+Debris
+Slide
+NA
+3097
+HP/SOL/53F01/2017/316
+Himachal Pradesh
+Solan
+ 
+KumarhattiNahan road
+30.821634
+77.098513
+Rock
+Slide
+NA
+3098
+HP/SOL/53F01/2017/300
+Himachal Pradesh
+Solan
+ 
+BhojnagarChakki road
+30.822851
+77.0185
+Rock
+Slide
+NA
+3099
+HP/SOL/53F01/2017/301
+Himachal Pradesh
+Solan
+ 
+BhojnagarChakki road
+30.823072
+77.020249
+Rock
+Slide
+NA
+3100
+HP/SIM/53F13/2016/16
+Himachal Pradesh
+Shimla
+Antrouli-Gumma road
+Antrouli-Gumma road
+30.8232
+77.7503
+Rock
+Slide
+NA
+3101
+HP/SHI/53F13/2016/20
+Himachal Pradesh
+Shimla
+ 
+ANTROULI-GUMMA ROAD 
+ANTROULI-GUMMA ROAD
+30.8232
+77.7503
+Debris
+Slide
+NA
+3102
+HP/SHI/53F13/2016/21
+Himachal Pradesh
+Shimla
+ 
+ANTROULI-GUMMA ROAD 
+ANTROULI-GUMMA ROAD
+30.8233
+77.7506
+Debris
+Slide
+NA
+3103
+HP/SIM/53F13/2016/17
+Himachal Pradesh
+Shimla
+Antrouli-Gumma road
+Antrouli-Gumma road
+30.8234
+77.7507
+Rock
+Slide
+NA
+3104
+HP/SIM/53F13/2016/18
+Himachal Pradesh
+Shimla
+Antrouli-Gumma road
+Antrouli-Gumma road
+30.8235
+77.7514
+Rock
+Slide
+NA
+3105
+HP/SHI/53F13/2016/7
+Himachal Pradesh
+Shimla
+ 
+ANTROULI-GUMMA ROAD 
+ANTROULI-GUMMA ROAD
+30.8235
+77.7514
+Debris
+Slide
+NA
+3106
+HP/SOL/53B13/2017/61
+Himachal Pradesh
+Solan
+ 
+BhojnagarParwanoo road
+30.823684
+76.988697
+Rock
+Slide
+NA
+3107
+HP/SOL/53F01/2017/426
+Himachal Pradesh
+Solan
+ 
+NaragKaasar road
+30.824026
+77.242462
+Rock
+Slide
+NA
+3108
+HP/SOL/53B13/2017/16
+Himachal Pradesh
+Solan
+ 
+ 
+30.824423
+76.988677
+Debris
+Slide
+NA
+3109
+HP/MAN/53E01/2015/21
+Himachal Pradesh
+Mandi
+ 
+ 
+30.824722
+77.077139
+Rock
+Slide
+NA
+3110
+HP/MAN/53E01/2015/22
+Himachal Pradesh
+Mandi
+ 
+ 
+30.824722
+77.077139
+Rock cum debris
+Slide
+NA
+3111
+HP/MAN/53E01/2015/23
+Himachal Pradesh
+Mandi
+ 
+Jhanjheli-Thunag road
+30.824722
+77.077139
+Debris
+Slide
+NA
+3112
+HP/SOL/53F01/2017/27
+Himachal Pradesh
+Solan
+ 
+NaragGiripul road
+30.82501
+77.19503
+Rock
+Fall
+NA
+3113
+HP/SIM/53F13/2016/19
+Himachal Pradesh
+Shimla
+Near Gumma
+Gumma-Choinyain road
+30.8257
+77.7517
+Rock
+Slide
+NA
+3114
+HP/SHI/53F13/2016/22
+Himachal Pradesh
+Shimla
+ 
+NEAR GUMMAGUMMA-
+CHOINYAIN ROAD
+30.8257
+77.7517
+Debris
+Slide
+NA
+3115
+HP/SIM/53F13/2016/20
+Himachal Pradesh
+Shimla
+Near Gumma
+Gumma-Choinyain road
+30.8258
+77.7515
+Rock
+Slide
+NA
+3116
+HP/SHI/53F13/2016/23
+Himachal Pradesh
+Shimla
+ 
+NEAR GUMMAGUMMA-
+CHOINYAIN ROAD
+30.8258
+77.7515
+Debris
+Slide
+NA
+3117
+HP/SOL/53B13/2017/110
+Himachal Pradesh
+Solan
+ 
+NH22
+30.826102
+76.965403
+Rock
+Slide
+NA
+3118
+HP/SOL/53B13/2017/60
+Himachal Pradesh
+Solan
+ 
+Opposite of Timber Trial
+30.826478
+76.989665
+Rock
+Slide
+NA
+3119
+HP/SIM/53F13/2016/22
+Himachal Pradesh
+Shimla
+Near Gumma
+Gumma-Choinyain road
+30.8269
+77.7528
+Rock
+Slide
+NA
+3120
+HP/SHI/53F13/2016/25
+Himachal Pradesh
+Shimla
+ 
+NEAR GUMMAGUMMA-
+CHOINYAIN ROAD
+30.8269
+77.7528
+Debris
+Slide
+NA
+3121
+HP/SOL/53F01/2017/186
+Himachal Pradesh
+Solan
+ 
+NH22
+30.826948
+77.008967
+Rock
+Slide
+NA
+3122
+HP/SIM/53F13/2016/23
+Himachal Pradesh
+Shimla
+Near Gumma
+Gumma-Choinyain road
+30.8272
+77.7556
+Rock
+Slide
+NA
+3123
+HP/SHI/53F13/2016/26
+Himachal Pradesh
+Shimla
+ 
+NEAR GUMMAGUMMA-
+CHOINYAIN ROAD
+30.8272
+77.7556
+Debris
+Slide
+NA
+3124
+HP/SIM/53F13/2016/24
+Himachal Pradesh
+Shimla
+Near Gumma
+Gumma-Choinyain road
+30.8275
+77.7559
+Rock
+Slide
+NA
+3125
+HP/SHI/53F13/2016/24
+Himachal Pradesh
+Shimla
+ 
+NEAR GUMMAGUMMA-
+CHOINYAIN ROAD
+30.8275
+77.7559
+Debris
+Slide
+NA
+3126
+HP/SOL/53B13/2017/125
+Himachal Pradesh
+Solan
+ 
+Opposite of Timber Trial
+30.82761
+76.989722
+Rock
+Slide
+NA
+3127
+HP/SOL/53B13/2017/109
+Himachal Pradesh
+Solan
+ 
+NH22
+30.827686
+76.968638
+Rock
+Slide
+NA
+3128
+HP/SOL/53B13/2017/90
+Himachal Pradesh
+Solan
+ 
+NH22
+30.827707
+76.961819
+Rock
+Slide
+NA
+3129
+HP/SOL/53F01/2017/188
+Himachal Pradesh
+Solan
+ 
+NH22
+30.827897
+77.006395
+Rock
+Slide
+NA
+3130
+HP/SOL/53F01/2017/187
+Himachal Pradesh
+Solan
+ 
+NH22
+30.828353
+77.007578
+Rock
+Slide
+NA
+3131
+HP/SOL/53B13/2017/124
+Himachal Pradesh
+Solan
+ 
+Opposite of Timber Trial
+30.82874
+76.990386
+Rock
+Slide
+NA
+3132
+HP/SIM/53F13/2016/26
+Himachal Pradesh
+Shimla
+Near Choinyan
+ 
+30.8306
+77.7571
+Rock
+Slide
+NA
+3133
+HP/SHI/53F13/2016/6
+Himachal Pradesh
+Shimla
+ 
+NEAR CHOINYAN
+30.8306
+77.7571
+Debris
+Slide
+NA
+3134
+HP/SOL/53B13/2017/59
+Himachal Pradesh
+Solan
+ 
+BhojnagarChakki road
+30.831193
+76.997315
+Rock
+Slide
+NA
+3135
+HP/SOL/53F01/2017/28
+Himachal Pradesh
+Solan
+ 
+NaragGiripul road
+30.83154
+77.186415
+Rock
+Fall
+NA
+3136
+HP/SIM/53F13/2016/25
+Himachal Pradesh
+Shimla
+Near Choinyan
+Right bank of Shalong Gad
+30.8316
+77.7567
+Rock
+Slide
+NA

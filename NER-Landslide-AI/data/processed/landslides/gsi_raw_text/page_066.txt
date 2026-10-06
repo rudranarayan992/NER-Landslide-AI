@@ -1,0 +1,509 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+2367
+HP/SIR/53F10/2017/55
+Himachal Pradesh
+Sirmur
+ 
+North of Baneri
+30.570794
+77.502231
+Rock
+Slide
+NA
+2368
+HP/SIR/53F06/2017/285
+Himachal Pradesh
+Sirmur
+ 
+Kanaun, NahanRama Don road
+30.570842
+77.326262
+Rock
+Slide
+NA
+2369
+HP/SIR/53F10/2017/184
+Himachal Pradesh
+Sirmur
+ 
+Dadua, DadahuSataun road
+30.570876
+77.592462
+Debris
+Slide
+NA
+2370
+HP/SIR/53F02/2017/48
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.570974
+77.233602
+Rock
+Slide
+NA
+2371
+HP/SIR/53F10/2017/45
+Himachal Pradesh
+Sirmur
+ 
+Sataun, DadahuSataun road
+30.571093
+77.629904
+Rock
+Slide
+NA
+2372
+HP/SIR/53F06/2017/295
+Himachal Pradesh
+Sirmur
+ 
+Daghera R.F., NahanBirla road
+30.571198
+77.391179
+Rock
+Slide
+NA
+2373
+HP/SIR/53F10/2017/24
+Himachal Pradesh
+Sirmur
+ 
+Jandnian
+30.571409
+77.55816
+Rock cum debris
+Slide
+NA
+2374
+HP/SIR/53F10/2017/37
+Himachal Pradesh
+Sirmur
+ 
+North of Manal, 
+DadahuSataun road
+30.571449
+77.614421
+Rock
+Slide
+NA
+2375
+HP/SIR/53F06/2017/284
+Himachal Pradesh
+Sirmur
+ 
+Kanaun, NahanRama Don road
+30.571531
+77.325988
+Rock
+Slide
+NA
+2376
+HP/SIR/53F10/2017/48
+Himachal Pradesh
+Sirmur
+ 
+Sataun, DadahuSataun road
+30.571659
+77.634617
+Rock
+Slide
+NA
+2377
+HP/SIR/53F10/2017/47
+Himachal Pradesh
+Sirmur
+ 
+Sataun, DadahuSataun road
+30.571793
+77.63146
+Rock
+Slide
+NA
+2378
+HP/SIR/53F06/2017/297
+Himachal Pradesh
+Sirmur
+ 
+Talo, NahanRama Don road
+30.572068
+77.321236
+Rock
+Slide
+NA
+2379
+HP/SIR/53F10/2017/10
+Himachal Pradesh
+Sirmur
+ 
+Salag R.F.
+30.572081
+77.656766
+Rock cum debris
+Slide
+NA
+2380
+HP/SIR/53F10/2017/183
+Himachal Pradesh
+Sirmur
+ 
+Bhujon, DadahuSataun road
+30.572297
+77.583617
+Rock
+Slide
+NA
+2381
+HP/SIR/53F06/2017/114
+Himachal Pradesh
+Sirmur
+ 
+Banog, NahanDadahu road
+30.572299
+77.294477
+Rock
+Slide
+NA
+2382
+HP/SIR/53F14/2017/20
+Himachal Pradesh
+Sirmur
+ 
+Nigali R.F.
+30.57238
+77.764971
+Rock
+Slide
+NA
+2383
+HP/SIR/53F10/2017/11
+Himachal Pradesh
+Sirmur
+ 
+Salag R.F.
+30.572886
+77.656911
+Rock cum debris
+Slide
+NA
+2384
+HP/SIR/53F06/2017/304
+Himachal Pradesh
+Sirmur
+ 
+Rohas
+30.5729
+77.396414
+Rock
+Slide
+NA
+2385
+HP/SIR/53F02/2017/31
+Himachal Pradesh
+Sirmur
+ 
+BanogKaulawala bhood road
+30.572907
+77.234883
+Rock
+Slide
+NA
+2386
+HP/SIR/53F10/2017/125
+Himachal Pradesh
+Sirmur
+ 
+North of Chilon,
+ PaontaShillai road
+30.572931
+77.652467
+Rock
+Slide
+NA
+2387
+HP/SIR/53F10/2017/56
+Himachal Pradesh
+Sirmur
+ 
+North of Baneri
+30.57352
+77.506004
+Rock
+Slide
+NA
+2388
+HP/SIR/53F06/2017/113
+Himachal Pradesh
+Sirmur
+ 
+Banog, NahanDadahu road
+30.573562
+77.295235
+Rock
+Slide
+NA
+2389
+HP/SIR/53F06/2017/303
+Himachal Pradesh
+Sirmur
+ 
+Rohas
+30.573664
+77.397066
+Rock
+Slide
+NA
+2390
+HP/SIR/53F10/2017/36
+Himachal Pradesh
+Sirmur
+ 
+Jhankar, DadahuSataun road
+30.573801
+77.612013
+Rock cum debris
+Slide
+NA
+2391
+HP/SIR/53F06/2017/112
+Himachal Pradesh
+Sirmur
+ 
+Banog, NahanDadahu road
+30.574188
+77.294989
+Rock
+Slide
+NA
+2392
+HP/SIR/53F06/2017/283
+Himachal Pradesh
+Sirmur
+ 
+Talo, NahanRama Don road
+30.574348
+77.317295
+Rock
+Slide
+NA
+2393
+HP/SIR/53F06/2017/246
+Himachal Pradesh
+Sirmur
+ 
+Tanlog
+30.574411
+77.494649
+Rock
+Slide
+NA
+2394
+HP/SIR/53F06/2017/310
+Himachal Pradesh
+Sirmur
+ 
+Rohas
+30.574478
+77.4003
+Rock
+Slide
+NA
+2395
+HP/SIR/53F14/2017/19
+Himachal Pradesh
+Sirmur
+ 
+Nigali R.F.
+30.574653
+77.75998
+Rock
+Slide
+NA
+2396
+HP/SIR/53F06/2017/247
+Himachal Pradesh
+Sirmur
+ 
+Tanlog
+30.574709
+77.492147
+Rock
+Slide
+NA
+2397
+HP/SIR/53F06/2017/296
+Himachal Pradesh
+Sirmur
+ 
+Serta, NahanRamaDon road
+30.574933
+77.317399
+Rock
+Slide
+NA
+2398
+HP/SIR/53F10/2017/240
+Himachal Pradesh
+Sirmur
+ 
+Kufar
+30.575139
+77.732127
+Rock
+Slide
+NA
+2399
+HP/SIR/53F06/2017/309
+Himachal Pradesh
+Sirmur
+ 
+Rohas
+30.575203
+77.401924
+Rock
+Slide
+NA
+2400
+HP/SIR/53F10/2017/27
+Himachal Pradesh
+Sirmur
+ 
+Sadiyar, DadahuSataun road
+30.575256
+77.5723
+Rock
+Slide
+NA
+2401
+HP/SIR/53F10/2017/241
+Himachal Pradesh
+Sirmur
+ 
+Kufar
+30.575654
+77.731745
+Rock
+Slide
+NA
+2402
+HP/SIR/53F06/2017/308
+Himachal Pradesh
+Sirmur
+ 
+Rohas
+30.575702
+77.402354
+Rock
+Slide
+NA
+2403
+HP/SIR/53F10/2017/29
+Himachal Pradesh
+Sirmur
+ 
+Sadiyar, DadahuSataun road
+30.575732
+77.574584
+Rock cum debris
+Slide
+NA
+2404
+HP/SIR/53F14/2017/18
+Himachal Pradesh
+Sirmur
+ 
+Nigali R.F.
+30.575858
+77.759061
+Rock
+Slide
+NA
+2405
+HP/SIR/53F10/2017/28
+Himachal Pradesh
+Sirmur
+ 
+Sadiyar, DadahuSataun road
+30.575886
+77.572783
+Rock
+Slide
+NA
+2406
+HP/SIR/53F06/2017/279
+Himachal Pradesh
+Sirmur
+ 
+Serta, NahanRamaDon road
+30.576191
+77.304949
+Rock
+Slide
+NA
+2407
+HP/SIR/53F06/2017/111
+Himachal Pradesh
+Sirmur
+ 
+Banog, NahanDadahu road
+30.576237
+77.296903
+Rock
+Slide
+NA
+2408
+HP/SIR/53F02/2017/39
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.576308
+77.191744
+Rock
+Slide
+NA
+2409
+HP/SIR/53F06/2017/311
+Himachal Pradesh
+Sirmur
+ 
+Rohas
+30.576447
+77.398106
+Rock cum debris
+Slide
+NA
+2410
+HP/SIR/53F06/2017/278
+Himachal Pradesh
+Sirmur
+ 
+Serta, NahanRamaDon road
+30.576599
+77.303591
+Rock
+Slide
+NA
+2411
+HP/SIR/53F14/2017/21
+Himachal Pradesh
+Sirmur
+ 
+Nigali R.F.
+30.576606
+77.75553
+Rock
+Slide
+NA

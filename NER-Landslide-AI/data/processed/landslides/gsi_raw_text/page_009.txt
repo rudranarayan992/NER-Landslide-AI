@@ -1,0 +1,377 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+281
+ASM/DIM/83C15/2017/13
+Assam
+Dima Hasao
+Sericulture farm slide.
+Near Sericulture, Dehangi-
+Umrangso road
+25.41616
+92.778653
+Debris cum earth
+Slide
+NA
+282
+ASM/DH/83G4/2016/04
+Assam
+Dima Hasao
+Mupa-Langting  RF Rock slide
+NH 54, Mupa – Langting 
+Reserved Forest
+25.417333
+93.129083
+Rock
+Slide
+2015
+283
+AS/DIM/83G07/2017/39
+Assam
+Dima Hasao
+Kepre Tongikro Mongjang slide No.8
+Kepre Tongikro Mongjang road 
+section.
+25.417528
+93.372528
+Soil
+Slide
+NA
+284
+AS/DIM/83G3/2015/59
+Assam
+Dima Hasao
+Dehangi-1
+Near Dehangi village
+25.42
+93.002
+Earth
+Slide
+2014
+285
+AS/DIM/83G07/2017/38
+Assam
+Dima Hasao
+Kepre Tongikro Mongjang slide No.7
+Kepre Tongikro Mongjang road 
+section.
+25.420278
+93.371306
+Debris
+Slide
+NA
+286
+AS/DIM/83G07/2017/37
+Assam
+Dima Hasao
+Kepre Tongikro Mongjang slide No.6
+Kepre Tongikro Mongjang road 
+section.
+25.420806
+93.371056
+Rock
+Fall
+NA
+287
+AS/DIM/83G07/2017/36
+Assam
+Dima Hasao
+Dongki nala slide.
+Kepre Tongikro Mongjang road 
+section.
+25.421333
+93.370361
+Debris
+Slide
+NA
+288
+ASM/DIM/83C15/2017/09
+Assam
+Dima Hasao
+Dehangi Slide
+Near  Dehangi village
+25.422535
+92.989119
+Debris cum earth
+Slide
+NA
+289
+ASM/DIM/83C15/2017/01
+Assam
+Dima Hasao
+Dehangi Slide
+Umrangso_Dehangi Highway
+25.423438
+92.985022
+Debris cum earth
+Slide
+NA
+290
+AS/DIM/83G07/2017/35
+Assam
+Dima Hasao
+Kepre Tongikro Mongjang slide No.5
+Kepre Tongikro Mongjang road 
+section.
+25.423806
+93.369722
+Debris
+Slide
+NA
+291
+AS/DIM/83G07/2017/34
+Assam
+Dima Hasao
+Kepre Tongikro Mongjang slide No.4
+Kepre Tongikro Mongjang road 
+section.
+25.423861
+93.369417
+Debris
+Slide
+NA
+292
+AS/DIM/83G3/2015/60
+Assam
+Dima Hasao
+Dehangi-2
+Near Dehangi village
+25.424
+93
+Earth
+Slide
+2014
+293
+AS/DIM/83G07/2017/32
+Assam
+Dima Hasao
+Kepre Tongikro Mongjang slide No.2
+Kepre Tongikro Mongjang road 
+section.
+25.4255
+93.363944
+Debris
+Slide
+NA
+294
+AS/DIM/83G07/2017/33
+Assam
+Dima Hasao
+Kepre Tongikro Mongjang slide No.3
+Kepre Tongikro Mongjang road 
+section.
+25.425611
+93.364444
+Debris
+Slide
+NA
+295
+AS/DIM/83G07/2017/24
+Assam
+Dima Hasao
+Darangibra–Kepre slide No.1
+Darangibra–Kepre road section. 25.428597
+93.312597
+Debris
+Slide
+NA
+296
+AS/DIM/83G07/2017/25
+Assam
+Dima Hasao
+NE of Darangibra slide.
+Approx. 3.5 km NE of 
+Darangibra.
+25.433903
+93.328944
+Debris
+Slide
+NA
+297
+ASM/DIM/83C15/2017/12
+Assam
+Dima Hasao
+Baigaon Slide
+Near Baigaon village
+25.434031
+92.885056
+Debris cum earth
+Slide
+NA
+298
+AS/DIM/83G07/2017/61
+Assam
+Dima Hasao
+Sengya Sambhudhan school slide No.2 Approx. 500 m south of Sengya 
+Sambhudhan school
+25.435639
+93.405944
+Debris
+Slide
+NA
+299
+AS/DIM/83G07/2017/8
+Assam
+Dima Hasao
+New Nkio–Phaikulum slide No.2.
+New Nkio–Phaikulum road 
+section.
+25.435917
+93.455944
+Debris
+Slide
+NA
+300
+AS/DIM/83G07/2017/55
+Assam
+Dima Hasao
+Daoblibdisa market slide No.1
+Near Daoblibdisa market
+25.4365
+93.402333
+Soil
+Slide
+NA
+301
+AS/DIM/83G07/2017/60
+Assam
+Dima Hasao
+Sengya Sambhudhan school slide No.1 Approx. 500 m south of Sengya 
+Sambhudhan school
+25.436528
+93.4065
+Debris
+Slide
+NA
+302
+AS/DIM/83G07/2017/62
+Assam
+Dima Hasao
+Sengya Sambhudhan school slide No.3 Approx. 500 m south of sengya 
+Sambhudhan school
+25.436639
+93.405917
+Debris
+Slide
+NA
+303
+AS/DIM/83G07/2017/56
+Assam
+Dima Hasao
+Daoblibdisa market slide No.2
+Near Daoblibdisa market
+25.436694
+93.402944
+Soil
+Slide
+NA
+304
+AS/DIM/83G07/2017/58
+Assam
+Dima Hasao
+Daoblibdisa market slide No.4
+Near Daoblibdisa market
+25.436861
+93.404583
+Debris
+Slide
+NA
+305
+AS/DIM/83G07/2017/2
+Assam
+Dima Hasao
+New Nkio–Phaikulum slide No.1.
+New Nkio–Phaikulum road 
+section.
+25.436972
+93.454111
+Debris
+Slide
+NA
+306
+AS/DIM/83G07/2017/57
+Assam
+Dima Hasao
+Daoblibdisa market slide No.3
+Near Daoblibdisa market
+25.437111
+93.403639
+Soil
+Slide
+NA
+307
+AS/DIM/83G07/2017/59
+Assam
+Dima Hasao
+Daoblibdisa market slide No.5
+Near Daoblibdisa market
+25.4375
+93.404444
+Debris
+Slide
+NA
+308
+AS/DIM/83G07/2017/67
+Assam
+Dima Hasao
+Greenwood school compound Slide.
+Greenwood school compound, 
+Khepre.
+25.437722
+93.349889
+Soil
+Slide
+NA
+309
+AS/DIM/83G07/2017/31
+Assam
+Dima Hasao
+Kepre Tongikro Mongjang slide No.1
+Kepre Tongikro Mongjang road 
+section.
+25.438694
+93.362583
+Debris
+Slide
+NA
+310
+ASM/DIM/83C15/2017/08
+Assam
+Dima Hasao
+Amardisa Slide
+Near  Amardisa  village
+25.438723
+92.912025
+Earth
+Slide
+NA
+311
+AS/DIM/83G07/2017/26
+Assam
+Dima Hasao
+Darangibra–Kepre slide No.2
+Darangibra–Kepre road section. 25.439372
+93.354197
+Debris
+Slide
+NA
+312
+ASM/DIM/83C15/2017/11
+Assam
+Dima Hasao
+Amrudissa slide
+Near Amrudisa village
+25.441734
+92.892033
+Debris cum earth
+Slide
+NA

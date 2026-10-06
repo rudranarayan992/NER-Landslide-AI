@@ -1,0 +1,514 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+4605
+HP/SHI/53E04/2017/82
+Himachal Pradesh
+Shimla
+ 
+KADARGHAT
+31.217917
+77.205944
+Debris
+Slide
+NA
+4606
+HP/SHI/53E04/2017/56
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.218194
+77.118056
+Rock
+Fall
+NA
+4607
+HP/SHI/53E04/2017/100
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.218222
+77.134278
+Rock
+Slide
+NA
+4608
+HP/SHI/53E04/2017/57
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.218556
+77.119583
+Rock
+Fall
+NA
+4609
+HP/SHI/53E04/2017/96
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.219028
+77.155472
+Debris
+Slide
+NA
+4610
+HP/SHI/53E04/2017/137
+Himachal Pradesh
+Shimla
+ 
+HALOG SILAHARA ROAD
+31.219111
+77.087222
+Rock
+Slide
+NA
+4611
+HP/SHI/53E16/2016/115
+Himachal Pradesh
+Shimla
+ 
+NEAR MASLINH-72
+31.2192
+77.8495
+Debris
+Flow
+NA
+4612
+HP/SHI/53E04/2017/139
+Himachal Pradesh
+Shimla
+ 
+HALOG SILAHARA ROAD
+31.21925
+77.110306
+Debris
+Slide
+NA
+4613
+HP/SHI/53E16/2016/113
+Himachal Pradesh
+Shimla
+ 
+NEAR AMBOIAMBOI ROAD
+31.2193
+77.8303
+Debris
+Slide
+NA
+4614
+HP/SHI/53E04/2017/140
+Himachal Pradesh
+Shimla
+ 
+HALOG SILAHARA ROAD
+31.219667
+77.124639
+Rock
+Slide
+NA
+4615
+HP/SHI/53E04/2017/80
+Himachal Pradesh
+Shimla
+#N/A
+#N/A
+31.219861
+77.209778
+Rock
+Slide
+NA
+4616
+HP/SHI/53E04/2017/142
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.22
+77.153
+Rock
+Fall
+NA
+4617
+HP/SHI/53E04/2017/95
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.220004
+77.152551
+Rock
+Slide
+NA
+4618
+HP/SOL/53A16/2017/106
+Himachal Pradesh
+Solan
+ 
+SHOLI
+31.220083
+76.834722
+Debris
+Slide
+NA
+4619
+HP/SHI/53E08/2016/17
+Himachal Pradesh
+Shimla
+ 
+BatlogPWD road
+31.220173
+77.380218
+Rock
+Fall
+NA
+4620
+HP/SHI/53E04/2017/79
+Himachal Pradesh
+Shimla
+ 
+KADARGHAT
+31.220556
+77.209056
+Rock
+Slide
+NA
+4621
+HP/SOL/53A16/2017/82
+Himachal Pradesh
+Solan
+ 
+NH 21
+31.22075
+76.777861
+Rock
+Slide
+NA
+4622
+HP/SHI/53E04/2017/75
+Himachal Pradesh
+Shimla
+ 
+SHANAWAG
+31.220778
+77.221472
+Rock
+Slide
+NA
+4623
+HP/SHI/53E16/2016/121
+Himachal Pradesh
+Shimla
+ 
+NEAR TIKRITIKRI-LAROT ROAD, 
+5KM MILESTONE
+31.2208
+77.976
+Debris
+Slide
+NA
+4624
+HP/SOL/53A16/2017/34
+Himachal Pradesh
+Solan
+ 
+NH 88
+31.220972
+76.947972
+Rock
+Slide
+NA
+4625
+HP/SOL/53A16/2017/35
+Himachal Pradesh
+Solan
+ 
+NH 88
+31.221
+76.953
+Rock
+Slide
+NA
+4626
+HP/SOL/53A12/2017/58
+Himachal Pradesh
+Solan
+ 
+NH 21
+31.221139
+76.724056
+Debris
+Slide
+NA
+4627
+HP/SOL/53A12/2017/32
+Himachal Pradesh
+Solan
+ 
+NH 21A,BAWARAN
+31.221139
+76.724056
+Debris
+Slide
+NA
+4628
+HP/SOL/53A16/2017/147
+Himachal Pradesh
+Solan
+ 
+NH 21
+31.221306
+76.771528
+Debris
+Slide
+NA
+4629
+HP/SHI/53E16/2016/108
+Himachal Pradesh
+Shimla
+ 
+KASHDHARNH-72-KASHDHAR 
+LINK ROAD
+31.2214
+77.8818
+Debris
+Slide
+NA
+4630
+HP/SHI/53E04/2017/94
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.221583
+77.147
+Debris
+Slide
+NA
+4631
+HP/SOL/53A16/2017/148
+Himachal Pradesh
+Solan
+ 
+NH 21
+31.22175
+76.77075
+Rock
+Slide
+NA
+4632
+HP/SHI/53E04/2017/77
+Himachal Pradesh
+Shimla
+ 
+NH 88
+31.22225
+77.2165
+Rock
+Slide
+NA
+4633
+HP/SOL/53A12/2017/57
+Himachal Pradesh
+Solan
+ 
+NH 21
+31.222306
+76.7235
+Debris
+Slide
+NA
+4634
+HP/SOL/53A12/2017/31
+Himachal Pradesh
+Solan
+ 
+NH 21A,BAWARAN
+31.222306
+76.7235
+Rock
+Slide
+NA
+4635
+HP/SOL/53A16/2017/149
+Himachal Pradesh
+Solan
+ 
+NH 21
+31.222639
+76.768222
+Rock
+Slide
+NA
+4636
+HP/SHI/53E04/2017/93
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.224
+77.142222
+Debris
+Slide
+NA
+4637
+HP/SHI/53E04/2017/136
+Himachal Pradesh
+Shimla
+ 
+HALOG SILAHARA ROAD, 
+MANDRI
+31.224083
+77.073833
+Rock
+Slide
+NA
+4638
+HP/SHI/53E16/2016/130
+Himachal Pradesh
+Shimla
+ 
+BADIYARA BRIDGEBADIYARA 
+ROAD
+31.2247
+77.845
+Rock
+Fall
+NA
+4639
+HP/SHI/53E16/2016/118
+Himachal Pradesh
+Shimla
+ 
+NEAR TIKRITIKRI-LAROT ROAD, 
+5KM MILESTONE
+31.2249
+77.9649
+Debris
+Slide
+NA
+4640
+HP/SHI/53E04/2017/92
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.225083
+77.137417
+Rock
+Slide
+NA
+4641
+HP/SOL/53A16/2017/36
+Himachal Pradesh
+Solan
+ 
+KARARA
+31.225194
+76.966861
+Rock
+Slide
+NA
+4642
+HP/SHI/53E16/2016/19
+Himachal Pradesh
+Shimla
+ 
+NEAR BHAMANALANEAR 
+ROHRU
+31.2255
+77.7571
+Rock
+Slide
+NA
+4643
+HP/SHI/53E04/2017/78
+Himachal Pradesh
+Shimla
+ 
+KADARGHAT
+31.225611
+77.215861
+Rock
+Slide
+NA
+4644
+HP/SHI/53E16/2016/17
+Himachal Pradesh
+Shimla
+ 
+NEAR GUMMAJANGLA-GUMMA 
+ROAD
+31.2257
+77.8333
+Debris
+Slide
+NA
+4645
+HP/SOL/53A16/2017/152
+Himachal Pradesh
+Solan
+ 
+NH 21
+31.225806
+76.760889
+Rock
+Slide
+NA
+4646
+HP/SHI/53E04/2017/91
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.225944
+77.134611
+Debris
+Slide
+NA
+4647
+HP/SHI/53E04/2017/90
+Himachal Pradesh
+Shimla
+ 
+BASANTPUR KARIALI ROAD
+31.2265
+77.133139
+Rock
+Fall
+NA
+4648
+HP/SOL/53A16/2017/83
+Himachal Pradesh
+Solan
+ 
+NH 21,JAMLI
+31.226861
+76.77725
+Rock
+Fall
+NA
+4649
+HP/SOL/53A16/2017/20
+Himachal Pradesh
+Solan
+ 
+SYARI
+31.226944
+76.905861
+Debris
+Slide
+NA

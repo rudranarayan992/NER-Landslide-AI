@@ -1,0 +1,366 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29455
+WB/DAR/78A12/2015/284
+West Bengal
+Darjeeling
+Phaperkheti
+Paparkheti Lava)
+Kalimpong
+Sub-division.
+27.043519
+88.695969
+Debris
+Slide
+2015
+29456
+WB/DAR/78A04/2021/PDLS/15
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.04355651
+88.19865449
+Rock
+Slide
+October 2021
+29457
+WB/DAR/78A12/2015/1452
+West Bengal
+Darjeeling
+ 
+ 
+27.043741
+88.669816
+Rock cum Debris
+Slide
+NA
+29458
+WB/DAR/78A12/2015/1453
+West Bengal
+Darjeeling
+ 
+ 
+27.04387
+88.668414
+Rock cum Debris
+Slide
+NA
+29459
+WB/DAR/78A08/2015/1391
+West Bengal
+Darjeeling
+ 
+ 
+27.043884
+88.46017
+Debris
+Slide
+2013
+29460
+WB/DAR/78A12/2015/268
+West Bengal
+Darjeeling
+Near junction of Sungbung and 
+Pringtam road
+Near Yok - Printam Village on 
+Kalimpong-Sindebung road
+27.043899
+88.532227
+Rock
+Slide
+2013
+29461
+WB/DAR/78A12/2015/168
+West Bengal
+Darjeeling
+30 Km. from Damdim on Damdim-
+Algarah road
+At 30 Km. from Damdim on 
+Damdim-Labha-Algarah road
+27.044221
+88.691487
+Rock cum Debris
+Subsidence
+1982
+29462
+WB/DAR/78A08/2015/1179
+West Bengal
+Darjeeling
+ 
+MULDARA,DARJEELING
+27.044389
+88.270222
+Rock
+Slide
+2015
+29463
+WB/DAR/78A12/2015/181
+West Bengal
+Darjeeling
+30.5 km. from Damdim on Damdim-
+Labha- Algara road
+At 30.5 km. on Damdim-Labha- 
+Algara road
+27.044728
+88.690057
+Debris
+Subsidence
+1998
+29464
+WB/DAR/78A08/2015/1175
+West Bengal
+Darjeeling
+ 
+KOLBONG
+27.044972
+88.394917
+Debris
+Slide
+2015
+29465
+WB/DARJ/78A08/2007/0272
+West Bengal
+Darjeeling
+ 
+26.30 km from Sevok(Tiger 
+Bridge) on NH-31A towards 
+Gangtok
+27.045
+88.43
+Rock
+Slide
+NA
+29466
+WB/DAR/78A08/2015/1406
+West Bengal
+Darjeeling
+ 
+ 
+27.04517
+88.459803
+Rock
+Slide
+2013
+29467
+WB/DAR/78A12/2015/266
+West Bengal
+Darjeeling
+Pala Bridge
+Near Pala on Kalimpong -Pala 
+road
+27.0454
+88.536375
+Rock
+Slide
+2013
+29468
+WB/DAR/78A12/2015/265
+West Bengal
+Darjeeling
+Pala Bridge
+Near Pala on Kalimpong -Pala 
+road
+27.045417
+88.536945
+Rock
+Slide
+2013
+29469
+WB/DAR/78A08/2015/1398
+West Bengal
+Darjeeling
+ 
+ 
+27.045451
+88.459656
+Debris
+Slide
+2013
+29470
+WB/DARJ/78A12/2007/0014
+West Bengal
+Darjeeling
+WP511
+Parakheti-Lava road
+27.0455
+88.6854
+Debris
+Slide
+2007
+29471
+WB/DAR/78A08/2015/129
+West Bengal
+Darjeeling
+NH-31A 27.3 km from Sevok(Tiger 
+Bridge) towards  Gangtok
+ 
+27.045535
+88.427239
+Rock
+Slide
+2013
+29472
+WB/DAR/78A12/2015/187
+West Bengal
+Darjeeling
+38.5 km from Damdim on Damdim-
+Labha-Algara road
+Paparkheti - Lava road
+27.045854
+88.68263
+Debris
+Slide
+2007
+29473
+WB/DARJ/78A08/2013/0273
+West Bengal
+Darjeeling
+ 
+ 
+27.046
+88.429
+Rock
+Slide
+NA
+29474
+WB/DAR/78A12/2015/212
+West Bengal
+Darjeeling
+37.5km from Damdim on Damdim-
+Labha-Algara road
+Paparkheti - Lava road
+27.046127
+88.686365
+Debris
+Slide
+2007
+29475
+WB/DAR/78A04/2021/PDLS/15
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.04615289
+88.19800659
+Debris
+Slide
+October 2021
+29476
+WB/DAR/78A08/2015/1367
+West Bengal
+Darjeeling
+MUNICIPALITY WARD NO.17, ORIGIN 
+OF RAJA JHORA
+NEAR CHALISAY 
+GAON,CHIBBO,KALIMPONG
+27.04625
+88.455389
+Debris
+Flow
+2016
+29477
+WB/DAR/78A08/2015/1325
+West Bengal
+Darjeeling
+NEAR DIV CHOWK
+WEST RICKSHAW ROAD, 
+KALIMPONG
+27.046369
+88.459362
+Debris
+Subsidence
+2010
+29478
+WB/DAR/78A12/2015/169
+West Bengal
+Darjeeling
+34 km from Damdim on Damdim-
+Labha-Algara road
+At Km 34 on Damdim-Labha-
+Algara road
+27.0467
+88.688772
+Rock cum Debris
+Flow
+1982
+29479
+WB/DAR/78A12/2015/1454
+West Bengal
+Darjeeling
+ 
+ 
+27.046782
+88.667166
+Rock cum Debris
+Slide
+NA
+29480
+WB/DAR/78A04/2015/1249
+West Bengal
+Darjeeling
+ 
+RISHEEHAT TG
+27.046972
+88.212972
+Rock cum Debris
+Slide
+2016
+29481
+WB/DARJ/78A12/2007/0019
+West Bengal
+Darjeeling
+Lava
+1km from Lava towards 
+Gorubathan
+27.047
+88.6828
+Debris
+Slide
+2007
+29482
+WB/DARJ/78A12/2007/0015
+West Bengal
+Darjeeling
+WP512
+Parakheti-Lava road failure 
+shallow rotaional
+27.047
+88.6828
+Debris
+Slide
+2007
+29483
+WB/DAR/78A12/2015/1384
+West Bengal
+Darjeeling
+UPPER KUWAPANI
+SH-12
+27.047028
+88.68
+Rock
+Slide
+2012
+29484
+WB/DAR/78A12/2015/1377
+West Bengal
+Darjeeling
+MELLI ROAD
+DAJE,PALA
+27.047194
+88.530583
+Debris
+Slide
+2016

@@ -1,0 +1,533 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+5468
+HP/SHI/53E15/2016/70
+Himachal Pradesh
+Shimla
+ 
+Sunda village- Rampur -Mishnu 
+road
+31.46
+77.8046
+Debris
+Slide
+NA
+5469
+HP/BIL/53A11/2018/16
+Himachal Pradesh
+Bilaspur
+ 
+Kalri Ghumarwin
+31.461272
+76.691696
+Rock
+Slide
+NA
+5470
+HP/SHI/53E15/2016/1
+Himachal Pradesh
+Shimla
+ 
+Bagawat village link road
+31.4616
+77.8373
+Debris
+Slide
+2014
+5471
+HP/KUL/53E07/2016/34
+Himachal Pradesh
+Kullu
+ 
+RANABAGH
+31.461917
+77.328833
+Debris
+Slide
+NA
+5472
+HP/BIL/53A11/2018/13
+Himachal Pradesh
+Bilaspur
+ 
+Baddu
+31.461931
+76.713604
+Debris
+Slide
+NA
+5473
+HP/KUL/53E07/2016/80
+Himachal Pradesh
+Kullu
+ 
+ANI GAD
+31.462564
+77.413462
+Debris
+Slide
+NA
+5474
+HP/SHI/53E15/2016/68
+Himachal Pradesh
+Shimla
+ 
+Rampur -Mishnu road
+31.4626
+77.816
+Debris
+Slide
+NA
+5475
+HP/SHI/53E11/2016/98
+Himachal Pradesh
+Shimla
+ 
+Khaltu, NH-05
+31.462667
+77.674917
+Debris
+Slide
+NA
+5476
+HP/MAN/53A15/2015/279
+Himachal Pradesh
+Mandi
+ 
+ 
+31.462861
+76.824361
+Debris
+Slide
+2015
+5477
+HP/MAN/53A15/2015/278
+Himachal Pradesh
+Mandi
+ 
+ 
+31.463806
+76.828861
+Debris
+Slide
+2015
+5478
+HP/KUL/53E07/2016/4
+Himachal Pradesh
+Kullu
+ 
+GADHARI, NH-3056
+31.464444
+77.427111
+Debris
+Slide
+NA
+5479
+HP/BIL/53A11/2018/14
+Himachal Pradesh
+Bilaspur
+ 
+Tobka
+31.464463
+76.727516
+Rock
+Slide
+NA
+5480
+HP/BIL/53A11/2018/12
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.464645
+76.727313
+Rock
+Slide
+NA
+5481
+HP/MAN/53A15/2015/182
+Himachal Pradesh
+Mandi
+ 
+ 
+31.465122
+76.943879
+Debris
+Slide
+NA
+5482
+HP/SHI/53E11/2016/32
+Himachal Pradesh
+Shimla
+ 
+Dashada, NH-05
+31.4655
+77.675417
+Rock
+Slide
+NA
+5483
+HP/BIL/53A11/2018/36
+Himachal Pradesh
+Bilaspur
+ 
+Glasy
+31.465745
+76.708196
+Debris
+Slide
+NA
+5484
+HP/MAN/53E03/2015/224
+Himachal Pradesh
+Mandi
+ 
+ 
+31.46575
+77.019944
+Debris
+Slide
+NA
+5485
+HP/BIL/53A11/2018/35
+Himachal Pradesh
+Bilaspur
+ 
+Glasy
+31.4665
+76.708931
+Debris
+Slide
+NA
+5486
+HP/MAN/53E03/2015/320
+Himachal Pradesh
+Mandi
+ 
+ 
+31.466806
+77.023694
+Rock
+Slide
+NA
+5487
+HP/SHI/53E11/2016/67
+Himachal Pradesh
+Shimla
+ 
+Dashada
+31.466806
+77.693694
+Rock
+Slide
+NA
+5488
+HP/SHI/53E11/2016/99
+Himachal Pradesh
+Shimla
+ 
+Dashada
+31.466889
+77.693722
+Rock
+Slide
+NA
+5489
+HP/BIL/53A11/2018/30
+Himachal Pradesh
+Bilaspur
+ 
+Kothi
+31.467255
+76.72597
+Debris
+Slide
+NA
+5490
+HP/SHI/53E15/2016/42
+Himachal Pradesh
+Shimla
+ 
+Near Bushahr
+31.4674
+77.8046
+Debris
+Slide
+2004
+5491
+HP/SHI/53E15/2016/137
+Himachal Pradesh
+Shimla
+ 
+Near Majehwali - 
+Funjamajehwali - Funja road
+31.4674
+77.7572
+Debris
+Slide
+NA
+5492
+HP/MAN/53E03/2015/321
+Himachal Pradesh
+Mandi
+ 
+ 
+31.467444
+77.023417
+Rock
+Slide
+2015
+5493
+HP/MAN/53E03/2015/322
+Himachal Pradesh
+Mandi
+ 
+ 
+31.467583
+77.023333
+Rock
+Slide
+2015
+5494
+HP/SHI/53E15/2016/96
+Himachal Pradesh
+Shimla
+ 
+Bagawat village link road
+31.4678
+77.831
+Debris
+Slide
+2008
+5495
+HP/SHI/53E15/2016/95
+Himachal Pradesh
+Shimla
+ 
+Bagawat village link road
+31.4679
+77.8308
+Debris
+Slide
+2008
+5496
+HP/SHI/53E11/2016/101
+Himachal Pradesh
+Shimla
+ 
+Dashada
+31.468472
+77.683417
+Rock
+Slide
+NA
+5497
+HP/MAN/53E03/2015/323
+Himachal Pradesh
+Mandi
+ 
+ 
+31.468694
+77.022917
+Rock
+Topple
+NA
+5498
+HP/MAN/53A15/2015/112
+Himachal Pradesh
+Mandi
+ 
+ 
+31.468944
+76.866083
+Debris
+Slide
+NA
+5499
+HP/MAN/53E03/2015/325
+Himachal Pradesh
+Mandi
+ 
+ 
+31.469167
+77.023611
+Debris
+Slide
+2015
+5500
+HP/SHI/53E11/2016/66
+Himachal Pradesh
+Shimla
+ 
+Dashada
+31.469306
+77.686361
+Rock
+Slide
+NA
+5501
+HP/SHI/53E15/2016/86
+Himachal Pradesh
+Shimla
+ 
+Left bank of Buri Khad, near 
+Phunja
+31.4699
+77.759
+Debris
+Slide
+2008
+5502
+HP/SHI/53E11/2016/8
+Himachal Pradesh
+Shimla
+ 
+Barauri Gad
+31.469972
+77.705028
+Debris
+Slide
+NA
+5503
+HP/MAN/53E03/2015/326
+Himachal Pradesh
+Mandi
+ 
+ 
+31.470556
+77.019444
+Debris
+Slide
+NA
+5504
+HP/SHI/53E11/2016/68
+Himachal Pradesh
+Shimla
+ 
+ 
+31.470639
+77.693722
+Debris
+Slide
+NA
+5505
+HP/SHI/53E15/2016/99
+Himachal Pradesh
+Shimla
+ 
+Near Kinnu - Mashnu road
+31.471
+77.7968
+Debris
+Slide
+2012
+5506
+HP/SHI/53E15/2016/85
+Himachal Pradesh
+Shimla
+ 
+Left bank of Buri Khad, near 
+Phunja
+31.471
+77.7596
+Debris
+Slide
+2008
+5507
+HP/SHI/53E11/2016/24
+Himachal Pradesh
+Shimla
+ 
+Dashada
+31.472167
+77.693417
+Debris
+Slide
+NA
+5508
+HP/KUL/53E07/2016/81
+Himachal Pradesh
+Kullu
+ 
+GADHARI,NH-305
+31.472389
+77.423222
+Rock
+Slide
+NA
+5509
+HP/SHI/53E15/2016/65
+Himachal Pradesh
+Shimla
+ 
+Rampur -Mishnu road
+31.4724
+77.7515
+Debris
+Slide
+2011
+5510
+HP/MAN/53A15/2015/220
+Himachal Pradesh
+Mandi
+ 
+ 
+31.472889
+76.978972
+Debris
+Slide
+NA
+5511
+HP/BIL/53A11/2018/28
+Himachal Pradesh
+Bilaspur
+ 
+Palsoti
+31.472966
+76.725561
+Debris
+Slide
+NA
+5512
+HP/BIL/53A11/2018/39
+Himachal Pradesh
+Bilaspur
+ 
+Palsoti
+31.473431
+76.725488
+Debris
+Slide
+NA
+5513
+HP/MAN/53A15/2015/179
+Himachal Pradesh
+Mandi
+ 
+ 
+31.473768
+76.937481
+Debris
+Slide
+NA
+5514
+HP/MAN/53A15/2015/219
+Himachal Pradesh
+Mandi
+ 
+ 
+31.474056
+76.980694
+Debris
+Slide
+NA

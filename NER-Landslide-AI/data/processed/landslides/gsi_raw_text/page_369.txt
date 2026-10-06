@@ -1,0 +1,410 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15251
+KRL/IDK/58F/4/2018/260
+KERALA
+IDUKKI
+Rajammala- Edamalakudy road
+Rajammala- Edamalakudy road
+10.1434528
+77.02801523
+Debris
+flow
+15th August 2018
+15252
+KRL/IDK/58F/4/2018/261
+KERALA
+IDUKKI
+Rajammala- Edamalakudy second 
+level road
+Rajammala- Edamalakudy 
+second level  road
+10.14352967
+77.02727675
+Debris
+flow
+15th August 2018
+15253
+KRL/IDK/58F/4/2018/262
+KERALA
+IDUKKI
+Munnar Juma Masjid
+Munnar- Udumpalpettu road
+10.08971639
+77.05988593
+Debris
+slide
+15th August 2018
+15254
+KRL/IDK/58F/4/2018/263
+KERALA
+IDUKKI
+Near Munnar Betheren Church
+Munnar- Udumpalpettu road
+10.09254548
+77.05990392
+Debris
+slide
+15th August 2018
+15255
+KRL/IDK/58F/4/2018/264
+KERALA
+IDUKKI
+Near Ganesha temple
+Munnar- Udumpalpettu road
+10.09738659
+77.05761783
+Debris
+slide
+15th August 2018
+15256
+KRL/IDK/58F/4/2018/265
+KERALA
+IDUKKI
+Rajamala 5th mile
+Munnar- Udumpalpettu road 
+blocked
+10.13739556
+77.060126
+Debris
+slide
+15th August 2018
+15257
+KRL/IDK/58C13/2018/266
+KERALA
+IDUKKI
+Neymakad Tea Estate
+Rajamala-Udulmal Pett
+10.15005873
+77.073107
+Debris
+slide
+15th August 2018
+15258
+KRL/IDK/58C13/2018/267
+KERALA
+IDUKKI
+Munnar-Udumal pett road 8th mile
+Munnar-Udumal pett road 8th 
+mile
+10.1502097
+77.08209414
+Debris
+slide
+15th August 2018
+15259
+KRL/IDK/58C13/2018/268
+KERALA
+IDUKKI
+Kilparattu lower Division
+10.173418
+77.128062
+Debris
+flow
+15th August 2018
+15260
+KRL/IDK/58C13/2018/269
+KERALA
+IDUKKI
+Munnar-Murukan Temple
+10.08961763
+77.06122615
+Debris
+slide
+15th August 2018
+15261
+KRL/IDK/58C13/2018/270
+KERALA
+IDUKKI
+Munnar
+Munnar-Kochi
+10.06649583
+77.06557573
+Debris
+slide
+15th August 2018
+15262
+KRL/IDK/58C13/2018/271
+KERALA
+IDUKKI
+Pallivasal Tea Estate
+Munnar-Kochi
+10.05720453
+77.05383331
+Debris
+slide
+15th August 2018
+15263
+KRL/IDK/58C13/2018/272
+KERALA
+IDUKKI
+Vattayar
+Munnar-Kochi
+10.03871671
+77.00559879
+Debris
+flow
+15th August 2018
+15264
+KRL/IDK/58C13/2018/273
+KERALA
+IDUKKI
+Vattayar
+Munnar-Kochi
+10.03884987
+77.00151372
+Debris
+slide
+15th August 2018
+15265
+KRL/IDK/58F/4/2018/274
+KERALA
+IDUKKI
+Unnikuzhy, Pallivasal village
+nil
+10.0349903
+76.99247013
+Debris
+slide
+15th August 2018
+15266
+KRL/IDK/58C13/2018/275
+KERALA
+IDUKKI
+Thokkupara
+10.02451009
+77.02294844
+Debris
+slide
+15th August 2018
+15267
+KRL/IDK/58F/4/2018/276
+KERALA
+IDUKKI
+Anachal, Shankupadi
+Anachal- Iruttukkanam road
+10.02913779
+77.03188727
+Debris
+flow
+15th August 2018
+15268
+KRL/IDK/58F/4/2018/277
+KERALA
+IDUKKI
+Anachal, Shankupadi
+nil
+10.03057454
+77.03491491
+Debris
+slide
+15th August 2018
+15269
+KRL/IDK/58F/4/2018/278
+KERALA
+IDUKKI
+Anachal, Shankupadi
+nil
+10.03079422
+77.0344694
+Debris
+flow
+15th August 2018
+15270
+KRL/IDK/58F/4/2018/279
+KERALA
+IDUKKI
+Hotel, Plumjudy, Pallivasal
+Road to Hotel Plum judy
+10.05532106
+77.04999993
+Debris
+slide
+15th August 2018
+15271
+KRL/IDK/58C13/2018/280
+KERALA
+IDUKKI
+Ambazhachal-Kunjithanni
+10.01807501
+77.01686224
+Debris
+flow
+15th August 2018
+15272
+KRL/IDK/58C13/2018/281
+KERALA
+IDUKKI
+Kunjithanni
+10.016105
+77.05219713
+Debris
+slide
+15th August 2018
+15273
+KRL/IDK/58C13/2018/282
+KERALA
+IDUKKI
+Kunjithanni
+10.00513651
+77.06453921
+Debris
+flow
+15th August 2018
+15274
+KRL/IDK/58C13/2018/283
+KERALA
+IDUKKI
+Ellaickal
+9.999803428
+77.0630921
+Debris
+flow
+15th August 2018
+15275
+KRL/IDK/58C13/2018/284
+KERALA
+IDUKKI
+Ellaickal
+10.0006738
+77.06266901
+Debris
+slide
+15th August 2018
+15276
+KRL/IDK/58F/4/2018/286
+KERALA
+IDUKKI
+Ellackkal, Kunjithani
+Ellackkal- Pothuppara
+9.99189645
+77.06274131
+Subsidence
+15th August 2018
+15277
+KRL/IDK/58F/4/2018/286
+KERALA
+IDUKKI
+Ellackkal, Kunjithani
+Ellackkal- Pothuppara
+9.994788375
+77.0613735
+Debris
+flow, F.D: N75
+15th August 2018
+15278
+KRL/IDK/58F/4/2018/287
+KERALA
+IDUKKI
+Ellackkal
+Ellackkal- Pothuppara
+9.994211595
+77.06255529
+Debris
+flow
+15th August 2018
+15279
+KRL/IDK/58F/4/2018/288
+KERALA
+IDUKKI
+Ellackkal
+Ellackkal- Pothuppara
+9.994679403
+77.06291387
+Debris
+slide
+15th August 2018
+15280
+KRL/IDK/58F/4/2018/289
+KERALA
+IDUKKI
+Uppar, Bison Valley
+nil
+9.996409403
+77.07832631
+Debris
+slide
+15th August 2018
+15281
+KRL/IDK/58F/4/2018/290
+KERALA
+IDUKKI
+Uppar, Bison Valley
+nil
+9.995731861
+77.07681743
+Debris
+slide
+15th August 2018
+15282
+KRL/IDK/58F/4/2018/291
+KERALA
+IDUKKI
+Upparnirappu
+Ellackkal- Tea company road
+9.999035434
+77.07756791
+Debris
+slide
+15th August 2018
+15283
+KRL/IDK/58F/4/2018/292
+KERALA
+IDUKKI
+Kochupu
+Kochupu- Josegiri
+9.992197557
+77.0811719
+Debris
+flow, F.D: N175 15th August 2018
+15284
+KRL/IDK/58F/4/2018/293
+KERALA
+IDUKKI
+Josegiri
+Kochupu- Josegiri road 
+10.01391667
+77.08216667
+Debris
+flow, F.D: N200 15th August 2018
+15285
+KRL/IDK/58F/4/2018/294
+KERALA
+IDUKKI
+Josegiri
+Kochupu- Josegiri road 
+10.01636111
+77.08663889
+Debris
+flow, F.D: N120 15th August 2018
+15286
+KRL/IDK/58F/4/2018/295
+KERALA
+IDUKKI
+Josegiri
+Kochupu- Josegiri road 
+10.00358333
+77.09747222
+Debris
+flow, F.D: N170 15th August 2018
+15287
+KRL/IDK/58F/4/2018/296
+KERALA
+IDUKKI
+40 acre, Bison Valley
+40 acre- Bison Valley road
+10.00070701
+77.11354272
+Debris
+flow, F.D: N 25
+15th August 2018

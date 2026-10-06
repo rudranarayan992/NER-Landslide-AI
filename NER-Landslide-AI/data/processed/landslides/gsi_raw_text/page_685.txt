@@ -1,0 +1,415 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27127
+TN/ANN/58F11/2016/4
+Tamil Nadu
+Dindigul
+ 
+Road from  Kodaikanal to 
+Genguvarpatti
+10.278611
+77.565778
+Debris
+Slide
+NA
+27128
+TN/ANN/58F15/2016/8
+Tamil Nadu
+Dindigul
+ 
+Thandikudi to Batlaguntu road
+10.279656
+77.7847
+Debris
+Slide
+NA
+27129
+TN/COI/58B15/2017/117
+Tamil Nadu
+Coimbatore
+ 
+Road from Malakkaparai to 
+Chalakudi
+10.280017
+76.864919
+Soil
+Slide
+NA
+27130
+TN/COI/58B15/2017/40
+Tamil Nadu
+Coimbatore
+ 
+Road from Singona Tea Estate 
+to Nirar Dam
+10.280178
+76.977636
+Soil
+Slide
+NA
+27131
+TN/DIN/58F07/2017/12
+Tamil Nadu
+Dindigul
+ 
+Pallangi village to Kombai
+10.281278
+77.449222
+Rock cum debris
+Fall
+NA
+27132
+TN/DIN/58F07/2017/33
+Tamil Nadu
+Dindigul
+ 
+Pallangi to Kombai road.
+10.281333
+77.448889
+Debris
+Slide
+NA
+27133
+TN/ANN/58F11/2016/21
+Tamil Nadu
+Dindigul
+ 
+Road from Perumal Malai to 
+Palani
+10.281583
+77.533722
+Debris
+Slide
+NA
+27134
+TN/DIN/58F07/2017/34
+Tamil Nadu
+Dindigul
+ 
+Pallangi to Kombai road.
+10.281583
+77.449
+Debris
+Slide
+NA
+27135
+TN/DIN/58F07/2017/35
+Tamil Nadu
+Dindigul
+ 
+Pallangi to Kombai road.
+10.282194
+77.45125
+Debris
+Slide
+NA
+27136
+TN/COI/58F03/2017/109
+Tamil Nadu
+Coimbatore
+ 
+Periya kallar   river
+10.283972
+77.015556
+Debris
+Slide
+NA
+27137
+TN/DIN/58F07/2017/36
+Tamil Nadu
+Dindigul
+ 
+Pallangi to Kombai road.
+10.284361
+77.456
+Debris
+Slide
+NA
+27138
+TN/DIN/58F07/2017/24
+Tamil Nadu
+Dindigul
+ 
+Kukkal Lake
+10.284806
+77.361944
+Soil
+Slide
+NA
+27139
+TN/DIN/58F07/2017/25
+Tamil Nadu
+Dindigul
+ 
+Kukkal to Kundupatti road
+10.285694
+77.3765
+Soil
+Slide
+NA
+27140
+TN/DIN/58F07/2017/26
+Tamil Nadu
+Dindigul
+ 
+Kukkal village
+10.285833
+77.376694
+Rock cum debris
+Slide
+NA
+27141
+TN/DIN/58F07/2017/6
+Tamil Nadu
+Dindigul
+ 
+Anavattam road to Kukkal
+10.285889
+77.3945
+Debris
+Slide
+NA
+27142
+TN/DIN/58F07/2017/37
+Tamil Nadu
+Dindigul
+ 
+Pallangi to Kombai road.
+10.286
+77.457444
+Debris
+Slide
+NA
+27143
+TN/DIN/58F07/2017/27
+Tamil Nadu
+Dindigul
+ 
+Kukkal village
+10.286917
+77.396306
+Rock cum debris
+Slide
+NA
+27144
+TN/ANN/58F11/2016/25
+Tamil Nadu
+Dindigul
+ 
+Along the road from Perumal 
+Malai to Pettuparai
+10.287006
+77.530047
+Debris
+Slide
+NA
+27145
+TN/COI/58F03/2017/111
+Tamil Nadu
+Coimbatore
+ 
+Periya kallar
+10.287306
+77.009028
+Debris
+Slide
+NA
+27146
+TN/COI/58F03/2017/110
+Tamil Nadu
+Coimbatore
+ 
+Periya kallar
+10.287333
+77.007722
+Debris
+Slide
+NA
+27147
+TN/COI/58F03/2017/112
+Tamil Nadu
+Coimbatore
+ 
+Periya kallar
+10.287556
+77.009583
+Debris
+Slide
+NA
+27148
+TN/COI/58F03/2017/113
+Tamil Nadu
+Coimbatore
+ 
+Periya kallar
+10.287722
+77.009139
+Debris
+Slide
+NA
+27149
+TN/DIN/58F07/2017/7
+Tamil Nadu
+Dindigul
+ 
+Anavattam road to Kukkal
+10.288083
+77.398389
+Soil cum debris
+Slide
+NA
+27150
+TN/COI/58F03/2017/98
+Tamil Nadu
+Coimbatore
+ 
+Cinchona fourth division  area
+10.28825
+77.001222
+Debris
+Topple
+NA
+27151
+TN/COI/58B15/2017/39
+Tamil Nadu
+Coimbatore
+ 
+Road from Singona Tea Estate 
+to Chinna Kallar
+10.288333
+77
+Debris
+Slide
+NA
+27152
+TN/COI/58B15/2017/118
+Tamil Nadu
+Coimbatore
+ 
+Road from Malakkaparai to 
+Chalakudi
+10.288408
+76.841694
+Soil
+Slide
+NA
+27153
+TN/COI/58F03/2017/99
+Tamil Nadu
+Coimbatore
+ 
+Cinchona fourth division  area
+10.288528
+77.00225
+Debris
+Topple
+NA
+27154
+TN/COI/58F03/2017/108
+Tamil Nadu
+Coimbatore
+ 
+Periya kallar   road
+10.288778
+77.009417
+Debris
+Slide
+NA
+27155
+TN/COI/58F03/2017/101
+Tamil Nadu
+Coimbatore
+ 
+Cinchona fourth division  area
+10.288833
+77.005333
+Debris
+Slide
+NA
+27156
+TN/COI/58F03/2017/100
+Tamil Nadu
+Coimbatore
+ 
+Cinchona fourth division  area
+10.288889
+77.002833
+Debris
+Slide
+NA
+27157
+TN/COI/58F03/2017/102
+Tamil Nadu
+Coimbatore
+ 
+Cinchona fourth division  area
+10.289111
+77.005889
+Debris
+Slide
+NA
+27158
+TN/COI/58B15/2017/38
+Tamil Nadu
+Coimbatore
+ 
+Singona Tea Estate
+10.290103
+76.986164
+Soil
+Slide
+NA
+27159
+TN/COI/58F03/2017/114
+Tamil Nadu
+Coimbatore
+ 
+Periya kallar
+10.290417
+77.008611
+Debris
+Slide
+NA
+27160
+TN/ANN/58F15/2016/7
+Tamil Nadu
+Dindigul
+ 
+Thandikudi to Batlaguntu road
+10.290756
+77.77765
+Debris
+Slide
+NA
+27161
+TN/COI/58F03/2017/107
+Tamil Nadu
+Coimbatore
+ 
+Periya kallar  road
+10.290861
+77.008639
+Rock cum debris
+Slide
+NA
+27162
+TN/COI/58F03/2017/103
+Tamil Nadu
+Coimbatore
+ 
+Cinchona fourth division  area
+10.291667
+77.012639
+Debris
+Slide
+NA

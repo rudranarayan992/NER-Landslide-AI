@@ -1,0 +1,398 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+25086
+NL/WOK/83F16/2018/5
+Nagaland
+Wokha
+Ralan-5
+Ralan-Woroku road
+26.0037
+93.9862
+Debris
+Slide
+NA
+25087
+NL/WOK/83F16/2018/13
+Nagaland
+Wokha
+Ralan-13
+Ralan-Woroku road
+26.0038
+93.9873
+Debris
+Slide
+NA
+25088
+NL/WOK/83F16/2018/3
+Nagaland
+Wokha
+Ralan-3
+Ralan-Woroku road
+26.0039
+93.9807
+Debris
+Slide
+NA
+25089
+NL/WOK/83F16/2018/4
+Nagaland
+Wokha
+Ralan-4
+Ralan-Woroku road
+26.0043
+93.9803
+Debris
+Slide
+NA
+25090
+NL/WOK/83F16/2018/8
+Nagaland
+Wokha
+Ralan-8
+Ralan-Woroku road
+26.0044
+93.9789
+Debris
+Slide
+NA
+25091
+NL/WOK/83F16/2018/10
+Nagaland
+Wokha
+Ralan-10
+Ralan-Woroku road
+26.0045
+93.9828
+Debris
+Slide
+NA
+25092
+NAG/WOK/83J/4/2016/0097
+Nagaland
+Wokha
+ 
+Between New Ralan to 
+Longchum
+26.004528
+94.039583
+Rock
+Slide
+2016
+25093
+NL/WOK/83F16/2018/9
+Nagaland
+Wokha
+Ralan-9
+Ralan-Woroku road
+26.0046
+93.9814
+Debris
+Slide
+NA
+25094
+NL/WOK/83F16/2018/12
+Nagaland
+Wokha
+Ralan-12
+Ralan-Woroku road
+26.0049
+93.9901
+Debris
+Slide
+NA
+25095
+NL/WOK/83F16/2018/6
+Nagaland
+Wokha
+Ralan-6
+Ralan-Woroku road
+26.0049
+93.9914
+Debris
+Slide
+NA
+25096
+NL/WOK/83F16/2018/2
+Nagaland
+Wokha
+Ralan-2
+Ralan-Woroku road
+26.0051
+93.9795
+Debris
+Slide
+NA
+25097
+NL/WOK/83F16/2018/14
+Nagaland
+Wokha
+Ralan-14
+Ralan-Woroku road
+26.0052
+93.9927
+Debris
+Slide
+NA
+25098
+NL/WOK/83F16/2018/1
+Nagaland
+Wokha
+Ralan-1
+Ralan-Woroku road
+26.0054
+93.9794
+Debris
+Slide
+NA
+25099
+NAG/WOK/83J/4/2016/0098
+Nagaland
+Wokha
+ 
+Between New Ralan to 
+Longchum
+26.005917
+94.039667
+Rock
+Slide
+2014
+25100
+NAG/WOK/83J/4/2016/0105
+Nagaland
+Wokha
+ 
+1.5 km SW of New Ralan
+26.006028
+94.003194
+Debris
+Slide
+NA
+25101
+NL/WOK/83F16/2018/15
+Nagaland
+Wokha
+Ralan-15
+Ralan-Woroku road
+26.0073
+93.9983
+Rock
+Slide
+NA
+25102
+NL/WOK/83F16/2018/7
+Nagaland
+Wokha
+Ralan-7
+Ralan-Woroku road
+26.0074
+93.9988
+Rock
+Slide
+NA
+25103
+NAG/WOK/83J/4/2016/0101
+Nagaland
+Wokha
+ 
+Between New Ralan to 
+Longchum
+26.0075
+94.021444
+Rock
+Slide
+2016
+25104
+NAG/WOK/83J/4/2016/0100
+Nagaland
+Wokha
+ 
+Between New Ralan to 
+Longchum
+26.008333
+94.032333
+Debris
+Slide
+2016
+25105
+NAG/ZUN/83J12/2016/0009
+Nagaland
+Zunheboto
+ 
+Below DC house building, 
+Zunheboto
+26.011075
+94.523236
+Rock
+Slide
+2014
+25106
+NAG/WOK/83J/4/2016/0102
+Nagaland
+Wokha
+ 
+Between New Ralan to 
+Longchum
+26.011389
+94.022722
+Debris
+Slide
+2016
+25107
+NAG/ZUNB/83J12/2016/0007
+Nagaland
+Zunheboto
+ 
+Zunhwboto Town, DC Colony
+26.012139
+94.523667
+Rock
+Slide
+2014
+25108
+NAG/WOK/83J/4/2016/0099
+Nagaland
+Wokha
+ 
+Between New Ralan to 
+Longchum
+26.012889
+94.044222
+Rock
+Slide
+2017
+25109
+NAG/WOKH/83J08/2015/0041
+Nagaland
+Wokha
+ 
+NH 61, Kaindnu Village
+26.013556
+94.255139
+Rock
+Slide
+NA
+25110
+NAG/WOK/83J/4/2016/0104
+Nagaland
+Wokha
+ 
+Outside New Ralan
+26.013722
+94.009083
+Rock
+Slide
+2015
+25111
+NAG/ZUN/83J12/2016/0011
+Nagaland
+Zunheboto
+ 
+Zunhwboto Town, Alahuto 
+Colony
+26.013806
+94.530111
+Rock
+Slide
+2014
+25112
+NAG/WOKH/83J08/2015/0040
+Nagaland
+Wokha
+ 
+NH 61, Near NST Bus accident 
+point of 8th Aug'2007
+26.016333
+94.254306
+Rock
+Slide
+NA
+25113
+NAG/WOK/83J/4/2016/0029
+Nagaland
+Wokha
+ 
+At Shangkitong
+26.016528
+94.171056
+Debris
+Slide
+2016
+25114
+NAG/WOKH/83J08/2015/0039
+Nagaland
+Wokha
+ 
+NH 61, Near NST Bus accident 
+point of 8th Aug'2006
+26.017
+94.254306
+Rock
+Slide
+NA
+25115
+NAG/WOKH/83J08/2015/0038
+Nagaland
+Wokha
+ 
+NH 61, Near NST Bus accident 
+point of 8th Aug'2005
+26.017472
+94.254389
+Rock
+Slide
+NA
+25116
+NAG/ZUN/83J12/2016/0008
+Nagaland
+Zunheboto
+ 
+Natha Old
+26.020603
+94.50632
+Rock
+Slide
+2011
+25117
+NAG/WOK/83J/4/2016/0103
+Nagaland
+Wokha
+ 
+1.6 km east of Woroko
+26.021083
+94.040361
+Debris
+Slide
+2015
+25118
+NAG/WOKH/83J08/2015/0037
+Nagaland
+Wokha
+ 
+NH 61, Near NST Bus accident 
+point of 8th Aug'2004
+26.022278
+94.257556
+Rock
+Slide
+NA
+25119
+NAG/WOK/83J/4/2016/0107
+Nagaland
+Wokha
+ 
+Chandalashung village
+26.0225
+94.004444
+Rock
+Fall
+NA

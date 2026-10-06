@@ -1,0 +1,543 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+5866
+HP/KIN/53E14/2016/51
+Himachal Pradesh
+Kinnaur
+ 
+Near Kacharng village, Left bank 
+of Solaring Khad
+31.5886
+77.9398
+Debris
+Slide
+NA
+5867
+HP/KUL/53E10/2016/33
+Himachal Pradesh
+Kullu
+ 
+Dimajan P.F.
+31.589
+77.595
+Debris
+Slide
+NA
+5868
+HP/MAN/53A14/2015/308
+Himachal Pradesh
+Mandi
+ 
+West of Gammun,SH 32
+31.590036
+76.809541
+Debris
+Slide
+NA
+5869
+HP/MAN/53A09/2018/6
+Himachal Pradesh
+Mandi
+ 
+ 
+31.590222
+76.526861
+Debris
+Slide
+NA
+5870
+HP/MAN/53A14/2015/309
+Himachal Pradesh
+Mandi
+ 
+West of Gammun,SH 32
+31.590575
+76.807784
+Rock
+Slide
+NA
+5871
+HP/MAN/53A14/2015/322
+Himachal Pradesh
+Mandi
+ 
+Maslan,SH 32
+31.591269
+76.77591
+Rock
+Slide
+NA
+5872
+HP/UNA/53A02/2018/9
+Himachal Pradesh
+Una
+ 
+Pallian R.F
+31.591357
+76.221398
+Debris
+Slide
+NA
+5873
+HP/UNA/53A02/2018/11
+Himachal Pradesh
+Una
+ 
+Pallian P.F
+31.59155
+76.223237
+Rock cum debris
+Slide
+NA
+5874
+HP/UNA/53A02/2018/13
+Himachal Pradesh
+Una
+ 
+Pallian P.F
+31.591806
+76.223469
+Debris
+Slide
+NA
+5875
+HP/UNA/53A02/2018/12
+Himachal Pradesh
+Una
+ 
+Pallan P.Fi
+31.591921
+76.223987
+Rock
+Slide
+NA
+5876
+HP/KIN/53E14/2016/73
+Himachal Pradesh
+Kinnaur
+ 
+Solaring, Left bank of Solaring 
+Khad
+31.5922
+77.9365
+Debris
+Slide
+NA
+5877
+HP/MAN/53A14/2015/307
+Himachal Pradesh
+Mandi
+ 
+West of Gammun,SH 32
+31.59263
+76.809827
+Rock
+Slide
+NA
+5878
+HP/MAN/53A14/2015/321
+Himachal Pradesh
+Mandi
+ 
+Maslan
+31.592797
+76.776176
+Rock
+Slide
+2009
+5879
+HP/UNA/53A02/2018/10
+Himachal Pradesh
+Una
+ 
+Pallian R.F
+31.593546
+76.221617
+Debris
+Slide
+NA
+5880
+HP/KUL/53E10/2016/34
+Himachal Pradesh
+Kullu
+ 
+Dimajan P.F.
+31.594
+77.584
+Rock cum debris
+Slide
+NA
+5881
+HP/MAN/53A14/2015/320
+Himachal Pradesh
+Mandi
+ 
+Baira Sain,SH 32
+31.594932
+76.76288
+Rock
+Slide
+NA
+5882
+HP/MAN/53A14/2015/319
+Himachal Pradesh
+Mandi
+ 
+Chalah,SH 32
+31.595002
+76.760145
+Rock
+Slide
+NA
+5883
+HP/MAN/53A14/2015/306
+Himachal Pradesh
+Mandi
+ 
+Gammun,SH 32
+31.596272
+76.813063
+Rock
+Slide
+NA
+5884
+HP/MAN/53A14/2015/304
+Himachal Pradesh
+Mandi
+ 
+Gammun,SH 32
+31.596669
+76.819335
+Debris
+Slide
+NA
+5885
+HP/MAN/53A14/2015/318
+Himachal Pradesh
+Mandi
+ 
+Chalah,SH 32
+31.596769
+76.760781
+Rock
+Slide
+NA
+5886
+HP/MAN/53A14/2015/305
+Himachal Pradesh
+Mandi
+ 
+Gammun,SH 32
+31.597208
+76.816223
+Rock
+Slide
+NA
+5887
+HP/MAN/53A14/2015/317
+Himachal Pradesh
+Mandi
+ 
+North of Chalah,SH 32
+31.598155
+76.760334
+Rock
+Slide
+NA
+5888
+HP/KIN/53E14/2016/11
+Himachal Pradesh
+Kinnaur
+ 
+Solaring village
+31.5984
+77.9356
+Debris
+Slide
+NA
+5889
+HP/KAN/53A09/2018/7
+Himachal Pradesh
+Kangra
+ 
+Lambagaon-ropri road
+31.598639
+76.542389
+Rock cum debris
+Slide
+NA
+5890
+HP/MAN/53A14/2015/303
+Himachal Pradesh
+Mandi
+ 
+Dhanehr,SH 32
+31.599424
+76.822002
+Debris
+Slide
+NA
+5891
+HP/KIN/53E14/2016/72
+Himachal Pradesh
+Kinnaur
+ 
+Solaring, Left bank of Solaring 
+Khad
+31.6001
+77.9292
+Debris
+Slide
+NA
+5892
+HP/UNA/53A02/2018/151
+Himachal Pradesh
+Una
+ 
+Chauki maniar R F
+31.600625
+76.220982
+Rock cum debris
+Slide
+NA
+5893
+HP/MAN/53A14/2015/316
+Himachal Pradesh
+Mandi
+ 
+Near Bhamla,SH 32
+31.600687
+76.752682
+Rock
+Slide
+NA
+5894
+HP/KUL/53E06/2016/124
+Himachal Pradesh
+Kullu
+ 
+Sharungar
+31.601
+77.469
+Debris
+Slide
+NA
+5895
+HP/KUL/53E06/2016/134
+Himachal Pradesh
+Kullu
+ 
+Bathad
+31.601
+77.481
+Debris
+Slide
+NA
+5896
+HP/UNA/53A02/2018/7
+Himachal Pradesh
+Una
+ 
+Chauki Maniar R.F
+31.601136
+76.223583
+Rock
+Slide
+NA
+5897
+HP/UNA/53A02/2018/8
+Himachal Pradesh
+Una
+ 
+Chauki manniar R F
+31.60129
+76.224104
+Rock
+Slide
+NA
+5898
+HP/UNA/53A02/2018/19
+Himachal Pradesh
+Una
+ 
+Chauki maniar R.F
+31.602506
+76.206767
+Rock
+Slide
+NA
+5899
+HP/UNA/53A02/2018/18
+Himachal Pradesh
+Una
+ 
+Chauki maniar R.F
+31.603768
+76.223054
+Rock cum debris
+Slide
+NA
+5900
+HP/KUL/53E06/2016/72
+Himachal Pradesh
+Kullu
+ 
+Rangoot
+31.604115
+77.375841
+Rock
+Slide
+2010
+5901
+HP/UNA/53A02/2018/20
+Himachal Pradesh
+Una
+ 
+Chauki maniar P.F
+31.604133
+76.206089
+Rock
+Slide
+NA
+5902
+HP/KUL/53E06/2016/127
+Himachal Pradesh
+Kullu
+ 
+Sum
+31.604151
+77.345989
+Debris
+Slide
+NA
+5903
+HP/UNA/53A02/2018/21
+Himachal Pradesh
+Una
+ 
+Chauki maniar P.F
+31.604466
+76.205983
+Rock
+Slide
+NA
+5904
+HP/UNA/53A02/2018/17
+Himachal Pradesh
+Una
+ 
+Chauki maniar P.F
+31.604551
+76.222847
+Rock
+Slide
+NA
+5905
+HP/KUL/53E06/2016/19
+Himachal Pradesh
+Kullu
+ 
+Mill, NH 305
+31.60456
+77.348681
+Rock
+Slide
+2012
+5906
+HP/KUL/53E06/2016/1
+Himachal Pradesh
+Kullu
+ 
+Mill,NH 305
+31.604587
+77.348681
+Rock
+Slide
+2008
+5907
+HP/UNA/53A02/2018/22
+Himachal Pradesh
+Una
+ 
+Chauki maniar P.F
+31.604746
+76.205835
+Rock
+Slide
+NA
+5908
+HP/MAN/53A14/2015/326
+Himachal Pradesh
+Mandi
+ 
+Pargi
+31.604946
+76.868089
+Rock
+Slide
+NA
+5909
+HP/KUL/53E06/2016/38
+Himachal Pradesh
+Kullu
+ 
+Sum,NH 305, MS 68
+31.605096
+77.348396
+Rock
+Slide
+2012
+5910
+HP/KUL/53E06/2016/125
+Himachal Pradesh
+Kullu
+ 
+MashyurP.F
+31.605244
+77.495824
+Rock
+Slide
+NA
+5911
+HP/MAN/53A10/2018/9
+Himachal Pradesh
+Mandi
+ 
+Khelag
+31.605361
+76.560222
+Rock cum debris
+Slide
+NA
+5912
+HP/KUL/53E06/2016/80
+Himachal Pradesh
+Kullu
+ 
+Rangoot
+31.605461
+77.380982
+Rock
+Slide
+2004
+5913
+HP/MAN/53A09/2018/8
+Himachal Pradesh
+Mandi
+ 
+ 
+31.605583
+76.553278
+Rock
+Slide
+NA

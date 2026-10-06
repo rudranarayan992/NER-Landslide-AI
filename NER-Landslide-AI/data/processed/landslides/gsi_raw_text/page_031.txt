@@ -1,0 +1,483 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+971
+AR/CHNG/83M16/2022/105
+Arunachal Pradesh
+Changlang
+1.4 NE of Amchung
+Changlang-Kengkhu road
+27.160065
+95.754919
+Rock
+Fall
+NA
+972
+AP/EK/83E03/2021/39
+Arunachal Pradesh
+East Kameng
+NH-31 slide-28
+NH-36
+27.161806
+93.136194
+Earth
+Slide
+NA
+973
+AR/CHNG/83M16/2022/103
+Arunachal Pradesh
+Changlang
+2.2 km NE of Amchung
+ Changlang-Kengkhu road
+27.161858
+95.757717
+Debris
+Slide
+NA
+974
+AR/CHNG/83M16/2022/104
+Arunachal Pradesh
+Changlang
+1.8 km NE of Amchung
+Changlang - Kengkhu road
+27.163084
+95.754775
+Debris
+Slide
+NA
+975
+AR/CHNG/83M16/2022/055
+Arunachal Pradesh
+Changlang
+200 m N of Army, Changlang
+Changlang-Margherita road (NH-
+215)
+27.163388
+95.746685
+Debris
+Slide
+NA
+976
+AP/PAP/83E16/2021/11
+Arunachal Pradesh
+Papum Pare
+Doimukh petrol pump slide
+Doimukh petrol pump
+27.163556
+93.752306
+Debris
+Slide
+NA
+977
+AP/PAP/83E12/2021/10
+Arunachal Pradesh
+Papum Pare
+Naharlagun Railway station slide 2
+NE Naharlagun Railway station
+27.165806
+93.751167
+Debris
+Slide
+NA
+978
+AR/WKG/83A12/2021/041
+Arunachal Pradesh
+West Kameng
+Seppa Road Slide 2
+Seppa Road Section
+27.166306
+92.587139
+Debris
+Slide
+NA
+979
+AR/WKG/83A12/2021/040
+Arunachal Pradesh
+West Kameng
+Seppa Road Slide 1
+Seppa Road Section
+27.167139
+92.587917
+Debris
+Slide
+NA
+980
+AR/CHNG/83M16/2022/102
+Arunachal Pradesh
+Changlang
+Near Army camp
+NH-215, Changlang-Marigrehta 
+road
+27.172066
+95.754546
+Debris
+Slide
+NA
+981
+AR/CHNG/83M16/2022/056
+Arunachal Pradesh
+Changlang
+1.6km SE of Simran New Thamlom
+Changlang-Margherita road (NH-
+215)
+27.175606
+95.749935
+Debris
+Slide
+NA
+982
+AP/EK/83E04/2021/31
+Arunachal Pradesh
+East Kameng
+NH-31 slide-21
+NH-35
+27.177667
+93.148694
+Soil
+Slide
+NA
+983
+AP/EK/83E04/2021/32
+Arunachal Pradesh
+East Kameng
+NH-31 slide-22
+NH-35
+27.177667
+93.148694
+Soil
+Slide
+NA
+984
+AP/EK/83E03/2021/33
+Arunachal Pradesh
+East Kameng
+NH-31 slide-23
+NH-35
+27.177667
+93.148694
+Soil
+Slide
+NA
+985
+AP/EK/83E03/2021/34
+Arunachal Pradesh
+East Kameng
+NH-31 slide-24
+NH-35
+27.177667
+93.148694
+Soil
+Slide
+NA
+986
+AP/EK/83E03/2021/35
+Arunachal Pradesh
+East Kameng
+NH-31 slide-25
+NH-35
+27.177667
+93.148694
+Soil
+Slide
+NA
+987
+AP/EK/83E03/2021/36
+Arunachal Pradesh
+East Kameng
+NH-31 slide-26
+NH-35
+27.177667
+93.148694
+Soil
+Slide
+NA
+988
+AP/EK/83E03/2021/37
+Arunachal Pradesh
+East Kameng
+NH-31 slide-27
+NH-35
+27.177667
+93.148694
+Soil
+Slide
+NA
+989
+AP/EK/83E03/2021/38
+Arunachal Pradesh
+East Kameng
+NH-31 slide-28
+NH-35
+27.177667
+93.148694
+Soil
+Slide
+NA
+990
+AR/CHNG/83M12/2022/057
+Arunachal Pradesh
+Changlang
+1.2km W of Simran New Thamlom
+Changlang-Margherita road (NH-
+215)
+27.178695
+95.735218
+Rock
+Fall
+NA
+991
+AR/WKG/83A12/2021/042
+Arunachal Pradesh
+West Kameng
+Seppa Road Slide 3
+Seppa Road Section
+27.182278
+92.599889
+Debris
+Slide
+NA
+992
+AR/WKG/83A12/2021/043
+Arunachal Pradesh
+West Kameng
+Seppa Road Slide 4
+Seppa Road Section
+27.183833
+92.599333
+Debris
+Slide
+NA
+993
+AR/CHNG/83M12/2022/058
+Arunachal Pradesh
+Changlang
+200m N of Thamsung
+Changlang-Margherita road (NH-
+215)
+27.187767
+95.732008
+Debris
+Slide
+NA
+994
+AR/CHNG/83M12/2022/060
+Arunachal Pradesh
+Changlang
+600m S of Nagoithong
+Changlang-Margherita road (NH-
+215)
+27.188551
+95.703582
+Debris
+Slide
+NA
+995
+AP/EK/83E04/2021/30
+Arunachal Pradesh
+East Kameng
+NH-31 slide-20
+NH-34
+27.188694
+93.136056
+Rock
+Fall
+NA
+996
+AR/CHNG/83M12/2022/059
+Arunachal Pradesh
+Changlang
+1.5km SW of Thingdang
+Changlang-Margherita road (NH-
+215)
+27.190295
+95.716317
+Rock
+Rock fall
+NA
+997
+AR/WKG/83A12/2021/044
+Arunachal Pradesh
+West Kameng
+Seppa Road Slide 5
+Seppa Road Section
+27.190861
+92.607806
+Debris
+Slide
+NA
+998
+AR/WKG/83A12/2021/045
+Arunachal Pradesh
+West Kameng
+Seppa Road Slide 6
+Seppa Road Section
+27.191667
+92.610111
+Debris
+Slide
+NA
+999
+ARN/LS/83E15/2016/04
+Arunachal Pradesh
+Lower Subansiri
+Hoj-Potin slide
+National Highway 713-A
+27.193425
+93.780983
+Debris
+Slide
+16 July 2016
+1000
+AP/PAP/83E16/2021/12
+Arunachal Pradesh
+Papum Pare
+West of Doimukh slide 1
+W of Doimukh
+27.194111
+93.780944
+Debris
+Slide
+NA
+1001
+AP/PK/83E04/2021/29
+Arunachal Pradesh
+East Kameng
+NH-31  slide-19
+NH-33
+27.196944
+93.139722
+Soil
+Slide
+NA
+1002
+AR/WKG/83A12/2021/008
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 6
+NH 13
+27.204139
+92.529278
+Rock
+Fall
+NA
+1003
+AR/WKG/83A12/2021/009
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 7
+NH 13
+27.20675
+92.537389
+Debris
+Slide
+NA
+1004
+AR/WKG/83A12/2021/010
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 8
+NH 13
+27.206917
+92.537667
+Debris
+Slide
+NA
+1005
+AP/PAP/83E12/2021/69
+Arunachal Pradesh
+Papum Pare
+Peech-Hoj village slide
+Peech-Hoj village
+27.207583
+93.615667
+Debris
+Slide
+NA
+1006
+ARN/PAP/83E12/2017/01
+Arunachal Pradesh
+Papum Pare
+Laptap Landslide
+Trans Arunachal Highway, 
+about 40 km south of the state 
+capital Itanagar
+27.207659
+93.615842
+Debris
+Slide
+2017
+1007
+AP/EK/83E03/2021/28
+Arunachal Pradesh
+Pakke Kessang
+Ngoleko Village slide
+NH-31
+27.208083
+93.133472
+Soil
+Slide
+NA
+1008
+AR/WKG/83A12/2021/011
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 9
+NH 13/ W of New Kaspi
+27.208222
+92.55475
+Debris
+Slide
+NA
+1009
+AP/PAP/83E12/2021/68
+Arunachal Pradesh
+Papum Pare
+Laptap village slide 2
+W of Laptap village
+27.210556
+93.628556
+Debris
+Slide
+NA
+1010
+AP/PAP/83E12/2021/67
+Arunachal Pradesh
+Papum Pare
+Laptap village slide 1
+Laptap village
+27.214778
+93.635667
+Debris
+Slide
+NA
+1011
+AP/EK/83E03/2021/27
+Arunachal Pradesh
+East Kameng
+NH-31 slide-18
+NH-31, Ngoleko Village
+27.215611
+93.123139
+Soil
+Slide
+NA
+1012
+AP/EK/83E03/2021/25
+Arunachal Pradesh
+East Kameng
+NH-31 slide-16
+NH-31
+27.215944
+93.069222
+Debris
+Slide
+NA

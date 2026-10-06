@@ -1,0 +1,362 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28050
+TN/NIL/58A11/2022/5
+Tamil Nadu
+Nilgiri
+Emerald
+Emerald
+11.341462
+76.633856
+Debris
+Slide
+3 August 2022
+28051
+TN/NIL/58A11/2022/6
+Tamil Nadu
+Nilgiri
+Nerkandi Slide
+Nerkandi Village
+11.312808
+76.625429
+Debris
+Slide
+3 August 2022
+28052
+TN/NIL/58A11/2022/7
+Tamil Nadu
+Nilgiri
+New Attubail
+New Attubail
+11.30989722
+76.62255833
+Earth
+Flow
+3 August 2022
+28053
+TN/COIM/58A11/2022/1
+Tamil Nadu
+Coimbatore
+Hairpinbend-26
+Aliayar to Attakatty ghat road 
+section
+10.43226139
+76.98764083
+Debris
+Slide
+4 August 2022
+28054
+TN/COIM/58A11/2022/2
+Tamil Nadu
+Coimbatore
+Hairpinbend-20
+Aliayar to Attakatty ghat road 
+section
+10.43735917
+76.98563194
+Debris
+Slide
+4 August 2022
+28055
+TN/COIM/58A11/2022/3
+Tamil Nadu
+Coimbatore
+Rottikadai Slide
+Valparai-Iyyarpadi
+10.36322167
+76.98113
+Debris
+Slide
+14 July 2022
+28056
+TN/DIN/58F11/2022/1
+Tamil Nadu
+Dindigul
+Hairpin bend 14
+Palani-PerumalmalaiPirivu Road 10.36493889
+77.51091333
+Debris
+Slide
+NA
+28057
+TN/DIN/58F12/2022/2
+Tamil Nadu
+Dindigul
+Adukkam-18/6 km
+Adukkam-Periyakulam road
+10.22914722
+77.55147528
+Debris
+Slide
+4 August 2022
+28058
+TN/DIN/58F12/2022/3
+Tamil Nadu
+Dindigul
+Adukkam-18/10 km
+Adukkam-Periyakulam road
+10.22721806
+77.55028417
+Debris
+Slide
+4 August 2022
+28059
+TN/DIN/58F12/2022/4
+Tamil Nadu
+Dindigul
+Near Adukkam village
+Adukkam-Periyakulam road
+10.233872
+77.552927
+Rock
+Slide
+4 August 2022
+28060
+TN/DIN/58F11/2022/5
+Tamil Nadu
+Dindigul
+Near Perumal Malai
+Perumalmalai-Bathlagundu 
+road
+10.27266389
+77.56082278
+Debris
+Slide
+NA
+28061
+TN/DIN/58F12/2022/6
+Tamil Nadu
+Dindigul
+Near Poolathoor Pirivu
+Near Poolathoor Pirivu
+10.229645
+77.63982056
+Debris
+Slide
+NA
+28062
+TN/NIL/58A15/2022/01
+Tamil Nadu
+Nilgiri
+Slide-1
+Mettupalayam-Gudalur 
+highways
+11.3366
+76.8261
+Debris
+Slide
+13 December 2022
+28063
+TN/NIL/58A15/2022/02
+Tamil Nadu
+Nilgiri
+Slide-2
+Mettupalayam-Gudalur 
+highways
+11.3355
+76.81671
+Debris
+Slide
+13 December 2022
+28064
+TN/NIL/58A15/2022/03
+Tamil Nadu
+Nilgiri
+Slide-3
+Mettupalayam-Gudalur 
+highways
+11.3345
+76.8158
+Earth 
+Slide
+13 December 2022
+28065
+TN/NIL/58A15/2022/04
+Tamil Nadu
+Nilgiri
+Slide-4
+Mettupalayam-Gudalur 
+highways
+11.3356
+76.8146
+Debris
+Slide
+13 December 2022
+28066
+TN/NIL/58A15/2022/05
+Tamil Nadu
+Nilgiri
+Slide-5
+Mettupalayam-Gudalur 
+highways
+11.3355
+76.814
+Debris
+Slide
+13 December 2022
+28067
+TN/NIL/58A15/2022/06
+Tamil Nadu
+Nilgiri
+Slide-6
+Mettupalayam-Gudalur 
+highways
+11.3353
+76.8135
+Debris
+Slide
+13 December 2022
+28068
+TN/NIL/58A15/2022/07
+Tamil Nadu
+Nilgiri
+Slide-7
+Mettupalayam-Gudalur 
+highways
+11.335
+76.8127
+Earth 
+Slide
+13 December 2022
+28069
+TN/NIL/58A15/2022/08
+Tamil Nadu
+Nilgiri
+Slide-8
+Mettupalayam-Gudalur 
+highways
+11.3312
+76.7994
+Debris
+Slide
+13 December 2022
+28070
+TN/NIL/58A15/2022/09
+Tamil Nadu
+Nilgiri
+Slide-9
+Mettupalayam-Gudalur 
+highways
+11.3495
+76.786
+Earth 
+Slide
+13 December 2022
+28071
+TN/NIL/58A15/2022/10
+Tamil Nadu
+Nilgiri
+Slide-10
+Mettupalayam-Gudalur 
+highways
+11.3497
+76.7855
+Debris
+Slide
+13 December 2022
+28072
+TN/NIL/58A15/2022/11
+Tamil Nadu
+Nilgiri
+Slide-11
+Mettupalayam-Gudalur 
+highways
+11.360667
+76.781267
+Debris
+Slide
+13 December 2022
+28073
+TN/NIL/58A15/2022/12
+Tamil Nadu
+Nilgiri
+Slide-12
+Mettupalayam-Gudalur 
+highways
+11.3492
+76.787
+Earth 
+Slide
+13 December 2022
+28074
+TN/NIL/58A15/2022/13
+Tamil Nadu
+Nilgiri
+Slide-13
+Mettupalayam-Ooty railway 
+corridor
+11.342
+76.8308
+Debris
+Slide
+13 December 2022
+28075
+TN/NIL/58A15/2022/14
+Tamil Nadu
+Nilgiri
+Slide-14
+Mettupalayam-Ooty railway 
+corridor
+11.3428
+76.8287
+Debris
+Slide
+13 December 2022
+28076
+TN/NIL/58A15/2022/15
+Tamil Nadu
+Nilgiri
+Slide-15
+Mettupalayam-Ooty railway 
+corridor
+11.341
+76.8277
+Debris
+Slide
+13 December 2022
+28077
+TN/NIL/58A15/2022/16
+Tamil Nadu
+Nilgiri
+Slide-16
+Mettupalayam-Ooty railway 
+corridor
+11.3389
+76.8253
+Debris
+Slide
+13 December 2022
+28078
+TN/NIL/58A15/2022/17
+Tamil Nadu
+Nilgiri
+Slide-17
+Mettupalayam-Ooty railway 
+corridor
+11.3387
+76.822
+Rock
+Fall
+13 December 2022
+28079
+TN/NIL/58A15/2022/18
+Tamil Nadu
+Nilgiri
+Slide-18
+Mettupalayam-Ooty railway 
+corridor
+11.3408
+76.8325
+Debris
+Slide
+13 December 2022

@@ -1,0 +1,295 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+645
+ASM/DH/83G04/2022-23/024
+Assam
+Dima Hasao
+Tularam Raji Slide 1
+Tularam Raji, Haflong
+25.17044
+93.025325
+Debris
+Slide
+14th -15th May 2022
+646
+ASM/DH/83G04/2022-23/011
+Assam
+Dima Hasao
+Tularam Raji Subsidence
+Tularam Raji , Haflong
+25.171264
+93.020014
+Debris
+Subsidence
+14th – 15th May 2022
+647
+ASM/DH/83G04/2022-23/025
+Assam
+Dima Hasao
+Tularam Raji Slide 2
+Tularam Raji, Haflong
+25.16804
+93.02503
+Debris
+Slide
+14 May 2022
+648
+ASM/DH/83G04/2022-23/007
+Assam
+Dima Hasao
+Moulhoi- N. D. Raji Subsidence Zone
+Moulhoi, Haflong
+25.178006
+93.022825
+Earth
+Subsidence
+1985, 1992, 2004, 2016 and 
+reactivated on 14th – 16th May 2022
+649
+ASM/DH/83G04/2022-23/044
+Assam
+Dima Hasao
+Tularam Raji Slide 3
+Tularam Raji, Haflong
+25.168083
+93.024922
+Earth
+Slide
+14 May 2022
+650
+ASM/DH/83G4/ PD/2016/56
+Assam
+Dima Hasao (N.C. Hills)
+Nutan Lampur slide -2
+NH 54, near Nutan Lampur, 
+25.27480556
+93.14555556
+Rock
+Slide 
+22 May 2016
+651
+ASM/DH/83G4/ PD/2016/53
+Assam
+Dima Hasao (N.C. Hills)
+Mahur railway station slide
+Mahur railway station, Haflong, 
+Dima Hasao  (NC Hills)
+25.18955556
+93.09641667
+Debris
+Slide 
+22 May 2016
+652
+ASM/DH/83G04/2022-23/045
+Assam
+Dima Hasao
+Natun Basti Slide 4 
+Natun Basti, Haflong
+25.1638056
+93.010861
+Debris
+Slide
+14th -15th  May 2022
+653
+ASM/DH/83G04/2022-23/031
+Assam
+Dima Hasao
+Moulhoi Slide 2
+Moulhoi village
+25.175
+93.01967
+Debris
+Slide
+2006, reactivated on May 2022
+654
+ASM/KAMRUP(M)/78N16/2016-
+17/62
+Assam
+Kamrup (Metro)
+Piyali Phukan Nagar Slide
+Njiura Par Path, Piyali Phukan 
+Nagar, Guwahati.
+26.19552778
+91.78055556
+Earth
+Slide
+22 June 2016
+655
+ASM/DH/83G04/2022-23/032
+Assam
+Dima Hasao
+Moulhoi Slide 3
+Moulhoi village
+25.17483
+93.019861
+Debris
+Slide
+15 May 2022
+656
+ASM/DH/83G04/2022-23/033
+Assam
+Dima Hasao
+Mahadev Tilla slide 2
+Mahadev Tilla village
+25.1568056
+93.019722
+Debris
+Slide
+13 May 2022
+657
+ASM/DH/83G04/2022-23/034
+Assam
+Dima Hasao
+G.C. Langthasa High school Slide
+Mahadev Tilla village
+25.156833
+93.017694
+Debris
+Slide
+First incidence: 1998
+Reactivated on: 15.05.2016 and 
+14.05.2022 
+658
+ASM/DH/83G04/2022-23/035
+Assam
+Dima Hasao
+Demalik Raji Slide 1
+Demalik Raji
+25.1565
+93.0151
+Debris
+Slide
+May 2022
+659
+ASM/DH/83G04/2022-23/036
+Assam
+Dima Hasao
+Demalik Raji Slide 2
+Demalik Raji
+25.15667
+93.01275
+Debris
+Slide
+14th – 15th May 2022
+660
+ASM/DH/83G04/2022-23/037
+Assam
+Dima Hasao
+Songpijang Cemetery Slide
+Lower Songpijang
+25.16367
+93.02478
+Debris
+Slide
+14th – 16th May 2022
+661
+ASM/DH/83G04/2022-23/039
+Assam
+Dima Hasao
+Lower Songpijang slide 3
+Lower Songpijang
+25.16649
+93.02289
+Debris
+Slide
+14th -15th  May 2022
+662
+ASM/DH/83G04/2022-23/040
+Assam
+Dima Hasao
+Lower Songpijang slide 4
+Lower Songpijang
+25.16497
+93.02275
+Debris
+Slide
+14th -15th  May 2022
+663
+ASM/DH/83G04/2022-23/041
+Assam
+Dima Hasao
+Lower Songpijang Slide 5
+Lower Songpijang
+25.1655
+93.02556
+Debris
+Slide
+14th -15th  May 2022
+664
+ASM/DH/83C16/2022-23/042
+Assam
+Dima Hasao
+Kokai Punchi Slide 
+Kokai Punchi
+25.16427
+92.99788
+Debris
+Slide
+14 -15  May 2022
+665
+ASM/DH/83G04/2022-23/043
+Assam
+Dima Hasao
+Fiangpui Presbyterian church Slide 
+Fiangpui
+25.17425
+93.00244
+Debris
+Slide
+14th  -15th May 2022
+666
+ASM/DH/83G04/2022-23/047
+Assam
+Dima Hasao
+Natun Basti Slide 5
+Natun Basti, Haflong
+25.162667
+93.009806
+Debris
+Slide
+14 May 2022
+667
+ASM/DH/83G04/2022-23/038
+Assam
+Dima Hasao
+Lower Songpijang slide 2
+Lower Songpijang
+25.16553
+93.02172
+Debris
+Slide
+14-15 May 2022
+668
+ASM/DH/83G4/ PD/2016 /01
+Assam
+Dima Hasao (N.C. Hills)
+Migrendisa slide
+Near Migrendisa Railway 
+Station, Migrendisa. 
+25.17986111
+93.07077778
+Debris
+Slide
+17 May 2016
+669
+ASM/DH/83G4/PD/2016/02
+Assam
+Dima Hasao (N.C. Hills)
+New Haflong R. S slide(1)
+West slope of New Haflong 
+Railway Station.
+25.14677778
+93.03097222
+Debris
+Slide
+17 May 2016

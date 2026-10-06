@@ -1,0 +1,538 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+25798
+NL/KOH/83K02/2022/001
+Nagaland
+Kohima
+Meriema landslide
+NH-2/ Kohima-Wokha Highway 25.71711111
+94.08561111
+Soil
+Slide
+29 October 2017
+25799
+NL/KOH/83K02/2022/002
+Nagaland
+Kohima
+Meriema village landslide
+Inside Meriema village
+25.712031
+94.089791
+Weathered rock
+Slide
+12 September 2022
+25800
+NL/KOH/83K02/2022/003
+Nagaland
+Kohima
+Chiesema
+Chiesema
+25.7491204
+94.0804548
+Debris
+Slide
+25 September 2022
+25801
+NL/KOH/83K02/2022/004
+Nagaland
+Kohima
+New secretariat-Meriema road
+New secretariat-Meriema road
+25.7179491
+94.0917724
+Weathered rock
+Slide
+28 September 2022
+25802
+NL/KOH/83G13/2022/005
+Nagaland
+Kohima
+Piphema
+NH29/Piphema
+25.770055
+93.937873
+Debris
+Slide
+15 October 2022
+25803
+NL/KOH/83G13/2022/006
+Nagaland
+Kohima
+Piphema
+NH29/Piphema
+25.771451
+93.907041
+Debris
+Slide
+30 September 2022
+25804
+NL/KOH/83K02/2022/007
+Nagaland
+Kohima
+Jotsoma-Khonoma road
+Jotsoma-Khonoma road
+25.660913
+94.053659
+Debris
+Slide
+ May 2022
+25805
+NL/KOH/83K02/2022/008
+Nagaland
+Kohima
+Chiesema
+Chiesema
+25.7491204
+94.0804548
+Debris
+Slide
+NA
+25806
+NL/KOH/83K02/2022/009
+Nagaland
+Kohima
+Meriema
+Meriema
+25.7179491
+94.0917724
+Weathered rock
+Slide
+NA
+25807
+NL/KOH/83K02/2022/010
+Nagaland
+Kohima
+Piphema
+Piphema
+25.770064
+93.937891
+Debris
+Slide
+12 November 2022
+25808
+NL/KOH/83K02/2022/011
+Nagaland
+Kohima
+Pherima
+Pherima
+25.771977
+93.905846
+Debris
+Slide
+ September 2022
+25809
+NL/KOH/83K02/2022/012
+Nagaland
+Kohima
+Khonoma
+Khonoma
+25.650352
+94.026955
+Rock
+Slide
+NA
+25810
+NL/KOH/83K02/2022/013
+Nagaland
+Kohima
+Vishwema
+Vishwema-Kidima road
+25.552707
+94.161461
+Debris
+Slide
+NA
+25811
+NL/KOH/83K02/2022/014
+Nagaland
+Kohima
+Chakhaboma
+Chakhaboma-Pfutsero road
+25.611096
+94.216757
+Debris
+Slide
+NA
+25812
+NL/KOH/83K02/2022/015
+Nagaland
+Kohima
+Chakhaboma
+Chakhaboma-Pfutsero road
+25.617949
+94.207166
+Debris
+Slide
+NA
+25813
+NL/KOH/83K02/2022/016
+Nagaland
+Kohima
+Chakhaboma
+Chakhaboma-Pfutsero road
+25.620164
+94.207204
+Debris
+Slide
+NA
+25814
+NL/KOH/83K02/2022/017
+Nagaland
+Kohima
+Chakhaboma
+Chakhaboma-Pfutsero road
+25.627333
+94.211735
+Debris
+Slide
+NA
+25815
+NL/KOH/83K02/2022/018
+Nagaland
+Kohima
+Jotsoma-Khonoma road
+Jotsoma-Padi-Benreu road
+25.64501
+94.032825
+Debris
+Slide
+NA
+25816
+NL/KOH/83K02/2022/019
+Nagaland
+Kohima
+Jotsoma-Khonoma road
+Jotsoma-Padi-Benreu road
+25.645074
+94.032741
+Debris
+Slide
+NA
+25817
+NL/KOH/83K02/2022/020
+Nagaland
+Kohima
+Jotsoma-Khonoma road
+Jotsoma-Padi-Benreu road
+25.645633
+94.008403
+Debris
+Slide
+NA
+25818
+NL/PER/83G14/2022/021
+Nagaland
+Peren
+Heunambe
+Jotsoma-Padi-Benreu road
+25.618175
+93.919236
+Debris
+Slide
+NA
+25819
+NL/PER/83G14/2022/022
+Nagaland
+Peren
+Heunambe
+Jotsoma-Padi-Benreu road
+25.618222
+93.918397
+Debris
+Slide
+NA
+25820
+NL/PER/83G14/2022/023
+Nagaland
+Peren
+Heunambe
+Jotsoma-Padi-Benreu road
+25.611284
+93.912865
+Debris
+Slide
+NA
+25821
+NL/PER/83G14/2022/024
+Nagaland
+Peren
+Heunambe
+Jotsoma-Padi-Benreu road
+25.609085
+93.90642
+Debris
+Slide
+NA
+25822
+NL/PER/83G14/2022/025
+Nagaland
+Peren
+Jotsoma-Padi-Benreu road
+Jotsoma-Padi-Benreu road
+25.605559
+93.898552
+Debris
+Slide
+NA
+25823
+NL/PER/83G14/2022/026
+Nagaland
+Peren
+Jotsoma-Padi-Benreu road
+Jotsoma-Padi-Benreu road
+25.602682
+93.896846
+Debris
+Slide
+NA
+25824
+NL/PER/83G14/2022/027
+Nagaland
+Peren
+Jotsoma-Padi-Benreu road
+Jotsoma-Padi-Benreu road
+25.598454
+93.897602
+Debris
+Slide
+NA
+25825
+NL/KOH/83K01/2022/028
+Nagaland
+Kohima
+Kohima-10th Mile-Nuiland Road
+Kohima-10th Mile-Nuiland Road 25.77457
+94.075897
+Debris
+Slide
+NA
+25826
+NL/KOH/83K01/2022/029
+Nagaland
+Kohima
+Kohima-10th Mile-Nuiland Road
+Phekerkrie Bawe
+25.875167
+94.042953
+Debris
+Slide
+NA
+25827
+NL/KOH/83K01/2022/030
+Nagaland
+Kohima
+Kohima-10th Mile-Nuiland Road
+Phekerkrie Basa
+25.882916
+94.036198
+Debris
+Slide
+NA
+25828
+NL/KOH/83K01/2022/031
+Nagaland
+Kohima
+Kohima-10th Mile-Nuiland Road
+Phekerkrie Basa
+25.884392
+94.040381
+Debris
+Slide
+NA
+25829
+NL/KOH/83K01/2022/032
+Nagaland
+Kohima
+Kohima-10th Mile-Nuiland Road
+Phekerkrie Basa
+25.891043
+94.041031
+Debris
+Slide
+NA
+25830
+NL/KOH/83K01/2022/033
+Nagaland
+Kohima
+Kohima-10th Mile-Nuiland Road
+Phekerkrie Basa
+25.895838
+94.044886
+Debris
+Slide
+NA
+25831
+NL/KOH/83K01/2022/034
+Nagaland
+Kohima
+Kohima-10th Mile-Nuiland Road
+Tsosinyu
+25.903907
+94.041235
+Debris
+Slide
+NA
+25832
+NL/PER/83G11/2022/035
+Nagaland
+Peren
+Mpai
+Peren_Mpai Road
+25.455672
+93.737492
+Debris
+Slide
+NA
+25833
+NL/PER/83G11/2022/036
+Nagaland
+Peren
+Peren-Tening road
+Peren-Tening road
+25.459292
+93.737054
+Debris
+Slide
+NA
+25834
+NL/PER/83G11/2022/037
+Nagaland
+Peren
+Peren-Tening road
+Peren-Tening road
+25.469296
+93.728636
+Debris
+Slide
+NA
+25835
+NL/PER/83G11/2022/038
+Nagaland
+Peren
+Peren-Tening road
+Peren-Tening road
+25.471854
+93.726986
+Rock
+Slide
+NA
+25836
+NL/PER/83G11/2022/039
+Nagaland
+Peren
+Peren-Tening road
+Peren-Tening road
+25.472566
+93.727307
+Rock
+Slide
+NA
+25837
+NL/PER/83G11/2022/040
+Nagaland
+Peren
+Peren-Jalukie road
+Peren-Jalukie road
+25.56335
+93.737232
+Loose debris
+Slide
+NA
+25838
+NL/PER/83G11/2022/041
+Nagaland
+Peren
+Peren-Jalukie road
+Peren-Jalukie road
+25.569543
+93.736
+Weathered rock
+Slide
+NA
+25839
+NL/PER/83G11/2022/042
+Nagaland
+Peren
+Peren-Jalukie road
+Peren-Jalukie road
+25.568534
+93.726285
+Loose debris
+Slide
+NA
+25840
+NL/PER/83G14/2022/043
+Nagaland
+Peren
+Peren-Benreu Road
+Peren-Benreu Road
+25.576594
+93.78377
+Insitu soil
+Slide
+NA
+25841
+NL/PER/83G14/2022/044
+Nagaland
+Peren
+Peren-Benreu Road
+Peren-Benreu Road
+25.569569
+93.788068
+Loose debris
+Slide
+NA
+25842
+NL/PER/83G14/2022/045
+Nagaland
+Peren
+Peren-Benreu Road
+Peren-Benreu Road
+25.578244
+93.804478
+Weathered rock
+Slide
+NA
+25843
+NL/PER/83G14/2022/046
+Nagaland
+Peren
+Peren-Benreu Road
+Peren-Benreu Road
+25.576992
+93.809083
+Loose debris
+Slide
+NA
+25844
+NL/PER/83G14/2022/047
+Nagaland
+Peren
+Peren-Benreu Road
+Peren-Benreu Road
+25.576671
+93.815779
+Insitu soil
+Slide
+NA
+25845
+NL/PER/83G14/2022/048
+Nagaland
+Peren
+Peren-Benreu Road
+Peren-Benreu Road
+25.595898
+93.829722
+Weathered rock
+Slide
+NA

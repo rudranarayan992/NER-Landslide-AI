@@ -1,0 +1,311 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+13550
+KRL/KOZ/54A03/2015/88
+Kerala
+Kozhikode
+Koodaranji village
+Aanayodu-Perumboola Road
+11.340472
+76.068194
+Debris
+Slide
+NA
+13551
+KRL/MAL/54A03/2015/50
+Kerala
+Malappuram
+Palakkayam
+Nilambur Road
+11.343086
+76.159575
+Earth
+Slide
+NA
+13552
+KER/KOZH/58A03/2007/0007
+Kerala
+Kozhikode
+Panakkachal 2nd
+Koodaranji
+11.3458
+76.0593
+Debris
+Flow
+17 July2007 (01:30 hrs)
+13553
+KRL/KOZ/54A03/2015/87
+Kerala
+Kozhikode
+Koodaranji village
+Aanayodu-Perumboola Road
+11.345861
+76.059361
+Debris
+Flow
+NA
+13554
+KL/MAL/58A03/2018/17
+Kerala
+Malappuram
+Kandilapara
+Kurumbalangode
+11.347728
+76.095533
+Debris
+Flow
+16 August 2018
+13555
+KRL/KOZ/54A03/2015/86
+Kerala
+Kozhikode
+Koodaranji village
+Aanayodu-Perumboola Road
+11.349528
+76.062222
+Debris
+Flow
+NA
+13556
+KRL/KOZ/54A03/2015/6
+Kerala
+Kozhikode
+Manjakadavu
+Koodarenji-Poovaranthodu 
+Road
+11.358233
+76.075022
+Debris
+Slide
+2014
+13557
+KRL/KOZ/54A03/2015/8
+Kerala
+Kozhikode
+Kuliramutti
+Kuliramutti-Thampurankoli 
+Road
+11.359794
+76.060058
+Debris
+Slide
+2015
+13558
+KRL/KOZ/54A03/2015/1
+Kerala
+Kozhikode
+Manjakadavu
+Koodarenji-Poovaranthodu 
+Road
+11.361711
+76.070767
+Debris
+Slide
+2015
+13559
+KRL/KOZ/54A03/2015/7
+Kerala
+Kozhikode
+Manjakadavu
+Koodarenji-Poovaranthodu 
+Road
+11.361944
+76.078469
+Debris
+Slide
+2015
+13560
+KRL/KOZ/54A03/2015/5
+Kerala
+Kozhikode
+Kooriyodu
+Koodarenji-Poovaranthodu 
+Road
+11.362646
+76.069801
+Rock cum Debris
+Slide
+NA
+13561
+KRL/KOZ/54A03/2015/2
+Kerala
+Kozhikode
+Shrambi
+Koodarenji-Poovaranthodu 
+Road
+11.364317
+76.071747
+Rock cum Debris
+Slide
+NA
+13562
+KRL/KOZ/54A03/2015/3
+Kerala
+Kozhikode
+Shrambi
+Koodarenji-Poovaranthodu 
+Road
+11.366194
+76.072064
+Rock cum Debris
+Slide
+2011
+13563
+KRL/KOZ/54A03/2015/4
+Kerala
+Kozhikode
+Shrambi
+Koodarenji-Poovaranthodu 
+Road
+11.367528
+76.071781
+Rock cum Debris
+Slide
+NA
+13564
+KRL/MAL/54A03/2015/52
+Kerala
+Malappuram
+ 
+Pazhassi Cave Road
+11.369736
+76.109981
+Rock cum Debris
+Slide
+NA
+13565
+KRL/KOZ/54A03/2015/14
+Kerala
+Kozhikode
+ 
+Thiruvambady-Kodencheri Road 11.376125
+76.036006
+Debris
+Slide
+2015
+13566
+KRL/KOZ/54A03/2015/29
+Kerala
+Kozhikode
+Elinjikkal
+Thiruvambady-Kodencheri Road 11.383336
+76.014775
+Earth
+Slide
+NA
+13567
+KRL/KOZ/54A03/2015/9
+Kerala
+Kozhikode
+Ottaplavu
+Kuliramutti-Thampurankoli 
+Road
+11.384442
+76.067714
+Debris
+Slide
+2015
+13568
+KRL/MAL/58A07/2015/130
+Kerala
+Malappuram
+on NH 212
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.389033
+76.355147
+Earth
+Slide
+NA
+13569
+KRL/MAL/58A07/2015/132
+Kerala
+Malappuram
+on NH 212
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.389817
+76.356447
+Earth
+Slide
+NA
+13570
+KRL/MAL/58A07/2015/131
+Kerala
+Malappuram
+on NH 212
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.390106
+76.357256
+Debris
+Slide
+NA
+13571
+KRL/KOZ/54A03/2015/11
+Kerala
+Kozhikode
+Ottaplavu
+Kuliramutti-Thampurankoli 
+Road
+11.390439
+76.074742
+Rock cum Debris
+Slide
+NA
+13572
+KRL/KOZ/54A03/2015/18
+Kerala
+Kozhikode
+Mavinchodu
+Nellipoil-Anackampoil Road
+11.390911
+76.068761
+Rock cum Debris
+Slide
+NA
+13573
+KRL/MAL/58A07/2015/129
+Kerala
+Malappuram
+on NH 212
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.394964
+76.362556
+Earth
+Slide
+NA
+13574
+KRL/KOZ/54A03/2015/10
+Kerala
+Kozhikode
+Thampurankoli
+Kuliramutti-Thampurankoli 
+Road
+11.395306
+76.067806
+Rock cum Debris
+Slide
+1986
+13575
+KRL/MAL/54A03/2015/43
+Kerala
+Malappuram
+Vaalankolli
+Munderi Road
+11.396256
+76.226561
+Debris
+Slide
+NA

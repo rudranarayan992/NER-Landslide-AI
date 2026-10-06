@@ -1,0 +1,308 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21328
+MZ/LUN/84A16/2018/67
+Mizoram
+Lunglei
+ 
+Bualpui V-Lungmawi-Pangzawl 
+Section
+23.087177
+92.853889
+Rock
+Slide
+NA
+21329
+MZ/LUN/84A16/2018/2
+Mizoram
+Lunglei
+ 
+Haulawng-Bualpui V. Section
+23.088409
+92.793564
+Debris
+Slide
+NA
+21330
+MZ/LUN/84A16/2018/66
+Mizoram
+Lunglei
+ 
+Lungmawi-Tuichang River-
+Pangzawl Section
+23.088615
+92.849403
+Soil
+Slide
+NA
+21331
+MZ/LUN/84A12/2018/77
+Mizoram
+Lunglei
+ 
+Tuisen Bolia-Thenhlum Section
+23.089111
+92.555168
+Rock
+Slide
+NA
+21332
+MZ/SER/84F01/2018/5
+Mizoram
+Champhai
+ 
+4Km SE of Khuangthing Village 
+on PMGSY Khuangthing-Thekte 
+Road
+23.08964
+93.200974
+Debris
+Slide
+NA
+21333
+MZ/SER/84F01/2018/4
+Mizoram
+Serchhip
+ 
+5 Km North of South Chwangtui 
+on PMGSY North Vanlaphai-
+South Chwangtui Road
+23.08989
+93.020531
+Rock
+Slide
+NA
+21334
+MZ/LUN/84A12/2018/34
+Mizoram
+Lunglei
+ 
+Serte-Sertlangpui Section
+23.091749
+92.695419
+Debris
+Slide
+NA
+21335
+MZ/LUN/84A12/2018/35
+Mizoram
+Lunglei
+ 
+Serte-Sertlangpui Section
+23.091749
+92.695419
+Rock
+Slide
+NA
+21336
+MZ/LUN/84A16/2018/1
+Mizoram
+Lunglei
+ 
+Haulawng-Bualpui V. Section
+23.092278
+92.789948
+Debris
+Slide
+NA
+21337
+MZ/LUN/84A16/2018/23
+Mizoram
+Lunglei
+ 
+Northern outskirts of Pangzawl 
+Village (NH-54)
+23.092573
+92.896141
+Rock
+Slide
+NA
+21338
+MZ/LUN/84A12/2018/36
+Mizoram
+Lunglei
+ 
+Serte-Sertlangpui Section
+23.094528
+92.695808
+Debris
+Slide
+NA
+21339
+MZ/LUN/84A16/2018/4
+Mizoram
+Lunglei
+ 
+Haulawng-Bualpui V. Section
+23.094999
+92.785835
+Debris
+Slide
+NA
+21340
+MZ/LUN/84A16/2018/5
+Mizoram
+Lunglei
+ 
+Haulawng-Bualpui V. Section
+23.094999
+92.785835
+Debris
+Slide
+NA
+21341
+MZ/LUN/84A12/2018/37
+Mizoram
+Lunglei
+ 
+Serte-Sertlangpui Section
+23.097
+92.696358
+Rock
+Slide
+2018
+21342
+MZ/LUN/84A16/2018/12
+Mizoram
+Lunglei
+ 
+Haulawng-Thenzawl Section (~1 
+km S of Mualthuam Village)
+23.097061
+92.752235
+Debris
+Slide
+NA
+21343
+MZ/LUN/84A16/2018/6
+Mizoram
+Lunglei
+ 
+Haulawng-Bualpui V. Section
+23.09951
+92.782928
+Debris
+Slide
+NA
+21344
+MZ/LUN/84A16/2018/24
+Mizoram
+Lunglei
+ 
+4 km milestone to Pangzawl 
+Village (NH-54)
+23.103046
+92.8983
+Rock
+Fall
+NA
+21345
+MZ/LUN/84A12/2018/78
+Mizoram
+Lunglei
+ 
+Tuisen Bolia-Thenhlum Section
+23.104166
+92.559998
+Rock
+Slide
+NA
+21346
+MZ/LUN/84A12/2018/38
+Mizoram
+Lunglei
+ 
+Serte-Sertlangpui Section
+23.107222
+92.693054
+Soil
+Slide
+NA
+21347
+MZ/LUN/84A16/2018/9
+Mizoram
+Lunglei
+ 
+Haulawng-Bualpui V. Section
+23.111111
+92.789719
+Debris
+Slide
+NA
+21348
+MZ/LUN/84A16/2018/7
+Mizoram
+Lunglei
+ 
+Haulawng-Bualpui V. Section
+23.111578
+92.789795
+Debris
+Slide
+NA
+21349
+MZ/LUN/84A16/2018/25
+Mizoram
+Lunglei
+ 
+Pangzawl-Rawpui road Section
+23.113066
+92.891212
+Rock
+Slide
+NA
+21350
+MZ/LUN/84A12/2018/1
+Mizoram
+Lunglei
+ 
+~1 km N of Mualthuam Village
+23.11375
+92.744614
+Debris
+Slide
+NA
+21351
+MZ/LUN/84A16/2018/8
+Mizoram
+Lunglei
+ 
+Haulawng-Bualpui V. Section
+23.117416
+92.79612
+Debris
+Slide
+NA
+21352
+MZ/LUN/84A12/2018/2
+Mizoram
+Lunglei
+ 
+N of North Mualthuam Village
+23.118336
+92.741035
+Debris
+Slide
+NA
+21353
+MZ/SER/84F01/2018/6
+Mizoram
+Serchhip
+ 
+North Sailulak Village on PMGSY 
+Sailulak-East Lingdar Road
+23.124069
+93.145889
+Debris
+Slide
+NA

@@ -1,0 +1,507 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+10788
+JK/ANA/43O06/2020/21
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.61
+75.45
+Debris
+Slide
+NA
+10789
+JK/ANA/43O06/2020/7
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.61
+75.44
+Rock
+Slide
+NA
+10790
+JK/ANA/43O06/2020/8
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.61
+75.44
+Rock
+Slide
+NA
+10791
+JK/ANA/43O06/2020/9
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.61
+75.45
+Debris
+Slide
+NA
+10792
+JK/ANA/43K14/2017/13
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.620444
+74.97922
+Debris
+Slide
+NA
+10793
+JK/KUL/43K14/2017/11
+Jammu & Kashmir (UT)
+Kulgam
+ 
+ 
+33.622231
+74.768875
+Rock
+Slide
+NA
+10794
+JK/ANA/43K14/2017/1
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.629556
+74.77222
+Rock
+Fall & Topple
+NA
+10795
+JK/ANA/43O06/2020/11
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.63
+75.26
+Rock
+Slide
+NA
+10796
+JK/ANA/43O06/2020/12
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.63
+75.26
+Rock
+Slide
+NA
+10797
+JK/ANA/43K14/2017/4
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.634222
+74.775
+Debris
+Slide
+NA
+10798
+JK/POO/43K10/2020/5
+Jammu & Kashmir (UT)
+Poonch
+ 
+Pir Ki gali area
+33.64
+74.57
+Debris
+Slide
+NA
+10799
+JK/POO/43K10/2020/6
+Jammu & Kashmir (UT)
+Poonch
+ 
+Pir Ki gali area
+33.64
+74.57
+Debris
+Slide
+NA
+10800
+JK/ANA/43O06/2020/14
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.64
+75.32
+Rock
+Slide
+NA
+10801
+JK/ANA/43O06/2020/19
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.64
+75.32
+Debris
+Slide
+NA
+10802
+JK/ANA/43K14/2017/7
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.643583
+74.78031
+Rock
+Fall & Topple
+NA
+10803
+JK/ANA/43K14/2017/5
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.649111
+74.78464
+Rock
+Fall & Topple
+NA
+10804
+JK/POO/43K10/2020/1
+Jammu & Kashmir (UT)
+Poonch
+ 
+Pir Ki gali area
+33.65
+74.63
+Debris
+Slide
+NA
+10805
+JK/POO/43K10/2020/2
+Jammu & Kashmir (UT)
+Poonch
+ 
+Pir Ki gali area
+33.65
+74.62
+Debris
+Slide
+NA
+10806
+JK/POO/43K10/2020/3
+Jammu & Kashmir (UT)
+Poonch
+ 
+Pir Ki gali area
+33.65
+74.62
+Debris
+Slide
+NA
+10807
+JK/POO/43K10/2020/4
+Jammu & Kashmir (UT)
+Poonch
+ 
+Pir Ki gali area
+33.65
+74.59
+Debris
+Slide
+NA
+10808
+JK/ANA/43O06/2020/5
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.65
+75.31
+Rock
+Slide
+NA
+10809
+JK/KUL/43K14/2017/8
+Jammu & Kashmir (UT)
+Kulgam
+ 
+ 
+33.655243
+74.783836
+Rock cum debris
+Slide
+NA
+10810
+JK/KUL/43K14/2017/10
+Jammu & Kashmir (UT)
+Kulgam
+ 
+ 
+33.656578
+74.784592
+Rock cum debris
+Slide
+NA
+10811
+JK/ANA/43O06/2020/13
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.66
+75.31
+Rock
+Slide
+NA
+10812
+JK/KIS/43O14/2020/1
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.66
+75.75
+Debris
+Slide
+NA
+10813
+JK/KUL/43K14/2017/9
+Jammu & Kashmir (UT)
+Kulgam
+ 
+ 
+33.689476
+74.750816
+Rock
+Slide
+NA
+10814
+JK/ANA/43O06/2020/4
+Jammu & Kashmir (UT)
+Anantnag
+ 
+ 
+33.72
+75.44
+Debris
+Slide
+NA
+10815
+JK/KIS/43O10/2020/61
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+Choskore
+33.72
+75.64
+Debris
+Slide
+NA
+10816
+JK/KIS/43O10/2020/1
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.75
+75.61
+Rock
+Slide
+NA
+10817
+JK/BAR/43J08/2020/11
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Tangmarg-Gulmarg road
+34.04
+74.4
+Earth
+Slide
+NA
+10818
+JK/BAR/43J08/2020/12
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Tangmarg-Gulmarg road
+34.05
+74.41
+Debris
+Slide
+NA
+10819
+JK/BAR/43J08/2020/13
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Tangmarg-Gulmarg road
+34.05
+74.4
+Debris
+Slide
+NA
+10820
+JK/BAR/43J08/2020/14
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Tangmarg-Gulmarg road
+34.05
+74.4
+Debris
+Slide
+NA
+10821
+JK/BAR/43J08/2020/15
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Tangmarg-Gulmarg road
+34.07
+74.41
+Rock
+Slide
+NA
+10822
+JK/BAR/43J08/2020/10
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Dev gar Area
+34.1
+74.43
+Earth
+Subsidence
+NA
+10823
+JK/BAR/43J08/2020/8
+Jammu & Kashmir (UT)
+Baramulla
+ 
+sar area
+34.1
+74.38
+Debris
+Slide
+NA
+10824
+JK/BAR/43J08/2020/1
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Ball Daji area
+34.11
+74.37
+Earth
+Slide
+NA
+10825
+JK/BAR/43J08/2020/9
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Laridora village area
+34.13
+74.36
+Earth
+Slide
+NA
+10826
+JK/BAR/43J08/2020/2
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Sheikhpora-Khalripora area
+34.14
+74.44
+Earth
+Subsidence
+NA
+10827
+JK/BAR/43J08/2020/5
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Laridora village area
+34.14
+74.35
+Earth
+Subsidence
+NA
+10828
+JK/BAR/43J08/2020/7
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Malpora area
+34.15
+74.34
+Earth
+Slide
+NA
+10829
+JK/KIS/43J08/2020/16
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+Heaven area
+34.17
+74.33
+Debris
+Slide
+NA
+10830
+JK/BAR/43J08/2020/3
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Dangerpora area
+34.17
+74.33
+Debris
+Slide
+NA
+10831
+JK/BAR/43J04/2020/1
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Pahlipora area
+34.18
+74.23
+Debris
+Slide
+NA
+10832
+JK/BAR/43J04/2020/2
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Pahlipora area
+34.18
+74.23
+Debris
+Slide
+NA

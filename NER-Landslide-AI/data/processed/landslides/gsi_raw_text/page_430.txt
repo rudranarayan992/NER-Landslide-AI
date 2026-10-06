@@ -1,0 +1,393 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+17574
+MH/SAT/47G09/2021/29B
+Maharashtra
+Satara/Mahabaleshwar
+Chikhali 
+Chikhali
+17.87277778
+73.67508333
+Debris
+Flow 
+22 July 2021, 5:30pm
+17575
+MH/SAT/47G09/2021/29C
+Maharashtra
+Satara/Mahabaleshwar
+Chikhali 
+Chikhali
+17.87341667
+73.67469444
+Debris
+Slide
+22 July 2021, 5:30pm
+17576
+MH/SAT/47G09/2021/30
+Maharashtra
+Satara/Mahabaleshwar
+Malusar 
+Malusar
+17.88191667
+73.67833333
+Earth
+Slide
+22 July 2021, 5:30-6pm
+17577
+MH/SAT/47G09/2021/31A
+Maharashtra
+Satara/Mahabaleshwar
+Bhekawaliwadi 
+Bhekawaliwadi
+17.90704167
+73.698125
+ Soil
+ Slide 
+22 July 2021, 4:30-4:45pm
+17578
+MH/SAT/47G09/2021/31B
+Maharashtra
+Satara/Mahabaleshwar
+Bhekawaliwadi 
+Bhekawaliwadi
+17.90719722
+73.69794722
+ Soil
+ Slide
+22 July 2021, 4:30-4:45pm
+17579
+MH/SAT/47G09/2021/32A
+Maharashtra
+Satara/Mahabaleshwar
+Yerandal 
+Yerandal
+17.87663611
+73.71265278
+Debris
+Slide 
+2005, 22 July 2021, 5:20pm 
+17580
+MH/SAT/47G09/2021/32B
+Maharashtra
+Satara/Mahabaleshwar
+Yerandal 
+Yerandal
+17.87427778
+73.71183333
+ Soil
+Subsidence
+22 July 2021, 5:20pm
+17581
+MH/SAT/47G09/2021/33A
+Maharashtra
+Satara/Mahabaleshwar
+Nawali 
+Nawali
+17.88946111
+73.69458333
+Debris
+ Slide 
+22 July 2021
+17582
+MH/SAT/47G09/2021/33B
+Maharashtra
+Satara/Mahabaleshwar
+Nawali 
+Nawali
+17.88970556
+73.69664722
+Debris
+Slide
+22 July 2021
+17583
+MH/SAT/47G09/2021/34
+Maharashtra
+Satara/Mahabaleshwar
+Dudhoshi 
+Dudhoshi-Mettale
+17.92277222
+73.615075
+Debris
+Flow
+ 22 July 2021, 8:00pm
+17584
+MH/SAT/47G09/2021/35A
+Maharashtra
+Satara/Mahabaleshwar
+Dare 
+Jaoli-Dare-Haroshi
+17.94766667
+73.63555556
+ Soil 
+ Slide 
+22 July 2021, 5:30-6pm
+17585
+MH/SAT/47G09/2021/35B
+Maharashtra
+Satara/Mahabaleshwar
+Dare 
+Jaoli-Dare-Haroshi
+17.94171389
+73.6378
+Debris
+Slide
+22 July 2021, 5:30-6pm
+17586
+MH/SAT/47G09/2021/36A
+Maharashtra
+Satara/Mahabaleshwar
+Chaturbet 
+Chaturbet
+17.85856944
+73.62836667
+Debris
+ Flow 
+22 July 2021, 7:30-8:00pm
+17587
+MH/SAT/47G09/2021/36B
+Maharashtra
+Satara/Mahabaleshwar
+Chaturbet 
+Chaturbet
+17.86132222
+73.6273
+Debris
+ Flow 
+22 July 2021, 7:30-8:00pm
+17588
+MH/SAT/47G09/2021/36C
+Maharashtra
+Satara/Mahabaleshwar
+Chaturbet 
+Chaturbet
+17.86343889
+73.62820278
+Debris
+ Slide 
+22 July 2021, 7:30-8:00pm
+17589
+MH/SAT/47G09/2021/36D
+Maharashtra
+Satara/Mahabaleshwar
+Chaturbet 
+Chaturbet
+17.86340833
+73.62797778
+Debris
+ Slide
+22 July 2021, 7:30-8:00pm
+17590
+MH/SAT/47G09/2021/36E
+Maharashtra
+Satara/Mahabaleshwar
+Chaturbet 
+Chaturbet
+17.86372778
+73.62791389
+Debris
+Slide
+22 July 2021, 7:30-8:00pm
+17591
+MH/SAT/47G09/2021/37
+Maharashtra
+Satara/Mahabaleshwar
+Aachali 
+Talwasti (Aachali)
+17.86564722
+73.69519167
+Debris
+Slide/Flow
+22 July 2021, 6:30pm
+17592
+MH/SAT/47G09/2021/38A
+Maharashtra
+Satara/Mahabaleshwar
+Yerne Bhudruk 
+Yerne Bhudruk
+17.88335833
+73.69159722
+Debris
+Slide 
+22 July 2021, 6:15-6:30pm
+17593
+MH/SAT/47G09/2021/38B
+Maharashtra
+Satara/Mahabaleshwar
+Yerne Bhudruk 
+Yerne Bhudruk
+17.88447222
+73.69055556
+Debris
+Slide
+22 July 2021, 6:15-6:30pm
+17594
+MH/SAT/47G09/2021/39A
+Maharashtra
+Satara/Mahabaleshwar
+Yerne Khurd 
+Yerne Khurd
+17.87315556
+73.69752778
+Debris
+ Slide
+22 July 2021, 6:00pm
+17595
+MH/SAT/47G09/2021/39B
+Maharashtra
+Satara/Mahabaleshwar
+Yerne Khurd 
+Yerne Khurd
+17.87226944
+73.69768333
+Debris
+Slide
+22 July 2021, 6:00pm
+17596
+MH/SAT/47G09/2021/39C
+Maharashtra
+Satara/Mahabaleshwar
+Yerne Khurd 
+Yerne Khurd
+17.87219167
+73.69769722
+Debris
+ Slide
+22 July 2021, 6:00pm
+17597
+MH/SAT/47G09/2021/40
+Maharashtra
+Satara/Mahabaleshwar
+Shindola 
+Shindola
+17.899
+73.68797222
+Debris
+Slide
+23 July 2021
+17598
+MH/SAT/47G09/2021-22/41
+Maharashtra
+Satara/Javli
+Vahite 
+Vahite
+17.89118611
+73.72785
+Debris
+Slide
+22 July 2021, 5-5:30pm
+17599
+MH/SAT/47G09/2021-22/42A
+Maharashtra
+Satara/Javli
+Bhuteghar 
+Bhuteghar
+17.90808333
+73.72808333
+Debris
+ Slide
+22 July 2021
+17600
+MH/SAT/47G09/2021-22/42B
+Maharashtra
+Satara/Javli
+Bhuteghar 
+Bhuteghar
+17.90333333
+73.72786111
+Debris
+ Slide
+22 July 2021, 4 to 5:00pm
+17601
+MH/RAI/47F12/2021/01
+Maharashtra
+Raigad/Poladpur
+Turbhe Kond 
+11 km towards Northeast of 
+Poladpur town and can be 
+approached via NH-66 (Mumbai-
+Goa) 
+18.02
+73.51747222
+Debris
+Slide
+21 -22 July 2021
+17602
+MH/RAI/47G09/2021/02A
+Maharashtra
+Raigad/Poladpur
+Borawale-Kodwe Kond 
+13km distance from the 
+Poladpur 
+17.99716667
+73.52313889
+Debris
+Slide
+21-22 July 2021
+17603
+MH/RAI/47G09/2021/02B
+Maharashtra
+Raigad/Poladpur
+Borawale-Kodwe Kond 
+13km distance from the 
+Poladpur 
+17.99834444
+73.52092778
+Debris
+Slide
+21-22 July 2021
+17604
+MH/RAI/47G09/2021/03
+Maharashtra
+Raigad/Poladpur
+Kevnale-Ambemachi 
+20 km from Poladpur town 
+17.94133333
+73.55816667
+Debris
+Subsidence
+22 July 2021
+17605
+MH/RA1/47G09/2021/04
+Maharashtra
+Raigad/Poladpur
+Dhamnichi Wadi 
+Dhamnichi Wadi 
+17.95016667
+73.528
+Debris
+Slide
+21-22 July 2021
+17606
+MH/RAI/47G09/2021/05
+Maharashtra
+Raigad/Poladpur
+Chandke 
+18 km distance from Poladpur 
+town and can be accessed by 
+SH-72
+17.98683333
+73.58605556
+Debris
+Slide with flow 22 July 2021
+17607
+MH/RAI/47G09/2021/06
+Maharashtra
+Raigad/Poladpur
+Khopad 
+20 km distance from the 
+Poladpur
+17.99469444
+73.59305556
+Debris
+Subsidence
+Jul-21

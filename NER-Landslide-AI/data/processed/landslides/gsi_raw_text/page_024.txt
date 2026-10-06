@@ -1,0 +1,302 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+741
+AS/WKA/83C09/2020/17
+Assam
+West Karbi Anglong
+Approach Road (Hatidubi Dam)-17
+Hatidubi Dam Site, Lengery, 
+Amtreng
+25.97461
+92.51375
+Earth
+Slide
+24th to 26th September, 2020
+742
+AS/WKA/83C09/2020/18
+Assam
+West Karbi Anglong
+Approach Road (Hatidubi Dam)-18
+Hatidubi Dam Site, Lengery, 
+Amtreng
+25.97664
+92.51283
+Earth
+Slide
+24th to 26th September, 2020
+743
+AS/WKA/83C09/2020/19
+Assam
+West Karbi Anglong
+Approach Road (Power House, 
+Hatidubi Dam)-1
+Hatidubi Dam Site, Lengery, 
+Amtreng
+25.98214
+92.51139
+Rock
+Fall
+24th to 26th September, 2020
+744
+ASM/WKA/83C09/2020/5
+Assam
+West Karbi Anglong
+Approach road (Hatidubi Dam)-5
+Hatidubi Dam Site, Lengery, 
+Amtreng
+25.91608
+92.50203
+Debris
+Slide
+24th to 26th September, 2020
+745
+ASM/WKA/83C09/2020/8
+Assam
+West Karbi Anglong
+Approach road (Hatidubi Dam)-8
+Hatidubi Dam, Lengery, 
+Amtreng
+25.92153
+92.50753
+Debris
+Slide
+24th to 26th September, 2020
+746
+ASM/WKA/83C09/2020/11
+Assam
+West Karbi Anglong
+Approach road (Hatidubi Dam)-11
+Hatidubi Dam, Lengery, 
+Amtreng
+25.92525
+92.51031
+Debris
+Slide
+24th to 26th September, 2020
+747
+ASM/WKA/83C09/2020/6
+Assam
+West Karbi Anglong
+Approach road (Hatidubi Dam)-6
+Hatidubi Dam, Lengery, 
+Amtreng
+25.91936
+92.50556
+Earth
+Slide
+24th to 26th September, 2020
+748
+ASM/WKA/83C09/2020/7
+Assam
+West Karbi Anglong
+Approach road (Hatidubi Dam)-7
+Hatidubi Dam, Lengery, 
+Amtreng
+25.92103
+92.50708
+Earth
+Slide
+24th to 26th September, 2020
+749
+ASM/WKA/83C09/2020/9
+Assam
+West Karbi Anglong
+Approach road (Hatidubi Dam)-9
+Hatidubi Dam, Lengery, 
+Amtreng
+25.92233
+92.50819
+Earth
+Slide
+24th to 26th September, 2020
+750
+ASM/WKA/83C09/2020/10
+Assam
+West Karbi Anglong
+Approach road (Hatidubi Dam)-10
+Hatidubi Dam, Lengery, 
+Amtreng
+25.924
+92.50939
+Earth
+Slide
+24th to 26th September, 2020
+751
+AS/WKA/83C09/2020/12
+Assam
+West Karbi Anglong
+Approach Road (Hatidubi Dam)-12
+Hatidubi Dam Site, Lengery, 
+Amtreng
+25.95825
+92.51414
+Earth
+Slide
+24th to 26th September, 2020
+752
+AS/WKA/83C09/2020/13
+Assam
+West Karbi Anglong
+Approach Road (Hatidubi Dam)-13 
+Hatidubi Dam Site, Lengery, 
+Amtreng  
+25.96403
+92.51631
+Earth
+Slide
+24th to 26th September, 2020
+753
+ASM/WKA/83C05/2020/3
+Assam
+West Karbi Anglong
+Approach road (Hatidubi Dam)-3
+Hatidubi Dam Site, Lengery, 
+Amtreng
+25.91406
+92.49897
+Debris
+Slide
+ 25th September 2020
+754
+ASM/WKA/83C05/2020/4
+Assam
+West Karbi Anglong
+Approach road (Hatidubi Dam)-4
+Hatidubi Dam Site, Lengery, 
+Amtreng
+25.91422
+92.49972
+Debris
+Slide
+24th to 26th Sept, 2020
+755
+ASM/WKA/83C09/2020/2
+Assam
+West Karbi Anglong
+Approach road (Hatidubi Dam)-2
+Hatidubi Dam Site, Lengery, 
+Amtreng
+25.95478
+92.51386
+Rock
+Slide
+24th to 26th September, 2020
+756
+ASM/WKA/83C09/2020/1
+Assam
+West Karbi Anglong
+Approach road (Hatidubi Dam)-1
+Hatidubi Dam Site, Lengery, 
+Amtreng
+25.95317
+92.51353
+Debris
+Slide
+24th to 26th September, 2020
+757
+ASM/KAM/78N12/2019/0002
+Assam
+Kamrup (Metro)
+Matia pahar slide
+Natun Basti, Matia Pahar, Dipar 
+Bil
+26.10591667
+91.62283333
+Rock
+Slide
+ 10th July 2019
+758
+ASM/KAM/78N12/2019/0001
+Assam
+Kamrup (Metro)
+Katahbari slide
+Katahbari,  Garchuk,Near 
+Bethany High school
+26.11816667
+91.71330556
+Rock
+Slide
+NA
+759
+AS/KAM/76N16/2024/1
+Assam
+Kamrup (Metro)
+Garo Basti Slide
+Garo Basti Slide, 8th Mile, 
+Guwahati
+26.11464
+91.83886
+Earth
+Slide
+05 July 2024 
+760
+ASM/DH/83G/03/2019/01
+Assam
+Dima Hasao
+Kashmipur Slide
+Between Kalachand and 
+Maibong, NH 54
+25.32069444
+93.12733333
+Rock
+Slide
+second week of July, 2019
+761
+ASM/KAM 
+(M)/78N16/2017/0004
+Assam
+Kamrup (Metro)
+Dakshin Saraniya-2
+Ganpat Mandir road
+26.17755556
+91.76588889
+Debris
+Slide
+13 June 2017
+762
+ASM/KAM (M)/78N16/2017/04 Assam
+Kamrup (Metro)
+Dakshin Saraniya-1
+Ganpat Mandir road
+26.17672222
+91.76525
+Debris
+Slide
+13 June 2017
+763
+ASM/KAM 
+(M)/78N16/2017/0003
+Assam
+Kamrup (Metro)
+Anandapur-Gangapur slide
+Hengrabari
+26.15427778
+91.79263889
+Debris
+Slide
+13 June 2017
+764
+AS/KAMRUP (M)/78N16/2014-
+15/0002
+Assam
+Kamrup (Metro)
+Udayachal Slide.
+Guwahati-Shillong Road 
+(Merges with NH-37), 
+Udayachal pahar, Near
+Guwahati Medical College.
+26.15477778
+91.77411111
+Earth
+Flow
+27 june 2014

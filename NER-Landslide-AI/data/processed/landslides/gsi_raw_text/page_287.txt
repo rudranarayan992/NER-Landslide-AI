@@ -1,0 +1,478 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12344
+KA/UK/48J07/2015/206
+Karnataka
+Uttar Kannada
+ 
+near Chitrang village(school)600 
+m from school
+14.435161
+74.404422
+Debris
+Slide
+NA
+12345
+KA/UK/48J07/2015/182
+Karnataka
+Uttar Kannada
+ 
+Murur village
+14.435217
+74.471117
+Debris
+Slide
+NA
+12346
+KA/UK/48J07/2015/175
+Karnataka
+Uttar Kannada
+ 
+Murur village
+14.437611
+74.478415
+Debris
+Slide
+NA
+12347
+KA/UTT/48J15/2018/35
+Karnataka
+Uttar Kannada
+West of Matalmane
+West of Matalmane
+14.438194
+74.786167
+Debris
+Slide
+NA
+12348
+KA/UK/48J07/2015/176
+Karnataka
+Uttar Kannada
+ 
+Murur village
+14.438631
+74.479369
+Debris
+Slide
+NA
+12349
+KA/UTT/48J15/2018/36
+Karnataka
+Uttar Kannada
+West of Matalmane
+West of Matalmane
+14.438972
+74.787028
+Debris
+Slide
+NA
+12350
+KA/UK/48J07/2015/180
+Karnataka
+Uttar Kannada
+ 
+Murur village
+14.439564
+74.467028
+Debris
+Slide
+NA
+12351
+KA/UK/48J07/2015/177
+Karnataka
+Uttar Kannada
+ 
+Murur village
+14.439661
+74.479758
+Debris
+Slide
+NA
+12352
+KA/UK/48J07/2015/181
+Karnataka
+Uttar Kannada
+ 
+Murur village
+14.440903
+74.468294
+Debris
+Slide
+NA
+12353
+KA/UTT/48J15/2018/33
+Karnataka
+Uttar Kannada
+Anmod-Mollem Ghat road
+Anmod-Mollem Ghat road
+14.442389
+74.785417
+Debris
+Slide
+NA
+12354
+KA/UTT/48J15/2018/34
+Karnataka
+Uttar Kannada
+Balahalli
+Balahalli
+14.442861
+74.785889
+Debris
+Slide
+NA
+12355
+KA/UK/48J07/2015/178
+Karnataka
+Uttar Kannada
+ 
+Murur village
+14.443583
+74.469028
+Debris
+Slide
+NA
+12356
+KA/UTT/48J15/2018/32
+Karnataka
+Uttar Kannada
+Balahalli
+Balahalli
+14.443583
+74.783861
+Debris
+Slide
+NA
+12357
+KA/UK/48J07/2015/179
+Karnataka
+Uttar Kannada
+ 
+Murur village
+14.443778
+74.468528
+Debris
+Slide
+NA
+12358
+KA/UK/48J07/2015/199
+Karnataka
+Uttar Kannada
+ 
+In and around Divgi village
+14.452075
+74.450083
+Debris
+Slide
+NA
+12359
+KA/UK/48J07/2015/196
+Karnataka
+Uttar Kannada
+ 
+In and around Divgi village
+14.452544
+74.447486
+Debris
+Slide
+NA
+12360
+KA/UK/48J07/2015/197
+Karnataka
+Uttar Kannada
+ 
+In and around Divgi village
+14.452594
+74.447908
+Debris
+Slide
+NA
+12361
+KA/UK/48J07/2015/200
+Karnataka
+Uttar Kannada
+ 
+In and around Divgi village
+14.453331
+74.452339
+Debris
+Slide
+NA
+12362
+KA/UK/48J07/2015/212
+Karnataka
+Uttar Kannada
+ 
+Kallabbe village
+14.454286
+74.485383
+Debris
+Slide
+NA
+12363
+KA/UTT/48J15/2018/31
+Karnataka
+Uttar Kannada
+Hantikuli
+Hantikuli
+14.454528
+74.778833
+Soil
+Slide
+NA
+12364
+KA/UK/48J07/2015/210
+Karnataka
+Uttar Kannada
+ 
+Karki Makki village
+14.455586
+74.471689
+Debris
+Slide
+NA
+12365
+KA/UK/48J07/2015/211
+Karnataka
+Uttar Kannada
+ 
+Kallabbe village
+14.455597
+74.482706
+Debris
+Slide
+NA
+12366
+KA/UTT/48J15/2018/43
+Karnataka
+Uttar Kannada
+Hendur
+Hendur
+14.459444
+74.777139
+Soil
+Flow
+NA
+12367
+KA/UTT/48J15/2018/38
+Karnataka
+Uttar Kannada
+Heggarbail
+Heggarbail
+14.461056
+74.753222
+Debris
+Slide
+NA
+12368
+KA/UTT/48J15/2018/27
+Karnataka
+Uttar Kannada
+Balesar
+Balesar
+14.467861
+74.803083
+Debris
+Slide
+NA
+12369
+KA/UK/48J07/2015/204
+Karnataka
+Uttar Kannada
+ 
+Shilli village
+14.470769
+74.459786
+Debris
+Slide
+NA
+12370
+KA/UTT/48J15/2018/30
+Karnataka
+Uttar Kannada
+Kamkar
+Kamkar
+14.471861
+74.77525
+Debris
+Slide
+NA
+12371
+KA/UTT/48J15/2018/29
+Karnataka
+Uttar Kannada
+Nelemav
+Nelemav
+14.474
+74.775167
+Debris
+Slide
+NA
+12372
+KA/UTT/48J15/2018/28
+Karnataka
+Uttar Kannada
+Nelemav
+Nelemav
+14.474361
+74.776611
+Debris
+Slide
+NA
+12373
+KA/UTT/48J15/2018/26
+Karnataka
+Uttar Kannada
+South of Balur
+South of Balur
+14.47875
+74.807306
+Soil
+Slide
+NA
+12374
+KA/UK/48J07/2015/215
+Karnataka
+Uttar Kannada
+ 
+on NH-17 near Talgere
+14.480294
+74.4378
+Debris
+Slide
+NA
+12375
+KA/UTT/48J15/2018/24
+Karnataka
+Uttar Kannada
+Nanikatta
+Nanikatta
+14.481
+74.877056
+Debris
+Slide
+NA
+12376
+KA/UK/48J07/2015/201
+Karnataka
+Uttar Kannada
+ 
+forest check post 200m sirsi 
+road
+14.486453
+74.495181
+Debris
+Slide
+NA
+12377
+KA/UK/48J07/2015/202
+Karnataka
+Uttar Kannada
+ 
+forest check post (near nala)
+14.487181
+74.494575
+Debris
+Slide
+NA
+12378
+KA/UK/48J07/2015/203
+Karnataka
+Uttar Kannada
+ 
+forest check post
+14.490544
+74.496694
+Debris
+Slide
+NA
+12379
+KA/UTT/48J15/2018/37
+Karnataka
+Uttar Kannada
+North of Herur
+North of Herur
+14.49075
+74.772639
+Soil
+Slide
+NA
+12380
+KA/UTT/48J15/2018/25
+Karnataka
+Uttar Kannada
+Yelugar
+Yelugar
+14.4945
+74.80475
+Debris
+Slide
+NA
+12381
+KA/UTT/48J14/2020/37
+Karnataka
+Uttar Kannada
+Yelugar village
+Yelugar village
+14.5
+74.81
+Debris
+Slide
+2020
+12382
+KA/UTT/48J14/2020/48
+Karnataka
+Uttar Kannada
+Tattikai village
+Tattikai village
+14.5
+74.77
+Earth
+Slide
+2000
+12383
+KA/UK/48J06/2015/169
+Karnataka
+Uttar Kannada
+ 
+Near kagal 
+village/Agahanashani
+14.504106
+74.361631
+Debris
+Slide
+NA
+12384
+KA/UK/48J06/2015/170
+Karnataka
+Uttar Kannada
+ 
+Near kagal 
+village/Agahanashani
+14.504397
+74.362122
+Debris
+Slide
+NA
+12385
+KA/UTT/48I10/2018/07
+Karnataka
+Uttar Kannada
+Hanta
+Hanta
+14.509406
+74.526333
+Soil
+Slide
+NA

@@ -1,0 +1,392 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27705
+TN/NIL/58A15/2015-16/218
+Tamil Nadu
+Nilgiri
+ 
+Perar to Kattabettu,PC.No:18/3 11.407778
+76.808889
+Earth
+Slide
+NA
+27706
+TN/NIL/58A15/2015-16/217
+Tamil Nadu
+Nilgiri
+ 
+Perar to Kattabettu
+11.408056
+76.807778
+Debris
+Slide
+NA
+27707
+TN/NIL/58A15/2015-16/254
+Tamil Nadu
+Nilgiri
+ 
+Betlada village,  Kotagiri to 
+Konnacombai
+11.408521
+76.884438
+Debris
+Slide
+NA
+27708
+TN/NIL/58A15/2015-16/205
+Tamil Nadu
+Nilgiri
+ 
+Perar to Kattabettu PC:No:12/2 11.409086
+76.769849
+Debris
+Slide
+NA
+27709
+TN/NIL/58A15/2015-16/206
+Tamil Nadu
+Nilgiri
+ 
+Perar to Kattabettu PC:No:12/2 11.409364
+76.772626
+Debris
+Slide
+NA
+27710
+TN/NIL/58A15/2015-16/255
+Tamil Nadu
+Nilgiri
+ 
+Robroy Tea Estate
+11.409444
+76.880833
+Debris
+Slide
+NA
+27711
+TN/NIL/58A11/2015-16/67
+Tamil Nadu
+Nilgiri
+ 
+Mukurthi Dam
+11.410278
+76.565833
+Earth
+Slide
+NA
+27712
+TN/NIL/58A15/2015-16/261
+Tamil Nadu
+Nilgiri
+ 
+Kattabettu road junction
+11.410833
+76.813889
+Debris
+Slide
+NA
+27713
+TN/NIL/58A11/2015-16/22
+Tamil Nadu
+Nilgiri
+ 
+Anger Board Tea Estate towards 
+Anikalmund
+11.411389
+76.6275
+Earth
+Subsidence
+NA
+27714
+TN/NIL/58A15/2015-16/260
+Tamil Nadu
+Nilgiri
+ 
+Ambedkar Nagar
+11.411389
+76.814722
+Debris
+Slide
+NA
+27715
+TN/NIL/58A15/2015-16/208
+Tamil Nadu
+Nilgiri
+ 
+Perar to Kattabettu SC:13/2
+11.411586
+76.777349
+Debris
+Slide
+NA
+27716
+TN/NIL/58A11/2015-16/16
+Tamil Nadu
+Nilgiri
+ 
+PC.No.: 4/4, Dodabetta towards 
+Kodapamund
+11.4125
+76.726389
+Earth
+Slide
+NA
+27717
+TN/NIL/58A15/2015-16/214
+Tamil Nadu
+Nilgiri
+ 
+Ambedkar Nagar,Perar to 
+Kattabettu-MS.No: 16
+11.413253
+76.79596
+Debris
+Slide
+NA
+27718
+TN/NIL/58A15/2015-16/209
+Tamil Nadu
+Nilgiri
+ 
+Perar to Kattabettu PC:No:13/7 11.413809
+76.77846
+Debris
+Slide
+NA
+27719
+TN/NIL/58A15/2015-16/262
+Tamil Nadu
+Nilgiri
+ 
+Kattabettu, Kotagiri
+11.413889
+76.816667
+Debris
+Slide
+NA
+27720
+TN/NIL/58A15/2015-16/210
+Tamil Nadu
+Nilgiri
+ 
+Perar to Kattabettu 
+PC:No:13/11
+11.414364
+76.78096
+Debris
+Slide
+NA
+27721
+TN/NIL/58A15/2015-16/212
+Tamil Nadu
+Nilgiri
+ 
+Perar to Kattabettu HPB:3/7
+11.414642
+76.786515
+Earth
+Slide
+NA
+27722
+TN/NIL/58A15/2015-16/211
+Tamil Nadu
+Nilgiri
+ 
+Perar to Kattabettu HPB:2/7
+11.41492
+76.788738
+Debris
+Slide
+NA
+27723
+TN/NIL/58A15/2015-16/216
+Tamil Nadu
+Nilgiri
+ 
+Perar to Kattabettu, PC.No:16
+11.41492
+76.792626
+Debris
+Slide
+NA
+27724
+TN/NIL/58A15/2015-16/190
+Tamil Nadu
+Nilgiri
+ 
+Kattabettu to Iduhatti
+11.415
+76.809444
+Debris
+Slide
+NA
+27725
+TN/NIL/58A11/2015-16/9
+Tamil Nadu
+Nilgiri
+ 
+SC.no: 4/7 Kodapamund 
+towards Dodabetta
+11.415556
+76.744167
+Debris
+Slide
+NA
+27726
+TN/NIL/58A15/2015-16/213
+Tamil Nadu
+Nilgiri
+ 
+Perar to Kattabettu PC:No:15/8 11.415753
+76.789571
+Debris
+Slide
+NA
+27727
+TN/NIL/58A15/2015-16/215
+Tamil Nadu
+Nilgiri
+ 
+Ambedkar nagar, Perar to 
+Kattabettu,MS.No:16
+11.416586
+76.796238
+Debris
+Slide
+NA
+27728
+TN/NIL/58A11/2015-16/8
+Tamil Nadu
+Nilgiri
+ 
+Ambedkar colony
+11.4175
+76.722778
+Debris
+Slide
+NA
+27729
+TN/NIL/58A11/2015-16/12
+Tamil Nadu
+Nilgiri
+ 
+Butter Kombai Tea Estate
+11.418889
+76.740833
+Debris
+Slide
+NA
+27730
+TN/NIL/58A11/2015-16/7
+Tamil Nadu
+Nilgiri
+ 
+Ambedkar Colony
+11.419444
+76.720833
+Debris
+Slide
+NA
+27731
+TN/NIL/58A11/2015-16/13
+Tamil Nadu
+Nilgiri
+ 
+Kunthachappa village
+11.420556
+76.830278
+Debris
+Subsidence
+NA
+27732
+TN/NIL/58A15/2015-16/194
+Tamil Nadu
+Nilgiri
+ 
+Tummanhatti village
+11.425
+76.780556
+Debris
+Slide
+NA
+27733
+TN/NIL/58A11/2015-16/69
+Tamil Nadu
+Nilgiri
+ 
+Pykara towards Angerboard Tea 
+Estate
+11.425556
+76.6275
+Earth
+Slide
+NA
+27734
+TN/NIL/58A15/2015-16/195
+Tamil Nadu
+Nilgiri
+ 
+Approx. 3 km South East of 
+Tummanhatti village
+11.425556
+76.779167
+Debris
+Slide
+NA
+27735
+TN/NIL/58A11/2015-16/68
+Tamil Nadu
+Nilgiri
+ 
+Pykara towards Angerboard Tea 
+Estate
+11.428333
+76.628333
+Earth
+Slide
+NA
+27736
+TN/NIL/58A11/2015-16/2
+Tamil Nadu
+Nilgiri
+ 
+Near Watts Gate
+11.431389
+76.74475
+Debris
+Slide
+NA
+27737
+TN/NIL/58A11/2015-16/14
+Tamil Nadu
+Nilgiri
+ 
+300 m from HPB no: 9, Nehruji 
+Nagar towards Kendor
+11.432222
+76.738889
+Debris
+Slide
+NA
+27738
+TN/NIL/58A11/2015-16/15
+Tamil Nadu
+Nilgiri
+ 
+Culvert no. 4/6, Karadi Kombai
+11.435833
+76.742222
+Debris
+Slide
+NA

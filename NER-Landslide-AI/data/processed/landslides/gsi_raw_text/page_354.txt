@@ -1,0 +1,396 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14720
+371
+Kerala
+Idukki
+South Kathipara
+South Kathipara - Kaithachal 
+metalled road
+9.979444
+76.986111
+Debris
+Slide
+15th August, 2018
+14721
+372
+Kerala
+Idukki
+Ozhukkacity
+Kallarkutty - Ozhukacity road
+9.975343
+76.996319
+Soil
+Slide
+16th August, 2018
+14722
+373
+Kerala
+Idukki
+Ozhukkacity
+Kallarkutty - Ozhukacity road
+9.977168
+76.998054
+Debris
+Slide
+16th August, 2018
+14723
+374
+Kerala
+Idukki
+Panamkutty KSEB valve office
+Panamkutty - KSEB valve road
+9.956363
+76.98074
+Debris
+Slide
+16th August, 2018
+14724
+375
+Kerala
+Idukki
+Panamkutty KSEB valve house
+Panamkutty - KSEB valve road
+9.9563
+76.980757
+Debris
+Slide
+16th August, 2018
+14725
+376
+Kerala
+Idukki
+South Kathipara
+South Kathipara road
+9.966883
+76.984058
+Debris
+Slide
+10th August, 2018
+14726
+377
+Kerala
+Idukki
+South Kathipara
+South Kathipara road
+9.969343
+76.983945
+Debris
+Slide
+15th August, 2018
+14727
+378
+Kerala
+Idukki
+Kuthupara
+Selliampara - Kuthupara road
+9.997778
+77.030833
+Debris
+Flows
+15th August, 2018
+14728
+379
+Kerala
+Idukki
+Kuthupara
+Selliampara - Kuthupara road
+9.995305
+77.033227
+Debris
+Slide
+15th August, 2018
+14729
+380
+Kerala
+Idukki
+Varayattumudy
+Varayattumudi - Elkunnu road
+9.984816
+77.047131
+Debris
+Flows
+10th August, 2018
+14730
+381
+Kerala
+Idukki
+Varayattumudy
+Varayattumudi - Elkunnu road
+9.984167
+77.045
+Debris
+Flows
+16th August, 2018
+14731
+382
+Kerala
+Idukki
+Elkunnu
+Kuthupara - Elkunnu road
+9.987957
+77.041953
+Debris
+Slide
+8th August, 2018
+14732
+383
+Kerala
+Idukki
+Muthuvankudi
+Kuthupara - Muthuvankudi road 9.995397
+77.043295
+Debris
+Slide
+15th August, 2018
+14733
+384
+Kerala
+Idukki
+Sharonpuram
+Kuthupara - Vellathooval road
+9.982914
+77.032886
+Debris
+Slide
+15th August, 2018
+14734
+385
+Kerala
+Idukki
+Pipeline
+Vellathooval - Pipeline road
+9.979716
+77.034088
+Debris
+Slide
+15th August, 2018
+14735
+386
+Kerala
+Idukki
+Vellathooval
+Vellathooval - Adimali road
+9.975805
+77.021799
+Debris
+Slide
+16th August, 2018
+14736
+387
+Kerala
+Idukki
+Panamkutty
+9.955812
+76.982186
+NA
+NA
+14737
+388
+Kerala
+Idukki
+Mullaringadu
+Mullaringad - Thodupuzha road 10.009722
+76.816667
+Debris
+Flow
+15th August, 2018
+14738
+389
+Kerala
+Idukki
+Thekkanthoni
+Venmani - Thekkanthoni road
+9.960538
+76.877735
+Debris
+Flow
+16th August, 2018
+14739
+390
+Kerala
+Idukki
+Mannakavu
+Venmani - Mankadavu road
+9.856918
+76.871813
+Debris
+Slide
+15th August, 2018
+14740
+391
+Kerala
+Idukki
+Mottamudi
+Vellakkayam - Mottamudi jeep 
+road
+9.985556
+76.865278
+Debris
+Slide
+15th August, 2018
+14741
+392
+Kerala
+Idukki
+Chelickal Kavala
+Elappally - Chelickkal - 
+Nallathanni road
+9.767222
+76.855
+Debris
+Slide
+15th August, 2018
+14742
+393
+Kerala
+Idukki
+Chelickal Kavala
+Elappally - Chelickkal road
+9.768333
+76.854722
+Debris
+Slide
+15th August, 2018
+14743
+394
+Kerala
+Idukki
+Idadu
+Idadu - Pullickanam road
+9.754167
+76.863333
+Debris
+Slide
+15th August, 2018
+14744
+395
+Kerala
+Idukki
+Idadu
+Idadu - Pullickanam road
+9.753889
+76.862778
+Debris
+Slide
+15th August, 2018
+14745
+396
+Kerala
+Idukki
+Idadu
+Idadu - Pullickanam road
+9.749142
+76.865103
+Debris
+Slide
+15th August, 2018
+14746
+397
+Kerala
+Idukki
+Idadu
+Idadu - Pullickanam road
+9.747819
+76.865615
+Debris
+Flow
+15th August, 2018
+14747
+398
+Kerala
+Idukki
+Idadu Muttam
+Idadu - Pullickanam road
+9.746111
+76.867778
+Debris
+Flow
+16th August, 2018
+14748
+399
+Kerala
+Idukki
+Idadu Muttam
+Idadu - Pullickanam road
+9.743929
+76.871225
+Debris
+Slide
+15th August, 2018
+14749
+400
+Kerala
+Idukki
+Idadu Muttam
+Idadu - Pullickanam road
+9.742408
+76.871481
+Debris
+Slide
+15th August, 2018
+14750
+401
+Kerala
+Idukki
+Kumbakanam
+Kanjar-Pullickanam road
+9.763762
+76.836386
+Debris
+Slide
+15th August, 2018
+14751
+402
+Kerala
+Idukki
+Kanjar
+Kanjar-Pullickanam road
+9.770459
+76.835165
+Debris
+Slide
+15th August, 2018
+14752
+403
+Kerala
+Idukki
+Kanjar View Point
+Kanjar-Pullickanam road
+9.792432
+76.82916
+Debris
+Slide
+15th August, 2018
+14753
+404
+Kerala
+Idukki
+Methottil
+Poomala- Methottil  Road
+9.839776
+76.865554
+Debris
+Slide
+10th August, 2018
+14754
+405
+Kerala
+Idukki
+Methottil
+Poomala- Methottil  Road
+9.839808
+76.864707
+Debris
+Slide
+15th August 2018

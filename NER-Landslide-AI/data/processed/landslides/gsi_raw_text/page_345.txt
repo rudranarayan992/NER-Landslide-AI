@@ -1,0 +1,368 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14427
+78
+Kerala
+Idukki
+Edakkad III
+Chelachuvadu - Kathipara road
+9.930246
+76.953367
+Debris
+Slide
+16th August, 2018
+14428
+79
+Kerala
+Idukki
+Edakkad IV
+Edakkad - Churuli Jeep road
+9.92677
+76.954112
+Debris
+Flow
+16th August, 2018
+14429
+80
+Kerala
+Idukki
+Edakkad V
+Edakkad - Churuli Jeep road
+9.927042
+76.953977
+Debris
+Flow
+16th August, 2018
+14430
+81
+Kerala
+Idukki
+Edakkad VI
+Edakkad - Churuli Jeep road
+9.925901
+76.954399
+Debris
+Flow
+15th August, 2018
+14431
+82
+Kerala
+Idukki
+Churuli IX
+Adimali – Kumily National 
+Highway (NH 185)
+9.91931
+76.956101
+Debris
+Slide
+16th August, 2018
+14432
+83
+Kerala
+Idukki
+Churuli Junction
+Adimali – Kumily National 
+Highway (NH 185)
+9.919152
+76.955371
+Debris
+Slide
+15th August, 2018
+14433
+84
+Kerala
+Idukki
+Thallakkanam
+An approach road to Alappuzha 
+– Madurai State Highway (SH 
+40)
+9.947447222
+76.94920833
+Debris
+Subsidence
+14th August, 2018
+14434
+85
+Kerala
+Idukki
+Keerithode
+Unmetalled road towards the 
+house
+9.937797222
+76.96202222
+NA
+Subsidence
+16th August, 2018
+14435
+86
+Kerala
+Idukki
+Balannaadu
+Balannaadu - Blathikavala road
+9.973705418
+76.8589795
+Debris
+Slide
+16th August, 2018
+14436
+87
+Kerala
+Idukki
+Rajapuram
+Murickasseri -Keerithodu road
+9.923592778
+76.98260278
+Debris
+Flow
+8th August 2018
+14437
+88
+Kerala
+Idukki
+Rajapuram II
+Murickasseri -Keerithodu road
+9.923118889
+76.98176111
+Debris
+Slide
+8th August 2018
+14438
+89
+Kerala
+Idukki
+Rajapuram III
+Murickasseri -Keerithodu road
+9.922275
+76.98229389
+Soil
+Slide
+8th August 2018
+14439
+90
+Kerala
+Idukki
+Pallikkudam City
+Periyarvalley - Pallikudam city 
+road
+9.932653333
+76.98209194
+Debris
+Slide
+8th August 2018
+14440
+91
+Kerala
+Idukki
+Periyar Valley VI
+Periyarvalley - Pallikudam city 
+road
+9.935335833
+76.98095917
+Debris
+Flow
+18th August 2018
+14441
+92
+Kerala
+Idukki
+Periyar Valley VII
+Periyarvalley - Pallikudam city 
+road
+9.936412778
+76.97923333
+Debris
+Flow
+18th August 2018
+14442
+93
+Kerala
+Idukki
+Periyar Valley VIII
+Periyarvalley - Pallikudam city 
+road
+9.935633889
+76.97486139
+Debris
+Flow
+18th August 2018
+14443
+94
+Kerala
+Idukki
+Periyar Valley IX
+Periyarvalley - Pallikudam city 
+road
+9.935454
+76.97476
+Soil
+Slide
+18th August 2018
+14444
+95
+Kerala
+Idukki
+Senapathy
+Murickasseri -Bethel road
+9.918976
+77.021632
+Debris
+Slide
+9th August 2018
+14445
+96
+Kerala
+Idukki
+Chempakapara
+Murickasseri -Kattappana road
+9.913103
+77.039136
+Debris
+Flow
+15th August 2018
+14446
+97
+Kerala
+Idukki
+Chempakapara II
+Murickasseri -Kattappana road
+9.905364
+77.062946
+Debris
+Slide
+15th August 2018
+14447
+98
+Kerala
+Idukki
+Antopuram
+Murickasseri -Chelachuvad  
+road
+9.911372
+76.977953
+Debris
+Slide
+15th August 2018
+14448
+99
+Kerala
+Idukki
+Chempakapara III
+Murickasseri -Bethel road
+9.907523
+77.054454
+Soil
+Slide
+10th August 2018
+14449
+100
+Kerala
+Idukki
+Chempakapara IV
+Murickasseri -Bethel road
+9.903901
+77.062855
+Soil
+Slide
+15th August 2018
+14450
+101
+Kerala
+Idukki
+Bethel
+Foot path
+9.886038
+77.079206
+Debris
+Flow
+16th August 2018
+14451
+102
+Kerala
+Idukki
+Bethel II
+Foot path
+9.886914
+77.079339
+Debris
+Flow
+16th August 2018
+14452
+103
+Kerala
+Idukki
+Bethel III
+Foot path
+9.887064
+77.079923
+Debris
+Flow
+16th August 2018
+14453
+104
+Kerala
+Idukki
+Bethel IV
+Foot path
+9.882223
+77.083639
+Debris
+Flow
+17th August 2018
+14454
+105
+Kerala
+Idukki
+Naaluthoonu
+Melechinnar - Thopramkudi 
+road
+9.881933
+77.079426
+Debris
+Flow
+16th August 2018
+14455
+106
+Kerala
+Idukki
+Naaluthoonu II
+Melechinnar - Thopramkudi 
+road
+9.88321
+77.077629
+Debris
+Flow
+17th August 2018
+14456
+107
+Kerala
+Idukki
+Naaluthoonu III
+An approach road to 
+Melechinnar - Thopramkudy 
+road
+9.882807
+77.078393
+Debris
+Flow
+17th August 2018
+14457
+108
+Kerala
+Idukki
+Thopramkudy
+Thopramkudi - Amalai road
+9.883033
+77.060746
+Debris
+Slide
+16th August 2018

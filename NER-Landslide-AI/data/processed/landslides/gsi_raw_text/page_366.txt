@@ -1,0 +1,533 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15133
+KRL/IDK/58C13/2018/142
+KERALA
+IDUKKI
+Sasathatemple Cheruthoni-
+Vanjikavala
+nil
+9.860072094
+76.96254148
+Debris
+slide
+15th August 2018
+15134
+KRL/IDK/58C13/2018/143
+KERALA
+IDUKKI
+Vanchikavala
+Cheruthoni- Vazhathopu
+9.860951559
+76.96209091
+Debris
+slide
+15th August 2018
+15135
+KRL/IDK/58C13/2018/144
+KERALA
+IDUKKI
+Vellakayam
+Cheruthoni- Karimban road
+9.859217587
+76.96491557
+Bank erosion
+15th August 2018
+15136
+KRL/IDK/58C13/2018/145
+KERALA
+IDUKKI
+Vellakayam
+Adimali road
+9.860873858
+76.96611951
+Debris
+flow
+15th August 2018
+15137
+KRL/IDK/58C13/2018/146
+KERALA
+IDUKKI
+Vellakayam
+Adimali road
+9.858680609
+76.96864061
+Huge debris 
+flow
+15th August 2018
+15138
+KRL/IDK/58C13/2018/147
+KERALA
+IDUKKI
+Thadiyambad
+Adimali road
+9.883045737
+76.96959673
+Debris
+flow
+15th August 2018
+15139
+KRL/IDK/58C13/2018/148
+KERALA
+IDUKKI
+Thadiyambad
+Adimali road
+9.881424402
+76.97015228
+Debris
+slide
+15th August 2018
+15140
+KRL/IDK/58C13/2018/149
+KERALA
+IDUKKI
+Thadiyambad
+Adimali road
+9.881784958
+76.97032763
+Debris
+slide
+15th August 2018
+15141
+KRL/IDK/58C13/2018/150
+KERALA
+IDUKKI
+Thadiyambad
+Adimali road
+9.882247134
+76.97012983
+Debris
+slide
+15th August 2018
+15142
+KRL/IDK/58C13/2018/151
+KERALA
+IDUKKI
+Mulakuvalli
+nil
+9.906410288
+76.94057123
+Debris
+flow
+15th August 2018
+15143
+KRL/IDK/58C13/2018/152
+KERALA
+IDUKKI
+Vazhathope
+Vazhathope- Thadiyambadu 
+road
+9.867475129
+76.96261265
+Debris
+slide
+15th August 2018
+15144
+KRL/IDK/58C13/2018/153
+KERALA
+IDUKKI
+Vazhathope
+Vazhathope- Thadiyambadu 
+road
+9.867156842
+76.96293893
+Debris
+slide
+15th August 2018
+15145
+KRL/IDK/58C13/2018/154
+KERALA
+IDUKKI
+Vazhathope
+Vazhathope- Thadiyambadu 
+road
+9.866413823
+76.96479413
+Debris
+flow
+15th August 2018
+15146
+KRL/IDK/58C13/2018/155
+KERALA
+IDUKKI
+Peppara 
+nil
+9.879456078
+76.94644789
+Debris
+slide F.D- 225
+15th August 2018
+15147
+KRL/IDK/58C13/2018/156
+KERALA
+IDUKKI
+Peppara 
+Pakittan- Maniyarankudi
+9.879456078
+76.94644789
+Debris
+slide
+15th August 2018
+15148
+KRL/IDK/58C13/2018/157
+KERALA
+IDUKKI
+Pakittan
+nil
+9.879549265
+76.94596528
+Debris
+slide
+15th August 2018
+15149
+KRL/IDK/58C13/2018/158
+KERALA
+IDUKKI
+Peppara 
+Peppara-Perumkala
+9.876983711
+76.9456676
+Debris
+flow
+15th August 2018
+15150
+KRL/IDK/58C13/2018/159
+KERALA
+IDUKKI
+Peppara 
+nil
+9.878943507
+76.94128514
+Debris
+flow
+15th August 2018
+15151
+KRL/IDK/58C13/2018/160
+KERALA
+IDUKKI
+Perumkala
+nil
+9.877425253
+76.94121243
+Debris
+flow
+15th August 2018
+15152
+KRL/IDK/58C13/2018/161
+KERALA
+IDUKKI
+Perumkala
+nil
+9.876966502
+76.94081774
+Debris
+flow
+15th August 2018
+15153
+KRL/IDK/58C13/2018/162
+KERALA
+IDUKKI
+Thanikandam
+Panayampala-Painavu road
+9.861038871
+76.9517179
+Debris
+flow
+15th August 2018
+15154
+KRL/IDK/58C13/2018/163
+KERALA
+IDUKKI
+Thanikandam
+Thanikandam-Painavu road
+9.861797981
+76.9533176
+Debris
+flow
+15th August 2018
+15155
+KRL/IDK/58C13/2018/164
+KERALA
+IDUKKI
+Pakittan
+Pakittan road
+9.884641064
+76.94241252
+Debris
+flow
+15th August 2018
+15156
+KRL/IDK/58C13/2018/165
+KERALA
+IDUKKI
+Nellipuzhakavala
+Maniyarankudy road
+9.881019016
+76.94817092
+Debris
+slide
+15th August 2018
+15157
+KRL/IDK/58C13/2018/166
+KERALA
+IDUKKI
+Nellipuzhakavala
+Maniyarankudy road
+9.880439335
+76.94836806
+Debris
+flow
+15th August 2018
+15158
+KRL/IDK/58C13/2018/167
+KERALA
+IDUKKI
+Lekshamkavala
+Vazhathope- Lakshamkavala 
+road
+9.884432846
+76.95183752
+Debris
+slide
+15th August 2018
+15159
+KRL/IDK/58C13/2018/168
+KERALA
+IDUKKI
+Peppara 
+Peppara- Pakittan
+9.879102843
+76.94343749
+Debris
+flow
+15th August 2018
+15160
+KRL/IDK/58C13/2018/169
+KERALA
+IDUKKI
+Peppara 
+Peppara- Pakittan
+9.879757363
+76.9428032
+Debris
+flow
+15th August 2018
+15161
+KRL/IDK/58C13/2018/170
+KERALA
+IDUKKI
+Peppara 
+nil
+9.880266516
+76.94229568
+Debris
+flow
+15th August 2018
+15162
+KRL/IDK/58C13/2018/171
+KERALA
+IDUKKI
+Maniyarenkudi
+nil
+9.890111273
+76.94220762
+Debris
+flow
+15th August 2018
+15163
+KRL/IDK/58C13/2018/172
+KERALA
+IDUKKI
+Maniyarenkudi
+nil
+9.889151464
+76.94248459
+Debris
+flow
+15th August 2018
+15164
+KRL/IDK/58C13/2018/173
+KERALA
+IDUKKI
+Maniyarenkudi
+nil
+9.888653559
+76.9426093
+Debris
+flow
+15th August 2018
+15165
+KRL/IDK/58C13/2018/174
+KERALA
+IDUKKI
+Manjappara
+nil
+9.889012791
+76.95860153
+Debris
+flow
+15th August 2018
+15166
+KRL/IDK/58C13/2018/175
+KERALA
+IDUKKI
+Bhoomiyamkulam
+nil
+9.895092686
+76.94992215
+Debris
+flow
+15th August 2018
+15167
+KRL/IDK/58C13/2018/176
+KERALA
+IDUKKI
+Mulakuvalli
+nil
+9.897219784
+76.95100135
+Debris
+flow
+15th August 2018
+15168
+KRL/IDK/58C13/2018/177
+KERALA
+IDUKKI
+Manjappara
+nil
+9.891447856
+76.9657632
+Debris
+slide
+15th August 2018
+15169
+KRL/IDK/58C13/2018/178
+KERALA
+IDUKKI
+Ambataru colony 
+nil
+9.873420994
+76.93958454
+Debris
+flow
+15th August 2018
+15170
+KRL/IDK/58C13/2018/179
+KERALA
+IDUKKI
+Ambataru colony 
+nil
+9.873528837
+76.93969456
+Debris
+flow
+15th August 2018
+15171
+KRL/IDK/58C13/2018/180
+KERALA
+IDUKKI
+Ambatharucolony
+nil
+9.873796764
+76.94026132
+Debris
+flow
+15th August 2018
+15172
+KRL/IDK/58C13/2018/181
+KERALA
+IDUKKI
+Kallemada kudi  
+nil
+9.871133123
+76.9334361
+Debris
+flow
+15th August 2018
+15173
+KRL/IDK/58C13/2018/182
+KERALA
+IDUKKI
+Kallemada kudi  
+nil
+9.870605811
+76.93080763
+Debris
+flow
+15th August 2018
+15174
+KRL/IDK/58C13/2018/183
+KERALA
+IDUKKI
+Karimpan
+Karimpan- Murikkassery 
+9.893591825
+76.97474649
+Debris
+slide
+15th August 2018
+15175
+KRL/IDK/58C13/2018/184
+KERALA
+IDUKKI
+Karimpan
+Karimpan- Murikkassery 
+9.893218655
+76.97364118
+Debris
+slide
+15th August 2018
+15176
+KRL/IDK/58C13/2018/185
+KERALA
+IDUKKI
+Karimpan- Manipara
+Karimpan- Adimaly 
+9.898320961
+76.97141987
+Debris
+slide
+15th August 2018
+15177
+KRL/IDK/58C13/2018/186
+KERALA
+IDUKKI
+Karimpan- Manipara
+Karimpan- Adimaly 
+9.89769522
+76.97176256
+Debris
+slide
+15th August 2018
+15178
+KRL/IDK/58C13/2018/187
+KERALA
+IDUKKI
+Karimban
+nil
+9.898321705
+76.96975155
+Debris
+slide
+15th August 2018
+15179
+KRL/IDK/58C13/2018/188
+KERALA
+IDUKKI
+Karimban
+nil
+9.898076577
+76.96993242
+Debris
+slide
+15th August 2018

@@ -1,0 +1,310 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21416
+MZ/LUN/84A12/2018/6
+Mizoram
+Lunglei
+ 
+North of Sekhum Village
+23.173716
+92.739754
+Rock
+Slide
+NA
+21417
+MZ/LUN/84A12/2018/81
+Mizoram
+Lunglei
+ 
+Changpui Village near Mizoram 
+Presbyterian church
+23.17411
+92.608917
+Debris
+Slide
+NA
+21418
+MZ/SER/84A16/2018/91
+Mizoram
+Serchhip
+ 
+Sialandslideir Agri link road-
+Tuichang River
+23.176575
+92.979797
+Debris
+Slide
+NA
+21419
+MZ/LUN/84A08/2020/2
+Mizoram
+Lunglei
+West Banghmun slide
+Near Mizoram Rural Bank, West 
+Banghmun RD Block
+23.18
+92.49
+Debris
+Slide
+2018
+21420
+MZ/SER/84F01/2018/12
+Mizoram
+Champhai
+ 
+2.5Km South West of Khawbung 
+on SH Khawbung-Biate Road
+23.181417
+93.197586
+Debris
+Slide
+NA
+21421
+MZ/LUN/84A12/2018/7
+Mizoram
+Lunglei
+ 
+Ramlaitui Village
+23.182264
+92.737099
+Debris
+Slide
+NA
+21422
+MZ/SER/84F01/2018/13
+Mizoram
+Champhai
+ 
+1.5Km South of Dungtlang 
+Village on SH Khawbung-
+Champhai Road
+23.182417
+93.246498
+Debris
+Slide
+2018
+21423
+MZ/SER/84F01/2018/14
+Mizoram
+Serchhip
+ 
+200m from the Bridge of Valva 
+Lui on SH East Lungdar-Serchhip 
+Road
+23.182667
+93.026138
+Debris
+Slide
+2018
+21424
+MZ/LUN/84A16/2018/20
+Mizoram
+Lunglei
+ 
+S. Zote- Chipphir Section
+23.183332
+92.794724
+Rock
+Slide
+NA
+21425
+MZ/SER/84F01/2018/15
+Mizoram
+Champhai
+ 
+5.5Km South of Dungtlang 
+Village on SH Khawlung-
+Champhai Road
+23.183584
+93.235031
+Rock
+Fall
+NA
+21426
+MZ/LUN/84A12/2018/43
+Mizoram
+Lunglei
+ 
+Sertlangpui-Kawlhawk section 
+(PMGSY road)
+23.184711
+92.679962
+Rock
+Slide
+NA
+21427
+MZ/LUN/84A12/2018/44
+Mizoram
+Lunglei
+ 
+Sertlangpui-Kawlhawk section 
+(PMGSY road)
+23.184711
+92.679962
+Debris
+Slide
+NA
+21428
+MZ/LUN/84A12/2018/63
+Mizoram
+Lunglei
+ 
+Tleu-Thenhlum Section
+23.188799
+92.55249
+Debris
+Slide
+NA
+21429
+MZ/LUN/84A12/2018/60
+Mizoram
+Lunglei
+ 
+Near Kao river (Eastern bank) 
+along Tleu-Thenhlum Section
+23.189108
+92.547783
+Rock
+Fall
+NA
+21430
+MZ/LUN/84A12/2018/62
+Mizoram
+Lunglei
+ 
+Near Kao river along Tleu-
+Thenhlum Section
+23.189638
+92.549889
+Rock
+Slide
+NA
+21431
+MZ/LUN/84A12/2018/61
+Mizoram
+Lunglei
+ 
+Tleu-Thenhlum Section
+23.189917
+92.54953
+Debris
+Slide
+NA
+21432
+MZ/LUN/84A12/2018/45
+Mizoram
+Lunglei
+ 
+Kawlhawk bridge-Kawlhawk 
+Village
+23.193548
+92.684456
+Debris
+Slide
+NA
+21433
+MZ/LUN/84A12/2018/46
+Mizoram
+Lunglei
+ 
+Kawlhawk bridge-Kawlhawk 
+Village
+23.193548
+92.684456
+Rock
+Slide
+NA
+21434
+MZ/LUN/84A12/2018/47
+Mizoram
+Lunglei
+ 
+Kawlhawk Village (Southern 
+part)
+23.194187
+92.680779
+Rock
+Slide
+NA
+21435
+MZ/SER/84A16/2018/27
+Mizoram
+Serchhip
+ 
+E. Bungtlang Village (NH-54)
+23.195522
+92.90062
+Rock
+Slide
+NA
+21436
+MZ/LUN/84A12/2018/48
+Mizoram
+Lunglei
+ 
+Kawlhawk Village
+23.196638
+92.679802
+Debris
+Subsidence
+NA
+21437
+MZ/SER/84F01/2018/16
+Mizoram
+Serchhip
+ 
+500m NW of Chekawn Village 
+on SH East Lungdar-Serchhip 
+Road
+23.197752
+93.007805
+Debris
+Slide
+NA
+21438
+MZ/LUN/84A12/2018/32
+Mizoram
+Lunglei
+ 
+Buarpui-Kawlhawk Section 
+(PMGSY road)
+23.199167
+92.683334
+Rock
+Slide
+NA
+21439
+MZ/SER/84F01/2018/17
+Mizoram
+Serchhip
+ 
+IWMP Water Reserviour of 
+Chekawn Village on SH East 
+Lungdar-Serchhip Road
+23.199879
+93.00705
+Debris
+Slide
+2018
+21440
+MZ/LUN/84A12/2018/65
+Mizoram
+Lunglei
+ 
+Near NW outskirts of Thenhlum 
+Village (Tleu-Thenhlum Section)
+23.201084
+92.580803
+Soil
+Slide
+NA

@@ -1,0 +1,523 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+4978
+HP/SHI/53E07/2016/36
+Himachal Pradesh
+Shimla
+ 
+MDR-22
+31.31325
+77.337667
+Debris
+Slide
+NA
+4979
+HP/BIL/53A15/2015/282
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.313778
+76.763667
+Rock
+Slide
+2015
+4980
+HP/SHI/53E07/2016/89
+Himachal Pradesh
+Shimla
+ 
+Kandreri
+31.314306
+77.612778
+Debris
+Slide
+NA
+4981
+HP/SHI/53E07/2016/51
+Himachal Pradesh
+Shimla
+ 
+Dhansha
+31.314444
+77.633139
+Debris
+Slide
+NA
+4982
+HP/SHI/53E07/2016/87
+Himachal Pradesh
+Shimla
+ 
+Kandreri
+31.314583
+77.612972
+Debris
+Slide
+NA
+4983
+HP/MAN/53E03/2015/55
+Himachal Pradesh
+Mandi
+ 
+ 
+31.3149
+77.014217
+Debris
+Slide
+NA
+4984
+HP/SHI/53E11/2016/74
+Himachal Pradesh
+Shimla
+ 
+Shalech
+31.315889
+77.533667
+Rock
+Slide
+NA
+4985
+HP/BIL/53A11/2018/42
+Himachal Pradesh
+Bilaspur
+ 
+Ghwanal
+31.316065
+76.536287
+Debris
+Slide
+NA
+4986
+HP/BIL/53A11/2018/41
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.318553
+76.535858
+Rock
+Slide
+NA
+4987
+HP/MAN/53E03/2015/273
+Himachal Pradesh
+Mandi
+ 
+ 
+31.319
+77.120167
+Rock
+Slide
+NA
+4988
+HP/SHI/53E15/2016/139
+Himachal Pradesh
+Shimla
+ 
+Near Tandiwali
+31.3199
+77.8852
+Rock
+Fall
+NA
+4989
+HP/SHI/53E15/2016/74
+Himachal Pradesh
+Shimla
+ 
+Near Tandiwal
+31.3205
+77.884
+Debris
+Slide
+NA
+4990
+HP/SHI/53E07/2016/70
+Himachal Pradesh
+Shimla
+ 
+Sumni
+31.321028
+77.403833
+Rock
+Fall
+NA
+4991
+HP/SHI/53E15/2016/89
+Himachal Pradesh
+Shimla
+ 
+Near Hingori - NH 72 - Rohal 
+link road
+31.3212
+77.8681
+Debris
+Slide
+NA
+4992
+HP/SHI/53E11/2016/96
+Himachal Pradesh
+Shimla
+ 
+Jajoli
+31.322056
+77.512028
+Debris
+Slide
+NA
+4993
+HP/MAN/53E03/2015/192
+Himachal Pradesh
+Mandi
+ 
+ 
+31.322424
+77.038034
+Debris
+Slide
+NA
+4994
+HP/MAN/53E03/2015/191
+Himachal Pradesh
+Mandi
+ 
+ 
+31.322694
+77.03775
+Debris
+Slide
+NA
+4995
+HP/SHI/53E15/2016/10
+Himachal Pradesh
+Shimla
+ 
+Near Hingori, right bank NH-72-
+Rohal Link Road
+31.3227
+77.8874
+Debris
+Slide
+NA
+4996
+HP/SHI/53E15/2016/140
+Himachal Pradesh
+Shimla
+ 
+Near Hingarinh - 72 -Rohal LInk 
+road
+31.3227
+77.8879
+Rock
+Fall
+NA
+4997
+HP/BIL/53A11/2018/17
+Himachal Pradesh
+Bilaspur
+ 
+Hrishikesh
+31.323091
+76.737065
+Rock
+Slide
+NA
+4998
+HP/BIL/53A15/2015/25
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.323419
+76.875422
+Debris
+Slide
+NA
+4999
+HP/SHI/53E07/2016/50
+Himachal Pradesh
+Shimla
+ 
+Sharog
+31.3235
+77.61
+Debris
+Slide
+NA
+5000
+HP/SHI/53E07/2016/88
+Himachal Pradesh
+Shimla
+ 
+Sharog
+31.323528
+77.609694
+Rock
+Slide
+NA
+5001
+HP/MAN/53E03/2015/196
+Himachal Pradesh
+Mandi
+ 
+ 
+31.323556
+77.037167
+Debris
+Slide
+NA
+5002
+HP/MAN/53A15/2015/201
+Himachal Pradesh
+Mandi
+ 
+ 
+31.323624
+76.969346
+Debris
+Slide
+NA
+5003
+HP/BIL/53A15/2015/24
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.323702
+76.875317
+Debris
+Slide
+NA
+5004
+HP/SOL/53A15/2015/142
+Himachal Pradesh
+Solan
+ 
+ 
+31.323766
+76.900864
+Debris
+Slide
+NA
+5005
+HP/BIL/53A15/2015/23
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.323974
+76.875264
+Debris
+Slide
+NA
+5006
+HP/SHI/53E15/2016/88
+Himachal Pradesh
+Shimla
+ 
+Hingori Khad near Tandiwali
+31.3242
+77.8738
+Debris
+Slide
+NA
+5007
+HP/MAN/53E03/2015/193
+Himachal Pradesh
+Mandi
+ 
+ 
+31.324264
+77.038188
+Debris
+Slide
+NA
+5008
+HP/BIL/53A15/2015/22
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.32443
+76.875179
+Debris
+Slide
+NA
+5009
+HP/MAN/53E03/2015/195
+Himachal Pradesh
+Mandi
+ 
+ 
+31.324472
+77.038111
+Debris
+Slide
+NA
+5010
+HP/BIL/53A15/2015/21
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.324769
+76.875025
+Debris
+Slide
+NA
+5011
+HP/MAN/53A15/2015/2
+Himachal Pradesh
+Mandi
+ 
+ 
+31.324927
+76.99688
+Debris
+Slide
+NA
+5012
+HP/SHI/53E15/2016/87
+Himachal Pradesh
+Shimla
+ 
+Near Hingori - NH 72 - Rohal 
+link road
+31.3251
+77.8701
+Debris
+Slide
+NA
+5013
+HP/MAN/53A15/2015/57
+Himachal Pradesh
+Mandi
+ 
+ 
+31.325217
+76.987676
+Debris
+Slide
+NA
+5014
+HP/SHI/53E07/2016/74
+Himachal Pradesh
+Shimla
+ 
+Khabar
+31.325444
+77.405056
+Rock
+Slide
+NA
+5015
+HP/MAN/53E03/2015/190
+Himachal Pradesh
+Mandi
+ 
+ 
+31.325518
+77.029832
+Debris
+Slide
+NA
+5016
+HP/SHI/53E07/2016/9
+Himachal Pradesh
+Shimla
+ 
+Khabar
+31.325833
+77.406139
+Debris
+Slide
+NA
+5017
+HP/MAN/53A15/2015/202
+Himachal Pradesh
+Mandi
+ 
+ 
+31.327597
+76.965616
+Debris
+Slide
+NA
+5018
+HP/MAN/53E03/2015/272
+Himachal Pradesh
+Mandi
+ 
+ 
+31.327806
+77.171861
+Rock
+Slide
+2015
+5019
+HP/SHI/53E07/2016/47
+Himachal Pradesh
+Shimla
+ 
+South of Chakhati
+31.329444
+77.611639
+Rock
+Slide
+NA
+5020
+HP/SHI/53E15/2016/78
+Himachal Pradesh
+Shimla
+ 
+Near Rohal - NH-72-Rohal link 
+road
+31.3303
+77.8958
+Debris
+Slide
+NA
+5021
+HP/BIL/53A15/2015/173
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.33075
+76.771222
+Debris
+Slide
+NA
+5022
+HP/SOL/53A15/2015/162
+Himachal Pradesh
+Solan
+ 
+ 
+31.330794
+76.935997
+Debris
+Slide
+NA
+5023
+HP/SHI/53E07/2016/2
+Himachal Pradesh
+Shimla
+ 
+Kingal
+31.331278
+77.41675
+Rock
+Slide
+NA

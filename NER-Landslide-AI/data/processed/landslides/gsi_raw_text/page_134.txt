@@ -1,0 +1,510 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+5515
+HP/SHI/53E15/2016/69
+Himachal Pradesh
+Shimla
+ 
+Near Kunni village- Rampur -
+Mishnu road
+31.4741
+77.7884
+Debris
+Slide
+NA
+5516
+HP/BIL/53A11/2018/36
+Himachal Pradesh
+Bilaspur
+ 
+Glasy
+31.47428
+76.70677
+Debris
+Slide
+NA
+5517
+HP/SHI/53E15/2016/84
+Himachal Pradesh
+Shimla
+ 
+Left bank of Buri Khad, near 
+Phunja
+31.4753
+77.7623
+Debris
+Slide
+2014
+5518
+HP/MAN/53A15/2015/181
+Himachal Pradesh
+Mandi
+ 
+ 
+31.475778
+76.935939
+Debris
+Slide
+NA
+5519
+HP/MAN/53A15/2015/180
+Himachal Pradesh
+Mandi
+ 
+ 
+31.475922
+76.935669
+Debris
+Slide
+NA
+5520
+HP/MAN/53A15/2015/143
+Himachal Pradesh
+Mandi
+ 
+ 
+31.476072
+76.972735
+Debris
+Slide
+NA
+5521
+HP/SHI/53E15/2016/106
+Himachal Pradesh
+Shimla
+ 
+Near Pithwi road
+31.4762
+77.7887
+Debris
+Slide
+2014
+5522
+HP/SHI/53E15/2016/105
+Himachal Pradesh
+Shimla
+ 
+Near Pithwi road
+31.4763
+77.7885
+Debris
+Slide
+2014
+5523
+HP/MAN/53A15/2015/221
+Himachal Pradesh
+Mandi
+ 
+ 
+31.476556
+76.982306
+Rock
+Fall
+NA
+5524
+HP/MAN/53A15/2015/264
+Himachal Pradesh
+Mandi
+ 
+ 
+31.476583
+76.866306
+Debris
+Slide
+2015
+5525
+HP/SHI/53E15/2016/83
+Himachal Pradesh
+Shimla
+ 
+Left bank of Manglad Khad, 
+near Phunja
+31.4769
+77.7635
+Debris
+Slide
+2008
+5526
+HP/BIL/53A11/2018/31
+Himachal Pradesh
+Bilaspur
+ 
+Palsoti
+31.476992
+76.726122
+Debris
+Slide
+NA
+5527
+HP/SHI/53E11/2016/19
+Himachal Pradesh
+Shimla
+ 
+Brauni, NH-05
+31.477056
+77.685139
+Rock
+Slide
+NA
+5528
+HP/SHI/53E15/2016/82
+Himachal Pradesh
+Shimla
+ 
+Left bank of Manglad Khad, 
+near Phunja
+31.4771
+77.7644
+Debris
+Slide
+2008
+5529
+HP/MAN/53E03/2015/150
+Himachal Pradesh
+Mandi
+ 
+ 
+31.478056
+77.021111
+Debris
+Slide
+NA
+5530
+HP/BIL/53A11/2018/46
+Himachal Pradesh
+Bilaspur
+ 
+Paniala
+31.478496
+76.726436
+Rock
+Slide
+NA
+5531
+HP/MAN/53E03/2015/155
+Himachal Pradesh
+Mandi
+ 
+ 
+31.478507
+77.104096
+Debris
+Slide
+NA
+5532
+HP/MAN/53A15/2015/178
+Himachal Pradesh
+Mandi
+ 
+ 
+31.47898
+76.936939
+Debris
+Slide
+NA
+5533
+HP/MAN/53A15/2015/107
+Himachal Pradesh
+Mandi
+ 
+ 
+31.479778
+76.978167
+Rock
+Slide
+NA
+5534
+HP/SHI/53E15/2016/81
+Himachal Pradesh
+Shimla
+ 
+Left bank of Manglad Khad
+31.4801
+77.7633
+Debris
+Slide
+2008
+5535
+HP/MAN/53A15/2015/216
+Himachal Pradesh
+Mandi
+ 
+ 
+31.480139
+76.978667
+Rock
+Slide
+NA
+5536
+HP/MAN/53A15/2015/218
+Himachal Pradesh
+Mandi
+ 
+ 
+31.480333
+76.979556
+Rock
+Slide
+NA
+5537
+HP/SHI/53E15/2016/48
+Himachal Pradesh
+Shimla
+ 
+Mashnu - Gharat road
+31.4809
+77.7807
+Debris
+Fall
+NA
+5538
+HP/MAN/53E03/2015/327
+Himachal Pradesh
+Mandi
+ 
+ 
+31.481389
+77.016111
+Debris
+Slide
+2015
+5539
+HP/SHI/53E15/2016/64
+Himachal Pradesh
+Shimla
+ 
+Near Majehwali- Ratanpur road 31.4814
+77.7521
+Debris
+Slide
+2011
+5540
+HP/SHI/53E15/2016/33
+Himachal Pradesh
+Shimla
+ 
+Near Majehwali, Left bank of 
+Manglad Khad
+31.4815
+77.7654
+Debris
+Slide
+2008
+5541
+HP/MAN/53A15/2015/262
+Himachal Pradesh
+Mandi
+ 
+ 
+31.482194
+76.871361
+Rock
+Slide
+NA
+5542
+HP/MAN/53A15/2015/263
+Himachal Pradesh
+Mandi
+ 
+ 
+31.482194
+76.871361
+Rock
+Slide
+2015
+5543
+HP/BIL/53A11/2018/18
+Himachal Pradesh
+Bilaspur
+ 
+Harlog link road
+31.482253
+76.748987
+Rock
+Slide
+NA
+5544
+HP/SHI/53E11/2016/92
+Himachal Pradesh
+Shimla
+ 
+Jhakri
+31.482278
+77.694694
+Debris
+Slide
+NA
+5545
+HP/MAN/53E03/2015/324
+Himachal Pradesh
+Mandi
+ 
+ 
+31.482333
+77.023342
+Rock
+Slide
+NA
+5546
+HP/SHI/53E15/2016/46
+Himachal Pradesh
+Shimla
+ 
+Mashnu - Gharat road
+31.4825
+77.7813
+Debris
+Slide
+2013
+5547
+HP/SHI/53E15/2016/100
+Himachal Pradesh
+Shimla
+ 
+Near Pithwi road
+31.4835
+77.7861
+Debris
+Slide
+2013
+5548
+HP/SHI/53E15/2016/97
+Himachal Pradesh
+Shimla
+ 
+Near Pithwi road
+31.4836
+77.787
+Debris
+Slide
+2013
+5549
+HP/MAN/53E03/2015/157
+Himachal Pradesh
+Mandi
+ 
+ 
+31.483613
+77.097351
+Debris
+Slide
+NA
+5550
+HP/MAN/53A15/2015/222
+Himachal Pradesh
+Mandi
+ 
+ 
+31.483667
+76.979833
+Rock
+Slide
+NA
+5551
+HP/SHI/53E11/2016/28
+Himachal Pradesh
+Shimla
+ 
+Jhakri
+31.483722
+77.69425
+Rock
+Slide
+NA
+5552
+HP/MAN/53A15/2015/223
+Himachal Pradesh
+Mandi
+ 
+ 
+31.4839
+76.980944
+Rock
+Slide
+NA
+5553
+HP/SHI/53E15/2016/101
+Himachal Pradesh
+Shimla
+ 
+Near Pithwi road
+31.4839
+77.7868
+Debris
+Slide
+2013
+5554
+HP/SHI/53E15/2016/102
+Himachal Pradesh
+Shimla
+ 
+Near Pithwi road
+31.4841
+77.7875
+Debris
+Slide
+2014
+5555
+HP/SHI/53E11/2016/91
+Himachal Pradesh
+Shimla
+ 
+Jhakri
+31.484361
+77.693722
+Rock
+Slide
+NA
+5556
+HP/SHI/53E15/2016/104
+Himachal Pradesh
+Shimla
+ 
+Near Pithwi road
+31.4844
+77.7895
+Debris
+Slide
+2014
+5557
+HP/SHI/53E15/2016/32
+Himachal Pradesh
+Shimla
+ 
+Near Majehwali - Ratanpur road 31.4846
+77.7646
+Debris
+Slide
+2014
+5558
+HP/BIL/53A11/2018/23
+Himachal Pradesh
+Bilaspur
+ 
+Near Harlog village
+31.484872
+76.749791
+Rock
+Slide
+NA
+5559
+HP/SHI/53E15/2016/103
+Himachal Pradesh
+Shimla
+ 
+Near Pithwi road
+31.4849
+77.7896
+Debris
+Slide
+2014

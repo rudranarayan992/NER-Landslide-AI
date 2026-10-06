@@ -1,0 +1,376 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30211
+WB/DAR/78A04/2015/1252
+West Bengal
+Darjeeling
+ 
+RAMMAM ADIRT-3 SHAFT
+27.120481
+88.210434
+Debris
+Slide
+2015
+30212
+WB/DAR/78A04/2015/1251
+West Bengal
+Darjeeling
+ 
+RAMMAM ADIRT-3 SHAFT
+27.120806
+88.209778
+Debris
+Slide
+2015
+30213
+WB/DAR/78A08/2015/58
+West Bengal
+Darjeeling
+NH-31A 42.30 km from Sevok towards 
+Gangtok
+42.30 km from Sevok on NH-
+31A towards  Gangtok
+27.12092
+88.499225
+Rock
+Slide
+2007
+30214
+WB/DAR/78A08/2015/1525
+West Bengal
+Darjeeling
+LOWER SANTUK
+LOWER SANTUK,SW OF MIRIK
+27.120961
+88.499189
+Debris
+Slide
+2015
+30215
+WB/DARJ/78A08/2011/0297
+West Bengal
+Darjeeling
+ 
+NH31A
+27.121
+88.487
+Debris
+Slide
+2011
+30216
+WB/DAR/78A16/2015/302
+West Bengal
+Darjeeling
+KIRING
+KIRING CHU
+27.1211
+88.776267
+Debris
+Slide
+2011
+30217
+WB/DAR/78A08/2021/PDLS/24
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12117427
+88.29417176
+Rock
+Slide
+October 2021
+30218
+WB/DAR/78A08/2021/PDLS/23
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12140427
+88.3073499
+Debris
+Slide
+October 2021
+30219
+WB/DAR/78A04/2015/1263
+West Bengal
+Darjeeling
+ 
+RIMBIK
+27.121694
+88.104833
+Debris
+Subsidence
+2014
+30220
+WB/DAR/78A04/2015/1214
+West Bengal
+Darjeeling
+ 
+KOLBONG
+27.121722
+88.189028
+Rock
+Slide
+2014
+30221
+WB/DAR/78A16/2015/301
+West Bengal
+Darjeeling
+KIRING
+KIRING CHU
+27.121766
+88.774996
+Debris
+Slide
+2011
+30222
+WB/DAR/78A08/2021/PDLS/24
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12176842
+88.29532869
+Rock
+Slide
+October 2021
+30223
+WB/DAR/78A08/2021/PDLS/24
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12182993
+88.29551099
+Rock
+Slide
+October 2021
+30224
+WB/DAR/78A12/2015/1288
+West Bengal
+Darjeeling
+ 
+LIBUNG ROAD
+27.121972
+88.675806
+Debris
+Slide
+2014
+30225
+WB/DARJ/78A08/2007/0302
+West Bengal
+Darjeeling
+ 
+42.30 km from Sevok on NH-
+31A towards Gangtok
+27.122
+88.496
+Rock
+Slide
+NA
+30226
+WB/DAR/78A08/2015/116
+West Bengal
+Darjeeling
+NH-31A 40.25 Km from Sevok(Tiger 
+Bridge) towards  Gangtok
+NH31A
+27.122093
+88.49134
+Debris
+Slide
+2011
+30227
+WB/DAR/78A12/2015/217
+West Bengal
+Darjeeling
+NH-31A_ 42.8 Km
+NH31A
+27.122285
+88.501597
+Rock
+Slide
+2010
+30228
+WB/DAR/78A08/2021/PDLS/24
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12260292
+88.29587299
+Debris
+Slide
+October 2021
+30229
+WB/DAR/78A12/2015/247
+West Bengal
+Darjeeling
+Sagsey Phatak road
+Sagsey Phatak road
+27.122652
+88.528893
+Debris
+Slide
+2013
+30230
+WB/DAR/78A04/2021/PDLS/94
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12288593
+88.10430026
+Debris
+Slide
+October 2021
+30231
+WB/DAR/78A08/2021/PDLS/37
+6
+West Bengal
+Kalimpong
+N/A
+N/A
+27.12289247
+88.49814726
+Debris
+Slide
+October 2021
+30232
+WB/DAR/78A08/2015/57
+West Bengal
+Darjeeling
+NH-31A 41.75 km from Sevok towards 
+Gangtok
+41.75 km from Sevok on NH-
+31A towards  Gangtok
+27.122979
+88.493949
+Debris
+Flow
+2007
+30233
+WB/DAR/78A08/2021/PDLS/24
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12331896
+88.29653701
+Debris
+Slide
+October 2021
+30234
+WB/DAR/78A08/2015/56
+West Bengal
+Darjeeling
+NH-31A 41.10 km from Sevok towards 
+Gangtok
+41.10 km from Sevok on NH-
+31A towards  Gangtok
+27.123434
+88.49125
+Debris
+Slide
+2007
+30235
+WB/DAR/78A08/2021/PDLS/23
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12344495
+88.29657881
+Debris
+Slide
+October 2021
+30236
+WB/DAR/78A04/2021/PDLS/96
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12351621
+88.10450824
+Debris
+Slide
+October 2021
+30237
+WB/DAR/78A12/2015/213
+West Bengal
+Darjeeling
+1.5 km from Algara on Algara-Rishi 
+road
+1.5 km from Algara on Algara-
+Rishi road
+27.123611
+88.587719
+Debris
+Subsidence
+2009
+30238
+WB/DAR/78A08/2015/52
+West Bengal
+Darjeeling
+NH-31A 40.30 km from Sevok  
+towards  Gangtok
+40.30 km from Sevok on NH-
+31A towards  Gangtok
+27.123668
+88.490259
+Debris
+Slide
+2007
+30239
+WB/DAR/78A04/2021/PDLS/95
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12405172
+88.1041402
+Debris
+Slide
+October 2021
+30240
+WB/DAR/78A08/2021/PDLS/23
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.12419744
+88.2981815
+Debris
+Slide
+October 2021
+30241
+WB/DAR/78A08/2015/53
+West Bengal
+Darjeeling
+NH-31A 40.60 km from Sevok towards 
+Gangtok
+40.60 km from Sevok on NH-
+31A towards  Gangtok
+27.124333
+88.490674
+Debris
+Flow
+2007

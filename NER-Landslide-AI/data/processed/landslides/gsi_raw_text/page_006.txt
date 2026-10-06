@@ -1,0 +1,337 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+187
+AS/DIH/83G08/2020/15
+Assam
+Dima Hasao
+ 
+Data recorded from Hejaichak 
+to Hangrum road
+25.17
+93.36
+Rock
+Slide
+NA
+188
+AS/DIH/83G08/2020/46
+Assam
+Dima Hasao
+ 
+Along Jenam river, Laisong area 25.17
+93.29
+Debris
+Slide
+NA
+189
+ASM/DH/83G4/2016/12
+Assam
+Dima Hasao
+Huonveng, N.D Raji-3
+N.D Raji (Hmar)village, Haflong
+25.171889
+93.003944
+Debris
+Slide
+2016
+190
+ASM/DH/83G4/2016/11
+Assam
+Dima Hasao
+N.D Raji (Hamar)-2
+N.D Raji (Hamar)village, Haflong 25.175056
+93.020417
+Debris
+Slide
+2016
+191
+ASM/DH/83G4/2016/10
+Assam
+Dima Hasao
+N.D Raji.-1
+N.D Raji village, Haflong
+25.175972
+93.020167
+Debris
+Slide
+2016
+192
+ASM/DH/83G4/2016/23
+Assam
+Dima Hasao
+Mahur
+Mahur
+25.176389
+93.116139
+Debris
+Slide
+2016
+193
+ASM/DH/83G4/2016/08
+Assam
+Dima Hasao
+Khongsai slide- 2
+Khongsai village, Haflong
+25.176917
+93.026556
+Earth
+Slide
+2014
+194
+ASM/DH/83G4/2016/09
+Assam
+Dima Hasao
+Muolhoi /Gilgal
+Muolhoi /Gilgal village, Haflong 25.177028
+93.020889
+Earth
+Slide
+2016
+195
+ASM/DH/83G4/2016/05
+Assam
+Dima Hasao
+Khongsai slide-1
+Khongsai village, Haflong
+25.1775
+93.026222
+Earth
+Slide
+2014
+196
+ASM/DH/83G4/2016/01
+Assam
+Dima Hasao
+Migrendisa slide
+Near Migrendisa Railway 
+Station, Migrendisa
+25.179861
+93.070778
+Debris
+Slide
+2016
+197
+AS/DIH/83G08/2020/14
+Assam
+Dima Hasao
+ 
+Data recorded from Hejaichak 
+to Hangrum road
+25.18
+93.33
+Debris
+Slide
+NA
+198
+AS/DIH/83G08/2020/39
+Assam
+Dima Hasao
+ 
+Along Jenam river, Laisong area 25.18
+93.3
+Rock
+Slide
+NA
+199
+AS/DIH/83G08/2020/41
+Assam
+Dima Hasao
+ 
+Along Jenam river, Laisong area 25.18
+93.3
+Debris
+Slide
+NA
+200
+AS/DIH/83G08/2020/42
+Assam
+Dima Hasao
+ 
+Along Jenam river, Laisong area 25.18
+93.3
+Debris
+Slide
+NA
+201
+ASM/DH/83G4/2016/20
+Assam
+Dima Hasao
+Newngalsong
+Newngalsong village, Mahur
+25.184528
+93.125639
+Debris
+Slide
+2016
+202
+AS/DIM/83G4/2015/62
+Assam
+Dima Hasao
+Phaeding-Sunbung Subsidence
+8.5 km from Mahur; NH-54
+25.186
+93.104
+Earth
+Slide
+2014
+203
+ASM/DH/83G4/2016/21
+Assam
+Dima Hasao
+Heuwangaberam-2
+Heuwangaberam village, Mahur 25.18725
+93.120556
+Debris
+Slide
+2016
+204
+AS/DIM/83G4/2015/63
+Assam
+Dima Hasao
+Bara-wapu village subsidence
+South of Bara-wapu village on 
+NH-54
+25.188
+93.066
+Earth
+Slide
+2014
+205
+ASM/DH/83G4/2016/41
+Assam
+Dima Hasao
+Lower Haflong slide (Haflong – 
+Gunjung road-12)
+Haflong – Gunjung road section, 
+Lower Haflong
+25.188444
+93.019667
+Rock cum Debris
+Slide
+2016
+206
+AS/DIM/83G4/2015/37
+Assam
+Dima Hasao
+Asalu slide
+Laisong road, Asalu.
+25.189
+93.192
+Earth
+Slide
+NA
+207
+AS/DIM/83G4/2015/38
+Assam
+Dima Hasao
+Impoi
+Near Impoi village, Laisong road 25.189
+93.226
+Earth
+Slide
+NA
+208
+ASM/DH/83G4/2016/53
+Assam
+Dima Hasao
+Mahur railway station slide
+Mahur railway station, Haflong
+25.189556
+93.096417
+Debris
+Slide
+2016
+209
+AS/DIM/83G4/2015/40
+Assam
+Dima Hasao
+Asalu-3
+Asalu,SH
+25.19
+93.191
+Earth
+Slide
+NA
+210
+AS/DIH/83G08/2020/34
+Assam
+Dima Hasao
+ 
+Along Jenam river, Laisong area 25.19
+93.3
+Rock
+Slide
+NA
+211
+AS/DIH/83G08/2020/40
+Assam
+Dima Hasao
+ 
+Along Jenam river, Laisong area 25.19
+93.3
+Rock
+Slide
+NA
+212
+AS/DIH/83G08/2020/44
+Assam
+Dima Hasao
+ 
+Along Jenam river, Laisong area 25.19
+93.3
+Rock
+Fall
+NA
+213
+AS/DIM/83G4/2015/39
+Assam
+Dima Hasao
+Asalu-2
+Asalu,NH-54
+25.191
+93.192
+Earth
+Slide
+NA
+214
+ASM/DH/83G4/2016/22
+Assam
+Dima Hasao
+Heuwangaberam-3
+Heuwangaberam village, Mahur 25.193083
+93.120417
+Earth
+Slide
+2016
+215
+ASM/DH/83G4/2016/40
+Assam
+Dima Hasao
+Lungkok slide (Haflong – Gunjung road
+11)
+Haflong – Gunjung road section, 
+Lungkok village, Lower Haflong
+25.196694
+93.018583
+Rock cum Debris
+Slide
+2016
+216
+ASM/DH/83G4/2016/39
+Assam
+Dima Hasao
+Haflong-Gunjung road section slide-10 Lower Haflong
+25.199722
+93.016722
+Debris
+Slide
+2016

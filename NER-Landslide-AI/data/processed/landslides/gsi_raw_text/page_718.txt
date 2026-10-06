@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28292
+WB/JAL/78F10/2015/941
+West Bengal
+Jalpaiguri
+ 
+ 
+26.69688
+89.66714
+Rock cum Debris
+Slide
+NA
+28293
+WB/JAL/78F10/2015/942
+West Bengal
+Jalpaiguri
+ 
+ 
+26.697002
+89.67145
+Rock
+Slide
+NA
+28294
+WB/JAL/78F10/2015/943
+West Bengal
+Jalpaiguri
+ 
+ 
+26.697469
+89.674282
+Rock
+Slide
+NA
+28295
+WB/JAL/78F10/2015/944
+West Bengal
+Jalpaiguri
+ 
+ 
+26.697605
+89.668823
+Debris
+Slide
+2014
+28296
+WB/JAL/78F10/2015/946
+West Bengal
+Jalpaiguri
+ 
+ 
+26.697787
+89.674596
+Debris
+Slide
+NA
+28297
+WB/JAL/78F10/2015/945
+West Bengal
+Jalpaiguri
+ 
+ 
+26.698006
+89.66996
+Debris
+Slide
+NA
+28298
+WB/JAL/78F10/2015/947
+West Bengal
+Jalpaiguri
+ 
+ 
+26.698105
+89.667295
+Debris
+Slide
+2014
+28299
+WB/JAL/78F10/2015/948
+West Bengal
+Jalpaiguri
+ 
+ 
+26.698316
+89.670491
+Debris
+Slide
+NA
+28300
+WB/JAL/78F10/2015/949
+West Bengal
+Jalpaiguri
+ 
+ 
+26.698583
+89.651431
+Debris
+Slide
+NA
+28301
+WB/JAL/78F10/2015/950
+West Bengal
+Jalpaiguri
+ 
+ 
+26.698909
+89.653895
+Rock cum Debris
+Slide
+NA
+28302
+WB/JAL/78F10/2015/951
+West Bengal
+Jalpaiguri
+ 
+ 
+26.6992
+89.650526
+Debris
+Slide
+2014
+28303
+WB/JAL/78F10/2015/952
+West Bengal
+Jalpaiguri
+ 
+ 
+26.699344
+89.653041
+Rock cum Debris
+Slide
+NA
+28304
+WB/JAL/78F10/2015/953
+West Bengal
+Jalpaiguri
+ 
+ 
+26.699356
+89.654357
+Debris
+Slide
+2013
+28305
+WB/JAL/78F10/2015/954
+West Bengal
+Jalpaiguri
+ 
+ 
+26.699995
+89.648509
+Debris
+Slide
+2013
+28306
+WB/JAL/78F10/2015/955
+West Bengal
+Jalpaiguri
+ 
+ 
+26.700549
+89.659279
+Rock cum Debris
+Slide
+NA
+28307
+WB/JAL/78F10/2015/957
+West Bengal
+Jalpaiguri
+ 
+ 
+26.701042
+89.678464
+Rock cum Debris
+Slide
+NA
+28308
+WB/JAL/78F10/2015/960
+West Bengal
+Jalpaiguri
+ 
+ 
+26.701219
+89.675059
+Rock cum Debris
+Slide
+NA
+28309
+WB/JAL/78F10/2015/956
+West Bengal
+Jalpaiguri
+ 
+ 
+26.701246
+89.658041
+Rock cum Debris
+Slide
+NA
+28310
+WB/JAL/78F10/2015/958
+West Bengal
+Jalpaiguri
+ 
+ 
+26.701294
+89.663877
+Rock cum Debris
+Slide
+NA
+28311
+WB/JAL/78F10/2015/961
+West Bengal
+Jalpaiguri
+ 
+ 
+26.701309
+89.659413
+Rock cum Debris
+Slide
+NA
+28312
+WB/JAL/78F10/2015/959
+West Bengal
+Jalpaiguri
+ 
+ 
+26.701441
+89.650072
+Debris
+Slide
+2014
+28313
+WB/JAL/78F10/2015/962
+West Bengal
+Jalpaiguri
+ 
+ 
+26.701824
+89.675453
+Debris
+Slide
+NA
+28314
+WB/JAL/78F10/2015/966
+West Bengal
+Jalpaiguri
+ 
+ 
+26.702077
+89.652196
+Rock cum Debris
+Slide
+NA
+28315
+WB/JAL/78F10/2015/964
+West Bengal
+Jalpaiguri
+ 
+ 
+26.702313
+89.678524
+Debris
+Slide
+NA
+28316
+WB/JAL/78F10/2015/963
+West Bengal
+Jalpaiguri
+ 
+ 
+26.702347
+89.659185
+Debris
+Slide
+2014
+28317
+WB/JAL/78F10/2015/965
+West Bengal
+Jalpaiguri
+ 
+ 
+26.702468
+89.671815
+Rock cum Debris
+Slide
+NA
+28318
+WB/JAL/78F10/2015/968
+West Bengal
+Jalpaiguri
+ 
+ 
+26.70289
+89.677054
+Debris
+Slide
+2014
+28319
+WB/JAL/78F10/2015/967
+West Bengal
+Jalpaiguri
+ 
+ 
+26.703096
+89.650709
+Rock cum Debris
+Slide
+NA
+28320
+WB/JAL/78F10/2015/969
+West Bengal
+Jalpaiguri
+ 
+ 
+26.703216
+89.658846
+Debris
+Slide
+NA
+28321
+WB/JAL/78F10/2015/970
+West Bengal
+Jalpaiguri
+ 
+ 
+26.70396
+89.649095
+Debris
+Slide
+2014
+28322
+WB/JAL/78F10/2015/971
+West Bengal
+Jalpaiguri
+ 
+ 
+26.704352
+89.658239
+Rock cum Debris
+Slide
+NA
+28323
+WB/JAL/78F10/2015/973
+West Bengal
+Jalpaiguri
+ 
+ 
+26.704778
+89.651846
+Debris
+Slide
+NA
+28324
+WB/JAL/78F10/2015/972
+West Bengal
+Jalpaiguri
+ 
+ 
+26.70484
+89.659596
+Debris
+Slide
+2013
+28325
+WB/JAL/78F10/2015/974
+West Bengal
+Jalpaiguri
+ 
+ 
+26.706079
+89.650296
+Debris
+Slide
+NA
+28326
+WB/JAL/78F10/2015/975
+West Bengal
+Jalpaiguri
+ 
+ 
+26.706854
+89.652206
+Debris
+Slide
+NA
+28327
+WB/JAL/78F10/2015/976
+West Bengal
+Jalpaiguri
+ 
+ 
+26.708221
+89.632295
+Rock
+Slide
+NA
+28328
+WB/JAL/78F10/2015/977
+West Bengal
+Jalpaiguri
+ 
+ 
+26.708497
+89.668387
+Debris
+Slide
+NA
+28329
+WB/JAL/78F10/2015/978
+West Bengal
+Jalpaiguri
+ 
+ 
+26.70946
+89.652984
+Rock cum Debris
+Slide
+NA
+28330
+WB/JAL/78F10/2015/979
+West Bengal
+Jalpaiguri
+ 
+ 
+26.709626
+89.659863
+Rock cum Debris
+Slide
+NA
+28331
+WB/JAL/78F10/2015/980
+West Bengal
+Jalpaiguri
+ 
+ 
+26.710025
+89.693916
+Rock cum Debris
+Slide
+NA
+28332
+WB/JAL/78F10/2015/981
+West Bengal
+Jalpaiguri
+ 
+ 
+26.710136
+89.692256
+Rock cum Debris
+Slide
+NA
+28333
+WB/JAL/78F10/2015/982
+West Bengal
+Jalpaiguri
+ 
+ 
+26.71038
+89.677369
+Debris
+Slide
+NA
+28334
+WB/JAL/78F10/2015/983
+West Bengal
+Jalpaiguri
+ 
+ 
+26.712434
+89.696872
+Debris
+Slide
+2013
+28335
+WB/JAL/78F10/2015/985
+West Bengal
+Jalpaiguri
+ 
+ 
+26.712827
+89.673175
+Debris
+Slide
+2010
+28336
+WB/JAL/78F10/2015/984
+West Bengal
+Jalpaiguri
+ 
+ 
+26.71284
+89.650234
+Debris
+Slide
+2010
+28337
+WB/JAL/78F10/2015/986
+West Bengal
+Jalpaiguri
+ 
+ 
+26.713313
+89.631301
+Debris
+Slide
+2013
+28338
+WB/JAL/78F10/2015/987
+West Bengal
+Jalpaiguri
+ 
+ 
+26.713646
+89.630723
+Debris
+Slide
+2014
+28339
+WB/JAL/78F10/2015/988
+West Bengal
+Jalpaiguri
+ 
+ 
+26.714688
+89.627454
+Rock cum Debris
+Slide
+NA
+28340
+WB/JAL/78F10/2015/989
+West Bengal
+Jalpaiguri
+ 
+ 
+26.714744
+89.629594
+Rock cum Debris
+Slide
+2013
+28341
+WB/JAL/78F10/2015/990
+West Bengal
+Jalpaiguri
+ 
+ 
+26.715021
+89.695249
+Debris
+Slide
+2014
+28342
+WB/JAL/78F10/2015/991
+West Bengal
+Jalpaiguri
+ 
+ 
+26.71572
+89.693802
+Debris
+Slide
+NA

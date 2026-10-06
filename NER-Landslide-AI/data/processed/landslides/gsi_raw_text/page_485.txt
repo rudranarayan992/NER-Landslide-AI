@@ -1,0 +1,415 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+19646
+MEG/WJH/83C4/2016/70
+Meghalaya
+East Jaintia Hills
+0.85 km NE of Kuliang
+NH44
+25.075167
+92.370953
+Debris
+Slide
+2014
+19647
+MEG/WJH/83C4/2016/97
+Meghalaya
+East Jaintia Hills
+Kuliang
+NH44
+25.075567
+92.363317
+Debris
+Slide
+2014
+19648
+MEG/WJH/83C4/2016/98
+Meghalaya
+East Jaintia Hills
+0.69 km N of Kuliang
+NH44
+25.079
+92.361667
+Rock
+Slide
+2015
+19649
+MEG/WJH/83C4/2016/102
+Meghalaya
+East Jaintia Hills
+0.79 km W of Kuliang
+NH44
+25.079028
+92.359111
+Rock
+Slide
+2014
+19650
+MEG/WJH/83C4/2016/101
+Meghalaya
+East Jaintia Hills
+0.8 km Wof Kuliang
+NH44
+25.079722
+92.359361
+Debris
+Slide
+2013
+19651
+MEG/WJH/83C4/2016/100
+Meghalaya
+East Jaintia Hills
+1 km NNW of Kuliang
+NH44
+25.081381
+92.359972
+Debris
+Slide
+2014
+19652
+MEG/WJH/83C4/2016/72
+Meghalaya
+East Jaintia Hills
+1.16 km NNE of Kuliang
+NH44
+25.083061
+92.360322
+Debris
+Slide
+2015
+19653
+MEG/WJH/83C4/2016/99
+Meghalaya
+East Jaintia Hills
+1.18 km NNW of Kuliang
+NH44
+25.083361
+92.361083
+Debris
+Slide
+2016
+19654
+MEG/WJH/83C4/2016/114
+Meghalaya
+East Jaintia Hills
+4.76 km SSW of Sonapyrdi
+Approach road Sonapur to 
+Chapalong (right bank of Lubha 
+river)
+25.084611
+92.335667
+Rock
+Slide
+2016
+19655
+MEGH/JH/83C08/2007/D-16
+Meghalaya
+Jaintia Hills
+Near Sonapur slide
+Roads (NH - 44)
+25.08586
+92.35869
+Rock
+Slide
+27August 2007
+19656
+MEG/WJH/83C4/2016/103
+Meghalaya
+East Jaintia Hills
+0.67 km SE of Sonapur mandir
+NH44
+25.087917
+92.357906
+Rock
+Slide
+2014
+19657
+MEG/WJH/83C4/2016/65
+Meghalaya
+East Jaintia Hills
+0.37 km NE of Sonapur mandir
+NH44
+25.091361
+92.356889
+Rock
+Slide
+2016
+19658
+MEG/EJH/83CO8/2018/01
+Meghalaya
+East Jaintia Hills
+Sonapur 4km mile stone
+NH-6
+25.09178
+92.35469
+Rock
+Slide
+07 May 2018
+19659
+MEG/WJH/83C4/2016/64
+Meghalaya
+East Jaintia Hills
+0.59 km NE of Sonapur
+NH44
+25.092083
+92.35925
+Rock
+Composite
+2016
+19660
+MEG/WJH/83C4/2016/66
+Meghalaya
+East Jaintia Hills
+Sonapur mandir 1
+NH44
+25.092178
+92.353564
+Rock cum Debris
+Slide
+2014
+19661
+MEG/WJH/83C4/2016/67
+Meghalaya
+East Jaintia Hills
+Sonapur mandir 2
+NH44
+25.092981
+92.353708
+Debris
+Slide
+2015
+19662
+MEG/WJH/83C4/2016/113
+Meghalaya
+East Jaintia Hills
+3.23 km SSW of Sonapyrdi
+Approach road Sonapur to 
+Chapalong (right bank of Lubha 
+river)
+25.093078
+92.348025
+Rock
+Slide
+2016
+19663
+MEG/WJH/83C4/2016/112
+Meghalaya
+East Jaintia Hills
+2.91 km SSW of Sonapyrdi
+Approach road Sonapur to 
+Chapalong (right bank of Lubha 
+river)
+25.095131
+92.350111
+Rock
+Slide
+2014
+19664
+MEG/WJH/83C4/2016/111
+Meghalaya
+East Jaintia Hills
+2.47 km SSW of Sonapyrdi
+Approach road Sonapur to 
+Chapalong (right bank of Lubha 
+river)
+25.096592
+92.351017
+Debris
+Slide
+2016
+19665
+MEG/WJH/83C4/2016/104
+Meghalaya
+East Jaintia Hills
+0.70 km NNW of Sonapur mandir
+NH44
+25.097997
+92.355972
+Debris
+Slide
+2015
+19666
+MEG/WJH/83C4/2016/140
+Meghalaya
+East Jaintia Hills
+Sonapur Landslide
+NH44
+25.104417
+92.365028
+Rock
+Slide
+1989
+19667
+MEG/WJH/83C4/2016/110
+Meghalaya
+East Jaintia Hills
+2.01 km SW of Sonapyrdi
+Approach road Sonapur to 
+Chapalong (right bank of Lubha 
+river)
+25.111331
+92.351128
+Debris
+Slide
+NA
+19668
+MEG/WJH/83C4/2016/109
+Meghalaya
+East Jaintia Hills
+2.09 km SW of Sonapyrdi
+Approach road Sonapur to 
+Chapalong (right bank of Lubha 
+river)
+25.112806
+92.350194
+Debris
+Slide
+2016
+19669
+MG/EJH/2018/83CO8/01
+Meghalaya
+East Jaintia Hills
+Sonapur 4km mile stone
+NH6
+25.112861
+92.877556
+Rock
+Slide
+NA
+19670
+ML/EJH/83C08/2014/02
+Meghalaya
+East Jaintia Hills
+Sonapyrdi
+NH 44
+25.11303
+92.37394
+Debris
+Slide
+NA
+19671
+MEG/WJH/83C4/2016/108
+Meghalaya
+East Jaintia Hills
+2.06 km SW of Sonapyrdi
+Approach road Sonapur to 
+Chapalong (right bank of Lubha 
+river)
+25.113475
+92.350506
+Debris
+Slide
+2013
+19672
+MEG/WJH/83C4/2016/105
+Meghalaya
+East Jaintia Hills
+Sonapyrdi
+NH44
+25.113586
+92.370594
+Debris
+Slide
+2014
+19673
+MEG/WJH/83C4/2016/106
+Meghalaya
+East Jaintia Hills
+1.25 km SW of Sonapyrdi
+Approach road Sonapur to 
+Chapalong (right bank of Lubha 
+river)
+25.114997
+92.358378
+Debris
+Slide
+2014
+19674
+MEG/WJH/83C4/2016/107
+Meghalaya
+East Jaintia Hills
+1.47 km W of Sonapyrdi
+Approach road Sonapur to 
+Chapalong (right bank of Lubha 
+river)
+25.117453
+92.35705
+Debris
+Slide
+2015
+19675
+MEGH/JH/83C08/2007/D-23
+Meghalaya
+Jaintia Hills
+Sonapur slide
+NH-44
+25.12186
+92.388583
+NA
+Flow
+31 July 2007
+19676
+MEG/WJH/83C4/2016/137
+Meghalaya
+East Jaintia Hills
+4.50km SE of Lympyngngad
+┬á
+25.122381
+92.243069
+Debris
+Slide
+2016
+19677
+MEG/WJH/83C4/2016/115
+Meghalaya
+East Jaintia Hills
+2.31 km NE of Sonapyrdi
+NH44
+25.126972
+92.388083
+Debris
+Slide
+2016
+19678
+MEG/WJH/83C4/2016/116
+Meghalaya
+East Jaintia Hills
+2.48 km NE of Sonapyrdi
+NH44
+25.129169
+92.388306
+Rock
+Slide
+2016
+19679
+MEG/WJH/83C4/2016/136
+Meghalaya
+East Jaintia Hills
+2.23 km SE of Lympyngngad
+┬á
+25.133289
+92.225272
+Debris
+Slide
+2015
+19680
+MEG/WJH/83C4/2016/135
+Meghalaya
+East Jaintia Hills
+2.12 km SE of Lympyngngad
+ 
+25.133911
+92.222392
+Debris
+Slide
+2015

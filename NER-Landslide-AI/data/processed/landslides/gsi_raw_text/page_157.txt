@@ -1,0 +1,519 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+6604
+HP/KAN/53A01/2018/22
+Himachal Pradesh
+Kangra
+ 
+Dehra, NH 503
+31.86553
+76.228253
+Debris
+Slide
+NA
+6605
+HP/MAN/53A09/2018/52
+Himachal Pradesh
+Mandi
+ 
+Rajnagar- Kathla road
+31.865694
+76.744444
+Rock
+Slide
+NA
+6606
+HP/KAN/53A09/2018/53
+Himachal Pradesh
+Mandi
+ 
+Kothi -Ladbadhrol road
+31.865917
+76.738944
+Rock cum debris
+Slide
+NA
+6607
+HP/KAN/53A09/2018/54
+Himachal Pradesh
+Kangra
+ 
+Tiinbar-manjhoti
+31.866
+76.739389
+Rock
+Slide
+NA
+6608
+HP/MAN/53A13/2015/27
+Himachal Pradesh
+Mandi
+ 
+South of Palohan
+31.86601
+76.83952
+Debris
+Slide
+NA
+6609
+HP/KAN/53A09/2018/55
+Himachal Pradesh
+Kangra
+ 
+Tinbar-Molag road
+31.866083
+76.743917
+Rock cum debris
+Slide
+NA
+6610
+HP/MAN/53A13/2015/75
+Himachal Pradesh
+Mandi
+ 
+Narla, NH20, adjacent to S 192
+31.866125
+76.928814
+Rock
+Slide
+NA
+6611
+HP/MAN/53A13/2015/66
+Himachal Pradesh
+Mandi
+ 
+Narla, NH 20
+31.866255
+76.928302
+Debris
+Slide
+NA
+6612
+HP/MAN/53A13/2015/74
+Himachal Pradesh
+Mandi
+ 
+Narla, NH 20, 30m from S191 
+towards Joginder nagar
+31.866255
+76.928302
+Rock
+Slide
+NA
+6613
+HP/KAN/53A09/2018/56
+Himachal Pradesh
+Kangra
+ 
+SH 32
+31.867417
+76.511972
+Debris
+Slide
+NA
+6614
+HP/KAN/53A09/2018/57
+Himachal Pradesh
+Kangra
+ 
+ 
+31.86875
+76.511972
+Debris
+Slide
+NA
+6615
+HP/KAN/53A09/2018/58
+Himachal Pradesh
+Kangra
+ 
+ 
+31.868806
+76.516667
+Debris
+Slide
+NA
+6616
+HP/KAN/53A09/2018/59
+Himachal Pradesh
+Kangra
+ 
+ 
+31.869278
+76.513056
+Debris
+Slide
+NA
+6617
+HP/MAN/53A10/2018/24
+Himachal Pradesh
+Mandi
+ 
+NH-70
+31.869361
+76.576
+Debris
+Slide
+NA
+6618
+HP/MAN/53A09/2018/60
+Himachal Pradesh
+Mandi
+ 
+ 
+31.869417
+76.673056
+Debris
+Slide
+NA
+6619
+HP/MAN/53A13/2015/62
+Himachal Pradesh
+Mandi
+ 
+west of Kharion, NH 20
+31.87
+76.933
+Debris
+Slide
+NA
+6620
+HP/HAM/53A09/2018/61
+Himachal Pradesh
+Hamirpur
+ 
+SH-04
+31.870722
+76.519833
+Debris
+Slide
+NA
+6621
+HP/MAN/53A13/2015/63
+Himachal Pradesh
+Mandi
+ 
+west of Kharion, NH 20
+31.871
+76.933
+Debris
+Slide
+NA
+6622
+HP/MAN/53A13/2015/64
+Himachal Pradesh
+Mandi
+ 
+west of Kharion, NH 20
+31.871
+76.936
+Earth
+Slide
+NA
+6623
+HP/KUL/53E01/2015/48
+Himachal Pradesh
+Kullu
+ 
+NH21
+31.871722
+77.228056
+Rock
+Slide
+2013
+6624
+HP/MAN/53A09/2018/62
+Himachal Pradesh
+Mandi
+ 
+ 
+31.872083
+76.736556
+Rock
+Slide
+NA
+6625
+HP/HAM/53A09/2018/63
+Himachal Pradesh
+Hamirpur
+ 
+SH-04
+31.872444
+76.5195
+Debris
+Slide
+NA
+6626
+HP/MAN/53A09/2018/64
+Himachal Pradesh
+Mandi
+ 
+ 
+31.872944
+76.714139
+Debris
+Slide
+NA
+6627
+HP/KUL/53E01/2015/46
+Himachal Pradesh
+Kullu
+ 
+NH21
+31.873444
+77.234
+Rock cum debris
+Slide
+NA
+6628
+HP/MAN/53A13/2015/92
+Himachal Pradesh
+Mandi
+ 
+Makreri,SH 19,near hospital
+31.873806
+76.773139
+Debris
+Slide
+NA
+6629
+HP/KAN/53A09/2018/65
+Himachal Pradesh
+Kangra
+ 
+ 
+31.874667
+76.711361
+Rock cum debris
+Slide
+NA
+6630
+HP/MAN/53A09/2018/66
+Himachal Pradesh
+Mandi
+ 
+kothi- lad badhrol road
+31.874667
+76.622361
+Debris
+Slide
+NA
+6631
+HP/KAN/53A09/2018/67
+Himachal Pradesh
+Kangra
+ 
+Kadla - Tinbar road
+31.874861
+76.681417
+Debris
+Slide
+NA
+6632
+HP/MAN/53A13/2015/93
+Himachal Pradesh
+Mandi
+ 
+Makreri,SH 19,milestone 19
+31.875
+76.787
+Rock
+Slide
+NA
+6633
+HP/HAM/53A09/2018/68
+Himachal Pradesh
+Hamirpur
+ 
+Sivnagar - Kotlu road
+31.875
+76.587417
+Debris
+Slide
+NA
+6634
+HP/HAM/53A09/2018/69
+Himachal Pradesh
+Hamirpur
+ 
+SH04
+31.876306
+76.590139
+Debris
+Slide
+NA
+6635
+HP/MAN/53A13/2015/91
+Himachal Pradesh
+Mandi
+ 
+Makreri,SH 19
+31.876778
+76.778028
+Debris
+Slide
+NA
+6636
+HP/MAN/53A13/2015/90
+Himachal Pradesh
+Mandi
+ 
+Baraili,SH19
+31.877056
+76.778528
+Rock
+Slide
+NA
+6637
+HP/MAN/53A13/2015/76
+Himachal Pradesh
+Mandi
+ 
+Padhar,NH 20, 178 milestone
+31.877387
+76.917601
+Debris
+Slide
+NA
+6638
+HP/MAN/53A13/2015/89
+Himachal Pradesh
+Mandi
+ 
+Baraili,SH19
+31.877917
+76.777167
+Debris
+Slide
+NA
+6639
+HP/KIN/53I09/2018/2
+Himachal Pradesh
+Kinnaur
+ 
+Near Nako
+31.87846
+78.58996
+Rock cum debris
+Slide
+NA
+6640
+HP/KAN/44M13/2020/2
+Himachal Pradesh
+Kangra
+ 
+Amroh
+31.88
+75.95
+Debris
+Slide
+NA
+6641
+HP/HAM/53A09/2018/70
+Himachal Pradesh
+Hamirpur
+ 
+SH-04
+31.880861
+76.609556
+Debris
+Slide
+NA
+6642
+HP/HAM/53A09/2018/71
+Himachal Pradesh
+Hamirpur
+ 
+SH 04
+31.881889
+76.608111
+Debris
+Slide
+NA
+6643
+HP/HAM/53A09/2018/72
+Himachal Pradesh
+Hamirpur
+ 
+Sidhpur- sandhol road
+31.882111
+76.705028
+Debris
+Slide
+NA
+6644
+HP/MAN/53A10/2018/25
+Himachal Pradesh
+Mandi
+ 
+SH-32
+31.882639
+76.608194
+Debris
+Slide
+NA
+6645
+HP/KAN/53A05/2018/1
+Himachal Pradesh
+Kangra
+ 
+SAPRI ROAD
+31.8828
+76.32763
+Rock
+Slide
+NA
+6646
+HP/KAN/53A09/2018/73
+Himachal Pradesh
+Kangra
+ 
+Lamborgan- kosri road
+31.883167
+76.700028
+Debris
+Slide
+NA
+6647
+HP/HAM/53A09/2018/74
+Himachal Pradesh
+Hamirpur
+ 
+Marhi-Dharampur road
+31.883417
+76.606889
+Debris
+Slide
+NA
+6648
+HP/KAN/53A09/2018/75
+Himachal Pradesh
+Kangra
+ 
+ 
+31.883417
+76.606889
+Debris
+Slide
+NA
+6649
+HP/MAN/53A09/2018/76
+Himachal Pradesh
+Mandi
+ 
+ 
+31.883611
+76.734806
+Rock
+Slide
+NA

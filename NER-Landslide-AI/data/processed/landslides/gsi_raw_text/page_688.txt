@@ -1,0 +1,327 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27221
+TN/COI/58F03/2017/73
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.329806
+77.039278
+Debris
+Slide
+NA
+27222
+TN/COI/58F03/2017/79
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.329944
+77.021972
+Debris
+Slide
+NA
+27223
+TN/COI/58F03/2017/71
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.330167
+77.041972
+Debris
+Slide
+NA
+27224
+TN/COI/58F03/2017/72
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.330444
+77.039556
+Debris
+Slide
+NA
+27225
+TN/COI/58F03/2017/80
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.331056
+77.020361
+Debris
+Slide
+NA
+27226
+TN/ANN/58F11/2016/55
+Tamil Nadu
+Dindigul
+ 
+Road from Pachaloor  to 
+ottanchathiram
+10.33165
+77.563944
+Rock
+Slide
+NA
+27227
+TN/COI/58F03/2017/70
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.331694
+77.041444
+Debris
+Slide
+NA
+27228
+TN/COI/58B15/2017/6
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78, in Valparai
+10.331786
+76.958731
+Soil
+Slide
+NA
+27229
+TN/COI/58F03/2017/62
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.331972
+77.047139
+Debris
+Slide
+NA
+27230
+TN/COI/58F03/2017/69
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.332
+77.039556
+Debris
+Slide
+NA
+27231
+TN/COI/58F03/2017/68
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.33225
+77.039278
+Debris
+Slide
+NA
+27232
+TN/COI/58F03/2017/67
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.332528
+77.03975
+Debris
+Slide
+NA
+27233
+TN/COI/58F03/2017/65
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.332778
+77.0435
+Rock
+Topple
+NA
+27234
+TN/COI/58F03/2017/64
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.332833
+77.043917
+Debris
+Slide
+NA
+27235
+TN/COI/58F03/2017/63
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.332889
+77.044333
+Debris
+Slide
+NA
+27236
+TN/COI/58F03/2017/66
+Tamil Nadu
+Coimbatore
+ 
+Konalar banglow to Akkamalai 
+forest road
+10.332972
+77.043
+Debris
+Slide
+NA
+27237
+TN/COI/58B15/2017/7
+Tamil Nadu
+Coimbatore
+ 
+Upslope of SH78, in Valparai
+10.333422
+76.9614
+Soil
+Slide
+NA
+27238
+TN/ANN/58F11/2016/41
+Tamil Nadu
+Dindigul
+ 
+Kombaikadu to sembarankulam 10.334858
+77.576389
+Earth
+Slide
+NA
+27239
+TN/COI/58B15/2017/86
+Tamil Nadu
+Coimbatore
+ 
+Road from Valparai to Polachi 
+(SH78)
+10.335672
+76.962867
+Soil
+Slide
+NA
+27240
+TN/ANN/58F11/2016/42
+Tamil Nadu
+Dindigul
+ 
+Kombaikadu to sembarankulam 10.336119
+77.578139
+Debris
+Slide
+NA
+27241
+TN/COI/58B15/2017/30
+Tamil Nadu
+Coimbatore
+ 
+Near Periyar Nagar
+10.340708
+76.912872
+Soil
+Slide
+NA
+27242
+TN/ANN/58F15/2016/9
+Tamil Nadu
+Dindigul
+ 
+Melpallam to Savarikadu  road
+10.340856
+77.572733
+Debris
+Slide
+NA
+27243
+TN/COI/58B15/2017/31
+Tamil Nadu
+Coimbatore
+ 
+Near Urulikal Village
+10.340994
+76.911064
+Soil
+Slide
+NA
+27244
+TN/COI/58B15/2017/120
+Tamil Nadu
+Coimbatore
+ 
+Near forest check post, 
+Urulikkal
+10.341633
+76.903489
+Soil
+Slide
+NA
+27245
+TN/COI/58B15/2017/28
+Tamil Nadu
+Coimbatore
+ 
+Road from Varatuparai village 
+to Periyar Nagar
+10.342139
+76.916631
+Soil
+Slide
+NA
+27246
+TN/COI/58B15/2017/29
+Tamil Nadu
+Coimbatore
+ 
+Road from Varatuparai village 
+to Periyar Nagar
+10.342422
+76.916044
+Rock cum debris
+Slide
+NA
+27247
+TN/COI/58B15/2017/26
+Tamil Nadu
+Coimbatore
+ 
+Road from Sholayar dam to 
+Varatuparai
+10.342442
+76.918139
+Debris
+Slide
+NA

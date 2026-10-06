@@ -1,0 +1,562 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+8248
+HP/CHA/52D01/2020/46
+Himachal Pradesh
+Chamba
+ 
+Tikrigarh
+32.78
+76.18
+Debris
+Slide
+NA
+8249
+HP/CHA/52D01/2020/47
+Himachal Pradesh
+Chamba
+ 
+Tikrigarh
+32.78
+76.18
+Debris
+Slide
+NA
+8250
+HP/CHA/52D01/2020/51
+Himachal Pradesh
+Chamba
+ 
+Chala P.F
+32.78
+76.14
+Rock
+Slide
+NA
+8251
+HP/CHA/52D01/2020/62
+Himachal Pradesh
+Chamba
+ 
+Challa village
+32.78
+76.15
+Debris
+Slide
+NA
+8252
+HP/CHA/52D01/2020/63
+Himachal Pradesh
+Chamba
+ 
+Tikrigarh
+32.78
+76.18
+Debris
+Slide
+NA
+8253
+HP/CHA/52D01/2020/81
+Himachal Pradesh
+Chamba
+ 
+Buthyal
+32.78
+76.15
+Rock
+Slide
+NA
+8254
+HP/CHA/52D01/2020/82
+Himachal Pradesh
+Chamba
+Challa slide
+Challa village
+32.78
+76.15
+Rock
+Slide
+NA
+8255
+HP/CHA/52D01/2020/84
+Himachal Pradesh
+Chamba
+ 
+Challa village
+32.78
+76.15
+Rock
+Slide
+NA
+8256
+HP/CHA/43P13/2017/2
+Himachal Pradesh
+Chamba
+ 
+ 
+32.786586
+75.94895
+Debris
+Slide
+NA
+8257
+HP/CHA/52D01/2020/58
+Himachal Pradesh
+Chamba
+ 
+Shial
+32.79
+76.15
+Debris
+Slide
+NA
+8258
+HP/CHA/52D01/2020/59
+Himachal Pradesh
+Chamba
+ 
+Shial
+32.79
+76.15
+Debris
+Slide
+NA
+8259
+HP/CHA/52D01/2020/69
+Himachal Pradesh
+Chamba
+ 
+Challa Village
+32.79
+76.14
+Debris
+Slide
+NA
+8260
+HP/CHA/52D01/2020/6
+Himachal Pradesh
+Chamba
+Kaliyas slide
+Kaliyas Village near Baira Dam
+32.8
+76.14
+Debris
+Slide
+NA
+8261
+HP/CHA/52D01/2020/27
+Himachal Pradesh
+Chamba
+ 
+Kaleg Village
+32.8
+76.13
+Debris
+Slide
+NA
+8262
+HP/CHA/52D01/2020/37
+Himachal Pradesh
+Chamba
+ 
+Padhar
+32.8
+76.16
+Debris
+Slide
+NA
+8263
+HP/CHA/52D01/2020/67
+Himachal Pradesh
+Chamba
+ 
+Padhar
+32.8
+76.15
+Debris
+Slide
+NA
+8264
+HP/CHA/52D01/2020/76
+Himachal Pradesh
+Chamba
+ 
+Padhar
+32.8
+76.15
+Debris
+Slide
+NA
+8265
+HP/CHA/43P13/2017/61
+Himachal Pradesh
+Chamba
+ 
+ 
+32.800854
+75.997509
+Debris
+Slide
+NA
+8266
+HP/CHA/52D01/2020/24
+Himachal Pradesh
+Chamba
+ 
+Bairadam reservoir area
+32.81
+76.14
+Rock
+Slide
+NA
+8267
+HP/CHA/52D01/2020/60
+Himachal Pradesh
+Chamba
+ 
+Shala
+32.81
+76.15
+Rock
+Slide
+NA
+8268
+HP/CHA/43P13/2017/84
+Himachal Pradesh
+Chamba
+ 
+ 
+32.816364
+75.996342
+Debris
+Slide
+NA
+8269
+HP/CHA/43P13/2017/85
+Himachal Pradesh
+Chamba
+ 
+ 
+32.818027
+75.996029
+Debris
+Slide
+NA
+8270
+HP/CHA/52D01/2020/22
+Himachal Pradesh
+Chamba
+ 
+Tissa
+32.82
+76.14
+Rock
+Slide
+NA
+8271
+HP/CHA/52D01/2020/25
+Himachal Pradesh
+Chamba
+ 
+Buin P.F
+32.82
+76.13
+Rock
+Slide
+NA
+8272
+HP/CHA/52D01/2020/26
+Himachal Pradesh
+Chamba
+ 
+Lunsar
+32.82
+76.13
+Debris
+Slide
+NA
+8273
+HP/CHA/52D01/2020/66
+Himachal Pradesh
+Chamba
+ 
+Tissa PWD Guest House
+32.82
+76.14
+Rock
+Slide
+NA
+8274
+HP/CHA/52D01/2020/80
+Himachal Pradesh
+Chamba
+ 
+Rundal
+32.82
+76.15
+Debris
+Slide
+NA
+8275
+HP/CHA/43P13/2017/94
+Himachal Pradesh
+Chamba
+ 
+ 
+32.823029
+75.99446
+Debris
+Slide
+NA
+8276
+HP/CHA/43P13/2017/36
+Himachal Pradesh
+Chamba
+ 
+ 
+32.826755
+75.993822
+Debris
+Slide
+NA
+8277
+HP/CHA/52D01/2020/2
+Himachal Pradesh
+Chamba
+ 
+Bhutwan
+32.83
+76.16
+Rock
+Slide
+NA
+8278
+HP/CHA/52D01/2020/3
+Himachal Pradesh
+Chamba
+ 
+Bhutwan
+32.83
+76.16
+Rock
+Slide
+NA
+8279
+HP/CHA/52D01/2020/4
+Himachal Pradesh
+Chamba
+ 
+Bhutwan
+32.83
+76.16
+Rock
+Slide
+NA
+8280
+HP/CHA/52D01/2020/5
+Himachal Pradesh
+Chamba
+ 
+Bhutwan
+32.83
+76.16
+Rock
+Slide
+NA
+8281
+HP/CHA/52D01/2020/23
+Himachal Pradesh
+Chamba
+ 
+Shukiani
+32.83
+76.11
+Rock
+Slide
+NA
+8282
+HP/CHA/52D01/2020/54
+Himachal Pradesh
+Chamba
+Kundolu slide
+Kundolu
+32.83
+76.09
+Debris
+Slide
+NA
+8283
+HP/CHA/52D01/2020/65
+Himachal Pradesh
+Chamba
+ 
+Shalon
+32.83
+76.05
+Debris
+Slide
+NA
+8284
+HP/CHA/43P13/2017/62
+Himachal Pradesh
+Chamba
+ 
+ 
+32.831736
+75.985515
+Debris
+Slide
+NA
+8285
+HP/CHA/43P13/2017/42
+Himachal Pradesh
+Chamba
+ 
+ 
+32.837066
+75.973106
+Debris
+Slide
+NA
+8286
+HP/CHA/43P13/2017/76
+Himachal Pradesh
+Chamba
+ 
+ 
+32.837146
+75.965263
+Debris
+Slide
+NA
+8287
+HP/CHA/43P13/2017/78
+Himachal Pradesh
+Chamba
+ 
+ 
+32.83776
+75.860549
+Rock cum debris
+Slide
+NA
+8288
+HP/CHA/43P13/2017/77
+Himachal Pradesh
+Chamba
+ 
+ 
+32.839433
+75.972856
+Debris
+Slide
+NA
+8289
+HP/CHA/52D01/2020/12
+Himachal Pradesh
+Chamba
+ 
+Bagraru
+32.84
+76.11
+Debris
+Slide
+NA
+8290
+HP/CHA/52D01/2020/30
+Himachal Pradesh
+Chamba
+ 
+Jawari
+32.84
+76.13
+Rock
+Slide
+NA
+8291
+HP/CHA/52D01/2020/34
+Himachal Pradesh
+Chamba
+ 
+Tarroga
+32.84
+76.07
+Debris
+Slide
+NA
+8292
+HP/CHA/52D01/2020/61
+Himachal Pradesh
+Chamba
+ 
+Jawari
+32.84
+76.12
+Debris
+Slide
+NA
+8293
+HP/CHA/52D01/2020/70
+Himachal Pradesh
+Chamba
+ 
+Jawari
+32.84
+76.13
+Debris
+Slide
+NA
+8294
+HP/CHA/43P13/2017/29
+Himachal Pradesh
+Chamba
+ 
+ 
+32.841508
+75.969155
+Debris
+Slide
+NA
+8295
+HP/CHA/43P13/2017/80
+Himachal Pradesh
+Chamba
+ 
+ 
+32.84319
+75.839161
+Rock cum debris
+Slide
+NA
+8296
+HP/CHA/43P13/2017/63
+Himachal Pradesh
+Chamba
+ 
+ 
+32.843883
+75.969087
+Debris
+Slide
+NA
+8297
+HP/CHA/43P13/2017/79
+Himachal Pradesh
+Chamba
+ 
+ 
+32.844014
+75.966676
+Debris
+Slide
+NA

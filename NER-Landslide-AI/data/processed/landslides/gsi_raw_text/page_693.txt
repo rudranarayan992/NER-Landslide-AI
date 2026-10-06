@@ -1,0 +1,408 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27394
+TN/ANN/58F11/2016/53
+Tamil Nadu
+Dindigul
+ 
+Road from Pachaloor  to 
+ottanchathiram
+10.465636
+77.739114
+Debris
+Slide
+NA
+27395
+TN/ANN/58F11/2016/52
+Tamil Nadu
+Dindigul
+ 
+Road from Pachaloor  to 
+ottanchathiram
+10.466567
+77.740492
+Earth
+Slide
+NA
+27396
+TN/COI/58F03/2017/50
+Tamil Nadu
+Coimbatore
+ 
+Nallar colony village
+10.466972
+77.059361
+Rock cum debris
+Fall
+NA
+27397
+TN/COI/58F03/2017/51
+Tamil Nadu
+Coimbatore
+ 
+West of Nallar colony village
+10.467083
+77.059278
+Rock cum debris
+Fall
+NA
+27398
+TN/COI/58F03/2017/52
+Tamil Nadu
+Coimbatore
+ 
+West of Nallar colony village
+10.4695
+77.059167
+Rock cum debris
+Fall
+NA
+27399
+TN/ANN/58F11/2016/51
+Tamil Nadu
+Dindigul
+ 
+Road from Pachaloor  to 
+ottanchathiram
+10.47005
+77.745292
+Debris
+Slide
+NA
+27400
+TN/COI/58F03/2017/55
+Tamil Nadu
+Coimbatore
+ 
+Nallar colony village
+10.470528
+77.057444
+Rock cum debris
+Slide
+NA
+27401
+TN/COI/58F03/2017/53
+Tamil Nadu
+Coimbatore
+ 
+West of Nallar colony village
+10.471278
+77.059528
+Rock cum debris
+Slide
+NA
+27402
+TN/ANN/58F11/2016/50
+Tamil Nadu
+Dindigul
+ 
+Road from Pachaloor  to 
+ottanchathiram
+10.471642
+77.746044
+Debris
+Slide
+NA
+27403
+TN/COI/58F03/2017/54
+Tamil Nadu
+Coimbatore
+ 
+West of Nallar colony village
+10.471917
+77.059083
+Rock cum debris
+Slide
+NA
+27404
+TN/ANN/58F11/2016/49
+Tamil Nadu
+Dindigul
+ 
+Road from Pachaloor  to 
+ottanchathiram
+10.472278
+77.741753
+Debris
+Slide
+NA
+27405
+TN/ANN/58F15/2016/23
+Tamil Nadu
+Dindigul
+ 
+Road from Pachaloor  to 
+ottanchathiram
+10.478986
+77.754986
+Debris
+Slide
+NA
+27406
+TN/ANN/58F15/2016/22
+Tamil Nadu
+Dindigul
+ 
+Road from Pachaloor  to 
+ottanchathiram
+10.479383
+77.755372
+Earth
+Slide
+NA
+27407
+TN/COI/58F03/2017/48
+Tamil Nadu
+Coimbatore
+ 
+Nallar colony road
+10.479972
+77.092056
+Rock cum debris
+Fall
+NA
+27408
+TN/ANN/58F15/2016/21
+Tamil Nadu
+Dindigul
+ 
+Road from Pachaloor  to 
+ottanchathiram
+10.480044
+77.756742
+Debris
+Slide
+NA
+27409
+TN/ANN/58F15/2016/20
+Tamil Nadu
+Dindigul
+ 
+Road from Pachaloor  to 
+ottanchathiram
+10.481158
+77.758258
+Earth
+Slide
+NA
+27410
+TN/COI/58F03/2017/47
+Tamil Nadu
+Coimbatore
+ 
+Nallar colony road
+10.481861
+77.093861
+Rock cum debris
+Fall
+NA
+27411
+TN/COI/58F03/2017/46
+Tamil Nadu
+Coimbatore
+ 
+Nallar colony road
+10.483917
+77.096056
+Rock cum debris
+Fall
+NA
+27412
+TN/ANN/58F15/2016/19
+Tamil Nadu
+Dindigul
+ 
+Road from Pachaloor  to 
+ottanchathiram
+10.484014
+77.761886
+Earth
+Slide
+NA
+27413
+TN/COI/58F03/2017/41
+Tamil Nadu
+Coimbatore
+ 
+Amaravati to Nallar colony  road 10.486194
+77.120694
+Rock cum debris
+Slide
+NA
+27414
+TN/COI/58F03/2017/42
+Tamil Nadu
+Coimbatore
+ 
+Kodimalaikaradu area
+10.490861
+77.120806
+Rock cum debris
+Slide
+NA
+27415
+TN/COI/58F03/2017/45
+Tamil Nadu
+Coimbatore
+ 
+Kodimalaikaradu to Nallar 
+colony road
+10.492222
+77.113056
+Rock cum debris
+Fall
+NA
+27416
+TN/COI/58F03/2017/44
+Tamil Nadu
+Coimbatore
+ 
+Kodimalaikaradu to Nallar 
+colony road
+10.493417
+77.116222
+Rock cum debris
+Fall
+NA
+27417
+TN/COI/58F03/2017/43
+Tamil Nadu
+Coimbatore
+ 
+Kodimalaikaradu area
+10.494222
+77.118
+Rock cum debris
+Fall
+NA
+27418
+TN/COI/58A16/2016/1
+Tamil Nadu
+Coimbatore
+ 
+Near Annur village
+11.208333
+76.785
+Rock
+Fall
+NA
+27419
+TN/COI/58A16/2016/2
+Tamil Nadu
+Coimbatore
+ 
+Near Annur village
+11.208889
+76.786222
+Debris
+Slide
+NA
+27420
+TN/COI/58A16/2016/4
+Tamil Nadu
+Coimbatore
+ 
+Near Annur village
+11.209639
+76.781
+Debris
+Fall
+NA
+27421
+TN/NIL/58A12/2015-16/233
+Tamil Nadu
+Nilgiri
+ 
+Melkundah to Konnakorai
+11.210556
+76.644722
+Earth
+Slide
+NA
+27422
+TN/NIL/58A12/2015-16/234
+Tamil Nadu
+Nilgiri
+ 
+Melkundah to Konnakorai
+11.210556
+76.645
+Earth
+Slide
+NA
+27423
+TN/COI/58A16/2016/3
+Tamil Nadu
+Coimbatore
+ 
+Near Annur village
+11.210639
+76.785861
+Debris
+Fall
+NA
+27424
+TN/NIL/58A12/2015-16/231
+Tamil Nadu
+Nilgiri
+ 
+Melkundah to Konnakorai
+11.211111
+76.629167
+Debris
+Slide
+NA
+27425
+TN/NIL/58A12/2015-16/232
+Tamil Nadu
+Nilgiri
+ 
+Melkundah to Konnakorai
+11.211389
+76.643889
+Debris
+Slide
+NA
+27426
+TN/NIL/58A12/2015-16/230
+Tamil Nadu
+Nilgiri
+ 
+Melkundah to Konnakorai
+11.213333
+76.626111
+Debris
+Slide
+NA
+27427
+TN/NIL/58A12/2015-16/227
+Tamil Nadu
+Nilgiri
+ 
+Thiashola Tea Estate
+11.215833
+76.606111
+Debris
+Slide
+NA
+27428
+TN/NIL/58A12/2015-16/226
+Tamil Nadu
+Nilgiri
+ 
+Thiashola Tea Estate
+11.216111
+76.606667
+Debris
+Slide
+NA

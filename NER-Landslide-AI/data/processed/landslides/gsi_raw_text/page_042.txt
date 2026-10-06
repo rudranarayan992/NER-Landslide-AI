@@ -1,0 +1,534 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1407
+AR/LD/82P04/2022/034
+Arunachal Pradesh
+Lower dibang valley
+West of Ledum Slide 2
+Naer to Ledum village
+27.951306
+95.074056
+Debris
+slide
+NA
+1408
+AR/LOH/92A05/2014/10
+Arunachal Pradesh
+Lohit
+ 
+Tohangam-Hayuliang Road
+27.95603
+96.40267
+Debris
+Slide
+May 2014
+1409
+AR/LOH/92A05/2014/09
+Arunachal Pradesh
+Lohit
+ 
+Tohangam-Hayuliang Road
+27.95672
+96.39697
+Debris
+Slide
+May 2014
+1410
+AP/LEP/83I09/2021/80
+Arunachal Pradesh
+Lepa rada
+Rete Potu, towards  Basar
+Rete Potu, towards Basar
+27.957306
+94.68625
+Rock
+Slide
+NA
+1411
+AR/LOH/92A05/2014/21
+Arunachal Pradesh
+Lohit
+ 
+Tohangam-Hayuliang Road
+27.95964
+96.40178
+Debris
+Flow
+May 2014
+1412
+AR/LOH/92A05/2014/20
+Arunachal Pradesh
+Lohit
+ 
+Tohangam-Hayuliang Road
+27.96325
+96.40097
+Debris
+Slide
+May 2014
+1413
+AP/US/83I01/2021/12
+Arunachal Pradesh
+Upper Subansiri
+4km NE of Daporijo town slide
+NE of Daporijo town
+27.965819
+94.293672
+Debris
+Slide
+NA
+1414
+AR/LOH/92A05/2014/25
+Arunachal Pradesh
+Lohit
+ 
+Tezu-Hayuliang road
+27.96756
+96.40189
+Rock
+Slide
+2013
+1415
+AR/LOH/92A05/2014/11
+Arunachal Pradesh
+Lohit
+Arrowa-Tidding Bridge
+Tezu-Hayuliang road
+27.96756
+96.40214
+Rock cum Debris
+Slide
+2013
+1416
+AR/LOH/92A05/2014/19
+Arunachal Pradesh
+Lohit
+ 
+Tohangam-Hayuliang Road (at 
+Tidding bridge)
+27.968
+96.39822
+Debris
+Flow
+May 2014
+1417
+AP/SU/83I01/2021/13
+Arunachal Pradesh
+Shi-Yomi
+Mechuka town slide 1
+Near Mechuka town
+27.979306
+94.228528
+Debris
+Slide
+NA
+1418
+AR/ANJ/92A05/2014/55
+Arunachal Pradesh
+Anjaw
+ 
+Tezu-Hayuliang road
+27.98333
+96.40433
+Debris
+Slide
+2012
+1419
+AR/ANJ/92A05/2014/54
+Arunachal Pradesh
+Anjaw
+ 
+Tezu-Hayuliang road
+27.98728
+96.41208
+Debris
+Slide
+2013
+1420
+AR/ANJ/92A05/2014/18
+Arunachal Pradesh
+Anjaw
+ 
+Tohangam-Hayuliang Road
+27.98747
+96.41133
+Debris
+Flow
+May 2014
+1421
+AR/LPD/82L12/2021/09
+Arunachal Pradesh
+Lepa rada
+Tai-Daporijo Road Slide
+Tai-Daporijo Road
+27.995889
+94.525941
+Rock-cum-Debris
+Slide
+NA
+1422
+AP/US/83I01/2021/10
+Arunachal Pradesh
+Upper Subansiri
+2km E of Daporijo slide
+E of Daporijo
+28.003861
+94.201944
+Debris
+Slide
+NA
+1423
+AP/US/83I01/2021/11
+Arunachal Pradesh
+Upper Subansiri
+2.2 km E of Daporijo town slide
+E of Daporijo town
+28.005389
+94.201306
+Debris
+Slide
+NA
+1424
+AR/ANJ/91D08/2014/17
+Arunachal Pradesh
+Anjaw
+ 
+Tohangam-Hayuliang Road
+28.00611
+96.42872
+Debris
+Slide
+May 2014
+1425
+AR/US/82P04/2022/013
+Arunachal Pradesh
+Upper Siang
+Yagrung village Slide 1
+Yagrung village
+28.013167
+95.239333
+soil
+slide
+NA
+1426
+AR/LPD/82L12/2021/02
+Arunachal Pradesh
+Lepa rada
+Tirbin-Tai Road slide
+South of Tirbin-Tai Road
+28.013577
+94.568456
+Debris
+Slide
+NA
+1427
+AR/LPD/82L12/2021/01
+Arunachal Pradesh
+Lepa rada
+Tirbin-Tai Road slide
+South of Tirbin-Tai Road
+28.014765
+94.569467
+Debris
+Slide
+NA
+1428
+AR/ANJ/91D08/2014/15
+Arunachal Pradesh
+Anjaw
+78 km slide
+Tezu-Hayuliang road
+28.01661
+96.44172
+Rock cum Debris
+Complex
+2013
+1429
+AR/ANJ/91D08/2014/16
+Arunachal Pradesh
+Anjaw
+ 
+Tohangam-Hayuliang Road
+28.01781
+96.44275
+Debris
+Slide
+May 2014
+1430
+AR/ANJ/91D08/2014/24
+Arunachal Pradesh
+Anjaw
+ 
+Tohangam-Hayuliang Road
+28.01992
+96.443
+Rock
+Slide
+May 2014
+1431
+AR/WSI/82L12/2021/10
+Arunachal Pradesh
+West Siang
+Tai-Liromoba Road Slide
+Tai-Liromoba Road
+28.021678
+94.536256
+Rock-cum-Debris
+Slide
+NA
+1432
+AR/WSI/82L12/2021/11
+Arunachal Pradesh
+West Siang
+Daba Gamlin - Yomcha road slide
+Daba Gamlin-Yomcha Road
+28.022249
+94.535672
+Rock-cum-Debris
+Slide
+NA
+1433
+AP/AW/91D8/2022/103
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 16.6 kms 
+along NH-13 towards Tezu
+NH-13 (Anjaw-Tezu road)
+28.022471
+96.440489
+Debris
+Slide
+NA
+1434
+AR/LPD/82L12/2021/03
+Arunachal Pradesh
+Lepa rada
+Tirbin Slide
+Within Tirbin Township
+28.022667
+94.574294
+Debris
+Slide
+NA
+1435
+AP/AW/91D8/2022/104
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 16.4 kms 
+along NH-13 towards Tezu
+NH-13 (Anjaw-Tezu road)
+28.023491
+96.440972
+Debris
+Slide
+NA
+1436
+AR/LPD/82L12/2021/04
+Arunachal Pradesh
+Lepa rada
+Tirbin -Basar Road Slide
+Tirbin-Basar Road
+28.024169
+94.582184
+Debris
+Slide
+NA
+1437
+AR/LPD/82L12/2021/05
+Arunachal Pradesh
+Lepa rada
+Tirbin-Tai Road slide
+Tirbin-Tai Road
+28.024691
+94.553634
+Debris
+Slide
+NA
+1438
+AP/E-Siang/82P8/2022/LS46
+Arunachal Pradesh
+East Siang
+LS-46
+NH-13, Komlighat-Pasighat
+28.025611
+95.271179
+Debris
+Slide
+NA
+1439
+AR/LPD/82L12/2021/06
+Arunachal Pradesh
+Lepa rada
+Tirbin-Basar Road Slide
+Tirbin-Basar Road
+28.026515
+94.590918
+Debris
+Slide
+NA
+1440
+AR/LPD/82L12/2021/07
+Arunachal Pradesh
+Lepa rada
+Tirbin-Basar Road Slide
+Tirbin-Basar Road
+28.026733
+94.593471
+Debris
+Slide
+NA
+1441
+AR/LPD/82L12/2021/08
+Arunachal Pradesh
+Lepa rada
+Tirbin-Basar Road Slide
+Tirbin-Basar Road
+28.029848
+94.616455
+Debris
+Slide
+NA
+1442
+AR/ES/82P04/2022/014
+Arunachal Pradesh
+East Siang
+Yagrung village Slide 2
+Yagrung village
+28.033278
+95.235383
+Debris
+Flow
+NA
+1443
+AR/ANJ/91D08/2014/15
+Arunachal Pradesh
+Anjaw
+78 km slide
+Tezu-Hayuliang road
+28.05939
+96.48397
+Debris
+Slide
+2014
+1444
+AR/LOH/91D08/2014/01
+Arunachal Pradesh
+Lohit
+88 km Slide
+HMC road
+28.05989
+96.46281
+Debris
+Slide
+2013
+1445
+AP/LOH/91D08/2014/01
+Arunachal Pradesh
+Lohit
+88 km Slide
+HMC road
+28.05989
+96.46281
+Debris
+Slide
+2013
+1446
+AR/ANJ/91D08/2014/14
+Arunachal Pradesh
+Anjaw
+ 
+Tohangam-Hayuliang Road
+28.05997
+96.48664
+Debris
+Slide
+May 2014
+1447
+AR/ANJ/91D08/2014/16
+Arunachal Pradesh
+Anjaw
+ 
+Tohangam-Hayuliang Road
+28.06006
+96.44636
+Debris
+Slide
+May 2014
+1448
+AR/ANJ/91D08/2014/13
+Arunachal Pradesh
+Anjaw
+ 
+Tohangam-Hayuliang Road
+28.06131
+96.49256
+Debris
+Slide
+May 2014
+1449
+AR/ANJ/91D08/2014/12
+Arunachal Pradesh
+Anjaw
+ 
+Tohangam-Hayuliang Road
+28.06244
+96.49775
+Debris
+Slide
+May 2014
+1450
+AR/ANJ/91D08/2014/11
+Arunachal Pradesh
+Anjaw
+ 
+Tohangam-Hayuliang road
+28.063
+96.49914
+Debris
+Slide
+May 2014
+1451
+AR/ANJ/91D12/2014/53
+Arunachal Pradesh
+Anjaw
+Khupapolice check gate
+Tezu-Hayuliang road
+28.06356
+96.50075
+Debris
+Slide
+2012
+1452
+AR/ANJ/91D12/2014/22
+Arunachal Pradesh
+Anjaw
+ 
+Tohangam-Hayuliang Road
+28.06964
+96.50025
+Rock
+Slide
+May 2014
+1453
+AP/AW/91D8/2022/100
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 3.85 kms 
+along HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.079818
+96.46838
+Debris
+Slide
+NA

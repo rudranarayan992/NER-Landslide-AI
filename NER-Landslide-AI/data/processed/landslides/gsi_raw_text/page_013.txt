@@ -1,0 +1,310 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+409
+ASM/WKA/83C09/2016/28
+Assam
+West Karbi Anglong
+Amtreng-1
+SH-16, East of Amtreng Market
+25.98219
+92.51892
+Rock
+Slide
+NA
+410
+ASM/WKA/83C09/2016/34
+Assam
+West Karbi Anglong
+Amtreng-2
+N of Amtreng nala
+25.98736
+Earth
+Slide
+NA
+411
+AS/GOA/78J12/2018/1
+Assam
+Goalpara
+Phophonga hill landslide
+NH-37/Bolbola village
+26.006
+90.595
+Rock cum debris
+Slide
+NA
+412
+ASM/WKA/83B08/2017/40
+Assam
+West Karbi Anglong
+Nellie-Umswai road slide No.6
+Nellie - Umpanai-Umswai road
+26.012
+92.264167
+Debris
+Slide
+2016
+413
+ASM/WKA/83B08/2017/39
+Assam
+West Karbi Anglong
+Nellie-Umswai road slide No.5
+Nellie - Umpanai-Umswai road
+26.013528
+92.266083
+Debris
+Slide
+2016
+414
+ASM/WKA/83B08/2017/34
+Assam
+West Karbi Anglong
+Amsoi-Amtrang road slide No.31
+~1.2 Km North-East of 
+Duronggaon, Amsoi- Amtrang 
+road
+26.016389
+92.48225
+Earth
+Slide
+NA
+415
+ASM/WKA/83B08/2017/38
+Assam
+West Karbi Anglong
+Nellie-Umswai road slide No.4
+~500 meter North of Asukunchi, 
+Nellie - Umpanai-Umswai road
+26.022833
+92.274028
+Earth
+Slide
+2016
+416
+ASM/WKA/83B08/2017/33
+Assam
+West Karbi Anglong
+Amsoi-Amtrang road slide No.30
+Darongaon, Amsoi- Amtrang 
+road
+26.024167
+92.475
+Earth
+Slide
+NA
+417
+ASM/WKA/83B08/2017/32
+Assam
+West Karbi Anglong
+Amsoi-Amtrang road slide No.29
+~1.5 Km North of Duronggaon, 
+Amsoi- Amtrang road
+26.030972
+92.474139
+Earth
+Slide
+2014
+418
+ASM/WKA/83B08/2017/30
+Assam
+West Karbi Anglong
+Amsoi-Amtrang road slide No.27
+Amsoi- Amtrang road
+26.031528
+92.472778
+Earth
+Slide
+2016
+419
+ASM/WKA/83B08/2017/31
+Assam
+West Karbi Anglong
+Amsoi-Amtrang road slide No.28
+~1.2 Km North of Duronggaon, 
+Amsoi- Amtrang road
+26.031583
+92.47375
+Earth
+Slide
+2014
+420
+ASM/WKA/83B08/2017/37
+Assam
+West Karbi Anglong
+Nellie-Umswai road slide No.4
+Nellie - Umpanai-Umswai road
+26.03275
+92.271861
+Debris
+Slide
+NA
+421
+ASM/WKA/83B08/2017/28
+Assam
+West Karbi Anglong
+Amsoi-Amtrang road slide No.25
+Amsoi- Amtrang road
+26.033556
+92.468056
+Debris
+Slide
+2014
+422
+ASM/WKA/83B08/2017/29
+Assam
+West Karbi Anglong
+Amsoi-Amtrang road slide No.26
+Amsoi- Amtrang road
+26.035278
+92.470861
+Debris
+Slide
+2010
+423
+ASM/WKA/83B08/2017/36
+Assam
+West Karbi Anglong
+Nellie-Umswai road slide No.3
+Nellie - Umpanai-Umswai road
+26.036583
+92.273056
+Debris
+Slide
+NA
+424
+ASM/WKA/83B08/2017/27
+Assam
+West Karbi Anglong
+Amsoi-Amtrang road slide No.24
+Amsoi- Amtrang road
+26.039194
+92.4595
+Debris
+Slide
+2014
+425
+ASM/WKA/83B08/2017/19
+Assam
+West Karbi Anglong
+Nellie-Umswai road slide No.2
+Nellie - Umpanai-Umswai road
+26.039361
+92.273806
+Rock cum Debris
+Slide
+NA
+426
+AS/KAM/83B04/2018/3
+Assam
+Kamrup
+Barakasarong
+Barkasarong
+26.0405
+92.0355
+Debris
+Slide
+NA
+427
+ASM/WKA/83B08/2017/18
+Assam
+West Karbi Anglong
+Nellie-Umswai road slide No.1
+Nellie - Umpanai-Umswai road
+26.042139
+92.27525
+Rock cum Debris
+Slide
+NA
+428
+AS/KAM/83B4/2015/92
+Assam
+Kamrup
+Kalangpur
+Enroute to Kasangmala, Kamrup 26.043267
+92.055531
+Earth
+Slide
+NA
+429
+ASM/WKA/83B08/2017/21
+Assam
+West Karbi Anglong
+Amsoi-Amtrang road slide No.18
+~1 Km North-East of Dolaigaon, 
+Amsoi- Amtrang road
+26.043583
+92.440528
+Debris
+Slide
+2016
+430
+ASM/WKA/83B08/2017/26
+Assam
+West Karbi Anglong
+Amsoi-Amtrang road slide No.23
+Amsoi- Amtrang road
+26.043583
+92.452222
+Debris
+Slide
+2014
+431
+ASM/WKA/83B08/2017/22
+Assam
+West Karbi Anglong
+Amsoi-Amtrang road slide No.19
+~1.2 Km North-East of 
+Dolaigaon, Amsoi- Amtrang 
+road
+26.043611
+92.440944
+Debris
+Slide
+2016
+432
+ASM/WKA/83B08/2017/23
+Assam
+West Karbi Anglong
+Amsoi-Amtrang road slide No.20
+~1.5 Km North-East of 
+Dolaigaon, Amsoi- Amtrang 
+road
+26.043722
+92.441472
+Debris
+Slide
+2015
+433
+ASM/WKA/83B08/2017/25
+Assam
+West Karbi Anglong
+Amsoi-Amtrang road slide No.22
+~1.5 Km South-East 
+ofTakbigang, Amsoi- Amtrang 
+road
+26.045472
+92.457417
+Earth
+Slide
+2016
+434
+ASM/WKA/83B08/2017/24
+Assam
+West Karbi Anglong
+Amsoi-Amtrang road slide No.21
+~1Km South-West ofTakbigang, 
+Amsoi- Amtrang road
+26.045806
+92.450778
+Earth
+Slide
+NA

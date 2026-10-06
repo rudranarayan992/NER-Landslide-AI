@@ -1,0 +1,380 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21580
+MZ/SER/84A15/2016/38
+Mizoram
+Serchhip
+ 
+Near the Sawing Mill, Bilzel 
+veng, Serchhip, NH-54 Aizawl-
+Serchhip-Lunglei Road
+23.320815
+92.854748
+Debris
+Slide
+2014
+21581
+MZ/SER/84A15/2016/37
+Mizoram
+Serchhip
+ 
+IOC Veng, Serchhip, NH-54 
+Aizawl-Serchhip-Lunglei Road
+23.321505
+92.854734
+Rock
+Slide
+2015
+21582
+MZ/SER/84A15/2016/45
+Mizoram
+Serchhip
+ 
+Near Catholic School, P & E 
+Veng,(Power and Electric 
+department), Serchhip
+23.321765
+92.8589
+Rock
+Slide
+NA
+21583
+MZ/SER/84A15/2016/44
+Mizoram
+Serchhip
+ 
+P & E Veng,(Power and Electric 
+department), Serchhip
+23.321864
+92.859431
+Rock
+Slide
+NA
+21584
+MZ/CHA/84E03/2017/60
+Mizoram
+Champhai
+ 
+Champhai
+23.322151
+93.066154
+Rock
+Slide
+NA
+21585
+MZ/SER/84A15/2016/36
+Mizoram
+Serchhip
+ 
+Near 16km Milestone(Keitum), 
+Serchhip, NH-54 Aizawl-
+Serchhip-Lunglei Road
+23.322363
+92.854689
+Rock
+Slide
+2016
+21586
+MZ/CHA/84E03/2017/64
+Mizoram
+Champhai
+Khawhai slide
+Khawhai  Tlangpui road.
+23.322995
+93.092151
+Rock
+Slide
+NA
+21587
+MZ/CHA/84E03/2017/74
+Mizoram
+Champhai
+ 
+Khawhai  Tlangpui road.
+23.325028
+93.092333
+Debris
+Slide
+NA
+21588
+MZ/CHA/84E03/2017/75
+Mizoram
+Champhai
+ 
+10 km south of Khawhai
+23.3305
+93.096806
+Debris
+Slide
+NA
+21589
+MZ/CHA/84E03/2017/78
+Mizoram
+Champhai
+ 
+Tlangpui road
+23.33101
+93.091406
+Debris
+Slide
+NA
+21590
+MZ/SER/84A15/2016/124
+Mizoram
+Aizawl
+ 
+About 4.2km Northwest of 
+Sailam Bazar, SH-Aizawl-
+Thenzawl-Lunglei Road
+23.333984
+92.781878
+Debris
+Slide
+2016
+21591
+MZ/CHA/84E03/2017/13
+Mizoram
+Champhai
+ 
+Tlangpui road
+23.336389
+93.074722
+Debris
+Slide
+NA
+21592
+MZ/CHA/84E07/2017/12
+Mizoram
+Champhai
+ 
+Bulfekzawl Rd
+23.336425
+93.361493
+Debris
+Slide
+NA
+21593
+MZ/CHA/84E03/2017/25
+Mizoram
+Champhai
+ 
+Tlangpui road
+23.336955
+93.07526
+Rock
+Slide
+NA
+21594
+MZ/CHA/84E03/2017/29
+Mizoram
+Champhai
+ 
+Champhai
+23.337519
+93.076258
+Rock
+Slide
+NA
+21595
+MZ/CHA/84E07/2017/29
+Mizoram
+Champhai
+ 
+Bulfekzawl Rd
+23.339889
+93.357889
+Debris
+Slide
+NA
+21596
+MZ/CHA/84E03/2017/31
+Mizoram
+Champhai
+ 
+N of Sialhawk
+23.340389
+93.102306
+Rock
+Fall
+NA
+21597
+MZ/CHA/84E03/2017/35
+Mizoram
+Champhai
+ 
+Tlangpui road
+23.340722
+93.081083
+Debris
+Slide
+NA
+21598
+MZ/CHA/84E03/2017/43
+Mizoram
+Champhai
+ 
+Tlangpui road
+23.341111
+93.080583
+Debris
+Slide
+NA
+21599
+MZ/CHA/84E03/2017/51
+Mizoram
+Champhai
+ 
+Tlangpui road
+23.341194
+93.080389
+Debris
+Slide
+NA
+21600
+MZ/CHA/84E03/2017/57
+Mizoram
+Champhai
+ 
+Tlangpui road
+23.341333
+93.080056
+Debris
+Slide
+NA
+21601
+MZ/SER/84A15/2016/123
+Mizoram
+Aizawl
+ 
+About 15.7km North of 
+Thenzawl, SH-Aizawl-Thenzawl-
+Lunglei Road
+23.349857
+92.780208
+Rock
+Slide
+2015
+21602
+MZ/CHA/84E07/2017/61
+Mizoram
+Champhai
+ 
+Dilkawn Rd
+23.350776
+93.296677
+Rock
+Slide
+NA
+21603
+MZ/CHA/84E07/2017/63
+Mizoram
+Champhai
+ 
+Dilkawn Rd
+23.351115
+93.296893
+Rock
+Slide
+NA
+21604
+MZ/SER/84A15/2016/122
+Mizoram
+Aizawl
+ 
+16km Milestone,  SH-Aizawl-
+Thenzawl-Lunglei Road
+23.351772
+92.781701
+Rock
+Slide
+2015
+21605
+MZ/CHA/84E07/2017/64
+Mizoram
+Champhai
+ 
+Dilkawn Rd
+23.353111
+93.299361
+Debris
+Slide
+NA
+21606
+MZ/SER/84A15/2016/112
+Mizoram
+Aizawl
+ 
+Sailam, PMGSY Sialsuk-Sailam 
+Road
+23.353803
+92.794306
+Debris
+Slide
+2016
+21607
+MZ/CHA/84E07/2017/65
+Mizoram
+Champhai
+ 
+4 km south of Dilkawn
+23.354778
+93.300556
+Debris
+Slide
+2017
+21608
+MZ/CHA/84E07/2017/66
+Mizoram
+Champhai
+ 
+3.5 km south of Dilkawn
+23.35691
+93.301356
+Rock
+Slide
+NA
+21609
+MZ/CHA/84E07/2017/67
+Mizoram
+Champhai
+ 
+3 km mile stone Dilkawn
+23.359579
+93.298884
+Rock
+Slide
+NA
+21610
+MZ/LUN/84A11/2017/137
+Mizoram
+Lunglei
+ 
+About 2km South of S. 
+Khawlek,SH-Aibawk-Darlung- 
+Buarpui-Lunglei Road
+23.360199
+92.632911
+Rock
+Slide
+2016
+21611
+MZ/CHA/84E07/2017/68
+Mizoram
+Champhai
+ 
+2.5 km s of Dilkawn
+23.361979
+93.299909
+Debris
+Slide
+NA

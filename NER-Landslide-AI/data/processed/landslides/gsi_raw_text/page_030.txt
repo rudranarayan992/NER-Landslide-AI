@@ -1,0 +1,424 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+935
+ARN/PAP/83E11/2017/03
+Arunachal Pradesh
+Papum Pare
+6 kilo
+NH- 415
+27.10736
+93.64975
+Debris
+Slide
+2017
+936
+AR/WKG/83A12/2021/048
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 33
+NH 13/ Sedal
+27.1105
+92.537444
+Debris
+Slide
+NA
+937
+AP/PP/83E12/2008/A-6
+Arunachal Pradesh
+Papum Pare
+Slide at Naharlagun nala
+ 
+27.112222
+93.694444
+NA
+Flow
+2008
+938
+AR/CHNG/83M12/2022/045
+Arunachal Pradesh
+Changlang
+1 Km SE of Negchang
+Changlang-Khimioyng road
+27.112268
+95.736125
+Rock
+Slide
+NA
+939
+AR/WKG/83A12/2021/046
+Arunachal Pradesh
+West Kameng
+Seppa Road Slide 7
+Seppa Road Section
+27.112694
+92.543472
+Debris
+Slide
+NA
+940
+AR/WKG/83A12/2021/005
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 3
+NH 13
+27.11375
+92.537583
+Debris
+Slide
+NA
+941
+AR/CHNG/83M12/2022/035
+Arunachal Pradesh
+Changlang
+200m E of Kangkho
+Khonsa-Changlang road, NH-
+215
+27.115246
+95.670965
+Debris
+Slide
+NA
+942
+AR/CHNG/83M12/2022/043
+Arunachal Pradesh
+Changlang
+500 m SE of Negchang
+Changlang-Khimioyng road
+27.115545
+95.733337
+Rock
+Slide
+NA
+943
+AR/WKG/83A12/2021/054
+Arunachal Pradesh
+West Kameng
+Pinjori-Kimi Road Slide 3
+Pinjori-Kimi Road
+27.115694
+92.763028
+Rock
+Slide
+NA
+944
+AR/CHNG/83M12/2022/044
+Arunachal Pradesh
+Changlang
+700 m SE of Negchang
+Changlang-Khimioyng road
+27.11587
+95.733019
+Rock
+Fall
+NA
+945
+AR/WKG/83A12/2021/047
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 32
+NH 13/ Sedal
+27.116194
+92.543111
+Debris
+Slide
+NA
+946
+AR/CHNG/83M12/2022/034
+Arunachal Pradesh
+Changlang
+400m NE of Kangkho
+Khonsa-Changlang road, NH-
+215
+27.116625
+95.669825
+Debris
+Slide
+NA
+947
+AR/CHNG/83M12/2022/032
+Arunachal Pradesh
+Changlang
+800m W of Yankang
+Khonsa-Changlang road, NH-
+215
+27.122408
+95.678718
+Debris
+Slide
+NA
+948
+AR/CHNG/83M12/2022/033
+Arunachal Pradesh
+Changlang
+Yankang slide
+Khonsa-Changlang road, NH-
+215
+27.122872
+95.672546
+Debris
+Slide
+NA
+949
+AP/PAP/83E12/2021/7
+Arunachal Pradesh
+Papum Pare
+Naharlagun slide 1
+NE of Naharlagun
+27.123139
+93.702139
+Debris
+Slide
+NA
+950
+AP/PP/83E12/2008/A-8
+Arunachal Pradesh
+Papum Pare
+Slide at Nirijuli
+ 
+27.124444
+93.742222
+NA
+Creep
+2008
+951
+AR/CHNG/83M12/2022/099
+Arunachal Pradesh
+Changlang
+200m SE of Salang
+Changlang-New Changalang 
+road
+27.125767
+95.745585
+Debris
+Slide
+NA
+952
+ARN/PAP/83E11/2017/02
+Arunachal Pradesh
+Papum Pare
+Nirjuli
+NH- 415
+27.1275
+93.73164
+Debris
+Slide
+2017
+953
+ARN/PAP/83E11/2017/04
+Arunachal Pradesh
+Papum Pare
+2 kilo
+NH- 415
+27.1275
+93.73164
+Debris
+Slide
+2017
+954
+AP/PAP/83E12/2021/8
+Arunachal Pradesh
+Papum Pare
+Naharlagun slide 2
+Near Naharlagun
+27.128972
+93.705333
+Debris
+Slide
+NA
+955
+AR/CHNG/83M12/2022/031
+Arunachal Pradesh
+Changlang
+1 km N of Yankang
+Khonsa-Changlang road, NH-
+215
+27.12922
+95.684101
+Debris
+Slide
+NA
+956
+AR/CHNG/83M12/2022/029
+Arunachal Pradesh
+Changlang
+ Yatdam slide
+Khonsa-Changlang road, NH-
+215
+27.131129
+95.689613
+Debris
+Slide
+NA
+957
+AR/CHNG/83M12/2022/030
+Arunachal Pradesh
+Changlang
+500 m S of Saban-Wawoi
+Khonsa-Changlang road, NH-
+215
+27.132794
+95.687302
+Debris
+Slide
+NA
+958
+AR/CHNG/83M12/2022/028
+Arunachal Pradesh
+Changlang
+600 m West of Simnom
+Khonsa-Changlang road, NH-
+215
+27.132933
+95.709803
+Debris
+Slide
+NA
+959
+AR/WKG/83A12/2021/055
+Arunachal Pradesh
+West Kameng
+Pinjori-Kimi Road Slide 4
+Pinjori-Kimi Road
+27.134444
+92.599611
+Debris
+Slide
+NA
+960
+Arn/ Papum Pare 
+/83E/12/2020/02
+Arunachal Pradesh
+Papum Pare
+N/A
+N/A
+27.13469444
+93.74347222
+Unconsolidated rock 
+debris and sandy soil.
+Translation 
+(Debris flow)
+NA
+961
+AR/CHNG/83M12/2022/109
+Arunachal Pradesh
+Changlang
+300 N of Changlang
+NH-215, Changlang-Margherita 
+raod
+27.143343
+95.743034
+Debris
+Slide
+NA
+962
+AR/CHNG/83M12/2022/054
+Arunachal Pradesh
+Changlang
+500 N of Changlang
+Changlang-Margherita road (NH-
+215)
+27.1448
+95.742566
+Debris
+Slide
+NA
+963
+AR/WKG/83A12/2021/056
+Arunachal Pradesh
+West Kameng
+Pinjori-Kimi Road Slide 5
+Pinjori-Kimi Road
+27.148056
+92.613889
+Debris
+Slide
+NA
+964
+AR/CHNG/83M12/2022/101
+Arunachal Pradesh
+Changlang
+200m S of Rangran
+Changlang-New Changalang 
+road
+27.150127
+95.780208
+Debris
+Slide
+NA
+965
+AR/WKG/83A12/2021/006
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 4
+NH 13
+27.152417
+92.561778
+Debris
+Slide
+NA
+966
+AR/WKG/83A12/2021/007
+Arunachal Pradesh
+West Kameng
+NH 13 Slide 5
+NH 13
+27.153056
+92.56175
+Debris
+Slide
+NA
+967
+AR/CHNG/83M12/2022/100
+Arunachal Pradesh
+Changlang
+500m Swof Rangran
+Changlang-New Changalang 
+road
+27.153826
+95.77545
+Debris
+Slide
+NA
+968
+AR/CHNG/83M16/2022/106
+Arunachal Pradesh
+Changlang
+1 km NE of Amchung
+Changlang-Kengkhu road
+27.15844
+95.755292
+Debris
+Slide
+NA
+969
+AR/CHNG/83M16/2022/107
+Arunachal Pradesh
+Changlang
+600m NE of Amchung
+Changlang-Kengkhu road
+27.158837
+95.750303
+Debris
+Slide
+NA
+970
+AP/PAP/83E12/2021/9
+Arunachal Pradesh
+Papum Pare
+Naharlagun Railway station slide 1
+NE Naharlagun Railway station
+27.16
+93.739167
+Debris
+Slide
+NA

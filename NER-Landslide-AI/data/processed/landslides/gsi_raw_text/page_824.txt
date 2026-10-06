@@ -1,0 +1,425 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+32550
+UK/BAG/53O13/2013/0077
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_77
+Left bank of Revti Ganga River.
+29.988611
+79.942278
+Rock cum Debris
+Slide
+16th-17th June 2013
+32551
+UK/BAG/53O13/2013/0076
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_76
+Left bank of Revti Ganga River.
+29.988639
+79.939111
+Rock
+Fall
+16th-17th June 2013
+32552
+UK/BAG/62C01/2015/444
+Uttarakhand
+Bageshwar
+ 
+ 
+29.988939
+80.078439
+Rock
+Slide
+NA
+32553
+UK/BAG/53O13/2015/303
+Uttarakhand
+Bageshwar
+ 
+ 
+29.988972
+79.923917
+Rock
+Fall
+NA
+32554
+UK/BAG/53O13/2015/369
+Uttarakhand
+Bageshwar
+ 
+ 
+29.989056
+79.94
+Rock
+Fall
+NA
+32555
+UK/PAU/53K05/2016/1
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.989126
+78.458924
+Rock
+Slide
+NA
+32556
+UK/BAG/53O13/2013/0075
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_75
+Left bank of Revti Ganga River.
+29.989361
+79.933222
+Rock cum Debris
+Fall
+16th-17th June 2013
+32557
+UK/BAG/53O13/2015/377
+Uttarakhand
+Bageshwar
+ 
+ 
+29.989503
+79.989667
+Rock
+Slide
+NA
+32558
+UK/PAU/53K05/2016/4
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.989598
+78.478211
+Rock
+Slide
+NA
+32559
+UK/BAG/53O13/2013/0043
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_43
+Left bank of Revti Ganga near 
+Ritha Bagad village.
+29.98975
+79.918278
+Rock
+Fall and Slide
+16th-17th June 2013
+32560
+UK/BAG/53O13/2013/0046
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_46
+Right bank of Revti Ganga
+29.989806
+79.922194
+Rock cum Debris
+Slide
+16th-17th June 2013
+32561
+UK/BAG/53O13/2013/0074
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_74
+Right bank of Revti Ganga River 
+about 200 m upstream of 
+Kharbagad Village.
+29.989861
+79.932111
+Rock cum Debris
+Flow
+16th-17th June 2013
+32562
+UK/BAG/53O13/2013/0042
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_42
+Right bank of Revti Ganga near 
+Ritha Bagad village
+29.989889
+79.917139
+Rock cum Debris
+Slide
+16th-17th June 2013
+32563
+UK/BAG/53O13/2013/0044
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_44
+Right bank of Revti Ganga
+29.99
+79.919667
+Rock cum Debris
+Slide
+16th-17th June 2013
+32564
+UK/BAG/53O13/2013/0045
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_45
+Left bank of Revti Ganga.
+29.99
+79.919667
+Rock
+Topple
+16th-17th June 2013
+32565
+UK/BAG/53O13/2015/367
+Uttarakhand
+Bageshwar
+ 
+ 
+29.99
+79.933333
+Rock
+Slide
+NA
+32566
+UK/PAU/53K13/2016/117
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.99
+78.76
+Rock
+Slide
+NA
+32567
+UK/PIT/62C09/2020/8
+Uttarakhand
+Pithoragarh
+ 
+Dahrchula-Mangti
+29.99
+80.71
+Rock
+Slide
+2014
+32568
+UK/BAG/53O13/2015/306
+Uttarakhand
+Bageshwar
+ 
+ 
+29.990039
+79.941115
+Rock
+Slide
+2012
+32569
+UK/BAG/53O13/2013/0047
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_47
+Right bank of Revti Ganga River 29.99025
+79.924639
+Rock cum Debris
+Slide
+16th-17th June 2013
+32570
+UK/BAG/53O13/2013/0048
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_48
+Left bank of Revti Ganga River 
+near Iron Bridge
+29.990306
+79.925
+Rock cum Debris
+Slide
+16th-17th June 2013
+32571
+UK/BAG/62C01/2015/443
+Uttarakhand
+Bageshwar
+ 
+ 
+29.990339
+80.082853
+Rock
+Slide
+NA
+32572
+UK/BAG/53O13/2015/368
+Uttarakhand
+Bageshwar
+ 
+ 
+29.990444
+79.936917
+Rock cum Debris
+Slide
+NA
+32573
+UK/BAG/53O13/2013/0049
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_49
+Left bank of Revti Ganga Village 29.990611
+79.926306
+Debris
+Slide
+16th-17th June 2013
+32574
+UK/PAU/53O01/2017/63
+Uttarakhand
+Pauri Garhwal
+ 
+ThaplaPitarsainBhandeli road
+29.990814
+79.042456
+Rock
+Slide
+2016
+32575
+UK/BAG/53O13/2013/0073
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_73
+Kharbagad village on the right 
+bank of Revti Ganga River
+29.990889
+79.930139
+Rock cum Debris
+Slide
+16th-17th June 2013
+32576
+UK/BAG/53O13/2013/0050
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_50
+ 
+29.990944
+79.924278
+Debris
+Slide
+16th-17th June 2013
+32577
+UK/PAU/53K10/2016/3
+Uttarakhand
+Pauri Garhwal
+Satpuli Vyast Road (SH-49)
+Satpuli Vyast Road (SH-49)
+29.991112
+78.640542
+Rock
+Fall
+NA
+32578
+UK/PAU/53K09/2016/5
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.991299
+78.435188
+Rock
+Slide
+NA
+32579
+UK/BAG/53O13/2015/305
+Uttarakhand
+Bageshwar
+ 
+ 
+29.991453
+79.937667
+Rock
+Slide
+NA
+32580
+UK/PAU/53K10/2016/4
+Uttarakhand
+Pauri Garhwal
+Satpuli Vyast Road (SH-49)
+Satpuli Vyast Road (SH-49)
+29.991627
+78.638364
+Rock
+Fall
+NA
+32581
+UK/BAG/53O13/2015/315
+Uttarakhand
+Bageshwar
+ 
+ 
+29.991667
+79.906111
+Rock
+Slide
+2012
+32582
+UK/BAG/53O13/2015/308
+Uttarakhand
+Bageshwar
+ 
+ 
+29.991667
+79.944444
+Rock
+Slide
+2012
+32583
+UK/BAG/53O13/2015/361
+Uttarakhand
+Bageshwar
+ 
+ 
+29.991667
+79.916667
+Rock
+Slide
+NA
+32584
+UK/BAG/53O13/2015/376
+Uttarakhand
+Bageshwar
+ 
+ 
+29.992068
+79.988173
+Rock
+Slide
+NA
+32585
+UK/BAG/53O13/2013/0006
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_ 06
+500 m downstream of 
+confluence of Gason Gad on left 
+bank of Sarju River
+29.992306
+79.912472
+Rock cum Debris
+Fall
+16th-17th June 2013
+32586
+UK/BAG/53O13/2013/0007
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_ 07
+Gason Village
+29.992306
+79.912472
+Debris
+Flow
+16th-17th June 2013

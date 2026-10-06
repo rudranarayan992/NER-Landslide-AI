@@ -1,0 +1,368 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29586
+WB/DAR/78A16/2015/291
+West Bengal
+Darjeeling
+1.5km from Jhalung near Ratopani
+1.5km from Jhalung near 
+Ratopani
+27.056832
+88.877481
+Debris
+Slide
+1993
+29587
+WB/DAR/78A08/2015/62
+West Bengal
+Darjeeling
+Kalimpong City
+Kalimpong City
+27.05688
+88.46131
+Debris
+Subsidence
+2007
+29588
+WB/DARJ/78A08/2007/0317
+West Bengal
+Darjeeling
+ 
+Kalimpong City
+27.057
+88.461
+Debris
+Subsidence
+NA
+29589
+WB/DAR/78A12/2015/227
+West Bengal
+Darjeeling
+Pudung village
+Pudung village
+27.057
+88.521
+Rock
+Slide
+2012
+29590
+WB/DAR/78A12/2015/1528
+West Bengal
+Darjeeling
+ 
+TARDHURA
+27.057136
+88.521333
+Rock
+Slide
+2016
+29591
+WB/DAR/78A08/2015/1322
+West Bengal
+Darjeeling
+PRATHMIK SWASTHA KENDRA, 
+KALIMPONG
+KALIMPONG
+27.057917
+88.457778
+Rock cum Debris
+Slide
+NA
+29592
+WB/DAR/78A08/2015/153
+West Bengal
+Darjeeling
+6th Mile,
+6th Mile, Kalimpong
+27.058
+88.498361
+Debris
+Slide
+2015
+29593
+WB/DAR/78A08/2015/143
+West Bengal
+Darjeeling
+6th Mile,
+6th Mile, Kalimpong
+27.058
+88.498361
+Debris
+Slide
+2015
+29594
+WB/DAR/78A04/2015/4
+West Bengal
+Darjeeling
+Rammam project Road, Barbatia 
+village
+Near Barahatta village, on 
+project road cnnecting 
+Rammam Hydel Project Stage-II
+27.058363
+88.091683
+Debris
+Slide
+1991
+29595
+WB/DAR/78A12/2015/1372
+West Bengal
+Darjeeling
+MELLI ROAD
+LOLEY
+27.058472
+88.571722
+Debris
+Slide
+2015
+29596
+WB/DAR/78A08/2015/99
+West Bengal
+Darjeeling
+Singhamari
+Subhas Gram Singhamari
+27.058611
+88.252457
+Debris
+Slide
+2009
+29597
+WB/DAR/78A12/2015/1373
+West Bengal
+Darjeeling
+MELLI ROAD
+LOLEY
+27.058861
+88.570583
+Rock cum Debris
+Slide
+2015
+29598
+WB/DAR/78A16/2015/292
+West Bengal
+Darjeeling
+At Biru Khola Near Paren Powerhouse At Biru Khola Near Paren 
+Powerhouse
+27.058908
+88.870359
+Debris
+Slide
+1993
+29599
+WB/DARJ/78A08/2007/0318
+West Bengal
+Darjeeling
+ 
+NH-55
+27.059
+88.459
+Debris
+Slide
+2007
+29600
+WB/DAR/78A12/2015/1459
+West Bengal
+Darjeeling
+ 
+ 
+27.059022
+88.565169
+Debris
+Slide
+NA
+29601
+WB/DAR/78A12/2015/1460
+West Bengal
+Darjeeling
+ 
+ 
+27.059129
+88.686542
+Debris
+Slide
+NA
+29602
+WB/DAR/78A08/2015/63
+West Bengal
+Darjeeling
+NH-55
+NH-55
+27.05913
+88.45943
+Debris
+Slide
+2007
+29603
+WB/DAR/78A12/2015/255
+West Bengal
+Darjeeling
+Deorali- Jhora-II
+ 
+27.059243
+88.589275
+Rock
+Slide
+2013
+29604
+WB/DAR/78A08/2015/1157
+West Bengal
+Darjeeling
+ 
+LAMAHATTA
+27.059583
+88.358111
+Debris
+Slide
+2015
+29605
+WB/DAR/78A12/2015/224
+West Bengal
+Darjeeling
+14 km on Relli-Lolegaon road
+14 km on Relli-Lolegaon road
+27.059972
+88.568836
+Rock
+Slide
+2012
+29606
+WB/DARJ/78A08/2007/0316
+West Bengal
+Darjeeling
+ 
+Old Slide on NH-55 near 
+Goethals School
+27.06
+88.47
+Debris
+Slide
+2007
+29607
+WB/DAR/78A08/2015/61
+West Bengal
+Darjeeling
+NH-55near Goethals School
+Old Slide on NH-55 near 
+Goethals School
+27.06
+88.47
+Debris
+Slide
+2007
+29608
+WB/DAR/78A12/2015/188
+West Bengal
+Darjeeling
+41.0km from Damdim on Damdim-
+Labha-Algara road
+Paparkheti - Lava road
+27.060093
+88.674062
+Debris
+Slide
+2007
+29609
+WB/DAR/78A04/2021/PDLS/63
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06034823
+88.09329107
+Debris
+Slide
+October 2021
+29610
+WB/DAR/78A08/2015/159
+West Bengal
+Darjeeling
+Bong
+Bong, 
+south east of Agriculture 
+University, Kalimpong town
+27.060778
+88.480639
+Debris
+Subsidence
+2015
+29611
+WB/DAR/78A08/2015/145
+West Bengal
+Darjeeling
+Bong
+Bong, 
+south east of Agriculture 
+University, Kalimpong town
+27.060778
+88.480639
+Debris
+Subsidence
+2015
+29612
+WB/DAR/78A08/2015/91
+West Bengal
+Darjeeling
+Ropeway, Bara Pattabong
+ 
+27.061
+88.258472
+Debris
+Slide
+2009
+29613
+WB/DAR/78A08/2015/1364
+West Bengal
+Darjeeling
+LOWER BONG BUSTY,KALIMPONG
+LOWER BONG 
+BUSTY,KALIMPONG
+27.061028
+88.47775
+Debris
+Subsidence
+2015
+29614
+WB/DAR/78A04/2021/PDLS/29
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06124233
+88.25340271
+Debris
+Slide
+October 2021
+29615
+WB/DAR/78A08/2015/98
+West Bengal
+Darjeeling
+Rainban area Singhamari near house 
+of James Gurung
+ 
+27.06127
+88.2515
+Debris
+Slide
+2009
+29616
+WB/DAR/78A04/2015/1222
+West Bengal
+Darjeeling
+ 
+SAMSU
+27.061278
+88.149056
+Debris
+Slide
+2016

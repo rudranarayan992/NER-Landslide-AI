@@ -1,0 +1,412 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12917
+KRL/Kollam/58G04/2016-17/01 Kerala
+Kollam
+Chempanuruvi Debris Slide
+Chempanuruvi village
+9.117406
+77.018122
+Debris
+Flow
+1992
+12918
+KRL/Kollam/58G04/2016-17/03 Kerala
+Kollam
+Tura Debris Slide
+Tura-Achankovil road
+9.121653
+77.040825
+Debris
+Slide
+NA
+12919
+KRL/Pathanamthitta/58C16/201
+6-17/20
+Kerala
+Pathanamthitta
+Kottarathara Debris Flow
+Kottarathara village
+9.178389
+76.879028
+Debris
+Flow
+2013
+12920
+KRL/Pathanamthitta/58C16/201
+6-17/18
+Kerala
+Pathanamthitta
+Aruvpallam Debris Flow -1
+Aruvpallam village
+9.183183
+76.888167
+Debris
+Flow
+1977
+12921
+KRL/Pathanamthitta/58C16/201
+6-17/19
+Kerala
+Pathanamthitta
+Aruvpallam Debris Flow -2
+Aruvpallam village
+9.18425
+76.887844
+Debris
+Flow
+1977
+12922
+KRL/Pathanamthitta/58C16/201
+6-17/21
+Kerala
+Pathanamthitta
+Manniara Slump
+Manniara village
+9.233194
+76.935817
+Earth
+Slide
+2006
+12923
+KRL/Pathanamthitta/58C16/201
+6-17/22
+Kerala
+Pathanamthitta
+Manniara Debris Flow
+Manniara village
+9.2339
+76.933897
+Debris
+Flow
+2006
+12924
+KER/ID/58G03/2019/40
+Kerala
+Pathanamthitta
+Gavi
+Gavi road
+9.31
+77.1
+Debris
+Slide
+2019
+12925
+KER/ID/58G03/2019/38
+Kerala
+Pathanamthitta
+Gavi
+Gavi road
+9.32
+77.1
+Debris
+Slide
+2019
+12926
+KER/ID/58G03/2019/39
+Kerala
+Pathanamthitta
+Gavi
+Gavi road
+9.32
+77.1
+Debris
+Flow
+2019
+12927
+KL/IDUK/58G02/2011/0066
+Kerala
+Idukki
+Vandiperiyar Landslide
+Periyar village
+9.5725
+77.09172
+Debris
+Slide
+2011
+12928
+KER/IDUK/53G02/2010/0004
+Kerala
+Idukki
+Pottakalli
+Kattapana village
+9.7005
+77.1069
+Rock cum Debris
+Slide and flow
+27 October 2010
+12929
+KER/IDUK/53G02/2010/0005
+Kerala
+Idukki
+East Mattukada
+Ayappan Kovil Village
+9.7015
+77.1066
+Rock cum Debris
+Slide and flow
+27 October 2010
+12930
+KER/IDUK/58C14/2007/0022
+Kerala
+Idukki
+Edadumuttam 2
+Elappally
+9.7386
+76.8754
+Debris
+Avalanche
+31 July 2005
+12931
+KER/IDUK/58C14/2007/0021
+Kerala
+Idukki
+Edadumuttam1
+Elappally
+9.7409
+76.8724
+Debris
+Slide
+22 June 2007
+12932
+KER/ID/58G03/2019/41
+Kerala
+Idukki
+Kulamavu
+Kulamavu - Kozhipally road
+9.81
+76.88
+Debris
+Slide
+2019
+12933
+KER/IDUK/53C13/2010/0003
+Kerala
+Idukki
+Karippilangadi
+Arakulum village
+9.8116
+76.8508
+Debris
+Subsidence
+27 October 2010
+12934
+KER/IDUK/53C13/2010/0001
+Kerala
+Idukki
+Poochapra
+SH 33, Kuruttikalam
+9.8222
+76.8433
+Rock cum Debris
+Slide
+27 October 2010
+12935
+KER/IDUK/53C13/2010/0002
+Kerala
+Idukki
+Kurutikalam
+SH 33,
+9.823
+76.8397
+Debris
+Slide
+27 October 2010
+12936
+KER/IDUK/58C13/2007/0025
+Kerala
+Idukki
+Periyar valley
+Vathikkudi
+9.9344
+76.9811
+Debris
+Avalanche
+01 July 2007 (07:40 hrs)
+12937
+KER/IDUK/58C13/2007/0026
+Kerala
+Idukki
+Kudikayathil
+Vathikkudi
+9.9352
+76.9791
+Debris
+Avalanche
+01 July 2007 (07:40 hrs)
+12938
+KER/IDUK/58G01/2007/0028
+Kerala
+Idukki
+Konnathadi
+Elappally
+9.952
+77.0521
+Debris
+Avalanche
+01 July 2007 (03:50 hrs)
+12939
+KL/IDUK/58G01/2011/0065
+Kerala
+Idukki
+Kakka city landslide
+Konnathadi village
+9.96775
+77.02686
+Debris
+Slide
+2011
+12940
+KL/IDU/58B16/2019/407
+Kerala
+Idukki
+Aanakkulam
+Vellathuval-Koobanpara road
+10
+76.99
+Debris
+Slide
+2018
+12941
+KL/IDU/58B16/2019/408
+Kerala
+Idukki
+Aanakkulam
+Vellathuval-Koobanpara road
+10
+76.99
+Debris
+Slide
+2018
+12942
+KL/IDU/58B16/2019/411
+Kerala
+Idukki
+Thalumkandam
+Koomban para-Chithirapuram 
+road
+10
+76.98
+Debris
+Flow
+NA
+12943
+KL/IDU/58B16/2019/412
+Kerala
+Idukki
+Thalumkandam
+Koomban para-Chithirapuram 
+road
+10
+76.98
+Debris
+Slide
+2018
+12944
+KL/IDU/58F04/2019/519
+Kerala
+Idukki
+Thalumkandam
+Kunjithanni-Kachinappara  road 10
+77.13
+Debris
+Slide
+NA
+12945
+KL/IDU/58F04/2019/521
+Kerala
+Idukki
+Mankulam
+Muttukadu-Vathukappu road
+10
+77.16
+Debris
+Slide
+NA
+12946
+KL/IDU/58F04/2019/522
+Kerala
+Idukki
+Mankulam
+Muttukadu-Vathukappu road
+10
+77.16
+Debris
+Slide
+NA
+12947
+KL/IDU/58F04/2019/525
+Kerala
+Idukki
+Aaram mile
+NH 49
+10
+77.22
+Debris
+Slide
+NA
+12948
+KL/IDU/58F04/2019/526
+Kerala
+Idukki
+Aaram mile
+NH 49
+10
+77.22
+Debris
+Slide
+2018
+12949
+KL/IDU/58F04/2019/527
+Kerala
+Idukki
+Chikkanad kudi
+NH 49
+10
+77.23
+Debris
+Slide
+NA
+12950
+KL/IDU/58F04/2019/591
+Kerala
+Idukki
+Thalumkandam
+Chenkulam-Anachal road
+10
+77.02
+Debris
+Slide
+2018
+12951
+KL/IDU/58F04/2019/593
+Kerala
+Idukki
+Mankulam
+Chenkulam
+10
+77.05
+Debris
+Slide
+2018
+12952
+KL/IDU/58F04/2019/394
+Kerala
+Idukki
+Thalumkandam
+Anachal- Kunjithanni road
+10.01
+77.06
+Debris
+Slide
+NA

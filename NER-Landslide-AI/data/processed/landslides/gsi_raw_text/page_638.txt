@@ -1,0 +1,371 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+25186
+NAG/WOKH/83J08/2015/0025
+Nagaland
+Wokha
+ 
+2 km SE of Wokha
+26.088361
+94.264222
+Rock
+Slide
+NA
+25187
+NAG/WOKH/83J08/2015/0012
+Nagaland
+Wokha
+ 
+2 km SE of Wokha Town.
+26.0885
+94.263944
+Rock
+Slide
+NA
+25188
+NAG/WOKH/83J08/2015/0009
+Nagaland
+Wokha
+ 
+1.5 km NW of Mangya Village, 
+18 km SE of Wokha Town.
+26.088722
+94.349833
+Rock
+Topple
+NA
+25189
+NAG/WOK/83J/4/2016/0074
+Nagaland
+Wokha
+ 
+Humtsoe village
+26.08875
+94.202444
+Debris
+Slide
+NA
+25190
+NAG/WOKH/83J08/2015/0030
+Nagaland
+Wokha
+ 
+NH 61, wokha to Mangya road
+26.089806
+94.349306
+Rock
+Slide
+NA
+25191
+NAG/WOKH/83J08/2015/0057
+Nagaland
+Wokha
+ 
+On the way to district hospital
+26.090056
+94.256167
+Rock
+Slide
+NA
+25192
+NAG/WOK/83J/4/2016/0073
+Nagaland
+Wokha
+ 
+Humtsoe village
+26.0905
+94.204583
+Debris
+Slide
+NA
+25193
+NAG/WOKH/83J08/2015/0029
+Nagaland
+Wokha
+ 
+NH 61, wokha to Mangya road
+26.090556
+94.349083
+Rock
+Slide
+NA
+25194
+NAG/WOK/83J/4/2016/0085
+Nagaland
+Wokha
+ 
+1.5 km SW of Longtsung
+26.091528
+94.100806
+Debris
+Slide
+2016
+25195
+NAG/WOK/83J/4/2016/0084
+Nagaland
+Wokha
+ 
+1.5 km SW of Longtsung
+26.091861
+94.101333
+Debris
+Slide
+2016
+25196
+NG/NOK/83N04/2017/47
+Nagaland
+Noklak
+ 
+Sanglao
+26.093083
+95.036278
+Rock
+Slide
+NA
+25197
+NAG/WOK/83J/4/2016/0072
+Nagaland
+Wokha
+ 
+1.5 km NE of Humstoe
+26.093972
+94.217417
+Debris
+Slide
+NA
+25198
+NG/NOK/83N04/2017/46
+Nagaland
+Noklak
+ 
+Sanglao
+26.094083
+95.043389
+Debris
+Slide
+NA
+25199
+NAG/ZUNH/83J08/2015/ 0090
+Nagaland
+Zunheboto
+ 
+Asukhuto
+26.094333
+94.493639
+Rock
+Slide
+NA
+25200
+NAG/WOKH/83J08/2015/0032
+Nagaland
+Wokha
+ 
+Wokha Town
+26.094778
+94.259278
+Debris
+Slide
+NA
+25201
+NAG/WOKH/83J08/2015/0056
+Nagaland
+Wokha
+ 
+Near SB main branch
+26.096722
+94.253694
+Rock
+Slide
+NA
+25202
+NAG/WOKH/83J08/2015/0055
+Nagaland
+Wokha
+ 
+Near DC Office
+26.096778
+94.252611
+Debris
+Slide
+NA
+25203
+NAG/WOK/83J/4/2016/0083
+Nagaland
+Wokha
+ 
+500m SW of Longtsung
+26.098056
+94.105472
+Rock
+Slide
+NA
+25204
+NAG/WOKH/83J08/2015/0001
+Nagaland
+Wokha
+ 
+0.5 km West of Wokha Town 
+near Mount Hill College.
+26.101583
+94.253222
+Debris
+Slide
+NA
+25205
+NAG/ZUN/83J12/2016/0012
+Nagaland
+Zunheboto
+ 
+Zunheboto to Wokha Road
+26.101907
+94.537237
+Rock
+Fall
+NA
+25206
+NG/NOK/83N04/2017/41
+Nagaland
+Noklak
+ 
+Choklangan
+26.10325
+95.060361
+Debris
+Slide
+NA
+25207
+NAG/WOKH/83J08/2015/0020
+Nagaland
+Wokha
+ 
+NH-61/ 13 km NE of Wokha 
+Town.
+26.103667
+94.363139
+Rock
+Slide
+NA
+25208
+NAG/WOKH/83J08/2015/0019
+Nagaland
+Wokha
+ 
+NH-61/ 12 km NE of Wokha 
+Town.
+26.104528
+94.353833
+Rock
+Slide
+NA
+25209
+NAG/WOKH/83J08/2015/0010
+Nagaland
+Wokha
+ 
+Tsungiki Village, 14 km East of 
+Wokha Town.
+26.104944
+94.3375
+Debris
+Slide
+NA
+25210
+NAG/WOKH/83J08/2015/0003
+Nagaland
+Wokha
+ 
+NH-61/ Near Nagaland State 
+Transport, Wokha Town
+26.105583
+94.257778
+Rock
+Slide
+NA
+25211
+NL/WKH/83J04/2021/01
+Nagaland
+Wokha
+E-Khel slide
+#N/A
+26.10694722
+94.25328889
+Insitu Soil
+Slide
+18 September 2021
+25212
+NAG/WOKH/83J08/2015/0011
+Nagaland
+Wokha
+ 
+Tsungiki Village, 14 km East of 
+Wokha Town.
+26.107333
+94.339139
+Rock
+Slide
+NA
+25213
+NAG/WOK/83J/4/2016/0082
+Nagaland
+Wokha
+ 
+Longtsung village
+26.109167
+94.116167
+Debris
+Slide
+NA
+25214
+NAG/ZUN/83J12/2016/0022
+Nagaland
+Zunheboto
+ 
+7km N of Shamator
+26.110135
+94.870921
+Rock
+Slide
+NA
+25215
+NAG/WOKH/83J08/2015/0052
+Nagaland
+Wokha
+ 
+Wokha Village B khel
+26.111278
+94.257194
+Rock
+Slide
+NA
+25216
+NAG/WOK/83J/4/2016/0081
+Nagaland
+Wokha
+ 
+Longtsung village
+26.111389
+94.119028
+Debris
+Slide
+NA
+25217
+NAG/ZUN/83J12/2016/0059
+Nagaland
+Zunheboto
+ 
+3 km N of Satami
+26.111529
+94.634066
+Debris
+Slide
+NA

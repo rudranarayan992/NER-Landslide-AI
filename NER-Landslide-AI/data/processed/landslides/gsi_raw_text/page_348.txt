@@ -1,0 +1,328 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14521
+172
+Kerala
+Idukki
+Konginippadavu
+Nanguthotti - Velliampadi road
+9.774871374
+77.09912379
+Debris
+Slide
+15th August, 2018
+14522
+173
+Kerala
+Idukki
+Krishnamkudi
+Vellayamkudi - Mulakaramedu 
+road
+9.789942971
+77.08532125
+Debris
+Slide
+15th August, 2018
+14523
+174
+Kerala
+Idukki
+Parakkadavu
+Kattapana - Puliyanmala road
+9.753602864
+77.13547404
+Soil
+Slide
+14th August, 2018
+14524
+175
+Kerala
+Idukki
+Parakkadavu II
+Kattapana - Puliyanmala road
+9.750874738
+77.12944301
+Soil
+Slide
+15th August, 2018
+14525
+176
+Kerala
+Idukki
+Kanakalippadi
+Idukki - Kattappana road
+9.76948285
+77.08905732
+Soil
+Slide
+June, 2018
+14526
+177
+Kerala
+Idukki
+Vazhavara
+9.796795
+77.067566
+Debris
+Subsidence
+15th August, 2018
+14527
+178
+Kerala
+Idukki
+Mothirapalliyil
+9.786024
+77.124144
+Debris
+Cut slope 
+failure
+15th August, 2018
+14528
+179
+Kerala
+Idukki
+Kattappana
+9.756908
+77.125782
+Debris
+Cut slope 
+failure
+15th August, 2018
+14529
+180
+Kerala
+Idukki
+Vazhavara
+9.790765
+77.066116
+NA
+Subsidence
+15th August, 2018
+14530
+181
+Kerala
+Idukki
+Kallukunnu II
+9.761878
+77.11159
+Debris
+Cut slope 
+failure
+15th August, 2018
+14531
+182
+Kerala
+Idukki
+Vazhavara
+9.794404
+77.060807
+Debris
+Cut slope 
+failure
+16th August, 2018
+14532
+183
+Kerala
+Idukki
+Mulakarameedu
+9.775862
+77.083611
+NA
+Subsidence
+16th August, 2018
+14533
+184
+Kerala
+Idukki
+Kalyanathandu
+Kalyanathandu - Adivarikkudi 
+road
+9.763066379
+77.08295768
+Debris
+Flow
+15th August, 2018
+14534
+185
+Kerala
+Idukki
+Kalthotti
+Kalthotti - Vellilamkandam road 9.715762892
+77.06393214
+Debris
+Slide
+15th August, 2018
+14535
+186
+Kerala
+Idukki
+Kalthotti II
+Kalthotti - Vellilamkandam road 9.715642363
+77.0644325
+Debris
+Slide
+15th August, 2018
+14536
+187
+Kerala
+Idukki
+Irattayar
+Irattayar - Nedumkandam road 9.798944362
+77.1089531
+Debris
+Flow
+16th August, 2018
+14537
+188
+Kerala
+Idukki
+Irattayar North
+Shanthigram - Irattayar north 
+road
+9.810384858
+77.1064828
+Debris
+Slide
+15th August, 2018
+14538
+189
+Kerala
+Idukki
+Irattayar North II
+Shanthigram - Irattayar north 
+road
+9.810828425
+77.10637625
+Debris
+Slide
+15th August, 2018
+14539
+190
+Kerala
+Idukki
+Mangattupadi
+Mangattupadi - Idinjamala road 9.81092575
+77.09943244
+Debris
+Slide
+15th August, 2018
+14540
+191
+Kerala
+Idukki
+Mangattupadi II
+Mangattupadi - Idinjamala road 9.811184305
+77.09855006
+Debris
+Slide
+14th August, 2018
+14541
+192
+Kerala
+Idukki
+Irattayar North III
+Mangattupadi - Idinjamala road 9.811205599
+77.09803073
+Debris
+Flow
+14th August, 2018
+14542
+193
+Kerala
+Idukki
+Irattayar North IV
+Shanthigram - Irattayar north 
+road
+9.809430603
+77.10003362
+Soil
+Slide
+15th August, 2018
+14543
+194
+Kerala
+Idukki
+Idinjamala
+9.817654798
+77.0797255
+Debris
+Slide
+15th August, 2018
+14544
+195
+Kerala
+Idukki
+Nellippara
+Nellippara - Ezhammile road
+9.810211202
+77.0641951
+Debris
+Flow
+15th August, 2018
+14545
+196
+Kerala
+Idukki
+Nellippara II
+Nellippara - Ezhammile road
+9.810414717
+77.06343082
+Debris
+Flow
+15th August, 2018
+14546
+197
+Kerala
+Idukki
+Nellippara III
+Nellippara - Ezhammile road
+9.810954929
+77.05932391
+Debris
+Flow
+19th August, 2018
+14547
+198
+Kerala
+Idukki
+Nellippara IV
+Nellippara - Ezhammile road
+9.813177667
+77.05649416
+Debris
+Slide
+15th August, 2018
+14548
+199
+Kerala
+Idukki
+Naalumukku
+Kattapana - Naalumukku - 
+Thangamani road
+9.811895349
+77.07703751
+Debris
+Slide
+15th August, 2018
+14549
+200
+Kerala
+Idukki
+Naalumukku II
+Kattapana - Naalumukku - 
+Thangamani road
+9.811021097
+77.07809834
+Soil
+Slide
+15th August, 2018

@@ -1,0 +1,450 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16436
+MAH/KAN/47H15/2015/54
+Maharashtra
+Kankavli
+ 
+SH-116, Radhanagari-Phonda 
+Ghat Rd
+16.381
+73.857
+Rock
+Slide
+NA
+16437
+MAH/KAN/47H15/2015/52
+Maharashtra
+Kankavli
+ 
+66Km stone, SH116 (Devgarh to 
+Nipani)
+16.382
+73.855
+Debris
+Slide
+NA
+16438
+MAH/RAD/47H15/2015/88
+Maharashtra
+Radhanagari
+ 
+Off SH-116 Dajipur-Digas Rd
+16.396
+73.87
+Debris
+Slide
+NA
+16439
+MAH/RAD/47H15/2015/87
+Maharashtra
+Radhanagari
+ 
+Off SH-116 Dajipur-Digas Rd
+16.399
+73.875
+Debris
+Fall
+NA
+16440
+MAH/KAN/47H15/2015/70
+Maharashtra
+Kankavli
+ 
+Kankavli-Kaneri Bazar-Phonda-
+Vaibhavwadi Rd (SH-117)
+16.415
+73.811
+Debris
+Slide
+NA
+16441
+MAH/RAD/47L03/2015/78
+Maharashtra
+Radhanagari
+Malewadi
+Daurawadi-Sulambi Rd
+16.42
+74.04
+Debris
+Slide
+NA
+16442
+MAH/KAN/47H15/2015/51
+Maharashtra
+Kankavli
+ 
+Kankavli-Kanedi Bazar-Phonda-
+Kurli-Vaibhavwadi (SH-117)
+16.42
+73.803
+Debris
+Slide
+NA
+16443
+MAH/RAD/47L03/2015/77
+Maharashtra
+Radhanagari
+Kudutri
+Shiroli-KasbaTarle Rd
+16.433
+74.035
+Debris
+Slide
+NA
+16444
+MAH/KAN/47H15/2015/71
+Maharashtra
+Kankavli
+ 
+Kankavli-Kaneri Bazar-Phonda-
+Vaibhavwadi Rd (SH-117)
+16.442
+73.82
+Earth
+Slump
+NA
+16445
+MAH/RAD/47L03/2015/79
+Maharashtra
+Radhanagari
+Chakreshwarwadi
+Khindichevarwade-
+Chakreshwarwadu Rd
+16.46
+74.079
+Debris
+Slide
+NA
+16446
+MAH/KAN/47H15/2015/72
+Maharashtra
+Kankavli
+ 
+Kankavli-Kaneri Bazar-Phonda-
+Vaibhavwadi Rd (SH-117)
+16.463
+73.817
+Earth
+Slump
+NA
+16447
+MAH/VAI/47H15/2015/146
+Maharashtra
+Vaibhavwadi
+Sadure
+Shirale-sadure Rd Rd
+16.467
+73.827
+Debris
+Fall
+NA
+16448
+MAH/VAI/47H15/2015/145
+Maharashtra
+Vaibhavwadi
+Rujhunewadi
+Shirale-sadure Rd Rd
+16.468
+73.845
+Debris
+Slide
+NA
+16449
+MAH/RAD/47H15/2015/84
+Maharashtra
+Radhanagari
+Gaonthan
+Gaonthan-Nivlachawada Rd
+16.469
+73.959
+Debris
+Slide
+NA
+16450
+MAH/RAD/47H15/2015/85
+Maharashtra
+Radhanagari
+Gaonthan
+Gaonthan-Nivlachawada Rd
+16.47
+73.956
+Debris
+Slide
+NA
+16451
+MH/SIN/47H14/2016/16
+Maharashtra
+Sindhudurg
+ 
+Vaibhavwadi-Karul Road, SH-
+177
+16.515
+73.802
+Debris
+Fall
+2016
+16452
+MH/KOLH/47H14/2016/12
+Maharashtra
+Kolhapur
+ 
+Gagan Bavda- Gariwade; Borbet 
+RF
+16.521
+73.909
+Debris
+Slide
+2016
+16453
+MH/SIN/47H14/2016/15
+Maharashtra
+Sindhudurg
+ 
+Karul -Bhattiwadti Road
+16.524
+73.809
+Debris
+Slide
+2015
+16454
+MH/SIN/47H14/2016/14
+Maharashtra
+Sindhudurg
+ 
+Karul -Bhattiwadti Road
+16.527
+73.813
+Debris
+Slide
+2016
+16455
+MH/SIN/47H14/2016/55
+Maharashtra
+Sindhudurg
+ 
+Karul Ghat Road; SH-115
+16.53
+73.803
+Debris
+Slide
+2016
+16456
+MH/SIN/47H14/2016/56
+Maharashtra
+Sindhudurg
+ 
+Karul Ghat Road; SH-115
+16.53
+73.804
+Debris
+Slide
+2016
+16457
+MH/SIN/47H14/2016/10
+Maharashtra
+Sindhudurg
+ 
+SH-115, Karul Ghat Section
+16.53
+73.832
+Debris
+Slide
+2016
+16458
+MH/SIN/47H14/2016/42
+Maharashtra
+Sindhudurg
+ 
+Karul Ghat Road; SH-115
+16.53
+73.832
+Debris
+Fall
+2015
+16459
+MH/SIN/47H14/2016/54
+Maharashtra
+Sindhudurg
+ 
+Karul Ghat Road; SH-115
+16.531
+73.803
+Debris
+Slide
+2016
+16460
+MH/SIN/47H14/2016/41
+Maharashtra
+Sindhudurg
+ 
+Karul Ghat Road; SH-115
+16.531
+73.833
+Rock
+Fall
+2016
+16461
+MH/SIN/47H14/2016/52
+Maharashtra
+Sindhudurg
+ 
+Karul Ghat Road; SH-115
+16.532
+73.805
+Debris
+Slide
+2016
+16462
+MH/SIN/47H14/2016/53
+Maharashtra
+Sindhudurg
+ 
+Karul Ghat Road; SH-115
+16.532
+73.805
+Debris
+Slide
+2016
+16463
+MH/SIN/47H14/2016/40
+Maharashtra
+Sindhudurg
+ 
+Karul Ghat Road; SH-115
+16.532
+73.832
+Debris
+Fall
+2016
+16464
+MH/SIN/47H14/2016/43
+Maharashtra
+Sindhudurg
+ 
+Karul Ghat Road; SH-115
+16.533
+73.829
+Debris
+Slide
+2016
+16465
+MH/SIN/47H14/2016/44
+Maharashtra
+Sindhudurg
+ 
+Karul Ghat Road; SH-115
+16.533
+73.825
+Debris
+Slide
+2016
+16466
+MH/SIN/47H14/2016/45
+Maharashtra
+Sindhudurg
+ 
+Karul Ghat Road; SH-115
+16.533
+73.824
+Debris
+Slide
+2015
+16467
+MH/SIN/47H14/2016/46
+Maharashtra
+Sindhudurg
+ 
+Karul Ghat Road; SH-115
+16.533
+73.823
+Debris
+Slide
+2016
+16468
+MH/SIN/47H14/2016/51
+Maharashtra
+Sindhudurg
+ 
+Karul Ghat Road; SH-115
+16.534
+73.805
+Debris
+Slide
+2016
+16469
+MH/SIN/47H14/2016/47
+Maharashtra
+Sindhudurg
+ 
+Karul Ghat Road; SH-115
+16.538
+73.823
+Rock
+Fall
+2016
+16470
+MH/SIN/47H14/2016/49
+Maharashtra
+Sindhudurg
+ 
+Karul Ghat Road; SH-115
+16.539
+73.814
+Debris
+Slide
+2016
+16471
+MH/SIN/47H14/2016/50
+Maharashtra
+Sindhudurg
+ 
+Karul Ghat Road; SH-115
+16.539
+73.812
+Debris
+Slide
+2016
+16472
+MH/SIN/47H14/2016/11
+Maharashtra
+Sindhudurg
+ 
+SH-115, Karul Ghat Section
+16.54
+73.847
+Debris
+Slide
+2016
+16473
+MH/SIN/47H14/2016/48
+Maharashtra
+Sindhudurg
+ 
+Karul Ghat Road; SH-115
+16.54
+73.817
+Debris
+Slide
+2016
+16474
+MH/KOLH/47H14/2016/57
+Maharashtra
+Kolhapur
+ 
+Gaganbavda Temple Road
+16.543
+73.825
+Debris
+Slide
+2016

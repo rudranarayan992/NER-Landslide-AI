@@ -1,0 +1,542 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+4789
+HP/BIL/53A12/2017/7
+Himachal Pradesh
+Bilaspur
+ 
+NH 21
+31.248639
+76.730444
+Rock
+Slide
+NA
+4790
+HP/BIL/53A12/2017/88
+Himachal Pradesh
+Bilaspur
+ 
+NH 21A,GUJJAR HATTI
+31.24875
+76.723944
+Debris
+Slide
+NA
+4791
+HP/BIL/53A12/2017/9
+Himachal Pradesh
+Bilaspur
+ 
+NH 21, SWARGHAT
+31.24875
+76.723944
+Debris
+Slide
+NA
+4792
+HP/BIL/53A12/2017/87
+Himachal Pradesh
+Bilaspur
+ 
+NH 21A
+31.248889
+76.726944
+Debris
+Slide
+NA
+4793
+HP/BIL/53A12/2017/8
+Himachal Pradesh
+Bilaspur
+ 
+NH 21, SWARGHAT
+31.248889
+76.726944
+Debris
+Slide
+NA
+4794
+HP/SHI/53E16/2016/97
+Himachal Pradesh
+Shimla
+ 
+NEAR DENWARI
+31.249
+77.9008
+Debris
+Slide
+NA
+4795
+HP/SHI/53E16/2016/33
+Himachal Pradesh
+Shimla
+ 
+NEAR TIKRINH-72
+31.2492
+77.9433
+Debris
+Slide
+NA
+4796
+HP/SOL/53A16/2017/30
+Himachal Pradesh
+Solan
+ 
+NH 88
+31.249611
+76.913278
+Debris
+Slide
+NA
+4797
+HP/BIL/53A16/2017/94
+Himachal Pradesh
+Bilaspur
+ 
+NH 21
+31.249722
+76.771611
+Rock
+Slide
+NA
+4798
+HP/BIL/53A15/2015/329
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.250003
+76.771361
+Rock
+Slide
+2015
+4799
+HP/SOL/53A16/2017/31
+Himachal Pradesh
+Solan
+ 
+NH 88
+31.250139
+76.912944
+Debris
+Slide
+NA
+4800
+HP/SHI/53E16/2016/98
+Himachal Pradesh
+Shimla
+ 
+NEAR DENWARI
+31.2502
+77.9026
+Debris
+Slide
+NA
+4801
+HP/SHI/53E03/2015/36
+Himachal Pradesh
+Shimla
+ 
+ 
+31.250972
+77.248528
+Rock
+Slide
+NA
+4802
+HP/SHI/53E07/2016/85
+Himachal Pradesh
+Shimla
+ 
+Narkanda
+31.251583
+77.464861
+Debris
+Slide
+NA
+4803
+HP/SHI/53E07/2016/22
+Himachal Pradesh
+Shimla
+ 
+Narkanda
+31.251667
+77.473333
+Debris
+Slide
+NA
+4804
+HP/SHI/53E07/2016/56
+Himachal Pradesh
+Shimla
+ 
+Malghi
+31.252
+77.29925
+Debris
+Slide
+NA
+4805
+HP/SHI/53E03/2015/37
+Himachal Pradesh
+Shimla
+ 
+ 
+31.252028
+77.215417
+Rock
+Slide
+NA
+4806
+HP/SHI/53E07/2016/62
+Himachal Pradesh
+Shimla
+ 
+Malghi
+31.252222
+77.297111
+Rock
+Slide
+NA
+4807
+HP/SHI/53E16/2016/120
+Himachal Pradesh
+Shimla
+ 
+TIKARI TIKRI-LAROT ROAD, 5KM 
+MILESTONE
+31.253
+77.9372
+Debris
+Slide
+NA
+4808
+HP/SHI/53E07/2016/53
+Himachal Pradesh
+Shimla
+ 
+Malghi
+31.253083
+77.296222
+Rock
+Slide
+NA
+4809
+HP/BIL/53A15/2015/347
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.253139
+76.770028
+Rock
+Slide
+2015
+4810
+HP/BIL/53A15/2015/212
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.2535
+76.770056
+Debris
+Slide
+2015
+4811
+HP/BIL/53A15/2015/336
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.253778
+76.770944
+Rock
+Slide
+2015
+4812
+HP/MAN/53E03/2015/165
+Himachal Pradesh
+Mandi
+ 
+ 
+31.253999
+77.089273
+Debris
+Slide
+NA
+4813
+HP/SHI/53E07/2016/64
+Himachal Pradesh
+Shimla
+ 
+Narkanda
+31.254278
+77.479861
+Rock
+Slide
+NA
+4814
+HP/SHI/53E15/2016/94
+Himachal Pradesh
+Shimla
+ 
+Pekha village
+31.2548
+77.9756
+Rock
+Slide
+NA
+4815
+HP/SHI/53E07/2016/21
+Himachal Pradesh
+Shimla
+ 
+Narkanda
+31.255306
+77.477778
+Rock
+Slide
+NA
+4816
+HP/SHI/53E07/2016/54
+Himachal Pradesh
+Shimla
+ 
+Malghi
+31.256139
+77.292889
+Rock
+Slide
+NA
+4817
+HP/BIL/53A15/2015/110
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.256889
+76.832667
+Rock
+Slide
+NA
+4818
+HP/SHI/53E07/2016/39
+Himachal Pradesh
+Shimla
+ 
+Alta Khad
+31.258
+77.598333
+Rock
+Slide
+NA
+4819
+HP/SHI/53E07/2016/40
+Himachal Pradesh
+Shimla
+ 
+Alta Khad
+31.258028
+77.598556
+Rock
+Slide
+NA
+4820
+HP/SHI/53E11/2016/46
+Himachal Pradesh
+Shimla
+ 
+South of Nagadhar
+31.258444
+77.514583
+Rock
+Slide
+NA
+4821
+HP/BIL/53A15/2015/217
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.258472
+76.767722
+Debris
+Slide
+2015
+4822
+HP/SHI/53E11/2016/90
+Himachal Pradesh
+Shimla
+ 
+South of Nagadhar
+31.258722
+77.515111
+Rock
+Slide
+NA
+4823
+HP/SHI/53E11/2016/50
+Himachal Pradesh
+Shimla
+ 
+South of Nagadhar
+31.25875
+77.516278
+Debris
+Slide
+NA
+4824
+HP/SHI/53E11/2016/47
+Himachal Pradesh
+Shimla
+ 
+South of Nagadhar
+31.25975
+77.517833
+Debris
+Slide
+NA
+4825
+HP/SHI/53E07/2016/57
+Himachal Pradesh
+Shimla
+ 
+Panewar
+31.259861
+77.300167
+Debris
+Slide
+NA
+4826
+HP/SHI/53E11/2016/18
+Himachal Pradesh
+Shimla
+ 
+South of Nagadhar
+31.259917
+77.513139
+Debris
+Slide
+NA
+4827
+HP/SHI/53E11/2016/48
+Himachal Pradesh
+Shimla
+ 
+South of Nagadhar
+31.259972
+77.518722
+Rock
+Slide
+NA
+4828
+HP/MAN/53E03/2015/166
+Himachal Pradesh
+Mandi
+ 
+ 
+31.260067
+77.096134
+Debris
+Slide
+NA
+4829
+HP/MAN/53E03/2015/276
+Himachal Pradesh
+Mandi
+ 
+ 
+31.260639
+77.073278
+Rock
+Slide
+2015
+4830
+HP/SHI/53E07/2016/82
+Himachal Pradesh
+Shimla
+ 
+North of Narkanda - NH-05
+31.261917
+77.447639
+Debris
+Slide
+NA
+4831
+HP/BIL/53A15/2015/227
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.262639
+76.766444
+Debris
+Slide
+2015
+4832
+HP/SHI/53E15/2016/59
+Himachal Pradesh
+Shimla
+ 
+Ramai village, Ramai - NH - 72 - 
+Link road
+31.2632
+77.9935
+Debris
+Slide
+NA
+4833
+HP/SHI/53E15/2016/61
+Himachal Pradesh
+Shimla
+ 
+Near Amboi village
+31.2645
+77.9948
+Debris
+Slide
+NA
+4834
+HP/SHI/53E11/2016/49
+Himachal Pradesh
+Shimla
+ 
+Jatral
+31.265222
+77.55075
+Rock
+Slide
+NA
+4835
+HP/SHI/53E15/2016/47
+Himachal Pradesh
+Shimla
+ 
+Tandi Khad
+31.2653
+77.9266
+Debris
+Subsidence
+NA
+4836
+HP/SHI/53E07/2016/3
+Himachal Pradesh
+Shimla
+ 
+Nihri
+31.265694
+77.469944
+Rock
+Slide
+NA

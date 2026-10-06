@@ -1,0 +1,352 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22067
+MZ/AIZ/84A14/2015/83
+Mizoram
+Aizawl
+ 
+About 8 km SE of Seling on SH 
+Seling-Champhai road
+23.700889
+92.878361
+Debris
+Slide
+NA
+22068
+MZ/CHA/84E02/2017/14
+Mizoram
+Champhai
+ 
+5.2 km N of Rabung
+23.701047
+93.190913
+Debris
+Slide
+NA
+22069
+MZ/CHA/84E02/2017/0063
+Mizoram
+Champhai
+ 
+E of Aiduzawl
+23.701575
+93.177726
+Debris
+Slide
+NA
+22070
+MIZ/AZL/84A/10/2021/01
+Mizoram
+Aizawl
+N/A
+N/A
+23.70166667
+92.71944444
+Rock
+Slide
+13 June.2021  at 20:30 hrs
+22071
+MZ/AIZ/84A14/2015/110
+Mizoram
+Aizawl
+ 
+Veibai village along Keifang-
+Saichal road
+23.702056
+92.993222
+Rock
+Slide
+NA
+22072
+MZ/AIZ/84A10/2014/03
+Mizoram
+Aizawl
+Vengthar
+Tlangnuan, Vengthar
+23.70272
+92.71631
+Rock
+Slide
+2007
+22073
+MZ/AIZ/84A10/2015/228
+Mizoram
+Aizawl
+ 
+Tlangnuam Vengthar, Melthum -
+Tlangnuam - Kulikawn Rd
+23.704333
+92.7145
+Rock
+Slide
+NA
+22074
+MZ/AIZ/84A14/2015/108
+Mizoram
+Aizawl
+ 
+NE of Keifang village on SH-
+Keifang-Saichal road.
+23.704861
+92.98575
+Rock
+Slide
+NA
+22075
+MZ/AIZ/84A14/2015/84
+Mizoram
+Aizawl
+ 
+About 7.5 km SE of Seling on SH 
+Seling-Champhai road
+23.705117
+92.877669
+Debris
+Slide
+NA
+22076
+MZ/AIZ/84E02/2017/35
+Mizoram
+Aizawl
+ 
+15km E of Keifang
+23.705262
+93.008904
+Rock
+Slide
+NA
+22077
+MZ/CHA/84E02/2017/7
+Mizoram
+Champhai
+ 
+6km N of Rabung
+23.705705
+93.19007
+Debris
+Slide
+NA
+22078
+MZ/AIZ/84A10/2015/233
+Mizoram
+Aizawl
+ 
+Kulukawn, Melthum - 
+Tlangnuam - Kulikawn Rd
+23.706667
+92.714694
+Rock
+Slide
+NA
+22079
+MZ/CHA/84E02/2017/13
+Mizoram
+Champhai
+ 
+5km N of Rabung
+23.707126
+93.187183
+Debris
+Slide
+NA
+22080
+MZ/AIZ/84A14/2015/68
+Mizoram
+Aizawl
+ 
+Berawtlang Tourist Lodge, DGM 
+Check Gate, South of 
+Berawtlang Lodge
+23.708217
+92.761489
+Debris
+Slide
+NA
+22081
+MZ/CHA/84E02/2017/0097
+Mizoram
+Champhai
+ 
+18.5 km E of Saitual
+23.708377
+93.053261
+Rock
+Slide
+NA
+22082
+MZ/CHA/84E02/2017/16
+Mizoram
+Champhai
+ 
+19km E of Saitual
+23.708507
+93.05583
+Debris
+Slide
+NA
+22083
+MZ/AIZ/84A10/2015/194
+Mizoram
+Aizawl
+ 
+West of Mission Veng, Dumping 
+Site,  Tlawng - Aizawl Rd
+23.71
+92.692528
+Debris
+Slide
+NA
+22084
+MZ/AIZ/84A10/2015/69
+Mizoram
+Aizawl
+ 
+North of Salem veng on world 
+bank road
+23.710194
+92.741167
+Debris
+Slide
+NA
+22085
+MZ/MAM/84A10/2015/131
+Mizoram
+Mamit
+ 
+North of Rulpuihlim, SH-Reiek- 
+Mamit-Aizawl
+23.710278
+92.558056
+Rock
+Slide
+NA
+22086
+MZ/CHA/84E02/2017/0099
+Mizoram
+Champhai
+ 
+21 km E of Saitual
+23.710517
+93.058403
+Rock
+Slide
+NA
+22087
+MZ/AIZ/84A10/2015/182
+Mizoram
+Aizawl
+ 
+South of Tlawng Hydro-Project, 
+Oasis picnic spot, SH- Aizawl - 
+Reiek
+23.71125
+92.660167
+Debris
+Slide
+NA
+22088
+MZ/AIZ/84A14/2015/63
+Mizoram
+Aizawl
+ 
+Tlangnuam area alon NH54
+23.711722
+92.858394
+Debris
+Slide
+NA
+22089
+MZ/MAM/84A10/2015/181
+Mizoram
+Mamit
+ 
+Southwest of Tlawng Hydro-
+Project, SH- Aizawl - Reiek
+23.712306
+92.649528
+Debris
+Slide
+NA
+22090
+MZ/MAM/84A10/2015/180
+Mizoram
+Mamit
+ 
+West of Tlawng Hydro-Project, 
+SH- Aizawl - Reiek
+23.712528
+92.64775
+Debris
+Slide
+NA
+22091
+MZ/MAM/84A10/2015/128
+Mizoram
+Mamit
+ 
+North of Rulpuihlim, SH-Reiek- 
+Mamit-Aizawl
+23.712611
+92.560444
+Debris
+Slide
+NA
+22092
+MZ/AIZ/84A10/2015/183
+Mizoram
+Aizawl
+ 
+1km South of Tlawng Hydro-
+Project view point of Azauli 
+Falls, SH- Aizawl - Reiek
+23.712694
+92.66025
+Debris
+Slide
+NA
+22093
+MZ/AIZ/84A14/2015/67
+Mizoram
+Aizawl
+ 
+Tuirial, 200m upstream from 
+turial bridge
+23.713131
+92.798942
+Debris
+Slide
+NA
+22094
+MZ/AIZ/84A10/2015/219
+Mizoram
+Aizawl
+ 
+Mualpui Bethel, Salem Veng - 
+World Bank Rd
+23.714694
+92.728694
+Debris
+Slide
+NA
+22095
+MZ/AIZ/84A14/2015/79
+Mizoram
+Aizawl
+ 
+Tlangnuam village  area on NH 
+54.
+23.714703
+92.873933
+Rock
+Slide
+NA

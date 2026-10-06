@@ -1,0 +1,445 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+24186
+NG/PER/83G14/2015/4
+Nagaland
+Peren
+ 
+Peren-Maram road (left bank of 
+Dziipvo river)
+25.526
+93.766
+Debris
+Slide
+2015
+24187
+NA/PER/83G10/2020/9
+Nagaland
+Peren
+ 
+New Reserve, Peren
+25.53
+93.74
+Rock
+Slide
+NA
+24188
+NA/PER/83G10/2020/10
+Nagaland
+Peren
+ 
+Peren town
+25.53
+93.74
+Debris
+Slide
+NA
+24189
+NA/PER/83G10/2020/11
+Nagaland
+Peren
+ 
+Nkwaral Village, Peren
+25.53
+93.73
+Debris
+Slide
+NA
+24190
+NA/PER/83G10/2020/13
+Nagaland
+Peren
+ 
+Khojai Colony, H/N-182
+25.53
+93.73
+Debris
+Slide
+NA
+24191
+NA/PER/83G10/2020/14
+Nagaland
+Peren
+ 
+Peren town
+25.53
+93.74
+Debris
+Slide
+NA
+24192
+NA/PER/83G10/2020/15
+Nagaland
+Peren
+ 
+Beletkoi Colony, Peren
+25.53
+93.74
+Earth
+Subsidence
+2017
+24193
+NA/PER/83G10/2020/19
+Nagaland
+Peren
+ 
+Peren-New Complex Rd
+25.53
+93.72
+Rock
+Slide
+NA
+24194
+NGP/ER/83G14/2015/21
+Nagaland
+Peren
+ 
+Left bank of Dziipvo river along 
+Peren-Maram road
+25.531
+93.762
+Debris
+Slide
+2015
+24195
+NG/PHE/83K2/2015/188
+Nagaland
+Phek
+ 
+Pfiitsero-Tadubi approach road
+25.536
+94.236
+Rock cum Debris
+Slide
+NA
+24196
+NL/PHE/83K02/2014/35
+Nagaland
+Phek
+Lasumivillage slide
+Pfiitsero- Tadubi road
+25.53633
+94.23894
+Debris
+Slide
+June to July, 2011 
+24197
+NG/KOH/83K2/2015/174
+Nagaland
+Kohima
+ 
+NH-29
+25.538
+94.135
+Debris
+Subsidence
+1940
+24198
+NA/PER/83G10/2020/16
+Nagaland
+Peren
+ 
+Paifokram Colony, Peramgyi 
+house.
+25.54
+93.74
+Earth
+Slide
+NA
+24199
+NA/PER/83G10/2020/17
+Nagaland
+Peren
+ 
+GMS Keletzai Colony, Ward-2
+25.54
+93.74
+Earth
+Subsidence
+2018
+24200
+NG/PHE/83K6/2015/329
+Nagaland
+Phek
+ 
+Razeba-Thetsumi-Chizami road. 25.543
+94.357
+Debris
+Slide
+2010
+24201
+NG/PHE/83K6/2015/248
+Nagaland
+Phek
+ 
+Pfiitsero-Lekromi approach 
+road
+25.546
+94.274
+Debris
+Slide
+2013
+24202
+NG/PHE/83K6/2015/250
+Nagaland
+Phek
+ 
+Lekromi village
+25.546
+94.27
+Debris
+Slide
+2014
+24203
+NG/KOH/83K2/2015/153
+Nagaland
+Kohima
+ 
+Kidima-Leshemi/Zuketsa 
+approach road
+25.548
+94.188
+Debris
+Slide
+2014
+24204
+NL/KOH/83K02/2014/42
+Nagaland
+Kohima
+Between Kezoma- Leshimi
+Kezoma- Leshimi road
+25.54831
+94.19192
+Debris
+Slide
+2014
+24205
+NG/PHE/83K6/2015/268
+Nagaland
+Phek
+ 
+Pfiitsero-Tadubi road
+25.549
+94.286
+Debris
+Slide
+2015
+24206
+NG/KOH/83K2/2015/114
+Nagaland
+Kohima
+ 
+Viswema terrace fields
+25.552
+94.149
+Debris
+Slide
+2009
+24207
+NG/PHE/83K6/2015/261
+Nagaland
+Phek
+ 
+Chizami-Thetsumi-Razeba road
+25.552
+94.36
+Rock
+Slide
+2010
+24208
+NG/PHE/83K6/2015/252
+Nagaland
+Phek
+ 
+Chizami-Thetsumi-Razeba road
+25.552
+94.362
+Rock
+Slide
+2010
+24209
+NG/PHE/83K6/2015/307
+Nagaland
+Phek
+ 
+Pfiitsero-Tadubi road
+25.552
+94.289
+Rock cum Debris
+Slide
+2015
+24210
+NG/KOH/83K2/2015/116
+Nagaland
+Kohima
+ 
+Viswema terrace fields
+25.553
+94.148
+Debris
+Slide
+2009
+24211
+NG/PHE/83K14/2017/53
+Nagaland
+Phek
+ 
+New Thewati to Washello
+25.553833
+94.762389
+Debris
+Slide
+NA
+24212
+NG/KOH/83K2/2015/124
+Nagaland
+Kohima
+ 
+Viswema terrace fields
+25.554
+94.148
+Debris
+Slide
+2009
+24213
+NL/PHE/83K02/2014/32
+Nagaland
+Phek
+Zunheboto - Chuzuba
+SH Zunheboto road- Chuzuba
+25.55408
+94.23669
+Debris
+Slide
+2014
+24214
+NG/PHE/83K14/2017/54
+Nagaland
+Phek
+ 
+New Thewati to Washello
+25.554167
+94.760944
+Debris
+Slide
+NA
+24215
+NG/PHE/83K14/2017/51
+Nagaland
+Phek
+ 
+New Thewati
+25.555056
+94.768611
+Soil
+Subsidence
+NA
+24216
+NG/PHE/83K14/2017/52
+Nagaland
+Phek
+ 
+New Thewati
+25.555969
+94.764325
+Debris
+Slide
+NA
+24217
+NL/KOH/83K02/2014/48
+Nagaland
+Kohima
+Viswema slide
+Agri-link Road
+25.55697
+94.15322
+Debris
+Flow
+2014
+24218
+NG/PHE/83K6/2015/245
+Nagaland
+Phek
+ 
+Pfiitseromi village
+25.559
+94.284
+Debris
+Fall
+2015
+24219
+NG/KOH/83K2/2015/212
+Nagaland
+Kohima
+ 
+ 
+25.559
+94.249
+Rock
+Slide
+NA
+24220
+NG/PHE/83K6/2015/332
+Nagaland
+Phek
+ 
+ 
+25.559
+94.251
+Rock
+Slide
+NA
+24221
+NG/PHE/83K14/2017/50
+Nagaland
+Phek
+ 
+New Thewati
+25.559211
+94.769978
+Debris
+Slide
+NA
+24222
+NG/KOH/83K2/2015/241
+Nagaland
+Kohima
+ 
+Approx. 255m ESE of Viswema
+25.56
+94.151
+Debris
+Composite
+NA
+24223
+NG/KOH/83K2/2015/176
+Nagaland
+Kohima
+ 
+Approx. 470m ESE of Viswema
+25.56
+94.153
+Debris
+Slide
+NA
+24224
+NG/PHE/83K14/2017/20
+Nagaland
+Phek
+ 
+Shillio to New Thewati
+25.560844
+94.773214
+Debris
+Slide
+NA

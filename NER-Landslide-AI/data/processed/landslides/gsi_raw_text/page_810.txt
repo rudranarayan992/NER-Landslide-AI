@@ -1,0 +1,477 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+31911
+UK/BAG/53O13/2015/329
+Uttarakhand
+Bageshwar
+ 
+ 
+29.832306
+79.801611
+Rock
+Fall
+NA
+31912
+UK/PAU/53K13/2016/144
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.832364
+78.987403
+Debris
+Slide
+NA
+31913
+UK/PAU/53O01/2017/99
+Uttarakhand
+Pauri Garhwal
+ 
+NH121
+29.833143
+79.045469
+Rock cum debris
+Slide
+2012
+31914
+UK/PAU/53O01/2017/101
+Uttarakhand
+Pauri Garhwal
+ 
+NH121
+29.833155
+79.05763
+Debris
+Slide
+2013
+31915
+UK/BAG/53O13/2013/0038
+Uttarakhand
+Bageshwar
+UK_BAG_Sh-11_ 38
+Near Udena village
+29.833528
+79.822778
+Debris
+Slide
+16th-17th June 2013
+31916
+UK/PAU/53O01/2017/100
+Uttarakhand
+Pauri Garhwal
+ 
+NH121
+29.833591
+79.045177
+Debris
+Slide
+2012
+31917
+UK/PAU/53K09/2016/73
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.833835
+78.710154
+Debris
+Slide
+NA
+31918
+UK/PAU/53K09/2016/28
+Uttarakhand
+Pauri Garhwal
+Lansdowne
+ 
+29.833874
+78.695542
+Debris
+Slide
+NA
+31919
+UK/BAG/53O13/2013/0069
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_69
+Dhalmalla- Khanoli Road Section 29.833944
+79.872889
+Rock cum Debris
+Slide
+16th-17th June 2013
+31920
+UK/PAU/53K09/2016/57
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.83434
+78.598053
+Debris
+Slide
+NA
+31921
+UK/PAU/53O01/2017/98
+Uttarakhand
+Pauri Garhwal
+ 
+BironkhalRikhnikhalKotdwara 
+Marg
+29.834723
+79.017239
+Rock
+Slide
+2012
+31922
+UK/BAG/53O13/2015/330
+Uttarakhand
+Bageshwar
+ 
+ 
+29.834861
+79.869421
+Rock cum Debris
+Slide
+NA
+31923
+UK/BAG/53O13/2013/0068
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_68
+Dhalmalla- Khanoli Road Section 29.835472
+79.874556
+Rock cum Debris
+Slide
+16th-17th June 2013
+31924
+UK/PAU/53O01/2017/97
+Uttarakhand
+Pauri Garhwal
+ 
+BironkhalRikhnikhalKotdwara 
+Marg
+29.836447
+79.019369
+Rock
+Slide
+2012
+31925
+UK/BAG/53O13/2015/342
+Uttarakhand
+Bageshwar
+ 
+ 
+29.836583
+79.780889
+Rock
+Fall
+NA
+31926
+UK/BAG/52O13/2013/0001
+Uttarakhand
+Bageshwar
+UK_BAG_SH-11_ 01
+Nearly 4.5 km from Bageshwar
+29.836611
+79.788889
+Rock cum Debris
+Slide
+NA
+31927
+UK/PAU/53K09/2016/62
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.836855
+78.597226
+Debris
+Slide
+NA
+31928
+UK/PAU/53O01/2017/94
+Uttarakhand
+Pauri Garhwal
+ 
+NH121
+29.837642
+79.04286
+Rock cum debris
+Slide
+2012
+31929
+UK/PAU/53K13/2016/148
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.837812
+78.980182
+Rock
+Slide
+NA
+31930
+UK/BAG/52O13/2013/0002
+Uttarakhand
+Bageshwar
+UK_BAG_NH_ 02
+Nearly 5 km from Bageshwar
+29.838639
+79.792167
+NA
+ 
+16th-17th June 2013
+31931
+UK/PAU/53K13/2016/149
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.838648
+78.980377
+Rock
+Slide
+NA
+31932
+UK/ALM/53O05/2017/58
+Uttarakhand
+Almora
+ 
+Forest
+29.839139
+79.446824
+Debris
+Slide
+2011
+31933
+UK/BAG/53O13/2013/0067
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_67
+Bijaipur Ora-Dhupti Road 
+Section
+29.839306
+79.9205
+Rock cum Debris
+Slide
+16th-17th June 2013
+31934
+UK/BAG/53O13/2015/343
+Uttarakhand
+Bageshwar
+ 
+ 
+29.839306
+79.9205
+Rock cum Debris
+Slide
+NA
+31935
+UK/BAG/53O13/2015/293
+Uttarakhand
+Bageshwar
+ 
+ 
+29.83945
+79.799478
+Rock
+Fall
+NA
+31936
+UK/BAG/53O13/2015/341
+Uttarakhand
+Bageshwar
+ 
+ 
+29.839939
+79.869903
+Rock
+Slide
+NA
+31937
+UK/ALM/53O01/2017/12
+Uttarakhand
+Almora
+ 
+AikukhetJhag road
+29.839969
+79.136536
+Rock
+Slide
+2011
+31938
+UK/PAU/53K09/2016/79
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.840155
+78.702449
+Debris
+Slide
+NA
+31939
+UK/BAG/53O13/2013/0066
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_66
+Bijaipur Ora-Dhupti Road 
+Section
+29.840278
+79.928361
+Rock cum Debris
+Flow
+16th-17th June 2013
+31940
+UK/BAG/53O13/2015/344
+Uttarakhand
+Bageshwar
+ 
+ 
+29.840298
+79.928481
+Rock
+Slide
+NA
+31941
+UK/PAU/53K09/2016/60
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.84111
+78.599614
+Rock
+Fall
+NA
+31942
+UK/PAU/53K13/2016/102
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.841318
+78.984692
+Debris
+Slide
+NA
+31943
+UK/BAG/53O13/2015/294
+Uttarakhand
+Bageshwar
+ 
+ 
+29.841672
+79.797239
+Rock cum Debris
+Slide
+NA
+31944
+UK/BAG/53O13/2015/289
+Uttarakhand
+Bageshwar
+ 
+ 
+29.842841
+79.767303
+Rock cum Debris
+Slide
+NA
+31945
+UK/BAG/53O13/2013/0003
+Uttarakhand
+Bageshwar
+UK_BAG_SH-11_ 03
+Nearly 6.5 km from Bageshwar
+29.843194
+79.797222
+Rock cum Debris
+Slide
+16th-17th June 2013
+31946
+UK/PAU/53O01/2017/116
+Uttarakhand
+Pauri Garhwal
+ 
+Bandarkhuta
+29.843256
+79.093631
+Rock
+Slide
+2015
+31947
+UK/BAG/53O13/2015/318
+Uttarakhand
+Bageshwar
+ 
+ 
+29.843671
+79.960763
+Rock
+Fall
+NA
+31948
+UK/BAG/53O13/2013/0014
+Uttarakhand
+Bageshwar
+UK_BAG_SH-11_ 14
+Kanda 12 km milestone and 
+Kameridevi 1 km
+29.843722
+79.960722
+Rock
+Fall
+16th-17th June 2013
+31949
+UK/PAU/53K09/2016/66
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.843906
+78.724534
+Debris
+Slide
+NA
+31950
+UK/PAU/53O01/2017/114
+Uttarakhand
+Pauri Garhwal
+ 
+Bandarkhuta
+29.844796
+79.085754
+Rock
+Slide
+2012
+31951
+UK/PAU/53K09/2016/61
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.844845
+78.600763
+Rock
+Slide
+NA
+31952
+UK/PAU/53K09/2016/67
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.845208
+78.722552
+Debris
+Slide
+NA

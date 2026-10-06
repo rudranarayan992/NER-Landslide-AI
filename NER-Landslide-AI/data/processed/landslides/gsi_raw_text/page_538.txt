@@ -1,0 +1,301 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21531
+MZ/SER/84A15/2016/17
+Mizoram
+Serchhip
+ 
+About 600m Southwest of 
+Serchhip-Bungtlang junction,SH-
+Thenzawl-Serchhip Road.
+23.288105
+92.857432
+Rock
+Slide
+2015
+21532
+MZ/SER/84A15/2016/18
+Mizoram
+Serchhip
+ 
+100m west of Serchhip-
+Bungtlang Junction, SH-
+Thenzawl-Serchhip road
+23.28985
+92.860445
+Debris
+Slide
+2015
+21533
+MZ/SER/84A15/2016/26
+Mizoram
+Serchhip
+ 
+About 200m North of Road 
+junction, Serchhip, NH-54 
+Aizawl-Serchhip-Lunglei Road
+23.291063
+92.860374
+Debris
+Slide
+2015
+21534
+MZ/SER/84A15/2016/27
+Mizoram
+Serchhip
+ 
+Old Serchhip, NH-54 Aizawl-
+Serchhip-Lunglei Road
+23.293142
+92.857091
+Debris
+Slide
+2016
+21535
+MZ/SER/84A15/2016/74
+Mizoram
+Serchhip
+ 
+Southeast of Sainik 
+School,Chhingchhip, PMGSY 
+Chhingchhip-Hmuntha Road
+23.293769
+92.871451
+Rock
+Slide
+2016
+21536
+MZ/CHA/84E07/2017/62
+Mizoram
+Champhai
+ 
+Sesih  Bulfekzawl road
+23.296
+93.340556
+Soil
+Slide
+NA
+21537
+MZ/CHA/84E03/2017/58
+Mizoram
+Champhai
+ 
+11km north of Sialhawlk
+23.296419
+93.095813
+Rock
+Slide
+NA
+21538
+MZ/SER/84A15/2016/114
+Mizoram
+Serchhip
+ 
+East of Tlawng River Bridge, SH-
+Thenzawl-Buarpui Road
+23.29659
+92.694008
+Rock
+Slide
+2016
+21539
+MZ/SER/84A15/2016/121
+Mizoram
+Serchhip
+ 
+Northwest of Thenzawl, SH-
+Thenzawl-Buarpui Road
+23.297332
+92.740677
+Rock
+Slide
+2016
+21540
+MZ/SER/84A15/2016/120
+Mizoram
+Serchhip
+ 
+Northwest of Thenzawl, SH-
+Thenzawl-Buarpui Road
+23.297637
+92.74119
+Debris
+Slide
+2016
+21541
+MZ/SER/84A15/2016/28
+Mizoram
+Serchhip
+ 
+Near Zuala store, Old Serchhip, 
+NH-54 Aizawl-Serchhip-Lunglei 
+Road
+23.297759
+92.856169
+Debris
+Slide
+NA
+21542
+MZ/CHA/84E07/2017/53
+Mizoram
+Champhai
+ 
+Sesih village
+23.297894
+93.332441
+Rock
+Slide
+NA
+21543
+MZ/LUN/84A11/2017/135
+Mizoram
+Lunglei
+ 
+North of Buarpui, SH-Aibawk-
+Darlung- Buarpui-Lunglei Road
+23.298044
+92.648759
+Debris
+Slide
+2016
+21544
+MZ/SER/84A15/2016/3
+Mizoram
+Serchhip
+ 
+Near plantation Area (Gov. Of 
+India) Project, SH Thenzawl-
+Serchhip Road
+23.298413
+92.81508
+Earth
+Slide
+2016
+21545
+MZ/CHA/84E03/2017/44
+Mizoram
+Champhai
+ 
+Tlangpui village
+23.299073
+93.057068
+Rock
+Slide
+NA
+21546
+MZ/SER/84A15/2016/115
+Mizoram
+Serchhip
+ 
+East of Tlawng River Bridge, SH-
+Thenzawl-Buarpui Road
+23.299407
+92.696714
+Rock
+Slide
+2016
+21547
+MZ/SER/84A15/2016/119
+Mizoram
+Serchhip
+ 
+Northwest of Thenzawl, SH-
+Thenzawl-Buarpui Road
+23.30028
+92.741186
+Rock
+Slide
+2016
+21548
+MZ/CHA/84E07/2017/38
+Mizoram
+Champhai
+ 
+2 km north of Sesih
+23.301117
+93.330175
+Rock
+Slide
+NA
+21549
+MZ/SER/84A15/2016/116
+Mizoram
+Serchhip
+ 
+East of Tlawng River Bridge, SH-
+Thenzawl-Buarpui Road
+23.301399
+92.699109
+Rock
+Slide
+2016
+21550
+MZ/LUN/84A11/2017/136
+Mizoram
+Lunglei
+ 
+North of Buarpui, SH-Aibawk-
+Darlung- Buarpui-Lunglei Road
+23.302106
+92.649524
+Rock
+Slide
+2017
+21551
+MZ/SER/84A15/2016/29
+Mizoram
+Serchhip
+ 
+C. Biakchunga House, 
+Pentecostal home, Old 
+Serchhip, NH-54 Aizawl-
+Serchhip-Lunglei Road
+23.302456
+92.853533
+Rock
+Slide
+2015
+21552
+MZ/CHA/84E07/2017/24
+Mizoram
+Champhai
+Khuangleng slide
+Khuangleng village
+23.303412
+93.31066
+Rock
+Slide
+2017
+21553
+MZ/CHA/84E07/2017/18
+Mizoram
+Champhai
+ 
+Khuangleng village
+23.303639
+93.311361
+Rock
+Slide
+2017
+21554
+MZ/CHA/84E07/2017/11
+Mizoram
+Champhai
+ 
+2.5 km north of Sesih 
+(khuangleng road)
+23.304778
+93.329472
+Debris
+Slide
+NA

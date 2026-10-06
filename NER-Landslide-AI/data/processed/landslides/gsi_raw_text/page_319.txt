@@ -1,0 +1,255 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+13597
+KRL/MAL/58A07/2015/116
+Kerala
+Malappuram
+on NH 212
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.418414
+76.378483
+Debris
+Slide
+NA
+13598
+KRL/MAL/58A07/2015/117
+Kerala
+Malappuram
+on NH 212
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.418883
+76.378483
+Debris
+Slide
+NA
+13599
+KRL/MAL/58A07/2015/115
+Kerala
+Malappuram
+on NH 212
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.419386
+76.378781
+Debris
+Slide
+NA
+13600
+KRL/MAL/58A07/2015/114
+Kerala
+Malappuram
+on NH 212
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.419836
+76.379117
+Earth
+Slide
+NA
+13601
+KRL/MAL/54A03/2015/42
+Kerala
+Malappuram
+Irulkadu
+Munderi Road
+11.419903
+76.23705
+Rock cum Debris
+Slide
+2015
+13602
+KRL/MAL/58A07/2015/113
+Kerala
+Malappuram
+on NH 212
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.420208
+76.380039
+Debris
+Slide
+NA
+13603
+KRL/MAL/58A07/2015/112
+Kerala
+Malappuram
+on NH 212
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.421669
+76.382539
+Debris
+Slide
+NA
+13604
+KRL/MAL/58A07/2015/111
+Kerala
+Malappuram
+on NH 212
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.422797
+76.382883
+Debris
+Slide
+NA
+13605
+KRL/KOZ/54A03/2015/26
+Kerala
+Kozhikode
+Cherrusseri
+Nellipoil-Pullurampara Road
+11.422892
+76.060725
+Debris
+Slide
+NA
+13606
+KRL/KOZ/54A03/2015/38
+Kerala
+Kozhikode
+Pottenkode
+Chembukadavu-Adivaram Road 11.424114
+76.036125
+Rock cum Debris
+Slide
+NA
+13607
+KRL/KOZ/54A03/2015/20
+Kerala
+Kozhikode
+Nellipoil
+Nellipoil-Anackampoil Road
+11.424848
+76.077212
+Rock cum Debris
+Slide
+NA
+13608
+KRL/MAL/58A07/2015/128
+Kerala
+Malappuram
+Near Muslim Juma
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.426836
+76.382994
+Debris
+Slide
+NA
+13609
+KRL/KOZ/54A03/2015/21
+Kerala
+Kozhikode
+ 
+NULL
+11.427123
+76.083067
+Rock cum Debris
+Slide
+2012
+13610
+KRL/MAL/58A07/2015/110
+Kerala
+Malappuram
+on NH 212
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.427636
+76.384067
+Debris
+Slide
+NA
+13611
+KRL/MAL/58A07/2015/109
+Kerala
+Malappuram
+on NH 212
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.4311
+76.386519
+Debris
+Slide
+NA
+13612
+KRL/MAL/58A07/2015/108
+Kerala
+Malappuram
+on NH 212
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.431297
+76.386825
+Debris
+Slide
+NA
+13613
+KER/MALA/58A07/2007/0048
+Kerala
+Malappuram
+Kallala 102/800
+Vazhikkadavu
+11.4315
+76.389
+Rock cum Debris
+Slump
+NA
+13614
+KRL/KOZ/54A03/2015/19
+Kerala
+Kozhikode
+Kakkattupara
+Nellipoil-Anackampoil Road
+11.434772
+76.072452
+Rock cum Debris
+Slide
+NA
+13615
+KRL/MAL/58A07/2015/107
+Kerala
+Malappuram
+on NH 212
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.435264
+76.390853
+Debris
+Slide
+NA
+13616
+KRL/MAL/58A07/2015/106
+Kerala
+Malappuram
+on NH 212
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.436314
+76.391783
+Debris
+Slide
+NA
+13617
+KRL/KOZ/54A03/2015/17
+Kerala
+Kozhikode
+Anackampoil
+Nellipoil-Anackampoil Road
+11.437447
+76.067175
+Rock cum Debris
+Slide
+2015

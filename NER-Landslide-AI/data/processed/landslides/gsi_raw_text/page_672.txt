@@ -1,0 +1,344 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+26693
+SKM/NS/78A10/2017/223
+Sikkim
+North Sikkim
+ 
+NH
+27.676722
+88.597194
+Debris
+Slide
+NA
+26694
+SKM/NS/78A10/2017/206
+Sikkim
+North Sikkim
+ 
+NH
+27.686389
+88.73875
+Debris
+Slide
+NA
+26695
+SKM/NS/78A10/2017/222
+Sikkim
+North Sikkim
+Bansoi
+NH
+27.697139
+88.57025
+Debris
+Slide
+NA
+26696
+SKM/NS/78A10/2017/221
+Sikkim
+North Sikkim
+ 
+NH
+27.700444
+88.566083
+Debris
+Slide
+NA
+26697
+SKM/NS/78A10/2017/220
+Sikkim
+North Sikkim
+ 
+NH
+27.701333
+88.565083
+Debris
+Slide
+NA
+26698
+SKM/NS/78A10/2017/219
+Sikkim
+North Sikkim
+ 
+NH
+27.703917
+88.562306
+Debris
+Slide
+NA
+26699
+SKM/NS/78A10/2017/218
+Sikkim
+North Sikkim
+ 
+NH
+27.704028
+88.56175
+Debris
+Slide
+NA
+26700
+SKM/NS/78A10/2017/217
+Sikkim
+North Sikkim
+ 
+NH
+27.704306
+88.560694
+Debris
+Slide
+NA
+26701
+SKM/NS/78A10/2017/216
+Sikkim
+North Sikkim
+ 
+NH
+27.713944
+88.557361
+Debris
+Slide
+NA
+26702
+SKM/NS/78A10/2017/215
+Sikkim
+North Sikkim
+ 
+NH
+27.723611
+88.550472
+Debris
+Slide
+NA
+26703
+SKM/NS/78A10/2017/214
+Sikkim
+North Sikkim
+ 
+NH
+27.724222
+88.552861
+Debris
+Slide
+NA
+26704
+SKM/NS/78A10/2017/213
+Sikkim
+North Sikkim
+Chaten
+NH
+27.726083
+88.54975
+Debris
+Slide
+NA
+26705
+SKM/NS/78A10/2017/212
+Sikkim
+North Sikkim
+ 
+NH
+27.728472
+88.551667
+Debris
+Slide
+NA
+26706
+SKM/NS/78A10/2017/211
+Sikkim
+North Sikkim
+Lachen
+NH
+27.735278
+88.54925
+Debris
+Slide
+NA
+26707
+SKM/NS/78A10/2017/210
+Sikkim
+North Sikkim
+ 
+NH
+27.74075
+88.54525
+Debris
+Slide
+NA
+26708
+SKM/NS/78A10/2017/209
+Sikkim
+North Sikkim
+ 
+NH
+27.740944
+88.545361
+Debris
+Slide
+NA
+26709
+SKM/NS/78A10/2017/208
+Sikkim
+North Sikkim
+ 
+NH
+27.745194
+88.544278
+Debris
+Slide
+NA
+26710
+SKM/NS/78A10/2017/207
+Sikkim
+North Sikkim
+ 
+NH
+27.749111
+88.542972
+Debris
+Slide
+NA
+26711
+SKM/EAST/78A12/2015/001
+Sikkim
+ East Sikkim
+3rd Mile Subsidence
+Kumrek (On Rangpo-Kumrek 
+road )
+27.18822222
+88.56238889
+Debris
+Subsidence
+July 2015
+26712
+SKM/EAST/78A12/2015/002
+Sikkim
+ East Sikkim
+Kumrek landslide
+Kumrek (On Rangpo-Kumrek 
+road )
+27.179
+88.53313889
+Rock
+Slide
+8 July 2015
+26713
+SKM/NORTH/78A11/2015/003
+Sikkim
+North Sikkim
+Rangrang Landslide
+Rangrang (On Mangan to 
+Dikchu road )
+27.46166
+88.52341
+Debris
+Debris slide
+1 June 2015
+26714
+SKM/EAST/78A11/2015/004
+Sikkim
+ East Sikkim
+Tumin Landslide
+Tumin
+27.33208
+88.50902
+Debris
+Debris slide
+11 July 2015
+26715
+SKM/ND/78A/06_10/ 2016/01
+Sikkim
+North Sikkim
+Dzongu landslide
+Left bank slope of Talong Chu 
+(locally known as Kanaka river), 
+just opposite to the Dzongu 
+(Upper) village
+27.53533333
+88.49797222
+Mainly rock boulders 
+containing mica 
+schist along with 
+boulders of gneiss 
+and quartzite.
+Slide/Avalanch
+e
+2006, 13 August 2016 at 13:30 hrs.
+26716
+State: Sikkim/district: East 
+District/toposheet: 
+78A/11/year: 2018/serial no.
+Sikkim
+ East Sikkim
+Upper Syari, Deorali, Gangtok
+Near Butter fly Chowk, Syari, 
+Deorali, Gangtok
+27.31583333
+88.60666667
+Debris
+Bulging and 
+slope failure
+7 August 2018, 9 August 2018
+26717
+State: Sikkim/district: East 
+District/toposheet: 
+78A/11/year: 2018/serial no.
+Sikkim
+ East Sikkim
+1st BN Sikkim Scouts and the road 
+stretch (JNM axis) ahead of MS-8
+State Highway; near 8th Mile
+27.37027778
+88.67361111
+Debris
+Subsidence
+August 2018
+26718
+State: Sikkim/district: North 
+District/toposheet: 
+78A/11/year: 2018/serial no.
+Sikkim
+North Sikkim
+Kabi Landslide
+State Highway; 4 km before 
+Kabi village
+27.39305556
+88.63527778
+Rock
+Slide
+Mid-July 2018, 2 August 2018
+26719
+ Sikkim/ East District/ 
+78A/11/2019/
+Sikkim
+ East Sikkim
+Chubba Khola
+Marchak-Rumtek road, about 9 
+kms from Ranipool
+27.28081944
+88.57090278
+Boulders and debris
+Slide
+2017
+26720
+ Sikkim/ East District/ 
+78A/11/2019/
+Sikkim
+ East Sikkim
+Martam
+NH-10A, Martam
+27.25941667
+88.55038889
+Boulders and debris
+Debris slide
+2017

@@ -1,0 +1,357 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15819
+KER/IDK/58C13/2018/112
+Kerala
+Idukki
+Narekkanam
+Narekkanam-Mariyapuram 
+Road
+9.841359
+76.999665
+Debris
+Flow
+15th August 2018
+15820
+KER/IDK/58C13/2018/113
+Kerala
+Idukki
+Mariyapuram
+Mariyapuram-Thadiyampad 
+Road
+9.869368
+76.983572
+Debris
+Flow
+15th August 2018
+15821
+KER/IDK/58C13/2018/114
+Kerala
+Idukki
+Mariyapuram
+Mariyapuram-Thadiyampad 
+Road
+9.869023
+76.983852
+Debris
+Flow
+15th August 2018
+15822
+KER/IDK/58C13/2018/115
+Kerala
+Idukki
+Madathinkadavu
+Mariyapuram-Thadiyampad 
+Road
+9.87927
+76.973695
+Debris
+Slide
+15th August 2018
+15823
+KER/IDK/58C13/2018/116
+Kerala
+Idukki
+Madathinkadavu
+Mariyapuram-Thadiyampad 
+Road
+9.877495
+76.975918
+Debris
+Slide
+15th August 2018
+15824
+KER/IDK/58G01/2018/117
+Kerala
+Idukki
+Konnathady
+Munnar-Murickassery Road
+9.960692
+77.026119
+Debris
+Slide
+15th August 2018
+15825
+KER/IDK/58G01/2018/118
+Kerala
+Idukki
+Konnathady Centre
+Vellathooval-Konnathady Road
+9.959239
+77.02714
+Debris
+Slide
+15th August 2018
+15826
+KER/IDK/58G01/2018/119
+Kerala
+Idukki
+Marakkanam
+Konnathady-Marakkanam Road 9.957277
+77.03621
+Debris
+Slide
+15th August 2018
+15827
+KER/IDK/58G01/2018/120
+Kerala
+Idukki
+Marakkanam
+Konnathady-Marakkanam Road 9.953392
+77.041756
+Soil
+Slide
+14th August 2018
+15828
+KER/IDK/58G01/2018/121
+Kerala
+Idukki
+Kurukkanpadi
+Konnathady-Marakkanam Road 9.958454
+77.038861
+Debris
+Flow
+16th August 2018
+15829
+KER/IDK/58G01/2018/122
+Kerala
+Idukki
+Koyikkalpadi
+5th Mile-Konnathady-
+Vellathooval Road
+9.958272
+77.015226
+Debris
+Slide
+15th August 2018
+15830
+KER/IDK/58G01/2018/123
+Kerala
+Idukki
+5th Mile
+Koyikkalpadi-Anganvadi Road
+9.960794
+77.013664
+Debris
+Slide
+16th August 2018
+15831
+KER/IDK/58G01/2018/124
+Kerala
+Idukki
+Muthirapuzha
+Pakkalapadi-Kallarkutty Road 
+(Via Manalkadavu)
+9.97158
+77.014807
+Debris
+Slide
+15th August 2018
+15832
+KER/IDK/58G01/2018/125
+Kerala
+Idukki
+Muthirapuzha
+Kallarkutty-Pakkalapadi-
+Konnathady Road
+9.972349
+77.011684
+Debris
+Flow
+15th August 2018
+15833
+KER/IDK/58G01/2018/126
+Kerala
+Idukki
+Muthirapuzha
+Kallarkutty-Pakkalapadi Road
+9.970703
+77.01636
+Debris
+Flow
+16th August 2018
+15834
+KER/IDK/58G01/2018/127
+Kerala
+Idukki
+Muthirapuzha
+Pakkalapadi-Kallarkutty Road
+9.969774
+77.017604
+Debris
+Slide
+15th August 2018
+15835
+KER/IDK/58G01/2018/128
+Kerala
+Idukki
+Muthirapuzha
+Pakkalapadi-Kallarkutty Road
+9.969643
+77.016737
+Debris
+Slide
+16th August 2018
+15836
+KER/IDK/58G01/2018/129
+Kerala
+Idukki
+Muthirapuzha
+Pakkalapadi-Kallar Road
+9.969036
+77.01553
+Debris
+Flow
+15th August 2018
+15837
+KER/IDK/58G01/2018/130
+Kerala
+Idukki
+Kallarkutty
+Kallarkutty-Panikkankudy Road
+9.979385
+77.002216
+Debris
+Slide
+16th August 2018
+15838
+KER/IDK/58G01/2018/131
+Kerala
+Idukki
+Muthirapuzha
+Mavinchuvadu-Aalpara Road
+9.97661
+77.002208
+Debris
+Slide
+15th August 2018
+15839
+KER/IDK/58G01/2018/132
+Kerala
+Idukki
+5th Mile
+5th Mile-Adimali Road
+9.958445
+77.007559
+Debris
+Slide
+15th, 16th & 17th August 2018
+15840
+KER/IDK/58G01/2018/133
+Kerala
+Idukki
+5th Mile
+5th Mile-Kallarkutty Road
+9.960135
+77.01211
+Soil
+Subsidence
+15th August 2018
+15841
+KER/IDK/58G01/2018/134
+Kerala
+Idukki
+5th Mile
+5th Mile-Adimali Road
+9.959125
+77.008603
+Debris
+Slide
+15th August 2018
+15842
+KER/IDK/58G01/2018/135
+Kerala
+Idukki
+Kambi Lane (Mukkudom)
+5th Mile-Kallarkutty Road
+9.958677
+77.002764
+Debris
+Flow
+15th August 2018
+15843
+KER/IDK/58G01/2018/136
+Kerala
+Idukki
+Kambi Lane
+5th Mile-Kallarkutty Road
+9.96418
+77.000783
+Debris
+Slide
+15th August 2018
+15844
+KER/IDK/58G01/2018/137
+Kerala
+Idukki
+Kambi Lane
+Injapthal-Kambi Lane Road
+9.964251
+77.002479
+Debris
+Slide
+15th August 2018
+15845
+KER/IDK/58G01/2018/138
+Kerala
+Idukki
+Muthirapuzha
+Kallarkutty-Konnathady Road
+9.966953
+77.017696
+Debris
+Slide
+15th August 2018
+15846
+KER/IDK/58G01/2018/139
+Kerala
+Idukki
+Kallarkutty
+Kallarkutty-Myladumpara Road 9.975781
+77.00017
+Debris
+Slide
+15th August 2018
+15847
+KER/IDK/58G01/2018/140
+Kerala
+Idukki
+Kallarkutty
+Kallarkutty-Myladumpara Road 9.973944
+77.000578
+Debris
+Slide
+2015 & 15th August 2018
+15848
+KER/IDK/58C13/2018/141
+Kerala
+Idukki
+Kambi Lane
+Injapathal-Kambi Lane Road
+9.963278
+76.998981
+Debris
+Slide
+15th August 2018
+15849
+KER/IDK/58C13/2018/142
+Kerala
+Idukki
+Kambi Lane
+Kambi Lane-Chathurakallipara 
+Road
+9.958058
+76.99822
+Debris
+Slide
+8th August 2018

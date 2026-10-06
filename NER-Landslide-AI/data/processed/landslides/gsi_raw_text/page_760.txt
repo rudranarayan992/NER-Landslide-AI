@@ -1,0 +1,368 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29860
+WB/DAR/78A12/2015/1475
+West Bengal
+Darjeeling
+ 
+ 
+27.086356
+88.53525
+Debris
+Slide
+2010
+29861
+WB/DAR/78A08/2021/PDLS/21
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08635726
+88.25731287
+Debris
+Slide
+October 2021
+29862
+WB/DAR/78A04/2021/PDLS/28
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08650115
+88.25333074
+Debris
+Slide
+October 2021
+29863
+WB/DAR/78A04/2021/PDLS/16
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08652518
+88.21669056
+Rock
+Slide
+October 2021
+29864
+WB/DAR/78A08/2021/PDLS/21
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08652849
+88.25734504
+Debris
+Slide
+October 2021
+29865
+WB/DAR/78A04/2021/PDLS/17
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08655474
+88.21744729
+Debris
+Slide
+October 2021
+29866
+WB/DAR/78A08/2021/PDLS/22
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08663653
+88.2573765
+Debris
+Slide
+October 2021
+29867
+WB/DAR/78A08/2015/1537
+West Bengal
+Darjeeling
+SADAR BAZAR SLIDE
+BUXA RF
+27.08672
+88.473087
+Rock
+Slide
+2016
+29868
+WB/DAR/78A12/2015/282
+West Bengal
+Darjeeling
+Trivenitol
+Trivenitol
+(Lava)
+Kalimpong 
+Sub-division.
+27.086722
+88.664139
+Rock
+Slide
+2015
+29869
+WB/DAR/78A12/2015/287
+West Bengal
+Darjeeling
+Trivenitol
+Trivenitol
+(Lava)
+Kalimpong 
+Sub-division.
+27.086722
+88.664139
+Rock
+Slide
+2015
+29870
+WB/DAR/78A08/2015/131
+West Bengal
+Darjeeling
+Lower Bhalukhop
+ 
+27.086814
+88.47421
+Debris
+Slide
+2013
+29871
+WB/DAR/78A08/2015/130
+West Bengal
+Darjeeling
+Lower Bhalukhop
+ 
+27.086855
+88.473078
+Debris
+Slide
+2013
+29872
+WB/DAR/78A08/2021/PDLS/22
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08686183
+88.25741936
+Debris
+Slide
+October 2021
+29873
+WB/DARJ/78A12/2007/0021
+West Bengal
+Darjeeling
+Lulegoan crossing
+Lava-Lulegaon and Lava-Algara 
+road crossing
+27.0869
+88.6569
+Debris
+Slide
+2007
+29874
+WB/DAR/78A12/2015/192
+West Bengal
+Darjeeling
+0.5 km from Lava towards  Algara
+0.5 km from Lava towards  
+Algara
+27.08699
+88.657
+Debris
+Slide
+2007
+29875
+WB/DAR/78A12/2015/254
+West Bengal
+Darjeeling
+Deorali-Lava Road
+Deorali-Lava Road
+27.087
+88.647
+Rock
+Slide
+2013
+29876
+WB/DAR/78A12/2015/1268
+West Bengal
+Darjeeling
+Near Gitdubling
+Lava RF
+27.087028
+88.646528
+Rock
+Slide
+2015
+29877
+WB/DAR/78A12/2015/193
+West Bengal
+Darjeeling
+Lava ΓêÜ Lulegaon and Lava- Algara 
+road crossing
+Lava ΓêÜ Lulegaon and Lava- 
+Algara road crossing
+27.087052
+88.654406
+Debris
+Slide
+2007
+29878
+WB/DAR/78A08/2015/44
+West Bengal
+Darjeeling
+NH-31A 34.63 km from Sevok(Tiger 
+Bridge) towards  Gangtok
+34.63 km from Sevok(Tiger 
+Bridge) on NH-31A towards  
+Gangtok
+27.087207
+88.460985
+Debris
+Flow
+2007
+29879
+WB/DARJ/78A08/1968/0284
+West Bengal
+Darjeeling
+ 
+Near Km. 33 from Sevoke on NH 
+31A
+27.088
+88.459
+Debris
+Slide
+1968
+29880
+WB/DARJ/78A08/2013/0305
+West Bengal
+Darjeeling
+ 
+ 
+27.088
+88.475
+Debris
+Slide
+2013
+29881
+WB/DAR/78A04/2021/PDLS/11
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08837899
+88.15532887
+Debris
+Slide
+October 2021
+29882
+WB/DAR/78A08/2021/PDLS/22
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08855895
+88.25741814
+Debris
+Slide
+October 2021
+29883
+WB/DAR/78A04/2021/PDLS/28
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08865968
+88.25624933
+Debris
+Slide
+October 2021
+29884
+WB/DAR/78A12/2015/1526
+West Bengal
+Darjeeling
+ 
+SW OF DHANGIA BAZAR
+27.088743
+88.537401
+Debris
+Subsidence
+2014
+29885
+WB/DAR/78A04/2015/1184
+West Bengal
+Darjeeling
+ 
+Chiyabagan
+27.08875
+88.24375
+Debris
+Slide
+2015
+29886
+WB/DAR/78A04/2015/1211
+West Bengal
+Darjeeling
+ 
+SIRISEY
+27.088806
+88.164556
+Debris
+Slide
+2014
+29887
+WB/DAR/78A12/2015/176
+West Bengal
+Darjeeling
+At Km.9 from Kalimpong  on 
+Kalimpong Algara  road
+At Km.9 from Kalimpong  on 
+Kalimpong Algara  road
+27.088889
+88.537575
+Rock
+Slide
+1985
+29888
+WB/DAR/78A08/2015/1476
+West Bengal
+Darjeeling
+ 
+ 
+27.088894
+88.388802
+Debris
+Slide
+2010
+29889
+WB/DAR/78A12/2015/1340
+West Bengal
+Darjeeling
+15 mile Kalimpong
+15 MILE KALIMONG
+27.088917
+88.53075
+Debris
+Subsidence
+2014

@@ -1,0 +1,486 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11492
+KAR/HAS/48P09/2016/06
+Karnataka
+Hassan
+NH - 75
+East of Shiradigadi
+12.833
+75.648
+Rock
+Slide
+NA
+11493
+KAR/HAS/48P09/2016/05
+Karnataka
+Hassan
+NH - 75
+East of Shiradigadi
+12.833
+75.648
+Debris
+Slide
+NA
+11494
+KAR/HAS/48P09/2016/08
+Karnataka
+Hassan
+NH - 75
+East of Shiradigadi
+12.834
+75.654
+Debris
+Slide
+NA
+11495
+KAR/HAS/48P09/2016/10
+Karnataka
+Hassan
+NH - 75
+East of Shiradigadi
+12.835
+75.656
+Debris
+Slide
+NA
+11496
+KAR/HAS/48P09/2016/09
+Karnataka
+Dakshin Kannad
+NH - 75
+East of Shiradigadi
+12.835
+75.588
+Debris
+Slide
+NA
+11497
+KAR/HAS/48P09/2016/11
+Karnataka
+Hassan
+NH - 75
+East of Shiradigadi
+12.839
+75.66
+Debris
+Slide
+NA
+11498
+KAR/HAS/48P09/2016/13
+Karnataka
+Hassan
+NH - 75
+South - West of Maranahalli
+12.841
+75.675
+Debris
+Slide
+NA
+11499
+KAR/HAS/48P09/2016/12
+Karnataka
+Hassan
+NH - 75
+South - West of Maranahalli
+12.841
+75.674
+Debris
+Slide
+NA
+11500
+KAR/HAS/48P09/2016/15
+Karnataka
+Hassan
+NH - 75
+South - West of Maranahalli
+12.843
+75.677
+Debris
+Slide
+NA
+11501
+KAR/HAS/48P09/2016/14
+Karnataka
+Hassan
+NH - 75
+South - West of Maranahalli
+12.843
+75.677
+Debris
+Slide
+NA
+11502
+KAR/DK/48P01/2016/09
+Karnataka
+Dakshin Kannad
+Near Barya road
+Barya
+12.85
+75.21
+Debris
+Slide
+NA
+11503
+KAR/DK/48L13/2016/15
+Karnataka
+Dakshin Kannad
+Feringipet ΓÇô Benjen padavu road
+South - West of Thambe
+12.87
+74.98
+Debris
+Slide
+NA
+11504
+KAR/DK/48P01/2016/04
+Karnataka
+Dakshin Kannad
+On Maninalkuru Naibelu road
+East of Maninalkuru village
+12.88
+75.15
+Debris
+Slide
+NA
+11505
+KAR/DK/48P01/2016/03
+Karnataka
+Dakshin Kannad
+Local road
+East of Ferringipet
+12.89
+75.11
+Debris
+Slide
+NA
+11506
+KAR/DK/48P01/2016/02
+Karnataka
+Dakshin Kannad
+Moodabidri-Bantval road
+Bantval
+12.91
+75.04
+Debris
+Slide
+NA
+11507
+KAR/DK/48P01/2016/10
+Karnataka
+Dakshin Kannad
+Near Moodabidri-Bantval road
+East of Loreito
+12.92
+75.04
+Debris
+Slide
+NA
+11508
+KAR/DK/48P01/2016/05
+Karnataka
+Dakshin Kannad
+NH - 64
+Kodabetu
+12.92
+75.1
+Debris
+Slide
+NA
+11509
+KA/HAS/48P14/2017/1
+Karnataka
+Hassan
+Changadahalli
+ 
+12.9454
+75.7746
+Soil
+Slide
+NA
+11510
+KAR/DK/48P09/2016/16
+Karnataka
+Dakshin Kannad
+Dharmasthala - Nekladi Road
+West of Puduvettu
+12.946
+75.403
+Debris
+Slide
+NA
+11511
+KAR/DK/48P01/2016/07
+Karnataka
+Dakshin Kannad
+Near Uppinangady cross road
+Modanteyar
+12.95
+75.19
+Debris
+Slide
+NA
+11512
+KAR/DK/48P01/2016/06
+Karnataka
+Dakshin Kannad
+NH - 64
+Punjakatte
+12.95
+75.17
+Rock
+Slide
+NA
+11513
+KAR/DK/48P01/2016/08
+Karnataka
+Dakshin Kannad
+Local road near Ultar
+Ultar
+12.98
+75.15
+Debris
+Slide
+NA
+11514
+KAR/DK/48P01/2016/01
+Karnataka
+Dakshin Kannad
+Moodabidri-Bantval road
+East of Sittakadde road 
+(Maddame village)
+12.99
+75.05
+Debris
+Slide
+NA
+11515
+KA/DAK/48O3/2017/37
+Karnataka
+Dakshin Kannad
+Aruvail
+AruvailNiddale road section
+13.000633
+75.010503
+Debris
+Slide
+NA
+11516
+KA/DAK/48O3/2017/39
+Karnataka
+Dakshin Kannad
+Padandadka
+VenurPeranje road section
+13.031792
+75.109283
+Soil
+Slide
+NA
+11517
+KA/DAK/48O3/2017/40
+Karnataka
+Dakshin Kannad
+Hosangadi
+VenurPeranje road section
+13.032206
+75.101083
+Soil
+Slide
+NA
+11518
+KA/DAK/48K16/2020/9
+Karnataka
+Mangalore
+Niddodi
+Near Niddodi
+13.04
+74.91
+Earth
+Slide
+NA
+11519
+KA/DAK/48K16/2020/11
+Karnataka
+Dakshin Kannad
+Niddodi
+Near Tadaki village
+13.04
+74.91
+Earth
+Slide
+NA
+11520
+KA/CHI/48O12/2017/6
+Karnataka
+Chikmagalur
+Mulahalli village
+Mulahalli road section
+13.041958
+75.562714
+Debris
+Slide
+NA
+11521
+KA/DAK/48K16/2020/8
+Karnataka
+Dakshin Kannad
+Puttinge
+Near Puttinge-SH
+13.05
+74.97
+Earth
+Slide
+NA
+11522
+KA/UDU/48K16/2020/15
+Karnataka
+Udupi
+Hosabetta slide
+2km South of Mudbidri
+13.05
+75
+Earth
+Slide
+2019
+11523
+KA/CHI/48O12/2017/7
+Karnataka
+Chikmagalur
+.5 km from Slide no. 06
+MulahaliGutti road section
+13.059447
+75.5541
+Debris
+Slide
+NA
+11524
+KA/CHI/48O12/2017/8
+Karnataka
+Chikmagalur
+50m  from Slide no. 07
+MulahaliGutti road section
+13.059447
+75.5541
+Debris
+Slide
+NA
+11525
+KA/DAK/48K16/2020/6
+Karnataka
+Dakshin Kannad
+Puttinge
+Near Puttinge
+13.06
+74.98
+Earth
+Slide
+NA
+11526
+KA/DAK/48K16/2020/7
+Karnataka
+Dakshin Kannad
+Puttinge
+Near Puttinge
+13.06
+74.97
+Earth
+Slide
+NA
+11527
+KA/DAK/48O08/2017/92
+Karnataka
+Dakshin Kannad
+North of Nadumane
+Kotighere  Ujire (NH  73)
+13.065758
+75.435336
+Debris
+Slide
+NA
+11528
+KA/DAK/48O08/2017/91
+Karnataka
+Dakshin Kannad
+North of Nadumane
+Kotighere  Ujire (NH  73)
+13.066495
+75.435351
+Debris
+Slide
+NA
+11529
+KA/UDU/48K16/2020/16
+Karnataka
+Udupi
+Kallamundukur
+SH-70 Mudbidri route
+13.07
+74.92
+Earth
+Slide
+2010
+11530
+KA/DAK/48O08/2017/90
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.070123
+75.445311
+Debris
+Slide
+NA
+11531
+KA/DAK/48O08/2017/88
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.074473
+75.449953
+Debris
+Slide
+NA
+11532
+KA/DAK/48O08/2017/89
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.074591
+75.449367
+Debris
+Slide
+NA
+11533
+KA/DAK/48O08/2017/71
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.074781
+75.457356
+Debris
+Slide
+NA
+11534
+KA/DAK/48O08/2017/70
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.074956
+75.456846
+Debris
+Slide
+NA

@@ -1,0 +1,424 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22528
+MZ/AIZ/83D16/2016/62
+Mizoram
+Aizawl
+ 
+S. Of Bukpui village
+24.076035
+92.790672
+Rock
+Slide
+2016
+22529
+MZ/AIZ/83D16/2016/61
+Mizoram
+Aizawl
+ 
+S. Of Bukpui village
+24.077014
+92.790809
+Rock
+Slide
+2016
+22530
+MZ/AIZ/83D16/2016/87
+Mizoram
+Aizawl
+ 
+7km  south of Ratu
+24.078041
+92.914114
+Rock
+Slide
+NA
+22531
+MZ/AIZ/83D16/2016/60
+Mizoram
+Aizawl
+ 
+S. Of Bukpui village
+24.07814
+92.790905
+Rock
+Slide
+2016
+22532
+MZ/AIZ/83D16/2016/59
+Mizoram
+Aizawl
+ 
+S. Of Bukpui village
+24.078422
+92.792189
+Rock
+Slide
+2016
+22533
+MZ/MAM/83D08/2020/9
+Mizoram
+Mamit
+West of Zamuang-Rengdil section 
+slide 5
+West of Zamuang-Rengdil 
+section
+24.08
+92.39
+Earth
+Slide
+2019
+22534
+MZ/KOL/83D12/2020/6
+Mizoram
+Mamit
+Damdial slide
+Mamit Suarhliap road section 
+(at Damdial village)
+24.08
+92.51
+Earth
+Slide
+NA
+22535
+MZ/AIZ/83D16/2016/88
+Mizoram
+Aizawl
+ 
+7km  south of Ratu
+24.080938
+92.914167
+Earth
+Slide
+2016
+22536
+MZ/AIZ/83D16/2016/58
+Mizoram
+Aizawl
+ 
+Bukpui village
+24.081381
+92.793089
+Earth
+Slide
+NA
+22537
+MZ/MAM/83D08/2020/5
+Mizoram
+Mamit
+West of Zamuang-Rengdil section 
+slide 1
+West of Zamuang-Rengdil 
+section
+24.09
+92.37
+Debris
+Slide
+2019
+22538
+MZ/MAM/83D08/2020/6
+Mizoram
+Mamit
+West of Zamuang-Rengdil section 
+slide 2
+West of Zamuang-Rengdil 
+section
+24.09
+92.37
+Earth
+Slide
+2019
+22539
+MZ/MAM/83D08/2020/7
+Mizoram
+Mamit
+West of Zamuang-Rengdil section 
+slide 3
+West of Zamuang-Rengdil 
+section
+24.09
+92.37
+Debris
+Slide
+2019
+22540
+MZ/MAM/83D08/2020/10
+Mizoram
+Mamit
+South of Zamuang slide
+500mt south of Zamuang village 24.09
+92.4
+Debris
+Slide
+2019
+22541
+MZ/AIZ/83D16/2016/46
+Mizoram
+Aizawl
+ 
+N of Bukpui
+24.091081
+92.795582
+Earth
+Slide
+NA
+22542
+MZ/AIZ/83D16/2016/47
+Mizoram
+Aizawl
+ 
+N of Bukpui
+24.09109
+92.795724
+Debris
+Slide
+2016
+22543
+MZ/AIZ/83D16/2016/48
+Mizoram
+Aizawl
+ 
+N of Bukpui
+24.09123
+92.795928
+Rock
+Slide
+2016
+22544
+MZ/AIZ/83D16/2016/49
+Mizoram
+Aizawl
+ 
+N of Bukpui
+24.091359
+92.796008
+Debris
+Slide
+2016
+22545
+MZ/AIZ/83D16/2016/50
+Mizoram
+Aizawl
+ 
+N of Bukpui
+24.091664
+92.796134
+Rock
+Slide
+2016
+22546
+MZ/AIZ/83D16/2016/52
+Mizoram
+Aizawl
+ 
+N of Bukpui towards thingdawl
+24.09176
+92.803968
+Earth
+Slide
+NA
+22547
+MZ/AIZ/83D16/2016/89
+Mizoram
+Aizawl
+ 
+5km  south of Ratu
+24.094248
+92.917745
+Rock
+Slide
+2016
+22548
+MZ/AIZ/83D16/2016/92
+Mizoram
+Aizawl
+ 
+3km south of Ratu
+24.097858
+92.918738
+Earth
+Slide
+2016
+22549
+MZ/AIZ/83D16/2016/90
+Mizoram
+Aizawl
+ 
+1km  south of Ratu
+24.099117
+92.916676
+Earth
+Slide
+2016
+22550
+MZ/MAM/83D08/2020/8
+Mizoram
+Mamit
+West of Zamuang-Rengdil section 
+slide 4
+West of Zamuang-Rengdil 
+section
+24.1
+92.37
+Debris
+Slide
+2019
+22551
+MZ/MAM/83D08/2020/20
+Mizoram
+Mamit
+East of Zamuang slide
+6 km east of Zamuang 
+(Zamuang-Bairabi road section)
+24.1
+92.42
+Debris
+Slide
+2019
+22552
+MZ/KOL/83D12/2020/5
+Mizoram
+Mamit
+North of Damdial slide
+Mamit Suarhliap road section 
+(near North of Damdial village)
+24.1
+92.51
+Rock
+Slide
+2019
+22553
+MZ/AIZ/83D16/2016/91
+Mizoram
+Aizawl
+ 
+1km  south of Ratu
+24.100401
+92.915441
+Rock
+Slide
+NA
+22554
+MZ/AIZ/83D16/2016/51
+Mizoram
+Aizawl
+ 
+N of Bukpui
+24.102008
+92.791628
+Rock
+Slide
+2016
+22555
+MZ/AIZ/83D16/2016/29
+Mizoram
+Aizawl
+ 
+S.of Bukpui
+24.10246
+92.811355
+Earth
+Slide
+2016
+22556
+MZ/MAM/83D08/2020/11
+Mizoram
+Mamit
+North of Zamuang slide
+1.6 km north of Zamuang 
+village, on NH-108
+24.11
+92.39
+Debris
+Slide
+2019
+22557
+MZ/MAM/83D08/2020/12
+Mizoram
+Mamit
+South of Zawlnuam slide
+4 km south of Zawlnuam town 
+along NH-108
+24.12
+92.38
+Debris
+Slide
+2019
+22558
+MZ/MAM/83D08/2020/13
+Mizoram
+Mamit
+South of Zawlnuam slide
+1.5 km south of Zawlnuam town 
+along NH-108
+24.12
+92.36
+Debris
+Slide
+2019
+22559
+MZ/MAM/83D08/2020/19
+Mizoram
+Mamit
+West of Chuvel slide
+western tip of Chuvel village
+24.12
+92.46
+Rock
+Slide
+2019
+22560
+MZ/AIZ/83D16/2016/53
+Mizoram
+Aizawl
+ 
+N of Bukpui
+24.125294
+92.805847
+Debris
+Slide
+2016
+22561
+MZ/AIZ/83D16/2016/54
+Mizoram
+Aizawl
+ 
+N of Bukpui
+24.125631
+92.805948
+Debris
+Slide
+NA
+22562
+MZ/AIZ/83D16/2016/55
+Mizoram
+Aizawl
+ 
+N of Bukpui
+24.125996
+92.805874
+Debris
+Slide
+NA
+22563
+MZ/KOL/83D12/2020/2
+Mizoram
+Mamit
+South of Suarhliap slide
+Mamit Bairabi road section 
+(south of Suarhliap village)
+24.13
+92.52
+Debris
+Slide
+NA

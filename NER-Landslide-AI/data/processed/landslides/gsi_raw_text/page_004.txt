@@ -1,0 +1,431 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+115
+AS/DIM/83C16/2017/07
+Assam
+Dima Hasao
+Retzawl6
+Old HaflongSilchar road
+25.10292
+92.986883
+Rock cum debris
+Slide
+NA
+116
+AS/DIM/83C16/2017/01
+Assam
+Dima Hasao
+Retzawl1
+NH54
+25.105414
+92.972784
+Debris
+Slide
+NA
+117
+AS/DIM/83G4/2015/14
+Assam
+Dima Hasao
+Silchar road
+NH-54 near Jatinga
+25.106
+93.001
+Earth
+Slide
+NA
+118
+AS/DIM/83C16/2017/02
+Assam
+Dima Hasao
+Retzawl2
+Old HaflongSilchar road
+25.106956
+92.991363
+Debris
+Slide
+NA
+119
+AS/DIM/83G4/2015/13
+Assam
+Dima Hasao
+Silchar road
+NH-54 near Jatinga
+25.107
+93.002
+Earth
+Slide
+NA
+120
+AS/DIM/83C16/2017/31
+Assam
+Dima Hasao
+Bara Mulkai sinking zone.
+NH54
+25.107546
+92.885543
+Debris
+Slide
+NA
+121
+AS/DIM/83G4/2015/15
+Assam
+Dima Hasao
+Silchar road
+NH-54 near Jatinga
+25.108
+93.003
+Earth
+Slide
+NA
+122
+AS/DIM/83C16/2017/03
+Assam
+Dima Hasao
+Retzawl3
+NH54
+25.108759
+92.978048
+Debris
+Slide
+NA
+123
+AS/DIM/83C16/2017/04
+Assam
+Dima Hasao
+Retzawl4
+West of Retzawl
+25.108806
+92.975139
+Debris
+Slide
+NA
+124
+AS/DIM/83C16/2017/34
+Assam
+Dima Hasao
+Chhota Kapurchhara1 slide.
+NH54
+25.108877
+92.929125
+Soil
+Slide
+NA
+125
+AS/DIM/83C16/2017/33
+Assam
+Dima Hasao
+New Harangajao railway station slide. NH54
+25.11219
+92.86881
+Debris
+Slide
+NA
+126
+AS/DIM/83C16/2018/30
+Assam
+Dima Hasao
+Jatinga Lampur railway slide.
+Between Jatinga Lampur 
+Railway Station and Harangajao 
+Railway Station.
+25.11286
+92.87756
+Soil
+Slide
+NA
+127
+AS/DIM/83C16/2017/32
+Assam
+Dima Hasao
+Jatinga Lampur sinking zone.
+NH54
+25.11297
+92.95433
+Soil
+Slide
+NA
+128
+AS/DIM/83G4/2015/11
+Assam
+Dima Hasao
+Silchar road slide.
+NH-54 near Jatinga.
+25.118
+93.014
+Debris
+Slide
+NA
+129
+AS/DIM/83G4/2015/16
+Assam
+Dima Hasao
+Silchar road
+NH-54 near Jatinga
+25.119
+93.017
+Earth
+Slide
+NA
+130
+AS/DIM/83G4/2015/17
+Assam
+Dima Hasao
+Silchar road
+NH-54 near Jatinga
+25.119
+93.018
+Earth
+Slide
+NA
+131
+AS/DIM/83G4/2015/18
+Assam
+Dima Hasao
+Silchar road
+NH-54 near Jatinga
+25.12
+93.02
+Earth
+Slide
+NA
+132
+AS/NC/83C16/2009-10/AS-4
+Assam
+Dima Hasao
+Mailongdisa-Harangajao slide
+Between Mailongdisa and 
+Harangajao Railway stations. 
+CHainage:128.400 km to 
+128.600 km
+25.121
+92.915028
+Debris
+Slide
+20 June 2010
+133
+AS/DIM/83G4/2015/55
+Assam
+Dima Hasao
+Bara Wapu
+Bara Wapu,  NH-54
+25.122
+93.025
+Earth
+Slide
+2014
+134
+AS/DIM/83G4/2015/21
+Assam
+Dima Hasao
+Jatinga
+Jatinga NH-54
+25.122
+93.026
+Earth
+Slide
+2014
+135
+AS/DIM/83G4/2015/19
+Assam
+Dima Hasao
+Jatinga Orange Garden Slide.
+Jatinga,NH-54
+25.123
+93.034
+Earth
+Slide
+2014
+136
+AS/DIM/83G4/2015/20
+Assam
+Dima Hasao
+Jatinga slide
+Near Jatinga
+25.123
+93.033
+Earth
+Slide
+2014
+137
+AS/NC/83C16/2009-10/AS-5
+Assam
+Dima Hasao
+Mailongdisa-Harangajao-2 slide
+Between Mailongdisa and 
+Harangajao railway station 
+(Chainage: 130.100 Km to 
+130.400 Km)
+25.124306
+92.904278
+Debris
+Slide
+02 April 2010
+138
+AS/NC/83C16/2009-10/AS-3
+Assam
+Dima Hasao
+Jatinga-Longrangajao slide
+Between Jatinga and 
+Longrangajao Railway stations 
+(Chainage:120.100 km to 
+120.400 km)
+25.124583
+92.989111
+Debris
+Slide
+16 June 2010
+139
+AS/DIM/83C16/2017/35
+Assam
+Dima Hasao
+Longrangajao slide.
+Longrangajao village
+25.12906
+92.97418
+Soil
+Slide
+NA
+140
+AS/DIH/83G08/2020/17
+Assam
+Dima Hasao
+ 
+Along Jenam river, Hangrum 
+area
+25.13
+93.27
+Debris
+Slide
+NA
+141
+AS/DIH/83G08/2020/19
+Assam
+Dima Hasao
+ 
+Data recorded from Hangrum to 
+Songkai road
+25.13
+93.29
+Debris
+Slide
+NA
+142
+AS/DIM/83G4/2015/65
+Assam
+Dima Hasao
+Nutan Leikul-Kelelo  Sinking zone
+On NH-54
+25.134
+93.045
+Earth
+Slide
+2014
+143
+ASM/DH/83G4/2016/19
+Assam
+Dima Hasao
+Jatinga-2
+Jatinga, Haflong
+25.134472
+93.018972
+Rock cum Debris
+Slide
+2016
+144
+AS/DIM/83G4/2015/27
+Assam
+Dima Hasao
+Kelelo slide-1
+NH-54 Near Kelolo village
+25.135
+93.04
+Earth
+Slide
+2014
+145
+AS/DIM/83G4/2015/32
+Assam
+Dima Hasao
+Nutan Leikul-5
+Nutan Leikul.NH-54
+25.135
+93.04
+Earth
+Slide
+2014
+146
+AS/DIM/83G4/2015/36
+Assam
+Dima Hasao
+Kelelo-4
+Kelelo NH-54
+25.136
+93.04
+Earth
+Slide
+2014
+147
+AS/DIM/83G4/2015/29
+Assam
+Dima Hasao
+NutanLeikul-2
+NutanLeikul, NH-54
+25.137
+93.04
+Earth
+Slide
+2014
+148
+AS/DIM/83G4/2015/34
+Assam
+Dima Hasao
+Kelelo -2
+Kelelo village,NH-54
+25.137
+93.034
+Earth
+Flow
+2014
+149
+AS/DIM/83G4/2015/35
+Assam
+Dima Hasao
+Kelelo-3
+Kelelo,NH-54
+25.137
+93.04
+Earth
+Slide
+2014
+150
+AS/DIM/83G4/2015/22
+Assam
+Dima Hasao
+Jatinga slide
+Jatinga, NH-54
+25.137
+93.018
+Earth
+Slide
+2014
+151
+AS/DIM/83G4/2015/56
+Assam
+Dima Hasao
+Bara Haflong
+Bara Haflong,village.
+25.139
+93.025
+Earth
+Slide
+2014

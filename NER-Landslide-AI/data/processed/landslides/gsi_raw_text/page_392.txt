@@ -1,0 +1,422 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16067
+KER/WYD/58A03/2024/01
+Kerala
+Wayanad
+Mundakkai- Chooralmala
+Mundakkai-Chooralmala-
+Meppadi road
+11.46277778
+76.13416667
+Debris
+Flow
+30th July 2024, around 1.00AM
+16068
+KER/WYN/58A2/2019/01
+Kerala
+Wayanad
+Pazhashi Colony
+Pazhashi Colony Road
+11.62846
+76.114012
+Debris
+Flow
+8th August 2019, 15.15 hrs
+16069
+KER/WYN/58A2/2019/02
+Kerala
+Wayanad
+Pazhashi Colony
+Muttickal - Pazhashi Colony 
+Road
+11.629487
+76.112641
+Debris
+Flow
+8th August 2019, 15.30 hrs
+16070
+KER/WYN/58A2/2019/03
+Kerala
+Wayanad
+Muttilmala, Mandad
+Mandad Quarry Road
+11.620398
+76.120126
+Debris
+Flow
+8th August 2019, 15.30 hrs
+16071
+KER/WYN/49M14/2019/04
+Kerala
+Wayanad
+Manjoora, Mundancholakunnu
+Panamkuzhi - 
+Mundancholakunnu SC colony 
+road
+11.658103
+75.978842
+Debris
+Slide
+8th August 2019, 14.30 hrs
+16072
+KER/WYN/49M14/2019/05
+Kerala
+Wayanad
+Manjoora, Mundancholakunnu
+-
+11.657041
+75.980058
+Rock
+Topple
+8th August 2019, 14.30 hrs
+16073
+KER/WYN/49M14/2019/06
+Kerala
+Wayanad
+Manjoora
+Manjoora - Thenamackal road
+11.659552
+75.972902
+Debris
+Slide
+8th August 2019, 14.45 hrs
+16074
+KER/WYN/49M14/2019/07
+Kerala
+Wayanad
+Thenamackal
+-
+11.661645
+75.971561
+Debris
+Flow
+8th August 2019, 14.45 hrs
+16075
+KER/WYN/49M14/2019/08
+Kerala
+Wayanad
+Naaymoola - Vellaranji
+Pathimoonaam Mile road
+11.666862
+75.96369
+Debris
+Slide
+8th August 2019
+16076
+KER/WYN/49M14/2019/09
+Kerala
+Wayanad
+Kottalakunnu
+Banasura Dam road
+11.672258
+75.964571
+Debris
+Slide
+8th August 2019, 14.25 hrs
+16077
+KER/WYN/49M14/2019/10
+Kerala
+Wayanad
+Kottalakunnu
+-
+11.671605
+75.965091
+Debris
+Slide
+8th August 2019, 14.45 hrs
+16078
+KER/WYN/49M14/2019/11
+Kerala
+Wayanad
+Meenmutty Waterfall
+-
+11.677335
+75.935827
+Debris
+Slide
+8th August 2019, 14.30 hrs
+16079
+KER/WYN/49M14/2019/12
+Kerala
+Wayanad
+Near Banasura - Meenmutty Waterfall -
+11.677298
+75.936129
+Debris
+Slide
+8th August 2019, 15.00 hrs
+16080
+KER/WYN/49M14/2019/13
+Kerala
+Wayanad
+Near Banasura - Meenmutty Waterfall -
+11.677545
+75.938094
+Debris
+Slide
+8th August 2019, 15.00 hrs
+16081
+KER/WYN/49M14/2019/14
+Kerala
+Wayanad
+Kuttiyamvayal
+Ozhakkanamukku - Kaalappali 
+Road
+11.667126
+75.935811
+Debris
+Flow
+8th August 2019, 15.00 hrs
+16082
+KER/WYN/49M14/2019/15
+Kerala
+Wayanad
+Mangalamkunnu Colony, 
+Kuttiyamvayal
+Kuttiyamvayal - Madam Road
+11.661104
+75.944221
+Debris
+Slide
+8th August 2019, 15.00 hrs
+16083
+KER/WYN/49M14/2019/16
+Kerala
+Wayanad
+Kaappikalam, Moolanveli
+Mankottu - Moolanveli Road
+11.673298
+75.93707
+Debris
+Slide
+8th August 2019, 16.00 hrs
+16084
+KER/WYN/49M14/2019/17
+Kerala
+Wayanad
+Kaappikalam, Opp. Bonita Banasura 
+Hotel
+Manjoora - Kaappikalam road
+11.673744
+75.944393
+Soil
+Slide
+8th August 2019, 15.00 hrs
+16085
+KER/WYN/49M14/2019/18
+Kerala
+Wayanad
+13th mile
+Vythiri - Tharona road
+11.661048
+75.966357
+Debris
+Slide
+8th August 2019, 15.00 hrs
+16086
+KER/WYN/58A2/2019/19
+Kerala
+Wayanad
+Thalipuzha
+Thamrasseri - Kalpetta road
+11.534747
+76.033502
+Soil
+Slide
+9th August 2019, 20.00 hrs
+16087
+KER/WYN/49M14/2019/20
+Kerala
+Wayanad
+Narikolli (Padinjarathara village)
+-
+11.683847
+75.943592
+Debris
+Flow
+8th August 2019, 17.00 hrs.
+16088
+KER/WYN/49M14/2019/21
+Kerala
+Wayanad
+Perincherimala
+Perincherimala road
+11.725066
+75.906303
+Debris
+Flow
+8th August 2019, 23.30 hrs
+16089
+KER/WYN/49M14/2019/22
+Kerala
+Wayanad
+Perincherimala
+Perincherimala road
+11.724502
+75.904475
+Debris
+Flow
+8th August 2019, 18.00 hrs
+16090
+KER/WYN/49M14/2019/23
+Kerala
+Wayanad
+Makkiyad Near forest station
+Forest station road
+11.735759
+75.887591
+Debris
+Flow
+9th August 2019, Night
+16091
+KER/WYN/49M14/2019/24
+Kerala
+Wayanad
+Makkiyad, Manikallu
+Forest station road
+11.735509
+75.89216
+Debris
+Flow
+9th August 2019
+16092
+KER/WYN/49M14/2019/25
+Kerala
+Wayanad
+Korome
+Ratakolli road
+11.740403
+75.879916
+Debris
+Slide
+8th August 2019, 17.15 hrs
+16093
+KER/WYN/58A6/2019/26
+Kerala
+Wayanad
+Thankamala Estate
+Estate road
+11.63157
+76.26741
+Debris
+Slide
+8th August 2019
+16094
+KER/WYN/58A2/2019/27
+Kerala
+Wayanad
+Ambukuthi 19
+Ambukuthi 19 colony road
+11.621404
+76.236822
+Debris
+Flow
+8th August 2019, Night
+16095
+KER/WYN/58A2/2019/28
+Kerala
+Wayanad
+Ambukuthi 19
+Ambukuthi 19 colony road
+11.620085
+76.234551
+Debris
+Slide
+8th August 2019, Night
+16096
+KER/WYN/58A2/2019/29
+Kerala
+Wayanad
+Aaratupara
+Meenangadi - Ambalavayal road 11.636461
+76.199797
+Debris
+Slide
+8th August 2019, 17.00 hrs.
+16097
+KER/WYN/58A2/2019/30
+Kerala
+Wayanad
+Aaratupara
+Aarattupara - Meenangadi road 11.636456
+76.201071
+Debris
+Slide
+8th August 2019, 17.00 hrs.
+16098
+KER/WYN/58A2/2019/31
+Kerala
+Wayanad
+Ponmudikotta
+Kuppakolli - Ponmudikotta road 11.631254
+76.233967
+Debris
+Flow
+8th August 2019, Night
+16099
+KER/WYN/58A2/2019/32
+Kerala
+Wayanad
+Edackal Cave
+Edackal Cave road
+11.63027
+76.233569
+Debris
+Slide
+8th August 2019, 16.30 hrs
+16100
+KER/WYN/58A2/2019/33
+Kerala
+Wayanad
+Edackal
+-
+11.631168
+76.232848
+Debris
+Flow
+8th August 2019
+16101
+KER/WYN/58A2/2019/34
+Kerala
+Wayanad
+Mundakai
+Meppadi - Pthumala road
+11.507432
+76.13507
+Debris
+Flow
+8th August 2019
+16102
+KER/WYN/58A2/2019/35
+Kerala
+Wayanad
+Harrisons Malayalam Estate
+Harrisons Malayalam Estate 
+road
+11.505738
+76.135943
+Debris
+Slide
+8th August 2019
+16103
+KER/WYN/58A2/2019/36
+Kerala
+Wayanad
+Harrisons Malayalam Estate
+Estate road
+11.505195
+76.142836
+Debris
+Flow
+8th August 2019

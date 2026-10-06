@@ -1,0 +1,522 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+8671
+HP/MAN/53E02/2024/
+Himachal Pradesh
+Mandi
+Jagar Slide (Chainage 208+260)
+NH-03, Jagar
+31.69748889
+77.03721944
+Debris
+Slide
+NA
+8672
+HP/MAN/53E02/2024/
+Himachal Pradesh
+Mandi
+Soja Slide (Chainage 209+450)
+NH-03, Soja
+31.68921944
+77.04186111
+Debris
+Slide
+NA
+8673
+HP/SOL/53B13/2023/01
+Himachal Pradesh
+Solan
+Datyar Slide
+NH-05
+30.84638889
+76.99527778
+Debris
+Slide
+08 – 11 July 2023
+8674
+HP/SOL/53B13/2023/01
+Himachal Pradesh
+Solan
+Dimple Dhaba & AAA Slide
+NH-05
+30.88666667
+77.00472222
+Debris
+Slide
+7 July, 2023
+8675
+HP/SHI/53E04/2023/
+Himachal Pradesh
+Shimla
+Tutikandi, Bangali Bagicha Landslide in 
+Shimla Urban Slide
+NH-05, Shimla Bye Pass Road
+31.09722222
+77.15361111
+Debris
+Slide
+04 August
+8676
+HP/SHI/53E04/2023/
+Himachal Pradesh
+Shimla
+Rajvir Motors Landslide in Shimla 
+Urban Slide
+NH-05, Shimla Bye Paas Road
+31.09527778
+77.17027778
+Debris
+Slide
+23 August 2023
+8677
+HP/SHI/53E04/2023/
+Himachal Pradesh
+SHIMLA
+Comely Bank
+NH-05
+31.1075
+77.16305556
+Debris
+Subsidence
+July 2020, 14-15 August 2023
+8678
+HP/SOL/53B13/2023/01
+Himachal Pradesh
+Shimla
+Indian Institute of Advanced Study
+Shimla Urban
+31.10333333
+77.14111111
+Debris
+Subsidence
+14 August 2023
+8679
+HP/SOL/53B13/2023/01
+Himachal Pradesh
+Shimla
+Vidhan Sabha
+Shimla Urban
+31.1075
+77.16305556
+Debris
+Subsidence
+14,15 August 2023
+8680
+HP/SHI/53E04/2023/
+Himachal Pradesh
+Solan
+Mohan Mekin Landslide
+NH-05
+30.92333333
+77.11111111
+Debris
+Slide/Subsidenc
+e
+7 July, 2023
+8681
+HP/SHI/53E04/2023/
+Himachal Pradesh
+Solan
+Mansar Landslide
+NH-05
+30.9425
+77.12916667
+Debris
+Subsidence
+ July, 2023
+8682
+HP/SHI/53E04/2023/
+Himachal Pradesh
+Solan
+Karibangla
+NH-05
+30.99120833
+77.09283333
+Rock
+Slide
+July, 2020
+8683
+HP/SHI/53E04/2023/
+Himachal Pradesh
+Shimla
+Nangal Devi
+NH-05
+31.11972222
+77.33472222
+Rock
+Slide
+2020
+8684
+HP/SHI/53E04/2023/
+Himachal Pradesh
+SHIMLA
+Himfed Petrol Pump
+NH-05
+31.12694444
+77.33944444
+Debris
+Subsidence
+July, 2020, 14-15 August 2023
+8685
+HP/SHI/53E04/2023/
+Himachal Pradesh
+Shimla
+Rahighat-Kiartoo Slide
+NH-05
+31.12833333
+77.34888889
+Debris
+Slide
+13 August 2023
+8686
+HP/SHI/53E04/2023/
+Himachal Pradesh
+Shimla
+Barauni Nala
+NH-05
+31.485
+77.69055556
+Debris
+Subsidence
+11 July 2023
+8687
+HP/SHI/53E04/2023/
+Himachal Pradesh
+Kinnaur
+Jeori
+NH-05
+31.53866667
+77.78386389
+Rock
+Slide
+July, 2021, 14 August 2023
+8688
+HP/SHI/53E04/2023/
+Himachal Pradesh
+Kinnaur
+Chaura
+NH-05
+31.53866667
+77.78386389
+Rock
+Slide
+14 August 2023
+8689
+HP/SHI/53E04/2023/
+Himachal Pradesh
+Nathpa
+Nathpa
+NH-05
+31.56230833
+77.98207222
+Rock
+Fall
+27 August 2023
+8690
+HP/SHI/53E04/2023/
+Himachal Pradesh
+Kinnaur
+Panvi
+NH-05
+31.53944444
+78.01388889
+Rock
+Slide
+11 July 2023
+8691
+HP/KINN/53E04/2023/
+Himachal Pradesh
+Kinnaur
+Khab Slide
+NH05
+31.81055556
+78.63638889
+Rock
+Slide
+NA
+8692
+HP/KUL/53E1/2023/01
+Himachal Pradesh
+Kullu
+Devdhar Kharahal landslide
+NH-03
+31.96335556
+77.11833611
+Debris
+Subsidence
+2023
+8693
+HP/KUL/53E1/2023/02
+Himachal Pradesh
+Kullu
+Up slope of Indian oil Petrol Pump 
+along NH-3
+NH-03
+31.95800278
+77.11654722
+Debris
+Slide
+NA
+8694
+HP/KUL/53E1/2023/03
+Himachal Pradesh
+Kullu
+~120 m south of Indian oil Petrol 
+Pump
+NH-03
+31.95682222
+77.11633056
+Debris
+Slide
+2023
+8695
+HP/KUL/53E1/2023/04
+Himachal Pradesh
+Kullu
+Banontar Kharahal
+NH-03
+31.95561944
+77.11650556
+Debris
+Subsidence
+2023
+8696
+HP/KUL/53E1/2023/05
+Himachal Pradesh
+Kullu
+Garsa Slide
+--
+31.82856111
+77.25558889
+Debris
+Subsidence
+2023
+8697
+HP/KUL/53E1/2023/06
+Himachal Pradesh
+Kullu
+Baraiuna landslide
+NH-03
+32.03464722
+77.35013889
+Debris
+Slide
+2023
+8698
+HP/KUL/53E1/2023/07
+Himachal Pradesh
+Kullu
+Bandal landslide
+--
+31.63430278
+77.42550278
+Debris
+Slide
+2023
+8699
+HP/KUL/53E1/2023/08
+Himachal Pradesh
+Kullu
+Machine Nala slide
+--
+31.77272222
+77.29856111
+Debris
+Slide
+2023
+8700
+HP/KUL/53E1/2023/09
+Himachal Pradesh
+Kullu
+Sainj Landslide
+--
+31.76910278
+77.30811667
+Debris
+Slide
+2023
+8701
+HP/KUL/53E1/2023/10
+Himachal Pradesh
+Kullu
+Mourod subsidence
+--
+31.71223611
+77.31291389
+Debris
+Subsidence
+2023
+8702
+HP/KUL/53E1/2023/11
+Himachal Pradesh
+Kullu
+Daduhar ward No.1
+--
+31.642
+77.3433
+Debris
+Slide
+2023
+8703
+HP/KUL/53E1/2023/12
+Himachal Pradesh
+Kullu
+Kartah subsidence
+--
+31.7798
+77.34311111
+Debris
+Subsidence
+2023
+8704
+HP/KUL/53E1/2023/13
+Himachal Pradesh
+Kullu
+Sharai subsidence
+--
+31.652
+77.3324
+Debris
+Subsidence
+2023
+8705
+HP/KUL/53E7/2023/14
+Himachal Pradesh
+Kullu
+Rageli, Nigloodhar landslide
+-
+31.46975
+77.36669444
+Debris
+Slide
+14 August 2023
+8706
+HP/KUL/53E7/2023/15
+Himachal Pradesh
+Kullu
+Dharta, Nigloodhar landslide
+-
+31.473
+77.36772222
+Debris
+Slide
+14 August 2023
+8707
+HP/KUL/53E7/2023/16
+Himachal Pradesh
+Kullu
+Gungi
+---
+31.40355556
+77.4475
+Debris
+Subsidence
+2023
+8708
+HP/KUL/53E7/2023/17
+Himachal Pradesh
+Kullu
+Chehva
+----
+31.40355556
+77.4475
+Debris
+Subsidence
+2023
+8709
+HP/KUL/53E7/2023/18
+Himachal Pradesh
+Kullu
+Lehrarali
+----
+31.41186111
+77.42902778
+Debris
+Subsidence
+2023
+8710
+HP/KUL/53E7/2023/19
+Himachal Pradesh
+Kullu
+Mashnoo Nala
+NH 305
+31.52813889
+77.40125
+Debris
+Slide
+2018
+8711
+HP/KUL/53E7/2023/20
+Himachal Pradesh
+Kullu
+Kot Nala
+NH 305
+31.51826667
+77.41673333
+Debris
+Slide
+2008
+8712
+HP/KUL/53E7/2023/20
+Himachal Pradesh
+Kullu
+Falela Nala
+NH 305
+31.48377778
+77.42308333
+Debris
+Slide
+2022
+8713
+HP/KUL/53E7/2023/21
+Himachal Pradesh
+Kullu
+Shailubhan
+NH 305
+31.4865
+77.41466667
+Debris
+Slide
+2023
+8714
+HP/KUL/53E7/2023/22
+Himachal Pradesh
+Kullu
+Shaleen
+--
+32.19863889
+77.18497222
+Debris
+Subsidence
+2023
+8715
+HP/KUL/53E7/2023/23
+Himachal Pradesh
+Kullu
+Darsha
+---
+32.14903056
+77.15234444
+Debris
+Slide
+2023
+8716
+3485
+Himachal Pradesh
+Solan
+Deoghat
+30.904346
+77.089736
+debris_mixture
+slide
+03 September 2025

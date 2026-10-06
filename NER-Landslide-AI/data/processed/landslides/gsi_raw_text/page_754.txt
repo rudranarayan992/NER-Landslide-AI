@@ -1,0 +1,335 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29682
+WB/DAR/78A04/2021/PDLS/58
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06724819
+88.08942523
+Debris
+Slide
+October 2021
+29683
+WB/DAR/78A04/2021/PDLS/12
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.0673396
+88.18313621
+Debris
+Slide
+October 2021
+29684
+WB/DAR/78A16/2015/293
+West Bengal
+Darjeeling
+Thapi Jhora, 1 km from Paren SEB 
+Office
+Thapi Jhora, 1 km from Paren 
+SEB Office
+27.06755
+88.870232
+Debris
+Flow
+1993
+29685
+WB/DAR/78A04/2021/PDLS/12
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06755781
+88.17433528
+Debris
+Slide
+October 2021
+29686
+WB/DARJ/78A12/2007/0017
+West Bengal
+Darjeeling
+WP514
+Parakheti-Lava road
+27.0676
+88.6644
+Rock
+Slide
+2007
+29687
+WB/DAR/78A08/2015/85
+West Bengal
+Darjeeling
+NH-31A Lepchajhora from Sevok(Tiger 
+Bridge) towards  Gangtok
+Lepchajhora, 30.10 km from 
+Sevok(Tiger Bridge) on NH-31A 
+towards  Gangtok
+27.067696
+88.429711
+Debris
+Slide
+2007
+29688
+WB/DAR/78A08/2015/1359
+West Bengal
+Darjeeling
+MELLI ROAD
+MELLI ROAD, NEAR BRIDGE
+27.067944
+88.430028
+Debris
+Slide
+2014
+29689
+WB/DARJ/78A08/2007/0277
+West Bengal
+Darjeeling
+ 
+Lepchajhora, 30.10 km from 
+Sevok (Tiger Bridge) on NH-31A 
+towards Gangtok
+27.068
+88.433
+Debris
+Slide
+NA
+29690
+WB/DARJ/78A08/2012/0326
+West Bengal
+Darjeeling
+ 
+Lower Sindebung near 
+Bhamegaon
+27.068
+88.493
+Debris
+Slide
+2012
+29691
+WB/DAR/78A12/2015/189
+West Bengal
+Darjeeling
+43.0km from Damdim on Damdim-
+Labha-Algara road
+Paparkheti - Lava road
+27.068074
+88.662675
+Debris
+Slide
+2007
+29692
+WB/DAR/78A08/2015/285
+West Bengal
+Darjeeling
+Gairigaon, Bhamegaon
+Gairigaon, Bhamegaon, 
+Kalimpong Subdivision
+27.068222
+88.496667
+Debris
+Slide
+2015
+29693
+WB/DAR/78A08/2015/146
+West Bengal
+Darjeeling
+Gairigaon, Bhamegaon
+Gairigaon, Bhamegaon, 
+Kalimpong Subdivision
+27.068222
+88.496667
+Debris
+Slide
+2015
+29694
+WB/DAR/78A08/2015/1538
+West Bengal
+Darjeeling
+ 
+LOLEGAON ROAD (Lava RF)
+27.068226
+88.49672
+Debris
+Slide
+2014
+29695
+WB/DAR/78A08/2021/PDLS/36
+2
+West Bengal
+Kalimpong
+N/A
+N/A
+27.0683936
+88.43013641
+Debris
+Slide
+October 2021
+29696
+WB/DAR/78A08/2015/1158
+West Bengal
+Darjeeling
+ 
+PESHOK
+27.068583
+88.391056
+Debris
+Slide
+2016
+29697
+WB/DAR/78A04/2021/PDLS/12
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06869416
+88.17770509
+Rock
+Slide
+October 2021
+29698
+WB/DAR/78A08/2015/73
+West Bengal
+Darjeeling
+Simgbong Division Road, Glenbern T.E Simgbong Division Road, 
+Glenbern T.E
+27.068711
+88.352012
+Debris
+Flow
+2007
+29699
+WB/DAR/78A04/2021/PDLS/13
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06920641
+88.19190873
+Rock
+Slide
+October 2021
+29700
+WB/DAR/78A08/2015/86
+West Bengal
+Darjeeling
+NH-31A 30.15 km from Sevok(Tiger 
+Bridge) towards  Gangtok
+30.15 km from Sevok(Tiger 
+Bridge) on NH-31A towards  
+Gangtok
+27.069397
+88.429848
+Debris
+Flow
+2007
+29701
+WB/DAR/78A12/2015/1269
+West Bengal
+Darjeeling
+ 
+Lava RF
+27.069639
+88.617167
+Debris
+Subsidence
+2012
+29702
+WB/DAR/78A08/2015/1358
+West Bengal
+Darjeeling
+MELLI ROAD
+MELLI ROAD, KALIMPONG
+27.069694
+88.429972
+Rock
+Fall
+2014
+29703
+WB/DAR/78A08/2021/PDLS/36
+3
+West Bengal
+Kalimpong
+N/A
+N/A
+27.06972068
+88.430123
+Rock
+Slide
+October 2021
+29704
+WB/DAR/78A04/2021/PDLS/12
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06990493
+88.18295138
+Debris
+Slide
+October 2021
+29705
+WB/DAR/78A04/2021/PDLS/12
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.06993525
+88.16635327
+Rock
+Slide
+October 2021
+29706
+WB/DARJ/78A08/2007/0278
+West Bengal
+Darjeeling
+ 
+30.15 km from Sevok(Tiger 
+Bridge) on NH-31A towards 
+Gangtok
+27.07
+88.432
+Debris
+Flow
+NA
+29707
+WB/DAR/78A04/2021/PDLS/12
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07009424
+88.18298362
+Debris
+Slide
+October 2021
+29708
+WB/DAR/78A08/2021/PDLS/20
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07012882
+88.25096038
+Debris
+Slide
+October 2021

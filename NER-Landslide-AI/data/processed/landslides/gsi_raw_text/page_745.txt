@@ -1,0 +1,397 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29386
+WB/DAR/78A04/2015/1225
+West Bengal
+Darjeeling
+ 
+THAPA GAON
+27.036722
+88.154917
+Rock
+Slide
+2014
+29387
+WB/DAR/78A16/2015/304
+West Bengal
+Darjeeling
+MURTI
+LEFT BANK OF MURTI RIVER
+27.03687
+88.802868
+Debris
+Slide
+2014
+29388
+WB/DAR/78A08/2015/79
+West Bengal
+Darjeeling
+Lower part of Pandim T.E., Darjeeling 
+above Factory
+Lower part of Pandim T.E., 
+Darjeeling above Factory
+27.03697
+88.2782
+Debris
+Slide
+2007
+29389
+WB/DARJ/78A08/2007/0334
+West Bengal
+Darjeeling
+ 
+Kalimpong City
+27.037
+88.477
+Debris
+Slide
+NA
+29390
+WB/DAR/78A08/2015/1174
+West Bengal
+Darjeeling
+ 
+TAKDAH
+27.037
+88.353694
+Debris
+Subsidence
+2015
+29391
+WB/DAR/78A08/2015/137
+West Bengal
+Darjeeling
+Mangalpuri Gram ward no. 17, 
+victoria road
+Balason-Ghum road
+27.037028
+88.259083
+Rock
+Slide
+2015
+29392
+WB/DAR/78A08/2015/76
+West Bengal
+Darjeeling
+Kalimpong City
+Kalimpong City
+27.03709
+88.47652
+Debris
+Slide
+2007
+29393
+WB/DAR/78A04/2021/PDLS/46
+West Bengal
+Darjeeling
+N/A
+N/A
+27.03736811
+88.19601806
+Debris
+Slide
+October 2021
+29394
+WB/DAR/78A08/2015/1388
+West Bengal
+Darjeeling
+Deorali, Lower Bong basty
+BONG BUSTY ,KALIMPONG
+27.037556
+88.4825
+Debris
+Subsidence
+2016
+29395
+WB/DAR/78A04/2015/1207
+West Bengal
+Darjeeling
+ 
+SOUTH WEST OF LARING GAON 27.037667
+88.147639
+Rock
+Slide
+2016
+29396
+WB/DAR/78A04/2015/1224
+West Bengal
+Darjeeling
+ 
+THAPA GAON
+27.037917
+88.155778
+Debris
+Slide
+2016
+29397
+WB/DAR/78A08/2015/78
+West Bengal
+Darjeeling
+Pokhridara
+Pandim_Darjeeling road
+27.03794
+88.27581
+Debris
+Subsidence
+2007
+29398
+WB/DARJ/78A08/2007/0270
+West Bengal
+Darjeeling
+ 
+25.5 km from Sevok(Tiger 
+Bridge) on NH-31A towards 
+Gangtok
+27.038
+88.43
+Debris
+Flow
+NA
+29399
+WB/DAR/78A08/2015/66
+West Bengal
+Darjeeling
+NH-31A 25.5 km from Sevok(Tiger 
+Bridge)  towards  Gangtok
+25.5 km from Sevok(Tiger 
+Bridge) on NH-31A towards  
+Gangtok
+27.038159
+88.42602
+Debris
+Flow
+2007
+29400
+WB/DAR/78A12/2015/269
+West Bengal
+Darjeeling
+Printam road,100m towards  Yok
+Printam road,100m towards  
+Yok
+27.038619
+88.524478
+Rock
+Slide
+2013
+29401
+WB/DAR/78A16/2015/300
+West Bengal
+Darjeeling
+MURTI
+LEFT BANK OF MURTI RIVER
+27.038663
+88.80455
+Debris
+Slide
+2010
+29402
+WB/DAR/78A08/2015/1349
+West Bengal
+Darjeeling
+SEVOK ROAD
+SEVOK ROAD
+27.038833
+88.426722
+Debris
+Slide
+2014
+29403
+WB/DAR/78A12/2015/1300
+West Bengal
+Darjeeling
+ 
+YOK BASTI
+27.038833
+88.510417
+Rock
+Slide
+2016
+29404
+WB/DAR/78A04/2021/PDLS/15
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.03899986
+88.19627731
+Debris
+Slide
+October 2021
+29405
+WB/DARJ/78A04/0259
+West Bengal
+Darjeeling
+ 
+Darjeeling-Bijanbari Road
+27.039
+88.197
+Debris
+Slide
+NA
+29406
+WB/DARJ/78A08/2013/0271
+West Bengal
+Darjeeling
+ 
+ 
+27.039
+88.427
+Rock
+Slide
+NA
+29407
+WB/DAR/78A04/2021/PDLS/15
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.03922347
+88.19652163
+Debris
+Slide
+October 2021
+29408
+WB/DAR/78A04/2015/1204
+West Bengal
+Darjeeling
+ 
+RELLING
+27.039389
+88.153361
+Rock
+Slide
+2015
+29409
+WB/DAR/78A04/2015/23
+West Bengal
+Darjeeling
+Darjeeling-Bijanbari Road, Maribong 
+Tea Garden
+Darjeeling-Bijanbari Road
+27.0394
+88.1968
+Debris
+Slide
+2011
+29410
+WB/DAR/78A12/2015/1299
+West Bengal
+Darjeeling
+ 
+CHARGHARE
+27.039528
+88.524917
+Debris
+Subsidence
+2014
+29411
+WB/DAR/78A04/2015/1205
+West Bengal
+Darjeeling
+ 
+SOUTH WEST OF LARING GAON 27.03975
+88.150611
+Debris
+Slide
+2014
+29412
+WB/DAR/78A08/2015/128
+West Bengal
+Darjeeling
+NH-31A Lukuvir slide from Sevok(Tiger 
+Bridge) towards  Gangtok
+ 
+27.039788
+88.42592
+Rock
+Slide
+2013
+29413
+WB/DAR/78A12/2015/1447
+West Bengal
+Darjeeling
+ 
+ 
+27.039832
+88.675886
+Rock cum Debris
+Slide
+NA
+29414
+WB/DAR/78A04/2015/1206
+West Bengal
+Darjeeling
+ 
+SOUTH WEST OF LARING GAON 27.040056
+88.148972
+Rock
+Slide
+2015
+29415
+WB/DAR/78A12/2015/1302
+West Bengal
+Darjeeling
+ 
+KHOLA TAR
+27.040194
+88.537417
+Debris
+Subsidence
+2014
+29416
+WB/DAR/78A08/2015/1350
+West Bengal
+Darjeeling
+SEVOK ROAD
+SEVOK ROAD
+27.040361
+88.427278
+Debris
+Slide
+2014
+29417
+WB/DAR/78A04/2015/1223
+West Bengal
+Darjeeling
+ 
+THAPA GAON
+27.040389
+88.156417
+Rock
+Slide
+2016
+29418
+WB/DAR/78A12/2015/1448
+West Bengal
+Darjeeling
+ 
+ 
+27.040486
+88.671506
+Rock cum Debris
+Slide
+NA
+29419
+WB/DAR/78A04/2021/PDLS/15
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.04053698
+88.19704971
+Debris
+Slide
+October 2021

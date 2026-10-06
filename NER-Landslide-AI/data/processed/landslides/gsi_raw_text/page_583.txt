@@ -1,0 +1,552 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22965
+MIZ/AZL/2023/97
+Mizoram
+Aizawl
+Thingsat to Sakawrdai road
+NULL
+24.19963889
+92.94088889
+Rock
+Slide
+1st week of september 2023
+22966
+MIZ/AZL/2023/98
+Mizoram
+Aizawl
+Thingsat to Sakawrdai road
+NULL
+24.19388889
+92.94455556
+Rock
+Slide
+September 2023
+22967
+MIZ/AZL/2023/99
+Mizoram
+Aizawl
+Sakawrdai to New Vervek road
+NULL
+24.19116667
+92.94330556
+Debris
+Slide
+September 2023
+22968
+MIZ/AZL/2023/100
+Mizoram
+Aizawl
+Sakawrdai to New Vervek road
+NULL
+24.18252778
+92.94991667
+Debris
+Slide
+2016, 2022 August, 2023 July
+22969
+MIZ/AZL/2023/101
+Mizoram
+Aizawl
+New Vervek Tuiṭha Veng
+NULL
+24.18372222
+92.94961111
+Debris
+Slide
+June 1987, 2022 August
+22970
+MIZ/AZL/2023/102
+Mizoram
+Aizawl
+NULL
+NULL
+24.18561111
+92.94536111
+Debris
+Slide
+15 August 2013
+22971
+MIZ/AZL/2023/103
+Mizoram
+Aizawl
+NULL
+NULL
+24.15402778
+92.94444444
+Debris
+Slide
+1st week of September2023
+22972
+MIZ/AZL/2023/104
+Mizoram
+Aizawl
+NULL
+NULL
+24.23847222
+92.95591667
+Debris
+Slide
+October 2021,  August 2022, 
+September 2023
+22973
+MIZ/AZL/2023/105
+Mizoram
+Aizawl
+NULL
+NULL
+24.23777778
+92.95583333
+Debris
+Slide
+Second week of August 2023
+22974
+MIZ/AZL/2023/106
+Mizoram
+Aizawl
+NULL
+NULL
+24.23738889
+92.95508333
+Debris
+Slide
+August 2023
+22975
+MIZ/AZL/2023/107
+Mizoram
+Aizawl
+NULL
+NULL
+24.23775
+92.95447222
+Debris
+Slide
+August 2023
+22976
+MIZ/AZL/2023/108
+Mizoram
+Aizawl
+NULL
+NULL
+24.22166667
+93.00305556
+Debris
+Fall
+July 2023
+22977
+MIZ/AZL/2023/109
+Mizoram
+Aizawl
+NULL
+NULL
+24.20083333
+92.985
+Debris
+Slide
+July 2023
+22978
+MIZ/AZL/2023/110
+Mizoram
+Aizawl
+NULL
+NULL
+24.14083333
+92.92527778
+Rock
+Slide
+2nd week of September 2023
+22979
+MIZ/AZL/2023/111
+Mizoram
+Aizawl
+NULL
+NULL
+24.19533333
+92.99544444
+Debris
+Slide
+August 2023
+22980
+MIZ/AZL/2023/112
+Mizoram
+Aizawl
+NULL
+NULL
+24.07805556
+92.91155556
+Rock
+Fall
+September 2023
+22981
+MIZ/AZL/2023/113
+Mizoram
+Aizawl
+NULL
+NULL
+24.02555556
+92.91944444
+Debris
+Flow
+September 2023
+22982
+MIZ/AZL/2023/114
+Mizoram
+Aizawl
+NULL
+NULL
+23.90527778
+92.92083333
+Debris
+Slide
+October 2022
+22983
+MIZ/AZL/2023/115
+Mizoram
+Aizawl
+NULL
+NULL
+23.90222222
+92.91888889
+Debris
+Slide
+October 2022
+22984
+MIZ/AZL/2023/116
+Mizoram
+Aizawl
+NULL
+NULL
+23.8975
+92.92
+Debris
+Slide
+October 2022
+22985
+MIZ/AZL/2023/117
+Mizoram
+Aizawl
+NULL
+NULL
+23.89027778
+92.91944444
+Debris
+Slide
+October 2022
+22986
+MIZ/AZL/2023/118
+Mizoram
+Aizawl
+NULL
+NULL
+23.89083333
+92.92055556
+Debris
+Slide
+September 2022
+22987
+MIZ/AZL/2023/119
+Mizoram
+Aizawl
+NULL
+NULL
+23.88833333
+93.08638889
+Debris
+Slide
+September 2022, October 2023
+22988
+MIZ/AZL/2023/120
+Mizoram
+Aizawl
+NULL
+NULL
+23.88666667
+92.91861111
+Rock
+Slide
+September 2023
+22989
+MIZ/AZL/2023/121
+Mizoram
+Aizawl
+NULL
+NULL
+23.86694444
+92.91444444
+Debris
+Slide
+August 2022
+22990
+MIZ/AZL/2023/122
+Mizoram
+Aizawl
+NULL
+NULL
+23.85527778
+92.90472222
+Debris
+Slide
+October 2022
+22991
+MIZ/AZL/2023/123
+Mizoram
+Aizawl
+NULL
+NULL
+23.85972222
+92.89694444
+Debris
+Slide
+2019, October 2022, September 2023
+22992
+MIZ/AZL/2023/124
+Mizoram
+Aizawl
+NULL
+NULL
+23.86277778
+92.8825
+Debris
+Slide
+October 2022
+22993
+MIZ/AZL/2023/125
+Mizoram
+Aizawl
+NULL
+NULL
+23.86472222
+92.88194444
+Rock
+Slide
+October 2022
+22994
+MIZ/AZL/2023/126
+Mizoram
+Aizawl
+NULL
+NULL
+23.86638889
+92.88138889
+Debris
+Slide
+2 October 2022, September 2023
+22995
+MIZ/AZL/2023/127
+Mizoram
+Aizawl
+NULL
+NULL
+23.87694444
+92.87694444
+Debris
+Slide
+Septemebr 2023
+22996
+MIZ/AZL/2023/128
+Mizoram
+Aizawl
+NULL
+NULL
+23.88194444
+92.88166667
+Debris
+Slide
+2nd week of September 2023
+22997
+MIZ/AZL/2023/129
+Mizoram
+Aizawl
+NULL
+NULL
+23.36852778
+92.76575
+Rock
+Slide
+2nd week of September 2023
+22998
+MIZ/AZL/2023/130
+Mizoram
+Aizawl
+NULL
+NULL
+23.36852778
+92.76538889
+Rock
+Slide
+2nd week of September 2023
+22999
+MIZ/AZL/2023/131
+Mizoram
+Aizawl
+NULL
+NULL
+23.37533333
+92.75472222
+Debris
+Slide
+2nd week of August 2023
+23000
+MIZ/AZL/2023/132
+Mizoram
+Aizawl
+NULL
+NULL
+23.35655556
+92.76958333
+Debris
+Slide
+August 2023
+23001
+MIZ/AZL/2023/133
+Mizoram
+Aizawl
+NULL
+NULL
+23.35516667
+92.76991667
+Debris
+Slide
+August 2023
+23002
+MIZ/AZL/2023/134
+Mizoram
+Aizawl
+NULL
+NULL
+23.33022222
+92.78886111
+Debris
+Flow
+2nd week August 2023
+23003
+MIZ/AZL/2023/135
+Mizoram
+Aizawl
+NULL
+NULL
+23.39813889
+92.7485
+Debris
+Slide
+August 2022, July 2023
+23004
+MIZ/AZL/2023/136
+Mizoram
+Aizawl
+NULL
+NULL
+23.41277778
+92.73077778
+Debris
+Slide
+8August 2023
+23005
+MIZ/AZL/2023/137
+Mizoram
+Aizawl
+NULL
+NULL
+23.38519444
+92.752
+Debris
+Slide
+September 2023
+23006
+MIZ/AZL/2023/138
+Mizoram
+Aizawl
+NULL
+NULL
+23.65675
+92.70352778
+Debris
+Slide
+1st week of August 2023
+23007
+MIZ/AZL/2023/139
+Mizoram
+Aizawl
+NULL
+NULL
+23.65416667
+92.70222222
+Debris
+Slide
+1st week of August 2023
+23008
+MIZ/AZL/2023/140
+Mizoram
+Aizawl
+NULL
+NULL
+23.65955556
+92.67111111
+Debris
+Slide
+August 2022, August 2023
+23009
+MIZ/AZL/2023/141
+Mizoram
+Aizawl
+NULL
+NULL
+23.66030556
+92.67244444
+Earth
+Slide
+July 2018, July 2023
+23010
+MIZ/AZL/2023/142
+Mizoram
+Aizawl
+NULL
+NULL
+23.57166667
+92.71083333
+Debris
+Slide
+9 June 2023
+23011
+MIZ/AZL/2023/143
+Mizoram
+Aizawl
+NULL
+NULL
+23.58388889
+92.71722222
+Rock
+Slide
+8 August 2023
+23012
+MIZ/AZL/2023/144
+Mizoram
+Aizawl
+NULL
+NULL
+23.58591667
+92.71777778
+Earth
+Slide
+25 July 2023
+23013
+MIZ/AZL/2023/145
+Mizoram
+Aizawl
+NULL
+NULL
+23.55944444
+92.70833333
+Earth
+Slide
+06 July 2023

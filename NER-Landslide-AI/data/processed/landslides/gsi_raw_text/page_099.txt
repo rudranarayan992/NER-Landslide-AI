@@ -1,0 +1,562 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+3925
+HP/SOL/53A12/2017/74
+Himachal Pradesh
+Solan
+ 
+NH 21, KHORANI
+31.064806
+76.742056
+Debris
+Slide
+NA
+3926
+HP/SOL/53A12/2017/48
+Himachal Pradesh
+Solan
+ 
+SH 16,KUSRI
+31.064806
+76.742056
+Debris
+Slide
+NA
+3927
+HP/SHI/53E04/2017/216
+Himachal Pradesh
+Shimla
+ 
+NH 22, TARADEVI
+31.064861
+77.179583
+Debris
+Slide
+NA
+3928
+HP/SOL/53A12/2017/77
+Himachal Pradesh
+Solan
+ 
+NH 21,PALACHAD
+31.064944
+76.744417
+Rock
+Slide
+NA
+3929
+HP/SOL/53A12/2017/51
+Himachal Pradesh
+Solan
+ 
+SH 16,KUSRI
+31.064944
+76.744417
+Rock
+Slide
+NA
+3930
+HP/SOL/53A12/2017/76
+Himachal Pradesh
+Solan
+ 
+NH 21,PALACHAD
+31.064972
+76.744111
+Debris
+Slide
+NA
+3931
+HP/SOL/53A12/2017/50
+Himachal Pradesh
+Solan
+ 
+SH 16,KUSRI
+31.064972
+76.744111
+Rock
+Slide
+NA
+3932
+HP/SHI/53E16/2016/179
+Himachal Pradesh
+Shimla
+ 
+NEAR SANJOGNEAR SANJOG
+31.065
+77.7777
+Debris
+Fall
+NA
+3933
+HP/SOL/53A16/2017/53
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.065167
+76.91425
+Debris
+Slide
+NA
+3934
+HP/SOL/53A12/2017/75
+Himachal Pradesh
+Solan
+ 
+NH 21,PALACHAD
+31.065194
+76.743472
+Debris
+Slide
+NA
+3935
+HP/SOL/53A12/2017/79
+Himachal Pradesh
+Solan
+ 
+NH 21,PALACHAD
+31.065194
+76.666444
+Rock
+Slide
+NA
+3936
+HP/SOL/53A12/2017/49
+Himachal Pradesh
+Solan
+ 
+SH 16,KUSRI
+31.065194
+76.743472
+Debris
+Slide
+NA
+3937
+HP/SOL/53A12/2017/53
+Himachal Pradesh
+Solan
+ 
+SH 16,KUSRI
+31.065194
+76.666444
+Debris
+Slide
+NA
+3938
+HP/SHI/53E04/2017/204
+Himachal Pradesh
+Shimla
+ 
+ANJI
+31.065444
+77.151861
+Debris
+Slide
+NA
+3939
+HP/SOL/53E04/2017/233
+Himachal Pradesh
+Solan
+ 
+SHOGI KASUMPTI ROAD
+31.065472
+77.003861
+Rock
+Slide
+NA
+3940
+HP/SHI/53E04/2017/205
+Himachal Pradesh
+Shimla
+ 
+BANI
+31.065583
+77.152722
+Debris
+Slide
+NA
+3941
+HP/SHI/53E04/2017/211
+Himachal Pradesh
+Shimla
+ 
+NH 22
+31.065667
+77.171167
+Rock
+Slide
+NA
+3942
+HP/SHI/53E16/2016/51
+Himachal Pradesh
+Shimla
+ 
+SNAIL
+31.0663
+77.8244
+Debris
+Slide
+NA
+3943
+HP/SHI/53E08/2016/78
+Himachal Pradesh
+Shimla
+ 
+SH-8; road to Choppal
+31.0667
+77.402412
+Rock cum debris
+Slide
+NA
+3944
+HP/SHI/53E04/2017/206
+Himachal Pradesh
+Shimla
+ 
+JABLU
+31.066833
+77.153389
+Debris
+Slide
+NA
+3945
+HP/SOL/53E04/2017/232
+Himachal Pradesh
+Solan
+ 
+SHOGI KASUMPTI ROAD
+31.067639
+77.002306
+Rock
+Slide
+NA
+3946
+HP/SHI/53E04/2017/187
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.068289
+77.132789
+Debris
+Slide
+NA
+3947
+HP/SHI/53E08/2016/63
+Himachal Pradesh
+Shimla
+ 
+Baddar, SH-8
+31.068392
+77.39164
+Rock
+Slide
+NA
+3948
+HP/SHI/53E16/2016/42
+Himachal Pradesh
+Shimla
+ 
+NH-72
+31.0685
+77.8172
+Debris
+Slide
+NA
+3949
+HP/SOL/53E04/2017/239
+Himachal Pradesh
+Solan
+ 
+SHOGI KASUMPTI ROAD
+31.068639
+77.041583
+Debris
+Slide
+NA
+3950
+HP/SOL/53A16/2017/211
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.068972
+76.849944
+Rock
+Slide
+NA
+3951
+HP/SHI/53E04/2017/210
+Himachal Pradesh
+Shimla
+ 
+NH 22, TARADEVI
+31.069028
+77.168694
+Debris
+Slide
+NA
+3952
+HP/SOL/53E04/2017/240
+Himachal Pradesh
+Solan
+ 
+SHOGI KASUMPTI ROAD
+31.069056
+77.043361
+Debris
+Slide
+2017
+3953
+HP/SHI/53E04/2017/207
+Himachal Pradesh
+Shimla
+ 
+NH 22, TARADEVI
+31.069528
+77.161694
+Rock
+Slide
+NA
+3954
+HP/SHI/53E04/2017/215
+Himachal Pradesh
+Shimla
+ 
+SHIMLA
+31.069639
+77.190389
+Debris
+Slide
+NA
+3955
+HP/SHI/53E04/2017/188
+Himachal Pradesh
+Shimla
+ 
+NH 88
+31.070526
+77.13116
+Debris
+Slide
+NA
+3956
+HP/SOL/53A16/2017/229
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.070556
+76.994083
+Rock
+Slide
+NA
+3957
+HP/SOL/53A16/2017/212
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.070806
+76.866667
+Debris
+Slide
+NA
+3958
+HP/SOL/53E04/2017/231
+Himachal Pradesh
+Solan
+ 
+SHOGI KASUMPTI ROAD
+31.070889
+77.000861
+Rock
+Slide
+NA
+3959
+HP/SHI/53E16/2016/50
+Himachal Pradesh
+Shimla
+ 
+SNAIL
+31.0714
+77.8118
+Debris
+Slide
+NA
+3960
+HP/SOL/53A16/2017/228
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.0715
+76.992167
+Rock
+Slide
+NA
+3961
+HP/SHI/53E04/2017/209
+Himachal Pradesh
+Shimla
+ 
+NH 22, TARADEVI
+31.071528
+77.170833
+Debris
+Slide
+NA
+3962
+HP/SOL/53A16/2017/210
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.071778
+76.847806
+Debris
+Slide
+NA
+3963
+HP/SHI/53E08/2016/53
+Himachal Pradesh
+Shimla
+ 
+Maripool, SH-6
+31.07196
+77.382294
+Rock cum debris
+Slide
+NA
+3964
+HP/SOL/53A16/2017/230
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.072222
+76.998167
+Debris
+Slide
+NA
+3965
+HP/SOL/53A16/2017/227
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.072417
+76.992389
+Rock
+Slide
+NA
+3966
+HP/SOL/53A16/2017/52
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.072722
+76.918722
+Debris
+Slide
+NA
+3967
+HP/SHI/53E16/2016/49
+Himachal Pradesh
+Shimla
+ 
+SNAIL
+31.0728
+77.8221
+Debris
+Slide
+NA
+3968
+HP/SHI/53E04/2017/208
+Himachal Pradesh
+Shimla
+ 
+NH 22, TARADEVI
+31.072861
+77.171056
+Rock
+Fall
+NA
+3969
+HP/SOL/53A16/2017/226
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.073139
+76.992306
+Rock
+Slide
+NA
+3970
+HP/SOL/53A16/2017/235
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.073194
+76.918944
+Debris
+Slide
+NA
+3971
+HP/SHI/53E16/2016/100
+Himachal Pradesh
+Shimla
+ 
+Near Kuddu - Darman road
+31.0732
+77.7823
+Debris
+Slide
+NA
+3972
+HP/SOL/53A16/2017/51
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.073639
+76.919028
+Rock
+Slide
+NA
+3973
+HP/SHI/53E16/2016/45
+Himachal Pradesh
+Shimla
+ 
+UTROL-NH-72 LINK ROAD
+31.0737
+77.7839
+Debris
+Slide
+NA
+3974
+HP/SOL/53A16/2017/48
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.074361
+76.938806
+Debris
+Slide
+NA

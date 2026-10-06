@@ -1,0 +1,562 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+6459
+HP/MAN/53A13/2015/161
+Himachal Pradesh
+Mandi
+ 
+Kotla,SH 19
+31.83261
+76.78941
+Rock
+Slide
+NA
+6460
+HP/MAN/53A13/2015/160
+Himachal Pradesh
+Mandi
+ 
+Chimnun,SH 19
+31.8329
+76.78439
+Rock
+Slide
+NA
+6461
+HP/MAN/53A13/2015/12
+Himachal Pradesh
+Mandi
+ 
+Kotla,SH 19
+31.83304
+76.788
+Rock
+Slide
+NA
+6462
+HP/MAN/53A13/2015/11
+Himachal Pradesh
+Mandi
+ 
+Chimnun,SH 19
+31.83317
+76.78709
+Rock
+Slide
+NA
+6463
+HP/MAN/53A13/2015/9
+Himachal Pradesh
+Mandi
+ 
+Chimnun,SH 19
+31.83335
+76.78524
+Rock
+Slide
+NA
+6464
+HP/KAN/53A01/2018/32
+Himachal Pradesh
+Kangra
+ 
+South of Dhaliana,NH 503
+31.8336
+76.177107
+Debris
+Slide
+NA
+6465
+HP/MAN/53A13/2015/10
+Himachal Pradesh
+Mandi
+ 
+Chimnun,SH 19
+31.83368
+76.78564
+Rock
+Slide
+NA
+6466
+HP/KUL/53E01/2015/17
+Himachal Pradesh
+Kullu
+ 
+ 
+31.835056
+77.129722
+Rock
+Slide
+NA
+6467
+HP/KAN/53A01/2018/31
+Himachal Pradesh
+Kangra
+ 
+South of Dhaliara ,  NH 503
+31.836137
+76.17726
+Debris
+Slide
+NA
+6468
+HP/KAN/53A01/2018/30
+Himachal Pradesh
+Kangra
+ 
+South of Dhaliara,NH 503
+31.836152
+76.177642
+Debris
+Slide
+NA
+6469
+HP/KAN/53A01/2018/1
+Himachal Pradesh
+Kangra
+ 
+Near Kahra
+31.836228
+76.17788
+Debris
+Slide
+2017
+6470
+HP/HAM/53A09/2018/39
+Himachal Pradesh
+Hamirpur
+ 
+Syoh- Sandhol road
+31.838778
+76.514944
+Rock cum debris
+Slide
+NA
+6471
+HP/HAM/53A09/2018/40
+Himachal Pradesh
+Hamirpur
+ 
+ 
+31.839389
+76.516167
+Rock
+Slide
+NA
+6472
+HP/KAN/53A09/2018/41
+Himachal Pradesh
+Kangra
+ 
+Lambagaon-kosri road
+31.839917
+76.517833
+Debris
+Slide
+NA
+6473
+HP/MAN/53A09/2018/42
+Himachal Pradesh
+Mandi
+ 
+ 
+31.840833
+76.556611
+Debris
+Slide
+NA
+6474
+HP/KAN/53A01/2018/20
+Himachal Pradesh
+Kangra
+ 
+South of Dhaliara
+31.841013
+76.171152
+Debris
+Slide
+NA
+6475
+HP/KAN/53A09/2018/43
+Himachal Pradesh
+Kangra
+ 
+ 
+31.841083
+76.521639
+Debris
+Slide
+NA
+6476
+HP/MAN/53A13/2015/128
+Himachal Pradesh
+Mandi
+ 
+Near Saman,SH-19
+31.8413
+76.78022
+Debris
+Slide
+NA
+6477
+HP/KAN/53A01/2018/18
+Himachal Pradesh
+Kangra
+ 
+South of Dhaliara
+31.841447
+76.170445
+Debris
+Slide
+NA
+6478
+HP/KAN/53A01/2018/19
+Himachal Pradesh
+Kangra
+ 
+South of Dhaliara
+31.841784
+76.170539
+Debris
+Slide
+NA
+6479
+HP/KAN/53A09/2018/44
+Himachal Pradesh
+Kangra
+ 
+Lambagaon - Kosri road
+31.842361
+76.524583
+Debris
+Slide
+NA
+6480
+HP/MAN/53A13/2015/37
+Himachal Pradesh
+Mandi
+ 
+Near Saman,SH-19
+31.84311
+76.78318
+Debris
+Slide
+NA
+6481
+HP/HAM/53A09/2018/45
+Himachal Pradesh
+Hamirpur
+ 
+Ganoh- Dayol road
+31.843361
+76.525611
+Debris
+Slide
+NA
+6482
+HP/MAN/53A09/2018/46
+Himachal Pradesh
+Mandi
+ 
+ 
+31.845306
+76.552833
+Debris
+Slide
+NA
+6483
+HP/MAN/53A13/2015/34
+Himachal Pradesh
+Mandi
+ 
+Near Saman,SH-19
+31.84553
+76.78793
+Rock
+Slide
+NA
+6484
+HP/MAN/53A13/2015/35
+Himachal Pradesh
+Mandi
+ 
+Near Saman,SH-19
+31.84586
+76.78727
+Rock
+Slide
+NA
+6485
+HP/MAN/53A13/2015/29
+Himachal Pradesh
+Mandi
+ 
+Matkehru
+31.847
+76.832
+Rock
+Slide
+NA
+6486
+HP/KAN/53A05/2018/12
+Himachal Pradesh
+Kangra
+ 
+ 
+31.84737
+76.34144
+Rock cum debris
+Slide
+NA
+6487
+HP/MAN/53A13/2015/127
+Himachal Pradesh
+Mandi
+ 
+Near Saman,SH-19
+31.84739
+76.78886
+Rock
+Slide
+NA
+6488
+HP/KUL/53E01/2015/41
+Himachal Pradesh
+Kullu
+ 
+Chail Chawk-Jhanjheli road
+31.847472
+77.232972
+Rock
+Slide
+NA
+6489
+HP/KUL/53E01/2015/93
+Himachal Pradesh
+Kullu
+ 
+Banala-Shiah road
+31.847639
+77.144861
+Debris
+Slide
+NA
+6490
+HP/KUL/53E01/2015/42
+Himachal Pradesh
+Kullu
+ 
+Chail Chawk-Jhanjheli road
+31.847639
+77.235444
+Debris
+Subsidence
+NA
+6491
+HP/KAN/53A05/2018/10
+Himachal Pradesh
+Kangra
+ 
+JWALAJI-TIHRI ROAD
+31.84765
+76.34489
+Rock cum debris
+Slide
+NA
+6492
+HP/KAN/53A05/2018/11
+Himachal Pradesh
+Kangra
+SALAG
+ 
+31.84765
+76.3446
+Rock cum debris
+Slide
+NA
+6493
+HP/KAN/53A05/2018/9
+Himachal Pradesh
+Kangra
+ 
+JWALAJI TIHRI ROAD
+31.84767
+76.34505
+Rock cum debris
+Slide
+NA
+6494
+HP/KUL/53E01/2015/43
+Himachal Pradesh
+Kullu
+ 
+ 
+31.847722
+77.238139
+Rock
+Slide
+NA
+6495
+HP/KUL/53E01/2015/94
+Himachal Pradesh
+Kullu
+ 
+ 
+31.847778
+77.1455
+Rock
+Slide
+NA
+6496
+HP/KUL/53E01/2015/91
+Himachal Pradesh
+Kullu
+ 
+NH21
+31.847833
+77.144111
+Debris
+Slide
+NA
+6497
+HP/KUL/53E01/2015/95
+Himachal Pradesh
+Kullu
+ 
+Banala-Shiah road
+31.847833
+77.145833
+Rock
+Slide
+NA
+6498
+HP/KAN/53A01/2018/24
+Himachal Pradesh
+Kangra
+ 
+Naharan punkhet
+31.848138
+76.206818
+Debris
+Slide
+NA
+6499
+HP/KUL/53E01/2015/92
+Himachal Pradesh
+Kullu
+ 
+ 
+31.84825
+77.145139
+Debris
+Slide
+NA
+6500
+HP/MAN/53E02/2015/236
+Himachal Pradesh
+Mandi
+ 
+Ani-Banjar road
+31.848389
+77.145972
+Rock
+Fall
+NA
+6501
+HP/MAN/53A13/2015/36
+Himachal Pradesh
+Mandi
+ 
+Near Saman,SH-19
+31.84856
+76.78727
+Debris
+Slide
+NA
+6502
+HP/UNA/53A01/2018/27
+Himachal Pradesh
+Una
+ 
+Dhaliara, NH 503
+31.848572
+76.196512
+Debris
+Slide
+NA
+6503
+HP/KAN/53A05/2018/13
+Himachal Pradesh
+Kangra
+ 
+ 
+31.84863
+76.3423
+Debris
+Slide
+NA
+6504
+HP/KAN/53A01/2018/29
+Himachal Pradesh
+Kangra
+ 
+Dhaliara, NH 503
+31.848693
+76.190343
+Debris
+Slide
+NA
+6505
+HP/KAN/53A01/2018/25
+Himachal Pradesh
+Kangra
+ 
+Dhaliara, NH 503
+31.848757
+76.196552
+Debris
+Slide
+NA
+6506
+HP/KAN/53A01/2018/23
+Himachal Pradesh
+Kangra
+ 
+Nahran punkhet
+31.848767
+76.207107
+Debris
+Slide
+NA
+6507
+HP/KAN/53A01/2018/26
+Himachal Pradesh
+Kangra
+ 
+Dhaliara, NH 503
+31.848792
+76.196615
+Debris
+Slide
+NA
+6508
+HP/KAN/53A01/2018/28
+Himachal Pradesh
+Kangra
+ 
+Dhaliara, NH 503
+31.8489
+76.190812
+Debris
+Slide
+NA

@@ -1,0 +1,542 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+34395
+UK/TEH/53J02/2015/1971
+Uttarakhand
+Tehri Garhwal
+ 
+Mussorie-Nainbag road
+30.51453
+78.006929
+Rock cum Debris
+Slide
+NA
+34396
+UK/THE/53J10/2015/119
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.514917
+78.656694
+Rock
+Slide
+NA
+34397
+UK/DEH/53F14/2015/364
+Uttarakhand
+Dehradun
+ 
+Kalsi -Baggi- Niste
+30.514958
+77.975314
+Rock
+Slide
+NA
+34398
+UK/THE/53J10/2015/127
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.515028
+78.644556
+Debris
+Slide
+NA
+34399
+UK/THE/53J10/2015/126
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.515083
+78.646139
+Rock
+Slide
+NA
+34400
+UK/TEH/53J10/2015/165
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.515278
+78.523139
+Rock
+Slide
+NA
+34401
+UK/TEH/53J02/2015/1958
+Uttarakhand
+Tehri Garhwal
+ 
+Bandarkot-Melgad RF road
+30.515285
+78.051274
+Rock
+Slide
+2013
+34402
+UK/RUD/53N02/2015/566
+Uttarakhand
+Rudraprayag
+ 
+ 
+30.515345
+79.098693
+Rock
+Slide
+2013
+34403
+UK/THE/53J10/2015/125
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.515361
+78.646
+Rock
+Slide
+NA
+34404
+UK/RUD/53N02/2013/0057
+Uttarakhand
+Rudraprayag
+UK/RUD/Semi/09
+NH-109, Semi Village
+30.5155
+79.0619
+Debris
+Spread
+16th-17th June 2013
+34405
+UK/RUD/53N02/2015/599
+Uttarakhand
+Rudraprayag
+ 
+saari
+30.515583
+79.130889
+Rock
+Slide
+NA
+34406
+UK/THE/53J10/2015/128
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.515667
+78.644472
+Rock
+Slide
+NA
+34407
+UK/TEH/53J02/2015/1957
+Uttarakhand
+Tehri Garhwal
+ 
+Bandarkot-Melgad RF road
+30.515883
+78.033886
+Rock
+Slide
+NA
+34408
+UK/TEH/53J02/2015/1955
+Uttarakhand
+Tehri Garhwal
+ 
+Bandarkot-Melgad RF road
+30.516339
+78.030255
+Rock
+Slide
+NA
+34409
+UK/RUD/53N02/2015/577
+Uttarakhand
+Rudraprayag
+ 
+ 
+30.516722
+79.0805
+Debris
+Slide
+2012
+34410
+UK/TEH/53F14/2015/547
+Uttarakhand
+Tehri Garhwal
+ 
+Nagthat - Milgad -Kandriyan
+30.517267
+77.989851
+Rock
+Slide
+NA
+34411
+UK/THE/53J10/2015/140
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.517278
+78.604028
+Debris
+Slide
+NA
+34412
+UK/RUD/53N02/2015/598
+Uttarakhand
+Rudraprayag
+ 
+saari
+30.517355
+79.134621
+Debris
+Slide
+2013
+34413
+UK/RUD/53N02/2015/567
+Uttarakhand
+Rudraprayag
+ 
+ 
+30.517598
+79.099536
+Debris
+Slide
+2013
+34414
+UK/DEH/53F14/2015/360
+Uttarakhand
+Dehradun
+ 
+Kalsi -Baggi- Niste
+30.518119
+77.945485
+Rock
+Fall
+NA
+34415
+UK/DEH/53F14/2015/552
+Uttarakhand
+Dehradun
+ 
+Nagthat - Milgad -Kandriyan
+30.518825
+77.956656
+Debris
+Slide
+NA
+34416
+UK/THE/53J10/2015/148
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.518942
+78.589333
+Debris
+Slide
+NA
+34417
+UK/TEH/53J06/2015/914
+Uttarakhand
+Tehri Garhwal
+ 
+Rishikesh-Gangotri road, R/b of 
+Malogi gad
+30.519218
+78.34911
+Debris
+Fall
+2007
+34418
+UK/THE/53J10/2015/149
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.519431
+78.588875
+Rock
+Slide
+NA
+34419
+UK/THE/53J10/2015/147
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.519667
+78.592722
+Debris
+Slide
+NA
+34420
+UK/RUD/53N02/2015/565
+Uttarakhand
+Rudraprayag
+ 
+ 
+30.519698
+79.09523
+Debris
+Slide
+2012
+34421
+UK/TEH/53J10/2015/167
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.519889
+78.538556
+Debris
+Slide
+NA
+34422
+UK/PIT/53N06/2020/2
+Uttarakhand
+Pithoragarh
+ 
+Joshimath-Karnprayag
+30.52
+79.49
+Rock
+Slide
+2011
+34423
+UK/PIT/53N06/2020/3
+Uttarakhand
+Pithoragarh
+ 
+Joshimath-Karnprayag
+30.52
+79.49
+Rock
+Slide
+2011
+34424
+UK/PIT/53N06/2020/4
+Uttarakhand
+Pithoragarh
+ 
+Joshimath-Karnprayag
+30.52
+79.49
+Rock
+Slide
+2011
+34425
+UK/DEH/53F14/2015/357
+Uttarakhand
+Dehradun
+ 
+Kalsi -Baggi- Niste
+30.520137
+77.940697
+Rock
+Slide
+NA
+34426
+UK/DEH/53F14/2015/359
+Uttarakhand
+Dehradun
+ 
+Kalsi -Baggi- Niste
+30.520151
+77.939286
+Debris
+Slide
+NA
+34427
+UK/DEH/53F14/2015/347
+Uttarakhand
+Dehradun
+ 
+Kalsi -Baggi- Niste
+30.52068
+77.864787
+Rock
+Slide
+NA
+34428
+UK/TEH/53J06/2015/916
+Uttarakhand
+Tehri Garhwal
+ 
+Rishikesh-Gangotri road, L/b of 
+Malogi gad
+30.52081
+78.351317
+Debris
+Fall
+2004
+34429
+UK/DEH/53F14/2015/566
+Uttarakhand
+Dehradun
+ 
+Milgad -Nagthat -Barai
+30.521003
+77.979029
+Debris
+Slide
+NA
+34430
+UK/TEH/53J02/2015/1956
+Uttarakhand
+Tehri Garhwal
+ 
+Bandarkot-Melgad RF road
+30.521072
+78.034314
+Rock
+Slide
+NA
+34431
+UK/TEH/53J02/2015/1972
+Uttarakhand
+Tehri Garhwal
+ 
+Mussorie-Nainbag road
+30.521276
+78.016622
+Rock cum Debris
+Slide
+NA
+34432
+UK/DEH/53F14/2015/361
+Uttarakhand
+Dehradun
+ 
+Kalsi -Baggi- Niste
+30.521356
+77.947208
+Rock
+Slide
+NA
+34433
+UK/DEH/53F14/2015/362
+Uttarakhand
+Dehradun
+ 
+Kalsi -Baggi- Niste
+30.521476
+77.954549
+Rock
+Slide
+NA
+34434
+UK/DEH/53F14/2015/355
+Uttarakhand
+Dehradun
+ 
+Kalsi -Baggi- Niste
+30.521581
+77.916384
+Rock
+Fall
+NA
+34435
+UK/TEH/53J10/2015/164
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.521694
+78.515444
+Debris
+Slide
+NA
+34436
+UK/DEH/53F14/2015/356
+Uttarakhand
+Dehradun
+ 
+Kalsi -Baggi- Niste
+30.521894
+77.939736
+Rock
+Slide
+NA
+34437
+UK/DEH/53F14/2015/565
+Uttarakhand
+Dehradun
+ 
+Milgad -Nagthat -Barai
+30.521901
+77.979182
+Debris
+Slide
+NA
+34438
+UK/THE/53J10/2015/150
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.521972
+78.552194
+Debris
+Slide
+NA
+34439
+UK/RUD/53N02/2015/604
+Uttarakhand
+Rudraprayag
+ 
+Dewar
+30.522056
+79.070028
+Debris
+Slide
+NA
+34440
+UK/THE/53J10/2015/146
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.522333
+78.604417
+Rock
+Slide
+NA
+34441
+UK/TEH/53J06/2015/899
+Uttarakhand
+Tehri Garhwal
+ 
+Suwakholi-Chinyalisaur road
+30.522603
+78.285268
+Rock cum Debris
+Fall
+2008
+34442
+UK/TEH/53J10/2015/163
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.522667
+78.508028
+Debris
+Slide
+NA

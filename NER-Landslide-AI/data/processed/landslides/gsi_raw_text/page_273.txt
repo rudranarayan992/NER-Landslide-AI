@@ -1,0 +1,409 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11819
+KA/SHI/48O02/2020/16
+Karnataka
+Shimoga
+Addagudda
+Addagudda
+13.67
+75.07
+Debris
+Slump
+NA
+11820
+KA/SHI/48O02/2020/24
+Karnataka
+Shimoga
+North-West of Solugodu village
+North-West of Solugodu village 13.67
+75.26
+Debris
+Slide
+NA
+11821
+KA/UDU/48K14/2020/50
+Karnataka
+Udupi
+Siddapura
+2kmNE of Siddapura
+13.67
+74.94
+Earth
+Slide
+2019
+11822
+KA/SHI/48O02/2020/13
+Karnataka
+Shimoga
+Addagudda
+Addagudda
+13.68
+75.05
+Debris
+Slide
+NA
+11823
+KA/SHI/48O02/2020/14
+Karnataka
+Shimoga
+Addagudda
+Addagudda
+13.68
+75.05
+Debris
+Slump
+NA
+11824
+KA/SHI/48O02/2020/15
+Karnataka
+Shimoga
+Addagudda
+Addagudda
+13.68
+75.05
+Debris
+Slide
+NA
+11825
+KA/SHI/48O02/2020/29
+Karnataka
+Shimoga
+Kuruvalli
+Tirthahalli-Kuruvalli road
+13.68
+75.25
+Rock
+Slide
+NA
+11826
+KA/DAK/48K14/2020/53
+Karnataka
+Dakshin Kannad
+ Siddapur
+1km NE of Siddapur
+13.68
+74.93
+Earth
+Slide
+2010
+11827
+KA/SHI/48O02/2020/4
+Karnataka
+Shimoga
+Tirthahalli Court road
+Tirthahalli town
+13.69
+75.23
+Debris
+Slide
+NA
+11828
+KA/SHI/48O02/2020/6
+Karnataka
+Shimoga
+Kankod road section
+800m south of Kankod Village
+13.69
+75.15
+Debris
+Slide
+NA
+11829
+KA/SHI/48O02/2020/7
+Karnataka
+Shimoga
+Kankod road section
+745m south of Kankod Village
+13.69
+75.15
+Debris
+Slide
+NA
+11830
+KA/SHI/48O02/2020/12
+Karnataka
+Shimoga
+Nidagodu village area
+North west of Nidagodu village
+13.69
+75.1
+Debris
+Slide
+NA
+11831
+KA/SHI/48O02/2020/28
+Karnataka
+Shimoga
+Kolikalgudda
+Tirthahalli Town
+13.69
+75.24
+Debris
+Slide
+NA
+11832
+KA/SHI/48O02/2020/52
+Karnataka
+Chikmagalur
+Kavaledurga road
+South west of Kestur village 
+area
+13.69
+75.18
+Debris
+Slide
+NA
+11833
+KA/UDU/48K14/2020/52
+Karnataka
+Udupi
+ Siddapur
+4km NE of Siddapur
+13.69
+74.94
+Earth
+Slide
+NA
+11834
+KA/UDU/48K09/2020/4
+Karnataka
+Udupi
+ Siddapur
+3km NE of Siddapur
+13.69
+74.93
+Earth
+Slide
+NA
+11835
+KA/SHI/48O02/2020/1
+Karnataka
+Shimoga
+600m West of Niratur Village
+Thirthahalli-Muktihariharapur 
+road
+13.7
+75.22
+Debris
+Slide
+NA
+11836
+KA/SHI/48O02/2020/8
+Karnataka
+Shimoga
+Kankod Village area
+West of Kankod Village
+13.7
+75.14
+Debris
+Slide
+NA
+11837
+KA/SHI/48O06/2020/1
+Karnataka
+Shimoga
+Bhartipura village
+Bhartipura/Tudike village
+13.7
+75.26
+Debris
+Slump
+NA
+11838
+KA/SHI/48O06/2020/2
+Karnataka
+Shimoga
+Bhartipura village
+Bhartipura village
+13.7
+75.26
+Debris
+Slide
+NA
+11839
+KA/SHI/48O02/2020/17
+Karnataka
+Shimoga
+North west of Yadur village
+Yadur village
+13.7
+75.06
+Debris
+Slide
+NA
+11840
+KA/SHI/48O06/2020/26
+Karnataka
+Shimoga
+Kanave road
+Kanave road
+13.7
+75.4
+Debris
+Flow
+NA
+11841
+KA/SHI/48O02/2020/51
+Karnataka
+Shimoga
+Thirthahalli-Shimoga Road (NH-13)
+500 East of Tudike village (NH-
+13)
+13.7
+75.27
+Debris
+Slide
+NA
+11842
+KA/DAK/48K14/2020/1
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+13.7
+75
+Debris
+Slide
+NA
+11843
+KA/UDU/48K14/2020/49
+Karnataka
+Udupi
+Hosangadi slide
+Hosangadi
+13.7
+74.97
+Earth
+Slide
+NA
+11844
+KA/SHI/48O02/2020/10
+Karnataka
+Shimoga
+Kavaledurga road section
+660m SW of Kavaledurga village 13.71
+75.13
+Rock
+Slide
+NA
+11845
+KA/SHI/48O02/2020/11
+Karnataka
+Shimoga
+South of Mekkeri village
+Mekkeri village
+13.71
+75.09
+Debris
+Slide
+NA
+11846
+KA/SHI/48O02/2020/18
+Karnataka
+Shimoga
+North west of Yadur village
+Yadur village
+13.71
+75.06
+Debris
+Slide
+NA
+11847
+KA/SHI/48O02/2020/19
+Karnataka
+Shimoga
+Ulakoppa village area
+Ulakoppa road section
+13.71
+75.05
+Debris
+Slide
+NA
+11848
+KA/SHI/48O06/2020/27
+Karnataka
+Shimoga
+Mudaba road
+Mudaba road
+13.71
+75.44
+Debris
+Slide
+NA
+11849
+KA/DAK/48K14/2020/8
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+13.71
+75
+Debris
+Slide
+NA
+11850
+KA/DAK/48K14/2020/12
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+13.71
+75
+Debris
+Slide
+NA
+11851
+KA/DAK/48K14/2020/13
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+13.71
+75
+Earth
+Slide
+NA
+11852
+KA/DAK/48K14/2020/45
+Karnataka
+Shimoga
+Hulikal Ghat road
+SH-52
+13.71
+74.97
+Earth
+Slide
+NA
+11853
+KA/SHI/48O02/2020/3
+Karnataka
+Shimoga
+Kavaldurga road section
+Babbli Village
+13.72
+75.15
+Debris
+Slide
+NA
+11854
+KA/SHI/48O02/2020/5
+Karnataka
+Shimoga
+Heggarkoppa village
+East of Heggarkoppa village
+13.72
+75.25
+Earth
+Slide
+NA

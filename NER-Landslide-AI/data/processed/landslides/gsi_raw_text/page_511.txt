@@ -1,0 +1,513 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20625
+7236
+Meghalaya
+Ri-Bhoi
+Umbang 2
+NH-6
+25.68591944
+91.90256667
+Debris
+Slide
+30 June 2024
+20626
+7237
+Meghalaya
+Ri-Bhoi
+Sahkynduh
+NH-6
+25.71165556
+91.89512778
+Debris
+Slide
+30 May 2025
+20627
+7239
+Meghalaya
+Ri-Bhoi
+Ri-Bhoi Pataraim
+NH-6
+25.75297778
+91.88535278
+Debris
+Fall/Topple
+30 May 2025
+20628
+7240
+Meghalaya
+Ri-Bhoi
+Umsamlan 1
+NH-6
+25.79744444
+91.87408611
+Debris
+Slide
+14 June 2024
+20629
+ME/RIB/2026/37
+Meghalaya
+Ri-Bhoi
+Umsamlan 2
+NH-6
+25.80725833
+91.87509444
+Debris
+Slide
+14 July 2024
+20630
+7242
+Meghalaya
+West Khasi Hills
+Nongstoin-RongjongTura Road
+25.62269444
+91.16914444
+Debris
+Slide
+02 July 2024
+20631
+ME/WKH/2026/39
+Meghalaya
+West Khasi Hills
+Nongstoin-RongjongTura Road
+25.61276111
+91.17375278
+Debris
+Slide
+02 July 2024
+20632
+7243
+Meghalaya
+West Khasi Hills
+Nongstoin-RongjongTura Road
+25.66156667
+91.13485278
+Debris
+Slide
+02 July 2024
+20633
+7244
+Meghalaya
+Eastern-West Khasi Hill
+Nongkhlaw-Tirotsing 1
+Mairang-Guwahati Road
+25.69150833
+91.64160833
+Debris
+Slide
+29 May 2025
+20634
+ME/EWK/2026/42
+Meghalaya
+Eastern-West Khasi Hill
+Nongkhlaw-Tirotsing 2
+Mairang-Guwahati Road
+25.69517778
+91.64123611
+Debris
+Slide
+30 May 2025
+20635
+ME/EWK/2026/43
+Meghalaya
+Eastern-West Khasi Hill
+Mairang-Guwahati Road
+25.69688611
+91.64176667
+Debris
+Slide
+25 June 2025
+20636
+ME/EWK/2026/44
+Meghalaya
+Eastern-West Khasi Hill
+Nongkhlaw-Tirotsing 3
+Mairang-Guwahati Road
+25.70087778
+91.642902
+Debris
+Slide
+08 October 2024
+20637
+ME/EWK/2026/45
+Meghalaya
+Eastern-West Khasi Hill
+Nongkhlaw-Tirotsing 4
+Mairang-Guwahati Road
+25.69866667
+91.64517222
+Debris
+Slide
+06 August 2024
+20638
+7245
+Meghalaya
+Eastern-West Khasi Hill
+Mairang-Guwahati Road
+25.69683611
+91.64485556
+Debris
+Slide
+06 August 2024
+20639
+ME/EWK/2026/47
+Meghalaya
+Eastern-West Khasi Hill
+Mairang-Guwahati Road
+25.69523333
+91.64426944
+Debris
+Slide
+30 May 2025
+20640
+ME/EWK/2026/48
+Meghalaya
+Eastern-West Khasi Hill
+Mairang-Guwahati Road
+25.69463611
+91.64577778
+Debris
+Slide
+30 May 2025
+20641
+ME/EWK/2026/49
+Meghalaya
+Eastern-West Khasi Hill
+Mairang-Guwahati Road
+25.68698889
+91.64812222
+Rock
+Slide
+28 May 2025
+20642
+ME/EWK/2026/50
+Meghalaya
+Eastern-West Khasi Hill
+Mairang-Guwahati Road
+25.68690556
+91.64915278
+Debris
+Fall
+28 May 2025
+20643
+ME/EWK/2026/51
+Meghalaya
+Eastern-West Khasi Hill
+Nongkhlaw-Guwahati Road
+25.688833
+91.653639
+Earth
+Slide
+25 June 2025
+20644
+7246
+Meghalaya
+Eastern-West Khasi Hill
+Mairang-Guwahati Road
+25.68798889
+91.65838889
+Debris
+Slide
+28 May 2024
+20645
+7247
+Meghalaya
+Eastern-West Khasi Hill
+Nongkhlaw-Guwahati Road
+25.68805
+91.66653
+Debris
+Slide
+28 May 2024
+20646
+ME/EWK/2026/54
+Meghalaya
+Eastern-West Khasi Hill
+Mairang-Guwahati Road
+25.68822222
+91.66746111
+Debris
+Slide
+11 June 2025
+20647
+7248
+Meghalaya
+Eastern-West Khasi Hill
+Mawiongkhri
+Nongkhlaw-Guwahati Road
+25.69007
+91.67085
+Debris
+Slide
+11 June 2025
+20648
+7249
+Meghalaya
+Eastern-West Khasi Hill
+Umniangriang
+Mairang-Guwahati Road
+25.733262
+91.675754
+Debris
+Slide
+11 June 2025
+20649
+7250
+Meghalaya
+Eastern-West Khasi Hill
+Boulder Stone Quarry Site
+Mairang-Guwahati Road
+25.762051
+91.658959
+Debris
+Slide
+29 May 2024
+20650
+ME/EWK/2026/58
+Meghalaya
+Eastern-West Khasi Hill
+Mawpat
+Mairang-Guwahati Road
+25.770935
+91.656497
+Debris
+Slide
+29 May 2024
+20651
+7251
+Meghalaya
+Eastern-West Khasi Hill
+Madpan
+Mairang-Guwahati Road
+25.791616
+91.658242
+Debris
+Slide
+29 May 2024
+20652
+ME/EWK/2026/60
+Meghalaya
+Eastern-West Khasi Hill
+Mairang-Guwahati Road
+25.803984
+91.659801
+Debris
+Slide
+28 August 2024
+20653
+7252
+Meghalaya
+Eastern-West Khasi Hill
+Mawkarah
+Nongkhlaw Road
+25.700668
+91.596815
+Debris
+Slide
+31 May 2025
+20654
+ME/EWK/2026/62
+Meghalaya
+Eastern-West Khasi Hill
+Jakhong Road
+25.739454
+91.572107
+Debris
+Slide
+31 May 2025
+20655
+7598
+Meghalaya
+South West Garo Hills
+Betasing
+Kongpara
+25.567423
+89.979711
+Debris
+NULL
+13 July 2026
+20656
+3442
+Meghalaya
+East Khasi Hills
+Pohkseh
+BL-D/24
+25.566518
+91.914509
+rock
+fall
+19 August 2025
+20657
+4692
+Meghalaya
+West Khasi Hills
+West Khasi Hills
+Mawrok Shosat
+25.531698
+91.295995
+Debris
+slide
+NA
+20658
+MZ/LAW/84B12/2020/30
+Mizoram
+Lawngtlai
+Simeinisora slide
+Simeinisora
+22.05
+92.66
+Debris
+Slide
+NA
+20659
+MZ/LAW/84B12/2020/31
+Mizoram
+Lawngtlai
+Bhandukbandasora slide
+Bhandukbandasora
+22.06
+92.66
+Debris
+Slide
+2019
+20660
+MZ/LAW/84B12/2020/32
+Mizoram
+Lawngtlai
+Parva I to Parva II road slide
+Parva I to Parva II road
+22.08
+92.65
+Debris
+Slide
+2019
+20661
+MZ/LAW/84B16/2020/12
+Mizoram
+Saiha
+East of Lombasu slide
+East of Lombasu village
+22.1
+92.85
+Debris
+Slide
+2017
+20662
+MZ/LAW/84B16/2020/15
+Mizoram
+Saiha
+Lombasu bymari slide 3
+Lombasu bymari road
+22.1
+92.86
+Debris
+Slide
+2017
+20663
+MZ/LAW/84B16/2020/16
+Mizoram
+Saiha
+Lombasu bymari slide 4
+Lombasu bymari road
+22.1
+92.86
+Debris
+Slide
+2017
+20664
+MZ/LAW/84B16/2020/17
+Mizoram
+Saiha
+Lombasu bymari slide 5
+Lombasu bymari road
+22.1
+92.86
+Debris
+Slide
+2018
+20665
+MZ/LAW/84B16/2020/10
+Mizoram
+Saiha
+Lombasu slide 1
+Near Lombasu village
+22.11
+92.85
+Debris
+Slide
+2017
+20666
+MZ/LAW/84B16/2020/11
+Mizoram
+Saiha
+Lombasu slide 2
+Near Lombasu village
+22.11
+92.85
+Debris
+Slide
+2017
+20667
+MZ/LAW/84B16/2020/13
+Mizoram
+Saiha
+Lombasu bymari slide 1
+Lombasu bymari road
+22.11
+92.85
+Debris
+Slide
+2017
+20668
+MZ/LAW/84B16/2020/14
+Mizoram
+Saiha
+Lombasu bymari slide 2
+Lombasu bymari road
+22.11
+92.86
+Debris
+Slide
+2017
+20669
+MZ/LAW/84B16/2020/18
+Mizoram
+Saiha
+Lombasu bymari slide 6
+Lombasu bymari road
+22.11
+92.86
+Debris
+Slide
+NA
+20670
+MZ/LAW/84B16/2020/19
+Mizoram
+Saiha
+Bymari-Tongkolong slide
+Bymari-Tongkolong road
+22.11
+92.88
+Debris
+Slide
+2017
+20671
+MZ/LAW/84B16/2020/20
+Mizoram
+Saiha
+South of Tongkolong slide 2
+7km south of Tongkolong village 22.14
+92.88
+Debris
+Slide
+2017

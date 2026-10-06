@@ -1,0 +1,480 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+4236
+HP/SHI/53E08/2016/71
+Himachal Pradesh
+Shimla
+ 
+GummaSH-10
+31.117489
+77.493713
+Rock cum debris
+Slide
+NA
+4237
+HP/SHI/53E08/2016/95
+Himachal Pradesh
+Shimla
+ 
+Jangal Tungla NH-22
+31.117632
+77.36647
+Rock cum debris
+Slide
+NA
+4238
+HP/SHI/53E08/2016/3
+Himachal Pradesh
+Shimla
+ 
+SH-10; Theog Kotkhai Road
+31.117668
+77.359543
+Rock cum debris
+Slide
+NA
+4239
+HP/SHI/53E12/2016/47
+Himachal Pradesh
+Shimla
+ 
+near KharapatharSH-10
+31.11769
+77.61803
+Rock cum debris
+Slide
+NA
+4240
+HP/SHI/53E12/2016/11
+Himachal Pradesh
+Shimla
+ 
+SH-10
+31.117804
+77.525513
+Rock cum debris
+Slide
+NA
+4241
+HP/SHI/53E12/2016/12
+Himachal Pradesh
+Shimla
+ 
+SH-10
+31.117804
+77.525513
+Rock cum debris
+Slide
+NA
+4242
+HP/SHI/53E08/2016/96
+Himachal Pradesh
+Shimla
+ 
+Theog NH-05
+31.118151
+77.361641
+Rock
+Slide
+NA
+4243
+HP/SHI/53E04/2017/8
+Himachal Pradesh
+Shimla
+ 
+NH 22
+31.118194
+77.237917
+Rock
+Fall
+NA
+4244
+HP/SHI/53E04/2017/7
+Himachal Pradesh
+Shimla
+ 
+NH 22
+31.118222
+77.238917
+Debris
+Slide
+NA
+4245
+HP/SHI/53E08/2016/44
+Himachal Pradesh
+Shimla
+ 
+Tinger, SH-10; Theog Kotkhai 
+Road
+31.118729
+77.358879
+Rock cum debris
+Slide
+NA
+4246
+HP/SHI/53E04/2017/9
+Himachal Pradesh
+Shimla
+ 
+NH 22
+31.118778
+77.234972
+Debris
+Slide
+NA
+4247
+HP/SHI/53E08/2016/66
+Himachal Pradesh
+Shimla
+ 
+Gumma, SH-10
+31.118906
+77.488396
+Rock cum debris
+Slide
+NA
+4248
+HP/SHI/53E08/2016/23
+Himachal Pradesh
+Shimla
+ 
+Nangal Devi templeNH-22
+31.118944
+77.335991
+Rock
+Slide
+NA
+4249
+HP/SHI/53E12/2016/64
+Himachal Pradesh
+Shimla
+ 
+Mehana, SH-10
+31.11909
+77.7048
+Rock cum debris
+Slide
+NA
+4250
+HP/SHI/53E08/2016/1
+Himachal Pradesh
+Shimla
+ 
+Nangal Devi templeNH-22
+31.119146
+77.335495
+Rock cum debris
+Subsidence
+NA
+4251
+HP/SHI/53E12/2016/57
+Himachal Pradesh
+Shimla
+ 
+SH-10
+31.11918
+77.70919
+Rock cum debris
+Slide
+NA
+4252
+HP/SHI/53E04/2017/12
+Himachal Pradesh
+Shimla
+ 
+NH 22
+31.119278
+77.232917
+Debris
+Slide
+NA
+4253
+HP/SHI/53E04/2017/10
+Himachal Pradesh
+Shimla
+ 
+NH 22
+31.119583
+77.233889
+Rock
+Slide
+NA
+4254
+HP/SHI/53E16/2016/172
+Himachal Pradesh
+Shimla
+ 
+NEAR JARSALI VILLAGENH-72-
+JHARSALI ROAD
+31.1196
+77.8129
+Rock
+Fall
+NA
+4255
+HP/SHI/53E16/2016/46
+Himachal Pradesh
+Shimla
+ 
+NEAR MANDALMANDAL ROAD
+31.1199
+77.7705
+Debris
+Flow
+NA
+4256
+HP/SHI/53E16/2016/200
+Himachal Pradesh
+Shimla
+ 
+NEAR MANDALNH-72 -JAGTAN 
+LINK ROAD
+31.1199
+77.7761
+Rock
+Fall
+NA
+4257
+HP/SHI/53E16/2016/175
+Himachal Pradesh
+Shimla
+ 
+NEAR JARSALI VILLAGENH-72-
+JHARSALI ROAD
+31.12
+77.8145
+Debris
+Slide
+NA
+4258
+HP/SHI/53E16/2016/14
+Himachal Pradesh
+Shimla
+ 
+NEAR MANDALNH-72 -JAGTAN 
+LINK ROAD
+31.12
+77.7758
+Rock
+Topple
+NA
+4259
+HP/SHI/53E16/2016/47
+Himachal Pradesh
+Shimla
+ 
+NEAR MANDALMANDAL ROAD
+31.1201
+77.7702
+Debris
+Slide
+NA
+4260
+HP/SHI/53E12/2016/15
+Himachal Pradesh
+Shimla
+ 
+SH-10
+31.12052
+77.62494
+Rock
+Slide
+NA
+4261
+HP/SHI/53E16/2016/35
+Himachal Pradesh
+Shimla
+ 
+JARSALI VILLAGE
+31.1208
+77.8146
+Debris
+Slide
+NA
+4262
+HP/SHI/53E16/2016/163
+Himachal Pradesh
+Shimla
+ 
+THANATHANA LINK ROAD
+31.121
+77.7709
+Debris
+Slide
+NA
+4263
+HP/SHI/53E04/2017/190
+Himachal Pradesh
+Shimla
+ 
+NH 88
+31.121306
+77.357
+Rock
+Slide
+NA
+4264
+HP/SHI/53E16/2016/44
+Himachal Pradesh
+Shimla
+ 
+NEAR JARSALI VILLAGE
+31.1215
+77.8138
+Debris
+Slide
+NA
+4265
+HP/SOL/53A16/2017/162
+Himachal Pradesh
+Solan
+ 
+RAMSHAHR SWARGHAT ROAD
+31.121722
+76.774556
+Rock
+Slide
+NA
+4266
+HP/SHI/53E08/2016/90
+Himachal Pradesh
+Shimla
+ 
+Kharel - Himri road
+31.122169
+77.473885
+Rock
+Slide
+NA
+4267
+HP/SOL/53A16/2017/219
+Himachal Pradesh
+Solan
+ 
+CHILAD
+31.1245
+76.867222
+Debris
+Slide
+NA
+4268
+HP/SHI/53E12/2016/66
+Himachal Pradesh
+Shimla
+ 
+SH-10
+31.12468
+77.72181
+Rock
+Slide
+NA
+4269
+HP/SHI/53E12/2016/41
+Himachal Pradesh
+Shimla
+ 
+HatkotiKatasu Rd
+31.12551
+77.74635
+Rock cum debris
+Slide
+NA
+4270
+HP/SOL/53A16/2017/220
+Himachal Pradesh
+Solan
+ 
+SH 9, DANGRI
+31.126056
+76.96225
+Debris
+Slide
+NA
+4271
+HP/SHI/53E16/2016/128
+Himachal Pradesh
+Shimla
+ 
+RANWI KHAD BRIDGERANWI 
+KHAD BRIDGE
+31.1263
+77.7562
+Rock
+Fall
+NA
+4272
+HP/SOL/53A16/2017/223
+Himachal Pradesh
+Solan
+ 
+PANJLI
+31.126694
+76.85
+Debris
+Slide
+NA
+4273
+HP/SOL/53A16/2017/78
+Himachal Pradesh
+Solan
+ 
+CHALIANI
+31.127111
+76.813528
+Debris
+Slide
+NA
+4274
+HP/SOL/53A16/2017/172
+Himachal Pradesh
+Solan
+ 
+KANOLA
+31.127222
+76.759222
+Rock
+Slide
+NA
+4275
+HP/SOL/53A16/2017/173
+Himachal Pradesh
+Solan
+ 
+KANOLA
+31.127222
+76.759222
+Rock
+Slide
+NA
+4276
+HP/SOL/53A16/2017/221
+Himachal Pradesh
+Solan
+ 
+CHILAD
+31.127472
+76.864361
+Rock
+Slide
+NA
+4277
+HP/SHI/53E04/2017/31
+Himachal Pradesh
+Shimla
+ 
+EKANTWAN
+31.128444
+77.227361
+Rock
+Slide
+NA

@@ -1,0 +1,268 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+696
+ASM/DH/83G4/ PD/2016/36
+Assam
+Dima Hasao (N.C. Hills)
+Haflong – Gunjung road section slide-
+07
+ Near  Gunjung village road 
+25.21494444
+93.02161111
+Debris
+Slide 
+Reactivated on May,2016
+697
+ASM/DH/83G4/ PD/2016/37
+Assam
+Dima Hasao (N.C. Hills)
+Haflong – Gunjung road section slide-
+08
+Near  Gunjung village road 
+section
+25.2185
+93.01311111
+Debris
+Slide 
+22nd May 2016
+698
+ASM/DH/83G4/ PD/2016/38
+Assam
+Dima Hasao (N.C. Hills)
+Haflong – Gunjung road section slide-
+09
+Haflong town, Dima Hasao  (NC 
+Hills)
+25.21694444
+93.01136111
+Debris
+Slide
+First occurred in May, 2016
+699
+ASM/DH/83G4/PD/2016/39
+Assam
+Dima Hasao (N.C. Hills)
+Haflong-Gunjung road section slide-10 Lower Haflong, 
+25.19972222
+93.01672222
+Debris
+Slide
+NA
+700
+AS/K(M)/76N16/2024/01
+Assam
+Kamrup (Metro)
+Rudra Nagar Slide
+Rudra Nagar, Near Rajohuwa 
+Namghar, Chandmari
+26.19052
+91.77499
+Earth
+Slide
+ 24 May 2024 
+701
+ASM/DH/83G4/ PD/2016/30
+Assam
+Dima Hasao
+Gadhi Rojai Slide
+Haflong  town, Dima Hasao  (NC 
+Hills)
+25.15933333
+93.017
+Earth
+Slide 
+22 May 2016
+702
+ASM/DH/83G4/ PD/2016/32
+Assam
+Dima Hasao
+Haflong – Gunjung road section slide-
+03
+Haflong – Gunjung road section 25.23925
+93.03152778
+Earth
+Slide 
+Reactivated on May 2016
+703
+ASM/DH/83G4/ PD/2016/34
+Assam
+Dima Hasao
+Haflong – Gunjung road section slide-
+05
+Haflong – Gunjung road section 25.23297222
+93.03325
+Earth
+Slide 
+Reactivated on May 2016
+704
+ASM/DH/83G4/PD/2016/27
+Assam
+Dima Hasao
+Haflong-Jatinga road section slide-02
+Haflong  town, Dima Hasao  (NC 
+Hills)
+25.15638889
+93.01838889
+Rock
+Slide
+May, 2016
+705
+ASM/DH/83G4/ PD/2016/28
+Assam
+Dima Hasao
+Haflong-Jatinga road section slide-03
+Haflong  town, Dima Hasao  (NC 
+Hills)
+25.15736111
+93.01608333
+Rock
+Slide
+22 May 2016
+706
+ASM/DH/83G4/ PD/2016/33
+Assam
+Dima Hasao
+Haflong – Gunjung road section slide-
+04
+Haflong – Gunjung road section 25.23880556
+93.03219444
+Rock
+Slide 
+22 May 2016
+707
+ASM/DH/83G4/ PD/2016/40
+Assam
+Dima Hasao (N.C. Hills)
+Lungkok slide (Haflong – Gunjung road
+11)
+Haflong – Gunjung road section, 
+Lungkok village, Lower Haflong
+25.19669444
+93.01858333
+Rock
+Slide 
+22 May 2016
+708
+ASM/DH/83G4/ PD/2016/41
+Assam
+Dima Hasao (N.C. Hills)
+Lower Haflong slide (Haflong – 
+Gunjung road-12)
+Haflong – Gunjung road section, 
+Lower Haflong
+25.18844444
+93.01966667
+Rock
+Slide 
+22 May 2016
+709
+ASM/DH/83G4/ PD /2016/03
+Assam
+Dima Hasao (N.C. Hills)
+Heuwangberam subsidence zone-1
+NH 54, Heuwangberam, 
+25.20738889
+93.12277778
+Debris
+Initially started 
+as a 
+subsidence, 
+now movement 
+of slope mass 
+has already 
+been initiated.
+20 August 2014
+710
+ASM/DH/83G4/ PD/2016/10
+Assam
+Dima Hasao
+N.D Raji.-1
+N.D Raji village, Haflong, Dima 
+Hasao  (NC Hills)
+25.17597222
+93.02016667
+Debris
+Slide
+22 May 2016
+711
+ASM/DH/83G4/ PD/2016/11
+Assam
+Dima Hasao
+N.D Raji (Hamar)-2
+N.D Raji (Hamar)village, 
+Haflong, Dima Hasao  (NC Hills)
+25.17505556
+93.02041667
+Debris
+Slide
+22 May 2016
+712
+ASM/DH/83G4/ PD/2016/12
+Assam
+Dima Hasao
+Huonveng, N.D Raji-3
+N.D Raji (Hmar)village, Haflong, 
+Dima Hasao  (NC Hills)
+25.17188889
+93.02061111
+Debris
+Slide
+22 May 2016
+713
+ASM/DH/83G4/ PD/2016/13
+Assam
+Dima Hasao
+Songpiang-1
+Songpiang village, Haflong, 
+Dima Hasao  (NC Hills)
+25.16563889
+93.02544444
+Debris
+Fall
+22 May 2016
+714
+ASM/DH/83G4/ PD/2016/14
+Assam
+Dima Hasao
+Songpiang-2 
+Songpiang village, Haflong, 
+Dima Hasao  (NC Hills)
+25.16344444
+93.02316667
+Debris
+Slide
+22 May 2016
+715
+ASM/DH/83G4/ PD/2016/15
+Assam
+Dima Hasao
+Boro Haflong-1
+ Near Boro Haflong village, 
+Haflong, Dima Hasao  (NC Hills)
+25.15069444
+93.02583333
+Debris
+slide
+22 May 2016
+716
+ASM/DH/83G4/ PD/2016/16
+Assam
+Dima Hasao
+Vidya Mandir, Boro Haflong-2
+Boro Haflong, Haflong, Dima 
+Hasao  (NC Hills)
+25.14586111
+93.02419444
+Debris
+Slide
+22 May 2016

@@ -1,0 +1,419 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+26885
+TR/NTR/84D08/2015/41
+Tripura
+North Tripura
+ 
+Damcherra-Hmunpui junction 
+road section along Jampui hill 
+range
+24.134722
+92.277639
+Debris
+Slide
+2015
+26886
+TR/NTR/84D08/2015/8
+Tripura
+North Tripura
+ 
+~2 km S of Bahadurpara
+24.139861
+92.319167
+Debris
+Slide
+2015
+26887
+TR/NTR/84D08/2015/9
+Tripura
+North Tripura
+Bahadurpara
+Bahadurpara
+24.141694
+92.322306
+Debris
+Slide
+2015
+26888
+TR/NTR/84D08/2015/40
+Tripura
+North Tripura
+ 
+Damcherra-Hmunpui junction 
+road section along Jampui hill 
+range
+24.142722
+92.273583
+Debris
+Slide
+2015
+26889
+TR/NTR/84D08/2015/46
+Tripura
+North Tripura
+ 
+Thumcharaipara road section
+24.165583
+92.268389
+Debris
+Slide
+2015
+26890
+TR/DHA/84D08/2015/24
+Tripura
+Dhalai
+ 
+ 
+24.212361
+92.258111
+Debris
+Slide
+2015
+26891
+TR/NTR/84D08/2015/36
+Tripura
+North Tripura
+Kaskao
+Near Kuki Christian Church
+24.228111
+92.287417
+Earth
+Slide
+2015
+26892
+TR/NTR/84D04/2015/53
+Tripura
+North Tripura
+ 
+Jalabasa-Balikcharra section
+24.240194
+92.247861
+Rock
+Slide
+2015
+26893
+TR/WTR/79M05/2018/003
+Tripura
+West Tripura
+Belfung landslide
+Kumbukcherra area, Hezamara 
+Block
+24.325444
+94.232583
+Soil
+Slide
+18 May 2018
+26894
+TR/WTR/78P08/2018/001
+Tripura
+West Tripura
+Birchandrapara landslide
+Subolsingh, Hezamara R.D. 
+Block
+24.781694
+93.776056
+Soil
+Slide
+18 May 2018
+26895
+TR/WTR/78P/08/2018/002
+Tripura
+West Tripura
+Pekua landslide
+Pekua village (towards 
+Murabari) along PMGSY road
+24.791306
+93.735667
+Soil
+Slide
+18 May 2018, 21 May 2018
+26896
+4682
+Tripura
+Dhalai
+NULL
+NULL
+23.993632
+91.858355
+Soil
+Slide
+NA
+26897
+TR-3/09-10
+Tripura
+Dhalai
+Datarampara slide
+NA
+23.9
+91.75622222
+NA
+NULL
+3 June 2010
+26898
+TR-4/09-10
+Tripura
+Dhalai
+Betaraipara slide
+NA
+23.89569444
+91.76525
+NA
+NULL
+June 2010
+26899
+TR-5/09-10
+Tripura
+Dhalai
+Jeulchhara slide
+NA
+23.88888889
+91.78888889
+NA
+NULL
+June 2010
+26900
+TR-6/09-10
+Tripura
+Dhalai
+Kamalchherra
+NA
+23.912
+91.83852778
+NA
+NULL
+April 2010
+26901
+Tripura/Dhalai/78P16/2017/001 Tripura
+Dhalai
+Vidya Mohan Para landslide
+West Lambuchhara ( ~4.5 km 
+from Khowai-Kamalpur State 
+Highway)
+24.17072222
+91.76697222
+Debris
+Slide 
+2016, 3 June 2017 
+26902
+Tripura/Dhalai/78P16/2017/002 Tripura
+Dhalai
+Vidya Mohan Para landslide 2
+West Lambuchhara (~4.5 km 
+from Khowai-Kamalpur State 
+Highway)
+24.16966667
+91.76686111
+Debris
+Slide 
+3 June 2017
+26903
+TR/BEL/79M/08/2021/02
+Tripura
+South Tripura
+Jharjhari Landslide
+SH Belonia- Jolaibari
+23.22966667
+91.49532222
+Debris
+Slide
+25 August 2021, around 05.30 to 6.00 
+hrs
+26904
+TR/BEL/79M/07/2021/01
+Tripura
+South Tripura
+Manurmukh Landslide
+Sarasima Panchayat
+23.25229444
+91.48825
+Soil (Insitu: Sandy 
+Soil)
+Slide
+25 August 2021, around 05:30 to 06:00 
+hrs
+26905
+4698
+Tripura
+North Tripura
+Binarani Teli
+NH-208A
+24.384311
+92.126028
+Debris
+slide
+NA
+26906
+5706
+Tripura
+North Tripura
+Kalagangerpar
+Settlement
+24.477126
+92.205369
+Soil
+slide
+ July 2025
+26907
+5707
+Tripura
+North Tripura
+Rajnagar
+24.48556
+92.212277
+Debris
+slide
+ July 2025
+26908
+5708
+Tripura
+North Tripura
+BRAJENDRANAGAR
+North of the Village
+24.489749
+92.170312
+Soil
+slide
+ July 2024
+26909
+5711
+Tripura
+North Tripura
+Noagoan
+Link road.
+24.320111
+92.216955
+Soil
+slide
+ July 2025
+26910
+5712
+Tripura
+North Tripura
+Jarolmura
+Linked road
+24.314206
+92.225824
+Debris
+slide
+ July 2025
+26911
+5713
+Tripura
+North Tripura
+Zaralmura
+Linked road
+24.309993
+92.22714
+Soil
+slide
+July 2024
+26912
+5714
+Tripura
+North Tripura
+Bagbassa
+Zoitang road junction
+24.352076
+92.225188
+Soil
+slide
+ July 2025
+26913
+5715
+Tripura
+North Tripura
+Bagbassa
+NH-8
+24.356023
+92.225478
+Debris
+slide
+July 2024,  July 2025
+26914
+5716
+Tripura
+North Tripura
+Chanpur
+NH-8
+24.4012
+92.237233
+Debris
+slide
+ July 2025
+26915
+5717
+Tripura
+North Tripura
+Churaibari
+NH-8
+24.413873
+92.241309
+Debris
+slide
+ July 2025
+26916
+5718
+Tripura
+North Tripura
+Churaibari
+NH-8
+24.414992
+92.241894
+Soil
+slide
+ July 2025
+26917
+5719
+Tripura
+North Tripura
+Churaibari
+NH-8
+24.419026
+92.242991
+Debris
+slide
+ July 2025
+26918
+5720
+Tripura
+North Tripura
+Churaibari
+NH-8
+24.43797
+92.250464
+Soil
+slide
+July 2024,  July 2025
+26919
+5721
+Tripura
+North Tripura
+Churaibari
+NH-8
+24.4349
+92.249371
+Soil
+slide
+ July 2024
+26920
+5722
+Tripura
+North Tripura
+Churaibari
+NH-8
+24.437066
+92.249961
+Soil
+slide
+ July 2025

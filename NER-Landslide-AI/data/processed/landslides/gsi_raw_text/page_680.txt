@@ -1,0 +1,521 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+26962
+TN/TEN/58F08/2016/52
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.020811
+77.266194
+Earth
+Slide
+NA
+26963
+TN/TEN/58F08/2016/50
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.021278
+77.263808
+Debris
+Slide
+NA
+26964
+TN/TEN/58F08/2016/51
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.021339
+77.264514
+Debris
+Slide
+NA
+26965
+TN/TEN/58F08/2016/53
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.021664
+77.265714
+Debris
+Slide
+NA
+26966
+TN/TEN/58F08/2016/54
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.022622
+77.264906
+Debris
+Slide
+NA
+26967
+TN/TEN/58F08/2016/55
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.0237
+77.264536
+Debris
+Slide
+NA
+26968
+TN/TEN/58F08/2016/56
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.027647
+77.265528
+Debris
+Slide
+NA
+26969
+TN/TEN/58F08/2016/57
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.028983
+77.265719
+Rock
+Slide
+NA
+26970
+TN/TEN/58F08/2016/59
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.030003
+77.267081
+Debris
+Slide
+NA
+26971
+TN/TEN/58F08/2016/58
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.030008
+77.266225
+Debris
+Slide
+NA
+26972
+TN/TEN/58F08/2016/60
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.033208
+77.266333
+Debris
+Slide
+NA
+26973
+TN/TEN/58F08/2016/61
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.033883
+77.265406
+Debris
+Slide
+NA
+26974
+TN/TEN/58F08/2016/69
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.034431
+77.278042
+Debris
+Slide
+NA
+26975
+TN/TEN/58F08/2016/68
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.035131
+77.279533
+Debris
+Slide
+NA
+26976
+TN/TEN/58F08/2016/62
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.036719
+77.266644
+Debris
+Slide
+NA
+26977
+TN/TEN/58F08/2016/65
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.036908
+77.276147
+Rock
+Slide
+NA
+26978
+TN/TEN/58F08/2016/63
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.037483
+77.2708
+Debris
+Slide
+NA
+26979
+TN/TEN/58F08/2016/67
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.037706
+77.279914
+Debris
+Slide
+NA
+26980
+TN/TEN/58F08/2016/64
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.037978
+77.273086
+Debris
+Slide
+NA
+26981
+TN/TEN/58F08/2016/46
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.040128
+77.290631
+Debris
+Slide
+NA
+26982
+TN/TEN/58F08/2016/45
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.040314
+77.291872
+Debris
+Slide
+NA
+26983
+TN/TEN/58F08/2016/34
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.042117
+77.301367
+Debris
+Slide
+NA
+26984
+TN/TEN/58F08/2016/35
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.042142
+77.301744
+Debris
+Slide
+NA
+26985
+TN/TEN/58F08/2016/44
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.042353
+77.293164
+Debris
+Slide
+NA
+26986
+TN/TEN/58F08/2016/33
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.042678
+77.304019
+Debris
+Slide
+NA
+26987
+TN/TEN/58F08/2016/36
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.043192
+77.303367
+Rock
+Fall
+NA
+26988
+TN/TEN/58F08/2016/40
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.043597
+77.300431
+Debris
+Slide
+NA
+26989
+TN/TEN/58F08/2016/43
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.043981
+77.2935
+Debris
+Slide
+NA
+26990
+TN/TEN/58F08/2016/66
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.044303
+77.277003
+Debris
+Slide
+NA
+26991
+TN/TEN/58F08/2016/41
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.044442
+77.299331
+Debris
+Slide
+NA
+26992
+TN/TEN/58F08/2016/32
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.044856
+77.306169
+Debris
+Slide
+NA
+26993
+TN/TEN/58F08/2016/42
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.045336
+77.295475
+Debris
+Slide
+NA
+26994
+TN/TEN/58F08/2016/39
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.045503
+77.302472
+Debris
+Slide
+NA
+26995
+TN/TEN/58F08/2016/37
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.045611
+77.3037
+Debris
+Slide
+NA
+26996
+TN/TEN/58F08/2016/31
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.046692
+77.308981
+Rock
+Slide
+NA
+26997
+TN/TEN/58F08/2016/38
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.046953
+77.306408
+Rock
+Fall
+NA
+26998
+TN/TEN/58F08/2016/30
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.048972
+77.310464
+Rock
+Slide
+NA
+26999
+TN/TEN/58F08/2016/71
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.076472
+77.255686
+Earth
+Slide
+NA
+27000
+TN/TEN/58F08/2016/70
+Tamil Nadu
+Theni
+ 
+Mundal to Bodimettu road
+10.076961
+77.255369
+Earth
+Slide
+NA
+27001
+TN/ANN/58F08/2016/24
+Tamil Nadu
+Dindigul
+ 
+Mariyanchola Road
+10.166275
+77.363056
+Earth
+Slide
+NA
+27002
+TN/ANN/58F08/2016/23
+Tamil Nadu
+Dindigul
+ 
+Berijam to Mariyanchola Road
+10.177358
+77.387694
+Earth
+Slide
+NA
+27003
+TN/ANN/58F08/2016/7
+Tamil Nadu
+Dindigul
+ 
+South west of Poondi village
+10.191944
+77.333889
+Debris
+Slide
+NA
+27004
+TN/ANN/58F08/2016/6
+Tamil Nadu
+Dindigul
+ 
+South of Nattiyampatti village
+10.19375
+77.320056
+Debris
+Slide
+NA
+27005
+TN/ANN/58F12/2016/29
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Vatlakundu
+10.197261
+77.660056
+Debris
+Slide
+NA
+27006
+TN/ANN/58F08/2016/5
+Tamil Nadu
+Dindigul
+ 
+Along road from Killavarai to 
+Polur
+10.199722
+77.314528
+Debris
+Slide
+NA
+27007
+TN/ANN/58F08/2016/4
+Tamil Nadu
+Dindigul
+ 
+Along road from Killavarai to 
+Polur
+10.200222
+77.31475
+Earth
+Slide
+NA

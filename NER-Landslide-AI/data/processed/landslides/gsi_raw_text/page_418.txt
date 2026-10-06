@@ -1,0 +1,345 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+17054
+MH/RAI/47F08/2020/3
+Maharashtra
+Raigad
+-
+Ambet to Nandavi road section
+18.09
+73.28
+Debris
+Slide
+NA
+17055
+MH/RAI/47F08/2020/4
+Maharashtra
+Raigad
+-
+Ambet to Nandavi road section
+18.09
+73.28
+Debris
+Slide
+NA
+17056
+MH/RGD/47F08/2012/0001
+Maharashtra
+Raigarh (Raygad)
+Dasgaon Slide
+Near 113 Km stone NH - 17
+18.0915
+73.36483
+Debris
+Slide
+26 July  2005
+17057
+MH/RAIG/47F08/2008/0067
+Maharashtra
+Raigarh (Raygad)
+ 
+SH 99, To - Baghmandala road
+18.092778
+73.342778
+Debris
+Flow
+NA
+17058
+MH/RAI/47F12/2020/12
+Maharashtra
+Pune
+-
+Varandh Ghat
+18.1
+73.64
+Earth
+Slump
+NA
+17059
+MH/RAI/47F12/2020/15
+Maharashtra
+Pune
+-
+Varandh Ghat
+18.1
+73.63
+Debris
+Slide
+NA
+17060
+MH/RAI/47B16/2019/1
+Maharashtra
+Raigad
+Shekhari Slide
+Shriwardhan-Diveagar Road
+18.10366
+72.98438
+Rock
+Fall
+NA
+17061
+MH/RAIG/47B16/2008/0008
+Maharashtra
+Raigarh (Raygad)
+ 
+Shrivardhan – Shekhadi – Dighi 
+road
+18.104722
+72.983889
+NA
+Fall
+NA
+17062
+MH/SAT/47F16/2019/5
+Maharashtra
+Pune
+ 
+2.5 km from Kanhawadi on 
+Village Road from Kanhawadi to 
+Atit
+18.105381
+73.884446
+Rock
+Fall
+NA
+17063
+MH/RAIG/47B16/2008/0009
+Maharashtra
+Raigarh (Raygad)
+ 
+Shrivardhan - Shekhadi - Dighi 
+road
+18.108611
+72.982222
+NA
+Subsidence
+NA
+17064
+MH/RAI/47F08/2020/5
+Maharashtra
+Raigad
+-
+Ambet-Nandavi road section
+18.11
+73.29
+Debris
+Slide
+NA
+17065
+MH/RAI/47F08/2020/6
+Maharashtra
+Raigad
+-
+Ambet-Nandavi road section
+18.11
+73.29
+Debris
+Slide
+NA
+17066
+MH/RAI/47F08/2020/7
+Maharashtra
+Raigad
+-
+Ambet-Nandavi road section
+18.11
+73.25
+Debris
+Slide
+NA
+17067
+MH/RAI/47F12/2020/8
+Maharashtra
+Pune
+-
+Hirdoshi-Venpuri road section
+18.11
+73.7
+Earth
+Slump
+NA
+17068
+MH/RAI/47F12/2020/9
+Maharashtra
+Pune
+-
+Nigudghar- Kondhari -Mazeri 
+road section (49 Km from 
+Mahad)
+18.11
+73.68
+Earth
+Slump
+NA
+17069
+MH/RAI/47F12/2020/14
+Maharashtra
+Pune
+-
+Varandh Ghat
+18.11
+73.62
+Debris
+Slide
+NA
+17070
+MH/RAI/47F12/2020/17
+Maharashtra
+Pune
+-
+Varandh Ghat
+18.11
+73.64
+Debris
+Slide
+NA
+17071
+MH/RAIG/47F04/2008/0039
+Maharashtra
+Raigarh (Raygad)
+ 
+State Highway; Goregaon 
+Mhasala road
+18.113056
+73.225833
+Rock
+Slide
+NA
+17072
+MH/RAIG/47F04/2008/0040
+Maharashtra
+Raigarh (Raygad)
+ 
+Between Durgwadi and Chirati
+18.113333
+73.124444
+Debris
+Slide
+NA
+17073
+MH/RAI/47F12/2020/7
+Maharashtra
+Pune
+Kondhari Slide
+1 km north of MSH-70, 
+Kondhari
+18.12
+73.69
+Debris
+Slide
+2019
+17074
+MH/RAI/47F12/2020/10
+Maharashtra
+Pune
+-
+Nigudghar- Kondhari-
+Dhangarwadi-Hirdoshi road 
+section
+18.12
+73.68
+Debris
+Slide
+NA
+17075
+MH/RAI/47F12/2020/11
+Maharashtra
+Pune
+-
+Nigudghar-Kondari-
+Dhangarwadi-Hirdoshi road 
+section
+18.12
+73.68
+Debris
+Slide
+NA
+17076
+MH/RAIG/47F04/2008/0041
+Maharashtra
+Raigarh (Raygad)
+ 
+Mhasala-Durgwadi village road
+18.125556
+73.114722
+Debris
+Slide
+NA
+17077
+MH/RAI/47F04/2019/10
+Maharashtra
+Raigad
+ 
+Kokbal-Durgawadi Road
+18.12823
+73.11151
+Rock
+Fall
+NA
+17078
+MH/RAI/47F04/2019/11
+Maharashtra
+Raigad
+Mhasla Slide
+Mhasla Bypass
+18.12938
+73.10515
+Rock
+Fall
+NA
+17079
+MH/RAI/47F12/2020/13
+Maharashtra
+Raigad
+-
+Varandh Ghat
+18.13
+73.61
+Rock
+Fall
+NA
+17080
+MH/RAIG/47F04/2008/0043
+Maharashtra
+Raigarh (Raygad)
+ 
+SH,  Mhasala - Mahad road
+18.134722
+73.149444
+NA
+Subsidence
+NA
+17081
+MH/RAI/47F12/2020/6
+Maharashtra
+Pune
+Shilimb Debris slump
+Umberde-Shilimb-Rajiwadi road 
+section
+18.14
+73.65
+Earth
+Slump
+NA
+17082
+MH/RAIG/47F04/2008/0026
+Maharashtra
+Raigarh (Raygad)
+ 
+Main District Road; Harkol to 
+Alsure/ Govele road
+18.141389
+73.248333
+Debris
+Slide
+NA

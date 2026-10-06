@@ -1,0 +1,448 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29112
+WB/DAR/78B09/2015/788
+West Bengal
+Darjeeling
+Nimbong RF
+Nimbong RF
+26.988528
+88.557556
+Debris
+Slide
+2015
+29113
+WB/DAR/78B05/2015/496
+West Bengal
+Darjeeling
+Mungpoo-Rambhi Road
+Mungpoo-Rambhi Road
+26.988573
+88.317384
+Rock
+Slide
+2009
+29114
+WB/DAR/78B09/2015/761
+West Bengal
+Darjeeling
+N OF KHASMAI
+N OF KHASMAI
+26.988597
+88.573497
+Debris
+Slide
+2015
+29115
+WB/DAR/78B09/2015/799
+West Bengal
+Darjeeling
+West of Dalapchand Gomba Temple
+West of Dalapchand Gomba 
+Temple
+26.988917
+88.582861
+Rock
+Slide
+2015
+29116
+WB/DAR/78B09/2015/765
+West Bengal
+Darjeeling
+SW OF LOLEGAON
+SW OF LOLEGAON
+26.989111
+88.546028
+Rock
+Slide
+2015
+29117
+WB/DAR/78B05/2015/476
+West Bengal
+Darjeeling
+Rongbul Kothidara Slide v 1
+Rongbul Kothidara Slide, just 
+below the NH55 road bench
+26.98943
+88.26309
+Debris
+Slide
+2007
+29118
+WB/DAR/78B05/2015/461
+West Bengal
+Darjeeling
+NG97 NAZUK RF
+ 
+26.989503
+88.45704
+Debris
+Slide
+2004
+29119
+WB/DAR/78B01/2021/PDLS/87
+West Bengal
+Darjeeling
+N/A
+N/A
+26.989655
+88.11836379
+Rock
+Slide
+October 2021
+29120
+WB/DAR/78B09/2015/717
+West Bengal
+Darjeeling
+Garubatan village
+Garubatan village
+26.98966
+88.69912
+Debris
+Slide
+2007
+29121
+WB/DARJ/78B09/2007/0003
+West Bengal
+Darjeeling
+Gorubathan-III
+17 km from Damdin
+26.9897
+88.6991
+Debris
+Slide
+2007
+29122
+WB/DAR/78B09/2015/790
+West Bengal
+Darjeeling
+NG29 SSW of Pemling
+ 
+26.989783
+88.58974
+Rock
+Slide
+2015
+29123
+WB/DAR/78B05/2015/462
+West Bengal
+Darjeeling
+NG98 NAZUK RF, LOWER DONG
+ 
+26.989841
+88.459662
+Debris
+Slide
+2004
+29124
+WB/DAR/78B01/2021/PDLS/88
+West Bengal
+Darjeeling
+N/A
+N/A
+26.98999242
+88.11907253
+Debris
+Slide
+October 2021
+29125
+WB/DAR/78B09/2015/719
+West Bengal
+Darjeeling
+Gorubathan
+Gorubathan Tea garden
+26.99018
+88.702248
+Debris
+Slide
+2010
+29126
+WB/DAR/78B05/2015/608
+West Bengal
+Darjeeling
+SURUK KHOLA
+ 
+26.990195
+88.466355
+Rock
+Slide
+2014
+29127
+WB/DAR/78B05/2015/655
+West Bengal
+Darjeeling
+BichkaniaN
+BichkaniaN
+26.990278
+88.340778
+Debris
+Slide
+2015
+29128
+WB/DAR/78B09/2015/737
+West Bengal
+Darjeeling
+Lolegaon
+Lolegaon
+26.990347
+88.554372
+Debris
+Slide
+2015
+29129
+WB/DAR/78B05/2015/670
+West Bengal
+Darjeeling
+NH31A Rambi Bazar
+NH31A Rambi Bazar
+26.990694
+88.420361
+Rock
+Slide
+2015
+29130
+WB/DAR/78B05/2021/PDLS/34
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+26.99076224
+88.42032627
+Rock
+Slide
+October 2021
+29131
+WB/DAR/78B05/2015/595
+West Bengal
+Darjeeling
+NH10 RAYENG
+ 
+26.990872
+88.429777
+Debris
+Slide
+2014
+29132
+WB/DAR/78B05/2015/654
+West Bengal
+Darjeeling
+BichkaniaN
+BichkaniaN
+26.991091
+88.346917
+Debris
+Subsidence
+2015
+29133
+WB/DAR/78B05/2015/479
+West Bengal
+Darjeeling
+NH31A _14.2 km
+14.2 km from Sevok(Tiger 
+Bridge) on NH-31A towards  
+Gangtok
+26.991269
+88.423422
+Rock
+Slide
+2007
+29134
+WB/DAR/78B01/2015/32
+West Bengal
+Darjeeling
+Along road from Rammam to mane 
+bhanjan to Sukhiya pokhri
+SH12
+26.991444
+88.14475
+Debris
+Slide
+2015
+29135
+WB/DAR/78B09/2015/764
+West Bengal
+Darjeeling
+LOLEGAON RF
+LOLEGAON RF
+26.991556
+88.548833
+Rock
+Slide
+2015
+29136
+WB/DAR/78B05/2015/456
+West Bengal
+Darjeeling
+NG99 NAZUK RF, LOWER DONG
+NG99 Nazuk RF, Lower Dong
+26.991879
+88.459684
+Debris
+Slide
+2004
+29137
+WB/DAR/78B05/2015/432
+West Bengal
+Darjeeling
+NG105 Nazuk  RF, SURUK KHOLA
+ 
+26.992017
+88.470421
+Rock
+Slide
+2004
+29138
+WB/DAR/78B01/2021/PDLS/86
+West Bengal
+Darjeeling
+N/A
+N/A
+26.9920389
+88.1182866
+Debris
+Slide
+October 2021
+29139
+WB/DAR/78B01/2015/328
+West Bengal
+Darjeeling
+SIMANA
+Along road from Rammam to 
+mane bhanjan to Sukhiya pokhri
+26.992103
+88.144828
+Debris
+Slide
+2015
+29140
+WB/DAR/78B09/2015/810
+West Bengal
+Darjeeling
+Pemling
+Pemling
+26.992722
+88.5825
+Rock
+Slide
+2015
+29141
+WB/DAR/78B01/2021/PDLS/38
+West Bengal
+Darjeeling
+N/A
+N/A
+26.99290473
+88.15200372
+Debris
+Slide
+October 2021
+29142
+WB/DAR/78B09/2015/789
+West Bengal
+Darjeeling
+NG29 Pemling
+ 
+26.993031
+88.592266
+Rock
+Slide
+2015
+29143
+WB/DAR/78B05/2015/495
+West Bengal
+Darjeeling
+Mungpoo-Rambhi Road
+Mungpoo-Rambhi Road
+26.993074
+88.31429
+Debris
+Subsidence
+2009
+29144
+WB/DAR/78B05/2015/464
+West Bengal
+Darjeeling
+NG101 NAZUK RF, LOWER DONG
+ 
+26.993166
+88.455159
+Debris
+Slide
+2004
+29145
+WB/DAR/78B05/2015/463
+West Bengal
+Darjeeling
+NG100 NAZUK RF, LOWER DONG
+ 
+26.993294
+88.457623
+Debris
+Slide
+2004
+29146
+WB/DAR/78B05/2015/431
+West Bengal
+Darjeeling
+NG102Nazuk RF, Lower Dong
+ 
+26.993442
+88.456802
+Debris
+Slide
+2004
+29147
+WB/DARJ/78B05/
+West Bengal
+Darjeeling
+ 
+North of Rambi
+26.993667
+88.425944
+Debris
+Slide
+2015
+29148
+WB/DAR/78B05/2015/698
+West Bengal
+Darjeeling
+North of Rambi
+NH-10
+26.993667
+88.425944
+Debris
+Slide
+2015
+29149
+WB/DAR/78B05/2015/477
+West Bengal
+Darjeeling
+Rongbul Ropeway Slide
+Rongbul
+26.993672
+88.268873
+Debris
+Slide
+2007
+29150
+WB/DAR/78B09/2015/821
+West Bengal
+Darjeeling
+Pemling
+Pemling
+26.993944
+88.582667
+Rock
+Slide
+2015

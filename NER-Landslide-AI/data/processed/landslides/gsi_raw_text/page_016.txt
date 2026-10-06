@@ -1,0 +1,368 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+504
+ASM/KMP/78N16/2017/0004
+Assam
+Kamrup (Metro)
+Dakshin Saraniya-2
+Ganpat Mandir road
+26.17756
+91.76589
+Debris
+Slide
+13 June 2017
+505
+AS/KAM/78N16/2008/B-3
+Assam
+Kamrup
+Daksin Saraniya Slide
+ 
+26.17806
+91.76083
+NA
+ 
+NA
+506
+ASM/KMP/78N16/2017/06
+Assam
+Kamrup (Metro)
+Bonda-Hajongdisa slide
+Tuinang colony
+26.18842
+91.85125
+Earth
+Slide
+16 June 2017
+507
+AS/KAM/78N16/2014/04
+Assam
+Kamrup (Metro)
+Nabragraha
+Chandmari Road
+26.18867
+91.76694
+Earth
+Flow
+NA
+508
+AS/KAM/78N16/2007/B-2
+Assam
+Kamrup
+Salbari Slide
+ 
+26.18917
+91.80111
+NA
+ 
+NA
+509
+AS/KAM/78N16/2015/115
+Assam
+Kamrup
+Akashinagar-1
+Akashinagar, Jyotinagar, 
+Nabagraha Hill
+26.189306
+91.787944
+Debris
+Slide
+NA
+510
+ASM/KMP/78N16/2016/57
+Assam
+Kamrup (Metro)
+Jyotinagar Slide
+Akashi Nagar, Jyoti Nagar, 
+Guwahati.
+26.1895
+91.787167
+Earth
+Slide
+2016
+511
+AS/KAM/78N16/2015/85
+Assam
+Kamrup
+3no. Salbari
+3no. Salbari, Babuji nagar, 
+Kharghuli Hill, Kamrup
+26.19025
+91.806472
+Debris
+Slide
+NA
+512
+ASM/KMP/78N16/2016/64
+Assam
+Kamrup (Metro)
+Nijabara slide (Guwahati)
+Noonmati, Guwahati
+26.190389
+91.809944
+Earth
+Slide
+2016
+513
+ASM/KAM/78N16/2017/08
+Assam
+Kamrup (Metro)
+Bonda colony slide no. 2
+Babubasti–Panikhaiti road 
+section/Bonda colony, Amgaon
+26.19081
+91.84528
+Earth
+Slide
+04 July 2017
+514
+AS/KAM/78N16/2015/84
+Assam
+Kamrup
+Salbari
+Salbari, Nepali chowk, Kharghuli 
+Hill, Kamrup
+26.191667
+91.803611
+Debris
+Slide
+NA
+515
+AS/KAM/78N16/2007/B-1
+Assam
+Kamrup
+Jyoti Nagar Slide
+ 
+26.19167
+91.79028
+NA
+ 
+NA
+516
+ASM/KMP/78N16/2016/63
+Assam
+Kamrup (Metro)
+Mandakini slide
+Mandakini path, Kharghuli
+26.192444
+91.764222
+Earth
+Slide
+2016
+517
+AS/KRP/78N16/2018/003
+Assam
+Kamrup
+Hastinapur landslide
+Hastinapur Near Jorabat 
+opposite of Cow bazaar
+26.195306
+91.765639
+Debris
+Slide
+24 August 2018
+518
+ASM/KMP/78N16/2016/62
+Assam
+Kamrup (Metro)
+Piyali Phukan Nagar Slide
+Njiura Par Path, Piyali Phukan 
+Nagar, Guwahati
+26.195528
+91.780556
+Earth
+Slide
+2016
+519
+AS/KAM/78N16/2014/05
+Assam
+Kamrup (Metro)
+Karghuli
+Chandmari Road
+26.19622
+91.76336
+Earth
+Flow
+23 March 2011
+520
+AS/GOA/78J08/2018/1
+Assam
+Goalpara
+Suapata landslide
+NH-31/Suapata
+26.198
+90.298
+Rock cum debris
+Slide
+NA
+521
+AS/NC/83G04/2009/B-5
+Assam
+Dima Hasao
+Phaiding Landslide
+ 
+26.20261
+91.14528
+Debris
+ 
+20 August 2009
+522
+ASM/KAM/78N16/2017/09
+Assam
+Kamrup (Metro)
+Panikhaiti–Bongaon slide
+Panikhaiti, Bongaon, near 
+railway line.
+26.20536
+91.86497
+Debris
+Slide
+03 July 2017
+523
+AS/KAM/78N16/2015/75
+Assam
+Kamrup
+Garogaon
+Garogaon Primary School, 
+Barigog-Panbari, Kamrup
+26.205583
+91.963222
+Debris
+Slide
+NA
+524
+AS/KAM/78N12/2015/66
+Assam
+Kamrup
+Jayguru Kalipahar
+infront of IIT Guwahati 
+approach
+26.211111
+91.684167
+Rock cum Debris
+Topple
+NA
+525
+AS/MOR/78N15/2015/108
+Assam
+Morigaon
+Khatargaon
+Khatargaon, Bura Mayang 
+Pahar, Morigaon
+26.250333
+91.976694
+Debris
+Slide
+NA
+526
+AS/KAM/78N11/2015/107
+Assam
+Kamrup
+Bolabil
+Bolabil near Kali mandir
+26.256139
+91.711583
+Rock cum Debris
+Slide
+NA
+527
+AS/KAR/83F03/2018/3
+Assam
+Karbi Anglong
+Samelangso-Langlangso road slide-2
+Samelangso-Langlangso road
+26.297306
+93.211833
+Debris
+Slide
+NA
+528
+AS/KAR/83F03/2018/2
+Assam
+Karbi Anglong
+Samelangso-Langlangso road slide-1
+Samelangso-Langlangso road
+26.297778
+93.211111
+Debris
+Slide
+NA
+529
+AS/KAR/83F03/2018/4
+Assam
+Karbi Anglong
+Samelangso-Langlangso road slide-3
+Samelangso-Langlangso road
+26.298389
+93.21625
+Debris
+Slide
+NA
+530
+AS/KAR/83F03/2018/5
+Assam
+Karbi Anglong
+Samelangso-Langlangso road slide-4
+Samelangso-Langlangso road
+26.302944
+93.225389
+Debris
+Slide
+NA
+531
+AS/KAR/83F03/2018/6
+Assam
+Karbi Anglong
+Samelangso-Langlangso road slide-4
+Samelangso-Langlangso road
+26.303333
+93.225694
+Debris
+Slide
+NA
+532
+AS/KAR/83F07/2018/3
+Assam
+Karbi Anglong
+Sartherang Juri Slide
+Sartherang Juri
+26.307972
+93.275722
+Soil
+Slide
+NA
+533
+AS/KAR/83F07/2018/2
+Assam
+Karbi Anglong
+Rongar-eh Slide No. 2
+Rongar-eh ΓÇô Pinghat 
+Rangpigaon ΓÇô Tiabergaon 
+Road Section
+26.314847
+93.256125
+Debris
+Slide
+NA
+534
+AS/KAR/83F07/2018/1
+Assam
+Karbi Anglong
+Rongar-eh Slide No. 1
+Rongar-eh ΓÇô Pinghat 
+Rangpigaon ΓÇô Tiabergaon 
+Road Section
+26.314964
+93.256408
+Debris
+Slide
+NA

@@ -1,0 +1,480 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22486
+MZ/CHA/83H04/2017/6
+Mizoram
+Champhai
+ 
+5.5 km milestone to Tuival river 
+from Khawkawn
+24.026138
+93.240166
+Rock
+Slide
+NA
+22487
+MZ/AIZ/83D16/2016/74
+Mizoram
+Aizawl
+ 
+5km N. Of Darlawn
+24.026556
+92.911915
+Rock
+Fall
+2016
+22488
+MZ/AIZ/83D16/2016/73
+Mizoram
+Aizawl
+ 
+North of Darlawn
+24.028721
+92.909301
+Earth
+Slide
+2016
+22489
+MZ/KOL/83D12/2016/13
+Mizoram
+Kolasib
+ 
+New Kawnpui(HM motors)
+24.030186
+92.673377
+Debris
+Slide
+NA
+22490
+MZ/AIZ/83D16/2016/97
+Mizoram
+Aizawl
+ 
+towards N. Serzawl
+24.030416
+92.901491
+Rock
+Slide
+NA
+22491
+MZ/KOL/83D12/2016/9
+Mizoram
+Kolasib
+ 
+way to Maulvum
+24.030588
+92.668422
+Debris
+Slide
+NA
+22492
+MZ/AIZ/83D16/2016/71
+Mizoram
+Aizawl
+ 
+Turial road
+24.030793
+92.793313
+Earth
+Slide
+2016
+22493
+MZ/KOL/83D12/2016/12
+Mizoram
+Kolasib
+ 
+Kawnpui
+24.033563
+92.674267
+Debris
+Slide
+NA
+22494
+MZ/AIZ/83D16/2016/42
+Mizoram
+Aizawl
+ 
+N. Of North Chaltlang
+24.036336
+92.770846
+Rock
+Slide
+NA
+22495
+MZ/AIZ/83D16/2016/43
+Mizoram
+Aizawl
+ 
+North Chaltlang
+24.036893
+92.771278
+Rock
+Slide
+NA
+22496
+MZ/AIZ/83D16/2016/77
+Mizoram
+Aizawl
+ 
+6km south of Sailutar
+24.037336
+92.922455
+Debris
+Slide
+2016
+22497
+MZ/KOL/83D12/2016/14
+Mizoram
+Aizawl
+ 
+6km S of Sailut
+24.037395
+92.922461
+Debris
+Slide
+NA
+22498
+MZ/AIZ/83D16/2016/78
+Mizoram
+Aizawl
+ 
+6km south of Sailutar
+24.037574
+92.922489
+Earth
+Slide
+2016
+22499
+MZ/AIZ/83H04/2017/10
+Mizoram
+Aizawl
+ 
+TlangnuamDaido section
+24.038279
+93.140945
+Rock
+Slide
+NA
+22500
+MZ/AIZ/83D16/2016/70
+Mizoram
+Aizawl
+ 
+Turial road
+24.039744
+92.780045
+Rock
+Fall
+2016
+22501
+MZ/CHA/83H04/2017/2
+Mizoram
+Champhai
+ 
+9.5 km milestone to Tuival river 
+from Khawkawn
+24.039833
+93.232864
+Rock
+Slide
+NA
+22502
+MZ/AIZ/83D16/2016/45
+Mizoram
+Aizawl
+ 
+N. Of North Chaltlang
+24.040703
+92.774277
+Rock
+Slide
+NA
+22503
+MZ/AIZ/83D16/2016/44
+Mizoram
+Aizawl
+ 
+N. Of North Chaltlang
+24.040967
+92.774357
+Rock
+Slide
+NA
+22504
+MZ/AIZ/83H04/2017/9
+Mizoram
+Aizawl
+ 
+Near Tuivai R, east of Vanbawng 24.040972
+93.078697
+Debris
+Slide
+NA
+22505
+MZ/AIZ/83D16/2016/67
+Mizoram
+Aizawl
+ 
+South of Bukpui village
+24.043187
+92.77542
+Rock
+Slide
+2016
+22506
+MZ/AIZ/83H04/2017/13
+Mizoram
+Aizawl
+ 
+VanbawngTuivai R, east of 
+Vanbawng
+24.043417
+93.066307
+Debris
+Slide
+NA
+22507
+MZ/AIZ/83D16/2016/68
+Mizoram
+Aizawl
+ 
+South of Bukpui village
+24.043492
+92.775423
+Rock
+Slide
+2016
+22508
+MZ/AIZ/83D16/2016/66
+Mizoram
+Aizawl
+ 
+South of Bukpui village
+24.045278
+92.775169
+Rock
+Slide
+2016
+22509
+MZ/AIZ/83H04/2017/14
+Mizoram
+Aizawl
+ 
+VanbawngN Khawlek section
+24.046499
+93.04422
+Rock
+Slide
+NA
+22510
+MZ/AIZ/83H04/2017/11
+Mizoram
+Aizawl
+ 
+VanbawngTuivai R
+24.047916
+93.056946
+Debris
+Slide
+NA
+22511
+MZ/AIZ/83H04/2017/3
+Mizoram
+Aizawl
+ 
+VanbawngTuivai R, east of 
+Vanbawng
+24.048695
+93.061638
+Debris
+Slide
+NA
+22512
+MZ/MAM/83D08/2020/2
+Mizoram
+Mamit
+South of Rengdil village slide 2
+2 Km south of Rengdil village 
+and North of Kwarthah village,  
+on NH-108
+24.05
+92.38
+Rock
+Slide
+2019
+22513
+MZ/MAM/83D08/2020/3
+Mizoram
+Mamit
+South of Rengdil village slide 1
+1.5 Km south of Rengdil village, 
+on NH-108
+24.05
+92.38
+Rock
+Slide
+2019
+22514
+MZ/AIZ/83D16/2016/65
+Mizoram
+Aizawl
+ 
+South of Bukpui village
+24.050391
+92.775525
+Rock
+Slide
+2016
+22515
+MZ/AIZ/83D16/2016/64
+Mizoram
+Aizawl
+ 
+South of Bukpui village
+24.053275
+92.77647
+Rock
+Slide
+2016
+22516
+MZ/AIZ/83D16/2016/79
+Mizoram
+Aizawl
+ 
+4km south of Sailutar
+24.056205
+92.916817
+Rock
+Slide
+NA
+22517
+MZ/MAM/83D08/2020/4
+Mizoram
+Mamit
+South of Rengdil slide
+South of Rengdil village
+24.06
+92.39
+Rock
+Slide
+2019
+22518
+MZ/AIZ/83D16/2016/80
+Mizoram
+Aizawl
+ 
+1km south of Sailutar
+24.061004
+92.925342
+Earth
+Slide
+2016
+22519
+MZ/AIZ/83D16/2016/81
+Mizoram
+Aizawl
+ 
+1km  south of Sailutar
+24.062429
+92.922576
+Rock
+Slide
+2016
+22520
+MZ/AIZ/83D16/2016/96
+Mizoram
+Aizawl
+ 
+Sunhluchip
+24.066822
+92.893593
+Earth
+Slide
+NA
+22521
+MZ/AIZ/83D16/2016/95
+Mizoram
+Aizawl
+ 
+Sunhluchip
+24.067478
+92.893471
+Rock
+Slide
+2012
+22522
+MZ/AIZ/83D16/2016/94
+Mizoram
+Aizawl
+ 
+Sunhluchip playground
+24.067576
+92.893076
+Rock
+Slide
+2012
+22523
+MZ/AIZ/83D16/2016/83
+Mizoram
+Aizawl
+ 
+Sailutar village
+24.069401
+92.91857
+Earth
+Slide
+2016
+22524
+MZ/AIZ/83D16/2016/84
+Mizoram
+Aizawl
+ 
+Sailutar village
+24.069728
+92.918457
+Earth
+Slide
+2016
+22525
+MZ/AIZ/83D16/2016/85
+Mizoram
+Aizawl
+ 
+Sailutar village
+24.069857
+92.918457
+Rock
+Slide
+NA
+22526
+MZ/AIZ/83D16/2016/63
+Mizoram
+Aizawl
+ 
+2km S. Of Bukpui village
+24.070285
+92.787738
+Rock
+Slide
+2016
+22527
+MZ/AIZ/83D16/2016/86
+Mizoram
+Aizawl
+ 
+8km  south of Ratu
+24.07462
+92.91518
+Rock
+Slide
+2016

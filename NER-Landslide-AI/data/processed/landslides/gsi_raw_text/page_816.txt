@@ -1,0 +1,487 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+32189
+UK/BAG/62C01/2013/0088
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_88
+Right Bank of Mehar Gad
+29.913639
+80.119111
+Debris
+Slide
+16th-17th June 2013
+32190
+UK/BAG/62C01/2013/0087
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_87
+Sukhchauna on left bank of the 
+Mehar Gad
+29.913806
+80.118694
+Rock
+Fall
+16th-17th June 2013
+32191
+UK/ALM/53O05/2017/3
+Uttarakhand
+Almora
+ 
+Ramganga Nadi
+29.913858
+79.420476
+Debris
+Slide
+NA
+32192
+UK/BAG/62C01/2015/416
+Uttarakhand
+Bageshwar
+ 
+ 
+29.913889
+80.038889
+Rock cum Debris
+Slide
+NA
+32193
+UK/PAU/53O01/2017/72
+Uttarakhand
+Pauri Garhwal
+ 
+Purvi Nayar river
+29.913905
+79.033629
+Rock
+Slide
+2012
+32194
+UK/ALM/53O05/2017/51
+Uttarakhand
+Almora
+ 
+Bhatwari
+29.914023
+79.288127
+Rock
+Slide
+2016
+32195
+UK/PAU/53K10/2016/2
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.914095
+78.711847
+Rock
+Fall
+NA
+32196
+UK/PAU/53K05/2016/22
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.914207
+78.492254
+Debris
+Slide
+NA
+32197
+UK/PAU/53K05/2016/37
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.914489
+78.394409
+Rock
+Fall
+NA
+32198
+UK/ALM/53O05/2017/4
+Uttarakhand
+Almora
+ 
+Ramganga Nadi
+29.914575
+79.418203
+Debris
+Slide
+2012
+32199
+UK/PAU/53O01/2017/73
+Uttarakhand
+Pauri Garhwal
+ 
+BaijroChokhalBungidhar Marg
+29.914817
+79.037974
+Debris
+Slide
+2017
+32200
+UK/BAG/53O13/2015/390
+Uttarakhand
+Bageshwar
+ 
+ 
+29.914853
+79.967175
+Rock cum Debris
+Slide
+NA
+32201
+UK/PAU/53O01/2017/74
+Uttarakhand
+Pauri Garhwal
+ 
+BaijroChokhalBungidhar Marg
+29.914931
+79.039605
+Rock
+Slide
+2012
+32202
+UK/PAU/53K09/2016/52
+Uttarakhand
+Pauri Garhwal
+Kritikal
+ 
+29.91496
+78.654361
+Debris
+Slide
+NA
+32203
+UK/PAU/53K09/2016/93
+Uttarakhand
+Pauri Garhwal
+Dhanda
+ 
+29.915017
+78.742328
+Rock
+Slide
+NA
+32204
+UK/PAU/53K13/2016/31
+Uttarakhand
+Pauri Garhwal
+ 
+road to Rithakhal
+29.91541
+78.806832
+Rock
+Slide
+NA
+32205
+UK/PIT/62C01/2015/423
+Uttarakhand
+Pithoragarh
+ 
+ 
+29.915419
+80.161789
+Rock
+Slide
+NA
+32206
+UK/PAU/53K13/2016/163
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.91592
+78.794933
+Rock
+Slide
+NA
+32207
+UK/PAU/53K13/2016/27
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.916
+78.812
+Debris
+Slide
+NA
+32208
+UK/BAG/62C01/2015/415
+Uttarakhand
+Bageshwar
+ 
+ 
+29.916111
+80.035
+Rock cum Debris
+Slide
+NA
+32209
+UK/ALM/53O05/2017/49
+Uttarakhand
+Almora
+ 
+ThanigaonMarbukhal road
+29.916289
+79.326608
+Rock
+Slide
+2014
+32210
+UK/BAG/53O09/2018/3
+Uttarakhand
+Bageshwar
+Bimola
+Bimola-Baijnath
+29.916483
+79.599998
+Soil
+Slide
+2018
+32211
+UK/BAG/53O13/2015/320
+Uttarakhand
+Bageshwar
+ 
+ 
+29.916485
+79.806394
+Debris
+Slide
+NA
+32212
+UK/PIT/62C01/2015/426
+Uttarakhand
+Pithoragarh
+ 
+ 
+29.916667
+80.157778
+Rock
+Slide
+NA
+32213
+UK/BAG/53O13/2015/403
+Uttarakhand
+Bageshwar
+ 
+ 
+29.91675
+79.810639
+Debris
+Slide
+NA
+32214
+UK/ALM/53O05/2017/48
+Uttarakhand
+Almora
+ 
+ThanigaonMarbukhal road
+29.916883
+79.326221
+Debris
+Flow
+2014
+32215
+UK/PAU/53K13/2016/26
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.917
+78.829
+Rock
+Slide
+NA
+32216
+UK/BAG/53O13/2013/0063
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_63
+Left bank of Kanal Gad
+29.917028
+79.800139
+Rock cum Debris
+Slide
+16th-17th June 2013
+32217
+UK/BAG/53O13/2013/0062
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_62
+Bhitalgaon (Kum Gad near the 
+confluence with Kanyal Gad)
+29.917389
+79.799194
+Debris
+Slide
+16th-17th June 2013
+32218
+UK/BAG/62C01/2015/425
+Uttarakhand
+Bageshwar
+ 
+ 
+29.917513
+80.147943
+Rock
+Slide
+NA
+32219
+UK/PAU/53K13/2016/25
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.918
+78.811
+Rock
+Slide
+NA
+32220
+UK/PAU/53K10/2016/1
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.918065
+78.676453
+Rock
+Fall
+NA
+32221
+UK/BAG/53O13/2015/319
+Uttarakhand
+Bageshwar
+ 
+ 
+29.918146
+79.803131
+Debris
+Slide
+NA
+32222
+UK/BAG/53O13/2013/0060
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_60
+On left bank of the Kanal Gad
+29.918417
+79.7895
+Rock
+Slide
+16th-17th June 2013
+32223
+UK/ALM/53O05/2017/36
+Uttarakhand
+Almora
+ 
+Badgiyal Gaon Reserve Forest
+29.918425
+79.192952
+Rock
+Fall
+2012
+32224
+UK/BAG/53O13/2013/0061
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_61
+Village Chachai
+29.918444
+79.794833
+Debris
+Slide
+16th-17th June 2013
+32225
+UK/ALM/53O05/2017/6
+Uttarakhand
+Almora
+ 
+Ramganga Nadi
+29.918456
+79.418316
+Debris
+Slide
+2012
+32226
+UK/PAU/53K09/2016/181
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.918462
+78.543596
+Rock
+Slide
+NA
+32227
+UK/PAU/53K09/2016/125
+Uttarakhand
+Pauri Garhwal
+S of Kunti village
+ 
+29.918732
+78.59211
+Debris
+Slide
+NA
+32228
+UK/PAU/53K09/2016/128
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.918965
+78.618338
+Debris
+Subsidence
+NA
+32229
+UK/ALM/53O05/2017/5
+Uttarakhand
+Almora
+ 
+Ramganga Nadi
+29.91909
+79.417782
+Debris
+Flow
+2012
+32230
+UK/PAU/53K09/2016/155
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.919303
+78.538402
+Rock
+Slide
+NA
+32231
+UK/ALM/53O05/2017/35
+Uttarakhand
+Almora
+ 
+Badgiyal Gaon Reserve Forest
+29.919407
+79.192601
+Rock
+Slide
+2012

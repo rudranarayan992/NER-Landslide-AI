@@ -1,0 +1,303 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14011
+KER/WYD/58A2/2018/02
+Kerala
+Wayanad
+Jawaharvidhya Nagar Landslide
+Vythiri – Kalpetta road
+11.5356
+76.0215
+Soil
+Slide
+14th June 2018 (05:00 hrs)
+14012
+KER/WYD/58A2/2018/03
+Kerala
+Wayanad
+Veterinary College Landslide
+Vythiri – Kalpetta road
+11.5346
+76.0244
+Debris
+Slide
+14th June 2018 (05:30 hrs)
+14013
+KER/WYD/58A2/2018/04
+Kerala
+Wayanad
+Achoor (6th mile) Landslide
+Vythiri – Padinjarathara road
+11.6066
+76.0077
+Soil
+Slide
+14th June 2018 (08:30 hrs)
+14014
+KER/WYD/49M14/2018/05
+Kerala
+Wayanad
+Valaramkunnu Landslide
+Mananthavady – Niravilpuzha 
+road
+11.6941
+75.9371
+Debris
+Slide
+14th June 2018 (08:00 hrs)
+14015
+KER/WYD/49M14/2018/06
+Kerala
+Wayanad
+Veetikunnu Landslide
+Mananthavady – Niravilpuzha 
+road
+11.7013
+75.9359
+Rock cum Debris
+Slide
+14th June 2018 (10:00 hrs)
+14016
+KER/WYD/49M14/2018/07
+Kerala
+Wayanad
+Pulipparakunnu Landslide
+Mananthavady – Niravilpuzha 
+road
+11.7034
+75.9369
+Debris
+Flow
+14th June 2018
+14017
+KER/WYD/49M13/2018/08
+Kerala
+Wayanad
+Thazhe Kunnothmala Landslide
+Valad - Kunnothmala road
+11.8297
+75.9298
+Debris
+Slide
+14th June 2018
+14018
+KRL/PKD/58A12/2018/11
+Kerala
+Palakkad
+Kondanmalla subsidence
+Kondanmalla, Near Okkode, 
+Mannarkkad taluk
+11.045365
+76.580602
+Debris
+subsidence
+Initiated on 16/8/2018
+14019
+KRL/PKD/58A12/2018/12
+Kerala
+Palakkad
+Kondanmalla subsidence II
+Kondanmalla, Near Okkode, 
+Mannarkkad taluk
+11.047615
+76.58101
+Debris
+subsidence
+Initiated on 16/8/2018
+14020
+KRL/PKD/58A12/2018/17
+Kerala
+Palakkad
+Palavalavu colony flood 
+Palavalavu colony, palakkayam 
+village, Mannarkad Taluk
+11.032677
+76.527807
+NA
+Initiated on 16/8/2018,
+14021
+KRL/PKD/58A12/2018/183
+Kerala
+Palakkad
+Palakkayam village, Mannarkad 
+Taluk
+11.029777
+76.522575
+rock cum debris
+slide
+Initiated on 16/8/2018
+14022
+KRL/PKD/58A12/2018/184
+Kerala
+Palakkad
+Palakkayam village, Mannarkad 
+Taluk
+11.029352
+76.523
+rock cum debris
+slide
+Initiated on 16/8/2018
+14023
+KRL/PKD/58A12/2018/185
+Kerala
+Palakkad
+Palakkayam village, Mannarkad 
+Taluk
+11.029556
+76.521189
+rock cum debris
+slide
+Initiated on 16/8/2018
+14024
+KRL/PKD/58A12/2018/186
+Kerala
+Palakkad
+Palakkayam village, Mannarkad 
+Taluk
+11.032267
+76.527796
+Debris
+slide
+Initiated on 16/8/2018
+14025
+KRL/PKD/58A12/2018/187
+Kerala
+Palakkad
+Palakkayam village, Mannarkad 
+Taluk
+11.028483
+76.528773
+Debris
+slide
+Initiated on 16/8/2018
+14026
+KRL/PKD/58A12/2018/188
+Kerala
+Palakkad
+Palakkayam village, Mannarkad 
+Taluk
+11.029068
+76.531518
+Debris
+slide
+Initiated on 16/8/2018
+14027
+KRL/PKD/58A12/2018/189
+Kerala
+Palakkad
+Mannarkkad, Silent valley road
+11.035232
+76.527483
+Debris
+slide
+Initiated on 16/8/2018
+14028
+KRL/PKD/58A12/2018/190
+Kerala
+Palakkad
+Mannarkkad, Silent valley road
+11.036503
+76.529053
+Debris
+slide
+Initiated on 16/8/2018
+14029
+KRL/PKD/58A12/2018/191
+Kerala
+Palakkad
+Mannarkkad, Silent valley road
+11.03747
+76.52758
+Debris
+slide
+Initiated on 16/8/2018
+14030
+KRL/PKD/58A12/2018/192
+Kerala
+Palakkad
+Mannarkkad, Silent valley road
+11.037277
+76.528927
+Debris
+slide
+Initiated on 16/8/2018
+14031
+KRL/PKD/58A12/2018/193
+Kerala
+Palakkad
+Mannarkkad, Silent valley road
+11.038653
+76.530202
+Debris
+slide
+Initiated on 16/8/2018
+14032
+KRL/PKD/58A12/2018/194
+Kerala
+Palakkad
+Mannarkkad, Silent valley road
+11.039302
+76.530795
+Debris
+slide
+Initiated on 16/8/2018
+14033
+KRL/PKD/58A12/2018/195
+Kerala
+Palakkad
+Mannarkkad, Silent valley road
+11.040947
+76.532897
+Debris
+slide
+Initiated on 16/8/2018
+14034
+KRL/PKD/58A12/2018/196
+Kerala
+Palakkad
+Mannarkkad, Silent valley road
+11.041635
+76.53334
+Debris
+slide
+Initiated on 16/8/2018
+14035
+KRL/PKD/58A12/2018/197
+Kerala
+Palakkad
+Mannarkkad, Silent valley road
+11.041933
+76.534018
+Debris
+slide
+Initiated on 16/8/2018
+14036
+KRL/PKD/58A12/2018/198
+Kerala
+Palakkad
+Mannarkkad, Silent valley road
+11.04543
+76.539902
+Debris
+slide
+Initiated on 16/8/2018
+14037
+KRL/PKD/58A12/2018/199
+Kerala
+Palakkad
+Mannarkkad, Silent valley road
+11.046358
+76.540755
+Debris
+slide
+Initiated on 16/8/2018

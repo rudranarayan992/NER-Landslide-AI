@@ -1,0 +1,382 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30090
+WB/DAR/78A04/2021/PDLS/19
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10356081
+88.23312486
+Rock
+Slide
+October 2021
+30091
+WB/DAR/78A04/2021/PDLS/17
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10366867
+88.23111873
+Rock
+Slide
+October 2021
+30092
+WB/DAR/78A12/2015/1485
+West Bengal
+Darjeeling
+ 
+ 
+27.103807
+88.654767
+Debris
+Slide
+2010
+30093
+WB/DAR/78A04/2021/PDLS/90
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10392196
+88.10968228
+Rock
+Slide
+October 2021
+30094
+WB/DAR/78A04/2015/1258
+West Bengal
+Darjeeling
+ 
+KANKEBONG
+27.103944
+88.129667
+Rock
+Slide
+2016
+30095
+WB/DAR/78A04/2015/1186
+West Bengal
+Darjeeling
+ 
+Jamuni
+27.103944
+88.234833
+Rock
+Slide
+2016
+30096
+WB/KAL/78A12/2021/PDLS/306 West Bengal
+Kalimpong
+N/A
+N/A
+27.10413906
+88.59852792
+Rock
+Slide
+October 2021
+30097
+WB/DAR/78A04/2021/PDLS/19
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10418106
+88.23342418
+Debris
+Slide
+October 2021
+30098
+WB/DAR/78A04/2021/PDLS/26
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10422645
+88.23442329
+Debris
+Slide
+October 2021
+30099
+WB/DAR/78A12/2015/278
+West Bengal
+Darjeeling
+Payung
+ 
+27.104289
+88.572029
+Debris
+Slide
+2013
+30100
+WB/DAR/78A04/2015/1169
+West Bengal
+Darjeeling
+ 
+Goke
+27.104722
+88.233111
+Rock
+Slide
+2015
+30101
+WB/DAR/78A16/2015/313
+West Bengal
+Darjeeling
+Chisung Slide
+Chisung
+27.104722
+88.83475
+Rock
+Slide
+2016
+30102
+WB/DAR/78A04/2021/PDLS/18
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10475317
+88.23303705
+Rock
+Slide
+October 2021
+30103
+WB/DAR/78A04/2021/PDLS/10
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10481712
+88.12876627
+Rock
+Slide
+October 2021
+30104
+WB/DAR/78A04/2015/12
+West Bengal
+Darjeeling
+Car point slide
+ 
+27.105167
+88.123233
+Rock
+Slide
+1998
+30105
+WB/DAR/78A08/2021/PDLS/23
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10538705
+88.27030577
+Debris
+Slide
+October 2021
+30106
+WB/DAR/78A04/2015/7
+West Bengal
+Darjeeling
+At around 4.5km from Linsbong on 
+Linsebong-forebay road  of Rammam 
+Project
+At around 4.5km from Linsbong 
+on Linsebong-Forebay road of 
+Rammam Hydel Project Stage-II
+27.10577
+88.109419
+Debris
+Slide
+1984
+30107
+WB/DAR/78A04/2015/1168
+West Bengal
+Darjeeling
+ 
+Goke
+27.105861
+88.232889
+Rock
+Slide
+2015
+30108
+WB/DAR/78A04/2015/1257
+West Bengal
+Darjeeling
+ 
+KANKEBONG
+27.105889
+88.132833
+Rock
+Slide
+2016
+30109
+WB/DAR/78A04/2015/1190
+West Bengal
+Darjeeling
+ 
+Goke
+27.105917
+88.232889
+Debris
+Slide
+2016
+30110
+WB/DAR/78A04/2021/PDLS/10
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10598226
+88.13429578
+Debris
+Slide
+October 2021
+30111
+WB/DAR/78A04/2015/1187
+West Bengal
+Darjeeling
+ 
+Jamuni
+27.106139
+88.235583
+Debris
+Subsidence
+2015
+30112
+WB/DAR/78A04/2021/PDLS/10
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10625557
+88.13510553
+Debris
+Slide
+October 2021
+30113
+WB/DAR/78A04/2021/PDLS/18
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10631712
+88.23278184
+Rock
+Slide
+October 2021
+30114
+WB/DAR/78A04/2021/PDLS/18
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10653225
+88.23295568
+Rock
+Slide
+October 2021
+30115
+WB/DAR/78A04/2021/PDLS/18
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10696941
+88.23354553
+Debris
+Slide
+October 2021
+30116
+WB/DAR/78A04/2015/1167
+West Bengal
+Darjeeling
+ 
+Goke
+27.107222
+88.233639
+Rock
+Slide
+2015
+30117
+WB/DAR/78A04/2015/1166
+West Bengal
+Darjeeling
+ 
+Goke
+27.107333
+88.234667
+Rock
+Slide
+2015
+30118
+WB/DAR/78A04/2021/PDLS/18
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10737381
+88.23478062
+Rock
+Slide
+October 2021
+30119
+WB/DAR/78A04/2021/PDLS/18
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10737993
+88.23408466
+Rock
+Slide
+October 2021
+30120
+WB/DAR/78A04/2015/1189
+West Bengal
+Darjeeling
+ 
+Goke
+27.107417
+88.234861
+Rock
+Slide
+2015
+30121
+WB/DAR/78A04/2021/PDLS/18
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.107446
+88.23581032
+Debris
+Slide
+October 2021

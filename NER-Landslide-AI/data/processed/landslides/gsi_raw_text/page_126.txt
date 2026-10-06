@@ -1,0 +1,562 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+5121
+HP/MAN/53A15/2015/136
+Himachal Pradesh
+Mandi
+ 
+ 
+31.370723
+76.874706
+Rock
+Slide
+NA
+5122
+HP/MAN/53E03/2015/97
+Himachal Pradesh
+Mandi
+ 
+ 
+31.371202
+77.077347
+Debris
+Slide
+NA
+5123
+HP/BIL/53A11/2018/45
+Himachal Pradesh
+Bilaspur
+ 
+Balagad
+31.371255
+76.607179
+Rock
+Slide
+NA
+5124
+HP/MAN/53A15/2015/7
+Himachal Pradesh
+Mandi
+ 
+ 
+31.371333
+76.874167
+Debris
+Slide
+2015
+5125
+HP/MAN/53A15/2015/4
+Himachal Pradesh
+Mandi
+ 
+ 
+31.371492
+76.873965
+Debris
+Slide
+NA
+5126
+HP/MAN/53E03/2015/342
+Himachal Pradesh
+Mandi
+ 
+ 
+31.371583
+77.011167
+Debris
+Slide
+NA
+5127
+HP/MAN/53A15/2015/8
+Himachal Pradesh
+Mandi
+ 
+ 
+31.371832
+76.873793
+Debris
+Slide
+NA
+5128
+HP/BIL/53A15/2015/164
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.371893
+76.808052
+Debris
+Slide
+NA
+5129
+HP/BIL/53A15/2015/86
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.372137
+76.808009
+Debris
+Slide
+NA
+5130
+HP/MAN/53A15/2015/306
+Himachal Pradesh
+Mandi
+ 
+ 
+31.372361
+76.87325
+Rock
+Slide
+2015
+5131
+HP/SHI/53E15/2016/43
+Himachal Pradesh
+Shimla
+ 
+Near Darkali village
+31.3727
+77.7867
+Debris
+Slide
+NA
+5132
+HP/MAN/53A15/2015/11
+Himachal Pradesh
+Mandi
+ 
+ 
+31.37288
+76.873205
+Debris
+Slide
+NA
+5133
+HP/BIL/53A11/2018/41
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.372884
+76.606182
+Rock
+Slide
+NA
+5134
+HP/SHI/53E11/2016/7
+Himachal Pradesh
+Shimla
+ 
+South of Chikri
+31.372889
+77.718194
+Rock
+Slide
+NA
+5135
+HP/SHI/53E11/2016/64
+Himachal Pradesh
+Shimla
+ 
+Phirnu, MDR-22
+31.373333
+77.377278
+Rock
+Slide
+NA
+5136
+HP/BIL/53A11/2018/34
+Himachal Pradesh
+Bilaspur
+ 
+Kallar
+31.373353
+76.6033
+Debris
+Slide
+NA
+5137
+HP/MAN/53A15/2015/45
+Himachal Pradesh
+Mandi
+ 
+ 
+31.373887
+76.872571
+Debris
+Slide
+NA
+5138
+HP/MAN/53A15/2015/125
+Himachal Pradesh
+Mandi
+ 
+ 
+31.374245
+76.871974
+Debris
+Slide
+NA
+5139
+HP/SHI/53E11/2016/20
+Himachal Pradesh
+Shimla
+ 
+Balti dhar
+31.3755
+77.70225
+Rock
+Slide
+NA
+5140
+HP/MAN/53A15/2015/64
+Himachal Pradesh
+Mandi
+ 
+ 
+31.37664
+76.879788
+Rock
+Slide
+NA
+5141
+HP/SHI/53E11/2016/57
+Himachal Pradesh
+Shimla
+ 
+Taklech
+31.376722
+77.727083
+Rock
+Slide
+NA
+5142
+HP/MAN/53A15/2015/307
+Himachal Pradesh
+Mandi
+ 
+ 
+31.376806
+76.860111
+Rock
+Slide
+2015
+5143
+HP/MAN/53A15/2015/63
+Himachal Pradesh
+Mandi
+ 
+ 
+31.376813
+76.880487
+Rock
+Slide
+NA
+5144
+HP/MAN/53A15/2015/62
+Himachal Pradesh
+Mandi
+ 
+ 
+31.377444
+76.879528
+Rock
+Slide
+NA
+5145
+HP/SHI/53E11/2016/3
+Himachal Pradesh
+Shimla
+ 
+Khanortu
+31.377444
+77.703889
+Rock
+Slide
+NA
+5146
+HP/MAN/53E07/2016/44
+Himachal Pradesh
+Mandi
+ 
+Shiladhar
+31.37825
+77.281278
+Rock
+Slide
+NA
+5147
+HP/MAN/53E07/2016/46
+Himachal Pradesh
+Mandi
+ 
+Shiladhar
+31.378306
+77.278361
+Rock
+Slide
+NA
+5148
+HP/SHI/53E11/2016/56
+Himachal Pradesh
+Shimla
+ 
+Khanortu
+31.378306
+77.7035
+Rock
+Slide
+NA
+5149
+HP/SHI/53E11/2016/52
+Himachal Pradesh
+Shimla
+ 
+Khanortu
+31.378583
+77.703444
+Rock
+Slide
+NA
+5150
+HP/MAN/53E03/2015/343
+Himachal Pradesh
+Mandi
+ 
+ 
+31.37875
+77.019389
+Earth
+Creep
+NA
+5151
+HP/BIL/53A11/2018/49
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.379408
+76.738103
+Debris
+Slide
+NA
+5152
+HP/MAN/53E07/2016/29
+Himachal Pradesh
+Mandi
+ 
+Chaber
+31.380278
+77.300389
+Rock
+Slide
+NA
+5153
+HP/MAN/53E03/2015/344
+Himachal Pradesh
+Mandi
+ 
+ 
+31.3805
+77.018944
+Debris
+Slide
+NA
+5154
+HP/MAN/53E03/2015/349
+Himachal Pradesh
+Mandi
+ 
+ 
+31.380556
+77.025861
+Rock
+Slide
+NA
+5155
+HP/SHI/53E11/2016/58
+Himachal Pradesh
+Shimla
+ 
+Chikri
+31.380694
+77.721389
+Debris
+Slide
+NA
+5156
+HP/MAN/53A15/2015/172
+Himachal Pradesh
+Mandi
+ 
+ 
+31.381098
+76.922049
+Debris
+Slide
+NA
+5157
+HP/MAN/53E07/2016/27
+Himachal Pradesh
+Mandi
+ 
+Chaber
+31.381222
+77.302306
+Debris
+Slide
+NA
+5158
+HP/MAN/53E03/2015/345
+Himachal Pradesh
+Mandi
+ 
+ 
+31.381278
+77.01775
+Rock
+Slide
+NA
+5159
+HP/MAN/53E03/2015/205
+Himachal Pradesh
+Mandi
+ 
+ 
+31.381333
+77.099306
+Debris
+Slide
+NA
+5160
+HP/MAN/53A15/2015/175
+Himachal Pradesh
+Mandi
+ 
+ 
+31.381752
+76.920624
+Debris
+Slide
+NA
+5161
+HP/MAN/53E03/2015/206
+Himachal Pradesh
+Mandi
+ 
+ 
+31.382
+77.098361
+Rock
+Slide
+2015
+5162
+HP/MAN/53E07/2016/28
+Himachal Pradesh
+Mandi
+ 
+Chaber
+31.382028
+77.306222
+Rock
+Slide
+NA
+5163
+HP/SHI/53E11/2016/107
+Himachal Pradesh
+Shimla
+ 
+Bata Newal
+31.382083
+77.71525
+Debris
+Slide
+NA
+5164
+HP/MAN/53E07/2016/45
+Himachal Pradesh
+Mandi
+ 
+Rathiala
+31.382167
+77.273361
+Rock
+Slide
+NA
+5165
+HP/MAN/53E03/2015/145
+Himachal Pradesh
+Mandi
+ 
+ 
+31.382361
+77.091139
+Debris
+Slide
+NA
+5166
+HP/MAN/53E03/2015/204
+Himachal Pradesh
+Mandi
+ 
+ 
+31.382611
+77.091194
+Rock
+Slide
+NA
+5167
+HP/MAN/53E03/2015/346
+Himachal Pradesh
+Mandi
+ 
+ 
+31.382778
+77.01775
+Rock
+Slide
+NA
+5168
+HP/MAN/53E03/2015/350
+Himachal Pradesh
+Mandi
+ 
+ 
+31.383
+77.025944
+Debris
+Slide
+NA
+5169
+HP/MAN/53A15/2015/39
+Himachal Pradesh
+Mandi
+ 
+ 
+31.383762
+76.919826
+Debris
+Slide
+NA
+5170
+HP/MAN/53A15/2015/38
+Himachal Pradesh
+Mandi
+ 
+ 
+31.383799
+76.919933
+Debris
+Slide
+NA

@@ -1,0 +1,434 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16986
+MH/SAT/47G09/2018/7
+Maharashtra
+Satara
+34 km from Poladpur
+Poladpur-Pratapgarh-
+Mahabaleshwar
+17.92558
+73.60273
+Rock
+Fall
+NA
+16987
+MH/SAT/47G09/2018/33
+Maharashtra
+Satara
+ 
+MDR-17
+17.92558
+73.60272
+Debris
+Slide
+NA
+16988
+MH/RAI/47G09/2018/35
+Maharashtra
+Raigad
+ 
+Nive road
+17.92591
+73.5266
+Debris
+Slide
+NA
+16989
+MH/SAT/47G13/2018/13
+Maharashtra
+Satara
+ 
+1.4km from SH-139 towards 
+Nagewadi on village road
+17.926077
+73.841165
+Rock
+Fall
+NA
+16990
+MH/SAT/47G09/2018/11
+Maharashtra
+Satara
+9.5 km from Mahabaleshwar
+Mahabaleshwar-Pratapgad 
+road
+17.92859
+73.63148
+Debris
+Slide
+NA
+16991
+MH/RAI/47G05/2018/18
+Maharashtra
+Raigad
+800m NW of  BhogaonBudruk
+NH-66
+17.92889
+73.43903
+Debris
+Slide
+NA
+16992
+MH/SAT/47G09/2018/10
+Maharashtra
+Satara
+10km from mahabaleshwar
+Mahabaleshwar-Pratapgad 
+road
+17.93082
+73.63583
+Debris
+Slide
+NA
+16993
+MH/SAT/47G09/2018/26
+Maharashtra
+Satara
+ 
+Poladpur-Pratapgarh-
+Mahabaleshwar road
+17.93162
+73.58737
+Debris
+Slide
+NA
+16994
+MH/RAT/47G05/2018/13
+Maharashtra
+Ratnagiri
+1.5 km from Taleghar village
+Taleghar- Sade-Antkolwadi 
+Road
+17.93213
+73.58628
+Debris
+Slide
+NA
+16995
+MH/RAI/47G05/2018/17
+Maharashtra
+Raigad
+Bhogaon Khurd
+NH-66
+17.93314
+73.43903
+Debris
+Slide
+NA
+16996
+MH/RAI/47G09/2018/8
+Maharashtra
+Raigad
+ 
+Poladpur-Pratapgarh-
+Mahabaleshwar
+17.93332
+73.55906
+Rock
+Fall
+NA
+16997
+MH/SAT/47G09/2018/27
+Maharashtra
+Satara
+2 Km from Pratapgad fort
+Pratapgad Fort road
+17.93378
+73.58406
+Debris
+Slide
+NA
+16998
+MH/RAI/47G09/2018/37
+Maharashtra
+Raigad
+Nive
+Nive road
+17.93425
+73.52048
+Debris
+Slide
+NA
+16999
+MH/RAT/47G05/2018/14
+Maharashtra
+Ratnagiri
+1.5 km east of Kadwan village
+Karanjadi-Dabhat-Vinhe road, 
+SH-96
+17.93463
+73.58388
+Debris
+Slide
+NA
+17000
+MH/SAT/47G13/2018/12
+Maharashtra
+Satara
+ 
+SH-139, 7km from Wai on Wai-
+Panchgani Road
+17.935066
+73.831652
+Rock
+Fall
+NA
+17001
+MH/SAT/47G09/2018/24
+Maharashtra
+Satara
+Dabhil
+Poladpur-Pratapgarh-
+Mahabaleshwar road
+17.93611
+73.56611
+Debris
+Slide
+NA
+17002
+MH/RAI/47G09/2019/16
+Maharashtra
+Raigad
+ 
+Poladpur -Mahabaleshwar
+17.93853
+73.56892
+Debris
+Slide
+NA
+17003
+MH/RAI/47G09/2019/17
+Maharashtra
+Raigad
+ 
+Poladpur -Mahabaleshwar
+17.94672
+73.57492
+Debris
+Slide
+NA
+17004
+MH/SAT/47G09/2019/54
+Maharashtra
+Satara
+2.3 km from Poladpur- 
+Mahabaleshwar road towards Javli 
+Village
+Javli village road
+17.94774
+73.62375
+Debris
+Slide
+NA
+17005
+MH/RAI/47G09/2019/18
+Maharashtra
+Raigad
+ 
+Poladpur -Mahabaleshwar
+17.94814
+73.57444
+Debris
+Slump
+NA
+17006
+MH/RAI/47G09/2019/19
+Maharashtra
+Raigad
+ 
+Poladpur -Mahabaleshwar
+17.94828
+73.57978
+Debris
+Slide
+NA
+17007
+MH/SAT/47G09/2018/9
+Maharashtra
+Satara
+5/6 Km from Borgaon Budruk
+Wai-Borgaon Budruk-Vaygaon 
+road
+17.95145
+73.71837
+Debris
+Fall
+NA
+17008
+MH/RAT/47G05/2018/24
+Maharashtra
+Raigad
+Dhamandevi village
+NH-66
+17.95361
+73.44967
+Debris
+Slide
+NA
+17009
+MH/RAT/47G05/2018/25
+Maharashtra
+Raigad
+4.3 km from Poladpur
+NH-66
+17.9545
+73.44947
+Debris
+Slide
+NA
+17010
+MH/RAT/47G01/2019/3
+Maharashtra
+Ratnagiri
+Velas Slide
+Velas-Sakhari Road
+17.95566
+73.0355
+Debris
+Slide
+NA
+17011
+MH/RAI/47G05/2018/3
+Maharashtra
+Raigad
+3 Km from karanjadi
+Karanjadi-Tamhane Road
+17.95769
+73.40433
+Debris
+Slide
+NA
+17012
+MH/RAI/47G05/2018/2
+Maharashtra
+Raigad
+3 Km from karanjadi
+Karanjadi-Tamhane Road
+17.95878
+73.40422
+Debris
+Fall
+NA
+17013
+MH/RAT/47G05/2018/12
+Maharashtra
+Ratnagiri
+3 km from Mandangad
+Mandangad-Kumble road
+17.96306
+73.27703
+Debris
+Slide
+NA
+17014
+MH/RAT/47G05/2018/23
+Maharashtra
+Raigad
+1.5 km south of Poladpur- 
+Mahabaleshwar road
+Morgiri village road
+17.96347
+73.47654
+Debris
+Slide
+NA
+17015
+MH/RAT/47G01/2019/12
+Maharashtra
+Ratnagiri
+ 
+Umroli Road
+17.97145
+73.11224
+Debris
+Slide
+NA
+17016
+MH/RAT/47G01/2019/2
+Maharashtra
+Ratnagiri
+Bankot Post-office Slide
+Veshvi-Bankot Road
+17.97923
+73.04431
+Rock
+Fall
+NA
+17017
+MH/RAT/47G01/2019/1
+Maharashtra
+Ratnagiri
+ 
+Veshvi-Bankot Road
+17.97968
+73.06079
+Debris
+Fall
+NA
+17018
+MH/RAT/47G01/2019/10
+Maharashtra
+Ratnagiri
+ 
+Veshvi-Umroli Road
+17.98026
+73.08446
+Debris
+Fall
+NA
+17019
+MH/RAT/47G01/2019/11
+Maharashtra
+Ratnagiri
+Shipole Slide
+Shipole Road
+17.98097
+73.08664
+Debris
+Fall
+NA
+17020
+MH/RAI/47G05/2018/16
+Maharashtra
+Raigad
+1.5 km west of Katetali village
+Poladpur-Katetali-Nagaon
+17.98406
+73.44101
+Debris
+Slump
+NA
+17021
+MH/RAI/47G09/2019/20
+Maharashtra
+Raigad
+ 
+Talachiwadi-Gowale road
+17.99185
+73.57236
+Debris
+Fall
+NA
+17022
+MH/RAI/47G01/2019/4
+Maharashtra
+Raigad
+Bagmandla Jetty Slide
+Shriwardhan-Harihareswar 
+Road
+17.99423
+73.06428
+Debris
+Slide
+NA

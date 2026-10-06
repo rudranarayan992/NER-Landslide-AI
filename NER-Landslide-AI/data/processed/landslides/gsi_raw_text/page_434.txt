@@ -1,0 +1,258 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+17677
+MH/RAT/47G10/2021/69
+Maharashtra
+Ratnagiri/Chiplun
+Tiware
+25km north east of  Chiplun via 
+Kherdi-Tiware road
+17.60558333
+73.67661944
+NA
+NA
+NA
+17678
+MH/RAT/47G10/2021/70
+Maharashtra
+Ratnagiri/Chiplun
+Tiwadi 
+24km nortwest of chiplun  via 
+Chiplun-Kherdi-Rictoli village 
+road.
+17.57364167
+73.68100833
+Debris
+Slide with flow 22 July 2021
+17679
+MH/RAT/47G10/2021/71
+Maharashtra
+Ratnagiri/Chiplun
+Tiwadi 
+17.57310278
+73.69601667
+Soil
+Subsidence
+22 July 2021
+17680
+MH/RAT/47G10/202I/72
+Maharashtra
+Ratnagiri/Chiplun
+Tiwadi
+24km northeast of Chiplun via 
+Kherdi-Ricorri road
+17.57786944
+73.67541667
+Debris
+Slide
+July 2021
+17681
+MH/RAT/47GI0/202I/72
+Maharashtra
+Ratnagiri/Chiplun
+Tiwadi
+24km northeast of Chiplun via 
+Kherdi-Ricroii road
+17.57786944
+73.67541667
+Debris
+Slide
+22 July 2021
+17682
+MH/RAT/47G10/2021/73
+Maharashtra
+Ratnagiri/Chiplun
+Rictoli 
+25 km via Kherdi-Rictoii road.
+17.58478333
+73.68573611
+Soil
+Subsidence
+July 2021
+17683
+MH/RAT/47G10/2021/74
+Maharashtra
+Ratnagiri/Chiplun
+Rictoli 
+24 km northeast of Chipiun via 
+Kierdi-Rictoi road.
+17.57986667
+73.66395556
+Debris
+Slide
+July 2021
+17684
+MH/RAT/47G10/2021/75
+Maharashtra
+Ratnagiri/Chiplun
+Rictoli 
+25 km northeast of Chipiun via 
+Kierdi-Rictoi road.
+17.57971667
+73.66605556
+Debris
+Slide with flow 22 July 2021 at 11.00pm
+17685
+MH/RAT/47G10/2021/76
+Maharashtra
+Ratnagiri/Chiplun
+Rictoli 
+26 km northeast of Chipiun via 
+Kierdi-Rictoi road.
+17.57798056
+73.668825
+Soil
+Subsidence
+July 2021
+17686
+MH/RAT/47G10/2021/77
+Maharashtra
+Ratnagiri/Chiplun
+Rictoli 
+27 km northeast of Chipiun via 
+Kierdi-Rictoi road.
+17.57987778
+73.66920556
+Debris
+Slide
+July 2021
+17687
+MH/RAT/47G10/2021/78
+Maharashtra
+Ratnagiri/Chiplun
+Nandivase 
+20 km east of Chiplun via Pimpli 
+Khurd-Nandivase road
+17.53944444
+73.6645
+Soil
+Subsidence
+2005, July 2021
+17688
+MH/RAT/47G10/2021/79
+Maharashtra
+Ratnagiri/Chiplun
+Nandivase 
+21 km east of Chiplun via Pimpli 
+Khurd-Nandivase road
+17.55105
+73.68845556
+Debris
+Slide with flow 23 July 2021, 3:00 AM 
+17689
+MH/RAT/47G10/2021/80
+Maharashtra
+Ratnagiri/Chiplun
+Nandivase 
+22 km east of Chiplun via Pimpli 
+Khurd-Nandivase road
+17.54953056
+73.69101667
+Debris
+Slide
+23 July 2021
+17690
+MH/RAT/47G10/2021/81
+Maharashtra
+Ratnagiri/Chiplun
+Nandivise 
+22 km northeast of Chiplun via 
+Pimpli Khurd Nandivase road.
+17.53805
+73.69429444
+Debris
+Fall
+22 July 2021
+17691
+MH/RAT/47G10/202 1/82
+Maharashtra
+Ratnagiri/Chiplun
+Owali 
+20 km northeast of Chiplun via 
+Pimpli Khurd Nandivase road.
+17.52450278
+73.65857778
+Debris
+Slide with flow 22 July 2021
+17692
+MH/RAT/47G10/2021/83
+Maharashtra
+Ratnagiri/Chiplun
+Owali 
+22 km east of Chiplun  via Pimpli 
+Khurd -Kalkavne Owali road.
+17.52093611
+73.68931389
+Soil
+Subsidence
+July 2021
+17693
+MH/RAT/47G10/202 1/84
+Maharashtra
+Ratnagiri/Chiplun
+Owali 
+21 km east of Chiplun via Pimpli 
+Khurd-Kalkavne Owali road.
+17.52335
+73.66940833
+Soil
+Subsidence
+July 2021
+17694
+MH/RAT/47G10/2021/85
+Maharashtra
+Ratnagiri/Chiplun
+Owali 
+21 km east of Chiplun via Pimpli 
+Khurd-Kaikavne
+17.52178889
+73.66809722
+Soil
+Subsidence
+July 2021
+17695
+MH/RAT/47GI0/2021/86
+Maharashtra
+Ratnagiri/Chiplun
+Kalkavne 
+18 km east of Chiplun via Pimpli 
+Khurd-Kaikavne
+17.51353889
+73.644125
+Soil
+Subsidence
+July 2021
+17696
+MH/RAT/47G10/2021/87
+Maharashtra
+Ratnagiri/Chiplun
+Kalkavne 
+19 km east of Chiplun via Pimpli 
+Khurd-Kaikavne
+17.50544722
+73.653675
+Soil
+Subsidence
+July 2021
+17697
+MH/RAT/47GI0/2021/88
+Maharashtra
+Ratnagiri/Chiplun
+Pedhambe 
+16 km east of Chiplun via Pimpli 
+Khurd-Pedhambe road
+17.50841944
+73.64644167
+Soil
+Tension cracks
+NA

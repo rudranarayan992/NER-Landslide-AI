@@ -1,0 +1,350 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1208
+Arn/ Papum Pare 
+/83E/12/2020/02
+Arunachal Pradesh
+Papum Pare
+Tigdo Slide
+Yupia - Potin Road, about 4 km 
+from Doimukh town.
+27.13469444
+93.74347222
+Unconsolidated rock 
+debris and sandy soil.
+Translation 
+(Debris flow)
+NA
+1209
+ARN/Papumpare/83E12/2020/0
+1
+Arunachal Pradesh
+Papum Pare
+Donyi Slide
+Near Jollang Road, 2.5 km east 
+of Itanagar City
+27.08130556
+93.61283333
+Unconsolidated rock 
+debris and sandy soil.
+Translation 
+(Debris flow)
+25 June 2020
+1210
+AR/ES/82P/8/2021/01
+Arunachal Pradesh
+East Siang
+Renging
+National Highway 229
+28.14116
+95.27472
+Debris/unconsolidat
+ed material
+Debris slide 
+and subsidence
+1950
+1211
+AR/ES/82P/8/2021/02
+Arunachal Pradesh
+East Siang
+Renging
+National Highway 229
+28.14251
+95.27439
+Debris/unconsolidat
+ed material
+Debris slide 
+and subsidence
+1950
+1212
+AR/PP/83E/12/2021/01
+Arunachal Pradesh
+Papum Pare
+Chimpu-Hollongi Road
+National Highway 415
+27.03106
+93.62292
+Debris/unconsolidat
+ed material
+Debris slide 
+and subsidence
+2020
+1213
+AR/83E/12/2021/2
+Arunachal Pradesh
+Papum Pare
+D-Sector
+NH415, Itanagar city
+27.09589
+93.62284
+Debris/unconsolidat
+ed materials
+Debris slide
+NA
+1214
+AR/83E/12/2021/03
+Arunachal Pradesh
+Papum Pare
+Chandranagar
+NH415, Chandranagar, Itanagar 27.083117
+93.601735
+Debris and 
+unconsolidated 
+material
+Debris slide
+NA
+1215
+AR/PP/83E/12/2018/04
+Arunachal Pradesh
+Papum Pare
+Donyi-Ruchi
+Circular road, Ganga market-
+Jollang circular
+27.08155
+93.61438
+Debris/unconsolidat
+ed material
+Debris slide
+NA
+1216
+AR/83E/12/2021/05
+Arunachal Pradesh
+Papum Pare
+Sanki-I
+Mow2-Senkiview road section
+27.10375
+93.61529
+Debris
+Debris slide
+NA
+1217
+AR/83E/12/2018/06
+Arunachal Pradesh
+Papum Pare
+Sanki-II
+MowII-Senkicircular road
+27.10215
+93.61371
+Debris/unconsolidat
+ed material
+Debris slide
+NA
+1218
+ARN/TWG/FM/2016-17/01
+Arunachal Pradesh
+Tawang
+Famla Slide
+27.58741667
+91.88694444
+Debris
+Slide
+22 April 2016
+1219
+ARN/TWG/FM/2016-17/02
+Arunachal Pradesh
+Tawang
+Famla Slide
+27.58741667
+91.88694444
+Earth / soil
+Slide
+22 April 2016
+1220
+ARN/TWG/NYD/2016-17/06
+Arunachal Pradesh
+Tawang
+Nyungmadung Slide
+27.59152778
+91.88044444
+Earth / soil
+Flows
+23 April 2016
+1221
+ARN/TWG/RBR/2016-17/17
+Arunachal Pradesh
+Tawang
+Rabrang Sinking zone
+27.58647222
+91.89636111
+Earth/Soil/Debris
+Sinking/subside
+nce
+NA
+1222
+ARN/TWG/KHT/2016-17/20
+Arunachal Pradesh
+Tawang
+Khangteng Slide
+27.50994444
+91.85486111
+Earth
+Slide
+2016
+1223
+ARN/TWNG/78M14/2016/0015 Arunachal Pradesh
+Tawang
+Khardung slide
+2016
+27.561083
+91.911528
+Debris
+Slide
+2016
+1224
+AR/EK/ 83A14/2020-21/31
+Arunachal Pradesh
+East Kameng
+Pakke-Bameng road section slide-10
+Pakke-Bameng road, east of 
+Tara village
+27.561111
+92.965278
+Rock
+Slide
+NA
+1225
+AR/EK/ 83A14/2020-21/32
+Arunachal Pradesh
+East Kameng
+Pakke-Chayang Tajo road section slide-
+3
+Pakke-Chayang Tajo road
+27.562917
+92.983139
+Debris
+Slide
+NA
+1226
+AR/EK/ 83A14/2020-21/11
+Arunachal Pradesh
+East Kameng
+Pakke-Tara road section slide-1
+Pakke-Bameng road section
+27.563167
+92.975139
+Rock
+Slide
+NA
+1227
+AR/EK/ 83A14/2020-21/12
+Arunachal Pradesh
+East Kameng
+Pakke-Tara road section slide-2
+Pakke-Bameng road section
+27.566131
+92.973072
+Debris
+Slide
+NA
+1228
+AR/EK/ 83A14/2020-21/13
+Arunachal Pradesh
+East Kameng
+Pakke-Tara road section slide-3
+Pakke-Bameng road section
+27.566611
+92.967639
+Debris
+Slide
+NA
+1229
+AR/EK/ 83A14/2020-21/06
+Arunachal Pradesh
+East Kameng
+Pachi-Chayang Tajo road section slide-
+1
+Pachi-Chayang Tajo road 
+section
+27.568028
+92.993944
+Rock
+Slide
+NA
+1230
+AR/EK/ 83A14/2020-21/14
+Arunachal Pradesh
+East Kameng
+Pakke-Tara road section slide-4
+Pakke-Bameng road section
+27.568778
+92.966583
+Debris
+Slide
+NA
+1231
+AR/EK/ 83A14/2020-21/15
+Arunachal Pradesh
+East Kameng
+Pakke-Tara road section slide-5
+Pakke-Bameng road section
+27.571111
+92.965556
+Rock
+Slide
+NA
+1232
+AR/EK/ 83A14/2020-21/07
+Arunachal Pradesh
+East Kameng
+Pachi-Chayang Tajo road section slide-
+2
+Pachi-Chayang Tajo road 
+section
+27.574306
+92.999556
+Debris
+Slide
+NA
+1233
+AR/WKG/78M14/2021/003
+Arunachal Pradesh
+Tawang
+NH 13 Slide 35
+NH 13
+27.576806
+91.993444
+Debris
+Slide
+NA
+1234
+ARN/TWNG/78M14/2016/0018 Arunachal Pradesh
+Tawang
+Dumgin Road sinking
+ 
+27.579
+91.868639
+NA
+Subsidence
+2016
+1235
+AR/TAW/78M14/2014/22
+Arunachal Pradesh
+Tawang
+ 
+NH-13
+27.58006
+91.97728
+Rock cum Debris
+Slide
+2013
+1236
+AR/WKG/78M14/2021/002
+Arunachal Pradesh
+Tawang
+Four Bridge Camp Slide
+NH 13
+27.583611
+91.973056
+Debris
+Slide
+NA

@@ -1,0 +1,303 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30384
+WB/ Darjeeling /78A/04/2025/8 West Bengal
+Darjeeling
+Sukhiapokhri-Manebhanjhang 
+road
+26.99023
+88.13027
+Debris
+Slide
+NA
+30385
+WB/ Darjeeling /78A/04/2025/9 West Bengal
+Darjeeling
+Joubari Basti, Sukhiapokhri 
+block
+27.00041667
+88.12194444
+Debris
+Slide
+NA
+30386
+WB/ Darjeeling 
+/78A/04/2025/10
+West Bengal
+Darjeeling
+Joubari Basti, Sukhiapokhri 
+block
+27.00163889
+88.11969444
+Debris
+Slide
+NA
+30387
+WB/ Darjeeling 
+/78A/04/2025/11
+West Bengal
+Darjeeling
+Joubari Basti, Sukhiapokhri 
+block
+27.0045
+88.11947222
+Debris
+Slide
+NA
+30388
+WB/ Darjeeling 
+/78A/04/2025/12
+West Bengal
+Darjeeling
+-
+Joubari Basti, Sukhiapokhri 
+block
+27.00427778
+88.11769444
+Debris
+Slide
+NA
+30389
+WB/ Darjeeling 
+/78A/04/2025/13
+West Bengal
+Darjeeling
+Sukhiapokhri-Lodhoma road, 
+Sukhiapokhri block
+27.00472222
+88.11619444
+Debris
+Slide
+NA
+30390
+WB/ Darjeeling 
+/78A/04/2025/16
+West Bengal
+Darjeeling
+Sukhiapokhri-Lodhoma road, 
+Dhotrey block
+27.01063889
+88.10014444
+Rock
+Slide
+NA
+30391
+WB/ Darjeeling 
+/78A/04/2025/17
+West Bengal
+Darjeeling
+Dhotrey-Lodhoma road, 
+Dhotrey block
+27.06049
+88.093213
+Debris
+Slide
+NA
+30392
+WB/ Darjeeling 
+/78A/04/2025/18
+West Bengal
+Darjeeling
+Dhotrey-Lodhoma road, 
+Dhotrey block
+27.0624
+88.092965
+Soil
+Slide
+NA
+30393
+WB/ Darjeeling 
+/78A/04/2025/19
+West Bengal
+Darjeeling
+Dhotrey-Lodhoma road, 
+Dhotrey block
+27.06327778
+88.09102778
+Debris
+Slide
+NA
+30394
+WB/ Darjeeling 
+/78A/04/2025/20
+West Bengal
+Darjeeling
+Dhotrey-Lodhoma road, 
+Dhotrey block
+27.06513889
+88.09125
+Soil
+Slide
+NA
+30395
+WB/ Darjeeling 
+/78A/04/2025/21
+West Bengal
+Darjeeling
+Dhotrey-Lodhoma road, 
+Dhotrey block
+27.06511111
+88.09119444
+Soil
+Slide
+NA
+30396
+WB/ Darjeeling 
+/78A/04/2025/22
+West Bengal
+Darjeeling
+Dhotrey-Lodhoma road, 
+Dhotrey block
+27.06844444
+88.09144444
+Soil
+Slide
+NA
+30397
+WB/ Darjeeling 
+/78A/04/2025/23
+West Bengal
+Darjeeling
+Dhotrey-Lodhoma road, 
+Dhotrey block
+27.06622222
+88.08944444
+Soil
+Slide
+NA
+30398
+WB/ Darjeeling 
+/78A/04/2025/25
+West Bengal
+Darjeeling
+Chota hatta slide
+Pulbazar SD
+27.08646
+88.10405
+Debris
+Complex 
+movement
+NA
+30399
+WB/ Darjeeling /78A/04/2025/1 West Bengal
+Darjeeling
+Lodhoma village, Lodhoma-
+Dhotrey road
+27.09519444
+88.10411111
+Debris
+Slide
+NA
+30400
+WB/ Darjeeling /78A/04/2025/2 West Bengal
+Darjeeling
+Dhotrey-Lodhoma road, 
+Lodhoma block
+27.08052778
+88.09625
+Debris
+Slide
+NA
+30401
+WB/ Darjeeling /78A/04/2025/3 West Bengal
+Darjeeling
+Dhotrey-Lodhoma road, 
+Barahatta village
+27.07980556
+88.094
+Soil
+Slide
+NA
+30402
+WB/ Darjeeling /78A/04/2025/4 West Bengal
+Darjeeling
+Dhotrey-Lodhoma road, 
+Barahatta village
+27.07670833
+88.09208333
+Soil
+Slide
+NA
+30403
+WB/ Darjeeling /78A/04/2025/5 West Bengal
+Darjeeling
+Dhotrey-Lodhoma road, near 
+Barahatta village
+27.07283333
+88.09147222
+Soil
+Slide
+NA
+30404
+WB/ Darjeeling /78A/04/2025/6 West Bengal
+Darjeeling
+Dhotrey-Lodhoma road, near 
+Reyansh farm stay
+27.06247222
+88.09280556
+Debris
+Slide
+NA
+30405
+WB/ Darjeeling /78A/04/2025/7 West Bengal
+Darjeeling
+DhotreyManebhanjhang road, 
+Dhotrey block
+27.04530556
+88.10741667
+Debris
+Road sinking
+NA
+30406
+WB/ Darjeeling /78A/04/2025/8 West Bengal
+Darjeeling
+Dhotrey-Manebhanjhang road, 
+near Khopi-dhura village
+27.00483333
+88.11677778
+Soil
+Slide
+NA
+30407
+WB/ Darjeeling /78B/01/2025/9 West Bengal
+Darjeeling
+Sukhiapokhri-Mirik road, near 
+India-Nepal border
+26.97408333
+88.12683333
+Debris
+Slide
+NA
+30408
+WB/ Darjeeling 
+/78B/01/2025/10
+West Bengal
+Darjeeling
+Sukhiapokhri-Mirik road, near 
+India-Nepal border
+26.97097222
+88.12447222
+Soil
+Slide
+NA
+30409
+WB/ Darjeeling 
+/78B/01/2025/11
+West Bengal
+Darjeeling
+Sukhiapokhri-Mirik road.
+26.96013889
+88.12358333
+Soil
+Slide
+NA

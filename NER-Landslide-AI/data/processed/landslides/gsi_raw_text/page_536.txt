@@ -1,0 +1,276 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21492
+MZ/SER/84A16/2018/16
+Mizoram
+Serchhip
+ 
+Thenzawl-S. Zote Section (4 km 
+NW of S. Zote PMGSY road)
+23.245819
+92.798233
+Soil
+Slide
+NA
+21493
+MZ/LUN/84A12/2018/66
+Mizoram
+Lunglei
+ 
+Thorangtlang Wildlife Sanctuary 23.246555
+92.554054
+Debris
+Slide
+NA
+21494
+MZ/LUN/84A12/2018/23
+Mizoram
+Lunglei
+ 
+Buarpui-Kawlhawk Section 
+(PMGSY road)
+23.24774
+92.671333
+Debris
+Slide
+NA
+21495
+MZ/LUN/84A12/2018/49
+Mizoram
+Lunglei
+ 
+West Bungtlang-Changpui 
+Section
+23.248526
+92.63958
+Rock
+Slide
+NA
+21496
+MZ/LUN/84A12/2018/67
+Mizoram
+Lunglei
+ 
+Thorangtlang Wildlife Sanctuary 
+(2km behind of Airawhkawn-
+Tlangsang)
+23.249056
+92.546501
+Debris
+Slide
+NA
+21497
+MZ/SER/84A16/2018/15
+Mizoram
+Serchhip
+ 
+Thenzawl-S. Zote Section (5 km 
+NW of S. Zote PMGSY road)
+23.249727
+92.796631
+Debris
+Slide
+NA
+21498
+MZ/LUN/84A08/2020/1
+Mizoram
+Lunglei
+Sesawn village slide 2
+Sesawn village near 
+Presbyterean Church of India 
+(PCI) on SH- Marpara - West 
+Banghmun road
+23.25
+92.48
+Rock
+Slide
+2018
+21499
+MZ/CHA/84E03/2017/61
+Mizoram
+Champhai
+ 
+6 km south of Bungzung
+23.254263
+93.238127
+Debris
+Slide
+NA
+21500
+MZ/LUN/84A11/2017/130
+Mizoram
+Lunglei
+ 
+1km Milestone,  Bungtlang, 
+Buarpui-Bungtlang Road
+23.254946
+92.634239
+Rock
+Slide
+2015
+21501
+MZ/SER/84A15/2016/20
+Mizoram
+Serchhip
+ 
+About 300m West of BSF camp, 
+NH-54 Aizawl-Serchhip-Lunglei 
+Road
+23.255288
+92.888813
+Debris
+Slide
+2016
+21502
+MZ/SER/84A15/2016/19
+Mizoram
+Serchhip
+N/A
+N/A
+23.255426
+92.890915
+Rock
+Slide
+2016
+21503
+MZ/SER/84A15/2016/21
+Mizoram
+Serchhip
+ 
+At 300km Mile Stone, NH-54 
+Aizawl-Serchhip-Lunglei Road
+23.260038
+92.882734
+Rock
+Slide
+2015
+21504
+MZ/CHA/84E07/2017/76
+Mizoram
+Champhai
+ 
+3.5 km north of Liapui
+23.26125
+93.337222
+Debris
+Slide
+NA
+21505
+MZ/CHA/84E07/2017/72
+Mizoram
+Champhai
+ 
+1 km east of Thinghrangkawn
+23.261944
+93.295194
+Rock
+Slide
+NA
+21506
+MZ/CHA/84E07/2017/71
+Mizoram
+Champhai
+ 
+3.8 km to Lianpui
+23.262222
+93.337667
+Debris
+Slide
+NA
+21507
+MZ/LUN/84A11/2017/133
+Mizoram
+Lunglei
+ 
+About 2.5 km Southeast of  
+Buarpui, SH-Aibawk-Darlung- 
+Buarpui-Lunglei Road
+23.268811
+92.665508
+Rock
+Slide
+2016
+21508
+MZ/CHA/84E07/2017/69
+Mizoram
+Champhai
+ 
+Thinghrangkawn
+23.270139
+93.293333
+Rock
+Slide
+NA
+21509
+MZ/LUN/84A11/2017/131
+Mizoram
+Lunglei
+ 
+About 3km Southwest of 
+Buarpui, Buarpui-Bungtlang 
+Road
+23.271781
+92.637703
+Rock
+Slide
+2015
+21510
+MZ/SER/84A15/2016/22
+Mizoram
+Serchhip
+ 
+Grassland Cultivation Site, NH-
+54 Aizawl-Serchhip-Lunglei 
+Road
+23.272218
+92.873298
+Debris
+Slide
+2016
+21511
+MZ/LUN/84A11/2017/134
+Mizoram
+Lunglei
+ 
+Near 1km Milestone South of 
+Buarpui, SH-Aibawk-Darlung- 
+Buarpui-Lunglei Road
+23.273513
+92.65731
+Rock
+Slide
+2016
+21512
+MZ/SER/84A15/2016/6
+Mizoram
+Serchhip
+ 
+Serchhip, SH-Thenzawl-Serchhip 
+Road
+23.2741
+92.848362
+Rock
+Slide
+2015
+21513
+MZ/LUN/84A11/2017/132
+Mizoram
+Lunglei
+ 
+Buarpui Quarry, Buarpui-
+Bungtlang Road
+23.2747
+92.647873
+Rock
+Slide
+2016

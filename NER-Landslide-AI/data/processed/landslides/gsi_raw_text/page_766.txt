@@ -1,0 +1,348 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30031
+WB/DAR/78A04/2021/PDLS/27
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09854279
+88.24119962
+Debris
+Slide
+October 2021
+30032
+WB/DAR/78A04/2015/1185
+West Bengal
+Darjeeling
+ 
+Jamuni
+27.098583
+88.231861
+Rock
+Slide
+2014
+30033
+WB/DAR/78A04/2021/PDLS/19
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09862409
+88.23196125
+Debris
+Slide
+October 2021
+30034
+WB/DAR/78A04/2021/PDLS/10
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09873733
+88.11004472
+Debris
+Slide
+October 2021
+30035
+WB/DAR/78A04/2021/PDLS/17
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09880342
+88.22900785
+Rock
+Slide
+October 2021
+30036
+WB/DAR/78A04/2021/PDLS/19
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09888478
+88.23105631
+Debris
+Slide
+October 2021
+30037
+WB/DAR/78A12/2015/279
+West Bengal
+Darjeeling
+16th mile on Kalimpong-Algara road
+16th mile on Kalimpong-Algara 
+road
+27.09912
+88.547123
+Debris
+Slide
+2013
+30038
+WB/DAR/78A04/2015/1163
+West Bengal
+Darjeeling
+ 
+Takvar Tea Garden road
+27.099139
+88.246667
+Debris
+Slide
+2015
+30039
+WB/DAR/78A04/2021/PDLS/17
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.0991989
+88.22920381
+Rock
+Slide
+October 2021
+30040
+WB/KAL/78A12/2021/PDLS/309 West Bengal
+Kalimpong
+N/A
+N/A
+27.0992381
+88.59770187
+Debris
+Slide
+October 2021
+30041
+WB/DAR/78A04/2021/PDLS/20
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09931886
+88.23199911
+Debris
+Slide
+October 2021
+30042
+WB/DAR/78A04/2021/PDLS/19
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09939874
+88.23009362
+Debris
+Slide
+October 2021
+30043
+WB/KAL/78A12/2021/PDLS/308 West Bengal
+Kalimpong
+N/A
+N/A
+27.09955374
+88.59772652
+Debris
+Slide
+October 2021
+30044
+WB/DAR/78A04/2021/PDLS/89
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09955812
+88.10555407
+Debris
+Slide
+October 2021
+30045
+WB/DAR/78A04/2021/PDLS/10
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09956899
+88.10990162
+Debris
+Slide
+October 2021
+30046
+WB/DAR/78A04/2021/PDLS/26
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09964709
+88.23779243
+Debris
+Slide
+October 2021
+30047
+WB/DAR/78A12/2015/275
+West Bengal
+Darjeeling
+Algara-Rishi road
+Algara-Rishi road
+27.099652
+88.602099
+Debris
+Slide
+2013
+30048
+WB/DAR/78A08/2015/35
+West Bengal
+Darjeeling
+NH-31A Melli slide-II
+Near Km. 33 from Sevoke on NH 
+31A
+27.099732
+88.471434
+Debris
+Slide
+1968
+30049
+WB/DAR/78A04/2015/1499
+West Bengal
+Darjeeling
+ 
+Lava RF
+27.099758
+88.082597
+Debris
+Subsidence
+2012
+30050
+WB/DARJ/78A12/2007/0025
+West Bengal
+Darjeeling
+WP 522
+Algara road
+27.0998
+88.6325
+Debris
+Subsidence
+2007
+30051
+WB/DAR/78A12/2015/234
+West Bengal
+Darjeeling
+11 km on Pedong-Lava road from 
+Pedong
+11 km on Pedong-Lava road 
+from Pedong
+27.099802
+88.630262
+Rock
+Slide
+2012
+30052
+WB/DAR/78A08/2015/1520
+West Bengal
+Darjeeling
+MELLI ROAD
+LOLEY
+27.099813
+88.471717
+Debris
+Slide
+2016
+30053
+WB/DAR/78A04/2021/PDLS/26
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09983486
+88.24004382
+Debris
+Slide
+October 2021
+30054
+WB/DAR/78A12/2015/1284
+West Bengal
+Darjeeling
+ 
+POCHOK,  GITDUBLING ROAD
+27.099861
+88.679778
+Rock
+Slide
+2014
+30055
+WB/DAR/78A12/2015/1285
+West Bengal
+Darjeeling
+ 
+POCHOK,  GITDUBLING ROAD
+27.099882
+88.680007
+Rock
+Slide
+2014
+30056
+WB/DAR/78A04/2021/PDLS/26
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10011521
+88.23998638
+Debris
+Slide
+October 2021
+30057
+WB/DAR/78A16/2015/296
+West Bengal
+Darjeeling
+Bindu bazar,100km D/s of Jaldhaka 
+Bazar
+0.75 km D/s of Jaldhala Stage_I
+27.10017
+88.869724
+Debris
+Flow
+1993
+30058
+WB/DAR/78A04/2021/PDLS/26
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10020939
+88.23954361
+Debris
+Slide
+October 2021
+30059
+WB/DAR/78A04/2021/PDLS/26
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10028671
+88.23998827
+Debris
+Slide
+October 2021

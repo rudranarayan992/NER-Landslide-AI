@@ -1,0 +1,328 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15970
+KE/MAL/58A03/2019/17
+Kerala
+Malappuram
+Athiruveetti West- Kalamkamizhthi 
+Hill
+Muttippalam-Athiruveetti road
+11.39986111
+76.21527778
+Debris
+Flow
+8th August 2019 (11:00 hrs)
+15971
+KE/MAL/58A03/2019/18
+Kerala
+Malappuram
+Pathar-Malamkundu
+Malamkundu
+11.39822222
+76.21375
+Debris
+Flow
+8th August 2019
+15972
+KE/MAL/58A03/2019/19
+Kerala
+Malappuram
+Pathar-Malamkundu III
+Pathar-Malamkundu road 
+(Colony road)
+11.39402778
+76.21244444
+Debris
+Flow
+8th August 2019
+15973
+KE/MAL/58A03/2019/20
+Kerala
+Malappuram
+Malamkundu Colony
+Pathar-Malamkundu Colony 
+road
+11.38951667
+76.21120556
+Debris
+Flow
+8th August 2019
+15974
+KE/MAL/58A03/2019/21
+Kerala
+Malappuram
+Malamkundu Colony II
+Pathar-Malamkundu Colony 
+road
+11.38811111
+76.21155556
+Debris
+Flow
+8th August 2019
+15975
+KE/MAL/58A03/2019/22
+Kerala
+Malappuram
+Ambalakunnu Colony
+Panamkayam-Ambalakunnu 
+Colony road
+11.40055556
+76.23202778
+Debris
+Flow
+8th August 2019 (17:30 hrs)
+15976
+KE/MAL/58A03/2019/23
+Kerala
+Malappuram
+Pathar Valamkolli West
+Pathar-Valamkolli road
+11.39441667
+76.22272222
+Debris
+Flow
+8th August 2019 (17:30 hrs)
+15977
+KE/MAL/58A03/2019/24
+Kerala
+Malappuram
+Pathar Valamkolli West
+Pathar-Valamkolli road
+11.39508333
+76.22288889
+Debris
+Slide
+8th August 2019 & in August 2018
+15978
+KE/MAL/58A03/2019/25
+Kerala
+Malappuram
+Thudimutti Colony 1
+Panamkayam-Kavalappara Road 11.40238333
+76.24153889
+Debris
+Slide
+8th August 2019 & in August 2018
+15979
+KE/MAL/58A03/2019/26
+Kerala
+Malappuram
+Panamkayam-Ambalakunnu
+Pathar-Valamkolli road
+11.39875833
+76.23934167
+Debris
+Slide
+8th August 2019 & in August 2018
+15980
+KE/MAL/58A07/2019/01
+Kerala
+Malappuram
+Vettukathikotta (Alapoyil North) Slide Police station Junction- 
+Poovathipoyil Road
+11.37872222
+76.34755556
+Debris
+Slide
+8th August 2019 (at about 16:30 hrs)
+15981
+KE/MAL/58A07/2019/02
+Kerala
+Malappuram
+Vazhikadavu-Kettungal Eastern side
+Vettukathikotta- Kettungal 
+Road
+11.38313889
+76.34736111
+Debris
+Subsidence
+8th August 2019
+15982
+KE/MAL/58A07/2019/03
+Kerala
+Malappuram
+Vazhikadavu-Kettungal
+Vettukathikotta- Kettungal 
+Road
+11.38244444
+76.34641667
+Debris
+Slide
+8th August 2019 (at about 19:30 hrs)
+15983
+KE/MAL/58A07/2019/04
+Kerala
+Malappuram
+Vettukathikotta
+Vettukathikotta
+11.38680556
+76.35002778
+Debris
+Slide
+8th August 2019 (at about 17:30 hrs)
+15984
+KE/MAL/58A07/2019/05
+Kerala
+Malappuram
+Vazhikadavu
+Vazhikadvu _Nilambur Road
+11.38772222
+76.34736111
+Debris
+Slide
+8th August 2019
+15985
+KE/MAL/58A07/2019/06
+Kerala
+Malappuram
+Putharipadam
+Vazhikdavu- Karakode-
+Puthiripadam road
+11.41936111
+76.35802778
+Debris
+Flow
+8th August 2019
+15986
+KE/MAL/58A07/2019/07
+Kerala
+Malappuram
+Thenpara (Vellaketta)
+Vazhikkadavu-Gudallur road
+11.401456
+76.370989
+Debris
+Flow
+8th August 2019 (15:00 hrs.)
+15987
+KE/MAL/58A07/2019/08
+Kerala
+Malappuram
+Near Thenpara (Vellaketta)
+Vazhikkadavu-Gudallur road
+11.395894
+76.369239
+Debris
+Flow
+8th August 2019 (15:00 hrs.)
+15988
+KE/MAL/58A07/2019/09
+Kerala
+Malappuram
+Vellaketta-Ground
+Vazhikkadavu-Punnakkal-
+Vellaketta road
+11.394755
+76.359584
+Debris
+Flow
+8th August 2019 (15:00 hrs.)
+15989
+KE/MAL/58A07/2019/10
+Kerala
+Malappuram
+Vellaketta
+Vazhikkadavu-Punnakkal-
+Vellaketta road
+11.398825
+76.359265
+Debris
+Flow
+8th August 2019
+15990
+KE/MAL/58A07/2019/11
+Kerala
+Malappuram
+Vellaketta-2nd colony
+Vazhikkadavu-Punnakkal-
+Vellaketta road
+11.393762
+76.359222
+Debris
+Flow
+8th August 2019 (15:00hrs)
+15991
+KE/MAL/58A07/2019/12
+Kerala
+Malappuram
+Anamari
+Vazhikadavu-Anamari-Forest 
+Check post road
+11.38972222
+76.35391667
+Debris
+Slide
+8th August 2019 (17:40 hrs)
+15992
+KE/MAL/58A07/2019/13
+Kerala
+Malappuram
+Nadugani (Jharam)
+Vazhikkadavu-Gudallur road 
+(SH)
+11.425488
+76.382578
+Debris
+Subsidence
+Ground disturbances were said to have 
+occurred here earlier about 12 years 
+back and reactivated during 8th August 
+2019.
+15993
+KE/MAL/58A07/2019/14
+Kerala
+Malappuram
+Nadugani 1 (Jharam)
+Vazhikkadavu-Gudallur road 
+(SH)
+11.4229
+76.382978
+Debris
+Slide
+8th August 2019
+15994
+KE/MAL/58A07/2019/15
+Kerala
+Malappuram
+Nadugani 2 (Jharam)
+Vazhikkadavu-Gudallur road 
+(SH)
+11.421989
+76.382552
+Debris
+Slide
+8th August 2019
+15995
+KE/MAL/58A07/2019/16
+Kerala
+Malappuram
+Near Thenpara - 3
+Vazhikkadavu-Gudallur road 
+(SH)
+11.418943
+76.378478
+Debris
+Slide
+8th August 2019
+15996
+KE/MAL/58A07/2019/17
+Kerala
+Malappuram
+Near Thenpara - 2
+Vazhikkadavu-Gudallur road 
+(SH)
+11.416554
+76.377027
+Debris
+Slide
+8th August 2019

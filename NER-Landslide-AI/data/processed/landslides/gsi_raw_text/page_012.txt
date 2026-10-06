@@ -1,0 +1,376 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+377
+ASM/WKA/83C09/2016/22
+Assam
+West Karbi Anglong
+NE of Pangyatiso-3
+Mikading-Pangyatiso-Ranghidi 
+road
+25.84967
+92.69042
+Earth cum Rock
+Slide
+NA
+378
+ASM/WKA/83C09/2016/21
+Assam
+West Karbi Anglong
+NE of Pangyatiso-2
+Mikading-Pangyatiso-Ranghidi 
+road
+25.84992
+92.69072
+Earth cum Rock
+Slide
+NA
+379
+AS/KAR/83G09/2017/9
+Assam
+Karbi Anglong
+Hafjan Kidingpur4
+DhansiriChiru Timung road
+25.85072
+93.56682
+Debris
+Slide
+NA
+380
+ASM/WKA/83C09/2016/20
+Assam
+West Karbi Anglong
+NE of Pangyatiso-1
+Mikading-Pangyatiso-Ranghidi 
+road
+25.8515
+92.69203
+Earth cum Rock
+Slide
+NA
+381
+ASM/WKA/83C09/2016/6
+Assam
+West Karbi Anglong
+Hamren-2
+SH-18, Hamren road
+25.85167
+92.58089
+Debris
+Slide
+NA
+382
+AS/KAR/83G09/2017/8
+Assam
+Karbi Anglong
+Hafjan Kidingpur3
+DhansiriChiru Timung road
+25.85189
+93.56633
+Debris
+Slide
+NA
+383
+AS/KAR/83G09/2017/7
+Assam
+Karbi Anglong
+Hafjan Kidingpur2
+DhansiriChiru Timung road
+25.85487
+93.56583
+Debris
+Slide
+NA
+384
+AS/KAR/83G09/2017/6
+Assam
+Karbi Anglong
+Hafjan Kidingpur1
+DhansiriChiru Timung road
+25.85498
+93.56638
+Debris
+Slide
+NA
+385
+ASM/WKA/83C09/2016/30
+Assam
+West Karbi Anglong
+Hamren-4
+Hamren
+25.85544
+92.57369
+Debris
+Slide
+NA
+386
+ASM/WKA/83C09/2016/3
+Assam
+West Karbi Anglong
+SE of Rongsope
+Kolonga-Teran-Rongsope road
+25.85992
+92.72558
+Debris
+Slide
+NA
+387
+ASM/WKA/83C09/2016/29
+Assam
+West Karbi Anglong
+Hamren-3
+Hamren
+25.864186
+92.571047
+Debris
+Slide
+NA
+388
+ASM/WKA/83C09/2016/5
+Assam
+West Karbi Anglong
+Hamren-1
+SH-18, Hamren road
+25.86958
+92.59411
+Rock cum Debris
+Slide
+NA
+389
+AS/KAR/83G05/2017/5
+Assam
+Karbi Anglong
+Dilaiji
+DilaijiMon Terang road
+25.88494
+93.45792
+Soil
+Slide
+NA
+390
+ASM/WKA/83C09/2016/4
+Assam
+West Karbi Anglong
+SW of Tiriphlang
+SH-19, Donkamokam-Hamren 
+road
+25.88692
+92.61347
+Debris
+Slide
+NA
+391
+ASM/WKA/83C09/2016/1
+Assam
+West Karbi Anglong
+Rohang Habal
+SH-19, Donkamokam-Hamren 
+road
+25.90653
+92.65819
+Debris cum earth
+Slide
+NA
+392
+ASM/WKA/83C09/2016/2
+Assam
+West Karbi Anglong
+NE of Linsika
+SH-19, Donkamokam-Hamren 
+road
+25.90692
+92.64714
+Debris
+Slide
+NA
+393
+AS/KAM/78O5/2020/2
+Assam
+Kamrup (Rural)
+Rajupara slide
+East of Rajupara village
+25.91
+91.4
+Debris
+Slide
+2017
+394
+ASM/WKA/83C09/2016/7
+Assam
+West Karbi Anglong
+Padam Pukhuri
+W of Padam Pukhuri, SH-16
+25.945
+92.66358
+Debris
+Slide
+NA
+395
+ASM/WKA/83B08/2017/45
+Assam
+West Karbi Anglong
+Amsoi-Umpanai road slide No.5
+~1.5 Km West of Umpanai. 
+Sunani  - Umpanai road
+25.946611
+92.305361
+Debris
+Slide
+2015
+396
+AS/KAM/78O5/2020/1
+Assam
+Kamrup (Rural)
+Khaksi Sikrabura slide
+Boko-Baghmara road
+25.95
+91.28
+Debris
+Slide
+2019
+397
+ASM/WKA/83C09/2016/10
+Assam
+West Karbi Anglong
+N of Langchar Terongaon
+SH-18, Baithalangso-Tika road
+25.95381
+92.60444
+Debris
+Slide
+NA
+398
+ASM/WKA/83C09/2016/35
+Assam
+West Karbi Anglong
+N of Langchar Terongaon
+SH-18, Baithalangso-Tika road
+25.95386
+92.60367
+Debris
+Slide
+NA
+399
+AS/KAR/83G09/2017/11
+Assam
+Karbi Anglong
+Gautam basti
+NH39
+25.95514
+93.72997
+Debris
+Slide
+NA
+400
+ASM/WKA/83C09/2016/27
+Assam
+West Karbi Anglong
+Power house Amtreng
+Karbi Langpi hydro dam (power 
+house road)
+25.95931
+92.51753
+Debris
+Slide
+NA
+401
+ASM/WKA/83C09/2016/9
+Assam
+West Karbi Anglong
+S of Baithalangso
+SH-18, Baithalangso-Tika road
+25.96094
+92.60122
+Debris
+Slide
+NA
+402
+ASM/WKA/83B08/2017/44
+Assam
+West Karbi Anglong
+Amsoi-Umpanai road slide No.4
+~1Km North-West of Ulukunchi. 
+Sunani  - Umpanai road
+25.961444
+92.341333
+Rock cum Debris
+Slide
+NA
+403
+AS/KAR/83G05/2017/4
+Assam
+Karbi Anglong
+Kania Terongaon2
+NH36
+25.96256
+93.46922
+Soil cum debris
+Slide
+NA
+404
+AS/KAR/83G05/2017/3
+Assam
+Karbi Anglong
+Kania Terongaon1
+NH36
+25.96272
+93.46964
+Soil
+Slide
+NA
+405
+ASM/WKA/83C09/2016/8
+Assam
+West Karbi Anglong
+Mt View English LP School
+Chinthong block, Baithalangso
+25.965731
+92.59267
+Earth
+Slide
+NA
+406
+ASM/WKA/83B08/2017/43
+Assam
+West Karbi Anglong
+Amsoi-Umpanai road slide No.3
+~500 meter South of Silaguri, 
+Sunani - Umpanai road
+25.96667
+92.356917
+Earth
+Slide
+2016
+407
+ASM/WKA/83B08/2017/42
+Assam
+West Karbi Anglong
+Amsoi-Umpanai road slide No.2
+~300 meter South of Silaguri, 
+Sunani  - Umpanai road
+25.968083
+92.3575
+Debris
+Slide
+NA
+408
+ASM/WKA/83B08/2017/41
+Assam
+West Karbi Anglong
+Amsoi-Umpanai road slide No.1
+~1.5 Km South of Mortin, 
+Sunani  - Umpanai road
+25.977194
+92.354778
+Debris
+Slide
+2016

@@ -1,0 +1,446 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12725
+KA/CKM/48O08/2024/21
+Karnataka
+Chikmagalur
+Charmadi Ghat Slide-2
+NH-73, Charmadi Ghat, 
+Between hair pin bend no. 8 
+and 9
+13.07683333
+75.45633333
+Debris
+Slide
+30 July 2024
+12726
+KA/CKM/48O08/2024/22
+Karnataka
+Chikmagalur
+Charmadi Ghat Slide-3
+NH-73, Charmadi Ghat, Near to 
+hairpin bend 11 towards 
+Kottigehara
+13.07633333
+75.47161111
+Debris
+Slide
+30 July 2024
+12727
+KA/CKM/48O08/2024/23
+Karnataka
+Chikmagalur
+Chennahadilu landslide
+Chennahadilu village, Hirebailu 
+to Balehole road
+13.21977778
+75.41916667
+Debris
+Slide
+27 July 2024
+12728
+KA/CKM/48O07/2024/24
+Karnataka
+Chikmagalur
+ Melmachige (Horanadu) landslide
+Melmachige village, Horanadu-
+Sringeri road
+13.28061111
+75.3315
+Debris
+Slide
+30 July 2024
+12729
+KA/CKM/48O07/2024/25
+Karnataka
+Chikmagalur
+Somankatte landslide
+Somanakatte village, Horanadu 13.28116667
+75.34819444
+Debris
+Slide
+30 July 2024
+12730
+KA/UK/48J01/2024/01
+Karnataka
+Uttar Kannada
+--
+NH-66 (Chainage – 110.200)
+14.781677
+74.136913
+Debris
+Slide
+NA
+12731
+KA/UK/48J01/2024/02
+Karnataka
+Uttar Kannada
+--
+NH-66 (Chainage 110.340)
+14.782055
+74.138237
+Debris
+Slide
+July 2024
+12732
+KA/UK/48J01/2024/03
+Karnataka
+Uttar Kannada
+--
+NH-66 (Chainage 110.430)
+14.782712
+74.13883
+Debris
+Slide
+July 2024
+12733
+KA/UK/48J01/2024/04
+Karnataka
+Uttar Kannada
+--
+NH-66 (Chainage- 110.530)
+14.783218
+74.139477
+Debris
+Slide
+2024
+12734
+KA/UK/48J01/2024/05
+Karnataka
+Uttar Kannada
+--
+NH-66 (Chainage- 110.620)
+14.78353
+74.140167
+Debris
+Slide
+2022
+12735
+KA/UK/48J01/2024/06
+Karnataka
+Uttar Kannada
+--
+NH-66 (Chainage- 110.690)
+14.783522
+74.140903
+Debris
+Slide
+3rd week of July 2024
+12736
+KA/UK/48J01/2024/07
+Karnataka
+Uttar Kannada
+--
+NH-66 (Chainage- 110.750)
+14.783217
+74.141485
+Debris
+Slide
+July 2024
+12737
+KA/UK/48J01/2024/08
+Karnataka
+Uttar Kannada
+--
+NH-66 (Chainage 111.380)
+14.781229
+74.146864
+Rock
+Fall
+NA
+12738
+KA/UK/48J01/2024/09
+Karnataka
+Uttar Kannada
+--
+NH-66 (Chainage 122.220)
+14.759265
+74.234887
+Debris
+Slide
+NA
+12739
+KA/UK/48J01/2024/10
+Karnataka
+Uttar Kannada
+--
+NH-66 (Chainage-124.090)
+14.749197
+74.248513
+Debris
+Slide
+2024
+12740
+KA/UK/48J01/2024/11
+Karnataka
+Uttar Kannada
+--
+NH-66 (Chainage-124.620)
+14.745973
+74.25133
+Rock and debris
+Slide
+NA
+12741
+KA/UK/48J01/2024/12
+Karnataka
+Uttar Kannada
+--
+NH-66 (Chainage 147.030)
+14.602864
+74.362828
+Debris
+Slide
+August 2023
+12742
+KA/UK/48J01/2024/13
+Karnataka
+Uttar Kannada
+--
+NH-66 (Chainage 151.580)
+14.582058
+74.381403
+Debris
+Slide
+2024
+12743
+KA/UK/48J01/2024/14
+Karnataka
+Uttar Kannada
+--
+NH-66 (Chainage 151.800)
+14.580318
+74.38286
+Earth
+Slide
+2024
+12744
+KA/UK/48J01/2024/15
+Karnataka
+Uttar Kannada
+--
+NH-66
+14.521306
+75.409556
+Earth
+Slide
+2024
+12745
+KA/UK/48J01/2024/16
+Karnataka
+Uttar Kannada
+--
+NH-66 (Chainage 160.080)
+14.513155
+74.411225
+Debris
+Flow
+18 July 2024
+12746
+KA/UK/48J01/2024/17
+Karnataka
+Uttar Kannada
+--
+NH-66 (Chainage 166.250)
+14.470933
+74.439445
+Debris
+Slide
+2024
+12747
+KA/UK/48J01/2024/18
+Karnataka
+Uttar Kannada
+--
+NH-66
+14.457233
+74.438342
+Debris
+Slide
+NA
+12748
+KA/UK/48J01/2024/19
+Karnataka
+Uttar Kannada
+--
+NH-66 (Chainage245.500)
+13.888483
+74.61799
+Earth
+Slide
+2024
+12749
+KA/UK/48J06/2024/01
+Karnataka
+Uttar Kannada
+Shirur Slide
+NH-66
+14.603554
+74.371219
+Debris
+Flow
+16 July 2024 (08:30 am)
+12750
+KA/UK/48J06/2024/21
+Karnataka
+Uttar Kannada
+Moolangi School slide
+Govt L.P. School, Moolangi
+14.539822
+74.348515
+Earth
+Slide
+15 July 2024
+12751
+KA/UK/48J06/2024/22
+Karnataka
+Uttar Kannada
+Ramatheertha temple slide 
+Gokarna 
+14.539402
+74.312368
+Debris
+Slide
+16 July 2024
+12752
+KA/UK/48J06/2024/23
+Karnataka
+Uttar Kannada
+Nil
+Marakal
+14.553255
+74.359167
+Debris
+Slide
+16 July 2024
+12753
+KA/UK/48J06/2024/24
+Karnataka
+Uttar Kannada
+Nil
+HPS Shirur
+14.604261
+74.357595
+Debris
+Slide
+July 2024
+12754
+KA/UK/48J07/2024/25
+Karnataka
+Uttar Kannada
+Nil
+Mirjan Village, Khaire, NH-66
+14.480271
+74.437881
+Debris
+Subsidence
+NA
+12755
+KA/UK/48J06/2024/26
+Karnataka
+Uttar Kannada
+--
+Hosakatta, Torke village
+14.546835
+74.357823
+Debris
+Slide
+16 July 2024
+12756
+KA/UK/48J10/2024/27
+Karnataka
+Uttar Kannada
+Yana temple slide
+Opposite Yana Temple
+14.590067
+74.566353
+Debris
+Slide
+19 July 2024
+12757
+KA/UK/48J10/2024/28
+Karnataka
+Uttar Kannada
+Bastikeri slide
+14.42279
+74.56534
+Debris
+Slide
+19 July 2024
+12758
+KA/HAS/48P09/2024/01
+Karnataka
+Hassan
+Nil
+NH-75
+12.89692
+75.732489
+Debris
+Slide
+16th July 2024, 31 July 2024
+12759
+KA/HAS/48P09/2024/02
+Karnataka
+Hassan
+Harley Estate slide
+Harley Estate, Kumbaradi 
+Village
+12.932363
+75.725262
+Debris
+Slide
+29 July 2024
+12760
+KA/HAS/48P09/2024/03
+Karnataka
+Hassan
+Nil
+Kumbaradi village
+12.939405
+75.73157
+Debris
+Slide
+29 July 2024
+12761
+KA/HAS/48P09/2024/04
+Karnataka
+Hassan
+Nil
+Kumbaradi village
+12.941253
+75.730908
+Debris
+Slide
+July 2024
+12762
+KA/HAS/48P/13/2024/05
+Karnataka
+Hassan
+Nil
+NH-75
+12.92256
+75.762242
+Debris
+Slide
+July 2024
+12763
+KA/HAS/48P09/2024/05
+Karnataka
+Hassan
+Nil
+NH-75
+12.920003
+75.747305
+Debris
+Slide
+July 2024

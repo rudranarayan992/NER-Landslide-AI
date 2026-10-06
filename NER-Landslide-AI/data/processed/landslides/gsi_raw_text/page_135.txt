@@ -1,0 +1,563 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+5560
+HP/SHI/53E11/2016/29
+Himachal Pradesh
+Shimla
+ 
+Jhakri
+31.485056
+77.69
+Rock
+Creep
+NA
+5561
+HP/SHI/53E15/2016/98
+Himachal Pradesh
+Shimla
+ 
+Near Pithwi road
+31.4852
+77.7902
+Debris
+Slide
+2014
+5562
+HP/BIL/53A11/2018/32
+Himachal Pradesh
+Bilaspur
+ 
+ 
+31.485209
+76.74558
+Rock
+Slide
+NA
+5563
+HP/KUL/53E07/2016/12
+Himachal Pradesh
+Kullu
+ 
+BUNG BINDRABAN
+31.485444
+77.415889
+Debris
+Slide
+NA
+5564
+HP/SHI/53E11/2016/30
+Himachal Pradesh
+Shimla
+ 
+Jhakri
+31.485639
+77.694417
+Debris
+Slide
+NA
+5565
+HP/SHI/53E15/2016/31
+Himachal Pradesh
+Shimla
+ 
+Near Majehwali village,Power 
+House
+31.486
+77.7677
+Debris
+Slide
+2014
+5566
+HP/MAN/53A15/2015/174
+Himachal Pradesh
+Mandi
+ 
+ 
+31.486309
+76.919012
+Debris
+Slide
+NA
+5567
+HP/BIL/53A11/2018/39
+Himachal Pradesh
+Bilaspur
+ 
+Palsoti
+31.48635
+76.745336
+Rock
+Slide
+NA
+5568
+HP/SHI/53E11/2016/31
+Himachal Pradesh
+Shimla
+ 
+Jhakri
+31.486528
+77.693528
+Debris
+Slide
+NA
+5569
+HP/MAN/53A15/2015/154
+Himachal Pradesh
+Mandi
+ 
+ 
+31.486866
+76.918407
+Debris
+Slide
+NA
+5570
+HP/SHI/53E11/2016/15
+Himachal Pradesh
+Shimla
+ 
+Jakhi
+31.486889
+77.693083
+Debris
+Slide
+NA
+5571
+HP/SHI/53E15/2016/143
+Himachal Pradesh
+Shimla
+ 
+Kurgu village
+31.4882
+77.7827
+Debris
+Fall
+NA
+5572
+HP/SHI/53E11/2016/27
+Himachal Pradesh
+Shimla
+ 
+Goplapur
+31.488833
+77.748639
+Debris
+Slide
+NA
+5573
+HP/MAN/53E03/2015/156
+Himachal Pradesh
+Mandi
+ 
+ 
+31.48905
+77.074652
+Debris
+Slide
+NA
+5574
+HP/MAN/53A15/2015/177
+Himachal Pradesh
+Mandi
+ 
+ 
+31.489063
+76.898423
+Debris
+Slide
+NA
+5575
+HP/MAN/53E03/2015/328
+Himachal Pradesh
+Mandi
+ 
+ 
+31.490278
+77.016667
+Rock
+Slide
+NA
+5576
+HP/MAN/53E03/2015/330
+Himachal Pradesh
+Mandi
+ 
+ 
+31.491389
+77.018611
+Debris
+Slide
+NA
+5577
+HP/MAN/53E03/2015/151
+Himachal Pradesh
+Mandi
+ 
+ 
+31.492056
+77.086913
+Rock
+Slide
+NA
+5578
+HP/BIL/53A11/2018/40
+Himachal Pradesh
+Bilaspur
+ 
+Paniala
+31.494605
+76.728114
+Debris
+Slide
+NA
+5579
+HP/SHI/53E11/2016/35
+Himachal Pradesh
+Shimla
+ 
+Jhakri
+31.494694
+77.696083
+Rock
+Slide
+NA
+5580
+HP/MAN/53A15/2015/52
+Himachal Pradesh
+Mandi
+ 
+ 
+31.49602
+76.930852
+Debris
+Slide
+NA
+5581
+HP/SHI/53E15/2016/20
+Himachal Pradesh
+Shimla
+ 
+Right bank of Manglad Khad
+31.4961
+77.7618
+Debris
+Slide
+2014
+5582
+HP/KUL/53E11/2016/9
+Himachal Pradesh
+Kullu
+ 
+PAJANDA
+31.498833
+77.535528
+Rock
+Composite
+NA
+5583
+HP/MAN/53A14/2015/323
+Himachal Pradesh
+Mandi
+ 
+Chaumukhi,NH 21
+31.500456
+76.873523
+Rock
+Slide
+NA
+5584
+HP/KUL/53E10/2016/35
+Himachal Pradesh
+Kullu
+ 
+Shalat
+31.501
+77.551
+Rock
+Slide
+NA
+5585
+HP/UNA/53A06/2018/5
+Himachal Pradesh
+Una
+ 
+Mandli-Raipur Marg
+31.501728
+76.390533
+Debris
+Slide
+NA
+5586
+HP/SHI/53E10/2016/3
+Himachal Pradesh
+Shimla
+ 
+Gaso, NH-22
+31.501958
+77.715174
+Debris
+Fall
+NA
+5587
+HP/SHI/53E10/2016/1
+Himachal Pradesh
+Shimla
+ 
+Gaso, NH-22
+31.502677
+77.718566
+Debris
+Slide
+NA
+5588
+HP/KUL/53E10/2016/41
+Himachal Pradesh
+Kullu
+ 
+Sikan
+31.502952
+77.552995
+Rock cum debris
+Slide
+NA
+5589
+HP/KUL/53E10/2016/7
+Himachal Pradesh
+Kullu
+ 
+Sikan
+31.503018
+77.550619
+Rock
+Slide
+NA
+5590
+HP/KUL/53E10/2016/4
+Himachal Pradesh
+Kullu
+ 
+Sikan
+31.503776
+77.551342
+Rock
+Slide
+NA
+5591
+HP/MAN/53A14/2015/330
+Himachal Pradesh
+Mandi
+ 
+Chaumukhi,NH 21
+31.505179
+76.874903
+Rock
+Slide
+NA
+5592
+HP/MAN/53A14/2015/329
+Himachal Pradesh
+Mandi
+ 
+Chaumukhi,NH 21
+31.505636
+76.875234
+Debris
+Slide
+NA
+5593
+HP/KUL/53E10/2016/10
+Himachal Pradesh
+Kullu
+ 
+W of Kindla
+31.505909
+77.702348
+Rock
+Slide
+NA
+5594
+HP/MAN/53A14/2015/328
+Himachal Pradesh
+Mandi
+ 
+Chaumukhi,NH 21
+31.505919
+76.875198
+Rock cum debris
+Slide
+NA
+5595
+HP/KUL/53E06/2016/121
+Himachal Pradesh
+Kullu
+ 
+Dogri
+31.507
+77.406
+Debris
+Slide
+NA
+5596
+HP/KUL/53E06/2016/91
+Himachal Pradesh
+Kullu
+ 
+Dogri
+31.507
+77.409
+Debris
+Slide
+NA
+5597
+HP/MAN/53A14/2015/327
+Himachal Pradesh
+Mandi
+ 
+Chaumukhi,NH 21
+31.507053
+76.87491
+Rock
+Slide
+NA
+5598
+HP/MAN/53A14/2015/332
+Himachal Pradesh
+Mandi
+ 
+Naura PF
+31.508
+76.944
+Rock
+Slide
+NA
+5599
+HP/KIN/53E14/2016/34
+Himachal Pradesh
+Kinnaur
+ 
+Near Chot - Kanda village
+31.5085
+77.9697
+Debris
+Slide
+2004
+5600
+HP/KIN/53E14/2016/33
+Himachal Pradesh
+Kinnaur
+ 
+Near Chot - Kanda village
+31.5089
+77.9645
+Debris
+Slide
+2004
+5601
+HP/KIN/53E14/2016/35
+Himachal Pradesh
+Kinnaur
+ 
+Near Chot - Kanda village
+31.5089
+77.9679
+Debris
+Slide
+2004
+5602
+HP/MAN/53A14/2015/335
+Himachal Pradesh
+Mandi
+ 
+Near Naura
+31.50953
+76.934773
+Rock
+Slide
+NA
+5603
+HP/MAN/53A14/2015/348
+Himachal Pradesh
+Mandi
+ 
+Mechhna,NH 21
+31.512402
+76.87501
+Debris
+Slide
+NA
+5604
+HP/MAN/53A14/2015/331
+Himachal Pradesh
+Mandi
+ 
+NW of Ropri
+31.513953
+76.932246
+Rock
+Slide
+NA
+5605
+HP/KUL/53E06/2016/53
+Himachal Pradesh
+Kullu
+ 
+Raupa
+31.514
+77.409
+Debris
+Slide
+NA
+5606
+HP/SHI/53E14/2016/127
+Himachal Pradesh
+Shimla
+ 
+West of Kotla
+31.514952
+77.754392
+Rock
+Slide
+NA
+5607
+HP/MAN/53A14/2015/333
+Himachal Pradesh
+Mandi
+ 
+Naura PF
+31.516
+76.955
+Rock
+Slide
+NA
+5608
+HP/SHI/53E14/2016/122
+Himachal Pradesh
+Shimla
+ 
+West of Kotla
+31.516
+77.757
+Debris
+Slide
+NA
+5609
+HP/SHI/53E14/2016/126
+Himachal Pradesh
+Shimla
+ 
+West of Kotla
+31.516133
+77.753339
+Rock
+Slide
+NA

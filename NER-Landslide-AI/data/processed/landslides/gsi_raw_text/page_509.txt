@@ -1,0 +1,424 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20543
+ML/EKH/78O11/2019-20/03
+Meghalaya
+East Khasi Hills
+Mawsynram, East Khasi Hills District, 
+Meghalaya
+Mawsynram - Lawbah
+25.281
+91.57330556
+Debris
+Slide
+7 July 2019
+20544
+ML/EKH/78O11/2019-20/04
+Meghalaya
+East Khasi Hills
+Mawsynram, East Khasi Hills District, 
+Meghalaya
+Mawsynram - Lawbah
+25.27728056
+91.57445
+Rock
+Slide
+2014
+20545
+MEG/EKH/78O14/2019/05
+Meghalaya
+East Khasi Hills
+Guwahati-Shillong Road, Near Umiam 
+Lake view point
+Umiam Landslide-I
+25.6489
+91.8965
+Rock (with thin 
+overburden/debris)
+Slide
+2006, 01 October 2019
+20546
+MEG/EKH/78O14/2019/06
+Meghalaya
+East Khasi Hills
+Guwahati-Shillong Road, Near Umiam 
+Lake view point
+Umiam Landslide-II
+25.64911111
+91.899
+Debris
+Slide
+2018,11 July 2019
+20547
+MEG/EKH/78O8/2019/07
+Meghalaya
+East Khasi Hills
+Balat road slide - I
+Pomblang Landslide
+25.23211111
+91.37252778
+Debris
+Slide
+27 June 2019
+20548
+MEG/EKH/78O8/2019/08
+Meghalaya
+East Khasi Hills
+Balat road
+Balat road slide - II
+25.22194444
+91.38422222
+Debris
+Slide
+27 June 2019
+20549
+MEG/EKH/78O8/2019/09
+Meghalaya
+East Khasi Hills
+Mawphlang-Balat road
+Lad Bagli Landslide
+25.2161
+91.38912222
+Rock
+Slide
+2005
+20550
+MEG/EKH/78O8/2019/10
+Meghalaya
+East Khasi Hills
+Balat-Shella road
+Balat 3.5 km Slide
+25.18766667
+91.39816667
+Rock
+Slide
+27 June 2019.
+20551
+MEG/EKH/78O8/2019/11
+Meghalaya
+East Khasi Hills
+Balat-Shella road
+Balat 4 km Slide
+25.18688889
+91.39855556
+Debris
+Slide
+27 June 2019
+20552
+MEG/EKH/78O14/2020-21/1
+Meghalaya
+East Khasi Hills
+Mawiong Umjapung
+Umjapung slide
+25.62
+91.88272222
+Soil
+Slide
+2013
+20553
+MEG/WJH/83C3/2020/2
+Meghalaya
+West Jaintia Hills
+Iawmusiang Wahthanad
+Iawmusiang Landslide - I
+25.44233333
+92.19447222
+Debris
+Slide
+26 May 2020
+20554
+MEG/WJH/83C3/2020/3
+Meghalaya
+West Jaintia Hills
+Iawmusiang Wahthanad
+Iawmusiang Landslide - II
+25.44177778
+92.19558333
+Debris
+Slide
+26 May 2020
+20555
+MEG/WJH/83C3/2020/4
+Meghalaya
+West Jaintia Hills
+Riatsiatsim
+Riatsiatsim Landslide
+25.44138889
+92.19108333
+Debris
+Flow
+1980
+20556
+MEG/WJH/83C3/2020/5
+Meghalaya
+West Jaintia Hills
+Chutwakhu Rd near Govt. Boy’s 
+Higher secondary school
+Chutwakhu road landslide
+25.43630556
+92.19525
+Soil
+Slide
+26 May 2020
+20557
+MEG/WJH/83C3/2020/6
+Meghalaya
+West Jaintia Hills
+Chilliangraij
+Chilliangraij Landslide
+25.43505556
+92.19836111
+Debris
+Slide
+26 May 2020
+20558
+MEG/WJH/83C3/2020/7
+Meghalaya
+West Jaintia Hills
+Salaroh
+Salaroh Landslide
+25.44741667
+92.20138889
+Soil
+Slide
+26 May 2020
+20559
+MEG/WJH/83C3/2020/8
+Meghalaya
+West Jaintia Hills
+Caroline colony
+Caroline-Jowai
+25.45075
+92.19452778
+Debris
+Slide
+26 May 2020
+20560
+MEG/WJH/83C3/2020/9
+Meghalaya
+West Jaintia Hills
+Shillong-Agartala-Sabrum Rd
+Shillong-Agartala-Sabrum Rd
+25.45351667
+92.18784722
+Soil
+Slide
+26 May 2020
+20561
+MEG/EKH/78O14/2020/10
+Meghalaya
+East Khasi Hills
+NH-6
+Lumnamawai Slide at Mawlai 
+Umthlong
+25.59875
+91.86427778
+Debris
+Slide
+NA
+20562
+MEG/EKH/78O14/2020/11
+Meghalaya
+East Khasi Hills
+NH-6
+Parmaw Dhobighat slide at 
+Laban
+25.56194444
+91.88055556
+Debris
+Slide
+NA
+20563
+MEG/EKH/78O14/2020/12
+Meghalaya
+East Khasi Hills
+Madanryting, Block G
+Madanryting Wahtiang 
+Landslide
+25.54930833
+91.91161389
+Debris
+Slide
+NA
+20564
+MEG/EKH/78O14/2020/13
+Meghalaya
+East Khasi Hills
+Block -G
+Madanryting Soil slide
+25.54948611
+91.91179722
+Soil
+Slide
+NA
+20565
+MEG/EKH/78O14/2020/14
+Meghalaya
+East Khasi Hills
+Madanryting, Block-G
+Madanryting Debris slide
+25.54985278
+91.91202778
+Debris
+Slide
+NA
+20566
+MEG/EKH/78O14/2020/15
+Meghalaya
+East Khasi Hills
+Police reserve
+Police reserve
+25.58136111
+91.88338889
+Debris
+Slide
+NA
+20567
+MEG/EKH/78O14/2021/01
+Meghalaya
+East Khasi Hills
+NH-40(650 m from Umiam viewpoint 
+towards Guwahati)
+Umiam slide
+25.65060556
+91.89945278
+Debris
+Slide
+August    2019, August 2020.
+20568
+MEG/EKH/78O14/2021/02
+Meghalaya
+East Khasi Hills
+NH-40
+Umiam slide
+25.64908889
+91.899
+Debris
+Slide
+July 2020
+20569
+MEG/EKH/78O10/2021/03
+Meghalaya
+East Khasi Hills
+NH-40
+Umiam view point
+25.64906111
+91.89733611
+Rock
+Slide
+August, 2019 & July, 2020
+20570
+MEG/EKH/78O15/2021/04
+Meghalaya
+East Khasi Hills
+NH-44E
+Kreit slide
+25.49736111
+91.77902778
+Debris
+Slide
+2021
+20571
+MEG/EKH/78O11/2021/005
+Meghalaya
+East Khasi Hills
+NH-44E
+1 km North-east of Mawngap 
+village
+25.49151667
+91.77329444
+Rock
+Rock fall
+NA
+20572
+MEG/ EKH/ 78011/2021/06
+Meghalaya
+East Khasi Hills
+Around 700 m South-East of 
+Lenmawtap village.
+Lenmawtap
+25.49833333
+91.73361111
+Debris
+Slide
+2021
+20573
+MEG/EKH/78O10/2021/07
+Meghalaya
+East Khasi Hills
+NH-44E, (1.5 km towards north-east 
+of Sohiong 
+village)
+Umsohiong Dombhoi
+25.50368056
+91.72342222
+Rock
+Slide
+ September 2019,2020
+20574
+MEG/EKH/78O10/2021/08
+Meghalaya
+East Khasi Hills
+NH-44E
+Sohiong Mawtat
+25.51046111
+91.70312778
+Debris
+Slide
+NA
+20575
+MEG/SG/78K11/2022/01
+Meghalaya
+South Garo Hills
+Ramgmik gittam, Siju
+Siju slide
+25.36103333
+91.64700833
+Debris
+Slide
+17 June 2022 at 4.30 hrs
+20576
+MEG/SG/78K12/2022/02
+Meghalaya
+South Garo Hills
+Baghmara     (1.5km     north     west     
+from     the     Deputy Commissioner 
+office)
+Bhagmara slide
+25.21273889
+90.63216111
+Debris
+Slide
+17 June 2022 at 4.30 hrs
+20577
+MEG/SG/78K12/2022/03
+Meghalaya
+South Garo Hills
+Baghmara along the road.
+Bhagmara slide
+25.21022222
+90.63220278
+Debris
+Slide
+17 June 2022   
+20578
+MEG/SG/78K03/2022/04
+Meghalaya
+West Garo Hills
+Jibalgre village
+Jibalgre slide
+25.38163333
+90.06033889
+Debris
+Slide
+9 June  2022  at 2.00hrs

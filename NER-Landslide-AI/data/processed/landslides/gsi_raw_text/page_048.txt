@@ -1,0 +1,321 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1624
+AP/LDV/82P16/2022/32
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 46.8 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.237425
+95.897823
+Rock
+Slide
+NA
+1625
+AP/ES/82P12/2022/79
+Arunachal Pradesh
+East Siang
+From Bomjir 16 kms along NH-13 
+towards Pasighat
+ NH-313 (Roing-Pasighat road)
+28.237716
+95.535611
+Debris
+Slide
+NA
+1626
+AP/LDV/82P16/2022/47
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 23.5 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.238144
+95.774758
+Debris
+Slide
+NA
+1627
+AP/LDV/82P16/2022/33
+Arunachal Pradesh
+Lower Dibang Valley
+IHO Viewpoint landslide. From Roing 
+46.3 kms along NH-313 towards 
+Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.238615
+95.893348
+Debris
+Slide
+NA
+1628
+AP/LDV/82P16/2022/34
+Arunachal Pradesh
+Lower Dibang Valley
+IHO Viewpoint landslide. From Roing 
+46.2 kms along NH-313 towards 
+Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.238692
+95.892681
+Debris
+Slide
+NA
+1629
+AP/LDV/82P16/2022/39
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 23.7 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.239482
+95.774559
+Rock
+Slide
+NA
+1630
+AR/ANJ/91D12/2014/39
+Arunachal Pradesh
+Anjaw
+37.6 km rockslide
+H. M. C. Road
+28.23969
+96.52778
+Rock
+Topple
+2013
+1631
+AP/LDV/82P16/2022/46
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 23.8 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.240442
+95.774201
+Rock
+Slide
+NA
+1632
+AP/LDV/82P16/2022/36
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 37 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.240521
+95.866592
+Debris
+Slide
+NA
+1633
+AP/LDV/82P16/2022/37
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 37.12 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.241041
+95.866387
+Rock
+Slide
+NA
+1634
+AP/LDV/82P16/2022/31
+Arunachal Pradesh
+Lower Dibang Valley
+ Mayudia Pass landslide.
+ NH-313 (Roing-Anini road)
+28.24175
+95.925012
+Debris
+Slide
+NA
+1635
+AP/LDV/82P16/2022/30
+Arunachal Pradesh
+Lower Dibang Valley
+ Mayudia Pass landslide. From 
+Mayudia Pass 0.2 kms along NH-313 
+towards Hunli
+ NH-313 (Roing-Anini road)
+28.242214
+95.923556
+Debris
+Slide
+NA
+1636
+AR/S/82P04/2022/032
+Arunachal Pradesh
+Upper Siang
+South of Jeru Slide 4
+NH-513
+28.242389
+94.220861
+Debris
+Slide
+NA
+1637
+AP/ES/82P12/2022/80
+Arunachal Pradesh
+East Siang
+From Bomjir 15.5 kms along NH-13 
+towards Pasighat
+ NH-313 (Roing-Pasighat road)
+28.242444
+95.536828
+Rock
+Fall
+NA
+1638
+AP/LDV/82P16/2022/29
+Arunachal Pradesh
+Lower Dibang Valley
+ Mayudia Pass landslide. From 
+Mayudia Pass 0.3 kms along NH-313 
+towards Hunli
+ NH-313 (Roing-Anini road)
+28.242782
+95.922731
+Rock
+Slide
+NA
+1639
+AP/ES/82P12/2022/81
+Arunachal Pradesh
+East Siang
+From Bomjir 15.3 kms along NH-13 
+towards Pasighat
+ NH-313 (Roing-Pasighat road)
+28.242969
+95.537549
+Rock
+Slide
+NA
+1640
+AP/LDV/82P16/2022/40
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 24.4 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.242997
+95.772144
+Debris
+Slide
+NA
+1641
+AP/LDV/82P16/2022/27
+Arunachal Pradesh
+Lower Dibang Valley
+ Mayudia Pass landslide. From 
+Mayudia Pass 0.45 kms along NH-313 
+towards Hunli
+ NH-313 (Roing-Anini road)
+28.243182
+95.921338
+Rock
+Slide
+NA
+1642
+AP/LDV/82P16/2022/28
+Arunachal Pradesh
+Lower Dibang Valley
+  Mayudia Pass landslide.From 
+Mayudia Pass 0.4 kms along NH-313 
+towards Hunli
+ NH-313 (Roing-Anini road)
+28.243322
+95.921911
+Rock
+Slide
+NA
+1643
+AP/ES/82P12/2022/82
+Arunachal Pradesh
+East Siang
+From Bomjir 15.1 kms along NH-13 
+towards Pasighat
+ NH-313 (Roing-Pasighat road)
+28.243417
+95.538216
+Debris
+Slide
+NA
+1644
+AP/LDV/82P15/2022/21
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 45.3 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.243461
+95.894049
+Rock
+Slide
+NA
+1645
+AP/LDV/82P16/2022/43
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 24.8 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.244851
+95.773499
+Rock
+Slide
+NA
+1646
+AP/LDV/82P16/2022/26
+Arunachal Pradesh
+Lower Dibang Valley
+From Mayudia Pass 1.2 kms along NH-
+313 towards Hunli
+ NH-313 (Roing-Anini road)
+28.244966
+95.914872
+Rock
+Slide
+NA
+1647
+AP/LDV/82P16/2022/25
+Arunachal Pradesh
+Lower Dibang Valley
+ From Mayudia Pass 1.34 kms along 
+NH-313 towards Hunli
+ NH-313 (Roing-Anini road)
+28.244975
+95.914094
+Rock
+Slide
+NA
+1648
+AP/LDV/82P16/2022/42
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 24.9 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.245016
+95.77363
+Debris
+Slide
+NA

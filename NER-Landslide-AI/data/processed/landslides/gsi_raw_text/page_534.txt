@@ -1,0 +1,338 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21441
+MZ/LUN/84A12/2018/31
+Mizoram
+Lunglei
+ 
+Buarpui-Kawlhawk Section 
+(PMGSY road)
+23.201111
+92.681946
+Debris
+Slide
+NA
+21442
+MZ/LUN/84A12/2018/30
+Mizoram
+Lunglei
+ 
+Buarpui-Kawlhawk Section 
+(PMGSY road)
+23.202129
+92.681442
+Rock
+Slide
+NA
+21443
+MZ/LUN/84A12/2018/64
+Mizoram
+Lunglei
+ 
+Tleu-Thenhlum Section
+23.204981
+92.57457
+Rock
+Slide
+2018
+21444
+MZ/LUN/84A12/2018/68
+Mizoram
+Lunglei
+ 
+Thenhlum-South Dampui 
+Section
+23.205305
+92.585861
+Debris
+Slide
+NA
+21445
+MZ/LUN/84A12/2018/57
+Mizoram
+Lunglei
+ 
+Tleu Village (East 
+boundary/outskirts)
+23.205961
+92.538406
+Rock
+Slide
+2018
+21446
+MZ/CHA/84E08/2017/11
+Mizoram
+Champhai
+Vanchhia slide
+Vangchhia village
+23.206
+93.329028
+Rock
+Slide
+NA
+21447
+MZ/CHA/84E08/2017/5
+Mizoram
+Champhai
+ 
+Dungtllang  Leitum road
+23.207528
+93.258861
+Rock
+Fall
+NA
+21448
+MZ/CHA/84E08/2017/10
+Mizoram
+Champhai
+ 
+Dungtllang  Leitum road
+23.207889
+93.255917
+Rock
+Slide
+NA
+21449
+MZ/LUN/84A12/2018/29
+Mizoram
+Lunglei
+ 
+Buarpui-Kawlhawk Section (~8 
+km south of Buarpui)
+23.208017
+92.676277
+Rock
+Slide
+NA
+21450
+MZ/LUN/84A16/2018/56
+Mizoram
+Lunglei
+ 
+South of S. Zote Village towards 
+Chiphhir
+23.208055
+92.795555
+Debris
+Slide
+NA
+21451
+MZ/LUN/84A12/2018/53
+Mizoram
+Lunglei
+ 
+West of Tleu Village along Tleu-
+Bunghmun road Section
+23.208082
+92.507889
+Debris
+Slide
+NA
+21452
+MZ/CHA/84E08/2017/9
+Mizoram
+Champhai
+ 
+Dungtllang  Leitum road
+23.208139
+93.257389
+Debris
+Slide
+NA
+21453
+MZ/LUN/84A12/2018/54
+Mizoram
+Lunglei
+ 
+West of Tleu Village along Tleu-
+Bunghmun road Section
+23.208694
+92.50975
+Rock
+Slide
+NA
+21454
+MZ/LUN/84A12/2018/58
+Mizoram
+Lunglei
+ 
+East of Tleu Village
+23.20875
+92.538361
+Rock
+Slide
+NA
+21455
+MZ/LUN/84A12/2018/55
+Mizoram
+Lunglei
+ 
+West of Tleu Village along 
+Bunghmun-Tleu road Section
+23.208918
+92.518692
+Debris
+Slide
+2018
+21456
+MZ/LUN/84A12/2018/59
+Mizoram
+Lunglei
+ 
+Tleu-Thenhlum Section
+23.209055
+92.540611
+Rock
+Slide
+NA
+21457
+MZ/LUN/84A12/2018/56
+Mizoram
+Lunglei
+ 
+West of Tleu Quarry
+23.210028
+92.522781
+Rock
+Slide
+NA
+21458
+MZ/SER/84A16/2018/49
+Mizoram
+Serchhip
+ 
+SE of Keitum towards cultivated 
+area
+23.212713
+92.930771
+Debris
+Slide
+NA
+21459
+MZ/LUN/84A12/2018/69
+Mizoram
+Lunglei
+ 
+Thenhlum-South Dampui 
+Section
+23.213055
+92.58889
+Rock
+Slide
+NA
+21460
+MZ/SER/84A16/2018/26
+Mizoram
+Serchhip
+ 
+South of Keitum Village
+23.213892
+92.904892
+Rock
+Slide
+NA
+21461
+MZ/LUN/84A12/2018/70
+Mizoram
+Lunglei
+ 
+Thenhlum-South Dampui 
+Section
+23.214001
+92.588608
+Debris
+Slide
+NA
+21462
+MZ/CHA/84E08/2017/8
+Mizoram
+Champhai
+ 
+5 km towards Leithum from 
+Dungtlang
+23.21475
+93.261139
+Debris
+Slide
+NA
+21463
+MZ/SER/84A16/2018/47
+Mizoram
+Serchhip
+ 
+Tuichang river-Khawlailawng 
+Section
+23.21685
+92.955475
+Debris
+Slide
+NA
+21464
+MZ/SER/84A16/2018/46
+Mizoram
+Serchhip
+ 
+Tuichang river-Khawlailawng 
+Section
+23.217224
+92.949684
+Rock
+Slide
+2018
+21465
+MZ/LUN/84A12/2018/28
+Mizoram
+Lunglei
+ 
+Buarpui-Kawlhawk Section 
+(PMGSY road)
+23.219172
+92.67691
+Debris
+Slide
+NA
+21466
+MZ/SER/84A16/2018/48
+Mizoram
+Serchhip
+ 
+Piler Road Section
+23.221762
+92.975006
+Rock
+Slide
+NA
+21467
+MZ/SER/84A16/2018/41
+Mizoram
+Serchhip
+ 
+Tuichang river-Khawlailawng 
+Section (near Tuichang river)
+23.222652
+92.940269
+Rock
+Slide
+NA
+21468
+MZ/SER/84A16/2018/42
+Mizoram
+Serchhip
+ 
+Tuichang river-Khawlailawng 
+Section (near Tuichang river)
+23.222652
+92.940269
+Rock
+Slide
+NA

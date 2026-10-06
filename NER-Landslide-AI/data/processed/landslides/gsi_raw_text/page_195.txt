@@ -1,0 +1,485 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+8399
+HP/CHA/43P13/2017/53
+Himachal Pradesh
+Chamba
+ 
+ 
+32.919059
+75.877266
+Rock cum debris
+Slide
+NA
+8400
+HP/CHA/52D01/2020/77
+Himachal Pradesh
+Chamba
+ 
+Riwaru
+32.92
+76.08
+Debris
+Slide
+NA
+8401
+HP/CHA/43P13/2017/86
+Himachal Pradesh
+Chamba
+ 
+ 
+32.922642
+75.832825
+Debris
+Slide
+NA
+8402
+HP/CHA/43P13/2017/16
+Himachal Pradesh
+Chamba
+ 
+ 
+32.929304
+75.834047
+Rock cum debris
+Slide
+NA
+8403
+HP/CHA/52D01/2020/41
+Himachal Pradesh
+Chamba
+ 
+Shariala
+32.93
+76.14
+Debris
+Slide
+NA
+8404
+HP/CHA/52D01/2020/42
+Himachal Pradesh
+Chamba
+ 
+Kauli PF
+32.93
+76.14
+Debris
+Slide
+NA
+8405
+HP/CHA/52D01/2020/49
+Himachal Pradesh
+Chamba
+ 
+Chhitar
+32.93
+76.07
+Debris
+Slide
+NA
+8406
+HP/CHA/52D01/2020/50
+Himachal Pradesh
+Chamba
+ 
+Kotlu
+32.93
+76.07
+Debris
+Slide
+NA
+8407
+HP/CHA/52D01/2020/43
+Himachal Pradesh
+Chamba
+ 
+Ranikhot PF
+32.95
+76.19
+Rock
+Fall
+NA
+8408
+HP/CHA/52D01/2020/35
+Himachal Pradesh
+Chamba
+ 
+Kalaban PF
+32.96
+76.2
+Rock
+Slide
+NA
+8409
+HP/CHA/52D01/2020/53
+Himachal Pradesh
+Chamba
+ 
+Kalapan PF
+32.97
+76.21
+Debris
+Slide
+NA
+8410
+HP/CHA/52D01/2020/15
+Himachal Pradesh
+Chamba
+ 
+Kalapan P.F
+32.98
+76.22
+Rock
+Fall
+NA
+8411
+HP/CHA/52D01/2020/44
+Himachal Pradesh
+Chamba
+ 
+Kalapan PF
+32.98
+76.22
+Rock
+Slide
+NA
+8412
+HP/CHA/52D01/2020/16
+Himachal Pradesh
+Chamba
+ 
+Sach nala
+32.99
+76.22
+Rock
+Slide
+NA
+8413
+HP/CHA/52D01/2020/17
+Himachal Pradesh
+Chamba
+ 
+Satrundi
+32.99
+76.22
+Debris
+Slide
+NA
+8414
+HP/CHA/52D01/2020/28
+Himachal Pradesh
+Chamba
+ 
+near Satrundi Helipad
+32.99
+76.21
+Rock
+Fall
+NA
+8415
+HP/SIR/53F06/2017/06/_ Upd-
+2024-25-01
+Himachal Pradesh
+Sirmur
+Jangirug landslide
+NH-907A
+30.5859
+77.29668056
+Rock
+Slide
+2020
+8416
+HP/SIR/53F6/2024/02
+Himachal Pradesh
+Sirmur
+±1km North of Jangirug Landslide
+NH-907A
+30.59269167
+77.29814722
+Debris
+Slide
+2023
+8417
+HP/SIR/53F6/2024/03
+Himachal Pradesh
+Sirmur
+Shili Sanari landslide
+NH-907A
+30.60813889
+77.28898889
+Debris
+Slide
+2020
+8418
+HP/SIR/53F6/2024/04
+Himachal Pradesh
+Sirmur
+Dhirath Landsldie
+NH-907A
+30.63706111
+77.2588
+Debris
+Slide
+2023
+8419
+HP/SIR/53F6/2024/05
+Himachal Pradesh
+Sirmur
+Kuthar Landslide
+NH-907A
+30.81918056
+77.10163889
+Rock
+Slide/fall
+NA
+8420
+HP/SIR/53F6/2024/06
+Himachal Pradesh
+Solan
+Lohan Ji Landslide
+NH-907A
+30.88252778
+77.06023611
+Debris
+Slide
+NA
+8421
+HP/MAN/53E1/2024/02
+Himachal Pradesh
+Mandi
+Prashar Lake Landslide
+--
+31.75555556
+77.11
+Debris
+Slide
+2008 , 2023
+8422
+HP/SHI/53E04/2024/01
+Himachal Pradesh
+Shimla
+Boilouganj-Chaura Maidan Debris 
+Slide
+Near Indian Institute of 
+Advanced Studies (IIAS)
+31.10223889
+77.14373611
+Debris
+Slide
+19 August 2024 (Evening)
+8423
+HP/L&S/52H2/2024/01
+Himachal Pradesh
+Lahaul & Spiti
+Piukar Village Ground Cracks
+--
+32.55777778
+77.07527778
+Debris
+Ground Cracks
+2024 
+8424
+HP/MAN/53A13/2024/01
+Himachal Pradesh
+Mandi
+Kas landslide
+--
+31.9396
+76.84066667
+Debris
+Slide
+2023
+8425
+HP/MAN/53A/13/2017/27_Upd
+24-25(180824)
+Himachal Pradesh
+Mandi
+Harabagh  Landslide  (In  proximity  to  
+Awair  Village,  Near  Harabagh, Gram  
+Panchayat   Hargunain),   Sub-division   
+Jogindernagar,   District
+Mandi, Himachal Pradesh.
+Pathankot-Jogindernagar-
+Mandi NH-154
+31.99208056
+76.819125
+Debris
+Slide/Subsidenc
+e/Creep
+2010
+8426
+HP/SHIMLA/53E/04/2025/02
+Himachal Pradesh
+Shimla
+Benmore, Shimla 02
+-
+31.966644
+77.116205
+Debris
+Slide
+17 August 2025
+8427
+HP/SHIMLA/53E/04/2025/01
+Himachal Pradesh
+Shimla
+Krishna Nagar, Shimla 01
+-
+31.102046
+77.172914
+Debris
+Slump
+27,28 August 2025
+8428
+HP/KULLU/53E/01/2025/01
+Himachal Pradesh
+Kullu
+Akhara bazar slide 01
+-
+31.96693889
+77.11688056
+Debris
+Slide
+03 September 2025
+8429
+HP/KULLU/53E/01/2025/02
+Himachal Pradesh
+Kullu
+Akhara bazar slide 02
+-
+31.96662778
+77.11621111
+Debris
+Slide
+04 September 2025, 06.20 am
+8430
+HP/SOLAN/53F/01/2025/01
+Himachal Pradesh
+Solan
+Badog debris slide
+Link road (Johar ji to Malah)
+30.773496
+77.033228
+Debris
+Slide
+20,21 July2023
+8431
+HP/SOLAN/53F/01/2025/02
+Himachal Pradesh
+Solan
+Tadol subsidence
+Link road
+30.853851
+77.051418
+Debris
+Subsidence
+July, 2023
+8432
+HP/SOLAN/53B/13/2025/03
+Himachal Pradesh
+Solan
+Banoi debris flow & Subsidence
+Link road
+30.90009
+76.930137
+Debris
+Flow/Subsidenc
+e
+17 August 2023
+8433
+HP/SOLAN/53B/13/2025/04
+Himachal Pradesh
+Solan
+Thandu subsidence
+-
+30.904596
+76.926817
+Debris
+Subsidence
+22 August, 2023
+8434
+HP/SOLAN/53F/1/2025/05
+Himachal Pradesh
+Solan
+Suji Charanja subsidence
+-
+30.886995
+77.00456
+Debris
+Subsidence
+08,09 July 2023
+8435
+HP/SOLAN/53F/1/2025/06
+Himachal Pradesh
+Solan
+Maghoti subsidence
+-
+30.889555
+77.000326
+Debris
+Subsidence
+September, 2019
+8436
+HP/SOLAN/53F/1/2025/07
+Himachal Pradesh
+Solan
+Khoti Khas debris slide
+NH-5
+30.854624
+77.001843
+Debris
+Slide
+09,10 July 2023
+8437
+HP/SOLAN/53B/13/2025/08
+Himachal Pradesh
+Solan
+Aarala Subsidence
+-
+30.964006
+76.984701
+Debris
+Subsidence
+09,10 July 2023
+8438
+HP/SOLAN/53B/13/2025/09
+Himachal Pradesh
+Solan
+Chyali Jhajhatti Subsidence
+-
+30.981344
+76.977305
+Debris
+Subsidence
+13 August 2023
+8439
+HP/SOLAN/53B/13/2025/10
+Himachal Pradesh
+Solan
+Chyali Nali Subsidence
+-
+30.976711
+76.978138
+Debris
+Subsidence
+1997, 2023
+8440
+HP/SOLAN/53B/13/2025/11
+Himachal Pradesh
+Solan
+Khalatu (falls under debris flow path)
+-
+30.972278
+76.985903
+Debris
+Flow
+August, 2023

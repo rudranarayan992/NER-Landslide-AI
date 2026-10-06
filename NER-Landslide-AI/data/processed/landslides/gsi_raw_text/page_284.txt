@@ -1,0 +1,474 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12215
+KA/UTT/48J16/2018/65
+Karnataka
+Uttar Kannada
+0.7Km NNW of Linganamakki colony
+Jog-Kargal road
+14.17545
+74.815561
+Soil
+Slide
+NA
+12216
+KA/UTT/48J16/2018/58
+Karnataka
+Uttar Kannada
+Iragi
+Kargal-Mallakki road
+14.194444
+74.801667
+Soil
+Slide
+NA
+12217
+KA/UTT/48J12/2018/08
+Karnataka
+Uttar Kannada
+AdUTTal
+Chittar -AdUTTal interlink road
+14.195433
+74.52785
+Soil
+Slide
+NA
+12218
+KA/UTT/48J16/2018/64
+Karnataka
+Uttar Kannada
+Honnegodu
+Korkodu-Kontota link road
+14.206275
+74.845044
+Soil
+Slide
+NA
+12219
+KA/UTT/48J16/2018/62
+Karnataka
+Uttar Kannada
+Korkodu
+Korkodu-Kontota link road
+14.206808
+74.841672
+Debris
+Slide
+NA
+12220
+KA/UTT/48J16/2018/63
+Karnataka
+Uttar Kannada
+Korkodu
+Korkodu-Kontota link road
+14.206872
+74.841175
+Soil
+Slide
+NA
+12221
+KA/UTT/48J16/2018/59
+Karnataka
+Uttar Kannada
+Kantota
+Korkodu-Kontota link road
+14.210531
+74.839356
+Soil
+Slide
+NA
+12222
+KA/UTT/48J16/2018/69
+Karnataka
+Uttar Kannada
+Kalgar
+Talguppa-Kalgar interlink road
+14.217167
+74.859472
+Debris
+Slide
+NA
+12223
+KA/UTT/48J12/2018/06
+Karnataka
+Uttar Kannada
+Hinnur 1
+Balkur-Magod interlink road
+14.218883
+74.542164
+Soil
+Slide
+NA
+12224
+KA/UTT/48J12/2018/05
+Karnataka
+Uttar Kannada
+Hinnur
+Balkur-Magod interlink road
+14.219406
+74.537361
+Soil
+Slide
+NA
+12225
+KA/UTT/48J16/2018/61
+Karnataka
+Uttar Kannada
+Padambail 1
+Korkodu-Kontota link road
+14.219411
+74.830753
+Soil
+Slide
+NA
+12226
+KA/UTT/48J16/2018/60
+Karnataka
+Uttar Kannada
+Padambail
+Korkodu-Kontota link road
+14.219694
+74.833539
+Soil
+Slide
+NA
+12227
+KA/UTT/48J12/2018/13
+Karnataka
+Uttar Kannada
+Magod 1
+Nagarbastikere road
+14.221556
+74.589669
+Debris
+Slide
+NA
+12228
+KA/UTT/48J12/2018/14
+Karnataka
+Uttar Kannada
+Magod 2
+Nagarbastikere road
+14.222208
+74.590919
+Soil
+Slide
+NA
+12229
+KA/UTT/48J12/2018/12
+Karnataka
+Uttar Kannada
+Magod
+Nagarbastikere road
+14.222972
+74.586583
+Soil
+Slide
+NA
+12230
+KA/UTT/48J12/2018/17
+Karnataka
+Uttar Kannada
+Nagarbastikere
+NULL
+14.223481
+74.662131
+Soil
+Slide
+NA
+12231
+KA/UK/48J08/2015/224
+Karnataka
+Uttar Kannada
+ 
+Melin Idgunji
+14.225842
+74.495886
+Debris
+Slide
+NA
+12232
+KA/UTT/48J12/2018/04
+Karnataka
+Uttar Kannada
+Devar Gazni
+Balkur-Benkull interlink road
+14.226167
+74.531
+Soil
+Slide
+NA
+12233
+KA/UTT/48J12/2018/01
+Karnataka
+Uttar Kannada
+Gazni
+Balkur-Benkull interlink road
+14.226761
+74.528025
+Soil
+Slide
+NA
+12234
+KA/UTT/48J12/2018/02
+Karnataka
+Uttar Kannada
+Gazni 1
+Balkur-Benkull interlink road
+14.226983
+74.528033
+Soil
+Slide
+NA
+12235
+KA/UTT/48J12/2018/15
+Karnataka
+Uttar Kannada
+Kachodi
+Nagarbastikere road
+14.228011
+74.596661
+Soil
+Slide
+NA
+12236
+KA/UTT/48J16/2018/57
+Karnataka
+Uttar Kannada
+0.6KM SE of jog falls 2
+Jog -kargal road
+14.228333
+74.814633
+Soil
+Slide
+NA
+12237
+KA/UTT/48J16/2018/56
+Karnataka
+Uttar Kannada
+0.6KM SE of jog falls 1
+Jog -kargal road
+14.228697
+74.815714
+Soil
+Slide
+NA
+12238
+KA/UTT/48J16/2018/55
+Karnataka
+Uttar Kannada
+0.6KM SE of jog falls
+Jog -kargal road
+14.229125
+74.816253
+Soil
+Slide
+NA
+12239
+KA/UTT/48J12/2018/30
+Karnataka
+Uttar Kannada
+ChaturmUTTha Basti 1
+NULL
+14.2295
+74.668589
+Debris
+Slide
+NA
+12240
+KA/UTT/48J12/2018/29
+Karnataka
+Uttar Kannada
+ChaturmUTTha Basti
+NULL
+14.229553
+74.669067
+Debris
+Slide
+NA
+12241
+KA/UTT/48J12/2018/16
+Karnataka
+Uttar Kannada
+Samsi
+Nagarbastikere road
+14.229953
+74.609153
+Soil
+Slide
+NA
+12242
+KA/UK/48J08/2015/230
+Karnataka
+Uttar Kannada
+ 
+Apsarkonda
+14.230039
+74.448117
+Rock
+Slide
+NA
+12243
+KA/UTT/48J12/2018/03
+Karnataka
+Uttar Kannada
+Gazni 2
+Balkur-Benkull interlink road
+14.230194
+74.527528
+Soil
+Slide
+NA
+12244
+KA/UTT/48J12/2018/28
+Karnataka
+Uttar Kannada
+Heggargadde
+NULL
+14.230747
+74.671167
+Debris
+Slide
+NA
+12245
+KA/UTT/48J12/2018/07
+Karnataka
+Uttar Kannada
+Masabag
+Balkur-Magod interlink road
+14.231456
+74.567189
+Soil
+Slide
+NA
+12246
+KA/UTT/48J16/2018/68
+Karnataka
+Uttar Kannada
+Jogin Math
+NH-206
+14.231603
+74.828039
+Soil
+Slide
+NA
+12247
+KA/UK/48J08/2015/220
+Karnataka
+Uttar Kannada
+ 
+NH-17
+14.231622
+74.461761
+Debris
+Slide
+NA
+12248
+KA/UTT/48J12/2018/31
+Karnataka
+Uttar Kannada
+Jog fall PWD
+NULL
+14.231828
+74.811747
+Soil
+Slide
+NA
+12249
+KA/UTT/48J16/2018/54
+Karnataka
+Uttar Kannada
+0.3Km NE of Jog falls
+NH-206
+14.232933
+74.813011
+Debris
+Slide
+NA
+12250
+KA/UTT/48J16/2018/53
+Karnataka
+Uttar Kannada
+0.3Kog falls
+NH-206
+14.234739
+74.812519
+Debris
+Slide
+NA
+12251
+KA/UTT/48J16/2018/52
+Karnataka
+Uttar Kannada
+0.4Km N of Jog falls
+NH-206
+14.235144
+74.812119
+Debris
+Slide
+NA
+12252
+KA/UK/48J08/2015/223
+Karnataka
+Uttar Kannada
+ 
+Melin Idgunji
+14.236508
+74.495106
+Debris
+Slide
+NA
+12253
+KA/UK/48J08/2015/229
+Karnataka
+Uttar Kannada
+ 
+Apsarkonda
+14.236778
+74.446892
+Debris
+Slide
+NA
+12254
+KA/UK/48J08/2015/228
+Karnataka
+Uttar Kannada
+ 
+Apsarkonda
+14.237869
+74.447461
+Debris
+Slide
+NA
+12255
+KA/UTT/48J12/2018/22
+Karnataka
+Uttar Kannada
+Upponi 1
+NH-206
+14.237903
+74.596992
+Soil
+Slide
+NA
+12256
+KA/UK/48J08/2015/227
+Karnataka
+Uttar Kannada
+ 
+Apsarkonda
+14.238231
+74.447914
+Debris
+Slide
+NA

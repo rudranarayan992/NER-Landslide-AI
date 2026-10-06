@@ -1,0 +1,346 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12153
+KA/SHI/48O01/2020/72
+Karnataka
+Shimoga
+Karugdu-1
+Karugdu-1
+13.96
+75.26
+Debris
+Slide
+2020
+12154
+KA/SHI/48O01/2020/85
+Karnataka
+Shimoga
+Kalikapur
+Kalikapur
+13.96
+75.07
+Debris
+Slide
+2020
+12155
+KA/SHI/48O01/2020/55
+Karnataka
+Shimoga
+Chitrahalli
+Chitrahalli
+13.97
+75.15
+Earth
+Slide
+2020
+12156
+KA/SHI/48O01/2020/57
+Karnataka
+Shimoga
+Chitrahalli-1
+Chitrahalli-1
+13.97
+75.15
+Earth
+Slide
+2020
+12157
+KA/SHI/48K13/2020/99
+Karnataka
+Shimoga
+Vill. Kirkodi
+Vill. Kirkodi
+13.98
+74.89
+Earth
+Slide
+NA
+12158
+KA/DAK/48K09/2020/5
+Karnataka
+Dakshin Kannad
+Halgeri
+4km SE of Kattinakaru
+13.98
+74.72
+Earth
+Slide
+2018
+12159
+KA/SHI/48O01/2020/58
+Karnataka
+Shimoga
+Chitrahalli-2
+Chitrahalli-2
+13.98
+75.14
+Debris
+Slide
+2020
+12160
+KA/SHI/48O01/2020/80
+Karnataka
+Shimoga
+Kankalale
+Kankalale
+13.98
+75.09
+Debris
+Slide
+2006
+12161
+KA/SHI/48O01/2020/81
+Karnataka
+Shimoga
+Manninakoppa
+Manninakoppa
+13.98
+75.06
+Debris
+Slide
+2018
+12162
+KA/SHI/48O01/2020/83
+Karnataka
+Shimoga
+Jamballi
+Jamballi
+13.98
+75.05
+Debris
+Slide
+2020
+12163
+KA/SHI/48K13/2020/103
+Karnataka
+Shimoga
+Vill. Kattinkal
+Vill. Kattinkal
+13.99
+74.81
+Earth
+Slide
+NA
+12164
+KA/SHI/48O01/2020/79
+Karnataka
+Shimoga
+Kachigebail
+Kachigebail
+13.99
+75.11
+Debris
+Slide
+2020
+12165
+KA/SHI/48O01/2020/82
+Karnataka
+Shimoga
+Patagoppa
+Patagoppa
+13.99
+75.03
+Debris
+Slide
+2020
+12166
+KA/DAK/48K14/2020/11
+Karnataka
+Dakshin Kannad
+Hulikal Ghat road
+SH-52
+14
+74.61
+Earth
+Slide
+NA
+12167
+KA/UTT/48J16/2018/72
+Karnataka
+Uttar Kannada
+Bramanakeppige 1
+Tumari-Bramanakeppige 
+interlink road
+14.001139
+74.876667
+Soil
+Slide
+NA
+12168
+KA/UTT/48J16/2018/71
+Karnataka
+Uttar Kannada
+Bramanakeppige
+Tumari-Bramanakeppige 
+interlink road
+14.002844
+74.874947
+Soil
+Slide
+NA
+12169
+KA/UTT/48J16/2018/39
+Karnataka
+Uttar Kannada
+1Km SW of Arodi
+Bakkod-Banakuli interlink road
+14.00485
+74.811661
+Soil
+Slide
+NA
+12170
+KA/UTT/48J16/2018/40
+Karnataka
+Uttar Kannada
+Arodi
+Bakkod-Tumari interlink road
+14.007997
+74.818453
+Debris
+Slide
+NA
+12171
+KA/UTT/48J16/2018/36
+Karnataka
+Uttar Kannada
+Hunagallu
+Bakkod-Banakuli interlink road
+14.009181
+74.788264
+Soil
+Slide
+NA
+12172
+KA/UTT/48J16/2018/41
+Karnataka
+Uttar Kannada
+Belamakki
+Bakkod-Tumari interlink road
+14.010264
+74.816386
+Soil
+Slide
+NA
+12173
+KA/UTT/48J16/2018/74
+Karnataka
+Uttar Kannada
+Honnagodu 1
+Tumari-Honnagodu interlink 
+road
+14.012589
+74.866664
+Debris
+Slide
+NA
+12174
+KA/UTT/48J16/2018/73
+Karnataka
+Uttar Kannada
+Honnagodu
+Tumari-Honnagodu interlink 
+road
+14.013264
+74.869131
+Soil
+Slide
+NA
+12175
+KA/UTT/48J16/2018/44
+Karnataka
+Uttar Kannada
+0.5Km E of Kudarur
+Bakkod-Tumari interlink road
+14.014731
+74.833011
+Soil
+Slide
+NA
+12176
+KA/UTT/48J16/2018/42
+Karnataka
+Uttar Kannada
+1Km NE of Kudarur
+Bakkod-Tumari interlink road
+14.020047
+74.835033
+Debris
+Slide
+NA
+12177
+KA/UTT/48J16/2018/70
+Karnataka
+Uttar Kannada
+1Km NE of Basti
+Tumari-Bakkod inter link road
+14.023328
+74.853125
+Debris
+Slide
+NA
+12178
+KA/UTT/48J16/2018/43
+Karnataka
+Uttar Kannada
+Kunchi
+Bakkod-Kunchi interlink road
+14.023847
+74.830247
+Debris
+Slide
+NA
+12179
+KA/UTT/48J16/2018/37
+Karnataka
+Uttar Kannada
+Kadakunda
+Bakkod-Kadakunda interlink 
+road
+14.028472
+74.776253
+Debris
+Slide
+NA
+12180
+KA/UTT/48J12/2018/26
+Karnataka
+Uttar Kannada
+Hirebail
+Kokaru-Chingodu interlink road 14.031128
+74.713639
+Soil
+Slide
+NA
+12181
+KA/UTT/48J16/2018/38
+Karnataka
+Uttar Kannada
+Muchavalli
+Bakkod-Banakuli interlink road
+14.036331
+74.795128
+Soil
+Slide
+NA
+12182
+KA/UTT/48J16/2018/45
+Karnataka
+Uttar Kannada
+Kolegodu
+Bakkod-Banakuli interlink road
+14.049619
+74.802394
+Soil
+Slide
+NA

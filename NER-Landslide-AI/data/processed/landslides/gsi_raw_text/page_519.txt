@@ -1,0 +1,399 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20941
+MZ/LAW/84B14/2018/49
+Mizoram
+Lawngtlai
+ 
+Lawngtlai to Ngengpuikai Road
+22.538
+92.857002
+Rock
+Fall
+NA
+20942
+MZ/LAW/84B10/2020/11
+Mizoram
+Lawngtlai
+Mualbu L to Chawngtelui road slide 1
+Mualbu L to Chawngtelui road
+22.54
+92.69
+Debris
+Slide
+2019
+20943
+MZ/LAW/84B10/2020/20
+Mizoram
+Lawngtlai
+Mualbu to Diltlang S road slide
+Mualbu to Diltlang S road
+22.54
+92.68
+Debris
+Slide
+2019
+20944
+MZ/LAW/84B10/2020/44
+Mizoram
+Lawngtlai
+India Bangladesh Fencing road slide 8
+India Bangladesh Fencing road
+22.55
+92.54
+Debris
+Slide
+NA
+20945
+MZ/LAW/84B14/2018/15
+Mizoram
+Lawngtlai
+ 
+5 km North of Lawngtlai on NH 
+54
+22.552301
+92.883888
+Rock
+Slide
+NA
+20946
+MZ/LAW/84B10/2020/26
+Mizoram
+Lawngtlai
+Mualbu L slide 1
+Mualbu L
+22.56
+92.67
+Rock
+Slide
+2019
+20947
+MZ/LAW/84B10/2020/27
+Mizoram
+Lawngtlai
+Mualbu L slide 2
+Mualbu L
+22.56
+92.67
+Rock
+Slide
+2017
+20948
+MZ/LAW/84B14/2018/16
+Mizoram
+Lawngtlai
+ 
+N of Thingkah  
+22.561611
+92.877502
+Debris
+Slide
+NA
+20949
+MZ/LAW/84B14/2018/17
+Mizoram
+Lawngtlai
+ 
+North of Thingkah along NH 54
+22.568556
+92.87944
+Debris
+Slide
+NA
+20950
+MZ/LAW/84B10/2020/19
+Mizoram
+Lawngtlai
+Mualbu slide
+Outside Mualbu
+22.57
+92.68
+Rock
+Slide
+NA
+20951
+MZ/LAW/84B14/2018/18
+Mizoram
+Lawngtlai
+ 
+Bifuraction to 3rd IR Battalion 
+Camp, Thingkah
+22.573833
+92.917519
+Rock
+Fall
+NA
+20952
+MZ/LAW/84B14/2018/19
+Mizoram
+Lawngtlai
+ 
+30m north of Ls 14
+22.574112
+92.873337
+Debris
+Slide
+NA
+20953
+MZ/LAW/84B14/2018/37
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.577
+92.892998
+Debris
+Slide
+NA
+20954
+MZ/LAW/84B14/2018/20
+Mizoram
+Lawngtlai
+ 
+NH 54 
+22.577583
+92.870277
+Debris
+Slide
+NA
+20955
+MZ/LAW/84B14/2018/21
+Mizoram
+Lawngtlai
+ 
+NH 54 
+22.579611
+92.870552
+Debris
+Slide
+NA
+20956
+MZ/LAW/84B14/2018/22
+Mizoram
+Lawngtlai
+ 
+NH 54 
+22.586
+92.870003
+Rock
+Fall
+NA
+20957
+MZ/LAW/84B14/2019/6
+Mizoram
+Lawngtlai
+ 
+Rawmibawk to Phalhrang
+22.5886
+92.970001
+Rock
+Slide
+NA
+20958
+MZ/LAW/84B14/2019/5
+Mizoram
+Lawngtlai
+ 
+West of Rawmibawk village
+22.591
+92.917
+Rock
+Fall
+NA
+20959
+MZ/LAW/84B10/2020/10
+Mizoram
+Lawngtlai
+Chawngte P to Hmunlai road slide 5
+Chawngte P to Hmunlai road
+22.6
+92.67
+Rock
+Slide
+2017
+20960
+MZ/LAW/84B10/2020/4
+Mizoram
+Lawngtlai
+Chawngte P slide 1
+Outside Chawngte P
+22.61
+92.66
+Debris
+Slide
+2019
+20961
+MZ/LAW/84B10/2020/5
+Mizoram
+Lawngtlai
+Chawngte P slide 2
+Outside Chawngte P
+22.61
+92.66
+Debris
+Slide
+2018
+20962
+MZ/LAW/84B10/2020/6
+Mizoram
+Lawngtlai
+Chawngte P to Hmunlai road slide 1
+Chawngte P to Hmunlai road
+22.61
+92.66
+Debris
+Slide
+2018
+20963
+MZ/LAW/84B10/2020/7
+Mizoram
+Lawngtlai
+Chawngte P to Hmunlai road slide 2
+Chawngte P to Hmunlai road
+22.61
+92.67
+Debris
+Slide
+2018
+20964
+MZ/LAW/84B10/2020/8
+Mizoram
+Lawngtlai
+Chawngte P to Hmunlai road slide 3
+Chawngte P to Hmunlai road
+22.61
+92.67
+Debris
+Slide
+2019
+20965
+MZ/LAW/84B10/2020/9
+Mizoram
+Lawngtlai
+Chawngte P to Hmunlai road slide 4
+Chawngte P to Hmunlai road
+22.61
+92.67
+Debris
+Slide
+2017
+20966
+MZ/LAW/84B10/2020/18
+Mizoram
+Lawngtlai
+Kamlanagar IV slide
+Kamlanagar IV
+22.61
+92.64
+Debris
+Slide
+2019
+20967
+MZ/LAW/84B10/2020/42
+Mizoram
+Lawngtlai
+India Bangladesh Fencing road slide 6
+India Bangladesh Fencing road
+22.61
+92.54
+Debris
+Slide
+NA
+20968
+MZ/LAW/84B10/2020/43
+Mizoram
+Lawngtlai
+India Bangladesh Fencing road slide 7
+India Bangladesh Fencing road
+22.61
+92.54
+Debris
+Slide
+NA
+20969
+MZ/LAW/84B14/2018/11
+Mizoram
+Lawngtlai
+ 
+Fungkah
+22.615
+92.916
+Debris
+Slide
+NA
+20970
+MZ/LAW/84B14/2018/12
+Mizoram
+Lawngtlai
+ 
+Fungkah
+22.615999
+92.913002
+Debris
+Slide
+NA
+20971
+MZ/LAW/84B10/2020/17
+Mizoram
+Lawngtlai
+Kamlanagar III slide
+Kamlanagar III
+22.62
+92.64
+Debris
+Slide
+NA
+20972
+MZ/LAW/84B10/2020/24
+Mizoram
+Lawngtlai
+Boganpara slide 1
+Boganpara
+22.63
+92.64
+Debris
+Slide
+NA
+20973
+MZ/LAW/84B10/2020/25
+Mizoram
+Lawngtlai
+Boganpara slide 2
+Boganpara
+22.63
+92.64
+Debris
+Slide
+NA
+20974
+MZ/LUN/84B10/2020/46
+Mizoram
+Lunglei
+Chawngte P slide 3
+Outside Chawngte P
+22.63
+92.66
+Debris
+Slide
+2019
+20975
+MZ/LUN/84B10/2020/47
+Mizoram
+Lunglei
+Chawngte P slide 4
+Outside Chawngte P
+22.63
+92.66
+Debris
+Slide
+2019

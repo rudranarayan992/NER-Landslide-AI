@@ -1,0 +1,455 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27429
+TN/NIL/58A12/2015-16/225
+Tamil Nadu
+Nilgiri
+ 
+Thiashola Tea Estate
+11.217222
+76.608889
+Debris
+Subsidence
+NA
+27430
+TN/NIL/58A12/2015-16/224
+Tamil Nadu
+Nilgiri
+ 
+Thiashola Tea Estate
+11.218889
+76.610278
+Earth
+Slide
+NA
+27431
+TN/NIL/58A12/2015-16/228
+Tamil Nadu
+Nilgiri
+ 
+Todukkodal Malai,  Korakundah 11.219444
+76.596667
+Debris
+Slide
+NA
+27432
+TN/NIL/58A12/2015-16/222
+Tamil Nadu
+Nilgiri
+ 
+Thiashola Tea Estate
+11.228333
+76.615278
+Earth
+Slide
+NA
+27433
+TN/NIL/58A15/2015-16/259
+Tamil Nadu
+Nilgiri
+ 
+Uliattu Coffee Estate
+11.229167
+76.635556
+Debris
+Slide
+NA
+27434
+TN/NIL/58A12/2015-16/229
+Tamil Nadu
+Nilgiri
+ 
+Melkundah to Konnakorai
+11.229444
+76.619444
+Debris
+Slide
+NA
+27435
+TN/NIL/58A15/2015-16/258
+Tamil Nadu
+Nilgiri
+ 
+Uliattu Coffee Estate
+11.229722
+76.634722
+Debris
+Slide
+NA
+27436
+TN/NIL/58A12/2015-16/221
+Tamil Nadu
+Nilgiri
+ 
+Thiashola Tea Estate
+11.23
+76.620278
+Earth
+Slide
+NA
+27437
+TN/NIL/58A12/2015-16/223
+Tamil Nadu
+Nilgiri
+ 
+Thiashola Tea Estate
+11.232778
+76.613889
+Debris
+Slide
+NA
+27438
+TN/NIL/58A12/2015-16/220
+Tamil Nadu
+Nilgiri
+ 
+Melkunda to Kaishola Tea 
+Estate
+11.233611
+76.625278
+Earth
+Slide
+NA
+27439
+TN/NIL/58A15/2015-16/243
+Tamil Nadu
+Nilgiri
+ 
+Near Geddai village
+11.248333
+76.664167
+Earth
+Slide
+NA
+27440
+TN/NIL/58A15/2015-16/242
+Tamil Nadu
+Nilgiri
+ 
+North of Geddai
+11.249167
+76.663889
+Earth
+Slide
+NA
+27441
+TN/NIL/58A15/2015-16/241
+Tamil Nadu
+Nilgiri
+ 
+North of Geddai
+11.25
+76.665278
+Debris
+Slide
+NA
+27442
+TN/NIL/58A11/2015-16/152
+Tamil Nadu
+Nilgiri
+ 
+Avalanche
+11.251667
+76.691111
+Debris
+Slide
+NA
+27443
+TN/NIL/58A11/2015-16/145
+Tamil Nadu
+Nilgiri
+ 
+Cheranur village
+11.251944
+76.626944
+Debris
+Subsidence
+NA
+27444
+TN/NIL/58A11/2015-16/144
+Tamil Nadu
+Nilgiri
+ 
+Cheranur village
+11.253333
+76.626111
+Debris
+Slide
+NA
+27445
+TN/NIL/58A11/2015-16/146
+Tamil Nadu
+Nilgiri
+ 
+Doddakambo village
+11.254444
+76.626667
+Earth
+Slide
+NA
+27446
+TN/NIL/58A11/2015-16/150
+Tamil Nadu
+Nilgiri
+ 
+Nariadu Betta hill, Avalanche
+11.254444
+76.626667
+Debris
+Slide
+NA
+27447
+TN/NIL/58A11/2015-16/147
+Tamil Nadu
+Nilgiri
+ 
+Cheranur village
+11.254722
+76.6275
+Earth
+Slide
+NA
+27448
+TN/NIL/58A11/2015-16/143
+Tamil Nadu
+Nilgiri
+ 
+Devashola village
+11.255278
+76.628611
+Earth
+Slide
+NA
+27449
+TN/NIL/58A11/2015-16/142
+Tamil Nadu
+Nilgiri
+ 
+Mullimalai village
+11.256389
+76.631389
+Debris
+Slide
+NA
+27450
+TN/NIL/58A11/2015-16/148
+Tamil Nadu
+Nilgiri
+ 
+Doddakambo village
+11.258333
+76.619444
+Debris
+Slide
+NA
+27451
+TN/NIL/58A11/2015-16/154
+Tamil Nadu
+Nilgiri
+ 
+Avalanche, towards Devar Betta 11.258611
+76.574444
+Debris
+Slide
+NA
+27452
+TN/NIL/58A11/2015-16/92
+Tamil Nadu
+Nilgiri
+ 
+Mulligur village
+11.276111
+76.621111
+Debris
+Slide
+NA
+27453
+TN/NIL/58A11/2015-16/105
+Tamil Nadu
+Nilgiri
+ 
+Kundapalem to Bengal Mattam
+11.280556
+76.651111
+Debris
+Slide
+NA
+27454
+TN/NIL/58A11/2015-16/107
+Tamil Nadu
+Nilgiri
+ 
+Kundapalem to Bengal Mattam
+11.280833
+76.656667
+Rock
+Slide
+NA
+27455
+TN/NIL/58A11/2015-16/108
+Tamil Nadu
+Nilgiri
+ 
+Kundapalem to Bengal Mattam, 
+HPB no. 6/9
+11.281389
+76.658611
+Earth
+Slide
+NA
+27456
+TN/NIL/58A11/2015-16/106
+Tamil Nadu
+Nilgiri
+ 
+Kunda power house
+11.283333
+76.65
+Debris
+Slide
+NA
+27457
+TN/NIL/58A11/2015-16/151
+Tamil Nadu
+Nilgiri
+ 
+Nariadu Betta hill, Avalanche
+11.284722
+76.579167
+Debris
+Slide
+NA
+27458
+TN/NIL/58A11/2015-16/153
+Tamil Nadu
+Nilgiri
+ 
+Avalanche,  towards Devar 
+Betta
+11.285
+76.575556
+Debris
+Slide
+NA
+27459
+TN/NIL/58A11/2015-16/124
+Tamil Nadu
+Nilgiri
+ 
+Manjakambe to Melur road
+11.286111
+76.690278
+Debris
+Slide
+NA
+27460
+TN/NIL/58A11/2015-16/155
+Tamil Nadu
+Nilgiri
+ 
+Nariadu Betta, Avalanche
+11.288056
+76.585278
+Debris
+Slide
+NA
+27461
+TN/NIL/58A11/2015-16/109
+Tamil Nadu
+Nilgiri
+ 
+Kundapalam to Bengal Mattam, 
+HPB no. 4 25/4
+11.288333
+76.668333
+Debris
+Slide
+NA
+27462
+TN/NIL/58A11/2015-16/156
+Tamil Nadu
+Nilgiri
+ 
+Avalanche
+11.288889
+76.578611
+Earth
+Slide
+NA
+27463
+TN/NIL/58A11/2015-16/104
+Tamil Nadu
+Nilgiri
+ 
+Yedakad to Bengal Mattam, 
+HPB no:13/34
+11.289722
+76.646667
+Debris
+Slide
+NA
+27464
+TN/NIL/58A11/2015-16/158
+Tamil Nadu
+Nilgiri
+ 
+Kudiakadu Betta, Avalanche
+11.291667
+76.575
+Debris
+Slide
+NA
+27465
+TN/NIL/58A11/2015-16/157
+Tamil Nadu
+Nilgiri
+ 
+Avalanche
+11.292778
+76.581667
+Debris
+Slide
+NA
+27466
+TN/NIL/58A11/2015-16/110
+Tamil Nadu
+Nilgiri
+ 
+Kothi Ben village C.No: 24/2
+11.293611
+76.679722
+Earth
+Slide
+NA
+27467
+TN/NIL/58A11/2015-16/115
+Tamil Nadu
+Nilgiri
+ 
+Near Katteri Dam
+11.293611
+76.679722
+Earth
+Slide
+NA
+27468
+TN/NIL/58A11/2015-16/159
+Tamil Nadu
+Nilgiri
+ 
+Avalanche check post
+11.295833
+76.595833
+Debris
+Slide
+NA

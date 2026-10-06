@@ -1,0 +1,555 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+8098
+HP/CHA/52D06/2020/21
+Himachal Pradesh
+Chamba
+ 
+Near Sara village
+32.61
+76.27
+Rock
+Slide
+NA
+8099
+HP/CHA/52D06/2020/33
+Himachal Pradesh
+Chamba
+ 
+Kurtha village
+32.61
+76.26
+Rock
+Slide
+NA
+8100
+HP/CHA/43P14/2017/9
+Himachal Pradesh
+Chamba
+ 
+ 
+32.612064
+75.944035
+Debris
+Slide
+NA
+8101
+HP/CHA/52D02/2020/2
+Himachal Pradesh
+Chamba
+ 
+Taru
+32.62
+76
+Debris
+Slide
+NA
+8102
+HP/CHA/52D02/2020/13
+Himachal Pradesh
+Chamba
+ 
+Taru
+32.62
+76
+Rock
+Slide
+NA
+8103
+HP/CHA/52D02/2020/23
+Himachal Pradesh
+Chamba
+ 
+Taru
+32.62
+76
+Debris
+Slide
+NA
+8104
+HP/CHA/52D02/2020/24
+Himachal Pradesh
+Chamba
+ 
+North of Taru
+32.62
+76
+Rock
+Slide
+NA
+8105
+HP/CHA/52D02/2020/32
+Himachal Pradesh
+Chamba
+ 
+Taru
+32.62
+76
+Debris
+Slide
+NA
+8106
+HP/CHA/52D02/2020/33
+Himachal Pradesh
+Chamba
+ 
+Taru
+32.62
+76
+Rock
+Slide
+NA
+8107
+HP/CHA/52D02/2020/61
+Himachal Pradesh
+Chamba
+ 
+North of Taru
+32.62
+76
+Rock
+Slide
+NA
+8108
+HP/CHA/52D02/2020/62
+Himachal Pradesh
+Chamba
+ 
+Bairoh
+32.62
+76.18
+Debris
+Slide
+NA
+8109
+HP/CHA/52D02/2020/67
+Himachal Pradesh
+Chamba
+ 
+Bairoh
+32.62
+76.18
+Debris
+Slide
+NA
+8110
+HP/CHA/52D02/2020/109
+Himachal Pradesh
+Chamba
+ 
+Thari
+32.62
+76.05
+Rock
+Slide
+NA
+8111
+HP/CHA/52D06/2020/1
+Himachal Pradesh
+Chamba
+ 
+Khundi Mata lake
+32.62
+76.4
+Rock
+Slide
+NA
+8112
+HP/CHA/52D06/2020/24
+Himachal Pradesh
+Chamba
+ 
+Sara village
+32.62
+76.28
+Debris
+Slide
+NA
+8113
+HP/CHA/52D02/2020/100
+Himachal Pradesh
+Chamba
+ 
+Pukhrolu
+32.63
+76.18
+Debris
+Slide
+NA
+8114
+HP/CHA/52D02/2020/138
+Himachal Pradesh
+Chamba
+ 
+Sonthli,SH-33
+32.63
+76.08
+Rock
+Slide
+NA
+8115
+HP/CHA/52D06/2020/29
+Himachal Pradesh
+Chamba
+ 
+Right bank of Khad Nala
+32.63
+76.39
+Rock
+Slide
+NA
+8116
+HP/CHA/43P14/2017/60
+Himachal Pradesh
+Chamba
+ 
+ 
+32.639396
+75.956317
+Rock
+Slide
+NA
+8117
+HP/CHA/52D02/2020/4
+Himachal Pradesh
+Chamba
+ 
+Pukhri,SH-33
+32.64
+76.08
+Rock
+Slide
+NA
+8118
+HP/CHA/52D02/2020/5
+Himachal Pradesh
+Chamba
+ 
+Pukhri,SH-33
+32.64
+76.09
+Rock
+Slide
+NA
+8119
+HP/CHA/52D02/2020/68
+Himachal Pradesh
+Chamba
+ 
+Sheri
+32.64
+76.11
+Debris
+Slide
+NA
+8120
+HP/CHA/52D02/2020/70
+Himachal Pradesh
+Chamba
+ 
+Sheri
+32.64
+76.12
+Debris
+Slide
+NA
+8121
+HP/CHA/52D02/2020/116
+Himachal Pradesh
+Chamba
+Pukhri slide
+Pukhri,SH-33
+32.64
+76.08
+Debris
+Slide
+NA
+8122
+HP/CHA/52D02/2020/119
+Himachal Pradesh
+Chamba
+ 
+Pukhri,SH-33
+32.64
+76.08
+Rock
+Slide
+NA
+8123
+HP/CHA/52D02/2020/121
+Himachal Pradesh
+Chamba
+ 
+Pukhri,SH-33
+32.64
+76.08
+Rock
+Slide
+2017
+8124
+HP/CHA/52D02/2020/122
+Himachal Pradesh
+Chamba
+ 
+Pukhri,SH-33
+32.64
+76.09
+Rock
+Slide
+2018
+8125
+HP/CHA/52D02/2020/123
+Himachal Pradesh
+Chamba
+ 
+Pukhri
+32.64
+76.09
+Rock
+Slide
+NA
+8126
+HP/CHA/52D02/2020/132
+Himachal Pradesh
+Chamba
+ 
+Pukhri,SH-33
+32.64
+76.08
+Rock
+Slide
+NA
+8127
+HP/CHA/52D02/2020/133
+Himachal Pradesh
+Chamba
+ 
+Pukhri,SH-33
+32.64
+76.08
+Rock
+Slide
+NA
+8128
+HP/CHA/52D02/2020/137
+Himachal Pradesh
+Chamba
+ 
+Pukhri,SH-33
+32.64
+76.08
+Rock
+Slide
+NA
+8129
+HP/CHA/52D02/2020/139
+Himachal Pradesh
+Chamba
+ 
+Int,SH-33
+32.64
+76.09
+Debris
+Slide
+NA
+8130
+HP/CHA/52D02/2020/140
+Himachal Pradesh
+Chamba
+ 
+pathankot-tissa road
+32.64
+76.08
+Debris
+Slide
+NA
+8131
+HP/CHA/52D02/2020/143
+Himachal Pradesh
+Chamba
+ 
+Pukhri
+32.64
+76.08
+Rock
+Slide
+NA
+8132
+HP/CHA/52D06/2020/5
+Himachal Pradesh
+Chamba
+ 
+Left bank of Tangair nala
+32.64
+76.39
+Debris
+Slide
+NA
+8133
+HP/CHA/52D06/2020/8
+Himachal Pradesh
+Chamba
+ 
+Left bank of Tangair Nala
+32.64
+76.39
+Rock
+Slide
+NA
+8134
+HP/CHA/52D06/2020/26
+Himachal Pradesh
+Chamba
+ 
+Dugga Badhurua
+32.64
+76.35
+Rock
+Slide
+NA
+8135
+HP/CHA/43P14/2017/12
+Himachal Pradesh
+Chamba
+ 
+ 
+32.647819
+75.944299
+Rock
+Slide
+NA
+8136
+H.P./ Lahaul & 
+Spiti/01/2023/Lindoor
+Himachal Pradesh
+Lahaul & Spiti
+#N/A
+#N/A
+32.64816667
+76.87308333
+Debris
+Slide/Subsidenc
+e
+2000, August 2023
+8137
+HP/CHA/52D02/2020/10
+Himachal Pradesh
+Chamba
+ 
+Pukhri,SH-33
+32.65
+76.08
+Rock
+Slide
+NA
+8138
+HP/CHA/52D02/2020/118
+Himachal Pradesh
+Chamba
+ 
+Pukhri,SH-33
+32.65
+76.08
+Rock
+Slide
+NA
+8139
+HP/CHA/52D02/2020/120
+Himachal Pradesh
+Chamba
+ 
+Pukhri,SH-33
+32.65
+76.08
+Rock
+Slide
+NA
+8140
+HP/CHA/52D06/2020/4
+Himachal Pradesh
+Chamba
+ 
+Left bank og Tangair nala
+32.65
+76.38
+Debris
+Slide
+NA
+8141
+HP/CHA/52D06/2020/6
+Himachal Pradesh
+Chamba
+ 
+Left bank of tangair nala
+32.65
+76.39
+Rock
+Slide
+NA
+8142
+HP/CHA/52D06/2020/30
+Himachal Pradesh
+Chamba
+ 
+Left bank of Tangair nala
+32.65
+76.38
+Rock
+Slide
+NA
+8143
+HP/CHA/52D06/2020/31
+Himachal Pradesh
+Chamba
+ 
+Right bank of Tangair nala.
+32.65
+76.39
+Rock
+Slide
+NA
+8144
+H.P./ Lahaul & 
+Spiti/01/2023/Lindoor
+Himachal Pradesh
+Lahaul & Spiti
+#N/A
+#N/A
+32.65127778
+76.87586111
+Debris
+Slide/Fall/Subsi
+dence
+2000, August 2023
+8145
+HP/CHA/43P14/2017/31
+Himachal Pradesh
+Chamba
+ 
+ 
+32.655125
+75.946986
+Rock
+Slide
+NA
+8146
+HP/CHA/43P14/2017/41
+Himachal Pradesh
+Chamba
+ 
+ 
+32.65571
+75.947206
+Rock
+Slide
+NA

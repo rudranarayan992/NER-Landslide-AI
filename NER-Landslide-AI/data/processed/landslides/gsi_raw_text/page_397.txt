@@ -1,0 +1,431 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16254
+GO/SG/48E15/2015/21
+Goa
+South Goa
+ 
+ 
+15.394444
+73.903889
+Debris
+Slide
+NA
+16255
+GA/SGA/48I03/2020/7
+Goa
+South Goa
+Cut Slope failure along Ponda – Borim 
+bypass road
+1.8 km east of Ponda
+15.4
+74.03
+Debris
+Slide
+2020
+16256
+GO/SG/48E15/2015/23
+Goa
+South Goa
+ 
+ 
+15.402778
+73.908333
+Debris
+Slide
+NA
+16257
+GA/SGA/48I03/2020/1
+Goa
+South Goa
+Cut Slope failure along Anmod ghat  
+section
+4.5 km north east of Molen
+15.41
+74.25
+Debris
+Slide
+NA
+16258
+GA/SGA/48I03/2020/2
+Goa
+South Goa
+Cut Slope failure along Anmod ghat  
+section
+3.9 km north east of Molen
+15.41
+74.24
+Debris
+Slide
+NA
+16259
+GA/SGA/48I03/2020/5
+Goa
+South Goa
+Cut Slope failure along Khandepar – 
+Opa road, Near Opa water tank
+1.5 km north east of Ponda
+15.41
+74.02
+Debris
+Slide
+2020
+16260
+GA/SGA/48I03/2020/6
+Goa
+South Goa
+Cut Slope failure along Ponda – Borim 
+bypass road
+2 km north east of Ponda
+15.41
+74.02
+Debris
+Slide
+2020
+16261
+GO/SOU/48I07/018/28
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.410917
+74.2635
+Debris
+Slide
+NA
+16262
+GO/SOU/48I07/2018/26
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.410944
+74.264944
+Rock cum debris
+Slide
+NA
+16263
+GO/SOU/48I07/2018/27
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.410944
+74.264944
+Debris
+Slide
+NA
+16264
+GO/SOU/48I07/2018/23
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.410972
+74.270139
+Rock cum debris
+Slide
+NA
+16265
+GO/SOU/48I07/2018/25
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.411278
+74.266278
+Rock cum debris
+Slide
+NA
+16266
+GO/SOU/48I07/2018/24
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.411444
+74.267722
+Rock
+Slide
+NA
+16267
+GO/SOU/48I07/2018/22
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.412194
+74.268389
+Rock
+Slide
+NA
+16268
+GO/SOU/48I07/2018/18
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.412306
+74.268694
+Debris
+Slide
+NA
+16269
+GO/SOU/48I07/2018/21
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.412489
+74.267069
+Rock cum debris
+Slide
+NA
+16270
+GO/SOU/48I07/2018/20
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.413047
+74.266831
+Rock
+Slide
+NA
+16271
+GO/SOU/48I07/2018/32
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.4135
+74.255333
+Debris
+Slide
+NA
+16272
+GO/SOU/48I07/2018/19
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.413564
+74.26695
+Debris
+Slide
+NA
+16273
+GO/SOU/48I07/2018/17
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.414333
+74.267167
+Debris
+Slide
+NA
+16274
+GO/SOU/48I07/2018/16
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.415325
+74.267275
+Debris
+Slide
+NA
+16275
+GO/SOU/48I07/2018/29
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.416361
+74.262139
+Debris
+Slide
+NA
+16276
+GO/SOU/48I07/2018/31
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.416472
+74.26075
+Debris
+Slide
+NA
+16277
+GO/SOU/48I07/2018/30
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.416639
+74.261028
+Debris
+Slide
+NA
+16278
+GO/SOU/48I07/2018/15
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.417044
+74.267761
+Rock cum debris
+Slide
+NA
+16279
+GO/SOU/48I07/2018/14
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.418697
+74.270856
+Rock cum debris
+Slide
+NA
+16280
+GO/SG/48E15/2015/14
+Goa
+South Goa
+ 
+NNW of Pharmagudi
+15.422222
+73.985
+Debris
+Slide
+NA
+16281
+KA/BEL/48I07/2018/12
+Goa
+South Goa
+Anmod-Mollem Ghat road
+NH-4A
+15.422481
+74.279461
+Debris
+Slump
+NA
+16282
+GO/SG/48E15/2015/17
+Goa
+South Goa
+ 
+ 
+15.434722
+73.983889
+Earth
+Subsidence
+NA
+16283
+GO/SG/48E15/2015/15
+Goa
+South Goa
+ 
+NNW of Mardol
+15.444444
+73.974444
+Debris
+Slide
+NA
+16284
+GA/NGA/48I02/2020/17
+Goa
+North Goa
+Cut Slope failure along Honda – Valpoi 
+road
+3.5 km west of Valpoi
+15.53
+74.11
+Debris
+Slide
+NA
+16285
+GA/NGA/48I02/2020/2
+Goa
+North Goa
+Cut Slope failure along Chorla ghat 
+road, near Anjune Dam
+3.9 km east of Keri
+15.6
+74.1
+Debris
+Slide
+NA
+16286
+GA/NGA/48I02/2020/3
+Goa
+North Goa
+Cut Slope failure along Chorla ghat 
+road, near Anjune Dam
+3.9 km east of Keri
+15.6
+74.1
+Debris
+Slide
+NA
+16287
+GA/NGA/48I02/2020/4
+Goa
+North Goa
+Cut Slope failure along Chorla ghat 
+road, near Anjune Dam
+4 km east of Keri
+15.6
+74.1
+Debris
+Slide
+NA
+16288
+GA/NGA/48I02/2020/5
+Goa
+North Goa
+Cut Slope failure along Chorla ghat 
+road
+4.4 km east of Keri
+15.6
+74.11
+Debris
+Slide
+NA
+16289
+GA/NGA/48I02/2020/1
+Goa
+North Goa
+Cut slope failure along Chorla ghat 
+road, near Anjune Dam
+2.9 km east of Keri
+15.61
+74.09
+Debris
+Slide
+NA
+16290
+GA/NGA/48I02/2020/6
+Goa
+North Goa
+Cut Slope failure along Chorla ghat 
+road
+4.7 km east of Keri
+15.61
+74.11
+Debris
+Slide
+2020

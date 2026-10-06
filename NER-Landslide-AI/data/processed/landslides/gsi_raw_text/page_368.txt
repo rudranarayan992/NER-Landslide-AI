@@ -1,0 +1,389 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15216
+KRL/IDK/58C13/2018/225
+KERALA
+IDUKKI
+Thanikandam
+9.869572357
+76.95327226
+Debris
+slide
+15th August 2018
+15217
+KRL/IDK/58C13/2018/226
+KERALA
+IDUKKI
+Thanikandam
+9.868633796
+76.95300237
+Debris
+flow
+15th August 2018
+15218
+KRL/IDK/58F/4/2018/227
+KERALA
+IDUKKI
+Kannan Devan Hills plantation, 
+Devikulam Taluk
+Public Health Centre road
+10.06755
+77.10993606
+Debris
+slide
+15th August 2018
+15219
+KRL/IDK/58F/4/2018/228
+KERALA
+IDUKKI
+Near Ayappa temple
+nil
+10.06664995
+77.10987547
+Debris
+slide
+15th August 2018
+15220
+KRL/IDK/58F/4/2018/229
+KERALA
+IDUKKI
+Ave Maria Mission
+Devikulam Munnar road
+10.06167975
+77.10544717
+Debris
+slide
+15th August 2018
+15221
+KRL/IDK/58F/4/2018/230
+KERALA
+IDUKKI
+Erachilpara
+nil
+10.06230155
+77.10432027
+Debris
+slide
+15th August 2018
+15222
+KRL/IDK/58F/4/2018/231
+KERALA
+IDUKKI
+SBI bank Devikulam
+10.06823779
+77.10609164
+Debris
+slide
+15th August 2018
+15223
+KRL/IDK/58F/4/2018/232
+KERALA
+IDUKKI
+Near SBI bank Devikulam
+nil
+10.06725365
+77.10592109
+Debris
+slide
+15th August 2018
+15224
+KRL/IDK/58F/4/2018/233
+KERALA
+IDUKKI
+Erachilpara
+nil
+10.06519368
+77.10294358
+Debris
+slide
+15th August 2018
+15225
+KRL/IDK/58C13/2018/234
+KERALA
+IDUKKI
+Devikulam
+10.06355709
+77.10303331
+Debris
+slide
+15th August 2018
+15226
+KRL/IDK/58C13/2018/235
+KERALA
+IDUKKI
+Devikulam
+10.06897
+77.10673487
+Debris
+slide
+15th August 2018
+15227
+KRL/IDK/58C13/2018/236
+KERALA
+IDUKKI
+Nettikudi Lower Division-Munnar
+10.08123992
+77.12936124
+Debris
+slide
+15th August 2018
+15228
+KRL/IDK/58F/4/2018/237
+KERALA
+IDUKKI
+Grahamsland Estate, KDH 
+Village,Devikulam
+Munnar- Silent valley Road
+10.08742967
+77.09432233
+Debris
+slide
+15th August 2018
+15229
+KRL/IDK/58F/4/2018/238
+KERALA
+IDUKKI
+near Grahamsland Estate, KDH 
+Village,Devikulam
+Munnar- Silent valley Road
+10.08519982
+77.07959554
+Debris
+slide
+15th August 2018
+15230
+KRL/IDK/58F/4/2018/239
+KERALA
+IDUKKI
+near Grahamsland Estate, KDH 
+Village,Devikulam
+Munnar- Silent valley Road
+10.08511972
+77.07796234
+Debris
+slide
+16th August 2018
+15231
+KRL/IDK/58F/4/2018/240
+KERALA
+IDUKKI
+Munnar- Mattupatti road
+Munnar- Mattupatti road
+10.08550962
+77.06336176
+Debris
+slide
+16th August 2018
+15232
+KRL/IDK/58F/4/2018/241
+KERALA
+IDUKKI
+Near Police Quarters
+Police Quarters road
+10.08428652
+77.06236888
+Debris
+slide
+16th August 2018
+15233
+KRL/IDK/58F/4/2018/242
+KERALA
+IDUKKI
+PWD quarters near police station, 
+Munnar
+10.08353382
+77.06709799
+Debris
+slide
+15th August 2018
+15234
+KRL/IDK/58F/4/2018/243
+KERALA
+IDUKKI
+Behind Sarvana Bhavan hotel, 
+Munnar. 
+10.08705244
+77.05947678
+Debris
+slide
+15th August 2018
+15235
+KRL/IDK/58C13/2018/244
+KERALA
+IDUKKI
+Nallathanni Road 
+10.09360081
+77.05301476
+Debris
+slide
+15th August 2018
+15236
+KRL/IDK/58C13/2018/245
+KERALA
+IDUKKI
+Nallathanni Estate-Kurumala Division 
+10.08950352
+77.03006647
+Debris
+flow
+15th August 2018
+15237
+KRL/IDK/58C13/2018/246
+KERALA
+IDUKKI
+Nallathanni Estate-Kurumala Division 
+10.08859377
+77.0266037
+Debris
+slide
+15th August 2018
+15238
+KRL/IDK/58C13/2018/247
+KERALA
+IDUKKI
+Nallathanni Estate-near Tea Museum
+10.09492825
+77.04886372
+Debris
+slide
+15th August 2018
+15239
+KRL/IDK/58F/4/2018/248
+KERALA
+IDUKKI
+Near Munnar Govt. college
+Munnar-Madurai (NH-85)
+10.08225605
+77.07482456
+Debris
+slide
+15th August 2018
+15240
+KRL/IDK/58F/4/2018/249
+KERALA
+IDUKKI
+Lekshmi estate, Ottapara division
+Munnar-Mulakkad to 
+Mankulam road
+10.06099755
+77.03536967
+Debris
+slide
+15th August 2018
+15241
+KRL/IDK/58C13/2018/250
+KERALA
+IDUKKI
+Nullutanni Estate-Sholamala Division
+10.1131221
+77.04333236
+Debris
+slide
+15th August 2018
+15242
+KRL/IDK/58C13/2018/251
+KERALA
+IDUKKI
+Kadalar Cadamon Plantation
+10.135492
+77.004949
+Debris
+slide
+15th August 2018
+15243
+KRL/IDK/58C13/2018/252
+KERALA
+IDUKKI
+Kadalar Cadamon Plantation
+10.134463
+77.003319
+Debris
+slide
+15th August 2018
+15244
+KRL/IDK/58C13/2018/253
+KERALA
+IDUKKI
+Kadalar Estate west division
+Kadalar Estate-Munnar Road
+10.13308243
+77.02254929
+Debris
+slide
+15th August 2018
+15245
+KRL/IDK/58C13/2018/254
+KERALA
+IDUKKI
+Kannimala Junction
+Kadalar Estate-Munnar Road
+10.12542736
+77.05154746
+Debris
+slide
+15th August 2018
+15246
+KRL/IDK/58C13/2018/255
+KERALA
+IDUKKI
+Kannimala Junction
+Kadalar Estate-Munnar Road
+10.12548647
+77.05221377
+Debris
+slide
+15th August 2018
+15247
+KRL/IDK/58C13/2018/256
+KERALA
+IDUKKI
+Kadalar Vilak
+Kadalar Estate-Munnar Road
+10.12551095
+77.05408403
+Debris
+slide
+15th August 2018
+15248
+KRL/IDK/58F/4/2018/257
+KERALA
+IDUKKI
+Kadalar Vilakku
+Munnar- Coimbatore
+10.12557285
+77.05430336
+Debris
+slide
+15th August 2018
+15249
+KRL/IDK/58F/4/2018/258
+KERALA
+IDUKKI
+Munnar- Coimbatore road
+Munnar- Coimbatore road
+10.12657124
+77.05509425
+Debris
+slide
+15th August 2018
+15250
+KRL/IDK/58F/4/2018/259
+KERALA
+IDUKKI
+Munnar- Udumpalpettu road
+Munnar- Udumpalpettu road
+10.12947678
+77.05589729
+Debris
+slide
+15th August 2018

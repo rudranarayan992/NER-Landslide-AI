@@ -1,0 +1,467 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+578
+AS/JOR/83J06/2020/15
+Assam
+Jorhat
+ 
+NH702D (After Aokum)
+26.58
+94.35
+Earth
+Slide
+NA
+579
+AS/JOR/83J06/2020/16
+Assam
+Jorhat
+ 
+NH702D
+26.58
+94.35
+Earth
+Slide
+NA
+580
+AS/KAR/83F10/2018/2
+Assam
+Karbi Anglong
+Bogaramtakbi-Notungaon road slide
+Bogaramtakbi-Notungaon road 26.59011
+93.57466
+Debris
+Slide
+NA
+581
+AS/KAR/83F06/2018/4
+Assam
+Karbi Anglong
+DiringLangso slide
+Diring
+26.59041
+93.47616
+Debris
+Slide
+NA
+582
+AS/KAR/83F06/2018/3
+Assam
+Karbi Anglong
+Sapjuri-Dalamara road slide
+Sapjuri-Dalamara road
+26.59416
+93.547361
+Debris
+Slide
+NA
+583
+AS/JOR/83J06/2020/1
+Assam
+Jorhat
+ 
+Bailey Bridge (after Chankijan)
+26.6
+94.34
+Rock
+Slide
+NA
+584
+AS/JOR/83J06/2020/12
+Assam
+Jorhat
+ 
+Mariani-Chanki Rd
+26.6
+94.35
+Earth
+Slide
+2018
+585
+AS/JOR/83J06/2020/13
+Assam
+Jorhat
+ 
+NH702D (Before Tsetapda Gate) 26.6
+94.35
+Rock
+Slide
+2019
+586
+AS/JOR/83J06/2020/14
+Assam
+Jorhat
+ 
+NH702D (After Tsetapda Gate)
+26.6
+94.35
+Rock
+Slide
+NA
+587
+AS/KAR/83F06/2018/5
+Assam
+Karbi Anglong
+Panbari Parbat slide
+Panbari Parbat
+26.60275
+93.48408
+Debris
+Slide
+NA
+588
+AS/KAR/83F10/2018/3
+Assam
+Karbi Anglong
+BaburangTokbi slide
+BaburangTokbi, Dalamara area
+26.60358
+93.481
+Debris
+Slide
+NA
+589
+AS/UDA/83B01/2021/02
+Assam
+Udalguri
+26.88969
+92.12266
+Rock-cum- debris
+Falls
+28 April 2021
+590
+AS/UDA/83B01/2021/01
+Assam
+Udalguri
+26.89074
+92.12068
+Rock-cum- debris
+Falls
+28 April 2021
+591
+AS/SON/83B13/2018/5
+Assam
+Sonitpur
+Nishi Phuloguri Howa River slide
+GaroBasti
+26.9174
+92.77163
+Debris
+Slide
+NA
+592
+AS/SON/83B13/2018/4
+Assam
+Sonitpur
+Howa River ,GaroBasti  slide-2
+GaroBasti
+26.92013
+92.75994
+Debris
+Slide
+NA
+593
+AS/SON/83B13/2018/3
+Assam
+Sonitpur
+GaroBasti  slide
+GaroBasti
+26.92088
+92.75933
+Debris
+Slide
+NA
+594
+AS/SON/83B13/2018/1
+Assam
+Sonitpur
+Phuloguri slide
+Phuloguri, Chengelimari area.
+26.92216
+92.7678
+Debris
+Slide
+NA
+595
+AS/SON/83B13/2018/2
+Assam
+Sonitpur
+Hoha river  slide
+Phuloguri, Chengelimari area.
+26.9231
+92.76755
+Debris
+Slide
+NA
+596
+AS/SON/83B09/2018/1
+Assam
+Sonitpur
+Jarabari slide
+Pogijuli area
+26.92666
+92.73966
+Debris
+Slide
+NA
+597
+AS/SON/83B09/2018/3
+Assam
+Sonitpur
+Moroni slide
+Bogijuli area
+26.93362
+92.70757
+Soil
+Slide
+NA
+598
+AS/SON/83B09/2018/2
+Assam
+Sonitpur
+Kamarilaka slide
+Pogijuli area
+26.93438
+92.729
+Debris
+Slide
+NA
+599
+AS/SON/83B09/2018/4
+Assam
+Sonitpur
+Dopdopi slide-1
+Dopdopi
+26.9358
+92.70369
+Debris
+Slide
+NA
+600
+AS/SON/83B09/2018/5
+Assam
+Sonitpur
+Ringkangpur slide-1
+Ringkangpur
+26.93586
+92.70441
+Debris
+Slide
+NA
+601
+AS/SON/83B09/2018/6
+Assam
+Sonitpur
+Ringkangpur slide-2
+Ringkangpur
+26.93597
+92.70455
+Debris
+Slide
+NA
+602
+AS/SON/83B09/2018/7
+Assam
+Sonitpur
+Ringkangpur slide-3
+Ringkangpur
+26.93641
+92.70308
+Debris
+Slide
+NA
+603
+AS/SON/83B09/2018/8
+Assam
+Sonitpur
+Ringkangpur slide-4
+Ringkangpur
+26.93819
+92.70402
+Debris
+Slide
+NA
+604
+AS/SON/83B09/2018/9
+Assam
+Sonitpur
+Dopdopi slide-2
+Dopdopi
+26.93855
+92.70336
+Debris
+Slide
+NA
+605
+AS/SON/83F05/2018/4
+Assam
+Sonitpur
+Dising River slide
+Upper Dikalmukh
+26.94755
+93.257521
+Debris
+Slide
+NA
+606
+AS/SON/83F05/2018/3
+Assam
+Sonitpur
+Balijan forest road slide-3
+Balijan forest road
+26.9498
+93.45291
+Debris
+Slide
+NA
+607
+AS/SON/83F05/2018/2
+Assam
+Sonitpur
+Balijan forest road slide-2
+Balijan forest road
+26.95052
+93.45136
+Debris
+Slide
+NA
+608
+AS/SON/83F05/2018/1
+Assam
+Sonitpur
+Balijan forest road slide-1
+Balijan forest road
+26.95266
+93.44166
+Debris
+Slide
+NA
+609
+AS/SON/83B09/2018/10
+Assam
+Sonitpur
+Mansiri River slide-1
+Maltang
+26.9693
+92.634
+Debris
+Slide
+NA
+610
+AS/SON/83B09/2018/12
+Assam
+Sonitpur
+Mansiri River slide-3
+Maltang
+26.97013
+92.63363
+Debris
+Slide
+NA
+611
+AS/SON/83B09/2018/11
+Assam
+Sonitpur
+Mansiri River slide-2
+Maltang
+26.97041
+92.63436
+Debris
+Slide
+NA
+612
+AS/SON/83B09/2018/13
+Assam
+Sonitpur
+Mansiri River slide-4
+Maltang
+26.972889
+92.632833
+Debris
+Slide
+NA
+613
+AS/DIM/83G/4/2025/1
+Assam
+Dima Hasao
+NULL
+NULL
+25.15398187
+93.02361022
+Debris
+Slide
+NA
+614
+AS/KAM(M)/76N16/2024/2
+Assam
+Kamrup (Metro)
+Garo Basti Slide
+Garo Basti Slide, 8th Mile, 
+Guwahati
+26.11464
+91.83886
+Earth
+Slide
+05 July 2024 
+615
+AS/K(M)/76N16/2024/01
+Assam
+Kamrup (Metro)
+Rudra Nagar Slide
+Rudra Nagar, Near Rajohuwa 
+Namghar, Chandmari
+26.19044
+91.77502
+Earth
+Slide
+24 May 2024 
+616
+AS/CAC/83D10/2025/1
+Assam
+Cachar
+Bag-O-Bahar, Khasia Punji
+24.57257
+92.70357
+Debris
+Slide
+ May 2023
+617
+AS/CAC/83D10/2025/2
+Assam
+Cachar
+Bag-O-Bahar, Khasia Punji
+24.57235
+92.70536
+Earth
+Slide
+ May 2024
+618
+AS/CAC/83D10/2025/3
+Assam
+Cachar
+Bag-O-Bahar, Khasia Punji
+24.58585
+92.70274
+Earth
+Slide
+ May 2024
+619
+AS/CAC/83D09/2025/4 
+Assam
+Cachar
+Naraincherra landslide
+Balicherra Grant
+24.96756
+92.74392
+Debris
+Slide
+ March 2025

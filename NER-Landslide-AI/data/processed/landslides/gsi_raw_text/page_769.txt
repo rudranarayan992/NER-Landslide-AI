@@ -1,0 +1,364 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30122
+WB/DAR/78A04/2021/PDLS/10
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10776732
+88.14016456
+Rock
+Slide
+October 2021
+30123
+WB/DAR/78A04/2021/PDLS/18
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10779403
+88.23626807
+Debris
+Slide
+October 2021
+30124
+WB/DAR/78A04/2021/PDLS/18
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10805976
+88.23684597
+Debris
+Slide
+October 2021
+30125
+WB/DAR/78A04/2015/1217
+West Bengal
+Darjeeling
+ 
+GOKE
+27.108167
+88.214917
+Rock
+Slide
+2015
+30126
+WB/DAR/78A08/2015/1486
+West Bengal
+Darjeeling
+ 
+ 
+27.108441
+88.298306
+Debris
+Slide
+2013
+30127
+WB/DAR/78A04/2021/PDLS/18
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.10853109
+88.23662923
+Debris
+Slide
+October 2021
+30128
+WB/DAR/78A08/2015/49
+West Bengal
+Darjeeling
+NH-31A 37.95 km from Sevok (Tiger 
+Bridge) towards  Gangtok
+37.95 km from Sevok (Tiger 
+Bridge)on NH-31A towards  
+Gangtok
+27.108577
+88.47193
+Debris
+Slide
+2007
+30129
+WB/DAR/78A04/2015/1188
+West Bengal
+Darjeeling
+ 
+Goke
+27.108694
+88.237889
+Rock
+Slide
+2015
+30130
+WB/DAR/78A12/2015/1333
+West Bengal
+Darjeeling
+SOUTH MEDONG SUBSIDENCE
+SOUTH OF MEDONG 
+,KALIMPONG
+27.109028
+88.595306
+Debris
+Subsidence
+2012
+30131
+WB/DAR/78A08/2015/1487
+West Bengal
+Darjeeling
+ 
+ 
+27.109334
+88.282168
+Debris
+Slide
+2013
+30132
+WB/DARJ/78A08/2007/0293
+West Bengal
+Darjeeling
+ 
+37.95 km from Sevok (Tiger 
+Bridge)on NH-31A towards 
+Gangtok
+27.11
+88.47
+Debris
+Slide
+NA
+30133
+WB/DARJ/78A08/2007/0300
+West Bengal
+Darjeeling
+ 
+41.10 km from Sevok on NH-
+31A towards Gangtok
+27.11
+88.495
+Debris
+Slide
+NA
+30134
+WB/DAR/78A12/2015/161
+West Bengal
+Darjeeling
+Located at Km. 62.5 from Damdim on 
+Damdim-Labha road
+Located at Km. 62.5 from 
+Damdim on Damdim-Labha 
+road
+27.110172
+88.596059
+Debris
+Subsidence
+1965
+30135
+WB/DAR/78A12/2015/1488
+West Bengal
+Darjeeling
+ 
+ 
+27.110498
+88.662793
+Debris
+Slide
+2013
+30136
+WB/DAR/78A12/2015/235
+West Bengal
+Darjeeling
+Paiyung below Algara Bazar
+Paiyung below Algara Bazar
+27.110853
+88.586053
+Debris
+Slide
+2012
+30137
+WB/DAR/78A04/2021/PDLS/91
+West Bengal
+Darjeeling
+N/A
+N/A
+27.11087726
+88.11826507
+Debris
+Slide
+October 2021
+30138
+WB/DAR/78A04/2021/PDLS/92
+West Bengal
+Darjeeling
+N/A
+N/A
+27.11092773
+88.11872961
+Debris
+Slide
+October 2021
+30139
+WB/DAR/78A04/2015/1502
+West Bengal
+Darjeeling
+14 mile subsidence
+14 MILE KALIMPONG
+27.111643
+88.240284
+Debris
+Subsidence
+2014
+30140
+WB/KAL/78A12/2021/PDLS/301 West Bengal
+Kalimpong
+N/A
+N/A
+27.11168622
+88.56800149
+Debris
+Slide
+October 2021
+30141
+WB/DAR/78A16/2015/392
+West Bengal
+Darjeeling
+Thode Slide 1
+Thode, on Jaldhaka-Tangta 
+Road
+27.111716
+88.823882
+Debris
+Slide
+2016
+30142
+WB/DAR/78A04/2015/1216
+West Bengal
+Darjeeling
+ 
+NEZI
+27.111722
+88.204333
+Debris
+Slide
+2014
+30143
+WB/DAR/78A12/2015/1286
+West Bengal
+Darjeeling
+ 
+LIBONG ROAD
+27.111722
+88.682611
+Debris
+Slide
+2014
+30144
+WB/DAR/78A04/2015/27
+West Bengal
+Darjeeling
+Bijanbari-Gok Road, Gok Village
+Bijanbari-Gok Road
+27.1119
+88.2382
+Debris
+Slide
+2011
+30145
+WB/DARJ/78A04/0262
+West Bengal
+Darjeeling
+ 
+Bijanbari-Gok Road
+27.112
+88.238
+Debris
+Slide
+NA
+30146
+WB/DARJ/78A04/2009/0243
+West Bengal
+Darjeeling
+ 
+At Gok bustee on Darjeeling-
+Naya Bazar road
+27.112
+88.24
+Rock
+Slide
+NA
+30147
+WB/DARJ/78A04/1984/0244
+West Bengal
+Darjeeling
+ 
+At Forebay location of Rammam 
+Hydel Project Stage_II
+27.112
+88.131
+Debris
+Slide
+1984
+30148
+WB/DAR/78A04/2015/1
+West Bengal
+Darjeeling
+Darjeeling-Naya Bazar Road,  Gok 
+bustee
+At Gok bustee on Darjeeling-
+Naya Bazar road
+27.112
+88.24
+Rock
+Slide
+1984
+30149
+WB/DAR/78A04/2015/3
+West Bengal
+Darjeeling
+At around 1.5km from Forebay  on 
+Forbay Linsebong road
+At around 1.5km from Forebay 
+towards  Linsebong on Forebay-
+Linsebong road
+27.112261
+88.130764
+Rock cum Debris
+Subsidence
+1980
+30150
+WB/DAR/78A08/2021/PDLS/23
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.11231161
+88.28806763
+Debris
+Slide
+October 2021
+30151
+WB/DAR/78A08/2015/1489
+West Bengal
+Darjeeling
+ 
+ 
+27.112404
+88.309032
+Debris
+Slide
+2013

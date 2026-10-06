@@ -1,0 +1,375 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16786
+MH/RAT/47G07/2009/125
+Maharashtra
+Ratnagiri
+ 
+Chiplun-Guhagar Road
+17.484
+73.463
+Debris
+Fall
+2009
+16787
+MH/SAT/47G15/2017/12
+Maharashtra
+Satara
+ 
+PatanRemala Dhangarwadi road 17.484711
+73.856036
+Soil
+Slide
+NA
+16788
+MAH/GUH/47G03/2015/40
+Maharashtra
+Guhagar
+ 
+Chiplun ΓÇô Guhagar Rd
+17.486
+73.202
+Debris
+Slide
+2009
+16789
+MH/SAT/47G15/2017/65
+Maharashtra
+Satara
+ 
+GhotJennewadi road
+17.486292
+73.927921
+Rock
+Slide
+NA
+16790
+MH/SAT/47G15/2017/11
+Maharashtra
+Satara
+ 
+PatanRemala Dhangarwadi road 17.4869
+73.855475
+Soil
+Slide
+NA
+16791
+MH/SAT/47G15/2017/63
+Maharashtra
+Satara
+ 
+GhotJennewadi road
+17.487129
+73.929694
+Debris
+Slide
+NA
+16792
+MH/SAT/47G15/2017/62
+Maharashtra
+Satara
+ 
+GhotJennewadi road
+17.4873
+73.931045
+Debris
+Fall
+NA
+16793
+MH/SAT/47G15/2017/66
+Maharashtra
+Satara
+ 
+GhotJennewadi road
+17.487402
+73.927309
+Rock
+Slide
+NA
+16794
+MAH/GUH/47G03/2015/41
+Maharashtra
+Guhagar
+ 
+Chiplun ΓÇô Guhagar Rd
+17.488
+73.204
+Earth
+Slump
+2009
+16795
+MH/SAT/47G15/2017/64
+Maharashtra
+Satara
+ 
+GhotJennewadi road
+17.489268
+73.930062
+Debris
+Slide
+NA
+16796
+MH/SAT/47G15/2017/10
+Maharashtra
+Satara
+ 
+PatanRemala Dhangarwadi road 17.489522
+73.855608
+Soil
+Slide
+NA
+16797
+MH/SAT/47G15/2017/89
+Maharashtra
+Satara
+ 
+TarlePhadtalwadi road
+17.49
+73.9611
+Debris
+Slide
+NA
+16798
+MH/SAT/47G15/2017/9
+Maharashtra
+Satara
+ 
+PatanRemala Dhangarwadi road 17.490384
+73.853991
+Soil
+Slide
+NA
+16799
+MH/SAT/47G15/2017/87
+Maharashtra
+Satara
+ 
+TarlePhadtalwadi road
+17.4908
+73.9583
+Debris
+Fall
+NA
+16800
+MH/SAT/47G15/2017/88
+Maharashtra
+Satara
+ 
+TarlePhadtalwadi road
+17.4908
+73.9608
+Debris
+Slide
+NA
+16801
+MH/SAT/47G15/2017/90
+Maharashtra
+Satara
+ 
+TarlePhadtalwadi road
+17.491667
+73.961111
+Debris
+Slide
+NA
+16802
+MH/SAT/47G15/2017/91
+Maharashtra
+Satara
+ 
+TarlePhadtalwadi road
+17.491667
+73.961667
+Debris
+Slide
+NA
+16803
+MH/SAT/47G15/2017/8
+Maharashtra
+Satara
+ 
+PatanRemala Dhangarwadi road 17.49187
+73.855203
+Soil
+Fall
+NA
+16804
+MH/SAT/47G15/2017/7
+Maharashtra
+Satara
+ 
+PatanRemala Dhangarwadi road 17.493184
+73.855595
+Soil
+Fall
+NA
+16805
+MH/SAT/47G15/2017/6
+Maharashtra
+Satara
+ 
+PatanRemala Dhangarwadi road 17.494711
+73.856824
+Soil
+Fall
+NA
+16806
+MH/RAT/47G06/2009/108
+Maharashtra
+Ratnagiri
+ 
+Chiplun-Guhagarh Road
+17.51
+73.475
+Debris
+Fall
+2009
+16807
+MH/SAT/47G14/2018/8
+Maharashtra
+Satara
+ 
+250m from Daphalwadi on 
+Kenjalwadi-Daphalwadi road
+17.520344
+73.879159
+Rock
+Fall
+NA
+16808
+MAH/GUH/47G02/2015/37
+Maharashtra
+Guhagar
+Are
+Are
+17.521
+73.194
+Rock
+Fall
+2014
+16809
+MH/SAT/47G14/2018/7
+Maharashtra
+Satara
+ 
+500m from Kenjalwadi on 
+Kenjalwadi-Daphalwadi road
+17.52176
+73.878548
+Rock cum debris
+Slide
+NA
+16810
+MH/SAT/47G14/2018/3
+Maharashtra
+Satara
+ 
+500m from Sandavli
+17.524617
+73.822398
+Debris
+Subsidence
+NA
+16811
+MH/SAT/47G14/2018/9
+Maharashtra
+Satara
+ 
+4km from Bendwadi on Village 
+Road from Bendwadi to 
+Konjavde
+17.525227
+73.966492
+Rock
+Fall
+NA
+16812
+MH/RAT/47G06/2016/12
+Maharashtra
+Ratnagiri
+Mirjoli
+Mirjoli-Kondhe Road
+17.532
+73.484
+Debris
+Slide
+NA
+16813
+MH/SAT/47G14/2018/10
+Maharashtra
+Satara
+ 
+2.5km from Bendwadi on 
+Village Road from Bendwadi to 
+Konjavde
+17.533879
+73.962582
+Rock
+Fall
+NA
+16814
+MH/RAT/47G06/2009/112
+Maharashtra
+Ratnagiri
+Nayatwadi
+Karambavne-Nayatwadi Road
+17.542
+73.474
+Debris
+Fall
+2009
+16815
+MH/RAT/47G06/2016/20
+Maharashtra
+Ratnagiri
+Chiveli
+Chevili-Karbeli Road
+17.542
+73.375
+Debris
+Slide
+NA
+16816
+MH/RAT/47G06/2016/09
+Maharashtra
+Ratnagiri
+Varchiwadi
+Varchiwadi-Chivel Road
+17.542
+73.367
+Rock
+Fall
+NA
+16817
+MH/SAT/47G14/2019/13
+Maharashtra
+Satara
+ 
+4.5km from Bhanang on Village 
+Road from Bhanang to Morghar
+17.545485
+73.888822
+Debris
+Slide
+NA
+16818
+MH/RAT/47G06/2009/110
+Maharashtra
+Ratnagiri
+Nayatwadi
+Karambavne-Nayatwadi Road
+17.547
+73.463
+Debris
+Fall
+2009

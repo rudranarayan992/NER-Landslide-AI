@@ -1,0 +1,354 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+13618
+KRL/MAL/58A07/2015/105
+Kerala
+Malappuram
+Nadugani Betta
+On NH 212 from Vazhikadavu to 
+Nadugani Betta road
+11.437911
+76.392803
+Debris
+Slide
+NA
+13619
+KRL/KOZ/54A03/2015/16
+Kerala
+Kozhikode
+Anackampoil
+Nellipoil-Anackampoil Road
+11.438214
+76.064961
+Rock cum Debris
+Slide
+2015
+13620
+KRL/KOZ/54A03/2015/32
+Kerala
+Kozhikode
+Nellipoil
+Nellipoil-Thusharagiri Road
+11.439406
+76.038903
+Earth
+Slide
+2015
+13621
+KRL/KOZ/54A03/2015/36
+Kerala
+Kozhikode
+Kandapanchal
+Nellipoil-Pullurampara Road
+11.442981
+76.056111
+Debris
+Slide
+2015
+13622
+KRL/KOZ/54A03/2015/25
+Kerala
+Kozhikode
+Murippuzha
+NULL
+11.444064
+76.102036
+Rock cum Debris
+Slide
+NA
+13623
+KRL/KOZ/54A03/2015/37
+Kerala
+Kozhikode
+Kandapanchal
+Nellipoil-Pullurampara Road
+11.444172
+76.074897
+Rock cum Debris
+Slide
+2015
+13624
+KRL/KOZ/54A03/2015/35
+Kerala
+Kozhikode
+Kooruttupara
+Nellipoil-Pullurampara Road
+11.444314
+76.056078
+Rock cum Debris
+Slide
+2015
+13625
+KRL/KOZ/54A03/2015/22
+Kerala
+Kozhikode
+Murippuzha
+NULL
+11.449386
+76.101167
+Rock
+Fall
+2015
+13626
+KRL/KOZ/54A03/2015/39
+Kerala
+Kozhikode
+Chempukadavu
+SH68
+11.455592
+76.034178
+Rock cum Debris
+Slide
+2015
+13627
+KRL/KOZ/54A03/2015/24
+Kerala
+Kozhikode
+Murippuzha
+NULL
+11.456779
+76.109086
+Debris
+Slide
+NA
+13628
+KRL/KOZ/54A03/2015/23
+Kerala
+Kozhikode
+Murippuzha
+NULL
+11.457566
+76.097791
+Debris
+Slide
+2015
+13629
+KRL/KOZ/54A03/2015/33
+Kerala
+Kozhikode
+Puliyilakkattupadi
+Nellipoil-Thusharagiri Road
+11.458361
+76.063011
+Debris
+Slide
+2015
+13630
+KRL/KOZ/54A03/2015/34
+Kerala
+Kozhikode
+Kooruttupara
+Nellipoil-Pullurampara Road
+11.459056
+76.056292
+Rock cum Debris
+Slide
+NA
+13631
+KRL/KOZ/54A03/2015/40
+Kerala
+Kozhikode
+Thusharagiri
+Chembukadavu-Adivaram Road 11.469539
+76.049333
+Earth
+Slide
+2015
+13632
+KRL/KOZ/54A03/2015/75
+Kerala
+Kozhikode
+Kodemcherry Village
+SH68
+11.470611
+76.031028
+Debris
+Flow
+NA
+13633
+KRL/MAL/54A03/2015/63
+Kerala
+Malappuram
+Karimattam Estate
+Churalmala Road
+11.475014
+76.16935
+Debris
+Flow
+1984
+13634
+KRL/KOZ/54A03/2015/41
+Kerala
+Kozhikode
+Muttithodu
+Adivaram-Thusharagiri Road
+11.476256
+76.039217
+Earth
+Slide
+NA
+13635
+KRL/KOZ/54A03/2015/76
+Kerala
+Kozhikode
+Kodencherry Village
+Chembukadavu-Adivaram Road 11.477667
+76.04075
+Debris
+Flow
+NA
+13636
+KRL/KOZ/54A03/2015/77
+Kerala
+Kozhikode
+Kodencherry Village
+Chembukadavu-Adivaram Road 11.477667
+76.04075
+Debris
+Flow
+NA
+13637
+KRL/KOZ/54A03/2015/79
+Kerala
+Kozhikode
+Kodenchery Village
+Chembukadavu-Adivaram Road 11.477667
+76.04075
+Debris
+Flow
+NA
+13638
+KRL/KOZ/54A03/2015/78
+Kerala
+Kozhikode
+Pudupadi Village
+NH212
+11.489694
+76.002278
+Debris
+Flow
+NA
+13639
+KER/KOZH/49M15/2007/0001
+Kerala
+Kozhikode
+Thoradumala rupture
+Kanthaladu
+11.4926
+75.8665
+Debris
+Slide
+17 July 2007 (03:50 hrs)
+13640
+KER/KOZH/49M15/2007/0002
+Kerala
+Kozhikode
+Oranjottukunnu rupture
+Kanthaladu
+11.4937
+75.8901
+Debris
+Subsidence
+17 July 2007 (03:50 hrs)
+13641
+KRL/KOZ/54M14/2015/141
+Kerala
+Kozhikode
+Manicherimala
+Koorachundu-Kakkayam Road
+11.493889
+75.868056
+Rock cum Debris
+Slide
+NA
+13642
+KRL/KOZ/58A02/2015/60
+Kerala
+Kozhikode
+Moopankuzhi-1
+Kaithapoil-Valliyad-Manalvayal 
+Road
+11.501078
+76.003206
+Debris
+Slide
+2008
+13643
+KRL/KOZ/58A02/2015/61
+Kerala
+Kozhikode
+Valliyad
+Kaithapoil-Valliyad-Manalvayal 
+Road
+11.501625
+76.004372
+Debris
+Slide
+2008
+13644
+KRL/KOZ/58A02/2015/58
+Kerala
+Kozhikode
+Valliyad-Moopankuzhi
+Kaithapoil-Valliyad-Manalvayal 
+Road
+11.502122
+76.007044
+Debris
+Slide
+2007
+13645
+KRL/KOZ/54M14/2015/128
+Kerala
+Kozhikode
+ponodumala
+Koorachundu-Kakkayam Road
+11.5025
+75.842222
+Debris
+Flow
+2004
+13646
+KRL/KOZ/58A02/2015/59
+Kerala
+Kozhikode
+Moopankuzhi
+Kaithapoil-Valliyad-Manalvayal 
+Road
+11.503183
+76.006814
+Debris
+Slide
+1982
+13647
+KRL/WAY/58A02/2015/85
+Kerala
+Wayanad
+Tea Estate-Soochipara Rd
+Mepadi-Churalmala Road
+11.505794
+76.135806
+Rock cum Debris
+Slide
+NA
+13648
+KRL/WAY/54M14/2015/152
+Kerala
+Wayanad
+Manicherimala
+Koorachundu-Kakkayam Road
+11.505833
+75.867778
+Debris
+Flow
+2004

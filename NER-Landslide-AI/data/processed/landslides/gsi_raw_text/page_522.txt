@@ -1,0 +1,440 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21047
+MZ/LUN/84B13/2018/7
+Mizoram
+Lunglei
+ 
+Darzo-S. Vanlaphai
+22.78916
+92.981087
+Soil
+Slide
+NA
+21048
+MZ/LUN/84B09/2018/3
+Mizoram
+Lunglei
+ 
+Rangte- S. Lungrang
+22.789585
+92.621895
+Rock
+Slide
+NA
+21049
+MZ/LUN/84B13/2018/8
+Mizoram
+Lunglei
+ 
+4km bualte/6km Thualte stone
+22.789967
+92.820396
+Debris
+Slide
+NA
+21050
+MZ/LUN/84B09/2018/4
+Mizoram
+Lunglei
+ 
+Rangte village
+22.790684
+92.614983
+Debris
+Slide
+NA
+21051
+MZ/LUN/84B13/2018/9
+Mizoram
+Lunglei
+ 
+Bualte Road
+22.791958
+92.833511
+Rock
+Slide
+NA
+21052
+MZ/LUN/84B13/2018/10
+Mizoram
+Lunglei
+ 
+2.5Km S of Bualte
+22.795282
+92.813881
+Rock
+Slide
+NA
+21053
+MZ/LUN/84B13/2018/11
+Mizoram
+Lunglei
+ 
+Darzo-S. Vanlaphai
+22.796106
+92.991173
+Rock
+Fall
+NA
+21054
+MZ/LUN/84B13/2018/12
+Mizoram
+Lunglei
+ 
+1km from Bualte
+22.801022
+92.81369
+Debris
+Slide
+NA
+21055
+MZ/LUN/84F01/2018/1
+Mizoram
+Lunglei
+ 
+2.5km North of South Vanlaphai 
+on PMGSY South Vanlaphai-
+Muallanpui Road
+22.802805
+93.004639
+Debris
+Slide
+NA
+21056
+MZ/LUN/84B13/2018/13
+Mizoram
+Lunglei
+ 
+0.8 km from Bulate
+22.80291
+92.81369
+Rock
+Slide
+NA
+21057
+MZ/LUN/84B13/2018/14
+Mizoram
+Lunglei
+ 
+New Dawn
+22.803709
+92.815636
+Debris
+Slide
+NA
+21058
+MZ/LUN/84B13/2018/15
+Mizoram
+Lunglei
+ 
+0.6 Km from Bualte
+22.803982
+92.815475
+Debris
+Slide
+NA
+21059
+MZ/LUN/84B13/2018/16
+Mizoram
+Lunglei
+ 
+0.8km from bualte towards 
+lawngtlai
+22.804358
+92.816559
+Debris
+Slide
+NA
+21060
+MZ/LUN/84B13/2018/17
+Mizoram
+Lunglei
+ 
+0.7km from Bulate towards 
+Lawngtlai
+22.804701
+92.816734
+Rock
+Fall
+NA
+21061
+MZ/LUN/84B13/2018/18
+Mizoram
+Lunglei
+ 
+10 km from Thualtu
+22.806564
+92.812057
+Rock
+Slide
+NA
+21062
+MZ/LUN/84B13/2018/19
+Mizoram
+Lunglei
+ 
+Thaizawl village
+22.812588
+92.807343
+Rock
+Slide
+2018
+21063
+MZ/LUN/84B13/2018/20
+Mizoram
+Lunglei
+ 
+Thaizawl village
+22.813019
+92.805801
+Soil
+Slide
+NA
+21064
+MZ/LUN/84B13/2018/21
+Mizoram
+Lunglei
+ 
+about 500m from Thaizawl
+22.815697
+92.802696
+Debris
+Slide
+NA
+21065
+MZ/LUN/84B09/2018/25
+Mizoram
+Lunglei
+Phairuangkai Slide
+Phairuangkai-West Rotlang 
+road, ChangpuiVeng, 
+Phairuangkai.
+22.82106
+92.637703
+Soil
+Flow
+NA
+21066
+MZ/LUN/84B13/2018/22
+Mizoram
+Lunglei
+ 
+2km from Thaizawl towards 
+Lawngtlai
+22.821659
+92.804405
+Debris
+Slide
+NA
+21067
+MZ/LUN/84B13/2018/23
+Mizoram
+Lunglei
+ 
+Chumkhum -Phairungkai
+22.822599
+92.624512
+Soil
+Slide
+NA
+21068
+MZ/LUN/84B13/2018/24
+Mizoram
+Lunglei
+ 
+Chumkhum -Phairungkai
+22.823553
+92.628441
+Soil
+Slide
+NA
+21069
+MZ/LUN/84F01/2018/2
+Mizoram
+Lunglei
+ 
+1.5 km South of Luatpuitlang on 
+PMGSY South Vanlaphai-
+Muallanpui Road
+22.823893
+93.036804
+Debris
+Slide
+2018
+21070
+MZ/LUN/84B13/2018/25
+Mizoram
+Lunglei
+ 
+Chumkhum village (Diversion)
+22.82402
+92.608917
+Soil
+Slide
+NA
+21071
+MZ/LUN/84B13/2018/26
+Mizoram
+Lunglei
+ 
+Darzo-S. Vanlaphai
+22.826855
+92.971519
+Rock
+Slide
+NA
+21072
+MZ/LUN/84B13/2018/27
+Mizoram
+Lunglei
+ 
+about 3.5Km from Thaizawl
+22.827084
+92.80175
+Soil
+Slide
+2018
+21073
+MZ/LUN/84B13/2018/28
+Mizoram
+Lunglei
+ 
+S. Vanlaphai-Darzo
+22.827406
+92.975822
+Rock
+Fall
+NA
+21074
+MZ/LUN/84B13/2018/29
+Mizoram
+Lunglei
+ 
+Lunglei-Tlangpui Road
+22.829491
+92.760933
+Debris
+Slide
+NA
+21075
+MZ/LUN/84B13/2018/30
+Mizoram
+Lunglei
+ 
+E Rotlang- S. Mualthuam
+22.832573
+92.892761
+Rock
+Slide
+NA
+21076
+MZ/LUN/84B13/2018/31
+Mizoram
+Lunglei
+ 
+Darzo village
+22.83358
+92.955582
+Debris
+Slide
+NA
+21077
+MZ/LUN/84B13/2018/32
+Mizoram
+Lunglei
+ 
+Lunglei-Tlangpui Road
+22.834824
+92.758766
+Debris
+Slide
+NA
+21078
+MIZO/LUN/84B13/2005/E-21
+Mizoram
+Lunglei
+Lunglei-8 slide
+ 
+22.83528
+92.80519
+Rock
+Fall
+NA
+21079
+MZ/LUN/84B13/2018/33
+Mizoram
+Lunglei
+ 
+Lunglei-Tlangpui Road
+22.836016
+92.759361
+Soil
+Slide
+NA
+21080
+MZ/LUN/84B13/2018/34
+Mizoram
+Lunglei
+ 
+E Rotlang- S. Mualthuam
+22.8363
+92.892799
+Rock
+Slide
+NA
+21081
+MIZO/LUN/84B13/2005/E-23
+Mizoram
+Lunglei
+Lunglei-10 slide
+ 
+22.83653
+92.80092
+Rock
+Fall
+NA
+21082
+MIZO/LUN/84B13/2005/E-22
+Mizoram
+Lunglei
+Lunglei-9 slide
+ 
+22.83664
+92.80347
+Rock
+Fall
+NA
+21083
+MIZO/LUN/84B13/2005/E-24
+Mizoram
+Lunglei
+Lunglei-11 slide
+ 
+22.83675
+92.79922
+Rock
+Fall
+NA
+21084
+MZ/LUN/84B13/2018/35
+Mizoram
+Lunglei
+ 
+about 300m from TNT home,  
+along Lunglei- Lawngtlai Rd
+22.837624
+92.797165
+Rock
+Slide
+NA

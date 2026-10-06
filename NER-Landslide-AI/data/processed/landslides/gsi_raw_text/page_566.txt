@@ -1,0 +1,437 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22311
+MIZ/AIZ/84A13/2016/32
+Mizoram
+Aizawl
+ 
+~16 km from Khawruhlian 
+towards Sesawng on NH 150
+23.860102
+92.834056
+Debris
+Slide
+2016
+22312
+MZ/CHA/84E01/2017/47
+Mizoram
+Champhai
+ 
+5 km S of Ngopa
+23.860167
+93.194778
+Debris
+Slide
+NA
+22313
+MZ/CHA/84E01/2017/2
+Mizoram
+Champhai
+ 
+3.2 km S of Ngopa
+23.860361
+93.203804
+Debris
+Slide
+NA
+22314
+MZ/CHA/84E01/2017/3
+Mizoram
+Champhai
+ 
+3.2 km S of Ngopa
+23.860361
+93.203804
+Rock
+Slide
+2017
+22315
+MZ/CHA/84E05/2017/14
+Mizoram
+Champhai
+ 
+KawlbemVaikhawtlang section
+23.861805
+93.364944
+Debris
+Slide
+2017
+22316
+MZ/CHA/84E01/2017/29
+Mizoram
+Champhai
+ 
+2.5 km S of Ngopa
+23.862638
+93.204025
+Debris
+Slide
+2017
+22317
+MZ/CHA/84E01/2017/20
+Mizoram
+Champhai
+ 
+3.8 km S of Ngopa
+23.863417
+93.201279
+Debris
+Slide
+NA
+22318
+MIZ/AIZ/84A13/2016/127
+Mizoram
+Aizawl
+ 
+Khawkawi section
+23.865694
+92.932639
+Rock
+Slide
+NA
+22319
+MZ/CHA/84E01/2017/41
+Mizoram
+Champhai
+ 
+5 km from Ngopa
+23.866138
+93.222809
+Debris
+Slide
+NA
+22320
+MZ/CHA/84E01/2017/13
+Mizoram
+Champhai
+ 
+2 km S of Ngopa
+23.867277
+93.205643
+Debris
+Slide
+2017
+22321
+MZ/CHA/84E01/2017/42
+Mizoram
+Champhai
+ 
+Near Ngopa village
+23.868279
+93.222557
+Debris
+Slide
+NA
+22322
+MIZ/AIZ/84A09/2016/53
+Mizoram
+Aizawl
+ 
+~1km from Lungdai, on Silchar 
+Road (Siphir-Serkhan section)
+23.868917
+92.735472
+Rock
+Fall
+2016
+22323
+MIZ/AIZ/84A13/2016/15
+Mizoram
+Aizawl
+ 
+Khawruhlian village on NH150
+23.869861
+92.877444
+Debris
+Slide
+2016
+22324
+MZ/MAM/84A05/2020/6
+Mizoram
+Mamit
+South  of Mamit slide
+South  of Mamit
+23.87
+92.5
+Rock
+Slide
+2019
+22325
+MZ/CHA/84E01/2017/17
+Mizoram
+Champhai
+ 
+1 km S of Ngopa
+23.870445
+93.208611
+Debris
+Slide
+2017
+22326
+MZ/CHA/84E05/2017/9
+Mizoram
+Champhai
+ 
+KawlbemVaikhawtlang section
+23.870445
+93.353859
+Debris
+Slide
+NA
+22327
+MZ/CHA/84E01/2017/49
+Mizoram
+Champhai
+ 
+Near Ngopa village
+23.870567
+93.215149
+Debris
+Slide
+NA
+22328
+MZ/AIZ/84E01/2017/90
+Mizoram
+Aizawl
+ 
+PhullenPhuaibuang
+23.870583
+93.095444
+Rock
+Slide
+NA
+22329
+MZ/AIZ/84E01/2017/65
+Mizoram
+Aizawl
+ 
+Ainawl village
+23.87075
+93.078529
+Debris
+Slide
+2017
+22330
+MIZ/AIZ/84A13/2016/7
+Mizoram
+Aizawl
+ 
+near Pehlawn
+23.871694
+92.919955
+Debris
+Slide
+2016
+22331
+MZ/AIZ/84E01/2017/96
+Mizoram
+Aizawl
+ 
+~5k m from Ainawl along 
+PhullenPhuaibuang section
+23.872055
+93.094276
+Rock
+Slide
+NA
+22332
+MZ/CHA/84E05/2017/17
+Mizoram
+Champhai
+ 
+KawlbemVaikhawtlang section
+23.87211
+93.335999
+Rock
+Slide
+NA
+22333
+MIZ/AIZ/84A13/2016/16
+Mizoram
+Aizawl
+ 
+Khawruhlian village(near 
+culvert) on NH150
+23.872722
+92.874083
+Rock
+Slide
+1996
+22334
+MZ/CHA/84E01/2017/11
+Mizoram
+Champhai
+ 
+KawlbemNgopa section
+23.874056
+93.244469
+Rock
+Slide
+NA
+22335
+MZ/CHA/84E01/2017/44
+Mizoram
+Champhai
+ 
+Ngopa village
+23.875174
+93.21302
+Debris
+Slide
+NA
+22336
+MZ/CHA/84E05/2017/2
+Mizoram
+Champhai
+ 
+KawlbemNgopa section
+23.876139
+93.260445
+Debris
+Slide
+NA
+22337
+MZ/CHA/84E05/2017/11
+Mizoram
+Champhai
+ 
+NgopaTeikhang section
+23.877806
+93.267609
+Rock
+Fall
+2017
+22338
+MIZ/AIZ/84A09/2016/92
+Mizoram
+Aizawl
+ 
+Near Lengpui-NH 54 junction
+23.88
+92.69
+Rock
+Fall
+2016
+22339
+MZ/MAM/84A05/2020/7
+Mizoram
+Mamit
+Mamit road slide
+Junction between NH-108 
+bypass and Mamit road
+23.88
+92.5
+Rock
+Slide
+2019
+22340
+MZ/CHA/84E01/2017/39
+Mizoram
+Champhai
+ 
+KawlbemNgopa section
+23.881056
+93.245804
+Debris
+Slide
+NA
+22341
+MZ/CHA/84E05/2017/23
+Mizoram
+Champhai
+ 
+KawlbemNgopa section
+23.881361
+93.257027
+Rock
+Slide
+NA
+22342
+MZ/CHA/84E01/2017/40
+Mizoram
+Champhai
+ 
+19 km from ngopa
+23.88139
+93.243027
+Debris
+Slide
+2017
+22343
+MZ/CHA/84E01/2017/4
+Mizoram
+Champhai
+ 
+KawlbemNgopa section
+23.881639
+93.234642
+Debris
+Slide
+NA
+22344
+MZ/CHA/84E05/2017/24
+Mizoram
+Champhai
+ 
+KawlbemNgopa section
+23.881971
+93.250969
+Rock
+Slide
+NA
+22345
+MZ/AIZ/84E01/2017/57
+Mizoram
+Aizawl
+ 
+ZawnginPhullen section
+23.882055
+93.041222
+Debris
+Slide
+NA
+22346
+MZ/CHA/84E01/2017/23
+Mizoram
+Champhai
+ 
+KawlbemNgopa section
+23.882389
+93.248947
+Debris
+Slide
+2017
+22347
+MIZ/AIZ/84A13/2016/22
+Mizoram
+Aizawl
+ 
+2.5 km S of Khawruhlian 
+towards Sesawng on NH 150
+23.882583
+92.877639
+Debris
+Slide
+2016
+22348
+MIZ/AIZ/84A13/2016/23
+Mizoram
+Aizawl
+ 
+4.2 km S of Khawruhlian 
+towards Sesawng on NH 150
+23.88319
+92.869
+Debris
+Slide
+2016

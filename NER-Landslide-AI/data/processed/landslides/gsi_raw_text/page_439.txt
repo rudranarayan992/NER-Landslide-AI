@@ -1,0 +1,535 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+17797
+MH/SIN/47H08/2021/16A
+Maharashtra
+Sindhudury/Vengurla
+Korjai-Anandwadi
+Korjai-Anandwadi road
+16.00278611
+73.49911111
+Soil
+Subsidence 
+July 2021
+17798
+MH/SIN/47H08/2021/16B
+Maharashtra
+Sindhudury/Vengurla
+Korjai-Anandwadi
+Korjai-Anandwadi road
+16.00294444
+73.49891667
+Debris
+Slide
+July 2021
+17799
+MH/SIN/47H08/2021/17
+Maharashtra
+Sindhudurg/Malvan
+Taraiwadi 
+24km NE Malvan  by Malvan-
+Achara road
+15.68551111
+74.12594167
+Soil
+Subsidence 
+19 July 2021.
+17800
+MH/PUN/47E12/2024/01
+Maharashtra
+Pune
+Lohagad
+Lohagad
+18.70779722
+73.48077778
+Soil
+Subsidence
+26 July 2024
+17801
+7274
+Maharashtra
+Pune
+Dimbe
+19.0797
+73.72756
+Debris
+Slide
+20 August 2025
+17802
+7275
+Maharashtra
+Pune
+paveghat road
+18.3355
+73.67758
+Rock
+Slide
+19 August 2025
+17803
+7280
+Maharashtra
+Pune
+18.33571
+73.67774
+Rock
+Fall
+19 August 2025
+17804
+7281
+Maharashtra
+Pune
+Paveghat road
+18.33455
+73.67761
+Debris
+Slide
+20 August 2025
+17805
+7282
+Maharashtra
+Pune
+pabeghat road
+18.33617
+73.67298
+Debris
+Slide
+19 August 2025
+17806
+LA/LEH/52P02/2020/3
+UT: Ladakh
+Leh
+ 
+ 
+32.6
+79.01
+Rock
+Slide
+NA
+17807
+LA/LEH/52P02/2020/4
+UT: Ladakh
+Leh
+ 
+ 
+32.62
+79.15
+Debris
+Slide
+NA
+17808
+LA/LEH/52P02/2020/1
+UT: Ladakh
+Leh
+ 
+ 
+32.63
+79.17
+Debris
+Slide
+NA
+17809
+LA/LEH/52P02/2020/2
+UT: Ladakh
+Leh
+ 
+ 
+32.63
+79.17
+Rock
+Slide
+NA
+17810
+LA/LEH/52L14/2020/1
+UT: Ladakh
+Leh
+ 
+ 
+32.7
+78.96
+Rock
+Fall
+NA
+17811
+LA/LEH/52L13/2020/10
+UT: Ladakh
+Leh
+ 
+ 
+32.74
+78.95
+Rock
+Fall
+NA
+17812
+LA/LEH/52L13/2020/9
+UT: Ladakh
+Leh
+ 
+ 
+32.74
+78.95
+Rock
+Fall
+NA
+17813
+LA/LEH/52L05/2020/3
+UT: Ladakh
+Leh
+ 
+ 
+32.77
+78.29
+Rock
+Slide
+NA
+17814
+LA/LEH/52L05/2020/1
+UT: Ladakh
+Leh
+ 
+ 
+32.78
+78.26
+Rock
+Slide
+NA
+17815
+LA/LEH/52L13/2020/3
+UT: Ladakh
+Leh
+ 
+ 
+32.78
+78.96
+Rock
+Fall
+NA
+17816
+LA/LEH/52L13/2020/4
+UT: Ladakh
+Leh
+ 
+ 
+32.78
+78.97
+Rock
+Fall
+NA
+17817
+LA/LEH/52L13/2020/5
+UT: Ladakh
+Leh
+ 
+ 
+32.78
+79
+Rock
+Fall
+NA
+17818
+LA/LEH/52L01/2020/6
+UT: Ladakh
+Leh
+ 
+ 
+32.79
+78.23
+Rock
+Slide
+NA
+17819
+LA/LEH/52L13/2020/1
+UT: Ladakh
+Leh
+ 
+ 
+32.79
+78.96
+Rock
+Fall
+NA
+17820
+LA/LEH/52L13/2020/12
+UT: Ladakh
+Leh
+ 
+ 
+32.79
+78.99
+Rock
+Fall
+NA
+17821
+LA/LEH/52L13/2020/13
+UT: Ladakh
+Leh
+ 
+ 
+32.79
+78.99
+Rock
+Fall
+NA
+17822
+LA/LEH/52L13/2020/2
+UT: Ladakh
+Leh
+ 
+ 
+32.79
+78.95
+Rock
+Fall
+NA
+17823
+LA/LEH/52L13/2020/6
+UT: Ladakh
+Leh
+ 
+ 
+32.79
+78.96
+Rock
+Fall
+NA
+17824
+LA/LEH/52L13/2020/7
+UT: Ladakh
+Leh
+ 
+ 
+32.79
+79
+Rock
+Fall
+NA
+17825
+LA/LEH/52L13/2020/8
+UT: Ladakh
+Leh
+ 
+ 
+32.79
+78.97
+Rock
+Fall
+NA
+17826
+LA/LEH/52P01/2020/1
+UT: Ladakh
+Leh
+ 
+ 
+32.79
+79
+Rock
+Fall
+NA
+17827
+LA/LEH/52L01/2020/5
+UT: Ladakh
+Leh
+ 
+ 
+32.8
+78.23
+Rock
+Slide
+NA
+17828
+LA/LEH/52L01/2020/7
+UT: Ladakh
+Leh
+ 
+ 
+32.8
+78.22
+Rock
+Slide
+NA
+17829
+LA/LEH/52L13/2020/11
+UT: Ladakh
+Leh
+ 
+ 
+32.8
+78.98
+Rock
+Fall
+NA
+17830
+LA/LEH/52L09/2020/1
+UT: Ladakh
+Leh
+ 
+ 
+32.82
+78.75
+Rock
+Fall
+NA
+17831
+LA/LEH/52L01/2020/1
+UT: Ladakh
+Leh
+ 
+ 
+32.88
+78.24
+Rock
+Slide
+NA
+17832
+LA/LEH/52L01/2020/2
+UT: Ladakh
+Leh
+ 
+ 
+32.88
+78.24
+Rock
+Slide
+NA
+17833
+LA/LEH/52L01/2020/3
+UT: Ladakh
+Leh
+ 
+ 
+32.88
+78.24
+Rock
+Slide
+NA
+17834
+LA/LEH/52L01/2020/4
+UT: Ladakh
+Leh
+ 
+ 
+32.89
+78.24
+Rock
+Slide
+NA
+17835
+LA/LEH/52L05/2020/2
+UT: Ladakh
+Leh
+ 
+ 
+32.98
+78.26
+Rock
+Slide
+NA
+17836
+LA/LEH/52L05/2020/4
+UT: Ladakh
+Leh
+ 
+ 
+32.98
+78.27
+Rock
+Slide
+NA
+17837
+LA/LEH/52K08/2020/1
+UT: Ladakh
+Leh
+ 
+ 
+33.01
+78.29
+Debris
+Slide
+NA
+17838
+LA/LEH/52K08/2020/2
+UT: Ladakh
+Leh
+ 
+ 
+33.01
+78.29
+Debris
+Slide
+NA
+17839
+LA/LEH/52K08/2020/3
+UT: Ladakh
+Leh
+ 
+ 
+33.02
+78.33
+Debris
+Slide
+NA
+17840
+LA/LEH/52K12/2020/7
+UT: Ladakh
+Leh
+ 
+ 
+33.06
+78.55
+Rock
+Slide
+NA
+17841
+LA/LEH/52K12/2020/8
+UT: Ladakh
+Leh
+ 
+ 
+33.06
+78.55
+Rock
+Slide
+NA
+17842
+LA/LEH/52K16/2020/8
+UT: Ladakh
+Leh
+ 
+ 
+33.08
+78.84
+Rock
+Fall
+NA
+17843
+LA/LEH/52K08/2020/11
+UT: Ladakh
+Leh
+ 
+ 
+33.11
+78.33
+Debris
+Slide
+NA
+17844
+LA/LEH/52K12/2020/2
+UT: Ladakh
+Leh
+ 
+ 
+33.11
+78.72
+Rock
+Slide
+NA

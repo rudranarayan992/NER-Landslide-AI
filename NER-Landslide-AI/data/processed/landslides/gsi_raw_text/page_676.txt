@@ -1,0 +1,430 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+26817
+SKM-02/2012-13
+Sikkim
+ East Sikkim
+Chopse Slide
+Rongli-Rolep road
+27.26616667
+88.72697222
+Debris
+Slide 
+7 June 2012 at 4:30 hrs.
+26818
+SKM-03/2012-13
+Sikkim
+ East Sikkim
+Dharakham Slide
+Rongli-Rolep road
+27.26544444
+88.72252778
+Debris
+Slide 
+7 June 2012 at 4:50 hrs.
+26819
+SKM-04/2012-13
+Sikkim
+ East Sikkim
+Rockse Slide 1
+Panthang to Dikchu road
+27.37441667
+88.54505556
+Rock
+13 July 2012
+26820
+SKM-05/2012-13
+Sikkim
+ East Sikkim
+Rockse Slide 2
+Panthang to Dikchu road
+27.36977778
+88.54466667
+Rock
+13 July 2012
+26821
+SKM-06/2012-13
+Sikkim
+North Sikkim
+Pegong Slide
+Mangan-Chungthang road
+27.59027778
+88.65394444
+Debris
+Slide 
+26 June 2012
+26822
+SKM-07/2012-13
+Sikkim
+North Sikkim
+Theng Slide
+On Mangan-Chungthang road
+27.57502778
+88.65402778
+Debris
+Slide 
+22 June 2012
+26823
+SKM-08/2012-13
+Sikkim
+North Sikkim
+Tung Slide
+On Mangan-Chungthang road
+27.56111111
+88.65452778
+Debris
+Slide 
+22 June 2012
+26824
+SKM-09/2012-13
+Sikkim
+North Sikkim
+Rubom Slide
+On Mangan-Chungthang
+road
+27.52838889
+88.59972222
+Debris
+Slide 
+22 June 2012
+26825
+SKM-10/2012-13
+Sikkim
+North Sikkim
+Singik Slide
+On Mangan-Chungthang road
+27.56941667
+88.65272222
+Debris
+Slide 
+22 June 2012
+26826
+SKM-11/2012-13
+Sikkim
+North Sikkim
+Deodara Slide
+On Mangan-Chungthang
+road
+27.51491667
+88.56313889
+Debris
+Slide 
+17 July 2012
+26827
+SKM/78A11/2009
+Sikkim
+North Sikkim
+Chandera village/Singhik Village 27.51444444
+88.56777778
+Debris
+Slide 
+9 May 2009 at 14.00 hrs.
+26828
+7253
+Sikkim
+South Sikkim
+NHPC TEESTA V POWER HOUSE
+27.25102
+88.460004
+Rock
+slide
+2024
+26829
+TR/DHA/84A02/2015/55
+Tripura
+Dhalai
+ 
+AH post Indo-Bangladesh 
+border
+23.653556
+92.035139
+Debris
+Slide
+2015
+26830
+TR/DHA/84A02/2015/19
+Tripura
+Dhalai
+ 
+Near Manoranjan BSF BOP
+23.663361
+92.015111
+Debris
+Slide
+2015
+26831
+TR/DHA/84A02/2015/5
+Tripura
+Dhalai
+ 
+Near Govindbari BSF 
+BPO(~400m from Govindbari 
+slide)
+23.678056
+92.038028
+Debris
+Slide
+2015
+26832
+TR/DHA/84A02/2015/6
+Tripura
+Dhalai
+Govindbari slide
+Near Govindbari BSF BPO
+23.679
+92.039278
+Debris
+Slide
+2015
+26833
+TR/DHA/84A02/2015/17
+Tripura
+Dhalai
+ 
+ 
+23.687417
+92.054528
+Debris
+Slide
+NA
+26834
+TR/DHA/84A02/2015/16
+Tripura
+Dhalai
+ 
+32 miles to Gobindabari road
+23.691167
+92.055444
+Rock
+Slide
+2015
+26835
+TR/DHA/84A02/2015/18
+Tripura
+Dhalai
+ 
+Budhijoypara
+23.692222
+92.015833
+Earth
+Slide
+2015
+26836
+TR/DHA/84A02/2015/1
+Tripura
+Dhalai
+Rabiraipara slide
+NE of Rabiraipara
+23.693
+92.054472
+Debris
+Slide
+2015
+26837
+TR/DHA/84A02/2015/2
+Tripura
+Dhalai
+Ratiapara slide
+Near Ratiapara
+23.693
+92.014361
+Debris
+Slide
+NA
+26838
+TR/DHA/84A02/2015/15
+Tripura
+Dhalai
+ 
+Ratiapara BSF BOP
+23.694139
+92.013278
+Debris
+Slide
+2015
+26839
+TR/NTR/84A02/2015/4
+Tripura
+North Tripura
+Nasharampara slide
+Nasharampara village
+23.697694
+92.071194
+Debris
+Slide
+2015
+26840
+TR/DHA/84A02/2015/21
+Tripura
+Dhalai
+ 
+ 
+23.69925
+92.044694
+Debris
+Slide
+NA
+26841
+TR/NTR/84A02/2015/54
+Tripura
+North Tripura
+ 
+98 BSF battalion Post, near nala 23.727194
+92.242722
+Rock
+Fall
+2015
+26842
+TR/DHA/84A01/2015/23
+Tripura
+Dhalai
+Eastern slope
+Purnadapara
+23.793444
+92.125833
+Debris
+Slide
+2015
+26843
+TR/GMT/79 M10/2018/006
+Tripura
+Gomati
+Taidu landslide (opposite to Taidu 
+Police Station)
+Near Taidu Police Station, Ompi 
+Block
+23.793444
+91.552056
+Soil
+Slide
+20 May 2018
+26844
+TR/GMT/79M10/2018/007
+Tripura
+Gomati
+Taidu Police Station landslide
+Taidu, Ompi
+23.794253
+91.553533
+Soil
+Slide
+20 May 2018
+26845
+TR/DHA/84A01/2015/39
+Tripura
+Dhalai
+ 
+Bothraipara
+23.797306
+92.120417
+Debris
+Slide
+2015
+26846
+TR/DHA/84A01/2015/38
+Tripura
+Dhalai
+ 
+towards Purnadapara
+23.805528
+92.120417
+Debris
+Slide
+2015
+26847
+TR/DHA/84A01/2015/22
+Tripura
+Dhalai
+ 
+~1km W of Haridyalroajapara
+23.821
+92.094417
+Debris
+Slide
+2015
+26848
+TR/NTR/84A05/2015/3
+Tripura
+North Tripura
+TSR camp, Phuldungsei slide
+Phuldungsei village
+23.824722
+92.260722
+Rock
+Slide
+NA
+26849
+TR/DHA/84A01/2015/20
+Tripura
+Dhalai
+ 
+Near Khakching kami TSR camp 23.828278
+92.023389
+Debris
+Slide
+2015
+26850
+TRI/TRI-W/79M05/2009/G-1
+Tripura
+West Tripura
+Kayerpur Landslide
+ 
+23.85417
+91.34361
+Debris
+Slide
+10 July 2009
+26851
+TR/NTR/84A01/2015/37
+Tripura
+North Tripura
+ 
+ 
+23.882833
+92.241583
+Debris
+Slide
+2015
+26852
+TR/NTR/84A05/2015/25
+Tripura
+North Tripura
+ 
+N of Sabual
+23.890278
+92.272528
+Debris
+Slide
+2015
+26853
+TR/NTR/84A05/2015/32
+Tripura
+North Tripura
+ 
+W of Tharmapara
+23.891083
+92.288361
+Debris
+Slide
+NA
+26854
+TR/NTR/84A05/2015/30
+Tripura
+North Tripura
+ 
+W of Tharmapara
+23.89125
+92.288056
+Debris
+Slide
+NA

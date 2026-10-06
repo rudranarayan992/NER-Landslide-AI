@@ -1,0 +1,440 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22745
+MZ/AZL/84A10/2024/045
+Mizoram
+Aizawl
+Kulikawn cemetery, Aizawl
+23.71
+92.71611111
+Debris
+Slide
+28 May 2024
+22746
+MZ/AZL/84A10/2024/046
+Mizoram
+Aizawl
+Kulikawn, Aizawl
+23.70777778
+92.71611111
+Debris
+Slide
+January 2023
+22747
+MZ/AZL/84A10/2024/047
+Mizoram
+Aizawl
+Kulikawn, Aizawl
+23.70666667
+92.71444444
+Debris
+Flow
+28 May 2024
+22748
+MZ/AZL/84A10/2024/048
+Mizoram
+Aizawl
+Tlangnuam, Aizawl
+23.70527778
+92.71138889
+Debris
+Slide
+28 May 2024
+22749
+MZ/AZL/84A10/2024/049
+Mizoram
+Aizawl
+Tlangnuam CP Road, Aizawl
+23.70416667
+92.71222222
+Earth
+Slide
+28 May 2024
+22750
+MZ/AZL/84A10/2024/050
+Mizoram
+Aizawl
+Tlangnuam Vengthar, Aizawl
+23.70027778
+92.71611111
+Debris
+Slide
+28 May 2024
+22751
+MZ/AZL/84A10/2024/051
+Mizoram
+Aizawl
+Tlangnuam Vengthar, Aizawl
+23.69972222
+92.71694444
+Debris
+Slide
+28 May 2024
+22752
+MZ/AZL/84A10/2024/052
+Mizoram
+Aizawl
+Trinity Hospital, Silaimual, 
+Aizawl
+23.68027778
+92.72472222
+Debris
+Slide
+28 May 2024
+22753
+MZ/AZL/84A10/2024/053
+Mizoram
+Aizawl
+Melthum to Hualngohmun 
+Road, Aizawl
+23.67805556
+92.72
+Debris
+Slide
+28 May 2024
+22754
+MZ/AZL/84A10/2024/054
+Mizoram
+Aizawl
+Paikhai, Melriat, Aizawl
+23.64333333
+92.73444444
+Earth
+Slide
+28 May 2024
+22755
+MZ/AZL/84A10/2024/055
+Mizoram
+Aizawl
+Melriat, Aizawl
+23.64638889
+92.72638889
+Debris
+Slide
+02 October 2023
+22756
+MZ/AZL/84A10/2024/056
+Mizoram
+Aizawl
+Melriat, Aizawl
+23.64638889
+92.72527778
+Debris
+Slide
+28 May 2024
+22757
+MZ/AZL/84A10/2024/057
+Mizoram
+Aizawl
+Kelsih
+23.63111111
+92.72388889
+Debris
+Slide
+28 May 2024
+22758
+MZ/AZL/84A10/2024/058
+Mizoram
+Aizawl
+Kelsih, Aizawl
+23.63055556
+92.72305556
+Debris
+Complex
+28 May 2024
+22759
+MZ/AZL/84A10/2024/059
+Mizoram
+Aizawl
+Falkawn, Aizawl
+23.62833333
+92.72333333
+Debris
+Slide
+28 May 2024
+22760
+MZ/AZL/84A10/2024/060
+Mizoram
+Aizawl
+Falkawn, Aizawl
+23.62277778
+92.72444444
+Debris
+Slide
+28 May 2024
+22761
+MZ/AZL/84A10/2024/061
+Mizoram
+Aizawl
+Falkawn, Aizawl
+23.62194444
+92.72305556
+Debris
+Slide
+28 May 2024
+22762
+MZ/AZL/84A10/2024/062
+Mizoram
+Aizawl
+Falkawn, Aizawl
+23.62083333
+92.7225
+Debris
+Slide
+28 May 2024
+22763
+MZ/AZL/84A10/2024/063
+Mizoram
+Aizawl
+Falkawn, Aizawl
+23.61916667
+92.7225
+Debris
+Slide
+28 May 2024
+22764
+MZ/AZL/84A10/2024/004
+Mizoram
+Aizawl
+Falkawn Vengthar, Aizawl
+23.62
+92.72472222
+Debris
+Complex
+28 May 2024
+22765
+MZ/AZL/84A10/2024/065
+Mizoram
+Aizawl
+Falkawn vengthar, Aizawl
+23.61972222
+92.72527778
+Debris
+Slide
+28 May 2024
+22766
+MZ/AZL/84A10/2024/066
+Mizoram
+Aizawl
+Falkawn vengthar, Aizawl
+23.62027778
+92.72555556
+Debris
+Slide
+28 May 2024
+22767
+MZ/AZL/84A10/2024/067
+Mizoram
+Aizawl
+Falkawn vengthar, Aizawl
+23.62027778
+92.72611111
+Debris
+Slide
+28 May 2024
+22768
+MZ/AZL/84A10/2024/068
+Mizoram
+Aizawl
+Falkawn vengthar, Aizawl
+23.62111111
+92.72444444
+Debris
+Slide
+28 May 2024
+22769
+MZ/AZL/84A10/2024/069
+Mizoram
+Aizawl
+Melthum, Aizawl
+23.68743333
+92.72129167
+Rock
+Complex
+28 May 2024
+22770
+MZ/AZL/84A10/2024/070
+Mizoram
+Aizawl
+Hlimen, Aizawl
+23.67694444
+92.71722222
+Rock
+Complex
+28 May 2024
+22771
+MZ/AZL/84A10/2024/071
+Mizoram
+Aizawl
+Hlimen, Aizawl
+23.67583333
+92.715
+Debris
+Slide
+28 May 2024
+22772
+MZ/AZL/84A10/2024/072
+Mizoram
+Aizawl
+Hlimen, Aizawl
+23.67472222
+92.71722222
+Debris
+Complex
+28 May 2024
+22773
+MZ/AZL/84A10/2024/073
+Mizoram
+Aizawl
+Hlimen, Aizawl
+23.67444444
+92.71472222
+Debris
+Slide
+28 May 2024
+22774
+MZ/AZL/84A10/2024/074
+Mizoram
+Aizawl
+Hlimen, Aizawl
+23.67388889
+92.71472222
+Debris
+Slide
+28 May 2024
+22775
+MZ/AZL/84A10/2024/075
+Mizoram
+Aizawl
+Hlimen, Aizawl
+23.672069
+92.7099293
+Debris
+Slide
+28 May 2024
+22776
+MZ/AZL/84A10/2024/076
+Mizoram
+Aizawl
+Hlimen, Aizawl
+23.684301
+92.715511
+Debris
+Slide
+28 May 2024
+22777
+MZ/AZL/84A10/2024/077
+Mizoram
+Aizawl
+World Bank Road, Kulikawn 
+East, Aizawl
+23.70638889
+92.72055556
+Debris
+Slide
+28 May 2024
+22778
+MZ/AZL/84A10/2024/078
+Mizoram
+Aizawl
+World Bank Road, Aizawl
+23.70416667
+92.72
+Rock
+Slide
+28 May 2024
+22779
+MZ/AZL/84A10/2024/079
+Mizoram
+Aizawl
+World Bank Road, Aizawl
+23.70305556
+92.72055556
+Debris
+Complex
+28 May 2024
+22780
+MZ/AZL/84A10/2024/080
+Mizoram
+Aizawl
+World Bank Road and 
+Saikhamakawn, Aizawl
+23.69333333
+92.72055556
+Debris
+Complex
+28 May 2024
+22781
+MZ/AZL/84A10/2024/081
+Mizoram
+Aizawl
+World Bank Road & Melthum, 
+Aizawl
+23.69138889
+92.72138889
+Debris
+Complex
+July 2023
+22782
+MZ/AZL/84A10/2024/082
+Mizoram
+Aizawl
+World Bank Road, Aizawl
+23.69
+92.72361111
+Debris
+Slide
+28 May 2024
+22783
+MZ/AZL/84A10/2024/083
+Mizoram
+Aizawl
+World Bank Road, Aizawl
+23.68361111
+92.72277778
+Debris
+Slide
+28 May 2024
+22784
+MZ/AZL/84A10/2024/084
+Mizoram
+Aizawl
+Melthum, Aizawl-Thenzawl-
+Lunglei Highway
+23.67611111
+92.71972222
+Debris
+Complex
+28 May 2024
+22785
+MZ/AZL/84A10/2024/085
+Mizoram
+Aizawl
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.67138889
+92.72361111
+Debris
+Slide
+28 May 2024
+22786
+MZ/AZL/84A10/2024/086
+Mizoram
+Aizawl
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.66694444
+92.72194444
+Debris
+Complex
+28 May 2024

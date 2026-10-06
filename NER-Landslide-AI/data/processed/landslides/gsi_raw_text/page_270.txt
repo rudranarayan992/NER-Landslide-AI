@@ -1,0 +1,415 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11697
+KA/CHI/48O11/2017/16
+Karnataka
+Chikmagalur
+Kaimara village area
+Near Kaimara
+13.368364
+75.74775
+Debris
+Slide
+NA
+11698
+KA/DAK/48O3/2017/18
+Karnataka
+Dakshin Kannad
+Sunkadamakki
+HarebailKachchodi road section 
+(NH13)
+13.371161
+75.214142
+Debris
+Slide
+NA
+11699
+KA/DAK/48O3/2017/20
+Karnataka
+Dakshin Kannad
+Sunkadamakki
+HarebailKachchodi road section 
+(NH13)
+13.374531
+75.214092
+Debris
+Slide
+NA
+11700
+KA/DAK/48O3/2017/21
+Karnataka
+Dakshin Kannad
+Sunkadamakki
+HarebailKachchodi road section 
+(NH13)
+13.376253
+75.211964
+Debris
+Slide
+NA
+11701
+KA/CHI/48O07/2017/1
+Karnataka
+Chikmagalur
+North West of Heruru
+Balehonnuru  Sringeri (SH  27)
+13.379221
+75.393189
+Debris
+Slide
+NA
+11702
+KA/CHI/48O11/2017/17
+Karnataka
+Chikmagalur
+Mulliyangiri hill
+Mulliyangiri hill road
+13.380311
+75.722208
+Debris
+Slide
+NA
+11703
+KA/CHI/48O07/2017/2
+Karnataka
+Chikmagalur
+North West of Heruru
+Balehonnuru  Sringeri (SH  27)
+13.382151
+75.385448
+Debris
+Slide
+NA
+11704
+KA/CHI/48O11/2017/1
+Karnataka
+Chikmagalur
+Kavikalgundi Village area
+Kavikalgundi road section
+13.385728
+75.724897
+Debris
+Slide
+NA
+11705
+KA/CHI/48O07/2017/5
+Karnataka
+Chikmagalur
+East of Herur
+Balehonnuru  Sringeri (SH  27)
+13.387708
+75.308033
+Debris
+Slide
+NA
+11706
+KA/DAK/48O3/2017/14
+Karnataka
+Dakshin Kannad
+Sirimane
+SindodiChatnamane road 
+section
+13.390861
+75.180214
+Debris
+Slide
+NA
+11707
+KA/CHI/48O11/2017/6
+Karnataka
+Chikmagalur
+Muthodi village area
+Muthodi road section
+13.393819
+75.645156
+Debris
+Slide
+NA
+11708
+KA/CHI/48O07/2017/4
+Karnataka
+Chikmagalur
+North of Agalagundi
+Balehonnuru  Sringeri (SH  27)
+13.394984
+75.339296
+Debris
+Slide
+NA
+11709
+KA/CHI/48O11/2017/7
+Karnataka
+Chikmagalur
+Muthodi village area
+Muthodi road section
+13.394986
+75.645078
+Debris
+Slide
+NA
+11710
+KA/CHI/48O11/2017/18
+Karnataka
+Chikmagalur
+Mulliyangiri hill
+Mulliyangiri hill road
+13.396244
+75.732494
+Debris
+Slide
+NA
+11711
+KA/CHI/48O11/2017/8
+Karnataka
+Chikmagalur
+Muthodi village area
+Muthodi road section
+13.398056
+75.644892
+Debris
+Slide
+NA
+11712
+KA/CHI/48O07/2017/3
+Karnataka
+Chikmagalur
+South of Jayapura
+Balehonnuru  Sringeri (SH  27)
+13.39838
+75.372827
+Debris
+Slide
+NA
+11713
+KA/CHI/48O11/2017/9
+Karnataka
+Chikmagalur
+Muthodi village area
+Muthodi road section
+13.3989
+75.644167
+Debris
+Slide
+NA
+11714
+KA/CHI/48O11/2017/4
+Karnataka
+Chikmagalur
+Kavikalgundi village area
+Kavikalgundi road section
+13.401244
+75.734019
+Debris
+Slide
+NA
+11715
+KA/CHI/48O11/2017/12
+Karnataka
+Chikmagalur
+Muthodi village area
+Muthodi road section
+13.403428
+75.609367
+Debris
+Slide
+NA
+11716
+KA/DAK/48O3/2017/7
+Karnataka
+Dakshin Kannad
+Tyavana
+KachchodiHandigodu road 
+section (NH13)
+13.403739
+75.233336
+Debris
+Slide
+NA
+11717
+KA/CHI/48O11/2017/19
+Karnataka
+Chikmagalur
+Mulliyangiri hill
+Mulliyangiri hill road
+13.405536
+75.742908
+Debris
+Slide
+NA
+11718
+KA/CHI/48O11/2017/5
+Karnataka
+Chikmagalur
+Kavikalgundi village area
+Kavikalgundi road section
+13.405967
+75.74395
+Debris
+Slide
+NA
+11719
+KA/CHI/48O11/2017/20
+Karnataka
+Chikmagalur
+Mulliyangiri hill
+Mulliyangiri hill road
+13.406292
+75.7346
+Debris
+Slide
+NA
+11720
+KA/CHI/48O11/2017/10
+Karnataka
+Chikmagalur
+Muthodi village area
+Muthodi road section
+13.407422
+75.646506
+Debris
+Slide
+NA
+11721
+KA/CHI/48O11/2017/11
+Karnataka
+Chikmagalur
+Muthodi village area
+Muthodi road section
+13.409183
+75.618222
+Debris
+Slide
+NA
+11722
+KA/CHI/48O11/2017/21
+Karnataka
+Chikmagalur
+Mulliyangiri hill
+Mulliyangiri hill road
+13.414597
+75.724731
+Debris
+Slide
+NA
+11723
+KA/CHI/48O11/2017/22
+Karnataka
+Chikmagalur
+Muthodi village area
+Muthodi  road
+13.417269
+75.642972
+Debris
+Slide
+NA
+11724
+KA/CHI/48O11/2017/2
+Karnataka
+Chikmagalur
+Kavikalgundi Attigundi village area
+Kavikalgundi Attigundi 
+Kemmannugundi road section
+13.435458
+75.742806
+Debris
+Slide
+NA
+11725
+KA/DAK/48O3/2017/22
+Karnataka
+Dakshin Kannad
+Hulse
+KellarHulse road section (NH13) 13.436708
+75.190408
+Debris
+Slide
+NA
+11726
+KA/CHI/48O07/2017/13
+Karnataka
+Chikmagalur
+South East of Sulugodu
+Menase  Kalkere
+13.442789
+75.317796
+Debris
+Slide
+NA
+11727
+KA/CHI/48O07/2017/12
+Karnataka
+Chikmagalur
+South of Kavadi
+Sringeri  Koppa (NH  169)
+13.446392
+75.269855
+Debris
+Slide
+NA
+11728
+KA/CHI/48O07/2017/14
+Karnataka
+Chikmagalur
+North East of Sulugodu
+Menase  Kalkere
+13.447556
+75.317786
+Debris
+Slide
+NA
+11729
+KA/DAK/48O3/2017/13
+Karnataka
+Dakshin Kannad
+Nadpal
+BallmaneNadpal road section
+13.453847
+75.059181
+Debris
+Slide
+NA
+11730
+KA/UDU/48K15/2020/1
+Karnataka
+Udupi
+Santhe katte
+Udupi-Hebri route
+13.46
+74.96
+Debris
+Slide
+NA
+11731
+KA/DAK/48O3/2017/23
+Karnataka
+Dakshin Kannad
+Melinkoppa
+HolekoppaMelinkoppa road 
+section
+13.471956
+75.240756
+Debris
+Slide
+NA
+11732
+KA/DAK/48O3/2017/24
+Karnataka
+Dakshin Kannad
+Sitanadi
+BandimataChendakundu road 
+section
+13.473847
+75.033892
+Debris
+Slide
+NA

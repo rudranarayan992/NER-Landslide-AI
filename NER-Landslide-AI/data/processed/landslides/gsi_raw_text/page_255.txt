@@ -1,0 +1,444 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11062
+JK/POO/43K06/2020/18
+Jammu & Kashmir (UT)
+Poonch
+Dogey-8
+Bafliaz-Mughal road
+33.62848889
+74.46116111
+Rock
+Slide
+3rd week of November 2020
+11063
+JK/POO/43K06/2020/19
+Jammu & Kashmir (UT)
+Poonch
+Dogey-9
+Bafliaz-Mughal road
+33.63133889
+74.46073333
+Debris
+Slide
+3rd week of November 2020
+11064
+JK/POO/43K06/2020/20
+Jammu & Kashmir (UT)
+Poonch
+Dogrian 1
+Bafliaz-Mughal road
+33.63365833
+74.45164722
+Rock
+Slide
+3rd week of November 2020
+11065
+JK/POO/43K06/2020/21
+Jammu & Kashmir (UT)
+Poonch
+Dogrian 2
+Bafliaz-Mughal road
+33.63365833
+74.45164722
+Debris
+Slide
+3rd week of November 2020
+11066
+JK/POO/43K06/2020/22
+Jammu & Kashmir (UT)
+Poonch
+Panar-1
+Bafliaz-Mughal road
+33.63871389
+74.44077778
+Rock
+Slide
+3rd week of November 2020
+11067
+JK/POO/43K06/2020/23
+Jammu & Kashmir (UT)
+Poonch
+Panar-2
+Bafliaz-Mughal road
+33.63892222
+74.43150556
+Rock
+Slide
+3rd week of November 2020
+11068
+JK/RAJ/43K07/2020/24
+Jammu & Kashmir (UT)
+Rajouri
+Dhawan Kot
+Rajouri – Naushera
+33.26126389
+74.272975
+Rock
+Slide
+3rd week of November 2020
+11069
+JK/RAJ/43K08/2020/25
+Jammu & Kashmir (UT)
+Rajouri
+Dohgani
+Rajouri – Naushera
+33.19590833
+74.26733056
+Rock
+Slide
+3rd week of November 2020
+11070
+JK/REA/43K16/2020/26
+Jammu & Kashmir (UT)
+Reasi
+Dohgani
+Pouni-Katra road
+33.064
+74.83851667
+Debris
+Slide
+3rd week of November 2020
+11071
+JK/UDH/43P01/2021/27
+Jammu & Kashmir (UT)
+Udhampur
+Samroli 1
+Udhampur - Ramban National 
+Highway-44
+32.99101111
+75.19445278
+Rock
+Slide
+5 January 2021
+11072
+JK/UDH/43O04/2021/28
+Jammu & Kashmir (UT)
+Udhampur
+Samroli 2
+Udhampur - Ramban National 
+Highway-44
+33.00333056
+75.21495556
+Rock
+Slide
+5 January 2021
+11073
+JK/UDH/43O04/2021/29
+Jammu & Kashmir (UT)
+Udhampur
+Samroli 3
+Udhampur - Ramban National 
+Highway-44
+33.00401667
+75.21649444
+Debris
+Slide
+5 January 2021
+11074
+JK/UDH/43O04/2021/30
+Jammu & Kashmir (UT)
+Udhampur
+Samroli 4
+Udhampur - Ramban National 
+Highway-44
+33.00307778
+75.213475
+Debris
+Slide
+5 January 2021
+11075
+JK/UDH/43O04/2020/31
+Jammu & Kashmir (UT)
+Reasi
+Dalwas
+Udhampur-Dalwas road
+33.15492778
+75.30671111
+Debris
+Slide
+28th-29th March 2020
+11076
+JK/RAM/43O08/2021/33
+Jammu & Kashmir (UT)
+Ramban
+Batote
+Batote - Kishtwar road
+33.10976389
+75.33709444
+Debris
+Slide
+2012-2013, 1st week of January 2021
+11077
+JK/DOD/43O08/2020/34
+Jammu & Kashmir (UT)
+Doda
+Rote
+Batote -Doda road
+33.12354722
+75.38850278
+Rock
+Slide
+2nd week of December 2020
+11078
+JK/DOD/43O08/2020/35
+Jammu & Kashmir (UT)
+Doda
+Rote
+Batote-Doda road
+33.12332778
+75.389475
+Rock
+Slide
+2nd week of December 2020
+11079
+JK/DOD/43O12/2020/36
+Jammu & Kashmir (UT)
+Doda
+Kandosu
+Doda - Kishtwar National 
+Highway (NH-244)
+33.13876389
+75.57690278
+Debris
+Slide
+1st week of January 2021
+11080
+JK/DOD/43O12/2020/37
+Jammu & Kashmir (UT)
+Doda
+Kandosu-1
+Doda-Kishtwar National 
+Highway (NH-244)
+33.13620278
+75.58689444
+Debris
+Subsidence
+NA
+11081
+JK/DOD/43O12/2020/38
+Jammu & Kashmir (UT)
+Doda
+Mandelah
+Doda – Kishtwar National 
+Highway -244
+33.13641944
+75.59205556
+Debris
+Slide
+2nd week of December 2020
+11082
+JK/DOD/43O12/2021/39
+Jammu & Kashmir (UT)
+Doda
+Ghuraka landslide
+Doda-Kishtwar National 
+Highway (NH-244)
+33.13876389
+75.57690278
+Debris
+Slide
+2nd week of December 2020
+11083
+JK/DOD/43O12/2021/40
+Jammu & Kashmir (UT)
+Doda
+Sharni
+Doda-Kishtwar National 
+Highway (NH-244)
+33.14871667
+75.66985556
+Rock
+Slide
+2nd week of December 2020
+11084
+JK/JAM/43L14/2020/32
+Jammu & Kashmir (UT)
+Jammu
+Circular road
+Circular road, Jammu
+32.734316
+74.872952
+Debris (Mainly fill 
+material)
+Subsidence/Slid
+e
+16 August 2020
+11085
+JK/DOD/43O16/2021/41
+Jammu & Kashmir (UT)
+Drabshala
+Drabshala landslide
+Doda-Kishtwar National 
+Highway (NH-244)
+33.16887778
+75.80605278
+Debris
+Slide
+1st week of January 2021
+11086
+JK/DOD/43O16/2021/42
+Jammu & Kashmir (UT)
+Drabshala
+Drabhshala-1
+Doda-Kishtwar National 
+Highway 244
+33.18598889
+75.80758889
+Rock
+Planar
+1st week of January 2021
+11087
+JK/DOD/43O16/2021/43
+Jammu & Kashmir (UT)
+Chalasu
+Chalasu
+Doda-Kishtwar National 
+Highway 244
+33.22755278
+75.78973056
+Rock
+Slide
+1st week of January 2021
+11088
+JK/KIS/43O15/2021/44
+Jammu & Kashmir (UT)
+Kishtwar
+Hunjal-1
+Kishtwar – Gulabgarh road
+33.36171667
+75.75545
+Rock
+Fall
+1st week of January 2021
+11089
+JK/KIS/43O15/2021/45
+Jammu & Kashmir (UT)
+Kishtwar
+Hunjal-2
+Kishtwar – Gulabgarh road
+33.37269444
+75.75643889
+Debris
+Slide
+1st week of January 2021
+11090
+JK/KIS/43O15/2021/46
+Jammu & Kashmir (UT)
+Kishtwar
+Near Dul
+Kishtwar-Gulabgarh road
+33.37541667
+75.76091389
+Rock
+Slide
+1st week of January
+11091
+JK/KIS/43O15/2021/47
+Jammu & Kashmir (UT)
+Dul
+Dul
+Kishtwar-Gulabgarh road
+33.38313333
+75.76554167
+Rock
+Slide
+2nd week of December 2020
+11092
+JK/KIS/43O15/2021/48
+Jammu & Kashmir (UT)
+Kwar
+Kwar
+Kishtwar-Gulabgarh road
+33.35332222
+75.83721944
+Debris
+Slide
+1st week of February 2021
+11093
+JK/KIS/43O15/2021/49
+Jammu & Kashmir (UT)
+Kishtwar
+Dharbi
+Kishtwar- Gulabgarh road
+33.35760278
+75.84930278
+Rock
+Slide
+1st week of January 2021
+11094
+JK/KIS/43O15/2021/50
+Jammu & Kashmir (UT)
+Kishtwar
+Patharnaki-1
+Kishtwar- Gulabgarh road
+33.31898889
+75.98610556
+Rock
+Fall
+1st week of January 2021
+11095
+JK/KIS/52C03/2021/51
+Jammu & Kashmir (UT)
+Kishtwar
+Patharnaki-2
+Kishtwar- Gulabgarh road
+33.32688611
+76.02862222
+Rock
+Slide
+1st week of February 2021
+11096
+JK/KIS/52C03/2021/52
+Jammu & Kashmir (UT)
+Gulabgarh
+Gulabgarh
+Gulabgarh-Killar road
+33.27035278
+76.17381111
+Debris
+Slide
+2nd week of December 2020
+11097
+JK/KIS/52C04/2021/53
+Jammu & Kashmir (UT)
+Gulabgarh
+Luder
+Gulabgarh-Killar road
+33.23835833
+76.19320278
+Rock
+Slide
+1st week of January 2021
+11098
+JK/KIS/52C04/2021/54
+Jammu & Kashmir (UT)
+Gulabgarh
+Gulabgarh
+Gulabgarh-Killar road
+33.23758056
+76.19415833
+Rock
+Fall
+1st week of January 2021
+11099
+JK/DOD/43O12/2021/55
+Jammu & Kashmir (UT)
+Doda
+Bhatoli near Pul Doda
+Pul Doda - Bhaderwah road
+33.13192222
+75.56449722
+Rock
+Slide
+1st week of January 2021

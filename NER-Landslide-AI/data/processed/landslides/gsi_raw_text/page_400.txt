@@ -1,0 +1,477 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16363
+MH/SIN/48E13/2016/78
+Maharashtra
+Sindhudurg
+Sawantwadi-Danoli
+Sawantwadi-Danoli Road
+15.915778
+73.835278
+Earth
+Slump
+NA
+16364
+MH/SIN/48E13/2016/73
+Maharashtra
+Sindhudurg
+Dhanoli-Amboli road
+Dhanoli-Amboli Road
+15.933667
+73.9395
+Debris
+Slide
+2016
+16365
+MH/SIN/48E13/2016/74
+Maharashtra
+Sindhudurg
+Dhanoli-Amboli road
+Dhanoli-Amboli Road
+15.933917
+73.981194
+Debris
+Slide
+2016
+16366
+MH/SIN/48E13/2016/84
+Maharashtra
+Sindhudurg
+Dhanoli-Amboli road
+Dhanoli-Amboli Road
+15.934972
+73.990139
+Rock
+Slide
+NA
+16367
+MH/SIN/48E13/2016/75
+Maharashtra
+Sindhudurg
+Dhanoli-Amboli road
+Dhanoli-Amboli Road
+15.939111
+73.991778
+Debris
+Slide
+2016
+16368
+MH/SIN/48E13/2016/76
+Maharashtra
+Sindhudurg
+Dhanoli-Amboli road
+Dhanoli-Amboli Road
+15.940444
+73.994778
+Debris
+Slide
+2016
+16369
+MH/KOL/48I01/2017/13
+Maharashtra
+Kolhapur
+ 
+Road from Chandgad to Kasar 
+Sada
+15.948889
+74.154167
+Debris
+Slide
+NA
+16370
+MH/SIN/48E13/2016/85
+Maharashtra
+Sindhudurg
+Dhanoli-Amboli road
+Dhanoli-Amboli Road
+15.949583
+73.997
+Debris
+Slide
+NA
+16371
+MH/KOL/48I01/2017/11
+Maharashtra
+Kolhapur
+ 
+Road from Chandgad to Kasar 
+Sada
+15.955556
+74.156944
+Rock cum debris
+Slide
+NA
+16372
+MH/KOL/48I01/2017/7
+Maharashtra
+Kolhapur
+ 
+Road from Valkuli to Kerwadi
+15.961667
+74.246667
+Rock cum debris
+Fall
+NA
+16373
+MH/SIN/48E13/2016/17
+Maharashtra
+Sindhudurg
+Ambegaon-Kanduli
+Ambegaon-Kanduli Road
+15.980333
+73.834778
+Debris
+Slide
+2016
+16374
+MH/SIN/48E13/2016/66
+Maharashtra
+Sindhudurg
+Nivje-Narur road
+Nivje-Narur Road
+16.006472
+73.788806
+Debris
+Slide
+2016
+16375
+MH/SIN/48E13/2016/18
+Maharashtra
+Sindhudurg
+Dhondwadi-Gutyawadi
+Dhondwadi-Gutyawadi Road
+16.026222
+73.963278
+Debris
+Slide
+2016
+16376
+MH/SIN/48E13/2016/64
+Maharashtra
+Sindhudurg
+Dukanwadi-Teregalwadi road
+Dukanwadi-Teregalwadi Road
+16.032139
+73.933361
+Debris
+Slide
+2016
+16377
+MH/SIN/48E13/2016/63
+Maharashtra
+Sindhudurg
+Dukanwadi-Teregalwadi road
+Dukanwadi-Teregalwadi Road
+16.032222
+73.929778
+Earth
+Slide
+2016
+16378
+MH/SIN/48E13/2016/20
+Maharashtra
+Sindhudurg
+Gothve wadi, Shirshinge
+Gothve wadi, Shirshinge Road
+16.034194
+73.974722
+Debris
+Slide
+2016
+16379
+MH/SIN/48E13/2016/19
+Maharashtra
+Sindhudurg
+Gothve wadi, Shirshinge
+Gothve wadi, Shirshinge Road
+16.040083
+73.975222
+Debris
+Slide
+2016
+16380
+MH/SIN/48E13/2016/49
+Maharashtra
+Sindhudurg
+Shirshinge-Shivapur road
+Shirshinge-Shivapur Road
+16.042444
+73.975417
+Rock cum Debris
+Slide
+2016
+16381
+MH/SIN/48E13/2016/50
+Maharashtra
+Sindhudurg
+Shirshinge-Shivapur road
+Shirshinge-Shivapur Road
+16.043972
+73.977222
+Debris
+Slide
+2016
+16382
+MH/SIN/48E13/2016/54
+Maharashtra
+Sindhudurg
+Shirshinge-Shivapur road
+Shirshinge-Shivapur Road
+16.044444
+73.976583
+Rock cum Debris
+Slide
+2016
+16383
+MH/SIN/48E13/2016/52
+Maharashtra
+Sindhudurg
+Shirshinge-Shivapur road
+Shirshinge-Shivapur Road
+16.044833
+73.977667
+Rock cum Debris
+Slide
+2016
+16384
+MH/SIN/48E13/2016/53
+Maharashtra
+Sindhudurg
+Shirshinge-Shivapur road
+Shirshinge-Shivapur Road
+16.044833
+73.977056
+Rock cum Debris
+Slide
+2016
+16385
+MH/SIN/48E13/2016/51
+Maharashtra
+Sindhudurg
+Shirshinge-Shivapur road
+Shirshinge-Shivapur Road
+16.045444
+73.977667
+Rock cum Debris
+Slide
+2016
+16386
+MH/SIN/48E13/2016/55
+Maharashtra
+Sindhudurg
+Shirshinge-Shivapur road
+Shirshinge-Shivapur Road
+16.045694
+73.976917
+Rock cum Debris
+Slide
+2016
+16387
+MH/SIN/48E13/2016/67
+Maharashtra
+Sindhudurg
+Nivje-Narur road
+Nivje-Narur Road
+16.051472
+73.788806
+Debris
+Slide
+2016
+16388
+MH/SIN/48E13/2016/82
+Maharashtra
+Sindhudurg
+Nivje-Narur road
+Nivje-Narur Road
+16.051833
+73.78925
+Debris
+Slide
+NA
+16389
+MH/SIN/48E13/2016/65
+Maharashtra
+Sindhudurg
+Nivje-Narur road
+Nivje-Narur Road
+16.052972
+73.789861
+Debris
+Slide
+2016
+16390
+MH/SIN/48E13/2016/57
+Maharashtra
+Sindhudurg
+Shirshinge-Shivapur road
+Shirshinge-Shivapur Road
+16.053
+73.984333
+Rock
+Slide
+2016
+16391
+MH/SIN/48E13/2016/56
+Maharashtra
+Sindhudurg
+Shirshinge-Shivapur road
+Shirshinge-Shivapur Road
+16.053333
+73.983611
+Rock cum Debris
+Slide
+2016
+16392
+MH/SIN/48E13/2016/86
+Maharashtra
+Sindhudurg
+Nivje-Narur road
+Nivje-Narur Road
+16.053694
+73.789639
+Debris
+Slide
+NA
+16393
+MH/SIN/48E13/2016/87
+Maharashtra
+Sindhudurg
+Nivje-Narur road
+Nivje-Narur Road
+16.053694
+73.789639
+Debris
+Slide
+NA
+16394
+MH/SIN/48E13/2016/88
+Maharashtra
+Sindhudurg
+Nivje-Narur road
+Nivje-Narur Road
+16.053694
+73.789639
+Debris
+Slide
+NA
+16395
+MH/SIN/48E13/2016/89
+Maharashtra
+Sindhudurg
+Nivje-Narur road
+Nivje-Narur Road
+16.053694
+73.789639
+Debris
+Slide
+NA
+16396
+MH/SIN/48E13/2016/58
+Maharashtra
+Sindhudurg
+Shirshinge-Shivapur road
+Shirshinge-Shivapur Road
+16.053861
+73.984444
+Rock cum Debris
+Slide
+2016
+16397
+MH/SIN/48E13/2016/81
+Maharashtra
+Sindhudurg
+Nivje-Narur road
+Nivje-Narur Road
+16.053889
+73.788472
+Debris
+Slump
+NA
+16398
+MH/SIN/48E13/2016/59
+Maharashtra
+Sindhudurg
+Shirshinge-Shivapur road
+Shirshinge-Shivapur Road
+16.058694
+73.983472
+Debris
+Slide
+2016
+16399
+MH/SIN/48E13/2016/60
+Maharashtra
+Sindhudurg
+Shirshinge-Shivapur road
+Shirshinge-Shivapur Road
+16.062472
+73.982111
+Debris
+Slide
+2016
+16400
+MH/SIN/48E13/2016/62
+Maharashtra
+Sindhudurg
+Shivapur
+Shivapur Road
+16.064
+73.955972
+Debris
+Slide
+2016
+16401
+MH/SIN/48E13/2016/90
+Maharashtra
+Sindhudurg
+Nivje-Narur road
+Nivje-Narur Road
+16.0655
+73.784694
+Debris
+Slump
+NA
+16402
+MH/KOL/47L04/2017/1
+Maharashtra
+Kolhapur
+ 
+Village road from Karivade to 
+Antivade
+16.149444
+74.078611
+Debris
+Slide
+NA
+16403
+MH/SIN/48E13/2016/68
+Maharashtra
+Sindhudurg
+Ghotge-Durgawadi
+Ghotge-Durgawadi Road
+16.172611
+73.884667
+Debris
+Slide
+2016
+16404
+MH/SIN/48E13/2016/69
+Maharashtra
+Sindhudurg
+Ghotge-Durgawadi
+Ghotge-Durgawadi Road
+16.172806
+73.884278
+Debris
+Slide
+2016

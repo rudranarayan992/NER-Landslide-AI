@@ -1,0 +1,551 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+3632
+HP/SHM/53F09/2017/16
+Himachal Pradesh
+Shimla
+ 
+NeruaChopal link road
+30.934011
+77.597464
+Rock cum debris
+Slide
+NA
+3633
+HP/SHM/53F09/2017/17
+Himachal Pradesh
+Shimla
+ 
+Bamrar  Tikiri link road
+30.934269
+77.597369
+Debris
+Slide
+NA
+3634
+HP/SOL/53B13/2017/116
+Himachal Pradesh
+Solan
+ 
+KatniKandaDharampur road
+30.934788
+76.99855
+Rock
+Slide
+NA
+3635
+HP/SOL/53F01/2017/3
+Himachal Pradesh
+Solan
+ 
+DharampurSubathu Road
+30.934913
+77.043677
+Rock
+Fall
+NA
+3636
+HP/SIR/53F05/2017/65
+Himachal Pradesh
+Sirmur
+ 
+Sanora
+30.935403
+77.354514
+Rock cum debris
+Slide
+NA
+3637
+HP/SOL/53B13/2017/175
+Himachal Pradesh
+Solan
+ 
+PattaHaripur road
+30.936427
+76.877137
+Rock
+Slide
+NA
+3638
+HP/SOL/53B13/2017/174
+Himachal Pradesh
+Solan
+ 
+PattaHaripur road
+30.937327
+76.876837
+Rock
+Slide
+NA
+3639
+HP/SOL/53B13/2017/115
+Himachal Pradesh
+Solan
+ 
+KatniKandaDharampur road
+30.937612
+76.997998
+Rock
+Slide
+NA
+3640
+HP/SOL/53F01/2017/190
+Himachal Pradesh
+Solan
+ 
+DharampurSubathu Road
+30.938228
+77.041741
+Rock
+Slide
+NA
+3641
+HP/SIR/53F05/2017/72
+Himachal Pradesh
+Sirmur
+ 
+ChaILaKumarhatti Road
+30.9395
+77.336031
+Rock cum debris
+Slide
+NA
+3642
+HP/SOL/53F01/2017/436
+Himachal Pradesh
+Solan
+ 
+Ashwini khadShilli road
+30.939703
+77.175375
+Rock
+Slide
+NA
+3643
+HP/SOL/53F01/2017/212
+Himachal Pradesh
+Solan
+ 
+NH22
+30.939976
+77.13175
+Rock
+Slide
+NA
+3644
+HP/SOL/53F01/2017/400
+Himachal Pradesh
+Solan
+ 
+Ashni khadChail road
+30.940348
+77.165848
+Rock
+Slide
+NA
+3645
+HP/SHM/53F09/2017/23
+Himachal Pradesh
+Shimla
+ 
+Phalauna
+30.942389
+77.546414
+Rock cum debris
+Slide
+NA
+3646
+HP/SIR/53F05/2017/57
+Himachal Pradesh
+Sirmur
+ 
+Manwan
+30.942442
+77.396494
+Rock cum debris
+Slide
+NA
+3647
+HP/SOL/53F01/2017/26
+Himachal Pradesh
+Solan
+ 
+ChambaghatGuggaghat road
+30.944039
+77.076152
+Rock
+Fall
+NA
+3648
+HP/SOL/53B13/2017/103
+Himachal Pradesh
+Solan
+ 
+PattaHaripur road
+30.944879
+76.880998
+Rock
+Slide
+NA
+3649
+HP/SHM/53F09/2017/22
+Himachal Pradesh
+Shimla
+ 
+Phalauna
+30.945919
+77.542019
+Debris
+Slide
+NA
+3650
+HP/SHM/53F09/2017/18
+Himachal Pradesh
+Shimla
+ 
+Kathiyana
+30.946236
+77.542325
+Debris
+Slide
+NA
+3651
+HP/SHM/53F09/2017/21
+Himachal Pradesh
+Shimla
+ 
+Phalauna
+30.94655
+77.541781
+Rock cum debris
+Slide
+NA
+3652
+HP/SHM/53F09/2017/2
+Himachal Pradesh
+Shimla
+ 
+ChaupalJinkinpul  road
+30.946617
+77.582478
+Debris
+Slide
+NA
+3653
+HP/SHM/53F09/2017/1
+Himachal Pradesh
+Shimla
+ 
+Thana, link road
+30.947172
+77.571233
+Debris
+Slide
+2011
+3654
+HP/SHM/53F09/2017/20
+Himachal Pradesh
+Shimla
+ 
+Phalauna
+30.947183
+77.540006
+Debris
+Slide
+NA
+3655
+HP/SOL/53B13/2017/114
+Himachal Pradesh
+Solan
+ 
+KatniKandaDharampur road
+30.947873
+76.997248
+Rock
+Slide
+NA
+3656
+HP/SIR/53F05/2017/76
+Himachal Pradesh
+Sirmur
+ 
+Dhaniya Ser
+30.949322
+77.330133
+Debris
+Slide
+NA
+3657
+HP/SOL/53F01/2017/432
+Himachal Pradesh
+Solan
+ 
+KandaghatChail road
+30.949714
+77.218654
+Rock
+Slide
+NA
+3658
+HP/SOL/53F01/2017/417
+Himachal Pradesh
+Solan
+ 
+ChambaghatGuggaghat road
+30.950297
+77.078917
+Rock
+Slide
+NA
+3659
+HP/SIR/53F05/2017/77
+Himachal Pradesh
+Sirmur
+ 
+Sangthara
+30.950367
+77.327433
+Debris
+Slide
+NA
+3660
+HP/SOL/53B13/2017/173
+Himachal Pradesh
+Solan
+ 
+KutharKasauli road
+30.951481
+76.950667
+Rock
+Slide
+NA
+3661
+HP/SOL/53B13/2017/47
+Himachal Pradesh
+Solan
+ 
+ 
+30.952565
+76.88466
+Debris
+Slide
+NA
+3662
+HP/SOL/53B13/2017/43
+Himachal Pradesh
+Solan
+ 
+PattaHaripur road
+30.95262
+76.901854
+Debris
+Slide
+NA
+3663
+HP/SOL/53B13/2017/165
+Himachal Pradesh
+Solan
+ 
+KuthadMairapatta road
+30.952809
+76.924678
+Rock
+Slide
+NA
+3664
+HP/SOL/53B13/2017/102
+Himachal Pradesh
+Solan
+ 
+PattaHaripur road
+30.953036
+76.901858
+Rock
+Slide
+NA
+3665
+HP/SOL/53B13/2017/113
+Himachal Pradesh
+Solan
+ 
+KuthadArlaDharampur road
+30.953334
+76.993108
+Rock
+Slide
+NA
+3666
+HP/SIR/53F05/2017/74
+Himachal Pradesh
+Sirmur
+ 
+Dhaniya Ser
+30.953506
+77.327781
+Rock cum debris
+Slide
+NA
+3667
+HP/SIR/53F05/2017/48
+Himachal Pradesh
+Sirmur
+ 
+Sanghthara
+30.953611
+77.327778
+Rock cum debris
+Slide
+NA
+3668
+HP/SIR/53F05/2017/73
+Himachal Pradesh
+Sirmur
+ 
+Chandol
+30.95365
+77.327764
+Rock cum debris
+Slide
+NA
+3669
+HP/SIR/53F05/2017/61
+Himachal Pradesh
+Sirmur
+ 
+Sangthara
+30.953656
+77.327689
+Debris
+Slide
+NA
+3670
+HP/SIR/53F05/2017/78
+Himachal Pradesh
+Sirmur
+ 
+Rori
+30.9537
+77.327589
+Rock cum debris
+Slide
+NA
+3671
+HP/SIR/53F05/2017/66
+Himachal Pradesh
+Sirmur
+ 
+Sanghthara
+30.953731
+77.327622
+Debris
+Slide
+NA
+3672
+HP/SOL/53B13/2017/141
+Himachal Pradesh
+Solan
+ 
+BatauliNawanagar road
+30.953843
+76.850593
+Rock
+Slide
+NA
+3673
+HP/SIR/53F05/2017/83
+Himachal Pradesh
+Sirmur
+ 
+Jagher
+30.953942
+77.304828
+Debris
+Slide
+NA
+3674
+HP/SOL/53F01/2017/16
+Himachal Pradesh
+Solan
+ 
+DharampurSubathu Road
+30.954098
+77.014505
+Rock
+Fall
+NA
+3675
+HP/SIR/53F05/2017/64
+Himachal Pradesh
+Sirmur
+ 
+Tali Bhujal
+30.9547
+77.443581
+Debris
+Slide
+NA
+3676
+HP/SOL/53F01/2017/67
+Himachal Pradesh
+Solan
+ 
+Ashni khadChail road
+30.954873
+77.17745
+Debris
+Slide
+NA
+3677
+HP/SOL/53B13/2017/26
+Himachal Pradesh
+Solan
+ 
+PattaHaripur road
+30.955032
+76.906567
+Debris
+Slide
+NA
+3678
+HP/SOL/53B13/2017/164
+Himachal Pradesh
+Solan
+ 
+KuthadMairapatta road
+30.955436
+76.923019
+Rock
+Slide
+NA
+3679
+HP/SOL/53B13/2017/35
+Himachal Pradesh
+Solan
+ 
+KuthadMairapatta road
+30.955912
+76.917313
+Debris
+Slide
+NA
+3680
+HP/SOL/53B13/2017/166
+Himachal Pradesh
+Solan
+ 
+KuthadMairapatta road
+30.957539
+76.914894
+Rock
+Slide
+NA

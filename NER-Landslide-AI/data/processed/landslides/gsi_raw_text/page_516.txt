@@ -1,0 +1,429 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20832
+MZ/SAI/84F03/2020/31
+Mizoram
+Saiha
+Lana slide 1
+6km away from lana
+22.4
+93.12
+Rock
+Slide
+2017
+20833
+MZ/SAI/84F03/2020/32
+Mizoram
+Saiha
+Lana slide 2
+6km away from lana
+22.4
+93.13
+Rock
+Slide
+2017
+20834
+MZ/LAW/84B15/2018/18
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.405001
+92.861
+Debris
+Slide
+NA
+20835
+MZ/SAI/84B15/2018/57
+Mizoram
+Saiha
+ 
+Kawlchaw E 
+22.405001
+92.950996
+Debris
+Slide
+NA
+20836
+MZ/LAW/84B11/2020/1
+Mizoram
+Lawngtlai
+South Bungtlang to Hmunnuam road 
+slide 1
+South Bungtlang to Hmunnuam 
+road
+22.41
+92.75
+Debris
+Slide
+2019
+20837
+MZ/LAW/84B11/2020/2
+Mizoram
+Lawngtlai
+South Bungtlang to Hmunnuam road 
+slide 2
+South Bungtlang to Hmunnuam 
+road
+22.41
+92.75
+Debris
+Slide
+2019
+20838
+MZ/LAW/84B11/2020/48
+Mizoram
+Lawngtlai
+Rangkashya road slide 4
+Rangkashya road
+22.41
+92.6
+Debris
+Slide
+2019
+20839
+MZ/LAW/84B11/2020/52
+Mizoram
+Lawngtlai
+Jognasury village slide
+Jognasury village
+22.41
+92.64
+Debris
+Slide
+NA
+20840
+MZ/SAI/84F03/2020/2
+Mizoram
+Saiha
+North of Lower Theira slide
+North of Lower Theira
+22.41
+93.02
+Rock
+Slide
+NA
+20841
+MZ/LAW/84B15/2018/25
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.416
+92.864998
+Debris
+Slide
+NA
+20842
+MZ/SAI/84B15/2019/3
+Mizoram
+Saiha
+N/A
+N/A
+22.42
+92.992996
+Debris
+Subsidence
+NA
+20843
+MZ/SAI/84B15/2018/63
+Mizoram
+Saiha
+ 
+Maubawk Road 
+22.424
+92.977997
+Debris
+Slide
+NA
+20844
+MZ/SAI/84B15/2018/56
+Mizoram
+Saiha
+ 
+NH 54
+22.427999
+92.947998
+Debris
+Slide
+NA
+20845
+MZ/LAW/84B15/2018/17
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.43
+92.870003
+Debris
+Slide
+NA
+20846
+MZ/LAW/84B11/2020/3
+Mizoram
+Lawngtlai
+Hmunnuam to Diltland road slide
+Hmunnuam to Diltland road
+22.43
+92.75
+Debris
+Fall
+2019
+20847
+MZ/LAW/84B11/2020/54
+Mizoram
+Lawngtlai
+Ajasora slide 1
+outside Ajasora village
+22.43
+92.71
+Rock
+Slide
+NA
+20848
+MZ/LAW/84B11/2020/55
+Mizoram
+Lawngtlai
+Ajasora slide 2
+outside Ajasora village
+22.43
+92.69
+Rock
+Slide
+NA
+20849
+MZ/SAI/84B15/2018/55
+Mizoram
+Saiha
+ 
+Zero Point to Kawlchaw E
+22.434999
+92.945999
+Debris
+Slide
+NA
+20850
+MZ/SAI/84F03/2020/23
+Mizoram
+Saiha
+Bawnveng Village slide 1
+Near Bawnveng Village
+22.44
+93.1
+Rock
+Slide
+2017
+20851
+MZ/SAI/84F03/2020/27
+Mizoram
+Saiha
+East Saihtah slide 3
+2.5 Km East Saihtah on PMGSY 
+Saihta - Parvatui road
+22.44
+93.1
+Rock
+Slide
+2019
+20852
+MZ/LAW/84B15/2018/26
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.440001
+92.879997
+Debris
+Slide
+NA
+20853
+MZ/LAW/84B15/2018/22
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.445999
+92.874001
+Debris
+Slide
+NA
+20854
+MZ/LAW/84B15/2018/16
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.447001
+92.882004
+Debris
+Slide
+NA
+20855
+MZ/LAW/84B15/2018/15
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.448
+92.882004
+Debris
+Slide
+NA
+20856
+MZ/LAW/84B11/2020/56
+Mizoram
+Lawngtlai
+Ajasora slide 3
+outside Ajasora village
+22.45
+92.7
+Rock
+Slide
+NA
+20857
+MZ/LAW/84B11/2020/62
+Mizoram
+Lawngtlai
+Maniabapsora slide
+Maniabapsora
+22.45
+92.57
+Debris
+Slide
+NA
+20858
+MZ/SAI/84F03/2020/28
+Mizoram
+Saiha
+Sesawn village slide 1
+Sesawn village near 
+Presbyterean Church of India 
+(PCI) on SH- Marpara - West 
+Banghmun road
+22.45
+93.09
+Rock
+Slide
+2018
+20859
+MZ/LAW/84B15/2018/24
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.450001
+92.870003
+Debris
+Slide
+NA
+20860
+MZ/LAW/84B15/2018/1
+Mizoram
+Lawngtlai
+ 
+Chawntlangpui 
+22.45138
+92.911942
+Debris
+Slide
+NA
+20861
+MZ/LAW/84B15/2018/2
+Mizoram
+Lawngtlai
+ 
+1 km south of Saikah
+22.45138
+92.911942
+Debris
+Slide
+NA
+20862
+MZ/SAI/84B15/2018/61
+Mizoram
+Saiha
+ 
+Zero Point to Maubawk Road 
+22.455
+92.959999
+Debris
+Slide
+NA
+20863
+MZ/SAI/84B15/2018/62
+Mizoram
+Saiha
+ 
+Maubawk Road 
+22.455999
+92.962997
+Debris
+Slide
+NA
+20864
+MZ/SAI/84B15/2018/54
+Mizoram
+Saiha
+ 
+Zero Point to Kawlchaw E 
+22.455999
+92.948997
+Debris
+Slide
+NA
+20865
+MZ/LAW/84B15/2018/8
+Mizoram
+Lawngtlai
+ 
+Along NH 54
+22.458916
+92.886108
+Rock
+Fall
+NA
+20866
+MZ/LAW/84B15/2018/21
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.459
+92.873001
+Debris
+Slide
+NA
+20867
+MZ/SAI/84B15/2018/53
+Mizoram
+Saiha
+ 
+NH 54
+22.459
+92.952003
+Debris
+Slide
+NA
+20868
+MZ/LAW/84B11/2020/4
+Mizoram
+Lawngtlai
+South Bungtlang to Hmunnuam road 
+slide 3
+South Bungtlang to Hmunnuam 
+road
+22.46
+92.73
+Debris
+Slide
+2018

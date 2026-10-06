@@ -1,0 +1,372 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29318
+WB/DARJ/78A08/2006/0337
+West Bengal
+Darjeeling
+ 
+Adjacent to Sundhara Gaon 
+within Darjeeling Municipal 
+jurisdiction.
+27.026
+88.253
+Debris
+Slide
+2006
+29319
+WB/DAR/78A08/2015/40
+West Bengal
+Darjeeling
+Adjacent to Sundhara Gaon within 
+Darjeeling Municipal jurisdiction.
+Adjacent to Sundhara Gaon 
+within Darjeeling Municipal 
+jurisdiction.
+27.026
+88.253
+Debris
+Slide
+2006
+29320
+WB/DAR/78A12/2015/1278
+West Bengal
+Darjeeling
+ 
+POCHOK
+27.026222
+88.625417
+Debris
+Slide
+2015
+29321
+WB/DAR/78A08/2021/PDLS/35
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.02658622
+88.43052368
+Rock
+Slide
+October 2021
+29322
+WB/DAR/78A04/2015/1235
+West Bengal
+Darjeeling
+ 
+BARBATIA
+27.027083
+88.238444
+Debris
+Subsidence
+2016
+29323
+WB/DARJ/78A12/2007/0008
+West Bengal
+Darjeeling
+Nimgolai-I
+1km from Nimgolai towards 
+Paparkheti
+27.0273
+88.6993
+Debris
+Slide
+2007
+29324
+WB/DAR/78A08/2015/1437
+West Bengal
+Darjeeling
+ 
+ 
+27.027303
+88.279626
+Debris
+Slide
+2013
+29325
+WB/DAR/78A12/2015/1279
+West Bengal
+Darjeeling
+ 
+POCHOK
+27.027417
+88.623167
+Rock cum Debris
+Slide
+2016
+29326
+WB/DAR/78A04/2015/22
+West Bengal
+Darjeeling
+Darjeeling-Bijanbari Road, Kali Tea 
+Garden 3
+Darjeeling-Bijanbari Road
+27.0276
+88.1938
+Debris
+Slide
+2011
+29327
+WB/DAR/78A08/2015/1439
+West Bengal
+Darjeeling
+ 
+ 
+27.027607
+88.484759
+Debris
+Slide
+2011
+29328
+WB/DAR/78A12/2015/197
+West Bengal
+Darjeeling
+24 km from Damdim  on Damdim-
+Algarah road
+3km from Paparkheti towards  
+Damdim
+27.027615
+88.69933
+Rock
+Slide
+2007
+29329
+WB/DAR/78A16/2015/306
+West Bengal
+Darjeeling
+Dalgaon Slide
+Dalgaon
+27.027889
+88.853806
+Debris
+Slide
+2016
+29330
+WB/DAR/78A12/2015/1438
+West Bengal
+Darjeeling
+ 
+ 
+27.027919
+88.66004
+Debris
+Slide
+2006
+29331
+WB/DAR/78A08/2015/1440
+West Bengal
+Darjeeling
+ 
+ 
+27.027932
+88.368843
+Rock cum Debris
+Slide
+NA
+29332
+WB/DARJ/78A08/2007/0266
+West Bengal
+Darjeeling
+ 
+23.15 km from Sevok(Tiger 
+Bridge) on NH-31A towards 
+Gangtok
+27.028
+88.432
+Debris
+Slide
+NA
+29333
+WB/DARJ/78A04/0258
+West Bengal
+Darjeeling
+ 
+Darjeeling-Bijanbari Road
+27.028
+88.194
+Debris
+Slide
+NA
+29334
+WB/DAR/78A08/2021/PDLS/35
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.02822436
+88.42921391
+Rock
+Slide
+October 2021
+29335
+WB/DAR/78A12/2015/185
+West Bengal
+Darjeeling
+21 km from Damdim-Algarah road
+21 km from Damdim
+27.028249
+88.702761
+Debris
+Subsidence
+2007
+29336
+WB/DAR/78A08/2015/136
+West Bengal
+Darjeeling
+Nimkidhara, (3km. from Ghum 
+Railway station towards  Darjeeling
+Balason-Ghum road
+27.028333
+88.25675
+Rock
+Slide
+2015
+29337
+WB/DAR/78A04/2021/PDLS/65
+West Bengal
+Darjeeling
+N/A
+N/A
+27.02855103
+88.10051316
+Debris
+Slide
+October 2021
+29338
+WB/DAR/78A12/2015/1280
+West Bengal
+Darjeeling
+ 
+POCHOK,  GITDUBLING ROAD
+27.028556
+88.616417
+Rock cum Debris
+Slide
+2015
+29339
+WB/DAR/78A12/2015/1441
+West Bengal
+Darjeeling
+ 
+ 
+27.028591
+88.634141
+Rock cum Debris
+Slide
+NA
+29340
+WB/DAR/78A08/2015/59
+West Bengal
+Darjeeling
+Alubari
+Alubari-Phulbari village
+27.02863
+88.27096
+Debris
+Subsidence
+2007
+29341
+WB/DAR/78A04/2015/1245
+West Bengal
+Darjeeling
+ 
+TARDHURA
+27.028722
+88.202083
+Rock
+Slide
+2016
+29342
+WB/DAR/78A04/2021/PDLS/64
+West Bengal
+Darjeeling
+N/A
+N/A
+27.02889922
+88.1010105
+Debris
+Slide
+October 2021
+29343
+WB/DARJ/78A08/2011/0269
+West Bengal
+Darjeeling
+ 
+NH31A
+27.029
+88.427
+Debris
+Slide
+NA
+29344
+WB/DARJ/78A12/2007/0009
+West Bengal
+Darjeeling
+Paparkheti-I
+1km from Paparkheti towards 
+Nimgolai
+27.029
+88.6966
+Rock
+Slide
+2007
+29345
+WB/DAR/78A08/2021/PDLS/35
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.02908584
+88.42704757
+Rock
+Slide
+October 2021
+29346
+WB/DARJ/78A12/2007/0006
+West Bengal
+Darjeeling
+Chel bridge
+Right abutment of the Chel 
+bridge
+27.0292
+88.7054
+Rock
+Slide
+2007
+29347
+WB/DAR/78A12/2015/1442
+West Bengal
+Darjeeling
+ 
+ 
+27.029552
+88.666667
+Debris
+Slide
+NA
+29348
+WB/DAR/78A12/2015/206
+West Bengal
+Darjeeling
+25.5Km . from Damdim on Damdim-
+Algarah road
+1km from Nimgolai towards  
+Paparkheti
+27.030097
+88.696809
+Debris
+Slide
+2007

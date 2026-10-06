@@ -1,0 +1,336 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27846
+TN/NIL/58A15/2025/13
+Tamil Nadu
+Nilgiri
+ONR-13
+Near Gandipuram Railway track 11.3339
+76.7981
+Loose debris
+Slide
+18 October 2025
+27847
+TN/NIL/58A15/2025/14
+Tamil Nadu
+Nilgiri
+ONR-14
+Gandhipuram - Indra Nagar
+11.337
+76.7982
+Earth
+Slide
+21 October 2025
+27848
+TN/NIL/58A15/2025/15
+Tamil Nadu
+Nilgiri
+ONR-15
+Coonoor to Mettupalayam road 11.3307
+76.808
+Debris
+Slide
+19 October 2025
+27849
+TN/NIL/58A15/2025/16
+Tamil Nadu
+Nilgiri
+ONR-16
+Coonoor to Mettupalayam road 11.3381
+76.8278
+Rock
+Slide
+2024
+27850
+TN/NIL/58A15/2025/17
+Tamil Nadu
+Nilgiri
+KOT-1
+In front of Palanimalai house at 
+Kattabettu Bharathinagar
+11.4139
+76.8139
+Earth
+Slide
+19 October 2025
+27851
+TN/NIL/58A15/2025/18
+Tamil Nadu
+Nilgiri
+KOT-2
+In front of Velusamy house, 
+Bharthi Nagar
+11.4146
+76.8133
+Earth
+Slide
+18 October 2025
+27852
+TN/NIL/58A15/2025/19
+Tamil Nadu
+Nilgiri
+KOT-3
+Coonoor to Kattabettu road
+11.4159
+76.8172
+Debris
+Slide
+19 October 2025
+27853
+TN/NIL/58A15/2025/20
+Tamil Nadu
+Nilgiri
+KOT-4
+Kokkalthorai road near kaikatty 11.4588
+76.8427
+Earth
+Slide
+16 October 2025
+27854
+TN/NIL/58A15/2025/21
+Tamil Nadu
+Nilgiri
+KOT-5
+Keradamattam to Sundatty 
+road
+11.4939
+76.8939
+Debris
+Slide
+19 October 2025
+27855
+TN/NIL/58A15/2025/22
+Tamil Nadu
+Nilgiri
+KOT-6
+Sivakumar,S/o.Kuttan Rajnagar, 
+backside of the house
+11.4508
+76.89
+Earth
+Fall
+16 October 2025
+27856
+TN/NIL/58A15/2025/23
+Tamil Nadu
+Nilgiri
+KOT-7
+Club road lion house area
+11.4317
+76.8667
+Earth
+Slide
+18 October 2025
+27857
+TN/NIL/58A15/2025/24
+Tamil Nadu
+Nilgiri
+KOT-8
+Kotagiri to Konavakkarai road
+11.4174
+76.8781
+Debris
+Slide
+22 October 2025
+27858
+TN/NIL/58A11/2025/25
+Tamil Nadu
+Nilgiri
+ONR-17
+Near Needle factory
+11.3785
+76.7444
+Earth
+Slide
+19 October 2025
+27859
+TN/NIL/58A11/2025/26
+Tamil Nadu
+Nilgiri
+ONR-18
+Kenthala to Ketti palada road
+11.3359
+76.7345
+Debris
+Slide
+22 October 2025
+27860
+TN/NIL/58A11/2025/27
+Tamil Nadu
+Nilgiri
+ONR-19
+Maniyapuram Temple area
+11.3157
+76.7068
+Earth
+Slide
+18 October 2025
+27861
+TN/NIL/58A15/2025/28
+Tamil Nadu
+Nilgiri
+ONR-20
+In backside of Tmt.Gomathi 
+house, Palaya Aravankadu
+11.3696
+76.7517
+Earth
+Slide
+22 October 2025
+27862
+TN/NIL/58A15/2025/29
+Tamil Nadu
+Nilgiri
+ONR-21
+In backside of Tmt.Saroja 
+Sandha house, Chinna Bikkatty
+11.3718
+76.7561
+Earth
+Slide
+22 October 2025
+27863
+TN/NIL/58A15/2025/30
+Tamil Nadu
+Nilgiri
+ONR-23
+Tmt.Mumtaj, W/o.Anwer 
+Ambikapuram house backside
+11.3556
+76.771
+Debris
+Slide
+16 October 2025
+27864
+TN/NIL/58A15/2025/31
+Tamil Nadu
+Nilgiri
+ONR-24
+Periyar Nagar
+11.3375
+76.7769
+Debris
+Slide
+22 October 2025
+27865
+TN/NIL/58A15/2025/32
+Tamil Nadu
+Nilgiri
+ONR-25
+Nearby Deepa's house, Karancy 11.3608
+76.834
+Debris
+Slide
+16 October 2025
+27866
+TN/NIL/58A15/2025/33
+Tamil Nadu
+Nilgiri
+KOT-10
+S.N.Nagar to Semmanarai Rd.
+11.3935
+76.9317
+Debris
+Slide
+20 October 2025
+27867
+TN/NIL/58A15/2025/34
+Tamil Nadu
+Nilgiri
+ONR-26
+Near Nansach
+11.3203
+76.7985
+Debris
+Slide
+16 October 2025
+27868
+TN/NIL/58A11/2025/35
+Tamil Nadu
+Nilgiri
+ONR-27
+Palaniyappa Estate road
+11.2653
+76.7448
+Earth
+Slide
+16 October 2025
+27869
+TN/NIL/58A11/2025/36
+Tamil Nadu
+Nilgiri
+ONR-28
+Dickland lease
+11.2774
+76.6898
+Debris
+Slide
+22 October 2025
+27870
+TN/NIL/58A11/2025/37
+Tamil Nadu
+Nilgiri
+KUN-1
+Ketchikatti to Mullimalai road
+11.2617
+76.6327
+Earth
+Slide
+18 October 2025
+27871
+TN/NIL/58A15/2025/38
+Tamil Nadu
+Nilgiri
+KUN-2
+Onikandi to Coimbatore road
+11.2659
+76.6572
+Earth
+Slide
+18 October 2025
+27872
+TN/NIL/58A11/2025/39
+Tamil Nadu
+Nilgiri
+KUN-3
+Manjoor to Greddai road, near 
+Onikandi
+11.2643
+76.6583
+Earth
+Slide
+19 October 2025
+27873
+TN/NIL/58A11/2025/40
+Tamil Nadu
+Nilgiri
+KUN-4
+Primary Health Centre, Kundah 
+palam
+11.2818
+76.65
+Earth
+Slide
+19 October 2025
+27874
+TN/NIL/58A11/2025/41
+Tamil Nadu
+Nilgiri
+KUN-5
+Nagaraj,S/o.Raman house, 
+backside
+11.3206
+76.6903
+Earth
+Slide
+14 October 2025

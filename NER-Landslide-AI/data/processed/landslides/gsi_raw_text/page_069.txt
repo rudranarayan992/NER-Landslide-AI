@@ -1,0 +1,463 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+2504
+HP/SIR/53F10/2017/175
+Himachal Pradesh
+Sirmur
+ 
+South of Pharuwala Falls, 
+DadahuSataun road
+30.589152
+77.513847
+Rock
+Slide
+NA
+2505
+HP/SIR/53F10/2017/44
+Himachal Pradesh
+Sirmur
+ 
+Pipal
+30.589376
+77.615474
+Rock
+Slide
+NA
+2506
+HP/SIR/53F02/2017/45
+Himachal Pradesh
+Sirmur
+ 
+KumarhattiNahan road
+30.589404
+77.191415
+Rock
+Slide
+NA
+2507
+HP/SIR/53F02/2017/72
+Himachal Pradesh
+Sirmur
+ 
+NH72
+30.589719
+77.197398
+Rock
+Slide
+NA
+2508
+HP/SIR/53F10/2017/176
+Himachal Pradesh
+Sirmur
+ 
+North of Guana, 
+DadhuSataun road
+30.589749
+77.516751
+Rock
+Slide
+NA
+2509
+HP/SIR/53F10/2017/122
+Himachal Pradesh
+Sirmur
+ 
+South of Deolan, 
+PaontaShillai road
+30.589799
+77.652428
+Rock
+Slide
+NA
+2510
+HP/SIR/53F06/2017/329
+Himachal Pradesh
+Sirmur
+ 
+South of Lupu, 
+Sataun road
+30.589806
+77.500006
+Rock
+Slide
+NA
+2511
+HP/SIR/53F10/2017/178
+Himachal Pradesh
+Sirmur
+ 
+North of Chandni
+30.590118
+77.519794
+Rock
+Slide
+NA
+2512
+HP/SIR/53F10/2017/163
+Himachal Pradesh
+Sirmur
+ 
+Deolan
+30.590253
+77.663671
+Rock
+Slide
+NA
+2513
+HP/SIR/53F02/2017/73
+Himachal Pradesh
+Sirmur
+ 
+NH72
+30.590367
+77.198082
+Rock
+Slide
+NA
+2514
+HP/SIR/53F10/2017/162
+Himachal Pradesh
+Sirmur
+ 
+Deolan
+30.590473
+77.662389
+Rock
+Slide
+NA
+2515
+HP/SIR/53F06/2017/224
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.590878
+77.468077
+Rock
+Slide
+NA
+2516
+HP/SIR/53F02/2017/74
+Himachal Pradesh
+Sirmur
+ 
+Along NH72
+30.59095
+77.197632
+Rock
+Slide
+NA
+2517
+HP/SIR/53F10/2017/5
+Himachal Pradesh
+Sirmur
+ 
+Duhlia
+30.591496
+77.52015
+Rock
+Slide
+NA
+2518
+HP/SIR/53F10/2017/173
+Himachal Pradesh
+Sirmur
+ 
+Baicha, Dadahu
+Sataun road
+30.591546
+77.503133
+Rock
+Slide
+NA
+2519
+HP/SIR/53F10/2017/174
+Himachal Pradesh
+Sirmur
+ 
+Pharuwala Falls, 
+DadahuSataun road
+30.591977
+77.512717
+Rock
+Slide
+NA
+2520
+HP/SIR/53F06/2017/104
+Himachal Pradesh
+Sirmur
+ 
+Chawahan, Nahan 
+Dadahu road
+30.592202
+77.297388
+Rock
+Slide
+NA
+2521
+HP/SIR/53F10/2017/21
+Himachal Pradesh
+Sirmur
+ 
+Pharuwala Falls, 
+DadahuSataun road
+30.592253
+77.511167
+Rock
+Slide
+NA
+2522
+HP/SIR/53F06/2017/222
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.592306
+77.46919
+Rock
+Slide
+NA
+2523
+HP/SIR/53F02/2017/2
+Himachal Pradesh
+Sirmur
+ 
+Bahar link road
+30.592442
+77.197668
+Rock
+Fall
+NA
+2524
+HP/SIR/53F10/2017/216
+Himachal Pradesh
+Sirmur
+ 
+Deolan
+30.592504
+77.661036
+Rock
+Slide
+NA
+2525
+HP/SIR/53F02/2017/6
+Himachal Pradesh
+Sirmur
+ 
+NainatikkarSarahan road
+30.592505
+77.198119
+Rock
+Fall
+NA
+2526
+HP/SIR/53F06/2017/223
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.592576
+77.468869
+Rock
+Slide
+NA
+2527
+HP/SIR/53F10/2017/153
+Himachal Pradesh
+Sirmur
+ 
+Pamta P.F.
+30.592774
+77.712653
+Rock
+Slide
+NA
+2528
+HP/SIR/53F02/2017/29
+Himachal Pradesh
+Sirmur
+ 
+BanogKaulawala bhood road
+30.592822
+77.19613
+Rock
+Slide
+NA
+2529
+HP/SIR/53F10/2017/154
+Himachal Pradesh
+Sirmur
+ 
+Pamta P.F.
+30.592836
+77.708925
+Rock
+Slide
+NA
+2530
+HP/SIR/53F06/2017/103
+Himachal Pradesh
+Sirmur
+ 
+Chawahan, Nahan 
+Dadahu road
+30.592864
+77.298087
+Rock
+Slide
+NA
+2531
+HP/SIR/53F10/2017/1
+Himachal Pradesh
+Sirmur
+ 
+Baicha
+30.592957
+77.50229
+Rock
+Slide
+NA
+2532
+HP/SIR/53F02/2017/46
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.593067
+77.194589
+Rock
+Slide
+NA
+2533
+HP/SIR/53F02/2017/28
+Himachal Pradesh
+Sirmur
+ 
+KumarhattiNahan road
+30.593099
+77.197077
+Rock
+Slide
+NA
+2534
+HP/SIR/53F06/2017/70
+Himachal Pradesh
+Sirmur
+ 
+Khala
+30.593531
+77.495663
+Rock
+Slide
+2017
+2535
+HP/SIR/53F06/2017/221
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.593675
+77.459477
+Rock
+Slide
+NA
+2536
+HP/SIR/53F10/2017/155
+Himachal Pradesh
+Sirmur
+ 
+Pamta P.F.
+30.593879
+77.706372
+Rock
+Slide
+NA
+2537
+HP/SIR/53F06/2017/102
+Himachal Pradesh
+Sirmur
+ 
+North of Chawahan, 
+NahanDadahu road
+30.593993
+77.296802
+Rock
+Slide
+NA
+2538
+HP/SIR/53F06/2017/9
+Himachal Pradesh
+Sirmur
+ 
+Taran
+30.594016
+77.474554
+Rock
+Slide
+NA
+2539
+HP/SIR/53F06/2017/101
+Himachal Pradesh
+Sirmur
+ 
+North of Chawahan, 
+NahanDadahu road
+30.594188
+77.296319
+Rock
+Slide
+NA
+2540
+HP/SIR/53F10/2017/157
+Himachal Pradesh
+Sirmur
+ 
+Behaldhar
+30.594509
+77.69491
+Rock
+Slide
+NA
+2541
+HP/SIR/53F06/2017/217
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.594519
+77.463335
+Rock
+Slide
+NA
+2542
+HP/SIR/53F06/2017/225
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.594743
+77.472205
+Rock
+Slide
+NA
+2543
+HP/SIR/53F06/2017/232
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka Ji
+30.594831
+77.478943
+Rock
+Slide
+NA

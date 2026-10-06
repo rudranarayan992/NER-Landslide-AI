@@ -1,0 +1,459 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11733
+KA/DAK/48O3/2017/8
+Karnataka
+Dakshin Kannad
+Bandimata
+SitanadiSomeshwar road 
+section
+13.477825
+75.047511
+Debris
+Slide
+NA
+11734
+KA/CHI/48O11/2017/3
+Karnataka
+Chikmagalur
+Kavikalgundi Attigundi village area
+Kavikalgundi Attigundi 
+Kemmannugundi road section
+13.485731
+75.741561
+Debris
+Slide
+NA
+11735
+KA/DAK/48O3/2017/32
+Karnataka
+Dakshin Kannad
+Near Agumbe
+Agumbe Ghat section
+13.486328
+75.078558
+Debris
+Slide
+NA
+11736
+KA/DAK/48O3/2017/9
+Karnataka
+Dakshin Kannad
+Near Village Someshwar
+SomeshwarAgumbe road 
+section
+13.488889
+75.077564
+Debris
+Slide
+NA
+11737
+KA/DAK/48O3/2017/10
+Karnataka
+Dakshin Kannad
+Near Village Someshwar
+SomeshwarAgumbe road 
+section
+13.493678
+75.078692
+Debris
+Slide
+NA
+11738
+KA/DAK/48O3/2017/29
+Karnataka
+Dakshin Kannad
+Near Agumbe
+Agumbe Ghat section
+13.494447
+75.078311
+Debris
+Slide
+NA
+11739
+KA/DAK/48O3/2017/31
+Karnataka
+Dakshin Kannad
+Near Agumbe
+Agumbe Ghat section
+13.4945
+75.075161
+Debris
+Slide
+NA
+11740
+KA/DAK/48O3/2017/25
+Karnataka
+Dakshin Kannad
+Near Agumbe
+Agumbe Ghat section
+13.495022
+75.0807
+Debris
+Slide
+NA
+11741
+KA/DAK/48O3/2017/11
+Karnataka
+Dakshin Kannad
+Near Village Someshwar
+SomeshwarAgumbe road 
+section
+13.495056
+75.079806
+Debris
+Slide
+NA
+11742
+KA/DAK/48O3/2017/30
+Karnataka
+Dakshin Kannad
+Near Agumbe
+Agumbe Ghat section
+13.495556
+75.075983
+Debris
+Slide
+NA
+11743
+KA/DAK/48O3/2017/26
+Karnataka
+Dakshin Kannad
+Near Agumbe
+Agumbe Ghat section
+13.495797
+75.080294
+Debris
+Slide
+NA
+11744
+KA/DAK/48O3/2017/28
+Karnataka
+Dakshin Kannad
+Near Agumbe
+Agumbe Ghat section
+13.496133
+75.077625
+Debris
+Slide
+NA
+11745
+KA/DAK/48O3/2017/12
+Karnataka
+Dakshin Kannad
+Near Village Someshwar
+SomeshwarAgumbe road 
+section
+13.496806
+75.079
+Debris
+Slide
+NA
+11746
+KA/DAK/48O3/2017/27
+Karnataka
+Dakshin Kannad
+Near Agumbe
+Agumbe Ghat section
+13.497169
+75.080533
+Debris
+Slide
+NA
+11747
+KA/SHI/48O06/2020/30
+Karnataka
+Shimoga
+West of Badigi village
+West of Badigi village
+13.5
+75.39
+Debris
+Slide
+NA
+11748
+KA/SHI/48O02/2020/44
+Karnataka
+Shimoga
+1.2 km from Mavinkatte village
+Agumbe- Hariharpur road
+13.5
+75.21
+Debris
+Slide
+NA
+11749
+KA/SHI/48O06/2020/53
+Karnataka
+Chikmagalur
+SuralliVillage
+SuralliVillage
+13.5
+75.3
+Debris
+Slide
+NA
+11750
+KA/SHI/48O06/2020/29
+Karnataka
+Shimoga
+Baru Kodagi
+Baru Kodagi
+13.51
+75.39
+Debris
+Slide
+NA
+11751
+KA/SHI/48O06/2020/31
+Karnataka
+Shimoga
+Kugi village
+Kugi village
+13.51
+75.41
+Debris
+Slide
+NA
+11752
+KA/SHI/48O02/2020/43
+Karnataka
+Shimoga
+1.5 km east of  Hosagadde village
+Agumbe-Mavinkatte road 
+section
+13.51
+75.17
+Debris
+Slide
+NA
+11753
+KA/SHI/48O02/2020/46
+Karnataka
+Chikmagalur
+Agumbe-Koppa road
+Agumbe-Koppa road
+13.51
+75.11
+Debris
+Slide
+NA
+11754
+KA/SHI/48O06/2020/47
+Karnataka
+Chikmagalur
+Nagalapur Village
+Nagalapur Village
+13.51
+75.31
+Debris
+Slide
+NA
+11755
+KA/SHI/48O06/2020/52
+Karnataka
+Chikmagalur
+Gaurigadde Village
+Gaurigadde Village
+13.51
+75.27
+Debris
+Slide
+NA
+11756
+KA/SHI/48O06/2020/20
+Karnataka
+Shimoga
+NH-169
+Koppa-Hariharpur road (NH-13) 13.52
+75.33
+Debris
+Slide
+NA
+11757
+KA/SHI/48O06/2020/35
+Karnataka
+Chikmagalur
+Hariharpur Village
+Hariharpur Village
+13.52
+75.31
+Debris
+Slide
+NA
+11758
+KA/SHI/48O06/2020/36
+Karnataka
+Chikmagalur
+Near Hariharpur
+Near Hariharpur
+13.52
+75.31
+Debris
+Slide
+NA
+11759
+KA/SHI/48O06/2020/37
+Karnataka
+Chikmagalur
+Koppa-Agumbe road
+Koppa-Agumbe road
+13.52
+75.27
+Debris
+Slide
+NA
+11760
+KA/SHI/48O06/2020/38
+Karnataka
+Chikmagalur
+Koppa-Agumbe road
+Koppa-Agumbe road
+13.52
+75.31
+Debris
+Slide
+NA
+11761
+KA/SHI/48O06/2020/39
+Karnataka
+Chikmagalur
+Mathevani village
+Mathevani village
+13.52
+75.28
+Debris
+Flow
+NA
+11762
+KA/SHI/48O06/2020/50
+Karnataka
+Chikmagalur
+Gaurigadde Village
+Gaurigadde Village
+13.52
+75.26
+Debris
+Slide
+NA
+11763
+KA/SHI/48O06/2020/21
+Karnataka
+Shimoga
+NH-169A
+Koppa road
+13.53
+75.33
+Debris
+Slide
+NA
+11764
+KA/SHI/48O02/2020/42
+Karnataka
+Shimoga
+North of Hosakere village
+Hosakere road section
+13.53
+75.16
+Debris
+Slide
+NA
+11765
+KA/SHI/48O06/2020/40
+Karnataka
+Chikmagalur
+South west of Heggaru village
+South west of Heggaru village
+13.53
+75.24
+Debris
+Slide
+NA
+11766
+KA/SHI/48O06/2020/46
+Karnataka
+Chikmagalur
+South of Kela Harandur
+South of Kela Harandur
+13.53
+75.38
+Debris
+Slide
+NA
+11767
+KA/SHI/48O06/2020/49
+Karnataka
+Chikmagalur
+Kodtal Village
+Kodtal Village
+13.53
+75.27
+Debris
+Slide
+NA
+11768
+KA/SHI/48O06/2020/51
+Karnataka
+Chikmagalur
+Gaurigadde Village
+Gaurigadde Village
+13.53
+75.26
+Debris
+Slide
+NA
+11769
+KA/SHI/48O02/2020/27
+Karnataka
+Shimoga
+Agumbe road section NH-169A
+South of Kavurehakhalu village
+13.54
+75.11
+Debris
+Slide
+NA
+11770
+KA/SHI/48O06/2020/45
+Karnataka
+Chikmagalur
+Kela Harandur
+Koppa road
+13.54
+75.39
+Debris
+Slide
+NA
+11771
+KA/SHI/48O06/2020/48
+Karnataka
+Chikmagalur
+Edtal Village, Matina Math
+Edtal Village
+13.54
+75.27
+Debris
+Slide
+NA
+11772
+KA/SHI/48O06/2020/28
+Karnataka
+Shimoga
+Ammadi coffee estate
+Thirthahalli-Koppa road (NH-
+169 )
+13.55
+75.35
+Debris
+Slide
+NA

@@ -1,0 +1,265 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+13990
+KER/KKD/58A3/2018/22
+Kerala
+Kozhikode
+Kozhikodanchal Landslide
+Kozhikodanchal – Ambedkar 
+Colony road
+11.465
+76.0321
+Debris
+Flow
+12th June 2018 (17:30 hrs)
+13991
+KER/KKD/58A3/2018/23
+Kerala
+Kozhikode
+Ambedkar Colony -1 Landslide
+Chempukadavu – Palakunnu – 
+Ambedkar Colony
+11.4618
+76.029
+Debris
+Flow
+12th June 2018 (16:15 hrs)
+13992
+KER/KKD/58A3/2018/24
+Kerala
+Kozhikode
+Ambedkar colony-2 Landslide
+Chempukadavu – Palakunnu – 
+Ambedkar Colony
+11.4628
+76.0259
+Debris
+Flow
+14th June 2018 (04:00 hrs)
+13993
+KER/KKD/58A3/2018/25
+Kerala
+Kozhikode
+Nooranthodu LP School Landslide
+Chempukadavu – Thusharagiri 
+Road
+11.4675
+76.0281
+Debris
+Flow
+12th June 2018 (18:00 hrs & 19:00 hrs)
+13994
+KER/KKD/58A3/2018/26
+Kerala
+Kozhikode
+Chipplithodu (29th mile) Landslide
+Adivaram – Vythiri 
+(Thamarassery Churam) Road
+11.4891
+76.0235
+Debris
+Slide
+14th June 2018 (06:30 hrs)
+13995
+KER/KKD/58A2/2018/27
+Kerala
+Kozhikode
+Churam Landslide
+Adivaram – Vythiri 
+(Thamarassery Churam) Road
+11.5148
+76.0151
+Debris
+Slide
+14th June 2018
+13996
+KER/KNR/48P16/2018/01
+Kerala
+Kannur
+Parakkamala Landslide
+Mudikkayam – Vaniyapara road 12.0709
+75.7581
+Debris
+Flow
+12th June 2018 (18:00 hrs)
+13997
+KRL/MPM/58A3/2018/01
+Kerala
+Malappuram
+Perakamanna
+West Chathalloor- Odanpara,  
+Ernad Taluk
+11.26246
+76.11503
+rock-cum- debris
+Flows
+14th June, 2018 at 03:00 hrs.
+13998
+KRL/MPM/58A3/2018/02
+Kerala
+Malappuram
+Cholara
+Cholara-Karinchola, Ernad Taluk 11.26152
+76.13833
+Debris
+Slide
+14th June, 2018
+13999
+KRL/MPM/58A3/2018/03
+Kerala
+Malappuram
+Kappakallu
+East Chathaloor, Ernad Taluk
+11.25106
+76.13881
+Rock cum Debris
+Flow
+September, 2017
+14000
+KRL/MPM/58A3/2018/04
+Kerala
+Malappuram
+Bheemangal
+Odayikkal-Edavanna, 
+Pullipadam Vilage, Ernad Taluk
+11.25171
+76.181
+Soil
+Slide
+14th June, 2018
+14001
+KRL/MPM/58A3/2018/05
+Kerala
+Malappuram
+Madam Colony 1
+Pullipadam Village, Nilambur 
+Taluk
+11.27061
+76.14651
+Rock cum Debris
+Flows
+14th June, 2018 at 05:00 hrs
+14002
+KRL/MPM/58A3/2018/06
+Kerala
+Malappuram
+Madam Colony 2
+Pullipadam Village, Nilambur 
+Taluk
+11.2726
+76.14928
+Debris
+Slide
+14th June, 2018
+14003
+KRL/MPM/58A3/2018/07
+Kerala
+Malappuram
+Madam Colony 3
+Pullipadam Village, Ernad Taluk
+11.27212
+76.15036
+Debris
+Slide
+14th June, 2018
+14004
+KRL/MPM/58A3/2018/08
+Kerala
+Malappuram
+Chettiyampara colony
+Chettiyampara colony 
+Erumamunda, ,Kurumbilangod 
+Village, Nilambur Taluk
+11.36217778
+76.21179444
+Rock cum debris
+Flow
+15th June, 2018
+14005
+KRL/MPM/58A3/2018/09
+Kerala
+Malappuram
+Vilakkennanpara
+Vilakkennanpara,  
+Kurumbilangod Village, 
+Nilambur Taluk
+11.37724
+76.21258
+Rock cum debris
+Flow
+14th June, 2018; Rock/debris slide had 
+occurred at the same spot about 5-6 
+years back also. Also about 40 years 
+back, a huge rock block of about 6m x 
+4m x3m had displaced further upslope 
+of this location, rolled down till road 
+bench and killed three people.
+14006
+KRL/PKD/58B9/2018/01
+Kerala
+Palakkad
+Paypullu
+Palakayam Village, Mannarkad 
+Taluk
+10.97659
+76.55491
+Rock cum debris
+Flow
+12th June, 2018; about 22:30 hrs
+14007
+KRL/PKD/58B9/2018/02
+Kerala
+Palakkad
+Kundampotti-Vattapara
+Palakyam Village, Mannarkad 
+Taluk
+10.97039
+76.57454
+Rock cum debris
+Flow
+12th June, 2018
+14008
+KRL/PKD/58B11/2018/03
+Kerala
+Palakkad
+Mannannakayam
+Kizhekkencherry Village, Alathur 
+Taluk
+10.97039
+76.57454
+Rock cum debris
+Flow
+12th June, 2018
+14009
+KRL/PKD/58B11/2018/04
+Kerala
+Palakkad
+Kadappara
+Kizhekkencherry Village, Alathur 
+Taluk
+10.46591
+76.5648
+Debris
+Flow
+13th  June, 2018
+14010
+KER/WYD/58A2/2018/01
+Kerala
+Wayanad
+Aramalakunnu Landslide
+Vythiri - Aramala Road
+11.5294
+76.0293
+Soil
+Slide
+14th June 2018 (05:30 hrs)

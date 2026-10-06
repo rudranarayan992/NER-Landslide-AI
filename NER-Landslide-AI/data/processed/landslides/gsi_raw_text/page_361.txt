@@ -1,0 +1,380 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14950
+43
+Kerala
+Idukki
+Thinkalkadu IX
+Muniyara Road - Thinkalkadu
+9.914919
+77.106482
+Debris
+Slide
+ 15th August 2018
+14951
+44
+Kerala
+Idukki
+Kailalasam
+Nedumkandam- Kailasam Road 9.900049
+77.111063
+Debris
+Slide
+ 15th August 2018
+14952
+45
+Kerala
+Idukki
+Rajakumari
+9.966702
+77.157571
+Earth
+Slide
+8th August 2018
+14953
+46
+Kerala
+Idukki
+Pallipadi
+Pallipadi - Rajakumari North 
+Road
+9.970397
+77.159209
+Debris
+Flow
+August 15th 2018
+14954
+47
+Kerala
+Idukki
+Manjakkuzhi
+Manjakkuzhi - Vathukappu 
+Road
+9.981957
+77.166132
+Debris
+Slide
+8th August 2018
+14955
+48
+Kerala
+Idukki
+Vathukappu-I
+Manjakkuzhi - Vathukappu 
+Road
+9.98667
+77.172555
+Debris
+Flow
+ 15th August 2018
+14956
+49
+Kerala
+Idukki
+Vathukappu-II
+Manjakkuzhi - Vathukappu 
+Road
+9.990063
+77.178833
+Debris
+Flow
+ 15th August 2018
+14957
+50
+Kerala
+Idukki
+Vathukappu - III
+ Vathukappu - Muduvakkudi 
+Road
+9.991283
+77.174729
+Debris
+Flow
+ 15th August 2018
+14958
+51
+Kerala
+Idukki
+Muduvakkudi-I
+ Vathukappu - Muduvakkudi 
+Road
+9.992937
+77.177521
+Debris
+Flow
+ 15th August 2018
+14959
+52
+Kerala
+Idukki
+Kulapparachal
+9.992798
+77.180848
+Debris
+Flow
+ 15th August 2018
+14960
+53
+Kerala
+Idukki
+Muduvakkudi-II
+Muduvakkudi Colony Road
+9.999
+77.17757
+Debris
+Flow
+ 15th August 2018
+14961
+54
+Kerala
+Idukki
+Vathukappu - IV
+ Vathukappu - Muduvakkudi 
+Road
+10.001
+77.1708
+Debris
+Flow
+ 15th August 2018
+14962
+55
+Kerala
+Idukki
+Vathukappu - V
+ Vathukappu - Muduvakkudi 
+Road
+10
+77.17004
+Debris
+Flow
+ 15th August 2018
+14963
+56
+Kerala
+Idukki
+Kumbhappara -I 
+Kumbhapara - NR City Road
+9.981525
+77.133652
+Debris
+Flow
+ 15th August 2018
+14964
+57
+Kerala
+Idukki
+Kumbhappara -II 
+Kumbhapara - Khjanappara 
+Road
+9.981446
+77.131882
+Debris
+Slide
+ 15th August 2018
+14965
+58
+Kerala
+Idukki
+Kumbhappara -III 
+Kumbhapara - Khjanappara 
+Road
+9.98176
+77.132331
+Debris
+Slide
+ 15th August 2018
+14966
+59
+Kerala
+Idukki
+Amravathy, 1st Mile
+Kumily- Munnar Highway
+9.621675
+77.161217
+Debris
+Slide
+17th August  2018
+14967
+60
+Kerala
+Idukki
+Amravathy, 2nd Mile
+Kumily- Munnar Highway
+9.629298
+77.163697
+Debris
+Slide
+17th August  2018
+14968
+61
+Kerala
+Idukki
+AKG Padi
+Kumily- Munnar Highway
+9.632692
+77.162881
+Debris
+Slide
+17th August  2018
+14969
+62
+Kerala
+Idukki
+AKG Padi, 3rd Mile
+Kumily- Munnar Highway
+9.636032
+77.163613
+Debris
+Slide
+17th August  2018
+14970
+63
+Kerala
+Idukki
+3rd Mile, Amarvathy
+Kumily- Munnar Highway
+9.637009
+77.163437
+Debris
+Slide
+August 16th 2018
+14971
+64
+Kerala
+Idukki
+5th Mile -I
+Kumily- Munnar Highway
+9.640687
+77.166384
+Debris
+Slide
+August 15th 2018
+14972
+65
+Kerala
+Idukki
+5th Mile-II
+Kumily- Munnar Highway
+9.637785
+77.170792
+Debris
+Slide
+August 17th 2018
+14973
+66
+Kerala
+Idukki
+Ottakathalamedu-I
+Ottakathalamedu- Kumily Road 9.634359
+77.157909
+Debris
+Flow
+August 15th 2018
+14974
+67
+Kerala
+Idukki
+Ottakathalamedu-II
+Ottakathalamedu- Kumily Road 9.633776
+77.157286
+Debris
+Slide
+17th August  2018
+14975
+68
+Kerala
+Idukki
+Ottakathalamedu-III
+Ottakathalamedu- Kumily Road 9.633309
+77.156819
+Debris
+Slide
+17th August  2018
+14976
+69
+Kerala
+Idukki
+Ottakathalamedu-IV
+Ottakathalamedu- Kumily Road 9.63423
+77.154065
+Debris
+Slide
+17th August  2018
+14977
+70
+Kerala
+Idukki
+Anappara
+Attapallom- Kumily Road
+9.635735
+77.151807
+Debris
+Slide
+17th August  2018
+14978
+71
+Kerala
+Idukki
+Attapallom -I
+Attapallom- Kumily Road
+9.635213
+77.152987
+Debris
+Slide
+August 8th 2018
+14979
+72
+Kerala
+Idukki
+Attapallom -II
+Attapallom- Kumily Road
+9.63221
+77.156202
+Debris
+Slide
+17th August  2018
+14980
+73
+Kerala
+Idukki
+Ottakathalamedu-V
+Ottakathalamedu- Mother 
+Theresa  Road
+9.629116
+77.153759
+Debris
+Slide
+17th August  2018
+14981
+74
+Kerala
+Idukki
+ Mother Theresa  Nagar
+Ottakathalamedu- Mother 
+Theresa  Road
+9.629553
+77.1546
+Debris
+Slide
+17th August  2018
+14982
+75
+Kerala
+Idukki
+Pathumuri
+Pathumuri - Anavilasam Road
+9.629002
+77.137118
+Debris
+Slide
+17th August  2018

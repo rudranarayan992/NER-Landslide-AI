@@ -1,0 +1,286 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14107
+KRL/PKD/58B10/2018/155
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.52886
+76.659552
+Debris
+slide
+Initiated on 16/8/2018, 
+14108
+KRL/PKD/58B10/2018/156
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.527178
+76.657258
+Debris
+slide
+Initiated on 16/8/2018, 
+14109
+KRL/PKD/58B10/2018/157
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.526998
+76.656787
+Debris
+slide
+Initiated on 16/8/2018, 
+14110
+KRL/PKD/58B10/2018/158
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.526352
+76.656767
+Debris
+slide
+Initiated on 16/8/2018, 
+14111
+KRL/PKD/58B10/2018/159
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.525573
+76.65591
+Debris
+slide
+Initiated on 16/8/2018, 
+14112
+KRL/PKD/58B10/2018/160
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.529405
+76.658323
+Debris
+slide
+Initiated on 16/8/2018, 
+14113
+KRL/PKD/58B10/2018/161
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.528565
+76.656988
+Debris
+slide
+Initiated on 16/8/2018, 
+14114
+KRL/PKD/58B10/2018/162
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.527178
+76.65542
+Debris
+slide
+Initiated on 16/8/2018, 
+14115
+KRL/PKD/58B10/2018/163
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.52681
+76.65506
+Debris
+slide
+Initiated on 16/8/2018, 
+14116
+KRL/PKD/58B10/2018/164
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.587136
+76.614962
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14117
+KRL/PKD/58B10/2018/165
+Kerala
+Palakkad
+Pothundi dam reservoir area
+10.556079
+76.63704
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14118
+KRL/PKD/58B10/2018/166
+Kerala
+Palakkad
+Pothundi dam reservoir area
+10.55266
+76.657883
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14119
+KRL/PKD/58B10/2018/167
+Kerala
+Palakkad
+Pothundi dam reservoir area
+10.520291
+76.63457
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14120
+KRL/PKD/58B10/2018/168
+Kerala
+Palakkad
+Pothundi dam reservoir area
+10.517591
+76.635992
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14121
+KRL/PKD/58B10/2018/169
+Kerala
+Palakkad
+Pothundi dam reservoir area
+10.50813
+76.627101
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14122
+KRL/PKD/58B10/2018/170
+Kerala
+Palakkad
+Pothundi dam reservoir area
+10.511741
+76.630045
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14123
+KRL/PKD/58B10/2018/171
+Kerala
+Palakkad
+Pothundi dam reservoir area
+10.523663
+76.639443
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14124
+KRL/PKD/58B10/2018/172
+Kerala
+Palakkad
+Pothundi dam reservoir area
+10.523668
+76.642289
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14125
+KRL/PKD/58B10/2018/174
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.525735
+76.62619
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14126
+KRL/PKD/58B10/2018/24
+Kerala
+Palakkad
+Uppukulam subsidence
+Uppukulam, Kedkencherri II 
+village of Alathur Taluk
+10.513337
+76.523822
+Debris
+subsidence
+Initiated on 15/8/18
+14127
+KRL/PKD/58B10/2018/25
+Kerala
+Palakkad
+VRT Debris flow
+VRT, Kizhakencheri  village, 
+Alathur Taluk
+10.507912
+76.509617
+Debris
+Flow
+Initiated on 16/8/18
+14128
+KRL/PKD/58B10/2018/27
+Kerala
+Palakkad
+Irattakullam, near Maruti showroom
+Irattakullam, Alathur Taluk
+10.634153
+76.517673
+Debris
+slide
+Initiated on 16/8/18
+14129
+KRL/PKD/58B10/2018/37
+Kerala
+Palakkad
+Ezhuthankad slide
+Ezhuthankad, Alathur village, 
+Alathur Taluk
+10.619327
+76.554523
+Debris
+slide
+Initiated on 15/8/18
+14130
+KRL/PKD/58B10/2018/38
+Kerala
+Palakkad
+Athanadkunnu slide
+Athanadkunnu , Vallanki village, 
+Nenmara Pnchayat, Alathur 
+Taluk
+10.586837
+76.614269
+Debris
+flow
+Initiated on 16/8/18
+14131
+KRL/PKD/58B10/2018/39
+Kerala
+Palakkad
+Veezhumala slide
+Veezhumala, Kattusseri village, 
+Alathur Taluk
+10.623613
+76.542127
+Debris
+slide
+Initiated on 16/8/18

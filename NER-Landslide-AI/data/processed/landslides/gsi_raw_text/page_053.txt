@@ -1,0 +1,364 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1792
+AP/DV/82P15/2022/145
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 43.5 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.455284
+95.854018
+Debris
+Slide
+NA
+1793
+AR/WSI/82L11/2021/27A
+Arunachal Pradesh
+West Siang
+Thumbin Slide 3
+Aalo-Tato Road
+28.455655
+94.680282
+Debris
+Slide
+NA
+1794
+AR/WSI/82L11/2021/27B
+Arunachal Pradesh
+West Siang
+Thumbin Slide 4
+Aalo-Tato Road
+28.455769
+94.680664
+Debris
+Slide
+NA
+1795
+AP/DV/82P15/2022/144
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 43.8 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.457775
+95.853489
+Debris
+Slide
+NA
+1796
+AR/WSI/82L11/2021/28
+Arunachal Pradesh
+West Siang
+North of Thumbin Slide
+Aalo-Tato Road
+28.459267
+94.680108
+Rock-cum-Debris
+Slide
+NA
+1797
+AP/DV/82P15/2022/143
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 44.5 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.462314
+95.849136
+Rock
+Fall
+NA
+1798
+AP/DV/82P15/2022/132
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 45 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.464936
+95.852312
+Debris
+Slide
+NA
+1799
+AP/DV/82P15/2022/137
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 47.4 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.469481
+95.849951
+Rock
+Fall
+NA
+1800
+AR/US/82P04/2022/045
+Arunachal Pradesh
+Upper Siang
+Millang-Longpong Slide
+NH-513
+28.470167
+95.233333
+Debris
+Slide
+NA
+1801
+AP/DV/82P15/2022/138
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 47 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.471388
+95.852234
+Rock
+Fall
+NA
+1802
+AP/DV/82P15/2022/141
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 46.4 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.472858
+95.858449
+Rock
+Fall
+NA
+1803
+AP/DV/82P15/2022/142
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 46.3 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.472863
+95.858934
+Rock
+Fall
+NA
+1804
+AP/DV/82P15/2022/140
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 46.45 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.472919
+95.857932
+Debris
+Slide
+NA
+1805
+AP/DV/82P15/2022/139
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 46.5 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.472966
+95.857242
+Debris
+Slide
+NA
+1806
+AP/DV/82P15/2022/136
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 48.1 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.474093
+95.847423
+Debris
+Slide
+NA
+1807
+AP/DV/82P15/2022/135
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 48.8 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.476722
+95.841356
+Rock
+Fall
+NA
+1808
+AP/DV/82P15/2022/134
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 48.5 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.479902
+95.839317
+Rock
+Fall
+NA
+1809
+AP/DV/82P15/2022/133
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 49.8 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.481108
+95.838317
+Debris
+Slide
+NA
+1810
+AR/US/82P04/2022/047
+Arunachal Pradesh
+Upper Siang
+Mariyang Slide 2
+NH-513
+28.484056
+95.207056
+Debris
+Slide
+NA
+1811
+AP/DV/82P15/2022/130
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 51.2 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.487041
+95.848265
+Debris
+Slide
+NA
+1812
+AR/US/82P04/2022/046
+Arunachal Pradesh
+Upper Siang
+Mariyang Slide 1
+NH-513
+28.4875
+95.213417
+Debris
+Flow
+NA
+1813
+AP/LDV/82P16/2022/119
+Arunachal Pradesh
+Lower Dibang Valley
+ From Hunli 2.4 km along HMH road
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.487904
+95.84071
+Debris
+Slide
+NA
+1814
+AP/DV/82P15/2022/128
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 52.3 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.488264
+95.842761
+Debris
+Slide
+NA
+1815
+AP/DV/82P15/2022/129
+Arunachal Pradesh
+Dibang Valley
+Tiwarigaon landslide. From Hunli 51.9 
+kms along NH-313 towards Anini
+ NH-313 (Roing-Anini road)
+28.489492
+95.845459
+Rock
+Fall
+NA
+1816
+AR/US/82P04/2022/051
+Arunachal Pradesh
+Upper Siang
+Mariyang Slide 3
+NH-513
+28.490278
+95.203194
+Debris
+Slide
+NA
+1817
+AP/DV/82P15/2022/126
+Arunachal Pradesh
+Dibang Valley
+ Arzoo landslide. From Hunli 53.7 kms 
+along NH-313 towards Anini
+ NH-313 (Roing-Anini road)
+28.490519
+95.832301
+Debris
+Slide
+NA
+1818
+AP/DV/82P15/2022/127
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 52.5 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.490727
+95.833473
+Debris
+Slide
+NA
+1819
+AR/US/82P04/2022/052
+Arunachal Pradesh
+Upper Siang
+Mariyang Slide 4
+NH-513
+28.4915
+95.202944
+Debris
+Slide
+NA
+1820
+AP/DV/82P15/2022/125
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 55.2 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.494378
+95.825225
+Rock
+Fall
+NA
+1821
+AP/DV/82P15/2022/124
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 55.6 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.497294
+95.827044
+Debris
+Slide
+NA

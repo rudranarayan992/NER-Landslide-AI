@@ -1,0 +1,500 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+10880
+JK/BAN/43J11/2020/5
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Bandipora-Ahem Sharif road
+34.44
+74.65
+Debris
+Slide
+NA
+10881
+JK/KUP/43J11/2020/23
+Jammu & Kashmir (UT)
+Kupwara
+ 
+Chak Reshi Pora area
+34.44
+74.66
+Debris
+Slide
+NA
+10882
+JK/BAR/43J03/2020/1
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Hangulkute
+34.45
+74.1
+Earth
+Slide
+NA
+10883
+JK/BAN/43J11/2020/15
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Near Buthu area
+34.45
+74.66
+Debris
+Slide
+NA
+10884
+JK/BAN/43J11/2020/20
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Buthu area
+34.45
+74.69
+Debris
+Slide
+NA
+10885
+JK/BAN/43J11/2020/21
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Near Buthu area
+34.45
+74.67
+Debris
+Slide
+NA
+10886
+JK/BAN/43J11/2020/22
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Near Athbuttu area
+34.45
+74.68
+Debris
+Slide
+NA
+10887
+JK/BAR/43J03/2020/9
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Hafthrada area
+34.46
+74.1
+Debris
+Slide
+NA
+10888
+JK/BAN/43J11/2020/16
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Kuenus area
+34.46
+74.67
+Debris
+Slide
+NA
+10889
+JK/BAN/43J11/2020/6
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Mantri Gham area
+34.46
+74.65
+Debris
+Slide
+NA
+10890
+JK/KUP/43J07/2020/2
+Jammu & Kashmir (UT)
+Kupwara
+ 
+Shimg Kralpora rea
+34.47
+74.45
+Debris
+Slide
+NA
+10891
+JK/BAN/43J11/2020/10
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Towards Gurez area
+34.47
+74.66
+Debris
+Slide
+NA
+10892
+JK/BAN/43J11/2020/11
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Towards Gurez area
+34.48
+74.66
+Debris
+Slide
+NA
+10893
+JK/KUP/43J02/2020/1
+Jammu & Kashmir (UT)
+Kupwara
+ 
+Gujriyal area
+34.54
+74.13
+Debris
+Slide
+NA
+10894
+JK/KUP/43J06/2020/1
+Jammu & Kashmir (UT)
+Kupwara
+ 
+Near Dewar Army camp
+34.56
+74.32
+Debris
+Slide
+NA
+10895
+JK/RAM/43O04/2024/01
+Jammu & Kashmir (UT)
+Ramban
+Pernote
+Road connecting Ramban and 
+Gool
+33.24235
+75.20798889
+Overburden material Debris
+25 April 2024
+10896
+JK/REA/43K16/2024/14
+Jammu & Kashmir (UT)
+Reasi
+Kuroon Kote
+Kuroon Kote village
+33.14553
+74.97701
+Debris
+Slide and 
+subsidence
+2 May 2024
+10897
+JK/REA/43K15/2024/15
+Jammu & Kashmir (UT)
+Reasi
+Marassi Mohalla
+Sildhar village
+33.3098
+74.94183
+Debris
+Slide and 
+subsidence
+May 2024
+10898
+JK/REA/43K16/2024/18
+Jammu & Kashmir (UT)
+Reasi
+Vaishno Devi
+Vaishno Devi Track Route
+33.02428
+74.93825
+Rock
+Fall
+2 September 2024
+10899
+3441
+Jammu & Kashmir (UT)
+Kathua
+NULL
+NULL
+32.445146
+75.51906
+Debris
+Slide
+NA
+10900
+3343
+Jammu & Kashmir (UT)
+Doda
+NULL
+Thelela
+33.1243366
+75.6367333
+Debris
+Slide
+NA
+10901
+3436
+Jammu & Kashmir (UT)
+Kathua
+NULL
+NULL
+32.442188
+75.531513
+Debris
+Slide
+17 August 2025
+10902
+3488
+Jammu & Kashmir (UT)
+Rajouri
+NULL
+NULL
+33.37561
+74.427921
+Debris
+Fall
+31 August 2025
+10903
+3490
+Jammu & Kashmir (UT)
+Rajouri
+NULL
+NULL
+33.371921
+74.407908
+Debris
+Slide
+26 August 2025
+10904
+JK/RAM/43O04/2025/01
+Jammu & Kashmir (UT)
+Ramban
+Chandhi Morh
+SH (Ramban-Gool)
+33.23699444
+75.22344444
+Debris
+Flow
+20 April 2025
+10905
+JK/RAM/43O04/2025/02
+Jammu & Kashmir (UT)
+Ramban
+Ramban (Bowli Bazar)
+NH44
+33.24198611
+75.23667778
+Debris
+Flow
+20 April 2025
+10906
+JK/RAM/43O4/2025/03
+Jammu & Kashmir (UT)
+Ramban
+Ramban (Usman Hotel)
+NH44
+33.24266944
+75.23298889
+Debris
+Flow
+20 April 2025
+10907
+JK/RAM/43O3/2025/04
+Jammu & Kashmir (UT)
+Ramban
+Seri-1
+NH44
+33.25047222
+75.21072222
+Debris
+Flow
+20 April 2025
+10908
+JK/RAM/43O3/2025/05
+Jammu & Kashmir (UT)
+Ramban
+Seri-II, Near Tunnel T-01
+NH-44
+33.25676111
+75.2038
+Debris
+Slide
+20 April 2025
+10909
+JK/RAM/43O3/2025/06
+Jammu & Kashmir (UT)
+Ramban
+Kela Morh, Tunnel T-02
+NH-44
+33.25870278
+75.19678889
+Rock 
+Slide
+20 April 2025
+10910
+JK/RAM/43O4/2025/07
+Jammu & Kashmir (UT)
+Ramban
+Seri-3
+NH-44
+33.24827222
+75.21343056
+Debris
+Flow
+20 April 2025
+10911
+JK/RAM/43O4/2025/08
+Jammu & Kashmir (UT)
+Ramban
+Seri-4
+NH-44
+33.24725556
+75.21641389
+Debris
+Flow
+20 April 2025
+10912
+JK/RAM/43O8/2025/09
+Jammu & Kashmir (UT)
+Ramban
+Sena Police (TCP Ramban)
+NH44
+33.22051667
+75.26956389
+Debris
+Flow
+20 April 2025
+10913
+JK/RAM/43O4/2025/10
+Jammu & Kashmir (UT)
+Ramban
+Cafeteria Landslide
+NH-44
+33.23600556
+75.24382222
+Debris
+Debris
+20 April 2025
+10914
+JK/RAM/43O8/2025/11
+Jammu & Kashmir (UT)
+Ramban
+South portal of Peerah Tunnel
+NH-44 Jammu-Srinagar 
+Highway
+33.17306667
+75.29995556
+Debris
+Slide
+1 February 2025, 20 April 2025
+10915
+JK/RAM/43O8/2025/12
+Jammu & Kashmir (UT)
+Ramban
+Dolwas
+NH-44 Jammu-Srinagar 
+Highway
+33.15333889
+75.30680556
+Debris
+Slide
+20 April 2025
+10916
+JK/KIS/43O15/2025/13
+Jammu & Kashmir (UT)
+Kishtwar
+Kiru rock quarry landslide (Site_1)
+Left bank of Kiru reservoir 
+33.33043889
+75.96503056
+Rock
+Slide
+18 April 2025
+10917
+JK/KIS/43O15/2025/14
+Jammu & Kashmir (UT)
+Kishtwar
+Patti Morah (site-2)
+Pias village
+33.32900278
+75.96589444
+Debris
+Slide 
+18 April 2025
+10918
+JK/KIS/43O15/2025/15
+Jammu & Kashmir (UT)
+Kishtwar
+Patti Morah
+Patti Morah
+33.33043889
+75.96503056
+Debris
+Slide 
+18 April 2025
+10919
+JK/UDH/43P1/2025/16
+Jammu & Kashmir (UT)
+Udhampur
+ Duddhar Nallah
+ Dhar Road
+32.83436944
+75.14602222
+Rock
+Slide
+18 July 2025
+10920
+JK/REA/43L13/2025/017  
+Jammu & Kashmir (UT)
+Reasi
+ Banganga 
+ Vaishno Devi Track Route
+32.99842778
+74.94203611
+Debris
+Fall
+21 july 2025
+10921
+JK/JMU/43P1/2025/18
+Jammu & Kashmir (UT)
+Jammu
+Domel
+ NH44
+32.87978611
+74.95545556
+Debris
+Slide
+21 july 2025
+10922
+JK/JMU/43P1/2025/19
+Jammu & Kashmir (UT)
+Jammu
+ Tunnel T1 near Ban Toll Plaza
+NH-44
+32.84867222
+74.94725278
+Rock
+Fall
+21 july 2025
+10923
+JK/UDH/43O04/2025/20
+Jammu & Kashmir (UT)
+Udhampur
+Samroli
+NH-44
+33.010825
+75.22598056
+Debris
+Subsidence
+27 August 2025

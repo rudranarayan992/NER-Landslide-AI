@@ -1,0 +1,479 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20213
+MG/WKH/78O02/2017/24
+Meghalaya
+West Khasi Hills
+0.4 km w of Urkali
+NH44E
+25.570361
+91.215056
+Debris
+Slide
+NA
+20214
+MEG/WJH/83C10/2016/31
+Meghalaya
+West Jaintia Hills
+N of Lumjem
+Lumjem-Muthairain road
+25.571
+92.55128
+Debris
+Slide
+NA
+20215
+ME/EKJ/78O14/2015/10
+Meghalaya
+East Khasi Hills
+ 
+Near Nongumlong
+25.571256
+91.825464
+Rock
+Slide
+NA
+20216
+ME/EKJ/78O14/2015/27
+Meghalaya
+East Khasi Hills
+ 
+Near Nongumlong
+25.571299
+91.833183
+Debris
+Slide
+NA
+20217
+ME/EKJ/78O14/2015/11
+Meghalaya
+East Khasi Hills
+ 
+Near Nongumlong
+25.571555
+91.826228
+Debris
+Slide
+NA
+20218
+ME/EKJ/78O14/2015/12
+Meghalaya
+East Khasi Hills
+ 
+Near Nongumlong
+25.571747
+91.827526
+Debris
+Slide
+NA
+20219
+ME/EKJ/78O14/2015/13
+Meghalaya
+East Khasi Hills
+ 
+Near Nongumlong
+25.572312
+91.828292
+Debris
+Slide
+NA
+20220
+MG/WKH/78O02/2017/25
+Meghalaya
+West Khasi Hills
+0.3 km W of Umsaw
+NH44E
+25.572492
+91.209156
+Debris
+Slide
+NA
+20221
+ME/EKJ/78O14/2015/14
+Meghalaya
+East Khasi Hills
+ 
+Near Nongumlong
+25.57255
+91.828833
+Debris
+Slide
+NA
+20222
+ME/EKJ/78O14/2015/15
+Meghalaya
+East Khasi Hills
+ 
+Near Nongumlong
+25.573653
+91.831023
+Debris
+Slide
+NA
+20223
+ME/EKH/83C02/2015/147
+Meghalaya
+East Khasi Hills
+ 
+NH-44
+25.57395
+92.058583
+Debris
+Slide
+NA
+20224
+MG/WKH/78O02/2017/60
+Meghalaya
+West Khasi Hills
+0.3 km NNE of Umsaw
+Umsaw   Mawsiangbah 
+approach road
+25.57425
+91.214472
+Debris
+Slide
+NA
+20225
+ME/EKJ/78O14/2015/16
+Meghalaya
+East Khasi Hills
+ 
+Near Nongumlong
+25.57428
+91.831851
+Debris
+Slide
+NA
+20226
+ME/EKH/83C02/2015/148
+Meghalaya
+East Khasi Hills
+ 
+.5 km NE of Thangshalai, NH-44 25.576203
+92.057722
+Debris
+Slide
+NA
+20227
+ME/EKH/83C02/2015/181
+Meghalaya
+East Khasi Hills
+ 
+ 
+25.576806
+92.242444
+Debris
+Slide
+NA
+20228
+ME/EKJ/78O14/2015/52
+Meghalaya
+East Khasi Hills
+ 
+Near Dewsaw
+25.576847
+91.753423
+Debris
+Slide
+NA
+20229
+ME/EKJ/78O14/2015/53
+Meghalaya
+East Khasi Hills
+ 
+5 km Nongthliw
+25.577212
+91.75219
+Debris
+Slide
+NA
+20230
+MG/WJH/83C06/2018/1
+Meghalaya
+West Jaintia hills
+Jonglawit slide
+Jonglawit village
+25.578206
+92.266856
+Soil
+Slide
+NA
+20231
+ML/EKH/78O14/2014/03
+Meghalaya
+East Khasi Hills
+Barapathar
+Barapathar
+25.57822
+91.86545
+Debris
+Slide
+23 September 2014
+20232
+MG/WGH/78G14/2020/1
+Meghalaya
+West Garo Hills
+Tura-Ampati road slide no1
+SH-12,Tura-Ampati Road, near 
+Shakuri, Garobadha, 
+Meghalaya.
+25.58
+89.99
+Earth
+Slide
+NA
+20233
+MG/WKH/78O02/2017/58
+Meghalaya
+West Khasi Hills
+Mawlynniang
+Urkali  Nongkhniang road
+25.580703
+91.237361
+Debris
+Slide
+NA
+20234
+MG/WKH/78O02/2017/5
+Meghalaya
+West Khasi Hills
+1.5 km NNW of Mawnar
+NH44E
+25.581572
+91.181611
+Debris
+Slide
+NA
+20235
+MG/WKH/78O02/2017/6
+Meghalaya
+West Khasi Hills
+0.9 km NNW of Mawlynngdep
+NH44E
+25.581822
+91.189944
+Debris
+Slide
+NA
+20236
+ME/EKJ/78O14/2015/54
+Meghalaya
+East Khasi Hills
+ 
+Near Krang
+25.581829
+91.765659
+Rock
+Slide
+NA
+20237
+MG/WKH/78O02/2017/62
+Meghalaya
+West Khasi Hills
+0.6 km SE of Umjaru
+NH44E
+25.581983
+91.176972
+Debris
+Slide
+NA
+20238
+MG/WKH/78O02/2017/61
+Meghalaya
+West Khasi Hills
+1.5 km N of Mawnar
+NH44E
+25.582061
+91.185611
+Debris
+Slide
+NA
+20239
+ME/EKH/83C02/2015/149
+Meghalaya
+East Khasi Hills
+ 
+.5 km NE of Thangshalai, NH-44 25.582167
+92.058333
+Debris
+Slide
+NA
+20240
+MG/WKH/78O02/2017/29
+Meghalaya
+West Khasi Hills
+1.6 km N of Mawnar
+NH44E
+25.582836
+91.183972
+Debris
+Slide
+NA
+20241
+MG/WKH/78O02/2017/59
+Meghalaya
+West Khasi Hills
+0.6 km NNW of Mawlynniang
+Urkali  Nongkhniang road
+25.583236
+91.237317
+Debris
+Slide
+NA
+20242
+MG/WKH/78O02/2017/4
+Meghalaya
+West Khasi Hills
+0.5 km E of Umjaru
+NH44E
+25.585389
+91.1765
+Debris
+Slide
+NA
+20243
+ME/EKJ/78O14/2015/55
+Meghalaya
+East Khasi Hills
+ 
+Near Dewsaw
+25.585875
+91.777328
+Rock
+Fall
+NA
+20244
+MG/WKH/78O06/2017/18
+Meghalaya
+West Khasi Hills
+Myriaw slide
+Myriaw village
+25.587111
+91.498556
+Debris
+Slide
+NA
+20245
+ME/EKH/83C02/2015/150
+Meghalaya
+East Khasi Hills
+ 
+1.2 km E of Diengpasoh, NH-44
+25.592972
+92.055139
+Debris
+Slide
+NA
+20246
+ME/EKJ/78O14/2015/18
+Meghalaya
+East Khasi Hills
+ 
+Lungkyrding- Mawpat Road
+25.59578
+91.917379
+Earth
+Subsidence
+NA
+20247
+MG/WKH/78O02/2017/67
+Meghalaya
+West Khasi Hills
+2.7 km W of Umjaru
+NH44E  Umshinrut road
+25.597614
+91.153233
+Debris
+Slide
+NA
+20248
+MG/WKH/78O02/2017/2
+Meghalaya
+West Khasi Hills
+0.6 km NW of Umjaru
+NH44E
+25.598908
+91.175628
+Debris
+Slide
+NA
+20249
+ME/EKJ/78O14/2015/46
+Meghalaya
+East Khasi Hills
+ 
+Umj jew- Lumpyngrope 
+approach road
+25.599096
+91.859289
+Earth
+Slide
+NA
+20250
+MG/WKH/78O02/2017/3
+Meghalaya
+West Khasi Hills
+0.5 km NW of Umjaru
+NH44E
+25.599575
+91.1782
+Soil
+Slide
+NA
+20251
+ME/EKJ/78O14/2015/44
+Meghalaya
+East Khasi Hills
+ 
+Umj jew- Lumpyngrope 
+approach road
+25.599762
+91.860814
+Debris
+Slide
+NA
+20252
+ME/EKJ/78O14/2015/45
+Meghalaya
+East Khasi Hills
+ 
+Umj jew- Lumpyngrope 
+approach road
+25.599815
+91.860028
+Debris
+Slide
+NA
+20253
+MG/WKH/78O02/2017/69
+Meghalaya
+West Khasi Hills
+0.7 km NW of Umjaru
+NH44E
+25.599817
+91.176394
+Debris
+Slide
+NA
+20254
+MG/WGH/78K02/2020/2
+Meghalaya
+West Garo Hills
+Singimari-Tura road subsidence
+SH-2, Meghalaya, 300 m SE of 
+Tiksali
+25.6
+90.03
+Debris
+Slide
+2019

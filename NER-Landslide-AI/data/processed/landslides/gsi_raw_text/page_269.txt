@@ -1,0 +1,408 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11662
+KA/CHI/48O08/2017/99
+Karnataka
+Chikmagalur
+North of Hirebail
+Hirebail  Balehole
+13.221155
+75.418258
+Debris
+Slide
+NA
+11663
+KA/CHI/48O08/2017/1
+Karnataka
+Chikmagalur
+South East of Kalasa
+Kalasa  Kotighere (SH  106)
+13.222957
+75.366519
+Debris
+Slide
+NA
+11664
+KA/DAK/48O3/2017/36
+Karnataka
+Dakshin Kannad
+1.8 km NW of Village Bhagavati
+BhagavatiSK border road 
+section
+13.225139
+75.180889
+Debris
+Slide
+NA
+11665
+KA/CHI/48O08/2017/14
+Karnataka
+Chikmagalur
+South of Kalasa
+Kalasa  Kudremukh (SH  66)
+13.226405
+75.352974
+Debris
+Slide
+NA
+11666
+KA/CHI/48O08/2017/13
+Karnataka
+Chikmagalur
+South of Kalasa
+Kalasa  Kudremukh (SH  66)
+13.226965
+75.353314
+Debris
+Slide
+NA
+11667
+KA/CHI/48O08/2017/100
+Karnataka
+Chikmagalur
+North of Hirebail
+Hirebail  Balehole
+13.228207
+75.418615
+Debris
+Slide
+NA
+11668
+KA/CHI/48O12/2017/18
+Karnataka
+Chikmagalur
+ChandugoduKanegadde village area
+380 from Slide no.17, 
+ChandugoduKanegadde road 
+section
+13.233731
+75.600819
+Debris
+Slide
+NA
+11669
+KA/CHI/48O12/2017/19
+Karnataka
+Chikmagalur
+ChandugoduKanegadde village area
+30 from Slide no.18, 
+ChandugoduKanegadde road 
+section
+13.233731
+75.600819
+Debris
+Slide
+NA
+11670
+KA/CHI/48O12/2017/17
+Karnataka
+Chikmagalur
+ChandugoduKanegadde village area
+1km from Slide no.16, 
+ChandugoduKanegadde road 
+section
+13.235303
+75.603981
+Debris
+Slide
+NA
+11671
+KA/CHI/48O08/2017/101
+Karnataka
+Chikmagalur
+North West of Kalasa
+Hornadu  Kalasa (SH  106)
+13.237117
+75.351554
+Debris
+Slide
+NA
+11672
+KA/DAK/48O3/2017/38
+Karnataka
+Dakshin Kannad
+Near Kadambe falls
+BhagvatiHale Siralu road section 13.237481
+75.176153
+Debris
+Slide
+NA
+11673
+KA/CHI/48O12/2017/15
+Karnataka
+Chikmagalur
+Chandugodu village
+1km from Chandugodu
+13.240297
+75.610642
+Debris
+Slide
+NA
+11674
+KA/CHI/48O12/2017/16
+Karnataka
+Chikmagalur
+ChandugoduKanegadde village area
+150m from  slide no. 15 
+ChandugoduKanegadde road 
+section
+13.240308
+75.610667
+Debris
+Slide
+NA
+11675
+KA/DAK/48O3/2017/15
+Karnataka
+Dakshin Kannad
+1.4 km N of Village Heranje
+MulluruSK border road section
+13.253575
+75.127911
+Debris
+Slide
+NA
+11676
+KA/DAK/48O3/2017/1
+Karnataka
+Dakshin Kannad
+Near Mulluru
+KarkalaSK border
+13.254008
+75.128328
+Debris
+Slide
+NA
+11677
+KA/DAK/48O3/2017/16
+Karnataka
+Dakshin Kannad
+2.28 km N of Village Heranje
+MulluruSK border road section
+13.2614
+75.129183
+Debris
+Slide
+NA
+11678
+KA/DAK/48O3/2017/2
+Karnataka
+Dakshin Kannad
+Near Mulluru
+KarkalaSK border
+13.262025
+75.129508
+Debris
+Slide
+NA
+11679
+KA/DAK/48O3/2017/3
+Karnataka
+Dakshin Kannad
+Near SK border
+KarkalaSK border
+13.263
+75.131
+Debris
+Slide
+NA
+11680
+KA/CHI/48O11/2017/14
+Karnataka
+Chikmagalur
+AldurBalehonnur road
+7.4  km from aldur
+13.269044
+75.617364
+Debris
+Slide
+NA
+11681
+KA/CHI/48O11/2017/13
+Karnataka
+Chikmagalur
+AldurBalehonnur road
+7 km from aldur
+13.2703
+75.620444
+Debris
+Slide
+NA
+11682
+KA/DAK/48O3/2017/19
+Karnataka
+Dakshin Kannad
+1.3 km S of Heggantota
+KarkalaSK border road section
+13.284292
+75.127542
+Debris
+Slide
+NA
+11683
+KA/CHI/48O07/2017/6
+Karnataka
+Chikmagalur
+South East of Totaduru
+Balehole  Basarekatte
+13.28643
+75.402691
+Debris
+Slide
+NA
+11684
+KA/DAK/48O3/2017/17
+Karnataka
+Dakshin Kannad
+1.5 km SW of Village Siralu
+SK borderMalleshwara road 
+section
+13.287042
+75.149761
+Debris
+Slide
+NA
+11685
+KA/CHI/48O07/2017/7
+Karnataka
+Chikmagalur
+South of Totaduru
+Balehole  Basarekatte
+13.294071
+75.394358
+Debris
+Slide
+NA
+11686
+KA/CHI/48O11/2017/23
+Karnataka
+Chikmagalur
+Devarahalli
+BannurAgalaDevarahalli road
+13.299417
+75.6255
+Debris
+Slide
+NA
+11687
+KA/CHI/48O07/2017/8
+Karnataka
+Chikmagalur
+South of Kogre
+Basakekatte  Kogre
+13.323538
+75.351872
+Debris
+Slide
+NA
+11688
+KA/DAK/48O3/2017/4
+Karnataka
+Dakshin Kannad
+Hallimakki
+NH13
+13.325028
+75.142797
+Debris
+Slide
+NA
+11689
+KA/CHI/48O07/2017/9
+Karnataka
+Chikmagalur
+North East of Sallolli
+Kogre  Kachige
+13.327428
+75.303499
+Debris
+Slide
+NA
+11690
+KA/CHI/48O11/2017/15
+Karnataka
+Chikmagalur
+AldurBalehonnur road
+Pura village, near Hunasehalli
+13.332867
+75.561889
+Debris
+Slide
+NA
+11691
+KA/CHI/48O11/2017/27
+Karnataka
+Chikmagalur
+Hunasehalli village area
+10km from Hunasehalli village 
+area
+13.340753
+75.598375
+Debris
+Slide
+NA
+11692
+KA/DAK/48O3/2017/5
+Karnataka
+Dakshin Kannad
+Edagaru
+NH13
+13.341
+75.170931
+Debris
+Slide
+NA
+11693
+KA/CHI/48O07/2017/11
+Karnataka
+Chikmagalur
+South West of Bedagadu
+Basakekatte  Heruru
+13.341724
+75.402631
+Debris
+Slide
+NA
+11694
+KA/CHI/48O07/2017/10
+Karnataka
+Chikmagalur
+North of Kogre
+Kogre  Makkikoppa
+13.355999
+75.358491
+Debris
+Slide
+NA
+11695
+KA/DAK/48O3/2017/6
+Karnataka
+Dakshin Kannad
+Tanikoda
+NH13
+13.361614
+75.206825
+Debris
+Slide
+NA
+11696
+KA/CHI/48O11/2017/24
+Karnataka
+Chikmagalur
+Hirekolale Village area
+ChikmagalurHirekolale road 
+section
+13.362853
+75.707381
+Debris
+Slide
+NA

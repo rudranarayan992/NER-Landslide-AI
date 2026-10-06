@@ -1,0 +1,389 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30152
+WB/DAR/78A04/2015/1253
+West Bengal
+Darjeeling
+ 
+GOKE RANGDU
+27.112472
+88.214389
+Debris
+Subsidence
+2015
+30153
+WB/KAL/78A12/2021/PDLS/302 West Bengal
+Kalimpong
+N/A
+N/A
+27.11258244
+88.57019276
+Earth
+Slide
+October 2021
+30154
+WB/DAR/78A08/2015/1317
+West Bengal
+Darjeeling
+ 
+MANJITAR
+27.112833
+88.313722
+Debris
+Slide
+2014
+30155
+WB/DARJ/78A08/2007/0294
+West Bengal
+Darjeeling
+ 
+38.8 km from Sevok (Tiger 
+Bridge)on NH-31A towards 
+Gangtok
+27.113
+88.472
+Debris
+Slide
+NA
+30156
+WB/DAR/78A08/2015/1522
+West Bengal
+Darjeeling
+MELLI ROAD
+LOLEY
+27.113033
+88.473218
+Rock cum Debris
+Slide
+2015
+30157
+WB/DAR/78A08/2015/50
+West Bengal
+Darjeeling
+NH-31A 38.8 km from Sevok (Tiger 
+Bridge) towards  Gangtok
+38.8 km from Sevok (Tiger 
+Bridge)on NH-31A towards  
+Gangtok
+27.113041
+88.47321
+Debris
+Slide
+2007
+30158
+WB/DAR/78A08/2021/PDLS/37
+3
+West Bengal
+Kalimpong
+N/A
+N/A
+27.11323576
+88.46978444
+Debris
+Slide
+October 2021
+30159
+WB/DARJ/78A12/2007/0030
+West Bengal
+Darjeeling
+Algara
+0.5km from Algara towards 
+Kalimpong
+27.1143
+88.5897
+Debris
+Slide
+2007
+30160
+WB/DAR/78A04/2021/PDLS/93
+West Bengal
+Darjeeling
+N/A
+N/A
+27.11435984
+88.12755056
+Debris
+Slide
+October 2021
+30161
+WB/KAL/78A12/2021/PDLS/305 West Bengal
+Kalimpong
+N/A
+N/A
+27.1145363
+88.58748914
+Rock
+Fall
+October 2021
+30162
+WB/DAR/78A12/2015/1287
+West Bengal
+Darjeeling
+ 
+KOLBONG ROAD
+27.114583
+88.680833
+Debris
+Slide
+2015
+30163
+WB/DAR/78A04/2021/PDLS/26
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.11459832
+88.24163903
+Debris
+Slide
+October 2021
+30164
+WB/DAR/78A16/2015/305
+West Bengal
+Darjeeling
+Karung Slide
+Karung
+27.115
+88.816972
+Rock
+Slide
+2016
+30165
+WB/DAR/78A04/2021/PDLS/26
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.11507987
+88.24434793
+Debris
+Slide
+October 2021
+30166
+WB/DAR/78A16/2015/311
+West Bengal
+Darjeeling
+Karung Slide
+Karung
+27.115222
+88.818111
+Debris
+Slide
+2016
+30167
+WB/DAR/78A04/2015/8
+West Bengal
+Darjeeling
+At Forebay location of Rammam Hydel
+Project Stage_II
+At Forebay location of Rammam 
+Hydel Project Stage_II
+27.115471
+88.133482
+Debris
+Slide
+1984
+30168
+WB/DAR/78A04/2015/1215
+West Bengal
+Darjeeling
+ 
+NEZI
+27.115528
+88.206583
+Debris
+Slide
+2016
+30169
+WB/DAR/78A04/2015/1254
+West Bengal
+Darjeeling
+ 
+GOKE RANGDU
+27.115556
+88.218833
+Rock cum Debris
+Slide
+2015
+30170
+WB/DAR/78A04/2015/1255
+West Bengal
+Darjeeling
+ 
+GOKE RANGDU
+27.115889
+88.220111
+Rock cum Debris
+Slide
+2016
+30171
+WB/DAR/78A04/2015/1229
+West Bengal
+Darjeeling
+ 
+KOLBONG
+27.115917
+88.186389
+Debris
+Slide
+2016
+30172
+WB/DAR/78A08/2015/1523
+West Bengal
+Darjeeling
+SADAR BAZAR SLIDE
+BUXA RF
+27.116033
+88.47785
+Rock
+Slide
+2016
+30173
+WB/DAR/78A08/2015/51
+West Bengal
+Darjeeling
+NH-31A 39.9 km from Sevok(Tiger 
+Bridge) towards  Gangtok
+39.9 km from Sevok(Tiger 
+Bridge) on NH-31A towards  
+Gangtok
+27.116037
+88.477753
+Debris
+Slide
+2007
+30174
+WB/DAR/78A04/2021/PDLS/25
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.11624148
+88.24569241
+Debris
+Slide
+October 2021
+30175
+WB/DAR/78A08/2015/1490
+West Bengal
+Darjeeling
+ 
+ 
+27.116699
+88.264092
+Debris
+Slide
+2013
+30176
+WB/DAR/78A12/2015/277
+West Bengal
+Darjeeling
+Algara market
+Algara market
+27.116707
+88.582133
+Rock
+Slide
+2013
+30177
+WB/DAR/78A04/2015/1261
+West Bengal
+Darjeeling
+ 
+RIMBIK
+27.116833
+88.121222
+Debris
+Slide
+2015
+30178
+WB/DAR/78A04/2021/PDLS/10
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.11687734
+88.10955787
+Debris
+Slide
+October 2021
+30179
+WB/DAR/78A12/2015/248
+West Bengal
+Darjeeling
+Sangsay
+ 
+27.117
+88.53
+Rock
+Slide
+2013
+30180
+WB/KAL/78A12/2021/PDLS/304 West Bengal
+Kalimpong
+N/A
+N/A
+27.11701983
+88.58337832
+Debris
+Slide
+October 2021
+30181
+WB/DAR/78A04/2015/1262
+West Bengal
+Darjeeling
+ 
+CHIRUBOTEY
+27.117028
+88.126722
+Rock
+Slide
+2015
+30182
+WB/DAR/78A08/2021/PDLS/37
+4
+West Bengal
+Kalimpong
+N/A
+N/A
+27.11702881
+88.47219451
+Debris
+Slide
+October 2021
+30183
+WB/DAR/78A12/2015/1331
+West Bengal
+Darjeeling
+ALGARA MARKET
+ALGARA, KALIMPONG
+27.117111
+88.581778
+Debris
+Subsidence
+1987
+30184
+WB/DAR/78A12/2015/1296
+West Bengal
+Darjeeling
+ 
+KAGEY
+27.117139
+88.58175
+Debris
+Slide
+2014

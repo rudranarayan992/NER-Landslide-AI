@@ -1,0 +1,350 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+16956
+MH/RAI/47G09/2018/39
+Maharashtra
+Raigad
+ 
+Paithan-KudpanBudruk road
+17.88228
+73.53484
+Debris
+Slide
+NA
+16957
+MH/RAI/47G09/2018/40
+Maharashtra
+Raigad
+ 
+Paithan-KudpanBudruk road
+17.88279
+73.53443
+Debris
+Slide
+NA
+16958
+MH/SAT/47G13/2018/11
+Maharashtra
+Satara
+ 
+Slide occurred in a moderately 
+dissected slope near cultivation 
+about 400m from Ghuteghar
+17.88496
+73.779165
+Debris
+Slide
+NA
+16959
+MH/RAI/47G05/2018/6
+Maharashtra
+Raigad
+2 km from Tahmini  Rly. Station
+Karanjadi-Natunagar Road
+17.88775
+73.39036
+Debris
+Fall
+NA
+16960
+MH/SAT/47G09/2019/47
+Maharashtra
+Satara
+ 
+Mahabaleshwar-Satara Road
+17.88877
+73.72799
+Debris
+Slide
+NA
+16961
+MH/SAT/47G09/2018/34
+Maharashtra
+Satara
+ 
+Birmani road
+17.88958
+73.59364
+Debris
+Slide
+NA
+16962
+MH/RAI/47G05/2018/5
+Maharashtra
+Raigad
+1.8 km from Tahmini  Rly. Station
+Karanjadi-Natunagar Road
+17.89086
+73.38872
+Debris
+Slide
+NA
+16963
+MH/RAT/47G01/2019/6
+Maharashtra
+Ratnagiri
+Turavade Slide
+Turavade Road
+17.89152
+73.15311
+Debris
+Slide
+NA
+16964
+MH/RAI/47G09/2018/41
+Maharashtra
+Raigad
+ 
+Paithan-KudpanBudruk road
+17.89287
+73.5264
+Debris
+Slide
+NA
+16965
+MH/RAI/47G05/2018/4
+Maharashtra
+Raigad
+1.5 km from Tahmini  Rly. Station
+Karanjadi-Tamhane Road
+17.89325
+73.38956
+Debris
+Slide
+NA
+16966
+MH/RAI/47G09/2019/49
+Maharashtra
+Raigad
+ 
+Paithan-Kurpan Budruk road
+17.89448
+73.52873
+Debris
+Slide
+NA
+16967
+MH/SAT/47G09/2018/1
+Maharashtra
+Satara
+Machutar-1
+Village road Machutar, 
+Mahabaleshwar
+17.89461
+73.71662
+Debris
+Slide
+NA
+16968
+MH/RAI/47G09/2019/50
+Maharashtra
+Raigad
+ 
+Paithan-Kurpan Budruk road
+17.89681
+73.52662
+Debris
+Slide
+NA
+16969
+MH/SAT/47G09/2018/2
+Maharashtra
+Satara
+Machutar-2
+Mahabaledhwar-Machatur road 17.89729
+73.71691
+Debris
+Slide
+NA
+16970
+MH/SAT/47G13/2018/1
+Maharashtra
+Satara
+ 
+2 km on Village road from Bhilar 
+to Moravli
+17.897854
+73.768457
+Debris
+Slide
+NA
+16971
+MH/RAI/47G09/2019/51
+Maharashtra
+Raigad
+ 
+Paithan-Kurpan Budruk road
+17.89876
+73.52508
+Debris
+Slide
+NA
+16972
+MH/RAI/47G09/2019/52
+Maharashtra
+Raigad
+ 
+Paithan-Kurpan Budruk road
+17.90011
+73.52484
+Debris
+Slide
+NA
+16973
+MH/RAI/47G05/2018/10
+Maharashtra
+Raigad
+4-5 km from Ombli
+Ombli- Ghogare-Khed Rd
+17.90019
+73.46955
+Rock
+Fall
+NA
+16974
+MH/RAI/47G05/2018/19
+Maharashtra
+Raigad
+153.3 km stone
+NH-66
+17.901
+73.43767
+Debris
+Slide
+NA
+16975
+MH/RAI/47G09/2019/53
+Maharashtra
+Raigad
+ 
+Paithan-Kurpan Budruk road
+17.90114
+73.52351
+Debris
+Slide
+NA
+16976
+MH/RAT/47G05/2018/15
+Maharashtra
+Ratnagiri
+Near Bholawali Dam
+Dabhat- Bholawali village road
+17.90126
+73.35302
+Debris
+Fall
+NA
+16977
+MH/SAT/47G09/2019/48
+Maharashtra
+Satara
+ 
+Mahabaleshwar-Satara Road
+17.90595
+73.69361
+Debris
+Subsidence
+NA
+16978
+MH/SAT/47G09/2018/30
+Maharashtra
+Satara
+ 
+Khumbroshi- Shiravli road
+17.91252
+73.6073
+Debris
+Slump
+NA
+16979
+MH/RAI/47G09/2018/38
+Maharashtra
+Raigad
+Kineshwarwadi
+Nive-Kineshwar road
+17.91898
+73.54051
+Rock
+Slide
+NA
+16980
+MH/RAI/47G09/2018/36
+Maharashtra
+Raigad
+Kineshwadi Slide
+Nive road
+17.92089
+73.52847
+Debris
+Slide
+NA
+16981
+MH/SAT/47G09/2018/5
+Maharashtra
+Satara
+~ 300 m from Metatale
+Poladpur-Pratapgarh-
+Mahabaleshwar
+17.92338
+73.59939
+Rock
+Fall
+NA
+16982
+MH/SAT/47G09/2018/31
+Maharashtra
+Satara
+ 
+Kumbharoshi- Parpar raod; 
+MDR-17
+17.92338
+73.59939
+Debris
+Slide
+NA
+16983
+MH/SAT/47G09/2018/6
+Maharashtra
+Satara
+ 
+Poladpur-Pratapgarh-
+Mahabaleshwar
+17.92434
+73.60147
+Rock
+Fall
+NA
+16984
+MH/SAT/47G09/2018/32
+Maharashtra
+Satara
+ 
+Kumbharoshi- Parparraod; MDR-
+17
+17.92434
+73.60147
+Debris
+Slide
+NA
+16985
+MH/SAT/47G09/2018/25
+Maharashtra
+Satara
+ 
+Poladpur-Pratapgarh-
+Mahabaleshwar road
+17.925
+73.62361
+Rock
+Fall
+NA

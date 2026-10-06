@@ -1,0 +1,226 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21514
+MZ/SER/84A15/2016/7
+Mizoram
+Serchhip
+ 
+2km Southwest of the 
+Cultivation (Mat River Basin) 
+road junction, Serchhip, SH-
+Thenzawl-Serchhip Road
+23.275305
+92.850377
+Debris
+Slide
+2016
+21515
+MZ/SER/84A15/2016/8
+Mizoram
+Serchhip
+ 
+Serchhip, SH-Thenzawl-Serchhip 
+Road
+23.276999
+92.850991
+Debris
+Slide
+2015
+21516
+MZ/SER/84A15/2016/23
+Mizoram
+Serchhip
+ 
+About 2.5 km from Serchip, NH-
+54 Aizawl-Serchhip-Lunglei 
+Road
+23.277412
+92.870285
+Rock
+Slide
+2016
+21517
+MZ/SER/84A15/2016/5
+Mizoram
+Serchhip
+ 
+Serchhip, SH-Thenzawl-Serchhip 
+Road
+23.277886
+92.840388
+Debris
+Slide
+2015
+21518
+MZ/SER/84A15/2016/24
+Mizoram
+Serchhip
+ 
+About 2.2 km from Serchhip, 
+NH-54 Aizawl-Serchhip-Lunglei 
+Road
+23.279612
+92.869602
+Debris
+Slide
+2015
+21519
+MZ/CHA/84E03/2017/59
+Mizoram
+Champhai
+ 
+1.7 km south of Bungzung
+23.279667
+93.232917
+Soil
+Slide
+NA
+21520
+MZ/SER/84A15/2016/11
+Mizoram
+Serchhip
+ 
+About 700m from the road 
+junction, Mat-Phai Road.
+23.281103
+92.857654
+Rock
+Slide
+2015
+21521
+MZ/LUN/84A11/2017/138
+Mizoram
+Lunglei
+Buarpui Slide
+Near the playground (Propose 
+Site for Primary School), 
+Buarpui
+23.28113
+92.651804
+Rock
+Slide
+2011
+21522
+MZ/SER/84A15/2016/25
+Mizoram
+Serchhip
+ 
+About 200m West of Stone 
+Crusher, NH-54 Aizawl-Serchhip-
+Lunglei Road
+23.281521
+92.868857
+Rock
+Slide
+2016
+21523
+MZ/SER/84A15/2016/9
+Mizoram
+Serchhip
+ 
+Serchhip, SH-Thenzawl-Serchhip 
+Road
+23.282258
+92.852377
+Rock
+Slide
+2015
+21524
+MZ/SER/84A15/2016/4
+Mizoram
+Serchhip
+ 
+Serchhip Cultivation Area, SH-
+Thenzawl-Serchhip Road
+23.28328
+92.831766
+Debris
+Slide
+2016
+21525
+MZ/SER/84A15/2016/12
+Mizoram
+Serchhip
+ 
+About 1.20km Southwest of 
+Serchhip-Bungtlang junction,SH-
+Thenzawl-Serchhip Road.
+23.28388
+92.857468
+Debris
+Slide
+2016
+21526
+MZ/SER/84A15/2016/10
+Mizoram
+Serchhip
+ 
+Near K.H  Quarry,  SH-Thenzawl-
+Serchhip road
+23.283951
+92.852551
+Debris
+Slide
+2015
+21527
+MZ/SER/84A15/2016/13
+Mizoram
+Serchhip
+ 
+About 1.10km Southwest of 
+Serchhip-Bungtlang junction,SH-
+Thenzawl-Serchhip Road.
+23.285967
+92.856546
+Rock
+Slide
+2015
+21528
+MZ/SER/84A15/2016/14
+Mizoram
+Serchhip
+ 
+About 1km Southwest of 
+Serchhip-Bungtlang junction,SH-
+Thenzawl-Serchhip Road.
+23.286001
+92.857178
+Rock
+Slide
+2015
+21529
+MZ/SER/84A15/2016/16
+Mizoram
+Serchhip
+ 
+About 900m Southwest of 
+Serchhip-Bungtlang junction,SH-
+Thenzawl-Serchhip Road.
+23.28611
+92.85748
+Debris
+Slide
+2015
+21530
+MZ/SER/84A15/2016/15
+Mizoram
+Serchhip
+ 
+About 1km Southwest of 
+Serchhip-Bungtlang junction,SH-
+Thenzawl-Serchhip Road.
+23.28621
+92.857249
+Debris
+Slide
+2015

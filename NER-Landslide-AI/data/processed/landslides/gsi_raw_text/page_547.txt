@@ -1,0 +1,297 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21775
+MZ/SER/84A11/2017/147
+Mizoram
+Aizawl
+ 
+2km Southwest of Samsuih, SH-
+Aizawl-Thenzawl-Lunglei Road
+23.463981
+92.736875
+Rock
+Slide
+2016
+21776
+MZ/SER/84A11/2017/148
+Mizoram
+Aizawl
+ 
+1.5km Southwest of Samsuih, 
+SH-Aizawl-Thenzawl-Lunglei 
+Road
+23.464206
+92.737583
+Rock
+Slide
+NA
+21777
+MZ/SER/84A15/2016/61
+Mizoram
+Serchhip
+ 
+Chhingchhip Venglai, NH-54 
+Aizawl-Serchhip-Lunglei Road
+23.464394
+92.855608
+Rock
+Slide
+NA
+21778
+MZ/CHA/84E07/2017/27
+Mizoram
+Champhai
+Champhai slide
+Bypass road
+23.466139
+93.312778
+Debris
+Slide
+NA
+21779
+MZ/CHA/84E07/2017/30
+Mizoram
+Champhai
+Champhai slide
+0.5km south of police check 
+post, Champhai Zokhawthar 
+bypass road
+23.466951
+93.311834
+Debris
+Slide
+NA
+21780
+MZ/CHA/84E07/2017/28
+Mizoram
+Champhai
+ 
+Jail Veng road, Champhai
+23.467005
+93.315107
+Rock
+Slide
+NA
+21781
+MZ/CHA/84E07/2017/31
+Mizoram
+Champhai
+Champhai slide
+100m south of police chock, 
+Champhai
+23.46718
+93.311778
+Debris
+Slide
+NA
+21782
+MZ/SER/84A11/2017/149
+Mizoram
+Aizawl
+ 
+1.2km Southeast of Samsuih, SH-
+Aizawl-Thenzawl-Lunglei Road
+23.467262
+92.740634
+Rock
+Fall
+NA
+21783
+MZ/CHA/84E07/2017/32
+Mizoram
+Champhai
+ 
+KhawzawlChamphai Rd
+23.467623
+93.250867
+Rock
+Slide
+NA
+21784
+MZ/CHA/84E07/2017/33
+Mizoram
+Champhai
+ 
+KhawzawlChamphai Rd
+23.467679
+93.250636
+Rock
+Slide
+NA
+21785
+MZ/CHA/84E07/2017/34
+Mizoram
+Champhai
+ 
+Jail Veng (Aizawl  Champhai 
+road)
+23.467715
+93.313017
+Debris
+Slide
+NA
+21786
+MZ/MAM/84A11/2017/141
+Mizoram
+Mamit
+ 
+About 2 km South of Bawlte 
+village, SH-Darlung-Reiek Road
+23.468357
+92.591717
+Rock
+Slide
+2016
+21787
+MZ/CHA/84E07/2017/36
+Mizoram
+Champhai
+ 
+1.2km west of Khankawn along 
+Aizawl  Champhai road
+23.468361
+93.304222
+Rock
+Slide
+NA
+21788
+MZ/CHA/84E07/2017/35
+Mizoram
+Champhai
+ChhungteKhua slide
+SW of Chhungtekhua village, 
+Aizawl Champhai road
+23.468389
+93.27075
+Rock
+Slide
+NA
+21789
+MZ/CHA/84E07/2017/37
+Mizoram
+Champhai
+ChhungteKhua slide
+~4km SW of ChhungteKhua, 
+Aizawl Champhai road
+23.468508
+93.270788
+Debris
+Slide
+NA
+21790
+MZ/CHA/84E07/2017/39
+Mizoram
+Champhai
+ChhungteKhua slide
+ChungtekuaTuipui Rd
+23.46925
+93.273139
+Rock
+Slide
+NA
+21791
+MZ/CHA/84E07/2017/40
+Mizoram
+Champhai
+ 
+18 km mile stone from 
+Khawzawl to Champhai
+23.469712
+93.248874
+Debris
+Slide
+NA
+21792
+MZ/CHA/84E07/2017/41
+Mizoram
+Champhai
+ 
+Jail Veng road (Opposite of Jail 
+area)
+23.469833
+93.314889
+Rock
+Slide
+2017
+21793
+MZ/SER/84A11/2017/150
+Mizoram
+Aizawl
+ 
+Near the viewpoint, about 
+150m Southwest of Samsiuh 
+village, SH-Aizawl-Thenzawl-
+Lunglei Road
+23.470109
+92.740615
+Rock
+Slide
+NA
+21794
+MZ/SER/84E03/2017/12
+Mizoram
+Serchhip
+ 
+Rullam Road
+23.470139
+93.025944
+Debris
+Slide
+NA
+21795
+MZ/AIZ/84A11/2016/103
+Mizoram
+Aizawl
+ 
+Near 11km Mile Stone, SH-
+Sialsuk-Samlukhai-Damdia Road
+23.470198
+92.693264
+Rock
+Slide
+2016
+21796
+MZ/SER/84E03/2017/11
+Mizoram
+Serchhip
+ 
+Rullam Road
+23.470244
+93.025409
+Debris
+Slide
+NA
+21797
+MZ/CHA/84E07/2017/42
+Mizoram
+Champhai
+ 
+Near 135km Seiling mile stone, 
+Tuipui, Aizawl Champhai road
+23.470329
+93.26728
+Debris
+Slide
+NA
+21798
+MZ/CHA/84E03/2017/32
+Mizoram
+Champhai
+ 
+17.5km from Khawzawl to 
+Champhai
+23.470722
+93.246639
+Rock
+Slide
+NA

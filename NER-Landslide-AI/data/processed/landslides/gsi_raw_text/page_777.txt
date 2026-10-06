@@ -1,0 +1,291 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30358
+WB/KAL/2025/78A/8/Point/12
+West Bengal
+Kalimpong
+NULL
+NULL
+27.08253334
+88.44855659
+Debris
+Subsidence
+NA
+30359
+WB/DAR/2025/78A/4/Point/68
+West Bengal
+Darjeeling
+NULL
+NULL
+27.0994852
+88.1269826
+Debris
+Slide
+NA
+30360
+WB/KAL/2025/78A/8/Point/14
+West Bengal
+Kalimpong
+NULL
+NULL
+27.08242577
+88.44852891
+Debris
+Slide
+NA
+30361
+WB/KAL/2025/78A/12/Point/17 West Bengal
+Kalimpong
+NULL
+NULL
+27.08728357
+88.65465234
+Debris
+Slide
+NA
+30362
+WB/KAL/2025/78A/12/Point/18 West Bengal
+Kalimpong
+NULL
+NULL
+27.10338612
+88.63583616
+Rock
+Slide
+NA
+30363
+WB/KAL/2025/78A/12/Point/19 West Bengal
+Kalimpong
+NULL
+NULL
+27.09741967
+88.61132015
+Debris
+Slide
+NA
+30364
+WB/KAL/2025/78A/12/Point/20 West Bengal
+Kalimpong
+NULL
+NULL
+27.09592868
+88.60962756
+Debris
+Slide
+NA
+30365
+WB/DAR/2025/78A/4/Point/69
+West Bengal
+Darjeeling
+NULL
+NULL
+27.0886064
+88.1522272
+Debris
+Slide
+NA
+30366
+WB/DAR/2025/78A/4/Point/70
+West Bengal
+Darjeeling
+NULL
+NULL
+27.0660382
+88.1843115
+Debris
+Slide
+NA
+30367
+WB/DAR/2025/78A/4/Point/71
+West Bengal
+Darjeeling
+NULL
+NULL
+27.067785
+88.1858798
+Debris
+Slide
+NA
+30368
+WB/DAR/2025/78A/4/Point/72
+West Bengal
+Darjeeling
+NULL
+NULL
+27.0642597
+88.1467107
+Debris
+Slide
+NA
+30369
+WB/DAR/2025/78A/4/Point/73
+West Bengal
+Darjeeling
+NULL
+NULL
+27.0646461
+88.1787662
+Debris
+Slide
+NA
+30370
+WB/DAR/2025/78A/4/Point/78
+West Bengal
+Darjeeling
+NULL
+NULL
+27.0708838
+88.1661605
+Soil
+Creep
+20 September 2024
+30371
+WB/DAR/2025/78A/4/Point/74
+West Bengal
+Darjeeling
+NULL
+NULL
+27.0648986
+88.1791031
+Rock
+Slide
+NA
+30372
+WB/DAR/2025/78A/4/Point/75
+West Bengal
+Darjeeling
+NULL
+NULL
+27.0687049
+88.1924798
+Debris
+Slide
+NA
+30373
+WB/DAR/2025/78A/4/Point/76
+West Bengal
+Darjeeling
+NULL
+NULL
+27.0718085
+88.2007865
+Debris
+Slide
+NA
+30374
+WB/DAR/2025/78A/4/Point/79
+West Bengal
+Darjeeling
+NULL
+NULL
+27.06737739
+88.18499323
+Debris
+Slide
+NA
+30375
+WB/DAR/2025/78A/4/Point/77
+West Bengal
+Darjeeling
+NULL
+NULL
+27.0710395
+88.1661319
+Debris
+Slide
+NA
+30376
+WB/DAR/2025/78A/4/Point/80
+West Bengal
+Darjeeling
+NULL
+NULL
+27.09227677
+88.15417171
+Debris
+Slide
+NA
+30377
+WB/DAR/2025/78A/4/Point/81
+West Bengal
+Darjeeling
+NULL
+NULL
+27.09236784
+88.15408578
+Debris
+Subsidence
+NA
+30378
+WB/Darjeeling/78A/04/2025/1
+West Bengal
+Darjeeling
+Left bank of Lodhoma river slide.
+Jamuni-Goke road
+27.105007
+88.234628
+Debris
+Slide
+NA
+30379
+WB/ Darjeeling /78A/04/2025/2 West Bengal
+Darjeeling
+WB/ Darjeeling /78A/04/2025/2
+Goke to NTPC busty road 
+(Village road)
+27.105933
+88.217583
+Earth
+Slide
+NA
+30380
+WB/ Darjeeling 
+/78A/04/2025/02
+West Bengal
+Darjeeling
+Poobang Phatak village
+Darjeeling to Sukhiapokhri road 27.005957
+88.212622
+Debris
+Slide
+NA
+30381
+WB/ Darjeeling /78A/04/2025/4 West Bengal
+Darjeeling
+Near Lepcha Jagat village
+Darjeeling-Sukhiapokhri road
+27.010117
+88.200912
+Earth
+Earth Slide
+NA
+30382
+WB/ Darjeeling /78A/04/2025/5 West Bengal
+Darjeeling
+Near Lepcha Jagat tourist park
+Darjeeling to Sukhiapokhri road 27.010752
+88.183783
+Debris
+Slide
+NA
+30383
+WB/ Kalimpong 
+/78A/04/2025/6
+West Bengal
+Darjeeling
+Darjeeling-Sukhiapokhri road
+27.009367
+88.177908
+Debris
+Slide
+NA

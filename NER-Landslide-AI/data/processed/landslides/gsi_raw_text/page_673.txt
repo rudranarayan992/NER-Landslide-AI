@@ -1,0 +1,393 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+26721
+State: Sikkim/District : West 
+District/Toposheet: 
+78A/03/year: 2019
+Sikkim
+West District
+Yuksom-Tsong Village landslide 
+Yuksom in West Sikkim, local 
+village road up to Tsong Village  
+27.36473056
+88.23727778
+Multiple slide 
+comprising of Earth 
+or soil slide / flow
+Multiple type 
+of movements 
+includes debris 
+slide / Earth or 
+soil slide / flow 
+/ lateral spread 
+16 September 2019
+26722
+State: Sikkim/District: East 
+District/Toposheet: 
+78A/11/year: 2019/
+Sikkim
+ East Sikkim
+Palzor Stadium road, Gangtok
+Near Tamang  Monastery, 
+Palzor Stadium road, Gangtok 
+27.33825
+88.60911111
+Debris
+Slide/Subsidenc
+e 
+23 April 2019 at 05:00 hrs.
+26723
+Sikkim/ East District/ 
+78A/11/2019/
+Sikkim
+ East Sikkim
+Tumlabung
+Near Lower Tumlabung on 
+Ranipool-Tumlabung Bye Pass 
+road
+27.27352778
+88.57783333
+Debris
+Slide
+July/August 2019 
+26724
+SK/NS/78A11/    
+Sikkim
+East Sikkim (Near Kaabi)
+Kaabi II
+NH 31A, Near B2 Bridge.
+27.38107778
+88.64063333
+Rock
+Rock Slide
+NA
+26725
+ Sikkim/ North District/ 
+78A/11/2020/02
+Sikkim
+North Sikkim
+Dhare  Slide, Kabi
+North Sikkim Highway/ 
+Dhare/Kabi 
+27.39866667
+88.62358333
+Soil
+Slide 
+24 May 2020 at 12:30 hrs.
+26726
+ Sikkim/ North District/ 
+78A/11/2020/03
+Sikkim
+North Sikkim
+Satala  Slide, Kabi
+North Sikkim Highway/ 
+Satala/Kabi 
+27.39838889
+88.62566667
+Debris cum rock
+Slide 
+24 May 2020 at 13:50 hrs.
+26727
+State: Sikkim/North District/ 
+78A/11/2020/03.
+Sikkim
+North Sikkim
+Kabi Landslide
+State Highway; 4 km before 
+Kabi village
+27.39305556
+88.63527778
+Rock
+Slide
+Mid-July 2018, 2 August 2018, 24 May 
+2020
+26728
+SI/ESI/ 78A11/ 2021/RP1
+Sikkim
+ East Sikkim
+Ranipool to Pakyong road slide
+717A State road
+27.25352778
+88.60377778
+Rock cum debris
+Slide
+September 2020, 18-19 October 2021
+26729
+Sikkim/NK/78A11/2022/SP1
+Sikkim
+North Sikkim
+Salim Pakel village
+Village road
+27.5401
+88.56929167
+Rock cum debris
+Slide
+2019
+26730
+Sikkim/NK/78A10/2022/II
+Sikkim
+North Sikkim
+Shipgyre slide right bank of Teesta 
+(Shipgyre Slide II)
+State road
+27.55314167
+88.62179722
+Debris
+Slide
+2012
+26731
+Sikkim/North Sikkim/SV01 
+78A10/ 2022
+Sikkim
+North Sikkim
+Shipgyer village
+Village road
+27.54975833
+88.57530833
+Rock cum debris
+Slide
+2020
+26732
+Sikkim/NK/78A10/2022/III
+Sikkim
+North Sikkim
+Shipgyer slide right bank of Teesta 
+(Shipgyer slide III)
+State road
+27.54810833
+88.60807778
+Debris
+Slide
+2012
+26733
+Sikkim/NK/78A10/2022/IV
+Sikkim
+North Sikkim
+West of Shipgyer
+State road
+27.55236944
+88.58208333
+Debris
+Slide
+2019
+26734
+SK/ES/78 A11/BG-I
+Sikkim
+ East Sikkim
+Bhojagari- I
+Indira Bye Pass Road
+27.36388889
+88.62083333
+Debris
+Slide
+NA
+26735
+SK/ES/78 A11/CP
+Sikkim
+ East Sikkim
+Chisopani I Landslide
+Pendam-Singtam Road
+27.23166667
+88.5025
+Debris
+Slide
+July 2020, December 2020
+26736
+SK/ES/78 A11/CL
+Sikkim
+ East Sikkim
+Chuba Landslide
+Chuba link Road
+27.27458333
+88.55002778
+Debris
+Slide
+18-19 October 2021
+26737
+SK/ES/78 A11/SW-1
+Sikkim
+ East Sikkim
+Swastik Market Slide
+NH-10
+27.35694444
+88.61833333
+Soil
+Slide
+NA
+26738
+SK/ES/78 A11/DD
+Sikkim
+ East Sikkim
+Deepudada Slide
+Singtam-Dikchu Road
+27.25858333
+88.46166667
+Debris
+Slide
+Between April 2018 and December 
+2021
+26739
+SK/ES/78 A11/DA-I
+Sikkim
+ East Sikkim
+Development area- I (Near Little Pixes 
+School)
+Development area
+27.33941667
+88.60990556
+Soil
+Slide
+6 June 2021 in the morning
+26740
+SK/ES/78 A/07/2021/14
+Sikkim
+ East Sikkim
+Dikchu-Samdong road
+Near Jurassic Park Sikkim
+27.3699335
+88.4859279
+Debris cum rock
+Slide
+23 August 2021
+26741
+SK/SS/78 A08/DS
+Sikkim
+South Sikkim
+Dojak Landslide
+Singtam-Namchi  Road
+27.28955556
+88.37748333
+Debris
+Slide
+2020
+26742
+SK/ES/78 A11/SKIII
+Sikkim
+ East Sikkim
+Sang Khola III
+Sang Khola
+27.25333333
+88.53194444
+Rock
+Slide
+July 2020
+26743
+SK/ES/78 A11/TJ-1
+Sikkim
+ East Sikkim
+Tibetian Jhora
+NH-10
+27.34222222
+88.60722222
+Debris
+Slide
+NA
+26744
+SK/ES/78 A11/LB-I
+Sikkim
+ East Sikkim
+Lower Burtuk
+Indra by-pass
+27.35861111
+88.62027778
+Debris
+Slide
+NA
+26745
+SK/ES/78 A/11/2021/15
+Sikkim
+ East Sikkim
+Mangthang
+Mangthang
+27.2533846
+88.5489504
+Debris
+Flows
+22 August 2021
+26746
+SK/ES/78 A11/PB
+Sikkim
+ East Sikkim
+Pagla Bhir
+Rumtek-Rice Valley road.
+27.28666667
+88.55347222
+Rock cum debris
+Slide
+27 August 2021
+26747
+SK/ES/78 A11/PK
+Sikkim
+ East Sikkim
+Pakyong Slide
+Pakyong Road
+27.24722222
+88.60666667
+Debris
+Slide
+September 2021
+26748
+SK/SS/78 A08/PS
+Sikkim
+South Sikkim
+Phalidhaara Landslide
+Singtam-Namchi  Road
+27.17054167
+88.38358056
+Debris
+Slide
+May 2021
+26749
+SK/ES/78 A11/SK-II
+Sikkim
+ East Sikkim
+Sangkhola II
+Sangkhola-Zingla road.
+27.26066667
+88.53383333
+Rock cum debris
+Slide
+September 2021, October 2021
+26750
+SK/ES/78 A11/S
+Sikkim
+ East Sikkim
+Singbel Slide
+Khamdong-Dung Dung road
+27.31663889
+88.45861111
+Debris
+Slide
+18th & 19th  October 2021
+26751
+SK/ES/78 A11/SD
+Sikkim
+ East Sikkim
+Singtam-Dikchu
+North Sikkim Highway
+27.23444444
+88.49083333
+Rock
+Slide
+NA
+26752
+SK/ES/78 A11/SG-1
+Sikkim
+ East Sikkim
+Sisa Golai Slide I
+NH-10
+27.32663889
+88.61016667
+Debris
+Subsidence
+1 June 2021 at 10:30 hrs.

@@ -1,0 +1,570 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+26046
+7597
+Nagaland
+Mokokchung
+Pfutsro
+26.526817
+94.675462
+Debris
+slide
+2026-06-26
+26047
+7599
+Nagaland
+Phek
+25.570159
+94.253552
+Debris
+slide
+2026-07-14
+26048
+RJ/JAI/45N13/2018/001
+Rajasthan
+Jaipur
+Amagarh Slide, Transport Nagar
+National Highway (NH8)
+26.11
+74.76
+Rock
+Slide
+NA
+26049
+PN/GUR/43P14/2017/304
+Punjab
+Gurdaspur
+ 
+ 
+32.546213
+75.875729
+Debris
+Slide
+NA
+26050
+PN/GUR/43P14/2017/302
+Punjab
+Gurdaspur
+ 
+ 
+32.571416
+75.884114
+Debris
+Slide
+NA
+26051
+PN/GUR/43P14/2017/303
+Punjab
+Gurdaspur
+ 
+ 
+32.573601
+75.887924
+Debris
+Slide
+NA
+26052
+SKM/SS/78A08/2015/256
+Sikkim
+South Sikkim
+ 
+Melli-Sumbuk Road
+27.08275
+88.434778
+Debris
+Slide
+NA
+26053
+SKM/SS/78A08/2015/254
+Sikkim
+South Sikkim
+ 
+Melli-Sumbuk Road
+27.084222
+88.446083
+Debris
+Slide
+NA
+26054
+SKM/SS/78A08/2015/255
+Sikkim
+South Sikkim
+ 
+Melli-Sumbuk Road
+27.084722
+88.443833
+Debris
+Slide
+NA
+26055
+SKM/SS/78A08/2015/257
+Sikkim
+South Sikkim
+ 
+Melli-Sumbuk Road
+27.087667
+88.416528
+Debris
+Slide
+NA
+26056
+SKM/SS/78A08/2015/258
+Sikkim
+South Sikkim
+ 
+Melli-Sumbuk Road
+27.090083
+88.413139
+Debris
+Slide
+NA
+26057
+SKM/SS/78A08/2015/259
+Sikkim
+South Sikkim
+ 
+Melli-Sumbuk Road
+27.090944
+88.406833
+Debris
+Slide
+NA
+26058
+SKM/SS/78A08/2015/253
+Sikkim
+South Sikkim
+ 
+Pachekhani-Melli Road
+27.093278
+88.457444
+Debris
+Slide
+NA
+26059
+SKM/SS/78A08/2015/248
+Sikkim
+South Sikkim
+ 
+Pachekhani-Melli Road
+27.096444
+88.433375
+Debris
+Slide
+NA
+26060
+SKM/SS/78A08/2015/260
+Sikkim
+South Sikkim
+ 
+Melli-Sumbuk Road
+27.097833
+88.3785
+Debris
+Slide
+NA
+26061
+SKM/SS/78A08/2015/245
+Sikkim
+South Sikkim
+ 
+Pachekhani-Melli Road
+27.098417
+88.400167
+Debris
+Slide
+NA
+26062
+SKM/SS/78A08/2015/261
+Sikkim
+South Sikkim
+ 
+Melli-Sumbuk Road
+27.101083
+88.3615
+Debris
+Slide
+NA
+26063
+SKM/SS/78A08/2015/244
+Sikkim
+South Sikkim
+ 
+Pachekhani-Melli Road
+27.101083
+88.400417
+Debris
+Slide
+NA
+26064
+SKM/SS/78A08/2015/243
+Sikkim
+South Sikkim
+ 
+Pachekhani-Melli Road
+27.101111
+88.403333
+Debris
+Slide
+NA
+26065
+SKM/SS/78A08/2015/247
+Sikkim
+South Sikkim
+ 
+Pachekhani-Melli Road
+27.101194
+88.394611
+Debris
+Slide
+NA
+26066
+SKM/SS/78A08/2015/252
+Sikkim
+South Sikkim
+ 
+Pachekhani-Melli Road
+27.102
+88.458667
+Debris
+Slide
+NA
+26067
+SKM/SS/78A08/2015/242
+Sikkim
+South Sikkim
+ 
+Pachekhani-Melli Road
+27.1025
+88.400778
+Debris
+Slide
+NA
+26068
+SKM/SS/78A08/2015/246
+Sikkim
+South Sikkim
+ 
+Pachekhani-Melli Road
+27.102639
+88.394639
+Debris
+Slide
+NA
+26069
+SKM/SS/78A08/2015/240
+Sikkim
+South Sikkim
+ 
+Pachekhani-Melli Road
+27.102944
+88.404667
+Debris
+Subsidence
+NA
+26070
+SKM/SS/78A08/2015/241
+Sikkim
+South Sikkim
+ 
+Pachekhani-Melli Road
+27.103111
+88.402722
+Debris
+Slide
+NA
+26071
+SKM/SS/78A08/2015/250
+Sikkim
+South Sikkim
+ 
+Pachekhani-Melli Road
+27.105972
+88.444556
+Debris
+Subsidence
+NA
+26072
+SKM/SS/78A08/2015/251
+Sikkim
+South Sikkim
+ 
+Pachekhani-Melli Road
+27.106694
+88.449389
+Debris
+Slide
+NA
+26073
+SKM/SS/78A08/2015/249
+Sikkim
+South Sikkim
+ 
+Pachekhani-Melli Road
+27.106944
+88.43375
+Rock
+Fall
+NA
+26074
+SKM/SS/78A08/2015/262
+Sikkim
+South Sikkim
+ 
+Melli-Sumbuk Road
+27.107417
+88.363139
+Debris
+Slide
+NA
+26075
+SKM/WS/78A08/2015/315
+Sikkim
+West Sikkim
+ 
+Melli-Jorethang Road
+27.110583
+88.340472
+Debris
+Slide
+NA
+26076
+SKM/NS/78A04/2017/130
+Sikkim
+West Sikkim
+ 
+SH
+27.1205
+88.152722
+Debris
+Slide
+NA
+26077
+SKM/NS/78A04/2017/131
+Sikkim
+West Sikkim
+ 
+SH
+27.121444
+88.153417
+Debris
+Slide
+NA
+26078
+SKM/NS/78A04/2017/128
+Sikkim
+West Sikkim
+ 
+SH
+27.1215
+88.142222
+Debris
+Slide
+NA
+26079
+SKM/NS/78A04/2017/104
+Sikkim
+West Sikkim
+ 
+SH
+27.121611
+88.237
+Debris
+Slide
+NA
+26080
+SKM/NS/78A04/2017/129
+Sikkim
+West Sikkim
+ 
+SH
+27.121611
+88.145528
+Debris
+Slide
+NA
+26081
+SKM/NS/78A04/2017/127
+Sikkim
+West Sikkim
+Lower Siktam
+SH
+27.121917
+88.139472
+Rock
+Slide
+NA
+26082
+SKM/NS/78A04/2017/126
+Sikkim
+West Sikkim
+ 
+SH
+27.122
+88.139889
+Debris
+Slide
+NA
+26083
+SKM/NS/78A04/2017/103
+Sikkim
+West Sikkim
+ 
+SH
+27.122472
+88.227611
+Debris
+Slide
+NA
+26084
+SKM/SS/78A08/2015/320
+Sikkim
+South Sikkim
+ 
+Namchi-Kitam Road
+27.122611
+88.343389
+Debris
+Slide
+NA
+26085
+SKM/NS/78A04/2017/102
+Sikkim
+West Sikkim
+ 
+SH
+27.123833
+88.225333
+Debris
+Slide
+NA
+26086
+SKM/WS/78A08/2015/316
+Sikkim
+West Sikkim
+ 
+Melli-Jorethang Road
+27.123889
+88.319778
+Debris
+Slide
+NA
+26087
+SKM/NS/78A04/2017/125
+Sikkim
+West Sikkim
+Siktam
+SH
+27.124556
+88.139778
+Debris
+Slide
+NA
+26088
+SKM/SS/78A08/2015/314
+Sikkim
+South Sikkim
+ 
+Melli-Rabikhola Road
+27.124778
+88.445083
+Debris
+Slide
+NA
+26089
+SKM/SS/78A08/2015/225
+Sikkim
+South Sikkim
+ 
+Namchi-Palum Road
+27.125528
+88.384556
+Rock
+Fall
+NA
+26090
+SKM/NS/78A04/2017/123
+Sikkim
+West Sikkim
+ 
+SH
+27.125861
+88.14275
+Debris
+Slide
+NA
+26091
+SKM/SS/78A08/2015/226
+Sikkim
+South Sikkim
+ 
+Namchi-Palum Road
+27.126306
+88.378667
+Debris
+Slide
+NA
+26092
+SKM/SS/78A08/2015/322
+Sikkim
+South Sikkim
+ 
+Namchi-Kitam Road
+27.126444
+88.340444
+Debris
+Slide
+NA
+26093
+SKM/WS/78A08/2015/317
+Sikkim
+West Sikkim
+ 
+Melli-Jorethang Road
+27.126472
+88.31675
+Debris
+Slide
+NA
+26094
+SKM/WS/78A08/2015/318
+Sikkim
+West Sikkim
+ 
+Melli-Jorethang Road
+27.127194
+88.308306
+Debris
+Slide
+NA
+26095
+SKM/WS/78A08/2015/319
+Sikkim
+West Sikkim
+ 
+Melli-Jorethang Road
+27.12825
+88.292194
+Debris
+Slide
+NA
+26096
+SKM/NS/78A04/2017/124
+Sikkim
+West Sikkim
+ 
+SH
+27.128333
+88.148833
+Rock
+Slide
+NA

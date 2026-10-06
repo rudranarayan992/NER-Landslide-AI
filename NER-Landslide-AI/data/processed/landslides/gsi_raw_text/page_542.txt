@@ -1,0 +1,350 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21652
+MZ/CHA/84E07/2017/99
+Mizoram
+Champhai
+ 
+Mualkawi 7km mile stone, 
+Kelkang 2km
+23.393889
+93.309244
+Debris
+Slide
+NA
+21653
+MZ/CHA/84E07/2017/100
+Mizoram
+Champhai
+ 
+MelbukMulkawi Rd
+23.394333
+93.374861
+Rock
+Slide
+NA
+21654
+MZ/CHA/84E07/2017/101
+Mizoram
+Champhai
+ 
+East of Melbuk
+23.394732
+93.381271
+Rock
+Slide
+NA
+21655
+MZ/CHA/84E07/2017/102
+Mizoram
+Champhai
+ 
+MelbukMulkawi Rd
+23.395159
+93.374335
+Rock
+Slide
+NA
+21656
+MZ/CHA/84E07/2017/104
+Mizoram
+Champhai
+ 
+W of Melbuk along Champhai 
+Rd
+23.395375
+93.369426
+Rock
+Slide
+NA
+21657
+MZ/CHA/84E07/2017/105
+Mizoram
+Champhai
+ 
+5km W of Melbuk
+23.395474
+93.370459
+Soil
+Slide
+NA
+21658
+MZ/CHA/84E07/2017/106
+Mizoram
+Champhai
+ 
+MelbukMulkawi Rd
+23.396738
+93.368237
+Soil
+Slide
+NA
+21659
+MZ/AIZ/84A11/2016/110
+Mizoram
+Aizawl
+ 
+About 800m of Sialsuk Junction 
+towards Thenzawl, SH-Aizawl-
+Thenzawl-Lunglei Road
+23.397126
+92.757203
+Rock
+Slide
+2016
+21660
+MZ/CHA/84E07/2017/107
+Mizoram
+Champhai
+ 
+East of Melbuk (new rd cut)
+23.397417
+93.385722
+Soil
+Slide
+NA
+21661
+MZ/CHA/84E07/2017/108
+Mizoram
+Champhai
+ 
+East of Melbuk
+23.397861
+93.3845
+Rock
+Slide
+NA
+21662
+MZ/CHA/84E07/2017/109
+Mizoram
+Champhai
+ 
+MelbukMulkawi Rd
+23.397884
+93.384281
+Rock
+Slide
+NA
+21663
+MZ/SER/84A15/2016/127
+Mizoram
+Serchhip
+ 
+About 1km North of 
+Chhaiahtlang,  Chhaiahtlang-
+Lamchhip (Darzika) Road
+23.40002
+92.842404
+Debris
+Slide
+2016
+21664
+MZ/SER/84A15/2016/32
+Mizoram
+Serchhip
+ 
+92km MileStone Chhiahtlang, 
+NH-54 Aizawl-Serchhip-Lunglei 
+Road
+23.401015
+92.848482
+Rock
+Slide
+2016
+21665
+MZ/AIZ/84A11/2016/109
+Mizoram
+Aizawl
+ 
+At 2km Mile Stone, North of 
+Sialsuk, SH-Aizawl-Thenzawl-
+Lunglei Road
+23.40178
+92.750005
+Rock
+Slide
+2016
+21666
+MZ/AIZ/84A11/2016/108
+Mizoram
+Aizawl
+ 
+About 2km North of Sialsuk 
+near Two Sister Highway Hotel, 
+SH-Aizawl-Thenzawl-Lunglei 
+Road
+23.403402
+92.750288
+Rock
+Slide
+2016
+21667
+MZ/CHA/84E07/2017/111
+Mizoram
+Champhai
+ 
+4.8 km south of Mualkawi
+23.404207
+93.318763
+Rock
+Slide
+NA
+21668
+MZ/SER/84A15/2016/33
+Mizoram
+Serchhip
+ 
+2km from Chhiahtlang, near 
+11km Milestone (Chhingchhip), 
+NH-54 Aizawl-Serchhip-Lunglei 
+Road
+23.405305
+92.851014
+Rock
+Slide
+2015
+21669
+MZ/CHA/84E07/2017/112
+Mizoram
+Champhai
+ 
+SE of Mualkawi village
+23.40555
+93.360549
+Rock
+Slide
+NA
+21670
+MZ/CHA/84E07/2017/113
+Mizoram
+Champhai
+ 
+MelbukMulkawi Rd
+23.406236
+93.356052
+Debris
+Slide
+NA
+21671
+MIZO/AIZ/84A10/2007/E-1
+Mizoram
+Aizawl
+Zembawk slide
+ 
+23.406389
+92.75325
+Debris
+Slide
+08.09.2007 at night
+21672
+MZ/CHA/84E07/2017/114
+Mizoram
+Champhai
+ 
+4km south of Mualkawu
+23.407528
+93.318111
+Debris
+Slide
+NA
+21673
+MZ/CHA/84E07/2017/115
+Mizoram
+Champhai
+ 
+Zakhowthar Mulkawi Rd
+23.408528
+93.361278
+Rock
+Slide
+NA
+21674
+MZ/AIZ/84A11/2016/97
+Mizoram
+Aizawl
+ 
+North of Sialsuk, SH-Sialsuk-
+Samlukhai-Damdia Road
+23.409674
+92.750935
+Rock
+Slide
+2016
+21675
+MZ/CHA/84E07/2017/116
+Mizoram
+Champhai
+Melbuk slide
+MelbukMulkawi Rd
+23.410218
+93.343897
+Rock
+Slide
+NA
+21676
+MZ/AIZ/84A11/2016/98
+Mizoram
+Aizawl
+ 
+North of Sialsuk, SH-Sialsuk-
+Samlukhai-Damdia Road
+23.411146
+92.752193
+Debris
+Slide
+2016
+21677
+MZ/CHA/84E07/2017/117
+Mizoram
+Champhai
+Melbuk slide
+MelbukMulkawi Rd
+23.411417
+93.343361
+Rock
+Slide
+NA
+21678
+MZ/CHA/84E03/2017/76
+Mizoram
+Champhai
+ 
+Khawhai Khawzawl rd
+23.411942
+93.154836
+Rock
+Slide
+NA
+21679
+MZ/AIZ/84A11/2016/99
+Mizoram
+Aizawl
+ 
+west of Samlukhai, SH-Sialsuk-
+Samlukhai-Damdia Road
+23.412046
+92.750099
+Rock
+Slide
+2016
+21680
+MZ/CHA/84E07/2017/118
+Mizoram
+Champhai
+ 
+MelbukMulkawi Rd
+23.412845
+93.33833
+Rock
+Slide
+NA

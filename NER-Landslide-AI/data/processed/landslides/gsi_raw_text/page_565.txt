@@ -1,0 +1,413 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22276
+MZ/AIZ/84E01/2017/54
+Mizoram
+Aizawl
+ 
+6 km from Phullen along 
+PhullenPhuaibuang section
+23.840334
+93.071945
+Rock
+Slide
+NA
+22277
+MIZ/AIZ/84A13/2016/128
+Mizoram
+Aizawl
+ 
+Lailak village
+23.841713
+92.911476
+Rock
+Slide
+NA
+22278
+MZ/CHA/84E05/2017/8
+Mizoram
+Champhai
+ 
+KawlbemVaikhawtlang section
+23.842167
+93.373917
+Debris
+Slide
+2017
+22279
+MIZ/AIZ/84A13/2016/4
+Mizoram
+Aizawl
+ 
+near Vanzao
+23.844109
+92.928779
+Debris
+Slide
+2016
+22280
+MIZ/AIZ/84A13/2016/6
+Mizoram
+Aizawl
+ 
+near vanzao
+23.844139
+92.933
+Rock
+Slide
+NA
+22281
+MIZ/AIZ/84A13/2016/5
+Mizoram
+Aizawl
+ 
+near Vanzao, ~400m from 
+previous location
+23.844165
+92.930006
+Rock
+Fall
+2016
+22282
+MZ/AIZ/84E01/2017/100
+Mizoram
+Aizawl
+ 
+Near Phullen
+23.844444
+93.051361
+Rock
+Slide
+NA
+22283
+MZ/CHA/84E01/2017/21
+Mizoram
+Champhai
+ 
+7.8 km S of Ngopa
+23.84461
+93.190277
+Rock
+Slide
+NA
+22284
+MZ/CHA/84E05/2017/7
+Mizoram
+Champhai
+ 
+KawlbemVaikhawtlang section
+23.846056
+93.371971
+Debris
+Slide
+2017
+22285
+MIZ/AIZ/84A09/2016/85
+Mizoram
+Mamit
+ 
+Sairang road
+23.846786
+92.655892
+Rock
+Fall
+2015
+22286
+MIZ/AIZ/84A13/2016/2
+Mizoram
+Aizawl
+ 
+~2 km from Vanzao
+23.847224
+92.927508
+Debris
+Slide
+2015
+22287
+MIZ/AIZ/84A13/2016/3
+Mizoram
+Aizawl
+ 
+~2 km from Vanzao, 2m from 
+previous slide
+23.847246
+92.927341
+Debris
+Slide
+2016
+22288
+MZ/AIZ/84E01/2017/60
+Mizoram
+Aizawl
+ 
+Phullen
+23.848
+93.041885
+Debris
+Slide
+NA
+22289
+MZ/AIZ/84E01/2017/82
+Mizoram
+Aizawl
+ 
+8 km from Phullen along 
+PhullenPhuaibuang section
+23.848083
+93.076691
+Soil
+Slide
+NA
+22290
+MZ/AIZ/84E01/2017/79
+Mizoram
+Aizawl
+ 
+~19 km from Phuaibuang
+23.848917
+93.135307
+Rock
+Slide
+NA
+22291
+MIZ/AIZ/84A13/2016/1
+Mizoram
+Aizawl
+ 
+~ 3 km from Vanzao
+23.849497
+92.928202
+Debris
+Flow
+2016
+22292
+MZ/AIZ/84E01/2017/81
+Mizoram
+Aizawl
+ 
+Phullen village along 
+PhullenSaitual section
+23.85
+93.048164
+Rock
+Slide
+NA
+22293
+MZ/MAM/84A05/2020/13
+Mizoram
+Mamit
+Mualthuam- Kawrtethawveng road 
+section slide 1
+Mualthuam- Kawrtethawveng 
+road section
+23.85
+92.33
+Debris
+Slide
+2019
+22294
+MZ/AIZ/84E01/2017/85
+Mizoram
+Aizawl
+ 
+3 km from Tuivai river, near 
+Ainawl
+23.85075
+93.115608
+Rock
+Slide
+NA
+22295
+MIZ/AIZ/84A09/2016/51
+Mizoram
+Aizawl
+ 
+Siphir-Lungdai section
+23.850861
+92.743083
+Rock
+Slide
+2016
+22296
+MIZ/AIZ/84A09/2016/49
+Mizoram
+Aizawl
+ 
+Siphir-Lungdai section
+23.851361
+92.742222
+Earth
+Slide
+2016
+22297
+MZ/CHA/84E01/2017/16
+Mizoram
+Champhai
+ 
+6.5 km S of Ngopa
+23.851723
+93.186775
+Rock
+Slide
+NA
+22298
+MIZ/AIZ/84A09/2016/52
+Mizoram
+Aizawl
+ 
+Near View point on Siphir-
+Serkhan road
+23.852722
+92.743306
+Rock
+Fall
+2016
+22299
+MZ/AIZ/84E01/2017/61
+Mizoram
+Aizawl
+ 
+2 km from Phullen along 
+PhullenPhuaibuang section
+23.852861
+93.059998
+Rock
+Slide
+NA
+22300
+MZ/AIZ/84E01/2017/67
+Mizoram
+Aizawl
+ 
+23 km from Phuaibuang 
+towards Tuivai river
+23.853333
+93.12458
+Soil
+Slide
+NA
+22301
+MZ/AIZ/84E01/2017/99
+Mizoram
+Aizawl
+ 
+Phullen
+23.855028
+93.041695
+Debris
+Slide
+NA
+22302
+MIZ/AIZ/84A09/2016/125
+Mizoram
+Aizawl
+ 
+Towards Piggery Farm
+23.855092
+92.666553
+Debris
+Slide
+2015
+22303
+MIZ/AIZ/84A09/2016/86
+Mizoram
+Mamit
+ 
+Sairang - Silchar road
+23.855535
+92.648953
+Earth
+Slide
+2016
+22304
+MIZ/AIZ/84A13/2016/33
+Mizoram
+Aizawl
+ 
+~19 km from Khawruhlian 
+towards Sesawng on NH 150
+23.856821
+92.833784
+Debris
+Flow
+2016
+22305
+MIZ/AIZ/84A09/2016/50
+Mizoram
+Aizawl
+ 
+Siphir-Lungdai section
+23.856861
+92.743028
+Debris
+Slide
+2016
+22306
+MZ/AIZ/84E01/2017/70
+Mizoram
+Aizawl
+ 
+Phullen
+23.856972
+93.046112
+Debris
+Subsidence
+2015
+22307
+MIZ/AIZ/84A09/2016/91
+Mizoram
+Mamit
+ 
+Lengpui, NH 54 section
+23.857278
+92.646222
+Debris
+Slide
+NA
+22308
+MIZ/AIZ/84A13/2016/126
+Mizoram
+Aizawl
+ 
+Khanpui-Khawkawi section
+23.859417
+92.917333
+Debris
+Slide
+NA
+22309
+MZ/MAM/84A05/2020/14
+Mizoram
+Mamit
+Mualthuam- Kawrtethawveng road 
+section slide 2
+Mualthuam- Kawrtethawveng 
+road section
+23.86
+92.35
+Debris
+Slide
+2019
+22310
+MZ/MAM/84A05/2020/15
+Mizoram
+Mamit
+Mualthuam- Kawrtethawveng road 
+section slide 3
+Mualthuam- Kawrtethawveng 
+road section
+23.86
+92.37
+Rock
+Slide
+NA

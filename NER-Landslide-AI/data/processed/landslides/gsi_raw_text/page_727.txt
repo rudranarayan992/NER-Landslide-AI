@@ -1,0 +1,439 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28701
+WB/DAR/78B05/2015/571
+West Bengal
+Darjeeling
+CHIMNEY
+ 
+26.860864
+88.257467
+Debris
+Slide
+2014
+28702
+WB/DAR/78B01/2015/355
+West Bengal
+Darjeeling
+Along Soureni Bazar to Toklan road
+Soureni Bazar to Toklan road
+26.861122
+88.193357
+Debris
+Slide
+2015
+28703
+WB/DAR/78B01/2015/361
+West Bengal
+Darjeeling
+At soureni bazar, Below Soureni 
+Rabindranath HS school
+Soureni bazar
+26.861531
+88.196497
+Debris
+Slide
+2015
+28704
+WB/DAR/78B05/2015/411
+West Bengal
+Darjeeling
+Makaibari
+Makaibari
+26.862
+88.275
+Debris
+Slide
+2001
+28705
+WB/DAR/78B01/2015/386
+West Bengal
+Darjeeling
+Soreni Slide
+Soreni TG
+26.862861
+88.193083
+Debris
+Slide
+2016
+28706
+WB/DAR/78B01/2015/354
+West Bengal
+Darjeeling
+Along Soureni Bazar to Toklan road
+Soureni Bazar to Toklan road
+26.863012
+88.193062
+Debris
+Slide
+2015
+28707
+WB/DAR/78B05/2015/414
+West Bengal
+Darjeeling
+Makaibari
+ 
+26.863344
+88.277154
+Debris
+Slide
+2001
+28708
+WB/DAR/78B05/2015/513
+West Bengal
+Darjeeling
+Jogi
+Right bank of Jogi khola
+26.863519
+88.396982
+Debris
+Slide
+2010
+28709
+WB/DAR/78B01/2015/357
+West Bengal
+Darjeeling
+Mechi-1, North of Mechi Tea Garden 
+office
+Mechi TG
+26.863566
+88.190165
+Debris
+Slide
+2015
+28710
+WB/DAR/78B01/2015/388
+West Bengal
+Darjeeling
+Soreni Slide
+Soreni
+26.86375
+88.19375
+Rock
+Slide
+2016
+28711
+WB/DAR/78B01/2015/353
+West Bengal
+Darjeeling
+Along Soureni Bazar to Toklan road
+Soureni Bazar to Toklan road
+26.863806
+88.193703
+Debris
+Slide
+2015
+28712
+WB/DAR/78B01/2015/391
+West Bengal
+Darjeeling
+Soreni Slide
+Soreni
+26.864722
+88.190583
+Debris
+Slide
+2016
+28713
+WB/DAR/78B05/2015/512
+West Bengal
+Darjeeling
+Jogi
+Right bank of Jogi khola
+26.864731
+88.395166
+Debris
+Slide
+2010
+28714
+WB/DAR/78B05/2015/651
+West Bengal
+Darjeeling
+Goarishankar
+Goarishankar
+26.864861
+88.286167
+Rock
+Slide
+2015
+28715
+WB/DAR/78B01/2015/390
+West Bengal
+Darjeeling
+Soreni Slide
+Sorenin TG
+26.864917
+88.193
+Debris
+Slide
+2016
+28716
+WB/DAR/78B05/2015/709
+West Bengal
+Darjeeling
+on Kurseong to Rohini road
+on Kurseong to Rohini road
+26.864972
+88.286167
+Debris
+Slide
+2015
+28717
+WB/DAR/78B05/2015/526
+West Bengal
+Darjeeling
+Jogi
+Left bank of Jogi khola
+26.86547
+88.380694
+Debris
+Slide
+2011
+28718
+WB/DAR/78B01/2015/352
+West Bengal
+Darjeeling
+Toklan, on Soureni Bazar to Toklan 
+road
+Toklan
+26.865523
+88.192726
+Debris
+Slide
+2015
+28719
+WB/DAR/78B05/2015/548
+West Bengal
+Darjeeling
+Nurbung-2
+Nurbung-2
+26.865893
+88.361479
+Rock
+Slide
+2012
+28720
+WB/DAR/78B01/2015/315
+West Bengal
+Darjeeling
+Ambotia ( On Karsyang-Ambotia tea 
+garden road)
+Western slope of Karsyang 
+town ( On Karsyang-Ambotia 
+tea garden road)
+26.866599
+88.243085
+Rock
+Slide
+1968
+28721
+WB/DAR/78B05/2015/446
+West Bengal
+Darjeeling
+Mahanadi WLS
+ 
+26.866933
+88.397708
+Debris
+Slide
+2004
+28722
+WB/DAR/78B05/2015/428
+West Bengal
+Darjeeling
+NH55 Between Km. stone 54 & 55 
+from Darjeeling
+Between Km. stone 54 & 55 
+from Darjeeling on NH 55
+26.867
+88.305
+Rock
+Slide
+2003
+28723
+WB/DAR/78B05/2015/706
+West Bengal
+Darjeeling
+G.P. Gayabari
+NH-55
+26.867306
+88.305056
+Debris
+Slide
+2015
+28724
+WB/DAR/78B05/2015/646
+West Bengal
+Darjeeling
+Samsheebasti, NH55
+Samsheebasti, NH55
+26.86775
+88.296667
+Debris
+Slide
+2015
+28725
+WB/JAL/78F01/2015/1156
+West Bengal
+Jalpaiguri
+ 
+ 
+26.868647
+89.099149
+Debris
+Slide
+2011
+28726
+WB/DAR/78B05/2015/575
+West Bengal
+Darjeeling
+MAHANADI WLS
+ 
+26.869222
+88.415532
+Debris
+Slide
+2014
+28727
+WB/DAR/78B05/2021/PDLS/11
+West Bengal
+Darjeeling
+N/A
+N/A
+26.86952091
+88.30116892
+Debris
+Slide
+October 2021
+28728
+WB/DAR/78B05/2015/634
+West Bengal
+Darjeeling
+Mane NH55
+Mane NH55
+26.869639
+88.290833
+Rock
+Slide
+2015
+28729
+WB/DAR/78B05/2015/573
+West Bengal
+Darjeeling
+Dukandara
+ 
+26.86997
+88.272456
+Rock
+Slide
+2014
+28730
+WB/DAR/78B05/2015/705
+West Bengal
+Darjeeling
+Giddapahar-4
+NH-55
+26.8705
+88.301528
+Debris
+Subsidence
+2015
+28731
+WB/DAR/78B05/2015/604
+West Bengal
+Darjeeling
+MAHANADI WLS
+ 
+26.870528
+88.400948
+Debris
+Slide
+2014
+28732
+WB/DAR/78B05/2015/704
+West Bengal
+Darjeeling
+14th mile slide crown
+NH-55
+26.870694
+88.302333
+Rock
+Slide
+2015
+28733
+WB/DAR/78B05/2015/426
+West Bengal
+Darjeeling
+At Km.7.5 from Garidhura on 
+Garidhura-Pankhabari road
+At Km.7.5 from Garidhura on 
+Garidhura-Pankhabari road
+26.871
+88.305
+Rock
+Slide
+2003
+28734
+WB/DAR/78B05/2015/555
+West Bengal
+Darjeeling
+Rongtong Shiv Mandir
+ 
+26.871011
+88.30868
+Rock
+Slide
+2012
+28735
+WB/DAR/78B05/2015/486
+West Bengal
+Darjeeling
+Giddapahar
+Giddapahar
+26.871112
+88.301447
+Rock
+Slide
+2008
+28736
+WB/DAR/78B05/2015/702
+West Bengal
+Darjeeling
+Giddapahar-2
+NH-55
+26.871167
+88.301778
+Debris
+Subsidence
+2015
+28737
+WB/DAR/78B05/2015/545
+West Bengal
+Darjeeling
+NH55  46 km on Toy train track
+46 km on Toy train track/NH-55 26.871171
+88.297518
+Debris
+Slide
+2012
+28738
+WB/DAR/78B05/2015/703
+West Bengal
+Darjeeling
+Giddapahar-3
+NH-55
+26.871194
+88.301917
+Debris
+Subsidence
+2015

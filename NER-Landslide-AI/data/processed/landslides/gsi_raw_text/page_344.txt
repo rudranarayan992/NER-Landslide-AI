@@ -1,0 +1,374 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14395
+46
+Kerala
+Idukki
+Karimban Kaanam III
+Adimali – Kumily National 
+Highway (NH 185)
+9.90698
+76.965454
+Debris
+Flow
+16th August 2018
+14396
+47
+Kerala
+Idukki
+Churuli IV
+Adimali – Kumily National 
+Highway (NH 185)
+9.913159
+76.958298
+Debris
+Flow
+16th August, 2018
+14397
+48
+Kerala
+Idukki
+Churuli V
+Adimali – Kumily National 
+Highway (NH 185)
+9.920033
+76.95461
+Debris
+Slide
+16th August, 2018
+14398
+49
+Kerala
+Idukki
+Churuli VI
+Adimali – Kumily National 
+Highway (NH 185)
+9.920187
+76.951511
+Soil
+Slide
+16th August, 2018
+14399
+50
+Kerala
+Idukki
+Churuli VII
+Adimali – Kumily National 
+Highway (NH 185)
+9.923021
+76.950735
+Debris
+Flow
+15th August, 2018
+14400
+51
+Kerala
+Idukki
+Churuli VIII
+Adimali – Kumily National 
+Highway (NH 185)
+9.921815
+76.951284
+Soil
+Slide
+14th August, 2018
+14401
+52
+Kerala
+Idukki
+Churulipathal
+Churuli - Kanjikuzhy road
+9.932914
+76.9438
+Debris
+Flow
+16th August, 2018
+14402
+53
+Kerala
+Idukki
+Churulipathal I
+Churuli - Kanjikuzhy road
+9.940399
+76.93293
+Debris
+Slide
+16th August, 2018
+14403
+54
+Kerala
+Idukki
+Mazhuvady
+Ummanchandy colony road
+9.950146
+76.919921
+Debris
+Flow
+15th August, 2018
+14404
+55
+Kerala
+Idukki
+Mazhuvady II
+Ummanchandy colony road
+9.949778
+76.917913
+Debris
+Slide
+16th August, 2018
+14405
+56
+Kerala
+Idukki
+Mazhuvady III
+Ummanchandy colony road
+9.949889
+76.91754
+Debris
+Flow
+16th August, 2018
+14406
+57
+Kerala
+Idukki
+Punnayar
+Kanjikuzhi - Arthipalli Road
+9.955556
+76.936375
+Debris
+Flow
+16th August, 2018
+14407
+58
+Kerala
+Idukki
+Punnayar II
+Kanjikuzhi - Arthipalli Road
+9.956065
+76.936058
+Debris
+Flow
+16th August, 2018
+14408
+59
+Kerala
+Idukki
+Punnayar III
+Kanjikuzhi - Arthipalli Road
+9.954856
+76.938605
+Debris
+Flow
+15th August, 2018
+14409
+60
+Kerala
+Idukki
+Punnayar IV
+Thallakanam - Pallipadi road
+9.953476
+76.942736
+Debris
+Flow
+15th August, 2018
+14410
+61
+Kerala
+Idukki
+Punnayar V
+Thallakanam - Pallipadi road
+9.953572
+76.941889
+Debris
+Flow
+15th August, 2018
+14411
+62
+Kerala
+Idukki
+Alpara Temple Road
+Alpara Temple Road
+9.931077
+76.937972
+Debris
+Slide
+15th August, 2018
+14412
+63
+Kerala
+Idukki
+Alpara  
+Kappimukku - Kanjikuzhi road
+9.928786
+76.938506
+Debris
+Slide
+16th August, 2018
+14413
+64
+Kerala
+Idukki
+Alpara II
+Kappimukku - Kanjikuzhi road
+9.928277
+76.939113
+Debris
+Flow
+16th August, 2018
+14414
+65
+Kerala
+Idukki
+Alpara III
+Kappimukku - Kanjikuzhi road
+9.925144
+76.941602
+Debris
+Slide
+16th August, 2018
+14415
+66
+Kerala
+Idukki
+Alpara IV
+Alpara - Kanjikuzhi road
+9.920498
+76.949252
+Debris
+Flow
+16th August, 2018
+14416
+67
+Kerala
+Idukki
+Alpara V
+Alpara - Kanjikuzhi road
+9.91551
+76.948985
+Debris
+Flow
+15th August, 2018
+14417
+68
+Kerala
+Idukki
+Vakachuvadu
+Mazhuvadi - Kanjikuzhi road
+9.956893
+76.927282
+Debris
+Flow
+16th August, 2018
+14418
+69
+Kerala
+Idukki
+Mazhuvadi
+Kanjikuzhi - Mylappuzha road
+9.960342
+76.91057
+Debris
+Flow
+15th August, 2018
+14419
+70
+Kerala
+Idukki
+Vandanmedukavala
+Kanjikuzhi - Mylappuzha road
+9.959758
+76.908442
+Debris
+Flow
+15th August, 2018
+14420
+71
+Kerala
+Idukki
+Vandanmedukavala
+Mylappuzha - Idathattu road
+9.955435
+76.908846
+Debris
+Flow
+16th August, 2018
+14421
+72
+Kerala
+Idukki
+Blathykavala
+A footpath in Chelachuvadu - 
+Thodupuzha road
+9.973051
+76.856386
+Debris
+Flow
+16th August, 2018
+14422
+73
+Kerala
+Idukki
+Blathykavala
+A footpath in Chelachuvadu - 
+Thodupuzha road
+9.973333
+76.856105
+Debris
+Flow
+16th August, 2018
+14423
+74
+Kerala
+Idukki
+Blathykavala
+Chelachuvadu - Thodupuzha 
+road
+9.970695
+76.858999
+Debris
+Slide
+16th August, 2018
+14424
+75
+Kerala
+Idukki
+Pazhayarikandam
+Chelachuvadu - Thodupuzha 
+road
+9.96618
+76.906191
+Debris
+Slide
+16th August, 2018
+14425
+76
+Kerala
+Idukki
+Edakkad
+Chelachuvadu - Kathipara road
+9.942424
+76.942242
+Debris
+Flow
+16th August, 2018
+14426
+77
+Kerala
+Idukki
+Edakkad II
+Chelachuvadu - Kathipara road
+9.933787
+76.950753
+Debris
+Flow
+16th August, 2018

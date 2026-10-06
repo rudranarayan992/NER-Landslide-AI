@@ -1,0 +1,471 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+5700
+HP/KIN/53E14/2016/10
+Himachal Pradesh
+Kinnaur
+ 
+Nichar Eklavya school
+31.5516
+77.9723
+Debris
+Slide
+2008
+5701
+HP/KIN/53E14/2016/49
+Himachal Pradesh
+Kinnaur
+ 
+Palingini village,  Nichar link 
+road
+31.5517
+77.9187
+Debris
+Slide
+NA
+5702
+HP/KIN/53E14/2016/56
+Himachal Pradesh
+Kinnaur
+ 
+Near Kangos village, Nichar link 
+road
+31.5521
+77.9635
+Debris
+Slide
+NA
+5703
+HP/KIN/53E14/2016/50
+Himachal Pradesh
+Kinnaur
+ 
+Near Solding NH-22
+31.5523
+77.9152
+Debris
+Slide
+NA
+5704
+HP/SHI/53E14/2016/106
+Himachal Pradesh
+Shimla
+ 
+Kiao
+31.55258
+77.784831
+Rock
+Slide
+NA
+5705
+HP/MAN/53A10/2018/6
+Himachal Pradesh
+Mandi
+ 
+ 
+31.552611
+76.522083
+Debris
+Slide
+NA
+5706
+HP/KIN/53E14/2016/48
+Himachal Pradesh
+Kinnaur
+ 
+Palingini village, Nichar link road 31.5529
+77.9194
+Debris
+Slide
+NA
+5707
+HP/KUL/53E10/2016/13
+Himachal Pradesh
+Kullu
+ 
+Kandoshila
+31.553
+77.546
+Rock cum debris
+Slide
+2014
+5708
+HP/KIN/53E14/2016/91
+Himachal Pradesh
+Kinnaur
+ 
+Near Solding bridge NH-22
+31.5531
+77.9126
+Rock
+Fall
+NA
+5709
+HP/KIN/53E14/2016/42
+Himachal Pradesh
+Kinnaur
+ 
+Left bank of Solding Khad
+31.5533
+77.9054
+Debris
+Slide
+NA
+5710
+HP/SHI/53E14/2016/107
+Himachal Pradesh
+Shimla
+ 
+Kiao
+31.553734
+77.786244
+Rock
+Slide
+NA
+5711
+HP/MAN/53E02/2015/127
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.553806
+77.203611
+Debris
+Slide
+NA
+5712
+HP/MAN/53E02/2015/128
+Himachal Pradesh
+Mandi
+ 
+Lag valley
+31.554444
+77.204444
+Debris
+Slide
+NA
+5713
+HP/MAN/53E02/2015/130
+Himachal Pradesh
+Mandi
+ 
+Chail Chawk-Gogar Pandoh 
+road
+31.5545
+77.196778
+Debris
+Slide
+NA
+5714
+HP/SHI/53E14/2016/108
+Himachal Pradesh
+Shimla
+ 
+Kiao
+31.554684
+77.78922
+Rock
+Slide
+NA
+5715
+HP/KUL/53E10/2016/20
+Himachal Pradesh
+Kullu
+ 
+North of jaon
+31.555
+77.573
+Debris
+Slide
+NA
+5716
+HP/SHI/53E14/2016/120
+Himachal Pradesh
+Shimla
+ 
+North of  Dharail
+31.555
+77.809
+Rock
+Slide
+NA
+5717
+HP/KUL/53E10/2016/15
+Himachal Pradesh
+Kullu
+ 
+Sarahan
+31.555057
+77.527401
+Rock
+Fall
+NA
+5718
+HP/HAM/53A09/2018/2
+Himachal Pradesh
+Hamirpur
+ 
+Sivnagar - Bhauda road
+31.555167
+76.680417
+Debris
+Slide
+NA
+5719
+HP/MAN/53E02/2015/129
+Himachal Pradesh
+Mandi
+ 
+Chail Chawk-Gogar Pandoh 
+road
+31.555639
+77.20375
+Debris
+Slide
+NA
+5720
+HP/KUL/53E06/2016/36
+Himachal Pradesh
+Kullu
+ 
+North of Jalori,NH 305
+31.556248
+77.37588
+Rock cum debris
+Slide
+NA
+5721
+HP/SHI/53E14/2016/116
+Himachal Pradesh
+Shimla
+ 
+Bara Bond
+31.556529
+77.807827
+Debris
+Slide
+NA
+5722
+HP/KUL/53E10/2016/31
+Himachal Pradesh
+Kullu
+ 
+Bahan
+31.556553
+77.664333
+Rock cum debris
+Slide
+NA
+5723
+HP/KUL/53E10/2016/16
+Himachal Pradesh
+Kullu
+ 
+Sarahan
+31.556753
+77.527724
+Rock
+Fall
+NA
+5724
+HP/KIN/53E14/2016/70
+Himachal Pradesh
+Kinnaur
+ 
+NH-72
+31.557
+77.9243
+Rock
+Fall
+NA
+5725
+HP/SHI/53E14/2016/109
+Himachal Pradesh
+Shimla
+ 
+South of Kuthru
+31.557164
+77.808401
+Rock
+Slide
+NA
+5726
+HP/MAN/53E02/2015/133
+Himachal Pradesh
+Mandi
+ 
+Chail Chawk-Gogar Pandoh 
+road
+31.557222
+77.1905
+Rock cum debris
+Slide
+NA
+5727
+HP/KIN/53E14/2016/44
+Himachal Pradesh
+Kinnaur
+ 
+NH-22
+31.5575
+77.9952
+Debris
+Slide
+NA
+5728
+HP/KIN/53E14/2016/17
+Himachal Pradesh
+Kinnaur
+ 
+Near Naptha Damnh - 22/ Right 
+bank of Satluj
+31.5576
+77.9986
+Debris
+Slide
+2015
+5729
+HP/KUL/53E10/2016/39
+Himachal Pradesh
+Kullu
+ 
+Jaon
+31.558
+77.574
+Debris
+Slide
+2014
+5730
+HP/KUL/53E06/2016/6
+Himachal Pradesh
+Kullu
+ 
+Shojha,NH 305, MS 60
+31.558
+77.369
+Debris
+Slide
+2013
+5731
+HP/MAN/53E02/2015/134
+Himachal Pradesh
+Mandi
+ 
+Chail Chawk-Gogar Pandoh 
+road
+31.558111
+77.188472
+Rock cum debris
+Slide
+NA
+5732
+HP/MAN/53E02/2015/132
+Himachal Pradesh
+Mandi
+ 
+Chail Chawk-Gogar Pandoh 
+road
+31.558333
+77.192917
+Rock cum debris
+Slide
+NA
+5733
+HP/KUL/53E06/2016/46
+Himachal Pradesh
+Kullu
+ 
+Shojha,NH 305
+31.558414
+77.370131
+Debris
+Slide
+NA
+5734
+HP/KIN/53E14/2016/7
+Himachal Pradesh
+Kinnaur
+ 
+Left bank of Satluj NH-22
+31.5587
+77.9063
+Rock
+Fall
+NA
+5735
+HP/KIN/53E14/2016/67
+Himachal Pradesh
+Kinnaur
+ 
+Left bank of Satluj NH-22
+31.5587
+77.9063
+Rock
+Fall
+NA
+5736
+HP/MAN/53E02/2015/131
+Himachal Pradesh
+Mandi
+ 
+Chail Chawk-Gogar Pandoh 
+road
+31.558722
+77.194167
+Debris
+Slide
+NA
+5737
+HP/KUL/53E06/2016/37
+Himachal Pradesh
+Kullu
+ 
+Shojha,NH 305
+31.558968
+77.374525
+Rock
+Slide
+NA
+5738
+HP/MAN/53E02/2015/147
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.559083
+77.114528
+Rock cum debris
+Slide
+NA
+5739
+HP/KUL/53E06/2016/143
+Himachal Pradesh
+Kullu
+ 
+Shojha,NH 305
+31.55925
+77.368416
+Debris
+Slide
+NA
+5740
+HP/KUL/53E06/2016/43
+Himachal Pradesh
+Kullu
+ 
+Shojha,NH 305
+31.559267
+77.368416
+Debris
+Slide
+NA

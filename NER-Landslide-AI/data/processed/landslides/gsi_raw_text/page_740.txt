@@ -1,0 +1,402 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29222
+WB/DAR/78A08/2021/PDLS/34
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.01101353
+88.44127137
+Rock
+Slide
+October 2021
+29223
+WB/DAR/78A04/2021/PDLS/72
+West Bengal
+Darjeeling
+N/A
+N/A
+27.01107238
+88.10413256
+Debris
+Slide
+October 2021
+29224
+WB/DAR/78A04/2021/PDLS/71
+West Bengal
+Darjeeling
+N/A
+N/A
+27.01112749
+88.09939597
+Debris
+Slide
+October 2021
+29225
+WB/DAR/78A04/2015/1241
+West Bengal
+Darjeeling
+ 
+SUKHIA RF
+27.011222
+88.177417
+Rock
+Slide
+2014
+29226
+WB/DAR/78A08/2021/PDLS/35
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.01138786
+88.43997606
+Rock
+Slide
+October 2021
+29227
+WB/DAR/78A12/2015/1420
+West Bengal
+Darjeeling
+ 
+ 
+27.011566
+88.675977
+Debris
+Slide
+2013
+29228
+WB/DAR/78A04/2015/1200
+West Bengal
+Darjeeling
+ 
+BIJANBA-GHOOM  ROAD
+27.011611
+88.227611
+Rock
+Slide
+2017
+29229
+WB/DAR/78A12/2015/1421
+West Bengal
+Darjeeling
+ 
+ 
+27.011621
+88.659287
+Debris
+Slide
+2013
+29230
+WB/DAR/78A08/2015/1160
+West Bengal
+Darjeeling
+ 
+DEORALI
+27.011667
+88.425139
+Debris
+Slide
+2015
+29231
+WB/DAR/78A08/2021/PDLS/35
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.01174454
+88.43864019
+Rock
+Slide
+October 2021
+29232
+WB/DAR/78A12/2015/180
+West Bengal
+Darjeeling
+Reyong Village,  Near Kafer, 
+Kalimpong
+Reyong Village,  Near Kafer, 
+Kalimpong
+27.011956
+88.598271
+Debris
+Subsidence
+1996
+29233
+WB/DAR/78A04/2015/1266
+West Bengal
+Darjeeling
+ 
+ARUBOTEY
+27.012333
+88.138806
+Debris
+Slide
+2016
+29234
+WB/DAR/78A12/2015/1267
+West Bengal
+Darjeeling
+NIM
+NIM BUSTY
+27.0131
+88.6785
+Rock
+Slide
+2014
+29235
+WB/DAR/78A04/2021/PDLS/40
+West Bengal
+Darjeeling
+N/A
+N/A
+27.01332979
+88.23040483
+Debris
+Slide
+October 2021
+29236
+WB/DAR/78A12/2015/1423
+West Bengal
+Darjeeling
+ 
+ 
+27.013515
+88.678448
+Debris
+Slide
+2015
+29237
+WB/DAR/78A04/2021/PDLS/39
+West Bengal
+Darjeeling
+N/A
+N/A
+27.01356985
+88.23185881
+Debris
+Slide
+October 2021
+29238
+WB/DAR/78A04/2021/PDLS/70
+West Bengal
+Darjeeling
+N/A
+N/A
+27.0136613
+88.0997734
+Debris
+Slide
+October 2021
+29239
+WB/DAR/78A08/2015/43
+West Bengal
+Darjeeling
+NH-31A 28th mile slide from 
+Sevok(Tiger Bridge) towards  Gangtok
+22.65 km from Sevok(Tiger 
+Bridge) on NH-31A towards  
+Gangtok
+27.013739
+88.436709
+Rock cum Debris
+Slide
+2007
+29240
+WB/DAR/78A08/2015/1345
+West Bengal
+Darjeeling
+SEVOK ROAD
+SEVOK ROAD
+27.01375
+88.435722
+Debris
+Slide
+2014
+29241
+WB/DAR/78A12/2015/263
+West Bengal
+Darjeeling
+Pabung
+ 
+27.013982
+88.542648
+Rock
+Slide
+2013
+29242
+WB/DAR/78A08/2015/699
+West Bengal
+Darjeeling
+6 km south of Tista bazar
+NH-10
+27.014
+88.435972
+Debris
+Slide
+2015
+29243
+WB/DAR/78A12/2015/1424
+West Bengal
+Darjeeling
+ 
+ 
+27.014124
+88.678693
+Debris
+Slide
+2013
+29244
+WB/DAR/78A12/2015/1425
+West Bengal
+Darjeeling
+ 
+ 
+27.01415
+88.677933
+Debris
+Slide
+2015
+29245
+WB/DAR/78A12/2015/1426
+West Bengal
+Darjeeling
+ 
+ 
+27.014222
+88.719986
+Debris
+Slide
+2012
+29246
+WB/DAR/78A12/2015/179
+West Bengal
+Darjeeling
+Reyong Village,  Near Kafer, 
+Kalimpong
+Reyong Village,  Near Kafer, 
+Kalimpong
+27.01433
+88.596942
+Debris
+Subsidence
+1996
+29247
+WB/DAR/78A08/2015/1427
+West Bengal
+Darjeeling
+ 
+ 
+27.014442
+88.452511
+Rock cum Debris
+Slide
+2006
+29248
+WB/DAR/78A12/2015/1311
+West Bengal
+Darjeeling
+ 
+KHANI
+27.014444
+88.54025
+Debris
+Slide
+2016
+29249
+WB/DAR/78A04/2015/1501
+West Bengal
+Darjeeling
+RISHI SLIDE
+RISHI
+27.014912
+88.145152
+Rock
+Slide
+2010
+29250
+WB/DARJ/78A04/2006/0254
+West Bengal
+Darjeeling
+ 
+Adjacent to Milangaon 
+Bloomfield within Darjeeling 
+Municipality
+27.015
+88.145
+Debris
+Slide
+NA
+29251
+WB/DAR/78A04/2015/16
+West Bengal
+Darjeeling
+Arubotay basti slide
+Adjacent to Milangaon 
+Bloomfield Within Darjeeling 
+Municipality
+27.015
+88.145
+Debris
+Flow
+2006
+29252
+WB/DAR/78A08/2015/1346
+West Bengal
+Darjeeling
+SEVOK ROAD
+SEVOK ROAD
+27.015278
+88.435667
+Debris
+Slide
+2015
+29253
+WB/DAR/78A08/2021/PDLS/35
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.01546702
+88.43565394
+Rock
+Slide
+October 2021
+29254
+WB/DAR/78A12/2015/1428
+West Bengal
+Darjeeling
+ 
+ 
+27.015502
+88.743804
+Debris
+Slide
+2012
+29255
+WB/DAR/78A08/2021/PDLS/35
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.01617215
+88.43555204
+Rock
+Slide
+October 2021

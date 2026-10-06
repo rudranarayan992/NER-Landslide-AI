@@ -1,0 +1,346 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30410
+WB/ Darjeeling 
+/78B/01/2025/12
+West Bengal
+Darjeeling
+Sukhiapokhri-Mirik road, 
+Pashupati nagar
+26.948
+88.12630556
+Debris
+Slide
+NA
+30411
+WB/ Darjeeling 
+/78B/01/2025/13
+West Bengal
+Darjeeling
+Sukhiapokhri-Mirik road
+26.94263889
+88.12736111
+Debris
+Slide
+NA
+30412
+WB/ Darjeeling 
+/78B/01/2025/14
+West Bengal
+Darjeeling
+Sukhiapokhri-Mirik road
+26.93758333
+88.13305556
+Debris
+Slide
+NA
+30413
+WB/ Darjeeling 
+/78B/01/2025/15
+West Bengal
+Darjeeling
+Sukhiapokhri-Mirik road, near 
+Gopaldhara village
+26.91991667
+88.14558333
+Debris
+Slide
+NA
+30414
+WB/ Darjeeling 
+/78B/01/2025/16
+West Bengal
+Darjeeling
+Sukhiapokhri-Mirik road, near 
+Gopaldhara village
+26.91986111
+88.1455
+Debris
+Slide
+NA
+30415
+WB/ Darjeeling 
+/78B/01/2025/17
+West Bengal
+Darjeeling
+Sukhiapokhri-Mirik road, near 
+Gopaldhara village
+26.91986111
+88.14816667
+Debris
+Slide
+NA
+30416
+WB/ Darjeeling 
+/78B/01/2025/18
+West Bengal
+Darjeeling
+Sukhiapokhri-Mirik road, near 
+Gopaldhara village
+26.91508333
+88.14927778
+Debris
+Slide
+NA
+30417
+WB/ Darjeeling 
+/78B/01/2025/30/1
+West Bengal
+Darjeeling
+Mirik-Siliguri road, phaguri 
+village near Tingling view point
+26.84530556
+88.19261111
+Debris
+Slide
+NA
+30418
+WB/ Darjeeling 
+/78B/01/2025/30/2
+West Bengal
+Darjeeling
+Landslide on Mirik Siliguri road, 
+near Soureni village.
+26.86575
+88.19522222
+Debris
+Slide
+NA
+30419
+WB/ Darjeeling 
+/78B/01/2025/30/3
+West Bengal
+Darjeeling
+Mirik-Siliguri road, near Soureni 
+village
+26.86833333
+88.19519444
+Debris
+Slide
+NA
+30420
+WB/ Darjeeling 
+/78B/01/2025/30/4
+West Bengal
+Darjeeling
+Landslide on Mirik Siliguri road
+26.88116667
+88.18944444
+Debris
+Slide
+NA
+30421
+WB/ Darjeeling 
+/78B/01/2025/30/5
+West Bengal
+Darjeeling
+Mirik bypass road, near Mirik 
+Town
+26.88102778
+88.18502778
+Soil
+Slide
+NA
+30422
+WB/ Darjeeling 
+/78B/01/2025/30/6
+West Bengal
+Darjeeling
+Mirik bypass road, near Mirik 
+Town
+26.88186111
+88.18452778
+Soil
+Slide
+NA
+30423
+WB/ Darjeeling 
+/78B/01/2025/30/7
+West Bengal
+Darjeeling
+Sukhiapokhri-Mirik road.
+26.884928
+88.183034
+Debris
+Slide
+NA
+30424
+WB/ Darjeeling 
+/78B/01/2025/30/8
+West Bengal
+Darjeeling
+Mirik bypass road, near Mirik 
+Town
+26.88655556
+88.18063889
+Debris
+Slide
+NA
+30425
+WB/ Darjeeling 
+/78B/01/2025/30/9
+West Bengal
+Darjeeling
+Mirik Sukhia road, near Thurbo, 
+SH-12
+26.89861111
+88.16813889
+Rock cum Debris
+Slide
+NA
+30426
+WB/ Darjeeling 
+/78B/01/2025/30/10
+West Bengal
+Darjeeling
+Sukhiapokhri-Mirik road, SH-12 26.90563889
+88.16141667
+Soil
+Slide
+NA
+30427
+WB/ Darjeeling 
+/78B/01/2025/30/11
+West Bengal
+Darjeeling
+Mirik Sukhia road, SH-12 near 
+Basundhara view point
+26.90530556
+88.15780556
+Debris
+Slide
+NA
+30428
+WB/ Darjeeling 
+/78B/01/2025/30/12
+West Bengal
+Darjeeling
+Mirik Sukhia road, SH-12 near 
+Basundhara view point
+26.90558333
+88.15791667
+Soil
+Slide
+NA
+30429
+Whalung Gaon slide
+West Bengal
+Kalimpong
+Whalung Gaon slide
+Below one settlement at the 
+Whalung Gaon
+27.082314
+88.531963
+Soil
+Slide
+1968, 31 July 2025
+30430
+West Bengal
+Kalimpong
+Deolo
+Below deolo park
+27.08992
+88.5036083
+Debris
+Slide
+NA
+30431
+West Bengal
+Kalimpong
+Near Suntalay
+left bank of Reiyang river, near 
+road bend
+26.974083
+88.423532
+Debris
+Slide
+NA
+30432
+6893
+West Bengal
+Darjeeling
+SH 12
+26.901067
+88.16592
+Debris
+Slide
+5 October 2025
+30433
+6896
+West Bengal
+Darjeeling
+Hollani village
+SH 12
+26.874957
+88.191543
+Debris
+Slide
+4 October 2025
+30434
+6895
+West Bengal
+Darjeeling
+Mirik
+Mirik Bypass
+26.881874
+88.184536
+Debris
+Slide
+5 October 2025
+30435
+6894
+West Bengal
+Darjeeling
+Naar Leochajagat
+On Ghoom Sukhia Pokhri road
+27.008623
+88.201081
+Soil
+Slide
+4 October 2025
+30436
+7011
+West Bengal
+Kalimpong
+NH10
+27.074217
+88.473175
+Debris
+NA
+30437
+7012
+West Bengal
+Kalimpong
+NH-10
+27.07547
+88.47272
+Debris
+NA
+30438
+7013
+West Bengal
+Kalimpong
+mission compound
+disha
+27.068621
+88.479162
+Rock
+15 December 2025
+30439
+7014
+West Bengal
+Kalimpong
+27.072527
+88.472522
+Soil
+NA

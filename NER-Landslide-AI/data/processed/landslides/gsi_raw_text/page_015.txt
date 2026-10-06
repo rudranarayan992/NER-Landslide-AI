@@ -1,0 +1,408 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+469
+AS/DH/83C16/2018/001
+Assam
+Dima Hasao
+Bandarkhal landslide.
+Between NFR Bridge No. 305 
+and Tunnel No. 19 (~2 km SW of 
+Bandarkhal Railway Station).
+26.11
+94.76
+Debris
+Slide
+14 June 2018
+470
+AS/KAM/78N16/2015/81
+Assam
+Kamrup
+Medhikuchi-2
+En-route Medhikuchi to Upper 
+Tepesiya, Kamrup
+26.110056
+91.908944
+Debris
+Slide
+NA
+471
+ASM/NAG/83B08/2017/05
+Assam
+Nagaon
+Amsoi-Amtrang road slide No.5
+Amsoi- Amtrang road
+26.110139
+92.439333
+Debris
+Slide
+2014
+472
+AS/KAM/78N16/2015/80
+Assam
+Kamrup
+Kamarkuchi
+Between Jorabat and 
+Kamarkuchi, NH-37
+26.110944
+91.887917
+Earth
+Slide
+NA
+473
+AS/KAM/83B4/2015/93
+Assam
+Kamrup
+2no. Rabingaon
+2 no. Rabingaon, Kamrup
+26.112083
+92.091028
+Debris
+Slide
+NA
+474
+AS/KRP/78N16/2018/001
+Assam
+Kamrup
+Shankardev Nagar slide
+NH37 towards Shillong.
+26.112667
+91.853889
+Debris
+Slide
+24 August 2018
+475
+ASM/NAG/83B08/2017/15
+Assam
+Nagaon
+Amsoi-Amtrang road slide No.15
+Amsoi- Amtrang road
+26.113639
+92.441222
+Debris
+Slide
+2010
+476
+AS/KAM/78N16/2015/78
+Assam
+Kamrup
+Garobasti
+Garobasti, 8th Mile, near 
+Khanapara, Kamrup
+26.115139
+91.837833
+Debris
+Slide
+NA
+477
+ASM/NAG/83B08/2017/04
+Assam
+Nagaon
+Amsoi-Amtrang road slide No.4
+Amsoi- Amtrang road
+26.116972
+92.440083
+Rock cum Debris
+Slide
+2014
+478
+ASM/NAG/83B08/2017/03
+Assam
+Nagaon
+Amsoi-Amtrang road slide No.3
+Amsoi- Amtrang road
+26.117111
+92.441028
+Debris
+Slide
+2014
+479
+ASM/NAG/83B08/2017/35
+Assam
+Nagaon
+Amsoi Nala slide
+Amsoi nala, Amsoi- Amtrang 
+road
+26.117417
+92.438667
+Rock cum Debris
+Slide
+2016
+480
+ASM/NAG/83B08/2017/02
+Assam
+Nagaon
+Amsoi-Amtrang road slide No.2
+~1.5 Km East of Rongphigaon,  
+Amsoi- Amtrang road
+26.118167
+92.440944
+Earth
+Slide
+2012
+481
+ASM/NAG/83B08/2017/01
+Assam
+Nagaon
+Amsoi- Amtrang road slide No.1
+~1.2 Km East of Rongphigaon, 
+Amsoi- Amtrang road
+26.119417
+92.439972
+Earth
+Slide
+2015
+482
+AS/KAM/78N16/2015/71
+Assam
+Kamrup
+Datapara
+Datapara, Phatasil Hill
+26.121056
+91.716389
+Rock cum Debris
+Slide
+NA
+483
+AS/KAM/78N16/2015/77
+Assam
+Kamrup
+Jagdal
+Jagdal, SSB Camp, 1 km north 
+from NH-37, Kamrup
+26.129583
+91.938306
+Debris
+Slide
+NA
+484
+AS/KAM/78N16/2014/01
+Assam
+Kamrup
+Batahghuli
+Punjabari, Guwahati
+26.13222
+91.83972
+Rock
+Fall
+NA
+485
+AS/KAM/78N16/2014/06
+Assam
+Kamrup (Metro)
+Dakhingaon
+Kahilipara-Ganesh mandir road. 26.13442
+91.7501
+Earth
+Flow
+NA
+486
+AS/KAM/78N12/2008/B-4
+Assam
+Kamrup
+Shreebhumi Nagar Slide
+ 
+26.13611
+91.74056
+NA
+Topple
+NA
+487
+AS/KAM/78N12/2015/68
+Assam
+Kamrup
+Kalapahar
+Paltan Bazar-Lakhra road
+26.149444
+91.748
+Debris
+Subsidence
+NA
+488
+AS/KAM(M)/78N12/2023/01
+Assam
+Kamrup (Metro)
+Dhirenpara
+Jonali path
+26.1505375
+91.72798139
+Earth
+Slide
+17 June 2023 at 18:00 hrs.
+489
+AS/KAM/83B04/2015/112
+Assam
+Kamrup
+Sakauripara
+Sakauripara, Namghar, Kamrup 26.153556
+92.038694
+Debris
+Slide
+NA
+490
+ASM/KMP/78N16/2017/03
+Assam
+Kamrup (Metro)
+Anandapur-Gangapur slide
+Hengrabari
+26.15428
+91.79264
+Debris
+Slide
+13 June 2017
+491
+AS/KAM/78N16/2014/08
+Assam
+Kamrup (Metro)
+Lichubagan
+Hegrabari Road, near Ganeshgu
+ri, Guwahati.
+26.15461
+91.80086
+Earth
+Flow
+NA
+492
+AS/KAM/78N16/2014/02
+Assam
+Kamrup (Metro)
+Udayachal Slide.
+Guwahati-Shillong Road
+26.15478
+91.77411
+Earth
+Flow
+NA
+493
+AS/KAM/78N16/2015/88
+Assam
+Kamrup
+Lechubagan
+Lechubagan, Udaynagar, 
+Japorigog Hill, Kamrup
+26.155
+91.798167
+Debris
+Slide
+NA
+494
+AS/KAM/78N16/2015/74
+Assam
+Kamrup
+Amchang TG-4
+Amchang Tea Garden, Towards 
+Sonapur
+26.158639
+91.921889
+Earth
+Slide
+NA
+495
+AS/KAM/78N16/2015/72
+Assam
+Kamrup
+Amchang TG-2
+Amchang Tea Garden
+26.159139
+91.915583
+Debris
+Slide
+NA
+496
+AS/KAM/78N16/2015/73
+Assam
+Kamrup
+Amchang TG-3
+Amchang Tea Garden
+26.159333
+91.917611
+Rock cum Debris
+Slide
+NA
+497
+AS/KAM/78N12/2014/02
+Assam
+Kamrup
+Kamakhaya Nursery
+SH:AT Road
+26.1625
+91.71444
+Debris
+Flow
+NA
+498
+AS/KAM/78N12/2015/67
+Assam
+Kamrup
+KamakhyaBhubaneswari
+Nilachal Pahar, Guwahati.
+26.166583
+91.714806
+Rock
+Slide
+NA
+499
+AS/KAM/83B04/2015/111
+Assam
+Kamrup
+Bejeni-1
+Bejeni-1, Garwani Parbat, 
+Kamrup
+26.171972
+92.002611
+Debris
+Slide
+NA
+500
+ASM/NAG/83B08/2017/46
+Assam
+Nagaon
+Rengbeng tea garden slide
+Rengbeng tea garden
+26.172917
+92.762778
+Debris
+Slide
+2016
+501
+ASM/KMP/78N16/2016/65
+Assam
+Kamrup (Metro)
+West Sarania slide
+Pub Sarania hill, Guwahati
+26.1755
+91.76175
+Debris
+Slide
+2016
+502
+AS/KAM/78N16/2014/03
+Assam
+Kamrup (Metro)
+Bamunimaidan
+Zoo Tiniali-Narengi Road
+26.17672
+91.78672
+Earth
+Flow
+NA
+503
+ASM/KMP/78N16/2017/05
+Assam
+Kamrup (Metro)
+Dakshin Saraniya-1
+Ganpat Mandir road
+26.17672
+91.76525
+Debris
+Slide
+13 June 2017

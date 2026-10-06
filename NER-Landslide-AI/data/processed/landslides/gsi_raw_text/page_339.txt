@@ -1,0 +1,325 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14210
+KRL/PKD/58B5/2018/06
+Kerala
+Palakkad
+Ananganadi slide
+Ananganadi, near eco tourism 
+spot, Ottapalam taluk 
+10.834695
+76.356393
+soil
+slide
+Initiation on16/8/2018 3:00AM
+14211
+KRL/PKD/58B5/2018/07
+Kerala
+Palakkad
+Kadambazhippuram subsidence
+Kadambazhippuram, 
+Pullundassery
+10.855047
+76.453408
+Debris
+subsidence
+Initiated on 16/8/2018
+14212
+KRL/PKD/58B5/2018/08
+Kerala
+Palakkad
+Kadambazhippuram
+Kadambazhippuram rubber 
+estate
+10.854766
+76.458106
+Debris
+subsidence
+Initiated on 16/8/2018
+14213
+KRL/PKD/58B7/2018/31
+Kerala
+Palakkad
+Kava debris slide
+VRT Kava, Kizhakencheri, 
+Alathur Taluk
+10.484317
+76.491312
+Debris
+slide
+Initiated on 15/8/18, night
+14214
+KRL/PKD/58B7/2018/33
+Kerala
+Palakkad
+Near Kava
+10.494
+76.4994
+Rock cum debris
+slide
+Initiated on 15/8/18, night
+14215
+KRL/PKD/58B9/2018/01
+Kerala
+Palakkad
+Kalladikkode Vadakke colony slide
+Palakkayam Village
+10.911788
+76.551438
+Debris
+subsidence
+16 August 2028
+14216
+KRL/PKD/58B9/2018/02
+Kerala
+Palakkad
+Parachatti debris flow
+Parachatti SC colony, Palakkad 
+taluk, 
+10.843375
+76.728583
+Debris
+Flow
+Initiated on 08/8/2018
+14217
+KRL/PKD/58B9/2018/03
+Kerala
+Palakkad
+Adap colony debris flow
+Adap colony 
+10.825098
+76.734842
+Debris
+Flow
+Initiated on 08/8/2018
+14218
+KRL/PKD/58B9/2018/173
+Kerala
+Palakkad
+Near Akathethara quary, 
+palakkad Taluk
+10.863184
+76.629953
+rock cum debris
+slide
+Initiated on 15/8/18
+14219
+KRL/PKD/58B9/2018/175
+Kerala
+Palakkad
+Near Akathethara quary, 
+palakkad Taluk
+10.862806
+76.630816
+rock cum debris
+slide
+Initiated on 15/8/18
+14220
+KRL/PKD/58B9/2018/176
+Kerala
+Palakkad
+Near Akathethara quary, 
+palakkad Taluk
+10.860338
+76.637864
+rock cum debris
+slide
+Initiated on 15/8/18
+14221
+KRL/PKD/58B9/2018/177
+Kerala
+Palakkad
+Near Akathethara quary, 
+palakkad Taluk
+10.860838
+76.636159
+rock cum debris
+slide
+Initiated on 15/8/18
+14222
+KRL/PKD/58B9/2018/178
+Kerala
+Palakkad
+Near Karimba village, 
+mannarkkad Taluk
+10.887625
+76.57727
+rock cum debris
+slide
+Initiated on 15/8/18
+14223
+KRL/PKD/58B9/2018/179
+Kerala
+Palakkad
+Near Karimba village, 
+mannarkkad Taluk
+10.888613
+76.579875
+rock cum debris
+slide
+Initiated on 15/8/18
+14224
+KRL/PKD/58B9/2018/180
+Kerala
+Palakkad
+Near Karimba village, 
+mannarkkad Taluk
+10.88897
+76.581677
+rock cum debris
+slide
+Initiated on 15/8/18
+14225
+KRL/PKD/58B9/2018/181
+Kerala
+Palakkad
+Near Karimba village, 
+mannarkkad Taluk
+10.867341
+76.602978
+rock cum debris
+slide
+Initiated on 15/8/18
+14226
+KRL/PKD/58B9/2018/182
+Kerala
+Palakkad
+Near Karimba village, 
+mannarkkad Taluk
+10.863736
+76.602972
+rock cum debris
+slide
+Initiated on 15/8/18
+14227
+KRL/PKD/58B9/2018/203
+Kerala
+Palakkad
+Palakkayam village
+10.957348
+76.5438
+Debris
+slide
+Initiated on 15/8/18
+14228
+KRL/PKD/58B9/2018/204
+Kerala
+Palakkad
+Palakkayam village
+10.975952
+76.585579
+Debris
+slide
+Initiated on 15/8/18
+14229
+KRL/PKD/58B9/2018/205
+Kerala
+Palakkad
+Palakkayam village
+10.976649
+76.58429
+Debris
+slide
+Initiated on 15/8/18
+14230
+KRL/PKD/58B9/2018/206
+Kerala
+Palakkad
+Near Siruvani reservoir area
+10.974537
+76.627582
+Debris
+slide
+Initiated on 15/8/18
+14231
+KRL/PKD/58B9/2018/207
+Kerala
+Palakkad
+Muthikulam subsidence
+Sholayur village, Mannarkkad 
+Taluk
+10.977277
+76.622685
+Debris
+Subsidence
+Initiated on 15/8/18
+14232
+KRL/PKD/58B9/2018/208
+Kerala
+Palakkad
+Muthikulam, Sholayur village
+10.962203
+76.609662
+Debris
+slide
+Initiated on 15/8/18
+14233
+KRL/PKD/58B9/2018/209
+Kerala
+Palakkad
+Muthikulam, Sholayur village
+10.979529
+76.607141
+rock cum debris
+slide
+Initiated on 15/8/18
+14234
+KRL/PKD/58B9/2018/210
+Kerala
+Palakkad
+Muthikulam, Sholayur village
+10.979793
+76.606535
+rock cum debris
+slide
+Initiated on 15/8/18
+14235
+KRL/PKD/58B9/2018/211
+Kerala
+Palakkad
+Muthikulam, Sholayur village
+10.965332
+76.610375
+Debris
+slide
+Initiated on 15/8/18
+14236
+KRL/PKD/58B9/2018/212
+Kerala
+Palakkad
+Muthikulam, Sholayur village
+10.98023
+76.605667
+rock cum debris
+slide
+Initiated on 15/8/18
+14237
+KRL/PKD/58B9/2018/213
+Kerala
+Palakkad
+Muthikulam, Sholayur village
+10.980788
+76.604885
+rock cum debris
+slide
+Initiated on 15/8/18
+14238
+KRL/PKD/58B9/2018/214
+Kerala
+Palakkad
+Muthikulam, Sholayur village
+10.982088
+76.599834
+Debris
+slide
+Initiated on 15/8/18

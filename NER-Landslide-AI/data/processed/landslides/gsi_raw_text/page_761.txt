@@ -1,0 +1,359 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29890
+WB/DARJ/78A08/2007/0285
+West Bengal
+Darjeeling
+ 
+34.63 km from Sevok (Tiger 
+Bridge) on NH-31A towards 
+Gangtok
+27.089
+88.463
+Debris
+Flow
+NA
+29891
+WB/DARJ/78A08/2012/0303
+West Bengal
+Darjeeling
+ 
+Upper Bhalukop near 
+Kalimpong
+27.089
+88.476
+Debris
+Subsidence
+2012
+29892
+WB/DARJ/78A08/2012/0309
+West Bengal
+Darjeeling
+ 
+Newer Gaon, Kalimpong
+27.089
+88.486
+Rock
+Slide
+2012
+29893
+WB/DARJ/78A04/1980/0245
+West Bengal
+Darjeeling
+ 
+around 1.5km from Forebay 
+towards Linsebong on Forebay-
+Linsebong road
+27.089
+88.1
+Rock cum Debris
+Subsidence
+1980
+29894
+WB/DAR/78A12/2015/242
+West Bengal
+Darjeeling
+Deorali-Lava Road
+Deorali-Lava Road
+27.089
+88.652
+Rock
+Slide
+2013
+29895
+WB/DAR/78A16/2015/294
+West Bengal
+Darjeeling
+Laxmi jhora,3 km from Paren SEB 
+Office
+Laxmi jhora,3 km from Paren 
+SEB Office
+27.089064
+88.864024
+Debris
+Flow
+1993
+29896
+WB/DAR/78A04/2015/1228
+West Bengal
+Darjeeling
+ 
+NORBUSTY
+27.089194
+88.1925
+Debris
+Slide
+2015
+29897
+WB/DARJ/78A12/2007/0022
+West Bengal
+Darjeeling
+Lulegoan Cross-I
+1km Lulegaon crossing
+27.0893
+88.6556
+Debris
+Slide
+2007
+29898
+WB/DAR/78A08/2015/123
+West Bengal
+Darjeeling
+Newer Gaon, Kalimpong
+Newer Gaon, Kalimpong
+27.089384
+88.483973
+Rock
+Slide
+2012
+29899
+WB/DAR/78A12/2015/1477
+West Bengal
+Darjeeling
+ 
+ 
+27.089399
+88.533188
+Debris
+Slide
+2010
+29900
+WB/DAR/78A08/2015/120
+West Bengal
+Darjeeling
+Upper Bhalukop near Kalimpong
+Upper Bhalukop near 
+Kalimpong
+27.089477
+88.476854
+Debris
+Subsidence
+2012
+29901
+WB/DAR/78A04/2015/2
+West Bengal
+Darjeeling
+Rammam project Road, Linsebong 
+village
+On Barahatta-Lodhama-
+Linsebong road approaching 
+Rammam Hydel Project Stage-II 
+site.
+27.0896
+88.099925
+Debris
+Slide
+1980
+29902
+WB/DAR/78A08/2015/1328
+West Bengal
+Darjeeling
+BIOGAS PLANT SLIDE
+BHALUKHOP, KALIMPONG
+27.089694
+88.480167
+Debris
+Slide
+2013
+29903
+WB/DAR/78A12/2015/245
+West Bengal
+Darjeeling
+Kharey Khola on Kalimpong-Algara 
+road
+Kharey Khola on Kalimpong-
+Algara road
+27.089759
+88.532215
+Rock
+Slide
+2013
+29904
+WB/DAR/78A04/2021/PDLS/48
+West Bengal
+Darjeeling
+N/A
+N/A
+27.08994105
+88.09900456
+Rock
+Slide
+October 2021
+29905
+WB/DARJ/78A08/2013/0308
+West Bengal
+Darjeeling
+ 
+ 
+27.09
+88.486
+Rock
+Slide
+2013
+29906
+WB/DAR/78A12/2015/246
+West Bengal
+Darjeeling
+Kharey Khola on Kalimpong-Algara 
+road
+Kharey Khola on Kalimpong-
+Algara road
+27.090071
+88.532853
+Rock
+Slide
+2013
+29907
+WB/DAR/78A08/2021/PDLS/22
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09011211
+88.25736488
+Debris
+Slide
+October 2021
+29908
+WB/DAR/78A04/2021/PDLS/28
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09025677
+88.25025605
+Debris
+Slide
+October 2021
+29909
+WB/DAR/78A08/2015/45
+West Bengal
+Darjeeling
+NH-31A 34.90 km from Sevok(Tiger 
+Bridge) towards  Gangtok
+34.90 km from Sevok(Tiger 
+Bridge) on NH-31A towards  
+Gangtok
+27.090269
+88.464269
+Debris
+Flow
+2007
+29910
+WB/DAR/78A08/2021/PDLS/22
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09027711
+88.25910147
+Debris
+Slide
+October 2021
+29911
+WB/DAR/78A08/2015/1518
+West Bengal
+Darjeeling
+MUNICIPALITY WARD NO.17, ORIGIN 
+OF RAJA JHORA
+NEAR CHALISAY 
+GAON,CHIBBO,KALIMPONG
+27.090286
+88.464121
+Debris
+Flow
+2016
+29912
+WB/DAR/78A04/2021/PDLS/28
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09030189
+88.24415466
+Debris
+Slide
+October 2021
+29913
+WB/DAR/78A08/2021/PDLS/22
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09042911
+88.25926454
+Debris
+Slide
+October 2021
+29914
+WB/DAR/78A12/2015/1332
+West Bengal
+Darjeeling
+14 mile subsidence
+14 MILE KALIMPONG
+27.090528
+88.532
+Debris
+Subsidence
+2014
+29915
+WB/DAR/78A04/2021/PDLS/28
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+27.0906643
+88.25010929
+Rock
+Slide
+October 2021
+29916
+WB/DARJ/78A12/2007/0037
+West Bengal
+Darjeeling
+Dalapchand-2
+ Algara-Kalimpong road
+27.0907
+88.5393
+Rock
+Slide
+2007
+29917
+WB/DAR/78A04/2015/1183
+West Bengal
+Darjeeling
+ 
+Dwarika tea estate
+27.090778
+88.249972
+Debris
+Slide
+2015
+29918
+WB/DAR/78A04/2021/PDLS/28
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.09085583
+88.24988952
+Debris
+Slide
+October 2021

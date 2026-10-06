@@ -1,0 +1,358 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1454
+AR/ANJ/91D12/2014/02
+Arunachal Pradesh
+Anjaw
+Hayuliang Slide
+HMC road
+28.08014
+96.52356
+Debris
+Topple
+2013
+1455
+AP/AW/91D8/2022/101
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 3 kms along 
+HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.080151
+96.472541
+Debris
+Slide
+NA
+1456
+AR/ANJ/91D12/2014/10
+Arunachal Pradesh
+Anjaw
+9 JAK Camp slide
+Hayuliang-Wallong road
+28.08019
+96.54483
+Debris
+Flow
+2013
+1457
+AP/AW/91D8/2022/102
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 3.2 kms 
+along HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.080301
+96.472247
+Debris
+Slide
+NA
+1458
+AR/ANJ/91D12/2014/23
+Arunachal Pradesh
+Anjaw
+ 
+Tohangam-Hayuliang Road
+28.08061
+96.51294
+Rock
+Fall
+May 2014
+1459
+AP/AW/91D8/2022/98
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 4.52 kms 
+along HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.082576
+96.464869
+Debris
+Slide
+NA
+1460
+AP/AW/91D8/2022/99
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 4.4 kms 
+along HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.082618
+96.465189
+Rock
+Slide
+NA
+1461
+AP/AW/91D8/2022/97
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 4.9 kms 
+along HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.083417
+96.461433
+Rock
+Slide
+NA
+1462
+AP/AW/91D8/2022/96
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 5.1 kms 
+along HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.084252
+96.459672
+Debris
+Slide
+NA
+1463
+AP/AW/91D8/2022/95
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 5.7 kms 
+along HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.088159
+96.458999
+Rock
+Slide
+NA
+1464
+AP/AW/91D8/2022/94
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 6 kms along 
+HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.089549
+96.457818
+Debris
+Slide
+NA
+1465
+AP/AW/91D8/2022/93
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 6.5 kms 
+along HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.090087
+96.454067
+Debris
+Slide
+NA
+1466
+AP/AW/91D8/2022/92
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 6.7 kms 
+along HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.0907
+96.45238
+Debris
+Slide
+NA
+1467
+AR/ANJ/93D12/2014/48
+Arunachal Pradesh
+Anjaw
+ 
+Road from Hayuliang to 
+Hamaliang
+28.09311
+96.53622
+Rock
+Slide
+2012
+1468
+AP/E-Siang/82P8/2021/LS1
+Arunachal Pradesh
+East Siang
+LS-1, North west of Pasighat
+Lenging Village (NH-13)
+28.093514
+95.272526
+Earth
+Slide
+NA
+1469
+AP/E-Siang/82P8/2022/LS47
+Arunachal Pradesh
+East Siang
+Rengging Slide
+NH-13, Rengging Slide
+28.094144
+95.282568
+Earth
+Slide
+NA
+1470
+AP/AW/91D8/2022/91
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 8.1 kms 
+along HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.094359
+96.453058
+Rock
+Slide
+NA
+1471
+AP/AW/91D8/2022/90
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 8.4 kms 
+along HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.095602
+96.453246
+Rock
+Slide
+NA
+1472
+AP/E-Siang/82P8/2022/LS48
+Arunachal Pradesh
+East Siang
+Rengging Slide
+NH-13, towards Rengging village 28.095632
+95.281371
+Earth
+Slide
+NA
+1473
+AP/E-Siang/82P8/2021/LS2
+Arunachal Pradesh
+East Siang
+Legging Slide
+Towards Legging Village (NH-13) 28.097043
+95.274751
+Debris
+Slide
+NA
+1474
+AP/E-Siang/82P8/2021/LS3
+Arunachal Pradesh
+East Siang
+LS-3
+NW of LS-2 (400 m)
+28.097163
+95.270824
+Rock
+Wedge failure
+NA
+1475
+AP/E-Siang/82P8/2022/LS49
+Arunachal Pradesh
+East Siang
+Rengging Slide
+NH-13, Rengging Slide
+28.097285
+95.28003
+Debris
+Slide
+NA
+1476
+AP/E-Siang/82P8/2021/LS4
+Arunachal Pradesh
+East Siang
+LS-4
+LS-4
+28.099376
+95.27268
+Rock
+Wedge failure
+NA
+1477
+AP/E-Siang/82P8/2021/LS6
+Arunachal Pradesh
+East Siang
+LS-6
+NH-13
+28.099647
+95.28567
+Debris
+Slide
+NA
+1478
+AP/E-Siang/82P8/2021/LS5
+Arunachal Pradesh
+East Siang
+LS-5
+Rengging Landslide
+28.099657
+95.287831
+Debris
+Slide
+NA
+1479
+AP/E-Siang/82P8/2021/LS7
+Arunachal Pradesh
+East Siang
+LS-7
+NH-13
+28.099705
+95.284891
+Debris
+Slide
+NA
+1480
+AP/E-Siang/82P8/2021/LS8
+Arunachal Pradesh
+East Siang
+LS-8
+Rengging, NH-13
+28.099858
+95.282975
+Debris
+Slide
+NA
+1481
+AP/AW/91D8/2022/88
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 10.45 kms 
+along HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.100244
+96.448173
+Rock
+Slide
+NA
+1482
+AP/AW/91D8/2022/89
+Arunachal Pradesh
+Anjaw
+From Khupa/ KVK Anjaw 10.6 kms 
+along HMH road towards Hunli
+Hunli-Metengliang-Hayuliang 
+(HMH) road
+28.100284
+96.449538
+Rock
+Slide
+NA

@@ -1,0 +1,349 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14791
+442
+Kerala
+Idukki
+Chelakkad
+Malayinji- Chelakkad- Road
+9.861944
+76.886944
+Debris
+Flow
+15th August 2018
+14792
+443
+Kerala
+Idukki
+Chelakkad
+Malayinji- Chelakkad- Road
+9.860657
+76.886985
+Debris
+Slide
+15th August 2018
+14793
+444
+Kerala
+Idukki
+Chelakkad
+Chelakkad
+9.859944
+76.886817
+Debris
+Flow
+15th August 2018
+14794
+445
+Kerala
+Idukki
+Chelakkad
+Malayinji- Chelakkad- Road
+9.860453
+76.887968
+Debris
+Flow
+15th August 2018
+14795
+446
+Kerala
+Idukki
+Idichelakkad
+Malayinji- Chelakkad- Road
+9.8575
+76.888889
+Debris
+Slide
+15th August 2018
+14796
+447
+Kerala
+Idukki
+Idichelakkad
+Malayinji- Chelakkad- Road
+9.856389
+76.888333
+Debris
+Slide
+15th August 2018
+14797
+448
+Kerala
+Idukki
+Chelakkad
+ Chelakkad- Villanthand  Road
+9.858884
+76.890384
+Debris
+Slide
+15th August 2018
+14798
+449
+Kerala
+Idukki
+Chelakkad
+ Chelakkad- Villanthand  Road
+9.861767
+76.887365
+Debris
+Flow
+15th August 2018
+14799
+450
+Kerala
+Idukki
+Chelakkad
+ Chelakkad- Villanthand  Road
+9.863503
+76.88732
+Debris
+Flow
+15th August 2018
+14800
+451
+Kerala
+Idukki
+Chelakkad
+Cheenikkuzhi -  Chelakkad Road 9.868821
+76.885135
+Debris
+Flow
+15th August 2018
+14801
+452
+Kerala
+Idukki
+Chelakkad
+Cheenikkuzhi -  Chelakkad Road 9.858889
+76.886111
+Debris
+Flow
+15th August 2018
+14802
+453
+Kerala
+Idukki
+Chelakkad
+Cheenikkuzhi -  Chelakkad Road 9.859405
+76.884858
+Debris
+Slide
+15th August 2018
+14803
+454
+Kerala
+Idukki
+Chelakkad
+Cheenikkuzhi -  Chelakkad Road 9.85955
+76.884399
+Debris
+Flow
+15th August 2018
+14804
+455
+Kerala
+Idukki
+Chelakkad
+Cheenikkuzhi -  Chelakkad Road 9.867376
+76.885008
+Debris
+Slide
+15th August 2018
+14805
+456
+Kerala
+Idukki
+Kurukkanad
+Cheppukulam - Kurukkanad 
+Road
+9.872228
+76.836263
+Debris
+Slide
+15th August 2018
+14806
+457
+Kerala
+Idukki
+Kurukkanad
+Cheppukulam - Kurukkanad 
+Road
+9.872103
+76.837749
+Debris
+Slide
+15th August 2018
+14807
+458
+Kerala
+Idukki
+Cheppukulam
+Cheppukulam - Paramedu Road 9.859526
+76.847944
+Debris
+Flow
+15th August 2018
+14808
+459
+Kerala
+Idukki
+Kollamkunnu
+Muttam - Kollamkunnu Road
+9.829444
+76.749722
+Debris
+Slide
+15th August 2018
+14809
+460
+Kerala
+Idukki
+Keerithode
+Keerithode - Punnayar road
+9.942178
+76.95499
+Debris
+Flow
+17th August, 2018
+14810
+461
+Kerala
+Idukki
+Megha estate, Kalakkad
+Megha estate road
+9.869258333
+77.12959722
+Debris
+Subsidence
+16th August, 2018
+14811
+462
+Kerala
+Idukki
+Mavadi
+Mavadi road
+9.87465
+77.11937
+Debris
+Subsidence
+16th August, 2018
+14812
+463
+Kerala
+Idukki
+Manjapetti
+Nedumkandam NH19
+9.852386
+77.14712
+Soil
+Slide
+15th August, 2018
+14813
+464
+Kerala
+Idukki
+Ottakada
+Nedumkandam-Munnar Road
+9.855086
+77.150333
+Debris
+Slide
+15-08-2018
+14814
+465
+Kerala
+Idukki
+Ottakada
+Nedumkandam-Munnar Road 
+9.853464
+77.148017
+Debris
+Slide
+15-08-2018
+14815
+466
+Kerala
+Idukki
+Manjapetty
+Adimali - Nedumkandam Road
+9.852998
+77.143156
+Debris
+Slide
+15-08-2018
+14816
+467
+Kerala
+Idukki
+Manjapetty
+Adimali - Nedumkandam Road
+9.852708
+77.143254
+Debris
+Slide
+15-08-2018
+14817
+468
+Kerala
+Idukki
+Charalmedu
+Charalmedu-Kattakkala Road
+9.851094
+77.13268
+Debris
+Flow
+15-08-2018
+14818
+469
+Kerala
+Idukki
+Kattakkala
+Kattakkala - Kurishupara Road
+9.857261
+77.122211
+Debris
+Slide
+15-08-2018
+14819
+470
+Kerala
+Idukki
+Kattakkala
+Kattakkala - Kurishupara Road
+9.86143
+76.842083
+Debris
+Slide
+15-08-2018
+14820
+471
+Kerala
+Idukki
+Kattakkala
+Kattakkala - Kurishupara Road
+9.860469
+77.113791
+Debris
+Flow
+14-08-2018
+14821
+472
+Kerala
+Idukki
+Kattakkala
+Kattakkala - Kurishupara Road
+9.861556
+77.113324
+Debris
+Flow
+15-08-2018

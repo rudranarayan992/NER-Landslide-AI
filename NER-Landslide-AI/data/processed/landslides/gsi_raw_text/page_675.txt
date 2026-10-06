@@ -1,0 +1,373 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+26785
+SKM/Namchi/78A08/2022/Doro
+p I
+Sikkim
+Namchi
+Dorop I Slide
+Melli-Jorethang Road
+27.11955556
+88.32275
+Debris
+Slide
+August 2022
+26786
+SKM/Soreng/78A08/2022/Kamli
+ng/01
+Sikkim
+Soreng
+Kamling
+Jorethang-Legship Road
+27.190191
+88.325507
+Debris
+Slide
+November 2022
+26787
+SKM/Gangtok/78A11/2022
+Sikkim
+Gangtok District
+Lumsay Slide
+Adampul road
+27.32633333
+88.59544444
+Debris
+Slide
+June 2022
+26788
+SKM/Namchi/78A08/2022/Gom 
+I
+Sikkim
+Namchi
+Gom I Slide
+Melli-Jorethang Road
+27.11236111
+88.32455556
+Debris
+Slide
+August 2022
+26789
+SKM/ES/78 A11/2022/TVP-I1
+Sikkim
+ East Sikkim
+Tashi view point-II(TVP-II)
+NH-10, Gangtok-Mangan 
+highway
+27.37211111
+88.61671944
+Debris
+Slide
+29 May 2022
+26790
+SK/ES/78 A07/Marchak
+Sikkim
+ East Sikkim
+Marchak
+Gangtok-Marchak-Singtam road 27.28119444
+88.58952778
+Debris
+Slide
+11th-12th June 2022
+26791
+SKM/ES/78 
+A12/2022/Basnettgaon
+Sikkim
+Pakyong
+Basnettgaon Landslide.
+Old Pakyong Airport Road
+27.24883333
+88.60191667
+Debris
+Slide
+10 October 2022
+26792
+SKM/ES/78 A12/2022/Kitgolai
+Sikkim
+Pakyong
+Kitgolai Landslide
+SH-717
+27.21391667
+88.60833333
+Debris
+Slide
+25 August 2022
+26793
+SKM/ Pakyong/78 
+A11/2022/Lower Samsing Slide
+Sikkim
+Pakyong
+Lower Samsing Slide
+SH 717A
+27.2536
+88.6043
+Debris
+Slide
+August 2022
+26794
+SKM/Gangtok/78A11/2023/01/
+Sokpay
+Sikkim
+Gangtok District
+Sokpay slide
+Sokpay, Dikchu-Radong road
+27.39336667
+88.52236944
+Debris
+Slide
+2016, 2019, 26 March 2023
+26795
+SK/ES/78 A11/Sang
+Sikkim
+ East Sikkim
+Sang
+Gangtok-Singtam Road.
+27.25066667
+88.53144444
+Rock
+Slide
+July 2019, 12 May 2022
+26796
+Sikkim
+Gyalshing
+Sardong slide
+Sardong
+27.26352778
+88.19047222
+Debris
+Slide
+March 2022
+26797
+SK/ES/78 A07/Sherwani 02
+Sikkim
+ East Sikkim
+Sherwani 02
+Singtam-Sherwani road
+27.24297222
+88.47055556
+Debris
+Slide
+15 June 2022
+26798
+SKM/Geyzing/78A08/2022/01
+Sikkim
+Geyzing
+Sikkip
+Jorethang-Legship Road
+27.19950556
+88.32696111
+Debris
+Slide
+October 2020, 20 August 2022
+26799
+SK/ES/78 A07/Singtam
+Sikkim
+ East Sikkim
+Singtam
+Singtam-Mangkha road
+27.238515
+88.48812389
+Debris
+Slide
+May 2022.
+26800
+SKM/ Soreng /78 A08/2022/01
+Sikkim
+Soreng
+01/JR/Sisney Temple
+Jorethang-Legship Road
+27.13689
+88.276598
+Rock
+Slide
+2nd week of August 2022
+26801
+SKM/Namchi/78A08/2022/01
+Sikkim
+Namchi
+Sumbuk
+Melli-Jorethang Road
+27.09725
+88.3825
+Debris
+Slide
+August 2022
+26802
+SKM/Pakyong/78A12/2023
+Sikkim
+Pakyong
+Rangpo Check Post
+Gangtok-Siliguri Road
+27.17748333
+88.52165833
+Debris
+Slide
+July 2020, 4 October 2023
+26803
+SKM/ND/78A08/2023/ Kitam
+Sikkim
+Namchi
+Kitam Landslide
+Kitam Village, Namchi District, 
+Sikkim
+27.10570556
+88.35308056
+Debris
+Slide
+2018, 1st week of October 2024
+26804
+SKM/GD/78 A011/2023/ Luing
+Sikkim
+Gangtok District
+Luing Landslide
+Luing Village, Gangtok
+27.36552778
+88.61596667
+Debris
+Slide
+2nd Week of March 2023
+26805
+SKM/MAN/78A10/10/2023
+Sikkim
+Mangan
+Naga 
+Gangtok-Chungthang Road
+27.54308333
+88.62675
+Debris
+Slide
+NA
+26806
+SKM/MAN/78A11/11/2023
+Sikkim
+Mangan
+South Dikchu
+Dikchu-Makha Road
+27.40251944
+88.51868056
+Debris
+Slide
+4 October 2023
+26807
+SKM/ND/78 A03/2023/Muyung-
+02
+Sikkim
+Namchi
+Muyung-02 Landslide
+Muyung Village, Dentam-
+Namchi SH. 
+27.27872778
+88.12502778
+Debris
+Flow
+2020, 23 September 2023
+26808
+SI/GAN/78A07/2024/48 
+Sikkim
+Gangtok District
+Dipudara landslide 
+NHPC Teesta-V, Singtam-Dikchu 
+road 
+27.2525
+88.4606
+Rock 
+Slide 
+21 August 2024
+26809
+SI/GAN/78A08/2025/01
+Sikkim
+Gangtok District
+Dochum
+Dochum, Singtam-Dickchu road 27.248882
+88.476747
+Debris
+Slide 
+2022, Jun 2024 
+26810
+SI/MAN/78A11/2025/1
+Sikkim
+Mangan
+Phensang Landslide
+NH-310A
+27.4432
+88.6087
+Debris
+Slide 
+21 July 2024
+26811
+SI/GYA/78A03/2025/01
+Sikkim
+Gyalshing
+Rimbi
+Upper Rimbi, Rimbi-Tingbrum 
+Gram Panchayat
+27.327977
+88.152281
+Debris
+Slide 
+11 September 2025
+26812
+SI/GTK/78A11/2025/02
+Sikkim
+Gangtok District
+Tintek Landslide
+SH, Tintek Village, Gangtok 
+District, Sikkim
+27.372611
+88.541022
+Debris
+Slide 
+19 July 2025
+26813
+SI/GTK/78A11/2025/03
+Sikkim
+Gangtok District
+Upper Sichey Landslide
+Near Tamang Gumpa, Gangtok 
+District, Sikkim
+27.33787
+88.609377
+Debris
+Slide 
+31 July 2025 at 18:30 hrs.
+26814
+SK- 24/2011
+Sikkim
+West district
+Tikjuk landslide
+Gyalshim – Dantam Road
+27.29166667
+88.22
+Debris cum rock
+24 June 2011 at 23:30 hrs.
+26815
+SK- 25/2011
+Sikkim
+West district
+Pelling landslide
+Gyalshim – Dantam Road
+27.28777778
+88.23277778
+Debris cum rock
+24 June 2011 at 23:00 hrs.
+26816
+SKM-01/2012-13
+Sikkim
+ East Sikkim
+Saketang
+Rongli-Rolep road
+27.26063889
+88.71438889
+Debris
+Slide 
+7 June 2012 at 4:50 hrs.

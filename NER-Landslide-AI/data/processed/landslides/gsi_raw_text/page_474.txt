@@ -1,0 +1,320 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+19207
+MAN/TAM/83G12/2017/0119
+Manipur
+Tamenglong
+ 
+Dailong road
+25.134944
+93.666667
+Debris
+Slide
+NA
+19208
+MAN/TAM/83G12/2017/0120
+Manipur
+Tamenglong
+ 
+Dailong road
+25.135333
+93.667
+Debris
+Slide
+NA
+19209
+MAN/TAM/83G12/2017/0121
+Manipur
+Tamenglong
+ 
+Dailong road
+25.135861
+93.6675
+Debris
+Slide
+NA
+19210
+MAN/TAM/83G12/2017/0122
+Manipur
+Tamenglong
+ 
+Dailong road
+25.136222
+93.667639
+Debris
+Slide
+NA
+19211
+MAN/TAM/83G12/2017/0123
+Manipur
+Tamenglong
+ 
+Dailong road
+25.138306
+93.669028
+Debris
+Slide
+NA
+19212
+MAN/TAM/83G12/2017/0124
+Manipur
+Tamenglong
+ 
+Dailong road
+25.139167
+93.669444
+Rock
+Fall
+NA
+19213
+MAN/TAM/83G12/2017/0125
+Manipur
+Tamenglong
+ 
+Dailong road
+25.139639
+93.669639
+Rock
+Fall
+NA
+19214
+MAN/UKH/83K08/2015/053
+Manipur
+Ukhrul
+ 
+Ngaingu village
+25.14275
+94.320139
+Debris
+Slide
+NA
+19215
+MAN/UKH/83K08/2015/054
+Manipur
+Ukhrul
+ 
+Ngaingu village
+25.145583
+94.320444
+Earth
+Slide
+NA
+19216
+MAN/TAM/83G12/2017/0126
+Manipur
+Tamenglong
+ 
+Dailong road
+25.14625
+93.671194
+Debris
+Slide
+NA
+19217
+MN/KAN/83G16/2018/007
+Manipur
+Kangpokpi
+Kalikhola Slide II (Old Landslide)
+Kalikhola village
+25.146528
+93.941722
+Debris
+Slide
+4 June 2017, July 2018
+19218
+MAN/TAM/83G12/2017/0127
+Manipur
+Tamenglong
+ 
+Dailong road
+25.151417
+93.672833
+Debris
+Slide
+NA
+19219
+MAN/UKH/83K08/2015/055
+Manipur
+Ukhrul
+ 
+Ngaingu village
+25.151917
+94.312167
+Debris
+Slide
+NA
+19220
+MAN/TAM/83G12/2017/0021
+Manipur
+Tamenglong
+ 
+Govajang road
+25.152167
+93.713083
+Debris
+Slide
+NA
+19221
+MAN/TAM/83G12/2017/0128
+Manipur
+Tamenglong
+ 
+Dailong road
+25.152361
+93.67325
+Rock
+Slide
+NA
+19222
+MAN/TAM/83G12/2017/0022
+Manipur
+Tamenglong
+ 
+Govajang road
+25.152389
+93.712833
+Debris
+Slide
+NA
+19223
+MAN/TAM/83G12/2017/0129
+Manipur
+Tamenglong
+ 
+Dailong road
+25.152472
+93.673667
+Debris
+Slide
+NA
+19224
+MAN/TAM/83G12/2017/0023
+Manipur
+Tamenglong
+ 
+Govajang road
+25.153472
+93.712444
+Debris
+Slide
+NA
+19225
+MAN/UKH/83K08/2015/028
+Manipur
+Ukhrul
+ 
+Ukhrul Jessami road.
+25.153722
+94.461917
+Earth
+Slide
+NA
+19226
+MAN/TAM/83G12/2017/0024
+Manipur
+Tamenglong
+ 
+Govajang road
+25.154917
+93.711278
+Debris
+Slide
+NA
+19227
+MAN/UKH/83K08/2015/029
+Manipur
+Ukhrul
+ 
+Ukhrul Jessami road.
+25.155194
+94.461278
+Debris
+Slide
+NA
+19228
+MAN/TAM/83G12/2017/0052
+Manipur
+Tamenglong
+ 
+Govajang road
+25.155611
+93.676639
+Debris
+Slide
+NA
+19229
+MAN/TAM/83G12/2017/0051
+Manipur
+Tamenglong
+ 
+Govajang road
+25.155861
+93.677306
+Debris
+Slide
+NA
+19230
+MAN/TAM/83G12/2017/0049
+Manipur
+Tamenglong
+ 
+Govajang road
+25.155917
+93.681583
+Rock
+Slide
+NA
+19231
+MAN/TAM/83G12/2017/0050
+Manipur
+Tamenglong
+ 
+Govajang road
+25.156306
+93.678917
+Rock
+Slide
+NA
+19232
+MAN/TAM/83G12/2017/0018
+Manipur
+Tamenglong
+ 
+Govajang road
+25.156722
+93.723889
+Debris
+Slide
+NA
+19233
+MAN/TAM/83G12/2017/0028
+Manipur
+Tamenglong
+ 
+Govajang road
+25.156833
+93.703222
+Debris
+Slide
+NA
+19234
+MAN/TAM/83G12/2017/0138
+Manipur
+Tamenglong
+ 
+Govajang road
+25.157092
+93.682686
+Debris
+Slide
+NA

@@ -1,0 +1,412 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+19681
+MEGH/JH/83C08/2007/D-22
+Meghalaya
+Jaintia Hills
+Tongseng slide
+NH - 44
+25.134194
+92.383528
+Rock cum Debris
+Slide
+31 July 2007
+19682
+MEG/WJH/83C4/2016/141
+Meghalaya
+East Jaintia Hills
+Tongseng
+NH44
+25.134293
+92.38155
+Debris
+Slide
+2010
+19683
+MEG/WJH/83C4/2016/68
+Meghalaya
+East Jaintia Hills
+0.96 km NNE of Tongseng
+NH44
+25.134972
+92.380278
+Rock
+Slide
+2014
+19684
+MEG/WJH/83C4/2016/134
+Meghalaya
+East Jaintia Hills
+1.92 km SE of Lympyngngad
+ 
+25.136047
+92.222064
+Debris
+Slide
+2016
+19685
+MEG/WJH/83C4/2016/44
+Meghalaya
+West Jaintia Hills
+0.50 km S of Hawai Bhoi
+Muktapur ΓÇôSankhat┬á road
+25.143375
+92.141861
+Debris
+Slide
+2010
+19686
+MEG/WJH/83C4/2016/133
+Meghalaya
+East Jaintia Hills
+0.97 km SE of Lympyngngad
+ 
+25.143969
+92.217497
+Debris
+Slide
+2016
+19687
+MEG/WJH/83C4/2016/117
+Meghalaya
+East Jaintia Hills
+0.53 km N of Tongseng
+NH44
+25.14775
+92.375528
+Debris
+Slide
+2016
+19688
+MEG/WJH/83C4/2016/36
+Meghalaya
+West Jaintia Hills
+2.71 km SW of Lympyngad
+Muktapur ΓÇô Lympyngad road 25.147942
+92.181586
+Debris
+Slide
+2016
+19689
+MEG/WJH/83C4/2016/34
+Meghalaya
+West Jaintia Hills
+3.05 km SW of Lympyngad
+Muktapur ΓÇô Lympyngad road 25.148019
+92.178114
+Debris
+Slide
+2016
+19690
+MEG/WJH/83C4/2016/35
+Meghalaya
+West Jaintia Hills
+2.80 km SW of Lympyngad
+Muktapur ΓÇô Lympyngad road 25.148083
+92.180639
+Debris
+Slide
+2016
+19691
+MEG/WJH/83C4/2016/33
+Meghalaya
+West Jaintia Hills
+3.15 km E of Lympyngad
+Muktapur ΓÇô Lympyngad road 25.148158
+92.177172
+Debris
+Slide
+2016
+19692
+MEG/WJH/83C4/2016/32
+Meghalaya
+West Jaintia Hills
+3.25 km SW of Lympyngad
+Muktapur ΓÇô Lympyngad road 25.148303
+92.176236
+Debris
+Slide
+2016
+19693
+MEG/WJH/83C4/2016/31
+Meghalaya
+West Jaintia Hills
+3.36 km SW of Lympyngad
+Muktapur ΓÇô Lympyngad road 25.148747
+92.175119
+Debris
+Slide
+2016
+19694
+MEG/WJH/83C4/2016/118
+Meghalaya
+East Jaintia Hills
+1.09 km NNW of Tongseng
+NH44
+25.149603
+92.367964
+Debris
+Slide
+NA
+19695
+MEG/WJH/83C4/2016/132
+Meghalaya
+East Jaintia Hills
+0.54 km NE of Lympyngngad
+ 
+25.14965
+92.214519
+Debris
+Slide
+2016
+19696
+MEG/WJH/83C4/2016/131
+Meghalaya
+West Jaintia Hills
+0.47 km NE of Lympyngngad
+ 
+25.150286
+92.213508
+Debris
+Slide
+2016
+19697
+MEG/WJH/83C4/2016/37
+Meghalaya
+West Jaintia Hills
+1.75 km NW of Lympyngad
+Muktapur ΓÇô Lympyngad road 25.151189
+92.191308
+Debris
+Slide
+NA
+19698
+MEG/WJH/83C4/2016/38
+Meghalaya
+West Jaintia Hills
+1.37 km NW of Lympyngad
+Muktapur ΓÇô Lympyngad road 25.152367
+92.195708
+Debris
+Slide
+2016
+19699
+MEG/WJH/83C4/2016/39
+Meghalaya
+West Jaintia Hills
+0.58km NNW of Lympyngad
+Muktapur ΓÇô Lympyngad road 25.153272
+92.206058
+Debris
+Slide
+2016
+19700
+MEG/WJH/83C4/2016/41
+Meghalaya
+West Jaintia Hills
+Hawali Tilla
+Muktapur ΓÇôSankhat road
+25.156419
+92.141353
+Debris
+Slide
+2016
+19701
+MEG/WJH/83C4/2016/42
+Meghalaya
+West Jaintia Hills
+0.60 km NW of Lympyngad
+Muktapur ΓÇô Lympyngad┬á 
+road
+25.156542
+92.198469
+Debris
+Slide
+2016
+19702
+MEG/WJH/83C4/2016/43
+Meghalaya
+West Jaintia Hills
+1.40 km NW of Lympyngad
+Muktapur ΓÇô Lympyngad┬á 
+road
+25.156889
+92.198194
+Debris
+Slide
+NA
+19703
+MEG/WJH/83C4/2016/130
+Meghalaya
+East Jaintia Hills
+2.27 km SW of Borghat
+ 
+25.157592
+92.239928
+Debris
+Slide
+2016
+19704
+MG/EKH/78O12/2017/72
+Meghalaya
+East Khasi Hills
+ 
+<Null>
+25.158643
+91.525222
+Rock
+Slide
+NA
+19705
+MEG/WJH/83C4/2016/40
+Meghalaya
+West Jaintia Hills
+Kharkhana┬á
+Muktapur ΓÇô Lympyngad road 25.159367
+92.202078
+Debris
+Slide
+2016
+19706
+MG/EKH/78O12/2017/63
+Meghalaya
+East Khasi Hills
+ 
+<Null>
+25.159469
+91.528337
+Rock
+Slide
+NA
+19707
+MG/EKH/78O12/2017/76
+Meghalaya
+East Khasi Hills
+ 
+<Null>
+25.160222
+91.527843
+Rock
+Slide
+NA
+19708
+MG/EKH/78O08/2017/4
+Meghalaya
+East Khasi Hills
+ 
+<Null>
+25.160398
+91.489558
+Rock
+Slide
+NA
+19709
+MEG/EJH/83C08/2022/01
+Meghalaya
+East Jaintia Hills
+NA
+NA
+25.16400556
+92.38702778
+Debris
+Slide
+2022
+19710
+MEG/WJH/83C4/2016/119
+Meghalaya
+East Jaintia Hills
+Brishyrnot Slide
+Approach to Brishyrnot
+25.164133
+92.417747
+Debris
+Slide
+2016
+19711
+MEG/WJH/83C4/2016/120
+Meghalaya
+East Jaintia Hills
+1.09 km SE of Narphu
+NH44
+25.165028
+92.388056
+Rock
+Slide
+2016
+19712
+MEG/WJH/83C4/2016/121
+Meghalaya
+East Jaintia Hills
+0.63 km SE of Narphu
+NH44
+25.165222
+92.388389
+Debris
+Slide
+2016
+19713
+MG/EKH/78O12/2017/77
+Meghalaya
+East Khasi Hills
+ 
+Along Mawlong Shella road
+25.169159
+91.690014
+Rock
+Slide
+NA
+19714
+MG/EKH/78O12/2017/34
+Meghalaya
+East Khasi Hills
+ 
+Along ShelalSohra road
+25.180032
+91.65815
+Rock
+Slide
+NA
+19715
+MG/EKH/78O12/2017/42
+Meghalaya
+East Khasi Hills
+ 
+Along Hat MawdonShella 
+bypass road
+25.180536
+91.576839
+Rock
+Slide
+NA
+19716
+MG/EKH/78O12/2017/28
+Meghalaya
+East Khasi Hills
+ 
+Along LawbahHat Mawdon
+25.18092
+91.570335
+Rock
+Slide
+NA
+19717
+MG/EKH/78O12/2017/12
+Meghalaya
+East Khasi Hills
+ 
+Along LawbahHat Mawdon
+25.181759
+91.573658
+Rock
+Slide
+NA

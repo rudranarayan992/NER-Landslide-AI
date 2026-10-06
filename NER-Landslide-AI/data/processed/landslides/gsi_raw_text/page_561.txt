@@ -1,0 +1,338 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22144
+MZ/AIZ/84A10/2015/206
+Mizoram
+Aizawl
+ 
+Zonuam Veng, on Mizoram 
+University - Aizawl Rd
+23.739417
+92.699917
+Rock
+Slide
+NA
+22145
+MZ/AIZ/84A10/2015/220
+Mizoram
+Aizawl
+ 
+Hunthar, NH-54 Aizawl - 
+Lengpui(Airport) - Silchar
+23.740028
+92.709861
+Rock
+Slide
+NA
+22146
+MZ/AIZ/84A14/2015/99
+Mizoram
+Aizawl
+ 
+SE of Dilkhan Village, Saitual-
+Dilkhan-Phullen Rd
+23.740306
+92.965389
+Debris
+Slide
+NA
+22147
+MZ/AIZ/84A14/2015/90
+Mizoram
+Aizawl
+ 
+Airfield Veng, Near Bamboo link 
+road, NH-54 Aizawl-Seling
+23.740417
+92.795083
+Rock
+Slide
+NA
+22148
+MZ/AIZ/84A10/2015/216
+Mizoram
+Aizawl
+ 
+Thuampui, Kendriya Vidhyalaya 
+Pushpak Aizawl
+23.741389
+92.739528
+Debris
+Slide
+NA
+22149
+MZ/AIZ/84A10/2015/225
+Mizoram
+Aizawl
+ 
+Ramhlun Sports Complex and 
+Ramhlun Vengthar areas, Near 
+Presbyterian Church
+23.741806
+92.72525
+Debris
+Subsidence
+NA
+22150
+MZ/CHA/84E06/2017/20
+Mizoram
+Champhai
+ 
+12 km N of Hnahlan
+23.741851
+93.377004
+Debris
+Slide
+NA
+22151
+MZ/CHA/84E06/2017/6
+Mizoram
+Champhai
+ 
+13km N of Hnahlan
+23.742696
+93.378058
+Debris
+Slide
+NA
+22152
+MZ/CHA/84E02/2017/21
+Mizoram
+Champhai
+ 
+4km w of Hliappui
+23.742754
+93.094558
+Rock
+Slide
+NA
+22153
+MZ/AIZ/84A10/2015/226
+Mizoram
+Aizawl
+ 
+Ramhlun Vengthar
+23.742861
+92.725389
+Rock
+Slide
+NA
+22154
+MZ/AIZ/84A10/2015/184
+Mizoram
+Aizawl
+ 
+Tanhril near the Spring, Tanhril - 
+Aizawl
+23.743694
+92.679028
+Rock
+Slide
+NA
+22155
+MZ/AIZ/84A10/2014/01
+Mizoram
+Aizawl
+Laiputlang
+Laiputlang
+23.74372
+92.72417
+Rock cum Debris
+Slide
+NA
+22156
+MZ/AIZ/84A10/2015/185
+Mizoram
+Aizawl
+ 
+Northeast of  Luangmual, 
+Mizoram Univ. - Aizawl via NH 
+44A
+23.744028
+92.698861
+Rock
+Slide
+NA
+22157
+MIZO/AIZ/84A10/2007/E-4
+Mizoram
+Aizawl
+Ramhlun Vengther slide
+ 
+23.744167
+92.730472
+Rock
+Slide
+2 September and 8 September 2007
+22158
+MZ/AIZ/84A14/2015/98
+Mizoram
+Aizawl
+ 
+4 km south of Dilkhan village, 
+Saitual-Dilkhan Rd
+23.74425
+92.968472
+Debris
+Slide
+NA
+22159
+MZ/AIZ/84A10/2015/227
+Mizoram
+Aizawl
+ 
+Laiputlang Landslide, Laiputlang 23.744303
+92.720114
+Rock
+Slide
+NA
+22160
+MZ/AIZ/84A10/2015/221
+Mizoram
+Aizawl
+ 
+Rangvamul, NH-54 Aizawl - 
+Lengpui(Airport) - Silchar
+23.744972
+92.702889
+Rock
+Slide
+NA
+22161
+MZ/AIZ/84A10/2015/187
+Mizoram
+Aizawl
+ 
+Luangmual, Mizoram Univ. - 
+Aizawl via NH 44A
+23.745083
+92.6955
+Debris
+Slide
+NA
+22162
+MZ/AIZ/84A10/2015/188
+Mizoram
+Aizawl
+ 
+Luangmual Near Power Station, 
+Mizoram Univ. - Aizawl
+23.745444
+92.749556
+Rock
+Slide
+NA
+22163
+MZ/AIZ/84A10/2015/186
+Mizoram
+Aizawl
+ 
+Luangmual, Mizoram Univ. - 
+Aizawl via NH 44A
+23.745639
+92.694361
+Rock
+Slide
+NA
+22164
+MZ/AIZ/84A10/2015/222
+Mizoram
+Aizawl
+ 
+Rangvamul, NH-54 Aizawl - 
+Lengpui(Airport) - Silchar
+23.746722
+92.695972
+Debris
+Slide
+NA
+22165
+MZ/CHA/84E06/2017/22
+Mizoram
+Champhai
+ 
+14km N of Hnahlan
+23.746832
+93.377656
+Rock
+Slide
+NA
+22166
+MZ/CHA/84E06/2017/12
+Mizoram
+Champhai
+ 
+15kmN of Hnahlan
+23.747111
+93.378258
+Debris
+Slide
+NA
+22167
+MZ/AIZ/84A10/2015/223
+Mizoram
+Aizawl
+ 
+Rangvamul, NH-54 Aizawl - 
+Lengpui(Airport) - Silchar
+23.747444
+92.696194
+Rock
+Slide
+NA
+22168
+MZ/CHA/84E06/2017/29
+Mizoram
+Champhai
+ 
+11 km N of Hnahlan
+23.747943
+93.374597
+Debris
+Slide
+NA
+22169
+MZ/AIZ/84A10/2015/116
+Mizoram
+Aizawl
+ 
+Rangvamul Landslide, 
+Rangvamul, NH-54 Aizawl - 
+Lengpui(Airport) - Silchar
+23.749722
+92.693781
+Rock
+Slide
+NA
+22170
+MZ/CHA/84E02/2017/0121
+Mizoram
+Champhai
+ 
+Towards Saichal from hliappui
+23.749805
+93.099227
+Rock
+Slide
+NA
+22171
+MZ/CHA/84E01/2017/7
+Mizoram
+Champhai
+ 
+HliappuiChangzawl section
+23.750139
+93.098167
+Rock
+Slide
+NA

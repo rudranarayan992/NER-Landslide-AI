@@ -1,0 +1,539 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+17483
+7285
+Maharashtra
+Pune
+Kalambi
+Kalambi road
+18.26927
+73.60043
+Debris
+Slide
+20 August 2025
+17484
+7286
+Maharashtra
+Pune
+Kalambi
+Kalambi road
+18.26931
+73.60056
+Debris
+Slide
+20 August 2025
+17485
+7287
+Maharashtra
+Pune
+Kalambi
+Kalambi road
+18.27354
+73.602259
+Debris
+Slide
+19 August 2025
+17486
+7288
+Maharashtra
+Pune
+Mutha
+Temghar road
+18.46299
+73.63227
+Rock
+Slide
+21 August 2025
+17487
+7289
+Maharashtra
+Pune
+Lavasa
+Lavasa road
+18.40566
+73.51608
+Debris
+Slide
+26 July 2025
+17488
+7290
+Maharashtra
+Pune
+Lavasa
+lavasa road
+18.40485
+73.51162
+Debris
+Slide
+26 July 2025
+17489
+7291
+Maharashtra
+Pune
+Sonapur Peth
+Panshet road
+18.39178
+73.67608
+Debris
+Slide
+25 July 2025
+17490
+7292
+Maharashtra
+Pune
+Sonapur
+Panshet road
+18.38673
+73.66317
+Debris
+Slide
+25 July 2025
+17491
+7293
+Maharashtra
+Pune
+Ambee village
+18.38386
+73.63431
+Debris
+Slide
+26 July 2025
+17492
+7294
+Maharashtra
+Pune
+Padalshar
+temghar- lavasa road
+18.39019
+73.51371
+Debris
+Slide
+NA
+17493
+7295
+Maharashtra
+Pune
+lavasa
+Lavasa colony
+18.41068
+73.50163
+Debris
+Slide
+21 August 2025
+17494
+7296
+Maharashtra
+Pune
+Lavasa city
+18.39956
+73.496392
+Debris
+Slide
+2025
+17495
+7297
+Maharashtra
+Pune
+Sinhagad
+Sinhagad road
+18.386352
+73.774582
+Rock
+Slide
+NA
+17496
+7298
+Maharashtra
+Pune
+Sinhagad
+Sinhagad road
+18.386385
+73.774554
+Debris
+Slide
+2025
+17497
+7299
+Maharashtra
+Pune
+Sinhagad
+Sinhagad road
+18.38016
+73.77685
+Debris
+Slide
+27 August 2025
+17498
+7300
+Maharashtra
+Pune
+Sinhagad
+Sinhagad road
+18.3619
+73.77245
+Rock
+Slide
+27 August 2025
+17499
+7301
+Maharashtra
+Pune
+Awanse nagar road
+18.36807
+73.77814
+Debris
+Slide
+20 July 2025
+17500
+7302
+Maharashtra
+Pune
+Sinhagad 
+18.38201
+73.7594
+Rock
+Slide
+20 July 2025
+17501
+7303
+Maharashtra
+Pune
+Sinhagad road
+18.38249
+73.77577
+Rock
+Slide
+20 July 2025
+17502
+7304
+Maharashtra
+Pune
+Tamhini ghat
+18.47662
+73.45907
+Debris
+Slide
+21 August 2025
+17503
+7305
+Maharashtra
+Pune
+Tamhini ghat
+18.487
+73.42174
+Debris
+Slide
+21 August 2024
+17504
+7306
+Maharashtra
+Raigad
+Tamhini ghat
+18.39979
+73.37968
+Debris
+Slide
+21 August 2025
+17505
+7307
+Maharashtra
+Raigad
+Tamhini ghat
+18.38809
+73.38825
+Debris
+Slide
+20 August 2025
+17506
+7308
+Maharashtra
+Raigad
+Tamhini Ghat
+18.38631
+73.38888
+Rock
+Slide
+20 August 2025
+17507
+7309
+Maharashtra
+Raigad
+Tamhini Ghat
+18.39955
+73.3856
+Rock
+Slide
+20 August 2025
+17508
+7310
+Maharashtra
+Pune
+Visapur road
+18.71584
+73.4609
+Debris
+Slide
+20 August 2025
+17509
+7311
+Maharashtra
+Pune
+Visapur Road
+18.71578
+73.46041
+Debris
+Slide
+20 August 2025
+17510
+7312
+Maharashtra
+Pune
+Dudhiware Khind
+18.71404
+73.45972
+Debris
+Slide
+20 August 2025
+17511
+7313
+Maharashtra
+Pune
+Dudhiware Khind road
+18.71317
+73.46003
+Debris
+Slide
+20 August 2025
+17512
+7314
+Maharashtra
+Pune
+Khumbheri
+Lonavala Road
+18.60092
+73.41089
+Debris
+Slide
+17 July 2025
+17513
+7315
+Maharashtra
+Pune
+Visaghar
+18.63083
+73.41822
+Debris
+Slide
+20 August 2025
+17514
+7316
+Maharashtra
+Pune
+Visaghar road
+18.63087
+73.41815
+Debris
+Slide
+21 August 2025
+17515
+7317
+Maharashtra
+Pune
+Lavasa
+Lavasa road
+18.397109
+73.518177
+Debris
+Flow
+25 July 2024, 2:30am
+17516
+7318
+Maharashtra
+Pune
+Katraj Ghat road
+18.3961
+73.85762
+Rock
+Slide
+19 August 2025
+17517
+7319
+Maharashtra
+Pune
+Katraj Ghat road
+18.4095
+73.85817
+Rock
+Slide
+19 August 2025
+17518
+7320
+Maharashtra
+Pune
+Katraj Ghat road
+18.41885
+73.85771
+Rock
+Slide
+20 August 2025
+17519
+7321
+Maharashtra
+Ahilyanagar
+Ambit to Laveli road
+19.454456
+73.793665
+Debris
+Slide
+NA
+17520
+7322
+Maharashtra
+Ahilyanagar
+Pachnai road
+19.430999
+73.784079
+Debris
+Slide
+2025
+17521
+7323
+Maharashtra
+Pune
+Malshej 
+Malshej Ghat
+19.342336
+73.753465
+Debris
+Slide
+NA
+17522
+7325
+Maharashtra
+Pune
+Malshej Ghat road
+19.342442
+73.755825
+Debris
+Slide
+NA
+17523
+7326
+Maharashtra
+Pune
+Malshej Ghat road
+19.347716
+73.770507
+Debris
+Slide
+NA
+17524
+7327
+Maharashtra
+Pune
+Malshej Ghat road
+19.342761
+73.77031
+Debris
+Slide
+NA
+17525
+7328
+Maharashtra
+Pune
+Malshej Ghat road
+19.342468
+73.770299
+Debris
+Slide
+NA
+17526
+7329
+Maharashtra
+Pune
+Malshej Ghat road
+19.341815
+73.76967
+Debris
+Slide
+NA
+17527
+7330
+Maharashtra
+Pune
+Malshej Ghat road
+19.3348949
+73.784886
+Debris
+Slide
+NA
+17528
+7331
+Maharashtra
+Pune
+Malshej Ghat road
+19.778579
+73.784894
+Debris
+Slide
+27 July 2025
+17529
+7332
+Maharashtra
+Pune
+Malshej Ghat road
+19.338169
+73.784959
+Rock
+Topple
+27 July 2025
+17530
+7333
+Maharashtra
+Pune
+Malshej Ghat road
+19.335403
+73.783893
+Debris
+Slide
+27 July 2025
+17531
+7334
+Maharashtra
+Raigad
+Mithekhar
+18.51905
+72.961793
+Debris
+Slide
+19 August 2025
+17532
+7341
+Maharashtra
+Raigad
+Dongari
+18.482179
+73.068593
+Debris
+Slide
+15 July 2025
+17533
+7342
+Maharashtra
+Raigad
+Bhisekind
+18.51037
+73.125529
+Debris
+Slide
+19 August 2025

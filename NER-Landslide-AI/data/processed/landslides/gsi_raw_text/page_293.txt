@@ -1,0 +1,479 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12570
+KA/UK/48J01/2015/121
+Karnataka
+Uttar Kannada
+ 
+Gopshitta on main road
+14.908917
+74.20405
+Debris
+Slide
+NA
+12571
+KA/UK/48J01/2015/123
+Karnataka
+Uttar Kannada
+ 
+Grijabai sail institute of 
+technology
+14.910767
+74.098519
+Debris
+Slide
+NA
+12572
+KA/UK/48J01/2015/122
+Karnataka
+Uttar Kannada
+ 
+Grijabai sail institute of 
+technology
+14.911914
+74.101367
+Debris
+Slide
+NA
+12573
+KA/UK/48J05/2015/37
+Karnataka
+Uttar Kannada
+ 
+ 
+14.9304
+74.3575
+Debris
+Slide
+NA
+12574
+KA/UK/48J05/2015/38
+Karnataka
+Uttar Kannada
+ 
+ 
+14.9354
+74.3602
+Debris
+Slide
+NA
+12575
+KA/UK/48J01/2015/98
+Karnataka
+Uttar Kannada
+ 
+South Goa/shelli village
+14.938647
+74.066544
+Debris
+Slide
+NA
+12576
+KA/UK/48J01/2015/89
+Karnataka
+Uttar Kannada
+ 
+South Goa/1.2 km from Lolien 
+village
+14.940944
+74.073261
+Debris
+Slide
+NA
+12577
+KA/UK/48J01/2015/88
+Karnataka
+Uttar Kannada
+ 
+South Goa/1.2 km from Lolien 
+village
+14.941061
+74.072997
+Debris
+Slide
+NA
+12578
+KA/UK/48J05/2015/40
+Karnataka
+Uttar Kannada
+ 
+ 
+14.9413
+74.3611
+Debris
+Slide
+NA
+12579
+KA/UK/48J05/2015/39
+Karnataka
+Uttar Kannada
+ 
+ 
+14.9449
+74.3613
+Debris
+Slide
+NA
+12580
+KA/UK/48J01/2015/90
+Karnataka
+Uttar Kannada
+ 
+South Goa/Lolien village
+14.946756
+74.068536
+Debris
+Slide
+NA
+12581
+KA/UK/48J01/2015/91
+Karnataka
+Uttar Kannada
+ 
+South Goa/Agasgalli village
+14.954078
+74.061417
+Debris
+Slide
+NA
+12582
+KA/UK/48J01/2015/92
+Karnataka
+Uttar Kannada
+ 
+South Goa/Agas Village
+14.954614
+74.061364
+Debris
+Slide
+NA
+12583
+KA/UK/48J01/2015/93
+Karnataka
+Uttar Kannada
+ 
+South Goa/2km from mashen
+14.9573
+74.060078
+Debris
+Slide
+NA
+12584
+KA/UK/48J01/2015/94
+Karnataka
+Uttar Kannada
+ 
+South Goa/Mashen village
+14.959956
+74.054328
+Debris
+Slide
+NA
+12585
+KA/UK/48J01/2015/96
+Karnataka
+Uttar Kannada
+ 
+South Goa
+14.965842
+74.079686
+Debris
+Slide
+NA
+12586
+KA/UK/48J01/2015/95
+Karnataka
+Uttar Kannada
+ 
+South Goa/on NH-17 1.5 km 
+fromTamanen village
+14.966778
+74.077769
+Debris
+Slide
+NA
+12587
+KA/UK/48J09/2015/25
+Karnataka
+Uttar Kannada
+ 
+ 
+14.974
+74.5761
+Debris
+Slide
+NA
+12588
+KA/UK/48J09/2015/24
+Karnataka
+Uttar Kannada
+ 
+ 
+14.9854
+74.5903
+Debris
+Slide
+NA
+12589
+KA/UK/48J09/2015/35
+Karnataka
+Uttar Kannada
+ 
+ 
+14.9972
+74.6548
+Debris
+Slide
+NA
+12590
+KA/UK/48J01/2015/97
+Karnataka
+Uttar Kannada
+ 
+South Goa
+14.997794
+74.067614
+Debris
+Slide
+NA
+12591
+KA/UTT/48I12/2020/22
+Karnataka
+Uttar Kannada
+Bisgod
+Bisgod
+15
+74.65
+Debris
+Slide
+2019
+12592
+KA/UTT/48I08/2018/14
+Karnataka
+Uttar Kannada
+S of Badapohl
+S of Badapohl
+15.002611
+74.359056
+Debris
+Slide
+NA
+12593
+KA/UTT/48I08/2018/15
+Karnataka
+Uttar Kannada
+S of Badapohl
+S of Badapohl
+15.003167
+74.358917
+Debris
+Slide
+NA
+12594
+KA/UTT/48I08/2018/13
+Karnataka
+Uttar Kannada
+3 km N of Anshi, SH 34
+3 km N of Anshi, SH 34
+15.004667
+74.358306
+Debris
+Slide
+NA
+12595
+KA/UTT/48I08/2018/27
+Karnataka
+Uttar Kannada
+Anshi-Ulavi Road
+Anshi-Ulavi Road
+15.012778
+74.400333
+Debris
+Slide
+NA
+12596
+KA/UTT/48I08/2018/26
+Karnataka
+Uttar Kannada
+Anshi-Ulavi Road
+Anshi-Ulavi Road
+15.013111
+74.402306
+Debris
+Slide
+NA
+12597
+KA/UTT/48I08/2018/25
+Karnataka
+Uttar Kannada
+3.5km SW of Nergali
+3.5km SW of Nergali
+15.013528
+74.404222
+Debris
+Slide
+NA
+12598
+KA/UTT/48I08/2018/24
+Karnataka
+Uttar Kannada
+2km  W of Kodgali
+2km  W of Kodgali
+15.01375
+74.406167
+Rock
+Slide
+NA
+12599
+KA/UTT/48I08/2018/21
+Karnataka
+Uttar Kannada
+1.2km NE of Kadargani
+1.2km NE of Kadargani
+15.019861
+74.498
+Debris
+Slide
+NA
+12600
+KA/UTT/48I08/2018/23
+Karnataka
+Uttar Kannada
+1 km W of Khamshetadi
+1 km W of Khamshetadi
+15.021
+74.434361
+Debris
+Slide
+NA
+12601
+KA/UTT/48I08/2018/20
+Karnataka
+Uttar Kannada
+1km NE of Kadargani
+1km NE of Kadargani
+15.022417
+74.497472
+Debris
+Slide
+NA
+12602
+KA/UTT/48I08/2018/22
+Karnataka
+Uttar Kannada
+2 km SE of Pasoli
+2 km SE of Pasoli
+15.02325
+74.445278
+Debris
+Slide
+NA
+12603
+KA/UTT/48I12/2020/16
+Karnataka
+Uttar Kannada
+Shivalli village
+Shivalli village
+15.03
+74.56
+Earth
+Creep
+2019
+12604
+KA/UTT/48I12/2020/17
+Karnataka
+Uttar Kannada
+ Karkamane village
+ Karkamane village
+15.04
+74.55
+Earth
+Slide
+2019
+12605
+KA/UTT/48I12/2020/21
+Karnataka
+Uttar Kannada
+ Dhumma Gudda
+ Dhumma Gudda
+15.04
+74.64
+Debris
+Slide
+2019
+12606
+KA/UTT/48I12/2020/24
+Karnataka
+Uttar Kannada
+Narasur village 
+Narasur village 
+15.04
+74.64
+Earth
+Slide
+2019
+12607
+KA/UTT/48I08/2018/12
+Karnataka
+Uttar Kannada
+0.5 km W of Dudgali
+0.5 km W of Dudgali
+15.041722
+74.349333
+Debris
+Slide
+NA
+12608
+KA/UTT/48I12/2020/23
+Karnataka
+Uttar Kannada
+ Narsur village
+ Narsur village
+15.05
+74.63
+Debris
+Slide
+2019
+12609
+KA/UTT/48I12/2020/15
+Karnataka
+Uttar Kannada
+Nandigade village
+Nandigade village
+15.06
+74.55
+Earth
+Slide
+2019
+12610
+KA/UTT/48I12/2020/7
+Karnataka
+Uttar Kannada
+Ambikanagara (road to PH)
+Ambikanagara (road to PH)
+15.09
+74.65
+Debris
+Flow
+2019
+12611
+KA/UTT/48I12/2020/8
+Karnataka
+Uttar Kannada
+Ambikanagara (road to PH)
+Ambikanagara (road to PH)
+15.09
+74.65
+Debris
+Flow
+2019

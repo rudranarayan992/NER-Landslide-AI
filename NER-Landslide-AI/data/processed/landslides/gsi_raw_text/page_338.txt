@@ -1,0 +1,247 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14189
+KRL/PKD/58B11/2018/59
+Kerala
+Palakkad
+Way to Brookland estate, 
+Neeliampathy
+10.453812
+76.66986
+Debris
+slide
+Initiated on 16/8/18
+14190
+KRL/PKD/58B11/2018/60
+Kerala
+Palakkad
+Way to Brookland estate, 
+Neeliampathy
+10.45312
+76.669093
+Debris
+Subsidence
+Initiated on 16/8/18
+14191
+KRL/PKD/58B11/2018/61
+Kerala
+Palakkad
+Way to Brookland estate, 
+Neeliampathy
+10.45275
+76.668552
+Debris
+Subsidence
+Initiated on 16/8/18
+14192
+KRL/PKD/58B11/2018/62
+Kerala
+Palakkad
+Way to Brookland estate, 
+Neeliampathy
+10.45264
+76.668505
+Debris
+Subsidence
+Initiated on 16/8/18
+14193
+KRL/PKD/58B11/2018/63
+Kerala
+Palakkad
+Way to Brookland estate, 
+Neeliampathy
+10.451523
+76.666232
+Debris
+Subsidence
+Initiated on 16/8/18
+14194
+KRL/PKD/58B13/2018/221
+Kerala
+Palakkad
+Kanjikode, Pudussery central 
+village, Palakkad Taluk
+10.837669
+76.773925
+Debris
+Flow
+Initiated in 2013 monsoon
+14195
+KRL/PKD/58B13/2018/222
+Kerala
+Palakkad
+Kanjikode, Pudussery central 
+village, Palakkad Taluk
+10.833003
+76.775271
+rock cum debris
+slide
+Initiated on 16/8/18
+14196
+KRL/PKD/58B13/2018/223
+Kerala
+Palakkad
+Kanjikode, Pudussery central 
+village, Palakkad Taluk
+10.828658
+76.777358
+rock cum debris
+slide
+Initiated on 16/8/18
+14197
+KRL/PKD/58B13/2018/224
+Kerala
+Palakkad
+Kanjikode, Pudussery central 
+village, Palakkad Taluk
+10.834661
+76.76178
+rock cum debris
+slide
+Initiated on 16/8/18
+14198
+KRL/PKD/58B13/2018/225
+Kerala
+Palakkad
+Kanjikode, Pudussery central 
+village, Palakkad Taluk
+10.833542
+76.760691
+rock cum debris
+slide
+Initiated on 16/8/18
+14199
+KRL/PKD/58B13/2018/226
+Kerala
+Palakkad
+Kanjikode, Pudussery central 
+village, Palakkad Taluk
+10.833465
+76.774026
+rock cum debris
+slide
+Initiated on 16/8/18
+14200
+KRL/PKD/58B13/2018/227
+Kerala
+Palakkad
+Kanjikode, Pudussery central 
+village, Palakkad Taluk
+10.836851
+76.778284
+rock cum debris
+slide
+Initiated on 16/8/18
+14201
+KRL/PKD/58B13/2018/228
+Kerala
+Palakkad
+Kanjikode, Pudussery central 
+village, Palakkad Taluk
+10.827964
+76.778161
+Debris
+slide
+Initiated on 16/8/18
+14202
+KRL/PKD/58B13/2018/229
+Kerala
+Palakkad
+Kanjikode, Pudussery central 
+village, Palakkad Taluk
+10.827618
+76.776995
+rock cum debris
+slide
+Initiated on 16/8/18
+14203
+KRL/PKD/58B15/2018/51
+Kerala
+Palakkad
+Poopara colony slide
+Muthalamada I village, Chittur 
+Taluk
+10.355205
+76.811528
+Debris
+slide
+Initiated on 16/8/18
+14204
+KRL/PKD/58B15/2018/52
+Kerala
+Palakkad
+Poopara colony slide
+Muthalamada I village, Chittur 
+Taluk
+10.355887
+76.819293
+NA
+Initiated on 16/8/18
+14205
+KRL/PKD/58B15/2018/53
+Kerala
+Palakkad
+Poopara colony slide
+Muthalamada I village, Chittur 
+Taluk
+10.352907
+76.819293
+Debris
+slide
+Initiated on 16/8/18
+14206
+KRL/PKD/58B15/2018/65
+Kerala
+Palakkad
+Prambikulam tiger reserve 
+forest
+10.421672
+76.767213
+Debris
+slide
+Initiated on 15/8/18
+14207
+KRL/PKD/58B15/2018/66
+Kerala
+Palakkad
+Prambikulam tiger reserve 
+forest
+10.421888
+76.766492
+Debris
+slide
+Initiated on 15/8/18
+14208
+KRL/PKD/58B5/2018/04
+Kerala
+Palakkad
+Karattukurissi subsidence
+Karattukurissi Village, 
+Ottapalam taluk 
+10.848643
+76.319883
+Debris
+subsidence
+Initiated on 16/8/2018
+14209
+KRL/PKD/58B5/2018/05
+Kerala
+Palakkad
+Mattummal colony subsidence
+Mattummal Colony,Thrikkaderi 
+Village, Ottapalam taluk 
+10.851405
+76.31827
+Debris
+subsidence
+2007, 16/08/2018

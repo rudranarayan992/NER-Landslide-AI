@@ -1,0 +1,399 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+7477
+HP/KUL/52H03/2015/68
+Himachal Pradesh
+Kullu
+ 
+Marhi-Palchan Road NH-21
+32.3342
+77.2165
+Debris
+Slide
+NA
+7478
+HP/KUL/52H03/2015/67
+Himachal Pradesh
+Kullu
+ 
+Marhi-Palchan Road NH-21
+32.3353
+77.2174
+Debris
+Slide
+NA
+7479
+HP/KUL/52H03/2015/108
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3354
+77.1426
+Debris
+Slide
+NA
+7480
+HP/KUL/52H03/2015/66
+Himachal Pradesh
+Kullu
+ 
+Marhi-Palchan Road NH-21
+32.3361
+77.2181
+Rock
+Slide
+NA
+7481
+HP/KUL/52H03/2015/107
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3382
+77.1416
+Rock
+Topple
+NA
+7482
+HP/KAN/43P15/2020/89
+Himachal Pradesh
+Kangra
+ 
+Maira village
+32.34
+75.83
+Debris
+Slide
+NA
+7483
+HP/CHA/52D03/2020/84
+Himachal Pradesh
+Chamba
+Kunjar Mahadev
+Patka-Kunjar-Mahadev link 
+road
+32.34
+76.03
+Debris
+Slide
+2017
+7484
+HP/CHA/52D03/2020/85
+Himachal Pradesh
+Chamba
+Kunjar Mahadev
+Patka-Kunjar-Mahadev link 
+road
+32.34
+76.03
+Debris
+Slide
+2010
+7485
+HP/CHA/52D11/2020/119
+Himachal Pradesh
+Chamba
+ 
+Holi-Naya Gaon Rd
+32.34
+76.53
+Rock
+Slide
+NA
+7486
+HP/CHA/52D11/2020/127
+Himachal Pradesh
+Chamba
+ 
+Sukra-Holi-Naya Gaon Rd
+32.34
+76.53
+Rock
+Slide
+NA
+7487
+HP/CHA/52D11/2020/128
+Himachal Pradesh
+Chamba
+ 
+Sukra-Holi-Naya Gaon Rd
+32.34
+76.54
+Debris
+Slide
+NA
+7488
+HP/KUL/52H03/2015/106
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3405
+77.1405
+Debris
+Slide
+NA
+7489
+HP/KUL/52H03/2015/95
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3408
+77.1372
+Debris
+Slide
+NA
+7490
+HP/KUL/52H03/2015/65
+Himachal Pradesh
+Kullu
+ 
+Marhi-Palchan Road NH-21
+32.3415
+77.2167
+Debris
+Slide
+NA
+7491
+HP/KUL/52H03/2015/94
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3418
+77.1403
+Debris
+Slide
+NA
+7492
+HP/KUL/52H03/2015/93
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3437
+77.1361
+Debris
+Subsidence
+NA
+7493
+HP/KUL/52H03/2015/64
+Himachal Pradesh
+Kullu
+ 
+Marhi-Palchan Road NH-21
+32.3437
+77.2175
+Debris
+Slide
+NA
+7494
+HP/KUL/52H03/2015/92
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3438
+77.1365
+Rock
+Slide
+NA
+7495
+HP/KUL/52H03/2015/91
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3459
+77.1332
+Debris
+Slide
+NA
+7496
+HP/KUL/52H03/2015/116
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3463
+77.1382
+Debris
+Slide
+NA
+7497
+HP/KUL/52H03/2015/90
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3484
+77.1317
+Debris
+Slide
+NA
+7498
+HP/KUL/52H03/2015/63
+Himachal Pradesh
+Kullu
+ 
+Marhi-Palchan Road NH-21
+32.3485
+77.2218
+Rock
+Topple
+NA
+7499
+HP/KUL/52H03/2015/89
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3489
+77.1314
+Debris
+Slide
+NA
+7500
+HP/CHA/52D11/2020/114
+Himachal Pradesh
+Chamba
+ 
+Holi-Naya Gaon Rd
+32.35
+76.53
+Rock
+Slide
+NA
+7501
+HP/CHA/52D11/2020/115
+Himachal Pradesh
+Chamba
+ 
+Holi-Naya Gaon Rd
+32.35
+76.53
+Rock
+Slide
+NA
+7502
+HP/CHA/52D11/2020/116
+Himachal Pradesh
+Chamba
+ 
+Holi-Naya Gaon Rd
+32.35
+76.53
+Debris
+Slide
+NA
+7503
+HP/CHA/52D11/2020/117
+Himachal Pradesh
+Chamba
+ 
+Holi-Naya Gaon Rd
+32.35
+76.53
+Debris
+Slide
+NA
+7504
+HP/KUL/52H03/2015/105
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3507
+77.1319
+Debris
+Slide
+NA
+7505
+HP/KUL/52H03/2015/88
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3512
+77.1295
+Debris
+Slide
+NA
+7506
+HP/KUL/52H03/2015/104
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3516
+77.1312
+Debris
+Slide
+NA
+7507
+HP/KUL/52H03/2015/61
+Himachal Pradesh
+Kullu
+ 
+Rohtang-Marhi Road NH-21
+32.3535
+77.2183
+Debris
+Slide
+NA
+7508
+HP/KUL/52H03/2015/62
+Himachal Pradesh
+Kullu
+#N/A
+#N/A
+32.3537
+77.2168
+Debris
+Subsidence
+NA
+7509
+HP/KUL/52H03/2015/102
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3545
+77.1303
+Debris
+Slide
+NA
+7510
+HP/KUL/52H03/2015/60
+Himachal Pradesh
+Kullu
+ 
+Rohtang-Marhi Road NH-21
+32.3545
+77.2199
+Debris
+Slide
+NA
+7511
+HP/KUL/52H03/2015/103
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3546
+77.1287
+Debris
+Slide
+NA

@@ -1,0 +1,399 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22380
+MZ/AIZ/84E01/2017/88
+Mizoram
+Aizawl
+ 
+SuangpuilawnZawngin section
+23.913445
+93.023941
+Debris
+Slide
+NA
+22381
+MZ/CHA/84E01/2017/24
+Mizoram
+Champhai
+ 
+Ngopa village, 0 point to Tuivai 
+river
+23.914278
+93.178864
+Debris
+Slide
+NA
+22382
+MIZ/AIZ/84A09/2016/120
+Mizoram
+Aizawl
+ 
+E of Serkhan, Serkhan-Hlimen 
+road
+23.915778
+92.742417
+Rock
+Slide
+2016
+22383
+MIZ/AIZ/84A13/2016/14
+Mizoram
+Aizawl
+ 
+E Phaileng on NH 150
+23.918389
+92.923472
+Debris
+Slide
+2016
+22384
+MIZ/AIZ/84A09/2016/121
+Mizoram
+Aizawl
+ 
+Serkhan- Nisapui-Luanguat road 
+section
+23.918461
+92.741531
+Rock
+Slide
+2016
+22385
+MIZ/AIZ/84A09/2016/54
+Mizoram
+Aizawl
+ 
+~2 km from Serkhan towards 
+Khawnpui
+23.918694
+92.740389
+Debris
+Slide
+2016
+22386
+MIZ/AIZ/84A09/2016/105
+Mizoram
+Mamit
+ 
+Khamrang village road
+23.918917
+92.650833
+Rock
+Slide
+2016
+22387
+MIZ/AIZ/84A09/2016/56
+Mizoram
+Aizawl
+ 
+~3.5 km from Serkhan
+23.922639
+92.736528
+Debris
+Slide
+2016
+22388
+MZ/AIZ/84A09/2014/07
+Mizoram
+Aizawl
+ 
+NH 54
+23.92294
+92.65703
+Debris
+Slide
+2013
+22389
+MIZ/AIZ/84A09/2016/87
+Mizoram
+Aizawl
+ 
+Silchar road
+23.923047
+92.656696
+Debris
+Slide
+2014
+22390
+MIZ/AIZ/84A13/2016/9
+Mizoram
+Aizawl
+ 
+~1km N of Pehlawn at 4 km 
+Kepran milestone
+23.92425
+92.925222
+Debris
+Slide
+2016
+22391
+MIZ/AIZ/84A09/2016/122
+Mizoram
+Aizawl
+ 
+Serkhan-Luangmuat road 
+section
+23.924278
+92.744806
+Rock
+Slide
+2016
+22392
+MZ/AIZ/84E01/2017/77
+Mizoram
+Aizawl
+ 
+SuangpuilawnZawngin section
+23.927389
+93.02803
+Debris
+Slide
+NA
+22393
+MZ/AIZ/84E01/2017/78
+Mizoram
+Aizawl
+ 
+SuangpuilawnZawngin section
+23.927389
+93.02803
+Rock
+Slide
+NA
+22394
+MIZ/AIZ/84A13/2016/10
+Mizoram
+Aizawl
+ 
+~3.5 km S of Kepran
+23.929083
+92.922778
+Rock
+Slide
+2016
+22395
+MZ/MAM/84A05/2020/2
+Mizoram
+Mamit
+Mamit-Tuidam old road section slide 2 Mamit-Tuidam old road section, 
+near Tuidam water reservoir 
+(NRDWP)
+23.93
+92.37
+Debris
+Flow
+2019
+22396
+MIZ/AIZ/84A09/2016/88
+Mizoram
+Aizawl
+ 
+Silchar road
+23.933904
+92.673871
+Rock
+Slide
+2016
+22397
+MIZ/AIZ/84A09/2016/57
+Mizoram
+Aizawl
+ 
+Serkhan-Khawnpui section, 
+Silchar road
+23.934222
+92.730611
+Debris
+Slide
+2016
+22398
+MIZ/AIZ/84A09/2016/106
+Mizoram
+Aizawl
+ 
+Khamrang-Kawnpui road, 19 km 
+S of Kawnpui
+23.934417
+92.667222
+Rock
+Slide
+2016
+22399
+MZ/CHA/84E05/2017/21
+Mizoram
+Champhai
+ 
+SE of Teikhang
+23.935917
+93.345642
+Debris
+Slide
+2017
+22400
+MZ/CHA/84E05/2017/22
+Mizoram
+Champhai
+ 
+SE of Teikhang
+23.935917
+93.345642
+Debris
+Slide
+2017
+22401
+MZ/AIZ/84E01/2017/72
+Mizoram
+Aizawl
+ 
+PhuaibuangKhawlian section
+23.936333
+93.118858
+Debris
+Slide
+NA
+22402
+MZ/CHA/84E05/2017/10
+Mizoram
+Champhai
+ 
+SE of Teikhang
+23.936806
+93.340668
+Debris
+Slide
+2017
+22403
+MZ/AIZ/84E01/2017/73
+Mizoram
+Aizawl
+ 
+PhuaibuangKhawlian section
+23.938028
+93.121277
+Rock
+Slide
+NA
+22404
+MZ/CHA/84E01/2017/43
+Mizoram
+Champhai
+ 
+Near 9 km milestone NE of 
+Khawdungsei
+23.938583
+93.213997
+Rock
+Slide
+NA
+22405
+MZ/CHA/84E01/2017/22
+Mizoram
+Champhai
+ 
+ 
+23.939194
+93.214195
+Debris
+Slide
+NA
+22406
+MIZ/AIZ/84A13/2016/11
+Mizoram
+Aizawl
+ 
+1.5 km S of Kepran
+23.9395
+92.927889
+Debris
+Slide
+2016
+22407
+MZ/MAM/84A05/2020/8
+Mizoram
+Mamit
+North of Tuidam slide 1
+Tuidam-Kwarthah road section 
+(North of Tuidam village/NH 
+108)
+23.94
+92.37
+Rock
+Slide
+2019
+22408
+MIZ/AIZ/84A09/2016/89
+Mizoram
+Aizawl
+ 
+Silchar road
+23.940106
+92.680592
+Debris
+Slide
+2016
+22409
+MIZ/AIZ/84A09/2016/107
+Mizoram
+Aizawl
+ 
+14 km milestone Kawnpui on 
+Aizawl-Silchar road
+23.940333
+92.680833
+Rock
+Slide
+2016
+22410
+MZ/CHA/84E01/2017/10
+Mizoram
+Champhai
+ 
+ 
+23.942722
+93.213531
+Debris
+Slide
+2017
+22411
+MIZ/AIZ/84A13/2016/12
+Mizoram
+Aizawl
+Kepran slide
+Kepran on NH-150
+23.943241
+92.933604
+Debris
+Slide
+2016
+22412
+MZ/AZL/84A13/2016/03
+Mizoram
+Aizawl
+Kepran slide
+Kepran village on NH 150
+23.94325
+92.933611
+Debris
+Slide
+2016
+22413
+MZ/CHA/84E05/2017/28
+Mizoram
+Champhai
+ 
+SE of Teikhang
+23.945055
+93.313698
+Debris
+Slide
+2017

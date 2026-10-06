@@ -1,0 +1,362 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12695
+KA/DK/48O8/2024/11
+Karnataka
+Dakshina 
+Kannada/Belthangadi
+Savanalu-Hanyadi
+Nil
+13.046275
+75.27276944
+Debris
+Subsidence
+30 July 2024
+12696
+KA/DK/48L13/2024/01
+Karnataka
+Dakshin Kannad
+Kethikal Landslide
+NH-169
+12.92379167
+74.9106
+Debris
+Slide
+17 July 2024
+12697
+KA/Udupi/48K9/2024/1
+Karnataka
+Udupi
+Ch-246.100
+NH-66, Magalore to Goa
+13.88385833
+74.61844444
+Debris
+Slide
+June 2024
+12698
+KA/Udupi/48K9/2024/2
+Karnataka
+Udupi
+Ch-246.100
+NH-66, Magalore to Goa, 
+Shiruru-Byndur taluk
+13.88849444
+74.61815
+Debris
+Slide
+NA
+12699
+KA/Udupi/48K9/2024/3
+Karnataka
+Udupi
+Ch-246.800
+NH-66, Mangalore to Goa, 
+Byndur taluk
+13.879425
+74.62072778
+Debris
+Slide
+NA
+12700
+KA/Udupi/48K9/2024/4
+Karnataka
+Udupi
+Puduvari-Byndoor taluk
+Someswara
+13.8719
+74.6052
+Debris
+Slide
+09 July 2024
+12701
+KA/Udupi/48K13/2024/5
+Karnataka
+Udupi
+Kollur
+Kollur -Bundoor taluk
+13.869075
+74.81434444
+Debris
+Slide
+04 July 2024
+12702
+KA/Udupi/48K14/2024/6
+Karnataka
+Udupi
+Haladi-Kundapura
+SH-27, CH-333.70-334.70  
+Byndur-Virajpet
+13.57729722
+74.86976667
+Debris
+Slide
+NA
+12703
+KA/Udupi/48K15/2024/7
+Karnataka
+Udupi
+Kanyana
+NH-169A, CH-54.200
+13.439
+74.96759167
+Debris
+Slide
+August 2024
+12704
+KA/Udupi/48O4/2024/8
+Karnataka
+Udupi
+Mala
+Mala-Karkala
+13.22670278
+75.13119722
+Debris
+Slide
+30 July 2024
+12705
+KA/CKM/48O11/2024/01
+Karnataka
+Chikmagalur
+Inam Dattatray Peeta Landslide
+SH-257, Chainage-125.100,  
+Kavikal gundi
+13.40630556
+75.74486111
+Debris
+Slide, 
+Subsidence
+27 July 2024
+12706
+KA/CKM/48O11/2024/02
+Karnataka
+Chikmagalur
+Bababudangiri-1
+-
+13.40333333
+75.73591667
+Debris
+Slide
+25 July 2024
+12707
+KA/CKM/48O11/2024/03
+Karnataka
+Chikmagalur
+Bababudangiri Road Landslide-2
+-
+13.38786111
+75.72711111
+Debris
+Slide, 
+Subsidence
+25 July 2024
+12708
+KA/CKM/48O11/2024/04
+Karnataka
+Chikmagalur
+Mullayanagiri Road Landslide-1
+Mullayanagiri Road
+13.38144444
+75.71361111
+Debris
+Slide
+NA
+12709
+KA/CKM/48O11/2024/05
+Karnataka
+Chikmagalur
+Mullayanagiri Road Landslide-2
+Mullayanagiri Road
+13.38330556
+75.70797222
+Debris
+Slide
+31 July 2024
+12710
+KA/CKM/48O07/2024/06
+Karnataka
+Chikmagalur
+Guddethota Landslide
+Guddethota village
+13.36105556
+75.35994444
+Debris
+Slide
+16 July 2024
+12711
+KA/CKM/48O07/2024/07
+Karnataka
+Chikmagalur
+Nidangi Crack. No landslide occurred. 
+Crack developed on road.
+Nidangi village, Kogre to 
+Manasinahadya road
+13.331
+75.34027778
+NA
+-
+16 July 2024
+12712
+KA/CKM/48O07/2024/08
+Karnataka
+Chikmagalur
+Kogre landslide
+Kogre village
+13.33183333
+75.337
+Debris
+Slide
+29 July 2024
+12713
+KA/CKM/48O07/2024/09
+Karnataka
+Chikmagalur
+Habbikallu landslide
+Habbikallu village, Jayapura-
+Basarikatte road
+13.32616667
+75.35194444
+Debris
+Slide
+29 July 2024
+12714
+KA/CKM/48O07/2024/10
+Karnataka
+Chikmagalur
+Chennekallu landslide
+Chennekallu village, Jayapura-
+Basarikatte road
+13.30636111
+75.37655556
+Debris
+Subsidence
+29 July 2024
+12715
+KA/CKM/48O07/2024/11
+Karnataka
+Chikmagalur
+Basarikatte landslide
+Basarikatte village
+13.31027778
+75.38277778
+Debris
+Slide
+16 July 2024
+12716
+KA/CKM/48O07/2024/12
+Karnataka
+Chikmagalur
+Huttinagadde landslide-1
+ Huttinagadde village
+13.332
+75.38963889
+Debris
+Slide
+16 July 2024
+12717
+KA/CKM/48O07/2024/13
+Karnataka
+Chikmagalur
+Huttinagadde landslide-2
+ Huttinagadde village
+13.33191667
+75.38663889
+Debris
+Slide
+17 July 2024
+12718
+KA/CKM/48O06/2024/14
+Karnataka
+Chikmagalur
+Narbe landslide
+Narbe village, Koppa-Jayapura 
+major district road.
+13.50327778
+75.34969444
+Debris
+Flow
+16 July 2024
+12719
+KA/CKM/48O07/2024/15
+Karnataka
+Chikmagalur
+Sringeri Landslide-1
+NH-169
+13.43838889
+75.25802778
+Debris
+Slide
+15 July 2024
+12720
+KA/CKM/48O03/2024/16
+Karnataka
+Chikmagalur
+Keredande Landslide
+NH-169, Chainage no. 113.160, 
+Keredande, Sringeri Taluk.
+13.42141667
+75.24547222
+Debris
+Slide
+16 July 2024
+12721
+KA/CKM/48O03/2024/17
+Karnataka
+Chikmagalur
+Tyavana Landslide
+NH-169, Chainage no. 116.050 
+to 116.200, Near Tyavana 
+village.
+13.40433333
+75.23347222
+Debris
+Slide
+15 July 2024
+12722
+KA/CKM/48O03/2024/18
+Karnataka
+Chikmagalur
+Nemmaru estate Landslide
+NH-169, Chainage no. 121.580 
+to 121.640, Bank of Tunga River, 
+Nemmaru estate. 
+13.36786111
+75.21205556
+Debris
+Subsidence
+18 July 2024
+12723
+KA/CKM/48O07/2024/19
+Karnataka
+Chikmagalur
+Sringeri taluk office landslide
+Sringeri taluk office, Near 
+Dargah, Sringeri Town
+13.42330556
+75.25469444
+Debris
+Slide
+20 July 2024
+12724
+KA/CKM/48O08/2024/20
+Karnataka
+Chikmagalur
+Charmadi Ghat Slide-1
+NH-73, Charmadi Ghat, 
+Between hair pin bend no. 7 
+and 8
+13.07641667
+75.45569444
+Debris
+Slide
+30 July 2024

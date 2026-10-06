@@ -1,0 +1,494 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+2633
+HP/SIR/53F06/2017/76
+Himachal Pradesh
+Sirmur
+ 
+Khadri
+30.607897
+77.390714
+Rock
+Slide
+NA
+2634
+HP/SIR/53F10/2017/152
+Himachal Pradesh
+Sirmur
+ 
+Kuphatti
+30.607993
+77.700387
+Rock
+Slide
+NA
+2635
+HP/SIR/53F06/2017/7
+Himachal Pradesh
+Sirmur
+ 
+North of Shamlog
+30.608075
+77.495495
+Rock
+Slide
+NA
+2636
+HP/SIR/53F06/2017/328
+Himachal Pradesh
+Sirmur
+ 
+Near Bhagara Falls
+30.608201
+77.373561
+Rock
+Slide
+NA
+2637
+HP/SIR/53F06/2017/320
+Himachal Pradesh
+Sirmur
+N/A
+#N/A
+30.608342
+77.481049
+Rock
+Slide
+NA
+2638
+HP/SIR/53F06/2017/188
+Himachal Pradesh
+Sirmur
+ 
+North of Kanoti, SH1
+30.608354
+77.289073
+Rock
+Slide
+NA
+2639
+HP/SIR/53F06/2017/1
+Himachal Pradesh
+Sirmur
+ 
+South of Renuka, 
+DadahuSataun road
+30.608375
+77.457588
+Debris
+Slide
+NA
+2640
+HP/SIR/53F06/2017/210
+Himachal Pradesh
+Sirmur
+ 
+Dadahu, Bacheri ka bagh 
+Dadahu road
+30.608407
+77.435701
+Rock
+Slide
+NA
+2641
+HP/SIR/53F10/2017/151
+Himachal Pradesh
+Sirmur
+ 
+Kuphatti
+30.608416
+77.699928
+Rock
+Slide
+NA
+2642
+HP/SIR/53F06/2017/316
+Himachal Pradesh
+Sirmur
+ 
+East of Renuka, 
+DadahuSataun road
+30.608741
+77.467724
+Rock
+Slide
+2005
+2643
+HP/SIR/53F06/2017/189
+Himachal Pradesh
+Sirmur
+ 
+North of Kanoti, SH1
+30.608841
+77.287955
+Rock cum debris
+Slide
+NA
+2644
+HP/SIR/53F06/2017/8
+Himachal Pradesh
+Sirmur
+ 
+Pipalti
+30.60888
+77.493563
+Rock
+Slide
+NA
+2645
+HP/SIR/53F06/2017/35
+Himachal Pradesh
+Sirmur
+ 
+North of Dadahu
+30.608976
+77.439556
+Rock
+Slide
+NA
+2646
+HP/SIR/53F14/2017/50
+Himachal Pradesh
+Sirmur
+ 
+Jamana Pobhar R.F.
+30.608982
+77.757142
+Rock
+Slide
+NA
+2647
+HP/SIR/53F06/2017/116
+Himachal Pradesh
+Sirmur
+ 
+Dadahu
+30.609192
+77.434976
+Rock
+Slide
+NA
+2648
+HP/SIR/53F06/2017/318
+Himachal Pradesh
+Sirmur
+ 
+East of Renuka, 
+DadahuSataun road
+30.609212
+77.472053
+Rock
+Slide
+NA
+2649
+HP/SIR/53F06/2017/317
+Himachal Pradesh
+Sirmur
+ 
+East of Renuka, 
+DadahuSataun road
+30.60934
+77.471753
+Rock
+Slide
+NA
+2650
+HP/SIR/53F06/2017/190
+Himachal Pradesh
+Sirmur
+ 
+North of Kanoti, SH1
+30.60958
+77.285466
+Rock
+Slide
+NA
+2651
+HP/SIR/53F06/2017/34
+Himachal Pradesh
+Sirmur
+ 
+North of Dadahu
+30.609682
+77.439208
+Rock
+Slide
+NA
+2652
+HP/SIR/53F06/2017/78
+Himachal Pradesh
+Sirmur
+ 
+Near Bhagara Falls,
+ NahanDadahu road
+30.609974
+77.375279
+Rock
+Slide
+NA
+2653
+HP/SIR/53F06/2017/89
+Himachal Pradesh
+Sirmur
+ 
+Near Bhagara Falls, 
+NahanDadahu road
+30.610916
+77.3749
+Rock
+Slide
+NA
+2654
+HP/SIR/53F06/2017/93
+Himachal Pradesh
+Sirmur
+ 
+Gharjara
+30.61113
+77.370098
+Rock
+Slide
+NA
+2655
+HP/SIR/53F10/2017/113
+Himachal Pradesh
+Sirmur
+ 
+Kaffota, PaontaShillai road
+30.611279
+77.686085
+Rock
+Slide
+NA
+2656
+HP/SIR/53F10/2017/114
+Himachal Pradesh
+Sirmur
+ 
+Kaffota, PaontaShillai road
+30.611656
+77.682627
+Rock
+Slide
+NA
+2657
+HP/SIR/53F06/2017/191
+Himachal Pradesh
+Sirmur
+ 
+Ladu, SH1, NahanSolan road
+30.611812
+77.288527
+Rock
+Slide
+NA
+2658
+HP/SIR/53F02/2017/18
+Himachal Pradesh
+Sirmur
+ 
+SH02
+30.611849
+77.221776
+Rock
+Slide
+NA
+2659
+HP/SIR/53F06/2017/192
+Himachal Pradesh
+Sirmur
+ 
+Ladu, SH1, NahanSolan road
+30.612035
+77.289512
+Rock
+Slide
+NA
+2660
+HP/SIR/53F10/2017/109
+Himachal Pradesh
+Sirmur
+ 
+Masu
+30.612569
+77.75802
+Rock
+Slide
+NA
+2661
+HP/SIR/53F06/2017/241
+Himachal Pradesh
+Sirmur
+ 
+Dathnog
+30.612574
+77.319852
+Rock
+Slide
+NA
+2662
+HP/SIR/53F06/2017/85
+Himachal Pradesh
+Sirmur
+ 
+North of Khadri
+30.6127
+77.387564
+Rock
+Slide
+NA
+2663
+HP/SIR/53F06/2017/336
+Himachal Pradesh
+Sirmur
+ 
+Gharjara
+30.612887
+77.370368
+Rock
+Slide
+NA
+2664
+HP/SIR/53F06/2017/81
+Himachal Pradesh
+Sirmur
+ 
+South of Nalli, 
+NahanDadahu road
+30.612919
+77.336663
+Rock
+Slide
+NA
+2665
+HP/SIR/53F06/2017/335
+Himachal Pradesh
+Sirmur
+ 
+Gharjara
+30.613316
+77.372006
+Rock
+Slide
+NA
+2666
+HP/SIR/53F06/2017/79
+Himachal Pradesh
+Sirmur
+ 
+Nalli, NahanDadahu road
+30.614202
+77.339964
+Rock cum debris
+Slide
+NA
+2667
+HP/SIR/53F06/2017/257
+Himachal Pradesh
+Sirmur
+ 
+North of Kyarta
+30.614221
+77.493873
+Rock
+Slide
+NA
+2668
+HP/SIR/53F06/2017/193
+Himachal Pradesh
+Sirmur
+ 
+Ladu, SH1, NahanSolan road
+30.614336
+77.289461
+Rock
+Slide
+NA
+2669
+HP/SIR/53F06/2017/80
+Himachal Pradesh
+Sirmur
+ 
+South of Nalli, 
+NahanDadahu road
+30.614552
+77.337166
+Rock
+Slide
+NA
+2670
+HP/SIR/53F10/2017/112
+Himachal Pradesh
+Sirmur
+ 
+Kaffota, PaontaShillai road
+30.614685
+77.690175
+Rock
+Slide
+NA
+2671
+HP/SIR/53F06/2017/37
+Himachal Pradesh
+Sirmur
+ 
+North of Dadahu
+30.614953
+77.438158
+Rock
+Slide
+NA
+2672
+HP/SIR/53F14/2017/41
+Himachal Pradesh
+Sirmur
+ 
+Masu
+30.615065
+77.766885
+Rock
+Slide
+NA
+2673
+HP/SIR/53F06/2017/359
+Himachal Pradesh
+Sirmur
+ 
+North of Dadahu
+30.615243
+77.441305
+Rock
+Slide
+NA
+2674
+HP/SIR/53F06/2017/326
+Himachal Pradesh
+Sirmur
+ 
+Kharari
+30.615398
+77.395485
+Rock
+Slide
+NA
+2675
+HP/SIR/53F06/2017/36
+Himachal Pradesh
+Sirmur
+ 
+North of Dadahu
+30.61546
+77.438366
+Rock
+Slide
+NA

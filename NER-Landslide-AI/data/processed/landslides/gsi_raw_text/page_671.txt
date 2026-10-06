@@ -1,0 +1,534 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+26646
+SKM/NOR/78A10/2014/005
+Sikkim
+North Sikkim
+Lanthakhola
+Lanthakhola (On Mangan to 
+Chungthang road )
+27.5152
+88.56456
+Debris
+Slide
+1983, 8 July 2014
+26647
+SKM/NS/78A10/2017/170
+Sikkim
+North Sikkim
+ 
+NH
+27.516444
+88.587361
+Debris
+Slide
+NA
+26648
+SKM/NS/78A10/2017/167
+Sikkim
+North Sikkim
+ 
+NH
+27.517278
+88.539667
+Debris
+Slide
+NA
+26649
+SKM/NS/78A10/2017/168
+Sikkim
+North Sikkim
+ 
+NH
+27.517306
+88.542889
+Rock
+Slide
+NA
+26650
+SKM/NS/78A10/2017/175
+Sikkim
+North Sikkim
+ 
+NH
+27.527194
+88.603222
+Debris
+Slide
+NA
+26651
+SKM/NS/78A10/2017/171
+Sikkim
+North Sikkim
+ 
+NH
+27.527333
+88.590778
+Debris
+Slide
+NA
+26652
+SKM/NS/78A10/2017/176
+Sikkim
+North Sikkim
+ 
+NH
+27.527722
+88.607972
+Debris
+Slide
+NA
+26653
+SKM/NS/78A10/2017/174
+Sikkim
+North Sikkim
+ 
+NH
+27.527917
+88.60225
+Debris
+Slide
+NA
+26654
+SKM/NS/78A10/2017/173
+Sikkim
+North Sikkim
+ 
+NH
+27.528722
+88.600833
+Debris
+Slide
+NA
+26655
+SKM/NS/78A10/2017/172
+Sikkim
+North Sikkim
+ 
+NH
+27.529639
+88.598139
+Debris
+Slide
+NA
+26656
+SKM/NS/78A10/2017/177
+Sikkim
+North Sikkim
+Naga
+NH
+27.531667
+88.606333
+Debris
+Slide
+NA
+26657
+SKM/NS/78A10/2017/178
+Sikkim
+North Sikkim
+ 
+NH
+27.533722
+88.609278
+Rock
+Slide
+NA
+26658
+SKM/NS/78A10/2017/179
+Sikkim
+North Sikkim
+ 
+NH
+27.535056
+88.610194
+Debris
+Slide
+NA
+26659
+SK/ED/78A6/2016/01
+Sikkim
+North Sikkim
+Dzongu landslide
+Left bank slope of Talong Chu 
+(locally known as Kanaka river), 
+just opposite to the Dzongu 
+(Upper) village
+27.535333
+88.497972
+Rock
+Slide/Avalanch
+e
+13 August 2016 at 13:30 hrs.
+26660
+SKM/NS/78A10/2017/180
+Sikkim
+North Sikkim
+ 
+NH
+27.5435
+88.628306
+Debris
+Slide
+NA
+26661
+SKM/NS/78A10/2017/196
+Sikkim
+North Sikkim
+ 
+NH
+27.54375
+88.58475
+Debris
+Slide
+NA
+26662
+SKM/NS/78A10/2017/181
+Sikkim
+North Sikkim
+ 
+NH
+27.545694
+88.636
+Debris
+Slide
+NA
+26663
+SKM/NS/78A10/2017/195
+Sikkim
+North Sikkim
+ 
+NH
+27.545861
+88.585194
+Debris
+Slide
+NA
+26664
+SKM/NS/78A10/2017/194
+Sikkim
+North Sikkim
+ 
+NH
+27.546333
+88.586472
+Debris
+Slide
+NA
+26665
+SKM/NS/78A10/2017/190
+Sikkim
+North Sikkim
+ 
+NH
+27.547111
+88.602667
+Debris
+Slide
+NA
+26666
+SKM/NS/78A10/2017/182
+Sikkim
+North Sikkim
+ 
+NH
+27.548417
+88.641944
+Debris
+Slide
+NA
+26667
+SKM/NS/78A10/2017/191
+Sikkim
+North Sikkim
+ 
+NH
+27.549194
+88.583556
+Debris
+Slide
+NA
+26668
+SKM/NS/78A10/2017/183
+Sikkim
+North Sikkim
+Tung
+NH
+27.549306
+88.644889
+Debris
+Slide
+NA
+26669
+SKM/NS/78A10/2017/184
+Sikkim
+North Sikkim
+ 
+NH
+27.550917
+88.646056
+Debris
+Slide
+NA
+26670
+SKM/NS/78A10/2017/185
+Sikkim
+North Sikkim
+ 
+NH
+27.552528
+88.653528
+Rock
+Slide
+NA
+26671
+SKM/NS/78A10/2017/189
+Sikkim
+North Sikkim
+ 
+NH
+27.552861
+88.622306
+Debris
+Slide
+NA
+26672
+SKM/NS/78A10/2017/192
+Sikkim
+North Sikkim
+ 
+NH
+27.553556
+88.581222
+Debris
+Slide
+NA
+26673
+SKM/NS/78A10/2017/193
+Sikkim
+North Sikkim
+ 
+NH
+27.553583
+88.577194
+Debris
+Slide
+NA
+26674
+SKM/NS/78A10/2017/186
+Sikkim
+North Sikkim
+ 
+NH
+27.554889
+88.654444
+Debris
+Slide
+NA
+26675
+SKM/NS/78A10/2017/188
+Sikkim
+North Sikkim
+ 
+NH
+27.55525
+88.647556
+Debris
+Slide
+NA
+26676
+SKM/NS/78A10/2017/187
+Sikkim
+North Sikkim
+ 
+NH
+27.575444
+88.651417
+Debris
+Slide
+NA
+26677
+SKM/NS/78A10/2017/197
+Sikkim
+North Sikkim
+Chungthang
+NH
+27.609056
+88.652028
+Debris
+Slide
+NA
+26678
+SKM/NS/78A10/2017/198
+Sikkim
+North Sikkim
+ 
+NH
+27.611333
+88.655222
+Debris
+Slide
+NA
+26679
+SKM/NS/78A10/2017/199
+Sikkim
+North Sikkim
+ 
+NH
+27.613444
+88.656528
+Debris
+Slide
+NA
+26680
+SKM/NS/78A10/2017/230
+Sikkim
+North Sikkim
+ 
+NH
+27.61775
+88.623639
+Debris
+Slide
+NA
+26681
+SKM/NS/78A10/2017/229
+Sikkim
+North Sikkim
+ 
+NH
+27.619722
+88.618861
+Debris
+Slide
+NA
+26682
+SKM/NS/78A10/2017/228
+Sikkim
+North Sikkim
+ 
+NH
+27.621806
+88.618694
+Debris
+Slide
+NA
+26683
+SKM/NS/78A10/2017/200
+Sikkim
+North Sikkim
+ 
+NH
+27.628083
+88.685306
+Debris
+Slide
+NA
+26684
+SKM/NS/78A10/2017/202
+Sikkim
+North Sikkim
+ 
+NH
+27.629361
+88.695194
+Debris
+Slide
+NA
+26685
+SKM/NS/78A10/2017/201
+Sikkim
+North Sikkim
+ 
+NH
+27.6295
+88.692778
+Debris
+Slide
+NA
+26686
+SKM/NS/78A10/2017/227
+Sikkim
+North Sikkim
+ 
+NH
+27.629944
+88.619833
+Debris
+Slide
+NA
+26687
+SKM/NS/78A10/2017/203
+Sikkim
+North Sikkim
+ 
+NH
+27.637167
+88.712028
+Debris
+Slide
+NA
+26688
+SKM/NS/78A10/2017/204
+Sikkim
+North Sikkim
+ 
+NH
+27.638694
+88.711694
+Debris
+Slide
+NA
+26689
+SKM/NS/78A10/2017/226
+Sikkim
+North Sikkim
+Munshithang
+NH
+27.641139
+88.612
+Debris
+Slide
+NA
+26690
+SKM/NS/78A10/2017/225
+Sikkim
+North Sikkim
+ 
+NH
+27.652861
+88.607
+Debris
+Slide
+NA
+26691
+SKM/NS/78A10/2017/224
+Sikkim
+North Sikkim
+Rabom
+NH
+27.662444
+88.602556
+Debris
+Slide
+NA
+26692
+SKM/NS/78A10/2017/205
+Sikkim
+North Sikkim
+ 
+NH
+27.675778
+88.733417
+Debris
+Slide
+NA

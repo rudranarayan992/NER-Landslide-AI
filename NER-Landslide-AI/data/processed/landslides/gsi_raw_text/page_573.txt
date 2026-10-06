@@ -1,0 +1,482 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22564
+MZ/MAM/83D08/2020/18
+Mizoram
+Mamit
+Kolalian-Hriphaw-Zamuang slide 2
+Kolalian-Hriphaw-Zamuang 
+road section
+24.14
+92.41
+Rock
+Slide
+2019
+22565
+MZ/AIZ/83D16/2016/57
+Mizoram
+Aizawl
+ 
+S of Thingtlegh
+24.146606
+92.796528
+Earth
+Slide
+NA
+22566
+MZ/MAM/83D08/2020/17
+Mizoram
+Mamit
+Kolalian-Hriphaw-Zamuang slide 1
+Kolalian-Hriphaw-Zamuang 
+road section
+24.15
+92.41
+Debris
+Slide
+2019
+22567
+MZ/AIZ/83D16/2016/56
+Mizoram
+Aizawl
+ 
+thingtleh
+24.162021
+92.797605
+Earth
+Slide
+NA
+22568
+MZ/MAM/83D08/2020/15
+Mizoram
+Mamit
+South of Bungthuan slide
+South of Bungthuan village
+24.17
+92.33
+Rock
+Slide
+2019
+22569
+MZ/KOL/83D12/2020/3
+Mizoram
+Mamit
+ Mamit-Zamuang road junction slide
+Road junction between Mamit 
+and Zamuang
+24.17
+92.53
+Debris
+Slide
+2019
+22570
+MZ/KOL/83D12/2020/4
+Mizoram
+Mamit
+Bairabi Suarhliap slide
+Bairabi Suarhliap road section
+24.17
+92.52
+Debris
+Slide
+2019
+22571
+MZ/KOL/83D12/2016/19
+Mizoram
+Kolasib
+ 
+towards hartoki
+24.170329
+92.641325
+Earth
+Slide
+NA
+22572
+MZ/KOL/83D12/2016/18
+Mizoram
+Kolasib
+ 
+towards hartoki
+24.171459
+92.641035
+Earth
+Slide
+NA
+22573
+MZ/AIZ/83D16/2016/127
+Mizoram
+Aizawl
+ 
+New Vervek
+24.175865
+92.945618
+Earth
+Slide
+NA
+22574
+MZ/KOL/83D12/2020/1
+Mizoram
+Kolasib
+Bairabi bridge slide
+Bairabi (near Tlawng river 
+bridge)
+24.18
+92.54
+Rock
+Slide
+2019
+22575
+MZ/KOL/83D12/2016/2
+Mizoram
+Kolasib
+ 
+Slide near polytechnique 
+N.Thingdawl
+24.180261
+92.690737
+Debris
+Slide
+2016
+22576
+MZ/AIZ/83D16/2016/117
+Mizoram
+Aizawl
+ 
+2.5km east of New vervek
+24.182669
+92.950748
+Earth
+Slide
+NA
+22577
+MZ/AIZ/83D16/2016/116
+Mizoram
+Aizawl
+ 
+2km east of New Vervek
+24.182783
+92.949911
+Rock
+Slide
+NA
+22578
+MZ/AIZ/83D16/2016/115
+Mizoram
+Aizawl
+ 
+New Vervek, 18km Tipaimukh, 
+milestone NH 150
+24.183115
+92.949989
+Debris
+Slide
+NA
+22579
+MZ/AIZ/83D16/2016/34
+Mizoram
+Aizawl
+ 
+N. Of Thingtleh
+24.183717
+92.798909
+Rock
+Slide
+2016
+22580
+MZ/AIZ/83D16/2016/118
+Mizoram
+Aizawl
+ 
+towards Tipaimukh
+24.184022
+92.951257
+Debris
+Slide
+NA
+22581
+MZ/KOL/83D12/2016/17
+Mizoram
+Kolasib
+ 
+towards hartoki
+24.187212
+92.633859
+Earth
+Slide
+NA
+22582
+MZ/KOL/83D12/2016/11
+Mizoram
+Kolasib
+ 
+Bhairabi road
+24.188117
+92.595278
+Rock
+Fall
+2016
+22583
+MZ/AIZ/83D16/2016/103
+Mizoram
+Aizawl
+ 
+N. Of New Vervek
+24.188702
+92.943036
+Debris
+Slide
+NA
+22584
+MZ/MAM/83D08/2020/14
+Mizoram
+Mamit
+North Bungthuan slide
+Northern tip of Bungthuan 
+village, near Bridge
+24.19
+92.33
+Earth
+Slide
+2019
+22585
+MZ/AIZ/83D16/2016/104
+Mizoram
+Aizawl
+ 
+N. Of New Vervek
+24.190369
+92.94432
+Debris
+Slide
+2016
+22586
+MZ/AIZ/83D16/2016/105
+Mizoram
+Aizawl
+ 
+N. Of New Vervek
+24.190711
+92.943593
+Rock
+Slide
+NA
+22587
+MZ/AIZ/83D16/2016/106
+Mizoram
+Aizawl
+ 
+N. Of New Vervek
+24.191114
+92.943311
+Rock
+Slide
+NA
+22588
+MZ/AIZ/83D16/2016/107
+Mizoram
+Aizawl
+ 
+N. Of New Vervek
+24.192522
+92.944635
+Rock
+Slide
+2016
+22589
+MZ/AIZ/83D16/2016/108
+Mizoram
+Aizawl
+ 
+N. Of New Vervek
+24.19265
+92.944583
+Rock
+Slide
+2016
+22590
+MZ/AIZ/83D16/2016/125
+Mizoram
+Aizawl
+ 
+8 km wast of Tipaimukh
+24.193061
+92.992877
+Rock
+Slide
+NA
+22591
+MZ/AIZ/83D16/2016/110
+Mizoram
+Aizawl
+ 
+N. Of New Vervek
+24.193682
+92.946417
+Debris
+Slide
+2016
+22592
+MZ/AIZ/83D16/2016/109
+Mizoram
+Aizawl
+ 
+N. Of New Vervek
+24.194015
+92.944562
+Rock
+Slide
+NA
+22593
+MZ/AIZ/83D16/2016/119
+Mizoram
+Aizawl
+ 
+14km east of New Vervek 
+towards Tipaimukh
+24.194252
+92.963806
+Rock
+Slide
+NA
+22594
+MZ/AIZ/83D16/2016/111
+Mizoram
+Aizawl
+ 
+N. Of New Vervek
+24.197474
+92.947295
+Earth
+Slide
+2016
+22595
+MZ/AIZ/83D16/2016/126
+Mizoram
+Aizawl
+ 
+towards Tuival R.
+24.197817
+92.993923
+Rock
+Slide
+NA
+22596
+MZ/AIZ/83D16/2016/112
+Mizoram
+Aizawl
+ 
+N. Of New Vervek
+24.198831
+92.946348
+Rock
+Slide
+2016
+22597
+MZ/AIZ/83D16/2016/122
+Mizoram
+Aizawl
+ 
+towards Tuival R.
+24.199114
+92.992916
+Rock
+Fall
+2016
+22598
+MZ/AIZ/83D16/2016/123
+Mizoram
+Aizawl
+ 
+towards Tuival R.
+24.199185
+92.992094
+Rock
+Slide
+NA
+22599
+MZ/AIZ/83D16/2016/124
+Mizoram
+Aizawl
+ 
+8 km wast of Tipaimukh
+24.199201
+92.993156
+Rock
+Slide
+NA
+22600
+MZ/MAM/83D08/2020/16
+Mizoram
+Mamit
+North of Hriphaw slide
+~500 m North of Hriphaw
+24.2
+92.42
+Earth
+Slide
+2019
+22601
+MZ/AIZ/83D16/2016/120
+Mizoram
+Aizawl
+ 
+9 km wast of Tipaimukh
+24.200487
+92.985172
+Rock
+Slide
+NA
+22602
+MZ/AIZ/83D16/2016/121
+Mizoram
+Aizawl
+ 
+9 km wast of Tipaimukh
+24.200746
+92.98517
+Debris
+Slide
+NA
+22603
+MZ/AIZ/83D16/2016/114
+Mizoram
+Aizawl
+ 
+S. Of Sakawrdai
+24.201154
+92.944079
+Earth
+Slide
+NA
+22604
+MZ/KOL/83D12/2016/3
+Mizoram
+Kolasib
+ 
+kolasib nh54 near rb motors
+24.211504
+92.679258
+Debris
+Slide
+2016
+22605
+MZ/KOL/83D12/2016/4
+Mizoram
+Kolasib
+ 
+kolasib nh54 near rb motors
+24.214366
+92.680404
+Debris
+Slide
+2016

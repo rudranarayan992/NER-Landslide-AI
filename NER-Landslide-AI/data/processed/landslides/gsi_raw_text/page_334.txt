@@ -1,0 +1,297 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14081
+KRL/PKD/58B10/2018/129
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy
+10.548547
+76.675041
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14082
+KRL/PKD/58B10/2018/130
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy
+10.547777
+76.675724
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14083
+KRL/PKD/58B10/2018/131
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy
+10.547115
+76.675578
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14084
+KRL/PKD/58B10/2018/132
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy
+10.550603
+76.680796
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14085
+KRL/PKD/58B10/2018/133
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.538953
+76.672063
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14086
+KRL/PKD/58B10/2018/134
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.538607
+76.667587
+Debris
+slide
+Initiated on 16/8/2018, 
+14087
+KRL/PKD/58B10/2018/135
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy
+10.542128
+76.666089
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14088
+KRL/PKD/58B10/2018/136
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy
+10.541962
+76.66618
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14089
+KRL/PKD/58B10/2018/137
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.536985
+76.667702
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14090
+KRL/PKD/58B10/2018/138
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.537015
+76.668252
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14091
+KRL/PKD/58B10/2018/139
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.536993
+76.668405
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14092
+KRL/PKD/58B10/2018/140
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.536482
+76.668683
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14093
+KRL/PKD/58B10/2018/141
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.536253
+76.670532
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14094
+KRL/PKD/58B10/2018/142
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.53592
+76.670983
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14095
+KRL/PKD/58B10/2018/143
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.533957
+76.672943
+Debris
+slide
+Initiated on 16/8/2018, 
+14096
+KRL/PKD/58B10/2018/144
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.535642
+76.673373
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14097
+KRL/PKD/58B10/2018/145
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.535607
+76.67363
+Debris
+slide
+Initiated on 16/8/2018, 
+14098
+KRL/PKD/58B10/2018/146
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.53409
+76.673132
+Debris
+slide
+Initiated on 16/8/2018, 
+14099
+KRL/PKD/58B10/2018/147
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.531677
+76.668657
+rock cum debris
+slide
+Initiated on 16/8/2018, 
+14100
+KRL/PKD/58B10/2018/148
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.530468
+76.66702
+Debris
+slide
+Initiated on 16/8/2018, 
+14101
+KRL/PKD/58B10/2018/149
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.52995
+76.66664
+Debris
+slide
+Initiated on 16/8/2018, 
+14102
+KRL/PKD/58B10/2018/150
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.529373
+76.666168
+Debris
+slide
+Initiated on 16/8/2018, 
+14103
+KRL/PKD/58B10/2018/151
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.529733
+76.66361
+Debris
+slide
+Initiated on 16/8/2018, 
+14104
+KRL/PKD/58B10/2018/152
+Kerala
+Palakkad
+Nelliyampathy, Chitoor Taluk
+10.533772
+76.666526
+Debris
+slide
+Initiated on 16/8/2018, 
+14105
+KRL/PKD/58B10/2018/153
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.529327
+76.662737
+Debris
+slide
+Initiated on 16/8/2018, 
+14106
+KRL/PKD/58B10/2018/154
+Kerala
+Palakkad
+Nelliyampathy road, Chitoor 
+Taluk
+10.52909
+76.66085
+Debris
+slide
+Initiated on 16/8/2018, 

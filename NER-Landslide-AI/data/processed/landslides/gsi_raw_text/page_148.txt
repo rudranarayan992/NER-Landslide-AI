@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+6157
+HP/MAN/53E02/2015/214
+Himachal Pradesh
+Mandi
+ 
+Larji-Sainj road
+31.726167
+77.221444
+Rock
+Slide
+NA
+6158
+HP/MAN/53E02/2015/215
+Himachal Pradesh
+Mandi
+ 
+Larji-Sainj road
+31.726167
+77.221444
+Rock
+Slide
+NA
+6159
+HP/MAN/53E02/2015/216
+Himachal Pradesh
+Mandi
+ 
+Larji-Sainj road
+31.726389
+77.222278
+Rock
+Slide
+NA
+6160
+HP/MAN/53E02/2015/217
+Himachal Pradesh
+Mandi
+ 
+Larji-Sainj road
+31.726389
+77.222278
+Rock cum debris
+Slide
+NA
+6161
+HP/MAN/53A14/2015/354
+Himachal Pradesh
+Mandi
+ 
+Near Dhiun
+31.726876
+76.921789
+Rock
+Slide
+NA
+6162
+HP/UNA/53A02/2018/1
+Himachal Pradesh
+Una
+ 
+Kewat Behr
+31.728733
+76.099891
+Debris
+Slide
+NA
+6163
+HP/MAN/53E02/2015/218
+Himachal Pradesh
+Mandi
+ 
+Larji-Sainj road
+31.729083
+77.227028
+Rock cum debris
+Slide
+NA
+6164
+HP/MAN/53E02/2015/219
+Himachal Pradesh
+Mandi
+ 
+Larji-Sainj road
+31.729611
+77.227167
+Rock cum debris
+Slide
+NA
+6165
+HP/UNA/53A02/2018/2
+Himachal Pradesh
+Una
+ 
+Kewat Behr
+31.732467
+76.100595
+Debris
+Slide
+NA
+6166
+HP/UNA/53A02/2018/3
+Himachal Pradesh
+Una
+ 
+Kewat Behr
+31.732534
+76.101919
+Rock cum debris
+Slide
+NA
+6167
+HP/MAN/53E02/2015/220
+Himachal Pradesh
+Mandi
+ 
+Larji-Sainj road
+31.733667
+77.231389
+Rock cum debris
+Slide
+NA
+6168
+HP/UNA/53A02/2018/4
+Himachal Pradesh
+Una
+ 
+Kewat Behr
+31.734161
+76.104177
+Debris
+Slide
+NA
+6169
+HP/UNA/53A02/2018/5
+Himachal Pradesh
+Una
+ 
+North of Mubaraikpur
+31.734251
+76.104168
+Rock
+Slide
+NA
+6170
+HP/MAN/53E02/2015/221
+Himachal Pradesh
+Mandi
+ 
+Larji-Sainj road
+31.735944
+77.232556
+Rock cum debris
+Slide
+NA
+6171
+HP/MAN/53E02/2015/211
+Himachal Pradesh
+Mandi
+ 
+Larji-Sainj road
+31.736167
+77.234222
+Rock cum debris
+Slide
+NA
+6172
+HP/MAN/53E02/2015/212
+Himachal Pradesh
+Mandi
+ 
+Larji-Sainj road
+31.736167
+77.234222
+Rock cum debris
+Slide
+NA
+6173
+HP/LSP/53I10/2018/4
+Himachal Pradesh
+Kinnaur
+ 
+Puh
+31.73658
+78.58264
+Rock
+Slide
+NA
+6174
+HP/MAN/53A09/2018/12
+Himachal Pradesh
+Mandi
+ 
+Bahri-Sakrain Road
+31.737139
+76.721722
+Rock cum debris
+Slide
+NA
+6175
+HP/MAN/53A10/2018/13
+Himachal Pradesh
+Mandi
+ 
+Bahri-Sakrain Road
+31.737139
+76.723222
+Debris
+Slide
+NA
+6176
+HP/MAN/53A09/2018/13
+Himachal Pradesh
+Mandi
+ 
+Bahri-Sakrain Road
+31.738972
+76.723556
+Rock cum debris
+Slide
+NA
+6177
+HP/MAN/53A09/2018/14
+Himachal Pradesh
+Mandi
+ 
+Bahri-Sakrain Road
+31.739167
+76.723833
+Rock cum debris
+Slide
+NA
+6178
+HP/MAN/53A14/2015/339
+Himachal Pradesh
+Mandi
+ 
+Boardl
+31.739623
+76.946106
+Rock
+Slide
+NA
+6179
+HP/MAN/53E02/2015/222
+Himachal Pradesh
+Mandi
+ 
+Bhawash road
+31.74
+77.234778
+Debris
+Slide
+NA
+6180
+HP/LSP/53I10/2018/3
+Himachal Pradesh
+Kinnaur
+ 
+Puh
+31.74118
+78.58567
+Rock
+Slide
+NA
+6181
+HP/UNA/53A02/2018/6
+Himachal Pradesh
+Una
+ 
+Near Mubarikpur
+31.741267
+76.106903
+Rock
+Slide
+NA
+6182
+HP/MAN/53E02/2015/223
+Himachal Pradesh
+Mandi
+ 
+Bhawash road
+31.742333
+77.2375
+Debris
+Slide
+NA
+6183
+HP/MAN/53E02/2015/224
+Himachal Pradesh
+Mandi
+ 
+Bhawash road
+31.743139
+77.238444
+Debris
+Slide
+NA
+6184
+HP/MAN/53E02/2015/225
+Himachal Pradesh
+Mandi
+ 
+Bhawash road
+31.743139
+77.238444
+Debris
+Slide
+NA
+6185
+HP/KAN/53A05/2018/16
+Himachal Pradesh
+Hamirpur
+SBI GUEST HOUSE
+ 
+31.74391
+76.302018
+Debris
+Slide
+NA
+6186
+HP/LSP/53I10/2018/2
+Himachal Pradesh
+Kinnaur
+ 
+Puh
+31.74414
+78.58896
+Rock cum debris
+Slide
+NA
+6187
+HP/MAN/53A14/2015/337
+Himachal Pradesh
+Mandi
+ 
+East of Runjh
+31.748076
+76.959595
+Rock
+Slide
+NA
+6188
+HP/MAN/53A14/2015/338
+Himachal Pradesh
+Mandi
+ 
+West of Runjh
+31.748235
+76.940026
+Debris
+Slide
+NA
+6189
+HP/MAN/53E01/2015/5
+Himachal Pradesh
+Mandi
+ 
+NH21
+31.748389
+77.209333
+Debris
+Slide
+2011
+6190
+HP/MAN/53A14/2015/336
+Himachal Pradesh
+Mandi
+ 
+East of Runjh
+31.748416
+76.960128
+Rock
+Slide
+NA
+6191
+HP/MAN/53A13/2015/272
+Himachal Pradesh
+Mandi
+ 
+Gomnun
+31.750012
+76.937815
+Debris
+Slide
+NA
+6192
+HP/MAN/53A13/2015/245
+Himachal Pradesh
+Mandi
+ 
+Lawari,NH 20
+31.750014
+76.943176
+Rock
+Slide
+NA
+6193
+HP/MAN/53A13/2015/244
+Himachal Pradesh
+Mandi
+ 
+Lawari,NH 20
+31.750285
+76.943483
+Rock
+Slide
+NA
+6194
+HP/KIN/53I09/2018/1
+Himachal Pradesh
+Kinnaur
+ 
+Pooh
+31.75099
+78.59043
+Debris
+Slide
+NA
+6195
+HP/MAN/53A13/2015/271
+Himachal Pradesh
+Mandi
+ 
+Runjh
+31.751277
+76.950159
+Debris
+Slide
+NA
+6196
+HP/KIN/53I09/2018/4
+Himachal Pradesh
+Kinnaur
+ 
+Puh
+31.75142
+78.59014
+Rock cum debris
+Slide
+NA
+6197
+HP/MAN/53A13/2015/270
+Himachal Pradesh
+Mandi
+ 
+Barin
+31.752089
+76.964182
+Rock
+Slide
+NA
+6198
+HP/KAN/53A09/2018/15
+Himachal Pradesh
+Kangra
+ 
+ 
+31.75225
+76.726472
+Rock
+Slide
+NA
+6199
+HP/MAN/53A09/2018/16
+Himachal Pradesh
+Mandi
+ 
+NH-70
+31.752278
+76.726778
+Rock
+Slide
+NA
+6200
+HP/MAN/53A13/2015/45
+Himachal Pradesh
+Mandi
+ 
+Barin
+31.752593
+76.964405
+Rock
+Slide
+NA
+6201
+HP/BIL/53A09/2018/17
+Himachal Pradesh
+Bilaspur
+ 
+SH04
+31.753139
+76.726861
+Rock
+Slide
+NA
+6202
+HP/UNA/53A01/2018/36
+Himachal Pradesh
+Una
+ 
+Near Kaloha
+31.753613
+76.205924
+Rock cum debris
+Slide
+NA
+6203
+HP/MAN/53A13/2015/17
+Himachal Pradesh
+Mandi
+ 
+Near Kotli,NH 70
+31.754244
+76.875833
+Rock
+Slide
+NA
+6204
+HP/MAN/53A13/2015/243
+Himachal Pradesh
+Mandi
+ 
+Mattha Neol,NH 20
+31.754832
+76.9431
+Rock cum debris
+Slide
+NA
+6205
+HP/MAN/53E01/2015/37
+Himachal Pradesh
+Mandi
+ 
+ 
+31.754861
+77.108722
+Rock
+Slide
+NA
+6206
+HP/BIL/53A09/2018/18
+Himachal Pradesh
+Bilaspur
+ 
+NH 70
+31.755194
+76.727917
+Rock
+Slide
+NA
+6207
+HP/BIL/53A09/2018/19
+Himachal Pradesh
+Bilaspur
+ 
+SH-05
+31.755528
+76.728083
+Rock
+Slide
+NA

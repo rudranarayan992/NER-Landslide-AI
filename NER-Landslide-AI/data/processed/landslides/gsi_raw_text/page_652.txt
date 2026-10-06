@@ -1,0 +1,562 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+25748
+NG/MON/83N01/2017/36
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.81775
+95.072917
+Debris
+Slide
+NA
+25749
+NG/MON/83N01/2017/37
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.818167
+95.072417
+Debris
+Slide
+NA
+25750
+NG/MON/83N01/2017/38
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.818889
+95.072222
+Debris
+Slide
+NA
+25751
+NG/MON/83N01/2017/40
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.820528
+95.078722
+Debris
+Slide
+NA
+25752
+NG/MON/83N01/2017/39
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.820806
+95.077889
+Debris
+Slide
+NA
+25753
+NG/MON/83N01/2017/41
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.821722
+95.078389
+Soil
+Slide
+NA
+25754
+NG/MON/83N01/2017/42
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.822139
+95.078944
+Debris
+Slide
+NA
+25755
+NG/MON/83N01/2017/43
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.824278
+95.077
+Soil
+Slide
+NA
+25756
+NG/MON/83N01/2017/44
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.824694
+95.076889
+Rock
+Slide
+NA
+25757
+NG/MON/83N01/2017/45
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.825
+95.076778
+Rock
+Slide
+NA
+25758
+NG/MON/83N01/2017/46
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.826194
+95.075917
+Debris
+Slide
+NA
+25759
+NG/MON/83N01/2017/47
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.831417
+95.077917
+Soil
+Slide
+NA
+25760
+NG/MON/83N01/2017/48
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.831778
+95.078028
+Debris
+Slide
+NA
+25761
+NG/MON/83N01/2017/49
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.831889
+95.077944
+Soil
+Slide
+NA
+25762
+NG/MON/83N01/2017/51
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.833889
+95.080972
+Debris
+Slide
+NA
+25763
+NG/MON/83N01/2017/50
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.834
+95.079806
+Soil
+Slide
+NA
+25764
+NG/MON/83N01/2017/52
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.834194
+95.081639
+Debris
+Slide
+NA
+25765
+NG/MON/83N01/2017/53
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.834556
+95.081111
+Rock
+Slide
+NA
+25766
+NG/MON/83N01/2017/54
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.834778
+95.080639
+Soil
+Slide
+NA
+25767
+NG/MON/83N01/2017/55
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.834972
+95.080528
+Rock
+Slide
+NA
+25768
+NG/MON/83N01/2017/56
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.835417
+95.080444
+Debris
+Slide
+NA
+25769
+NG/MON/83N01/2017/57
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.8365
+95.081306
+Soil
+Slide
+NA
+25770
+NG/MON/83N01/2017/58
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.840694
+95.080333
+Soil
+Slide
+NA
+25771
+NG/MON/83N01/2017/59
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.841139
+95.079694
+Soil
+Slide
+NA
+25772
+NG/MON/83N01/2017/60
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.841222
+95.079556
+Soil
+Slide
+NA
+25773
+NG/MON/83N01/2017/61
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.841667
+95.079333
+Soil
+Slide
+NA
+25774
+NG/MON/83N01/2017/62
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.84325
+95.080306
+Soil
+Slide
+NA
+25775
+NG/MON/83N01/2017/63
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.844028
+95.080972
+Rock
+Slide
+NA
+25776
+NG/MON/83N01/2017/64
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.84425
+95.080278
+Debris
+Slide
+NA
+25777
+NG/MON/83N01/2017/65
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.844389
+95.077667
+Debris
+Slide
+NA
+25778
+NG/MON/83N01/2017/66
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.845278
+95.077167
+Debris
+Slide
+NA
+25779
+NG/MON/83N01/2017/67
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.845472
+95.077639
+Soil
+Slide
+NA
+25780
+NG/MON/83N01/2017/68
+Nagaland
+Mon
+ 
+PhuktongTuimei rd
+26.846139
+95.077861
+Rock
+Slide
+NA
+25781
+3211
+Nagaland
+Chumoukedima
+NULL
+NULL
+25.7802266
+93.936165
+Debris
+Flow
+03 September 2024
+25782
+3212
+Nagaland
+Chumoukedima
+NULL
+NULL
+25.7746019
+93.9148756
+Debris
+Slide
+03 September 2024
+25783
+3378
+Nagaland
+Tseminyu
+NULL
+NULL
+25.8817748
+94.1887571
+Rock
+Slide
+NA
+25784
+3310
+Nagaland
+Tseminyu
+NULL
+NULL
+25.8816564
+94.1902346
+Rock
+Fall
+19 January 2025
+25785
+3380
+Nagaland
+Mokokchung
+NULL
+NULL
+26.4231373
+94.3822611
+Soil
+Slide
+07 July 2025
+25786
+3375
+Nagaland
+Kohima
+NULL
+NULL
+25.623067
+94.114196
+Debris
+Slide
+07 July 2025
+25787
+3379
+Nagaland
+Mokokchung
+NULL
+NULL
+26.4527822
+94.375268
+Soil
+Slide
+08 July 2025
+25788
+3381
+Nagaland
+Mokokchung
+NULL
+NULL
+26.4219453
+94.3854377
+Rock
+Fall
+07 July 2025
+25789
+3382
+Nagaland
+Mokokchung
+NULL
+NULL
+26.4242282
+94.3924136
+Rock
+Fall
+05 July 2025
+25790
+3383
+Nagaland
+Mokokchung
+NULL
+NULL
+26.42608
+94.398916
+Rock
+Slide
+07 July 2025
+25791
+NA/ZUN/83J12/2024/01
+Nagaland
+Zunheboto
+Alahuto landslide
+Alahuto Ward
+26.017317
+94.531348
+Earth
+Slide
+07.07.2024 (around 4.00pm)
+25792
+NA/KOH/83K02/2024/01
+Nagaland
+Kohima
+Lerie Colony
+NH-2
+25.471526
+94.151784
+Debris
+Slide
+July 2018
+25793
+NA/KOH/83K02/2024/02
+Nagaland
+Kohima
+Kigwema Village
+Kigwema-Meluri road
+25.6125
+94.1272
+Debris
+Slide
+06 July 2024
+25794
+NA/CHU/83G13/2024/01
+Nagaland
+Chumoukedima
+Pagala Pahar landslide
+NH-29
+25.7853
+93.8014
+Debris
+Slide
+03 September 2024
+25795
+NA/TUE/83J16/2024/01
+Nagaland
+Tuensang
+Phinjang Colony landslide
+NH 202
+26.247414
+94.819895
+Debris
+Slide
+1997,  2010, April 2024
+25796
+NA/WOK/83J08/2024/01
+Nagaland
+Wokha
+Near Hammock Restaurant 
+NH-61/Wokha Village
+26.111335
+94.257114
+Debris
+Slide
+ 2022, 15 July 2024
+25797
+NA/WKH/83J8/2024/02
+Nagaland
+Wokha
+Tchuyiro landslide
+Tchuyiro colony
+26.08945
+94.264217
+Earth
+Slide
+23 July 2024

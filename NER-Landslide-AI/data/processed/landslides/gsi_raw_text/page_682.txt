@@ -1,0 +1,347 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27033
+TN/ANN/58F12/2016/17
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Vatlakundu
+10.233333
+77.640444
+Earth
+Slide
+NA
+27034
+TN/ANN/58F12/2016/13
+Tamil Nadu
+Dindigul
+ 
+Along the road from Perumal 
+Malai to Adukkam near 
+Adukkam village
+10.233778
+77.565056
+Debris
+Slide
+NA
+27035
+TN/ANN/58F11/2016/22
+Tamil Nadu
+Dindigul
+ 
+Road from Senbaganur to 
+Prakasapuram
+10.235917
+77.509972
+Debris
+Slide
+NA
+27036
+TN/ANN/58F12/2016/4
+Tamil Nadu
+Dindigul
+ 
+Near Prakasapuram
+10.236556
+77.512194
+Earth
+Slide
+NA
+27037
+TN/ANN/58F12/2016/16
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Vatlakundu
+10.236778
+77.640111
+Earth
+Slide
+NA
+27038
+TN/ANN/58F12/2016/15
+Tamil Nadu
+Dindigul
+ 
+Along the road from Perumal 
+Malai to Adukkam near 
+Adukkam village
+10.237
+77.554806
+Debris
+Slide
+NA
+27039
+TN/ANN/58F12/2016/30
+Tamil Nadu
+Dindigul
+ 
+Senbaganur
+10.238875
+77.523114
+Debris
+Slide
+NA
+27040
+TN/ANN/58F08/2016/16
+Tamil Nadu
+Dindigul
+ 
+Along the road from 
+Mannavanur to Poombarai
+10.239389
+77.350889
+Debris
+Slide
+NA
+27041
+TN/ANN/58F12/2016/5
+Tamil Nadu
+Dindigul
+ 
+Near Prakasapuram
+10.239417
+77.519611
+Earth
+Slide
+NA
+27042
+TN/ANN/58F12/2016/6
+Tamil Nadu
+Dindigul
+ 
+Prakasapuram
+10.239444
+77.519972
+Earth
+Slide
+NA
+27043
+TN/ANN/58F08/2016/20
+Tamil Nadu
+Dindigul
+ 
+Along the road from 
+Mannavanur to Poombarai
+10.240167
+77.37825
+Earth
+Slide
+NA
+27044
+TN/ANN/58F08/2016/21
+Tamil Nadu
+Dindigul
+ 
+Mother Theresa womenΓÇÖs 
+college  Kodaikanal
+10.240769
+77.5049
+Debris
+Slide
+NA
+27045
+TN/ANN/58F08/2016/19
+Tamil Nadu
+Dindigul
+ 
+Along the road from 
+Mannavanur to Poombarai
+10.240806
+77.366222
+Earth
+Slide
+NA
+27046
+TN/ANN/58F12/2016/1
+Tamil Nadu
+Dindigul
+ 
+Prakasapuram- Periyavarai road 10.241139
+77.528889
+Debris
+Slide
+NA
+27047
+TN/ANN/58F08/2016/25
+Tamil Nadu
+Dindigul
+ 
+Indranagar- Behind Mother 
+Theresa college
+10.241372
+77.504561
+Debris
+Slide
+NA
+27048
+TN/ANN/58F12/2016/2
+Tamil Nadu
+Dindigul
+ 
+Prakasapuram- Periyavarai road 10.241861
+77.527833
+Debris
+Slide
+NA
+27049
+TN/ANN/58F12/2016/3
+Tamil Nadu
+Dindigul
+ 
+Prakasapuram- Periyavarai road 10.242028
+77.527361
+Debris
+Slide
+NA
+27050
+TN/ANN/58F08/2016/17
+Tamil Nadu
+Dindigul
+ 
+Along the road from 
+Mannavanur to Kilanavayal
+10.243444
+77.33425
+Earth
+Slide
+NA
+27051
+TN/ANN/58F12/2016/31
+Tamil Nadu
+Dindigul
+ 
+Pullathur village
+10.245033
+77.643522
+Earth
+Slide
+NA
+27052
+TN/ANN/58F12/2016/12
+Tamil Nadu
+Dindigul
+ 
+Near Adukkam village
+10.246278
+77.557194
+Debris
+Slide
+NA
+27053
+TN/ANN/58F12/2016/11
+Tamil Nadu
+Dindigul
+ 
+Near Adukkam village
+10.246556
+77.556861
+Debris
+Slide
+NA
+27054
+TN/ANN/58F11/2016/17
+Tamil Nadu
+Dindigul
+ 
+Road from Kodaikanal  to 
+Genguvarpatti
+10.248917
+77.52025
+Earth
+Slide
+NA
+27055
+TN/ANN/58F08/2016/2
+Tamil Nadu
+Dindigul
+ 
+Road from Kodaikanal  to 
+Vilpatti
+10.249
+77.49075
+Debris
+Slide
+NA
+27056
+TN/ANN/58F08/2016/3
+Tamil Nadu
+Dindigul
+ 
+Road from Kodaikanal  to 
+Vilpatti
+10.249417
+77.490833
+Debris
+Slide
+NA
+27057
+TN/ANN/58F08/2016/18
+Tamil Nadu
+Dindigul
+ 
+Along the road from 
+Mannavanur to Kilanavayal
+10.249722
+77.333611
+Debris
+Slide
+NA
+27058
+TN/ANN/58F08/2016/1
+Tamil Nadu
+Dindigul
+ 
+Road from Kodaikanal  to 
+Vilpatti
+10.249944
+77.491806
+Debris
+Slide
+NA
+27059
+TN/DIN/58F07/2017/1
+Tamil Nadu
+Dindigul
+ 
+Pumbarai bifurcation
+10.250556
+77.412556
+Soil
+Slide
+NA
+27060
+TN/DIN/58F07/2017/29
+Tamil Nadu
+Dindigul
+ 
+3 km south  of  Kilanavayol  
+village
+10.251778
+77.32975
+Soil
+Slide
+NA
+27061
+TN/DIN/58F07/2017/32
+Tamil Nadu
+Dindigul
+ 
+Kilanavayol  village
+10.252222
+77.333056
+Rock cum debris
+Slide
+NA

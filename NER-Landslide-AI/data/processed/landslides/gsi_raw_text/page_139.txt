@@ -1,0 +1,463 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+5741
+HP/KIN/53E14/2016/13
+Himachal Pradesh
+Kinnaur
+ 
+Near Naptha Damnh - 22/ Right 
+bank of Satluj
+31.5593
+77.9967
+Earth
+Topple
+NA
+5742
+HP/KUL/53E10/2016/21
+Himachal Pradesh
+Kullu
+ 
+Jaon
+31.56
+77.571
+Debris
+Slide
+NA
+5743
+HP/KIN/53E14/2016/84
+Himachal Pradesh
+Kinnaur
+ 
+NH22
+31.56
+77.9028
+Rock
+Topple
+NA
+5744
+HP/KIN/53E14/2016/69
+Himachal Pradesh
+Kinnaur
+ 
+NH-72
+31.5608
+77.9771
+Rock
+Fall
+NA
+5745
+HP/KUL/53E06/2016/40
+Himachal Pradesh
+Kullu
+ 
+Jain,NH 305
+31.560923
+77.368597
+Debris
+Slide
+2011
+5746
+HP/KUL/53E10/2016/19
+Himachal Pradesh
+Kullu
+ 
+North of jaon
+31.561
+77.574
+Debris
+Slide
+NA
+5747
+HP/MAN/53A10/2018/7
+Himachal Pradesh
+Mandi
+ 
+SH-32
+31.561
+76.571639
+Debris
+Slide
+NA
+5748
+HP/KIN/53E14/2016/21
+Himachal Pradesh
+Kinnaur
+ 
+Near Garsu village, Garsu- 
+Chota Kamba foot track
+31.5613
+77.9197
+Debris
+Slide
+2014
+5749
+HP/KIN/53E14/2016/40
+Himachal Pradesh
+Kinnaur
+ 
+Near Kandhar village
+31.5614
+77.9999
+Rock
+Slide
+NA
+5750
+HP/KIN/53E14/2016/41
+Himachal Pradesh
+Kinnaur
+ 
+Near Kandhar village
+31.5614
+77.9936
+Rock
+Slide
+NA
+5751
+HP/KIN/53E14/2016/81
+Himachal Pradesh
+Kinnaur
+ 
+NH22
+31.5615
+77.8999
+Rock
+Fall
+NA
+5752
+HP/KIN/53E14/2016/24
+Himachal Pradesh
+Kinnaur
+ 
+Near Garsu village, Garsu- 
+Chota Kamba foot track
+31.5619
+77.9103
+Debris
+Fall
+2014
+5753
+HP/KIN/53E14/2016/37
+Himachal Pradesh
+Kinnaur
+ 
+Near Kandhar village
+31.562
+77.9983
+Rock
+Slide
+NA
+5754
+HP/MAN/53E02/2015/136
+Himachal Pradesh
+Mandi
+ 
+Chail Chawk-Gogar Pandoh 
+road
+31.562056
+77.176167
+Rock cum debris
+Slide
+NA
+5755
+HP/MAN/53E02/2015/151
+Himachal Pradesh
+Mandi
+ 
+Badal Road
+31.562083
+77.062361
+Rock cum debris
+Slide
+NA
+5756
+HP/KIN/53E14/2016/59
+Himachal Pradesh
+Kinnaur
+ 
+Near Nathpa dam, NH-22/ Right 
+bank of Satluj river
+31.5623
+77.9848
+Debris
+Slide
+NA
+5757
+HP/SHI/53E14/2016/93
+Himachal Pradesh
+Shimla
+ 
+Near Taranda Link Road
+31.5623
+77.8879
+Rock
+Fall
+NA
+5758
+HP/MAN/53E02/2015/135
+Himachal Pradesh
+Mandi
+ 
+Chail Chawk-Gogar Pandoh 
+road
+31.562583
+77.176083
+Rock cum debris
+Slide
+NA
+5759
+HP/MAN/53E02/2015/153
+Himachal Pradesh
+Mandi
+ 
+Badal Road
+31.562722
+77.032111
+Rock cum debris
+Slide
+NA
+5760
+HP/KIN/53E14/2016/54
+Himachal Pradesh
+Kinnaur
+ 
+NH22
+31.5628
+77.8984
+Debris
+Slide
+NA
+5761
+HP/SHI/53E14/2016/89
+Himachal Pradesh
+Shimla
+ 
+Near Taranda Link Road
+31.5629
+77.8897
+Rock
+Fall
+NA
+5762
+HP/SHI/53E14/2016/4
+Himachal Pradesh
+Shimla
+ 
+Nigulsari NH-22
+31.563
+77.883
+Debris
+Slide
+2008
+5763
+HP/KIN/53E14/2016/82
+Himachal Pradesh
+Kinnaur
+ 
+NH22
+31.5631
+77.8991
+Rock
+Fall
+NA
+5764
+HP/KIN/53E14/2016/97
+Himachal Pradesh
+Kinnaur
+ 
+N of Nigalsari, NH 22
+31.563241
+77.882993
+Rock cum debris
+Slide
+NA
+5765
+HP/MAN/53E02/2015/152
+Himachal Pradesh
+Mandi
+ 
+Badal Road
+31.56325
+77.058583
+Rock cum debris
+Slide
+NA
+5766
+HP/KIN/53E14/2016/68
+Himachal Pradesh
+Kinnaur
+ 
+Near Nathpa dam, NH-22
+31.5634
+77.9697
+Debris
+Slide
+NA
+5767
+HP/KIN/53E14/2016/25
+Himachal Pradesh
+Kinnaur
+ 
+Near Garsu village, Garsu- 
+Chota Kamba foot track
+31.5635
+77.918
+Debris
+Slide
+2014
+5768
+HP/KIN/53E14/2016/66
+Himachal Pradesh
+Kinnaur
+ 
+Near Nathpa dam, NH-22
+31.5636
+77.968
+Debris
+Slide
+NA
+5769
+HP/MAN/53E02/2015/137
+Himachal Pradesh
+Mandi
+ 
+Chail Chawk-Gogar Pandoh 
+road
+31.563667
+77.171694
+Rock cum debris
+Slide
+NA
+5770
+HP/KIN/53E14/2016/23
+Himachal Pradesh
+Kinnaur
+ 
+Near Garsu village, Garsu- 
+Chota Kamba foot track
+31.5639
+77.9075
+Debris
+Slide
+2014
+5771
+HP/KIN/53E14/2016/87
+Himachal Pradesh
+Kinnaur
+ 
+NH22
+31.5643
+77.8973
+Rock
+Fall
+NA
+5772
+HP/KIN/53E14/2016/22
+Himachal Pradesh
+Kinnaur
+ 
+Near Garsu village, Garsu- 
+Chota Kamba foot track
+31.5646
+77.905
+Debris
+Slide
+2014
+5773
+HP/SHI/53E14/2016/88
+Himachal Pradesh
+Shimla
+ 
+Near Taranda Link Road
+31.5646
+77.8923
+Rock
+Fall
+NA
+5774
+HP/SHI/53E14/2016/90
+Himachal Pradesh
+Shimla
+ 
+Near Taranda Link Road
+31.5646
+77.8913
+Rock
+Fall
+NA
+5775
+HP/SHI/53E14/2016/110
+Himachal Pradesh
+Shimla
+ 
+South of Kuthru
+31.564803
+77.809584
+Rock
+Slide
+NA
+5776
+HP/KUL/53E10/2016/2
+Himachal Pradesh
+Kullu
+ 
+Dugalambar
+31.564859
+77.563673
+Debris
+Subsidence
+2016
+5777
+HP/KUL/53E10/2016/37
+Himachal Pradesh
+Kullu
+ 
+Bhujrigad P.F.
+31.565
+77.723
+Rock cum debris
+Slide
+NA
+5778
+HP/KIN/53E14/2016/65
+Himachal Pradesh
+Kinnaur
+ 
+Nathpa - Kachrangathpa - 
+Kachrang foot track
+31.5652
+77.9556
+Rock
+Slide
+2014
+5779
+HP/KIN/53E14/2016/45
+Himachal Pradesh
+Kinnaur
+ 
+Naer Nathpa Dam
+31.5654
+77.9832
+Rock
+Slide
+NA
+5780
+HP/KIN/53E14/2016/78
+Himachal Pradesh
+Kinnaur
+ 
+NH22
+31.5655
+77.8961
+Rock
+Fall
+NA

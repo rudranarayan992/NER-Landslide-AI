@@ -1,0 +1,344 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15725
+KER/IDK/58C13/2018/19
+Kerala
+Idukki
+Antopuram
+Chelachuvadu-Antopuram-
+Murikkasseri Road
+9.908841
+76.982578
+Soil
+Slide
+17th August 2018
+15726
+KER/IDK/58C13/2018/19A
+Kerala
+Idukki
+Millumpadi
+Kochukarimban-Chalicity Road
+9.894024
+76.987366
+Soil
+Slide
+16th August 2018
+15727
+KER/IDK/58C13/2018/20
+Kerala
+Idukki
+Gouricity
+Gouricity-Antopuram Road
+9.900295
+76.998298
+Debris
+Flow
+15th August 2018
+15728
+KER/IDK/58C13/2018/21
+Kerala
+Idukki
+Kochukarimban
+Kochukarimban-Vimalagiri Road 9.896827
+76.977966
+Debris
+Slide
+15th August 2018
+15729
+KER/IDK/58C13/2018/22
+Kerala
+Idukki
+Kochukarimban
+Kochukarimban-Vimalagiri Road 9.896211
+76.978245
+Debris
+Slide
+15th August 2018
+15730
+KER/IDK/58C13/2018/23
+Kerala
+Idukki
+Vimalagiri
+Kochukarimban-Vimalagiri Road 9.89091
+76.980355
+Debris
+Slide
+15th August 2018
+15731
+KER/IDK/58C13/2018/24
+Kerala
+Idukki
+Vimalagiri
+Kochukarimban-Vimalagiri Road 9.894852
+76.978774
+Soil
+Slide
+16th August 2018
+15732
+KER/IDK/58C13/2018/25
+Kerala
+Idukki
+Vimalagiri
+Vimalagiri-Enikuthu Road
+9.890515
+76.975357
+Debris
+Flow
+16th August 2018
+15733
+KER/IDK/58C13/2018/26
+Kerala
+Idukki
+Madathinkadavu
+Vimalagiri-Thadiyambadu Road 9.884152
+76.970615
+Debris
+Slide
+16th August 2018
+15734
+KER/IDK/58C13/2018/27
+Kerala
+Idukki
+Madathinkadavu
+Vimalagiri-Thadiyambadu Road 9.882853
+76.971683
+Debris
+Slide
+16th August 2018
+15735
+KER/IDK/58C13/2018/28
+Kerala
+Idukki
+Chappacity
+Chappacity-Thadiyambadu Road 9.881991
+76.976847
+Debris
+Flow
+15th August 2018
+15736
+KER/IDK/58C13/2018/29
+Kerala
+Idukki
+Karikkintholam South
+Vimalagiri-Vandipara Road
+9.878081
+76.986869
+Debris
+Slide
+15th August 2018
+15737
+KER/IDK/58C13/2018/30
+Kerala
+Idukki
+Ambalapadi
+Vimalagiri-EL City-Ambalapadi 
+Road
+9.865821
+76.999439
+Debris
+Slide
+15th August 2018
+15738
+KER/IDK/58C13/2018/31
+Kerala
+Idukki
+EL City
+Vimalagiri-EL City-Ambalapadi 
+Road
+9.87432
+76.9898
+Debris
+Slide
+15th August 2018
+15739
+KER/IDK/58C13/2018/32
+Kerala
+Idukki
+Karikkintholam
+Vettiyankalpadi-Eendukkalpadi 
+Road
+9.877649
+76.981981
+Debris
+Flow
+15th August 2018
+15740
+KER/IDK/58C13/2018/33
+Kerala
+Idukki
+Vimalagiri
+Chappacity-Pandippara Road
+9.883083
+76.980153
+Debris
+Slide
+15th August 2018
+15741
+KER/IDK/58C13/2018/34
+Kerala
+Idukki
+Chappacity
+Chappacity-Thadiyambadu-
+Shantgram Road
+9.882181
+76.989036
+Soil
+Subsidence
+15th August 2018
+15742
+KER/IDK/58C13/2018/35
+Kerala
+Idukki
+Chappacity
+Chappacity-Prakash Road
+9.874025
+76.995523
+Debris
+Slide
+15th August 2018
+15743
+KER/IDK/58C13/2018/36
+Kerala
+Idukki
+Karikkintholam
+Thadiyambadu-Shantigram 
+Road
+9.872942
+76.996829
+Debris
+Flow
+15th August 2018
+15744
+KER/IDK/58C13/2018/37
+Kerala
+Idukki
+Chappacity
+Thadiyambadu-Shantigram 
+Road
+9.883011
+76.986188
+Soil
+Slide
+15th August 2018
+15745
+KER/IDK/58C13/2018/38
+Kerala
+Idukki
+Chappacity
+Thadiyambadu-Shantigram 
+Road
+9.879814
+76.990325
+Debris
+Flow
+2016, 15th August 2018
+15746
+KER/IDK/58C13/2018/39
+Kerala
+Idukki
+Karikkintholam
+Chalicity-Prakash Road
+9.874626
+76.999437
+Debris
+Flow
+15th August 2018
+15747
+KER/IDK/58G01/2018/40
+Kerala
+Idukki
+Thazhathe Neeluvayal
+Chappacity-Prakash Road
+9.855313
+77.033448
+Debris
+Slide
+15th August 2018
+15748
+KER/IDK/58G01/2018/41
+Kerala
+Idukki
+Madapra
+Prakash-Karikkinmedu-
+Ambalam Road
+9.859618
+77.042115
+Debris
+Flow
+15th August 2018
+15749
+KER/IDK/58G01/2018/42
+Kerala
+Idukki
+Upputhodu, Ratiokada city
+Ratiokada city-Prakash Road
+9.880924
+77.008856
+Debris
+Slide
+15th August 2018
+15750
+KER/IDK/58G01/2018/43
+Kerala
+Idukki
+Upputhodu, Ratiokada city
+Ratiokada city-Prakash Road
+9.879905
+77.008549
+Debris
+Slide
+15th August 2018
+15751
+KER/IDK/58G01/2018/44
+Kerala
+Idukki
+Upputhodu, Poothakuzhi city
+Rationkadapadi-Karikkinmedu 
+Road
+9.874019
+77.016316
+Debris
+Flow
+15th August 2018
+15752
+KER/IDK/58G01/2018/45
+Kerala
+Idukki
+Upputhodu, Poothakuzhi city
+Rationkadacity-Prakash Road
+9.871903
+77.019521
+Debris
+Flow
+15th August 2018
+15753
+KER/IDK/58G01/2018/46
+Kerala
+Idukki
+Upputhodu, Pulinchodu
+Karimban-Prakash Road
+9.867693
+77.029203
+Debris
+Flow
+15th August 2018
+15754
+KER/IDK/58G01/2018/47
+Kerala
+Idukki
+Chitadikkavala
+Upputhodu-Chittadikavala Road 9.867546
+77.014937
+Debris
+Flow
+12th August 2018

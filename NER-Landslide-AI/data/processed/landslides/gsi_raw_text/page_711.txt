@@ -1,0 +1,343 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28019
+TN/NIL/58A/11/2019/63
+Tamil Nadu
+Nilgiri
+TNEB PH-6 debris slide 2
+TNEB, R-Type quarters, Kundah 
+PH-6
+11.34398
+76.63676
+Debris
+Slide
+8 August 2019
+28020
+TN/NIL/58A/11/2019/64
+Tamil Nadu
+Nilgiri
+TNEB PH-6 debris slide 3
+Downslope of road from TNEB, 
+R-Type quarters to PH-6
+11.36296
+76.60427
+Debris
+Slide
+8 August 2019
+28021
+TN/NIL/58A/11/2019/65
+Tamil Nadu
+Nilgiri
+PH-6 road cut slope failure
+Road from Emerald colony to 
+PH-6
+11.36133
+76.60171
+Earth
+Slide
+8 August 2019
+28022
+TN/NIL/58A/11/2019/66
+Tamil Nadu
+Nilgiri
+West of Emerald Earth slide
+West of Emerald colony
+11.32286
+76.61794
+Earth
+Slide
+8 August 2019
+28023
+TN/NIL/58A/11/2019/67
+Tamil Nadu
+Nilgiri
+Emerald colony Earth slide
+Emerald colony
+11.32247
+76.6224
+Earth
+Slide
+8 August 2019
+28024
+TN/NIL/58A/11/2019/68
+Tamil Nadu
+Nilgiri
+Emerald colony cut slope failure
+Emerald colony
+11.32275
+76.62117
+Earth
+Slide
+8 August 2019
+28025
+TN/NIL/58A/11/2019/69
+Tamil Nadu
+Nilgiri
+Kundah road Earth flow 1
+Approach road to Kundah PH-6
+11.34464
+76.59638
+Earth
+Flow
+8 August 2019
+28026
+TN/NIL/58A/11/2019/70
+Tamil Nadu
+Nilgiri
+Kundah road Earth flow 2
+Approach road to Kundah PH-6
+11.34471
+76.59548
+Earth
+Flow
+8 August 2019
+28027
+TN/NIL/58A/11/2019/71
+Tamil Nadu
+Nilgiri
+Kundah road cut slope failure
+Approach road to Kundah PH-6
+11.35807
+76.59917
+Debris
+slide
+8 August 2019
+28028
+TN/NIL/58A/11/2019/72
+Tamil Nadu
+Nilgiri
+TRT exit stream bank failure
+South of Kundah PH-6
+11.36013
+76.60118
+Debris
+slide
+8 August 2019
+28029
+TN/NIL/58A/11/2019/73
+Tamil Nadu
+Nilgiri
+Kundah PH 6 road stream bank failure Downslope of Kundah Power 
+house-6 road
+11.36078
+76.60156
+Debris
+slide
+8 August 2019
+28030
+TN/NIL/58A/11/2019/74
+Tamil Nadu
+Nilgiri
+Silambu north west slide1
+North West of Silambu
+11.35854
+76.59167
+Debris
+slide
+8 August 2019
+28031
+TN/NIL/58A/11/2019/75
+Tamil Nadu
+Nilgiri
+Silambu north west slide2
+North West of Silambu
+11.36079
+76.59161
+Debris
+slide
+8 August 2019
+28032
+TN/NIL/58A/11/2019/76
+Tamil Nadu
+Nilgiri
+Red Hill Nature Resort subsidence
+Red Hill Nature Resort, Emerald 
+road
+11.34166
+76.59664
+Earth
+Subsidence
+8 August 2019
+28033
+TN/NIL/58A/11/2019/77
+Tamil Nadu
+Nilgiri
+Indra Nagar colony cut slope failure
+Indra Nagar colony, Emarald
+11.33736
+76.60422
+Debris
+slide
+8 August 2019
+28034
+TN/SAL/58I02/2022/1
+Tamil Nadu
+Salem
+Salem-Yercaud road Corridor
+11.74043917
+78.18203667
+Debris
+Slide
+4 September 2022
+28035
+TN/SAL/58I02/2022/2
+Tamil Nadu
+Salem
+Salem-Yercaud road Corridor
+11.74705472
+78.185225
+Debris
+Slide
+4 September 2022
+28036
+TN/SAL/58I03/2022/3
+Tamil Nadu
+Salem
+Salem-Yercaud road Corridor
+11.7484725
+78.18662694
+Debris/Rock
+Slide/Fall
+4 September 2022
+28037
+TN/SAL/58I01/2022/4
+Tamil Nadu
+Salem
+Salem-Yercaud road Corridor
+11.7501675
+78.18769167
+Debris
+Slide
+4 September 2022
+28038
+TN/SAL/58I01/2022/5
+Tamil Nadu
+Salem
+60 feet bridge
+Salem-Yercaud road Corridor
+11.75093778
+78.18851
+Debris cum rock
+Flow/slide/Fall 4 September 2022
+28039
+TN/SAL/58I01/2022/6
+Tamil Nadu
+Salem
+Salem-Yercaud road Corridor
+11.76150028
+78.188325
+Rock cum Debris
+Slide
+4 September 2022
+28040
+TN/SAL/58I01/2022/7
+Tamil Nadu
+Salem
+Salem-Yercaud road Corridor
+11.76307472
+78.18866333
+Debris
+Slide
+4 September 2022
+28041
+TN/SAL/58I01/2022/8
+Tamil Nadu
+Salem
+Salem-Yercaud road Corridor
+11.76376111
+78.18828694
+Debris
+Slide
+4 September 2022
+28042
+TN/SAL/58I012022/9
+Tamil Nadu
+Salem
+Salem-Yercaud road Corridor
+11.7645275
+78.18838167
+Debris
+Slide
+4 September 2022
+28043
+TN/SAL/58I05/2022/10
+Tamil Nadu
+Salem
+Yarcaud-Kuppanur road section 11.77961444
+78.27011667
+Debris
+Slide
+4 September 2022
+28044
+TN/SAL/58I05/2022/11
+Tamil Nadu
+Salem
+Near Muniyappan Temple
+Yarcaud-Kuppanur road section 11.77561444
+78.270105
+Debris
+Slide
+4 September 2022
+28045
+TN/SAL/58I05/2022/12
+Tamil Nadu
+Salem
+Yarcaud-Kuppanur road section 11.77557639
+78.26948667
+Debris
+Slide
+4 September 2022
+28046
+TN/NIL/58A07/2022/1
+Tamil Nadu
+Nilgiri
+Nadu Gudalur
+Pillayar Koil Street
+11.497633
+76.497433
+Debris
+Flow
+18 August 2022
+28047
+TN/NIL/58A11/2022/2
+Tamil Nadu
+Nilgiri
+Nadu Gudalur  NH slide
+Nadu Gudalur  NH slide
+11.495153
+76.516963
+Debris
+Subsidence
+18 August 2022
+28048
+TN/NIL/58A11/2022/3
+Tamil Nadu
+Nilgiri
+Gudalur Government college
+Gudalur college slide
+11.492567
+76.453354
+Debris
+Slide
+18 August 2022
+28049
+TN/NIL/58A07/2022/4
+Tamil Nadu
+Nilgiri
+Naduvattum
+3 Km south of Naduvattum
+11.48891
+76.537294
+Debris
+Slide
+5 August 2022

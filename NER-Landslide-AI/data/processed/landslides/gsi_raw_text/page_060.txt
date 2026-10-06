@@ -1,0 +1,429 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+2089
+AP/VIS/65J15/2018/16
+Andhra Pradesh
+Visakhapatanam
+ 
+Galikonda                (Culvert ΓÇô 
+92/1)
+18.257981
+82.992014
+Rock
+Fall
+NA
+2090
+AP/VIS/65J15/2018/4
+Andhra Pradesh
+Visakhapatanam
+ 
+Along SH 39
+18.258925
+82.985553
+Rock
+Slide
+NA
+2091
+AP/VIS/65J15/2018/5
+Andhra Pradesh
+Visakhapatanam
+ 
+Along SH 39
+18.260186
+82.986625
+Rock cum debris
+Slide
+NA
+2092
+AP/VIS/65J15/2018/6
+Andhra Pradesh
+Visakhapatanam
+ 
+Along SH-39
+18.264242
+82.988536
+Rock
+Slide
+NA
+2093
+AP/VIS/65J15/2018/9
+Andhra Pradesh
+Visakhapatanam
+ 
+NW of Beespuram
+18.268203
+82.997358
+Rock
+Fall
+NA
+2094
+AP/VIS/65J15/2018/10
+Andhra Pradesh
+Visakhapatanam
+ 
+NW of Beespuram
+18.271922
+82.997775
+Debris
+Slide
+NA
+2095
+AP/VIS/65J15/2018/15
+Andhra Pradesh
+Visakhapatanam
+ 
+Galikonda,  Near Hanuman 
+temple
+18.276489
+82.990033
+Debris
+Slide
+NA
+2096
+AP/VIS/65J15/2018/12
+Andhra Pradesh
+Visakhapatanam
+ 
+Galikonda
+18.277019
+82.991542
+Debris
+Slide
+NA
+2097
+AP/VIS/65J15/2018/8
+Andhra Pradesh
+Visakhapatanam
+ 
+200m east of Sunkarmeta view 
+point
+18.277786
+82.994925
+Rock
+Fall
+NA
+2098
+AP/VIS/65J15/2018/17
+Andhra Pradesh
+Visakhapatanam
+ 
+Galikonda Area
+18.277817
+82.993156
+Debris
+Slide
+NA
+2099
+AP/VIS/65J15/2018/7
+Andhra Pradesh
+Visakhapatanam
+ 
+1km north of Bispuram village
+18.278067
+82.993814
+Debris
+Slide
+NA
+2100
+AP/VIS/65J15/2018/18
+Andhra Pradesh
+Visakhapatanam
+ 
+Beespuram
+18.280111
+82.990472
+Rock
+Fall
+NA
+2101
+AP/VIS/65N04/2018/4
+Andhra Pradesh
+Visakhapatanam
+ 
+On the way to Katki waterfall
+18.281836
+83.006239
+Debris
+Slide
+NA
+2102
+AP/VIS/65J15/2018/2
+Andhra Pradesh
+Visakhapatanam
+ 
+600m East of Balluguda village
+18.283206
+82.943983
+Debris
+Flow
+NA
+2103
+AP/VIS/65J15/2018/1
+Andhra Pradesh
+Visakhapatanam
+ 
+500m East of Balluguda village
+18.283511
+82.944086
+Rock
+Fall
+NA
+2104
+AP/VIS/65J15/2018/11
+Andhra Pradesh
+Visakhapatanam
+ 
+Araku
+18.305094
+82.882217
+Debris
+Slide
+NA
+2105
+AP/VIS/65J16/2018/1
+Andhra Pradesh
+Visakhapatanam
+ 
+1km north of Mardaguda
+18.308125
+82.852928
+Debris
+Slide
+NA
+2106
+AP/VIS/65J15/2018/20
+Andhra Pradesh
+Visakhapatanam
+ 
+Kodipunjuvalasa Slide
+18.312228
+82.853717
+Debris
+Slide
+NA
+2107
+AP/VIS/65J15/2018/22
+Andhra Pradesh
+Visakhapatanam
+ 
+Jangadivalasa
+18.317092
+82.812678
+Debris
+Slide
+NA
+2108
+AP/VIS/65J15/2018/21
+Andhra Pradesh
+Visakhapatanam
+ 
+Tiklibida Landslide
+18.332272
+82.833008
+Debris
+Slide
+NA
+2109
+AP/VIS/65J15/2018/13
+Andhra Pradesh
+Visakhapatanam
+ 
+SH-39, 300 meters ahead of 
+Araku Railway Crossing
+18.333653
+82.828822
+Rock
+Slide
+NA
+2110
+HP/SIR/53F05/2017/8
+Himachal Pradesh
+Sirmur
+ 
+Marug, MDR3
+30
+77.889583
+Rock cum debris
+Slide
+NA
+2111
+HP/SOL/53F01/2018/004
+Himachal Pradesh
+Solan
+NH22/ RD: 70+750 to 70+950
+NH22/ RD: 70+750 to 
+70+950/Dattyar Village,
+30.078833
+79.794472
+Rock cum debris
+Slide
+NA
+2112
+HP/SOL/53F01/2018/003
+Himachal Pradesh
+Solan
+NH22/ RD: 71+100 to 71+200
+NH22/ RD: 71+100 to 
+71+200/Dattyar Village, near 
+ChakiMorh
+30.083278
+79.79875
+Rock cum debris
+Slide
+NA
+2113
+HP/SOL/53F01/2018/002
+Himachal Pradesh
+Solan
+NH22/ RD: 71+300 to 71+420
+NH22/ RD: 71+300 to 
+71+420/ChakkiMorh
+30.083639
+79.800806
+Rock cum debris
+Slide
+NA
+2114
+HP/SOL/53F01/2018/001
+Himachal Pradesh
+Solan
+NH22/ RD: 87+480
+NH22/ RD: 87+480/3km away 
+from Kumarhatti to Chandigarh 
+on ShimlaChandigarh Road.
+30.083917
+79.799694
+Rock cum debris
+Slide
+NA
+2115
+HP/SIR/53F07/2017/9
+Himachal Pradesh
+Sirmur
+ 
+Mehtawala
+30.448658
+77.379747
+Rock cum debris
+Slide
+NA
+2116
+HP/SIR/53F07/2017/10
+Himachal Pradesh
+Sirmur
+ 
+Mehtawala
+30.450071
+77.376833
+Rock cum debris
+Slide
+NA
+2117
+HP/SIR/53F07/2017/1
+Himachal Pradesh
+Sirmur
+ 
+Mehtawala
+30.450422
+77.375728
+Rock cum debris
+Slide
+NA
+2118
+HP/SIR/53F07/2017/2
+Himachal Pradesh
+Sirmur
+ 
+Mehtawala
+30.451326
+77.375918
+Rock cum debris
+Slide
+NA
+2119
+HP/SIR/53F07/2017/3
+Himachal Pradesh
+Sirmur
+ 
+Mehtawala
+30.451887
+77.375859
+Rock cum debris
+Slide
+NA
+2120
+HP/SIR/53F07/2017/4
+Himachal Pradesh
+Sirmur
+ 
+Mehtawala
+30.452326
+77.376697
+Rock cum debris
+Slide
+NA
+2121
+HP/SIR/53F07/2017/17
+Himachal Pradesh
+Sirmur
+ 
+Sout of Haripur
+30.452799
+77.38828
+Rock cum debris
+Slide
+NA
+2122
+HP/SIR/53F07/2017/5
+Himachal Pradesh
+Sirmur
+ 
+Mehtawala
+30.452893
+77.378037
+Rock cum debris
+Slide
+NA
+2123
+HP/SIR/53F07/2017/6
+Himachal Pradesh
+Sirmur
+ 
+Mehtawala
+30.453874
+77.377954
+Rock cum debris
+Slide
+NA
+2124
+HP/SIR/53F07/2017/8
+Himachal Pradesh
+Sirmur
+ 
+Mehtawala
+30.454318
+77.374081
+Rock cum debris
+Slide
+NA
+2125
+HP/SIR/53F07/2017/7
+Himachal Pradesh
+Sirmur
+ 
+Mehtawala
+30.454612
+77.374562
+Rock cum debris
+Slide
+NA

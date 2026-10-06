@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+6887
+HP/KUL/52H04/2015/204
+Himachal Pradesh
+Kullu
+ 
+Kais-Soil road
+32.0334
+77.1496
+Debris
+Slide
+NA
+6888
+HP/KUL/52H04/2015/165
+Himachal Pradesh
+Kullu
+ 
+Manali-Naggar Road
+32.0335
+77.1366
+Debris
+Slide
+NA
+6889
+HP/KUL/52H04/2015/197
+Himachal Pradesh
+Kullu
+ 
+Kais-Soil road
+32.0342
+77.1403
+Debris
+Slide
+NA
+6890
+HP/KUL/52H04/2015/196
+Himachal Pradesh
+Kullu
+ 
+Kais-Soil road
+32.0342
+77.1403
+Debris
+Slide
+NA
+6891
+HP/KAN/52D08/2018/17
+Himachal Pradesh
+Kangra
+ 
+SAROTRI ROAD
+32.03425
+76.31728
+Debris
+Slide
+NA
+6892
+HP/KAN/52D08/2018/94
+Himachal Pradesh
+Kangra
+ 
+SUNHI ROAD
+32.03432
+76.31807
+Debris
+Slide
+NA
+6893
+HP/KAN/52D08/2018/20
+Himachal Pradesh
+Kangra
+ 
+SAROTRI KHAS
+32.03465
+76.31935
+Rock
+Slide
+NA
+6894
+HP/KAN/52D04/2018/15
+Himachal Pradesh
+Kangra
+ 
+Kahra
+32.034995
+76.23955
+Rock
+Slide
+NA
+6895
+HP/KAN/52D08/2018/133
+Himachal Pradesh
+Kangra
+KHAROTA
+ 
+32.03572
+76.4133
+Debris
+Slide
+NA
+6896
+HP/KAN/52D08/2018/37
+Himachal Pradesh
+Kangra
+ 
+SULLAH-NANAUN ROAD
+32.035754
+76.462657
+Debris
+Slide
+NA
+6897
+HP/KAN/52D08/2018/131
+Himachal Pradesh
+Kangra
+GHAROH
+SULLAH-NANAUN ROAD
+32.0358
+76.46283
+Debris
+Slide
+NA
+6898
+HP/KAN/52D04/2018/25
+Himachal Pradesh
+Kangra
+ 
+Palera
+32.036092
+76.227837
+Debris
+Slide
+NA
+6899
+HP/KUL/52H04/2015/203
+Himachal Pradesh
+Kullu
+ 
+Kais-Soil road
+32.0362
+77.1472
+Debris
+Slide
+NA
+6900
+HP/KAN/52D08/2018/132
+Himachal Pradesh
+Kangra
+KHAROTA
+ 
+32.036624
+76.411489
+Debris
+Slide
+NA
+6901
+HP/KUL/52H04/2015/198
+Himachal Pradesh
+Kullu
+ 
+Kais-Soil road
+32.037
+77.1417
+Debris
+Slide
+NA
+6902
+HP/KUL/52H04/2015/199
+Himachal Pradesh
+Kullu
+ 
+Kais-Soil road
+32.0373
+77.1421
+Debris
+Slide
+NA
+6903
+HP/KAN/52D08/2018/57
+Himachal Pradesh
+Kangra
+TIHRI
+SULLAH-NANAUN ROAD
+32.038093
+76.463837
+Debris
+Slide
+NA
+6904
+HP/KUL/52H04/2015/202
+Himachal Pradesh
+Kullu
+ 
+Kais-Soil road
+32.0385
+77.1472
+Debris
+Subsidence
+NA
+6905
+HP/KAN/43P16/2020/2
+Himachal Pradesh
+Kangra
+Peh
+Diothi-Badal road
+32.04
+75.85
+Debris
+Slide
+2010
+6906
+HP/KAN/43P16/2020/5
+Himachal Pradesh
+Kangra
+ 
+Diothi
+32.04
+75.83
+Debris
+Slide
+2010
+6907
+HP/KAN/43P16/2020/6
+Himachal Pradesh
+Kangra
+ 
+Diothi
+32.04
+75.84
+Debris
+Slide
+NA
+6908
+HP/KAN/52D12/2020/13
+Himachal Pradesh
+Kangra
+ 
+Bir-Billing Road
+32.04
+76.73
+Rock
+Slide
+NA
+6909
+HP/KAN/52D12/2020/20
+Himachal Pradesh
+Kangra
+ 
+Bir-Billing Road
+32.04
+76.73
+Debris
+Slide
+NA
+6910
+HP/MAN/52D12/2020/26
+Himachal Pradesh
+Mandi
+ 
+Bir-Billing Road
+32.04
+76.74
+Debris
+Slide
+NA
+6911
+HP/MAN/52D12/2020/27
+Himachal Pradesh
+Mandi
+ 
+Bir-Billing Road
+32.04
+76.73
+Debris
+Slide
+NA
+6912
+HP/MAN/52D12/2020/28
+Himachal Pradesh
+Mandi
+ 
+Bir-Billing Road
+32.04
+76.73
+Debris
+Slide
+NA
+6913
+HP/MAN/52D12/2020/29
+Himachal Pradesh
+Mandi
+ 
+Bir-Billing Road
+32.04
+76.73
+Debris
+Slide
+NA
+6914
+HP/MAN/52D12/2020/30
+Himachal Pradesh
+Mandi
+ 
+Bir-Billing Road
+32.04
+76.74
+Debris
+Slide
+NA
+6915
+HP/KUL/52H04/2015/166
+Himachal Pradesh
+Kullu
+ 
+Manali-Naggar Road
+32.0411
+77.1361
+Debris
+Creep
+NA
+6916
+HP/KUL/52H04/2015/201
+Himachal Pradesh
+Kullu
+ 
+Kais-Soil road
+32.0413
+77.1461
+Rock
+Slide
+2015
+6917
+HP/LSP/53L04/2018/1
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Siluk
+32.04166
+78.23416
+Debris
+Slide
+NA
+6918
+HP/KUL/52H04/2015/167
+Himachal Pradesh
+Kullu
+ 
+Manali-Naggar Road
+32.0419
+77.1363
+Debris
+Slide
+NA
+6919
+HP/LSP/53L04/2018/2
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Siluk
+32.04307
+78.23095
+Debris
+Slide
+NA
+6920
+HP/MAN/52D16/2015/225
+Himachal Pradesh
+Mandi
+ 
+Lohardi-Barot link road
+32.0445
+76.8496
+Debris
+Slide
+NA
+6921
+HP/MAN/52D16/2015/235
+Himachal Pradesh
+Mandi
+ 
+Barot-Bargrah road
+32.0446
+76.8371
+Debris
+Slide
+NA
+6922
+HP/LSP/53L04/2018/6
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Dhankar
+32.04504
+78.23301
+Debris
+Slide
+NA
+6923
+HP/KUL/52H04/2015/168
+Himachal Pradesh
+Kullu
+ 
+Manali-Naggar Road
+32.0455
+77.1369
+Debris
+Slide
+NA
+6924
+HP/KUL/52H04/2015/150
+Himachal Pradesh
+Kullu
+ 
+Shajun village road
+32.0456
+77.1079
+Debris
+Slide
+NA
+6925
+HP/LSP/53L04/2018/3
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Siluk
+32.04604
+78.22957
+Debris
+Slide
+NA
+6926
+HP/LSP/53L04/2018/7
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Dhankar
+32.04629
+78.23266
+Debris
+Slide
+NA
+6927
+HP/KUL/52H04/2015/200
+Himachal Pradesh
+Kullu
+ 
+Kais-Soil road
+32.0465
+77.1453
+Debris
+Slide
+NA
+6928
+HP/MAN/52D16/2015/224
+Himachal Pradesh
+Mandi
+ 
+Lohardi-Barot link road
+32.0465
+76.8515
+Rock
+Topple
+NA
+6929
+HP/MAN/52D16/2015/223
+Himachal Pradesh
+Mandi
+ 
+Lohardi-Barot link road
+32.0468
+76.8528
+Debris
+Slide
+NA
+6930
+HP/LSP/53L12/2018/1
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Near Sumdo
+32.04682
+78.59743
+Rock cum debris
+Slide
+NA
+6931
+HP/LSP/53L04/2018/4
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Siluk
+32.0471
+78.22928
+Debris
+Slide
+NA
+6932
+HP/KUL/52H04/2015/205
+Himachal Pradesh
+Kullu
+ 
+Kais-Soil road
+32.0478
+77.1454
+Debris
+Slide
+NA
+6933
+HP/LSP/53L04/2018/5
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Siluk
+32.04781
+78.22788
+Debris
+Slide
+NA
+6934
+HP/MAN/52D16/2015/234
+Himachal Pradesh
+Mandi
+ 
+Barot-Bargrah road
+32.0481
+76.8344
+Rock
+Fall
+NA
+6935
+HP/LSP/53L04/2018/8
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Dhankar
+32.04823
+78.2313
+Debris
+Slide
+NA
+6936
+HP/LSP/53L12/2018/2
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Near Sumdo
+32.04836
+78.59797
+Rock cum debris
+Slide
+NA
+6937
+HP/MAN/52D16/2015/232
+Himachal Pradesh
+Mandi
+ 
+Barot-Bargrah road
+32.0487
+76.8277
+Debris
+Slide
+NA

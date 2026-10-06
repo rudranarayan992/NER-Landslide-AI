@@ -1,0 +1,533 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+4697
+HP/BIL/53A12/2017/22
+Himachal Pradesh
+Bilaspur
+ 
+NH 21,PALACHAD
+31.232972
+76.675
+Debris
+Slide
+NA
+4698
+HP/SHI/53E16/2016/123
+Himachal Pradesh
+Shimla
+ 
+NEAR SUNDASUSANDASU-
+KASHDHAR LINK ROAD
+31.233
+77.8893
+Debris
+Flow
+NA
+4699
+HP/BIL/53A12/2017/92
+Himachal Pradesh
+Bilaspur
+ 
+NH 21A
+31.233361
+76.69675
+Debris
+Slide
+NA
+4700
+HP/BIL/53A12/2017/16
+Himachal Pradesh
+Bilaspur
+ 
+NH 21, SWARGHAT
+31.233361
+76.69675
+Rock
+Slide
+NA
+4701
+HP/SHI/53E04/2017/72
+Himachal Pradesh
+Shimla
+ 
+KARIALI
+31.233583
+77.231528
+Debris
+Slide
+NA
+4702
+HP/BIL/53A12/2017/101
+Himachal Pradesh
+Bilaspur
+ 
+SH 16,KUSRI
+31.234278
+76.668833
+Debris
+Slide
+NA
+4703
+HP/BIL/53A12/2017/25
+Himachal Pradesh
+Bilaspur
+ 
+NH 21,PALACHAD
+31.234278
+76.668833
+Debris
+Slide
+NA
+4704
+HP/BIL/53A12/2017/90
+Himachal Pradesh
+Bilaspur
+ 
+NH 21A,GUJJAR HATTI
+31.234444
+76.708944
+Debris
+Slide
+NA
+4705
+HP/BIL/53A12/2017/14
+Himachal Pradesh
+Bilaspur
+ 
+NH 21, SWARGHAT
+31.234444
+76.708944
+Debris
+Slide
+NA
+4706
+HP/BIL/53A12/2017/91
+Himachal Pradesh
+Bilaspur
+ 
+NH 21A
+31.234472
+76.698778
+Debris
+Slide
+NA
+4707
+HP/BIL/53A12/2017/15
+Himachal Pradesh
+Bilaspur
+ 
+NH 21, SWARGHAT
+31.234472
+76.698778
+Debris
+Slide
+NA
+4708
+HP/SHI/53E16/2016/125
+Himachal Pradesh
+Shimla
+ 
+NEAR SUNDASUSANDASU-
+KASHDHAR LINK ROAD
+31.2345
+77.8956
+Debris
+Slide
+NA
+4709
+HP/SOL/53A16/2017/22
+Himachal Pradesh
+Solan
+ 
+SYARI
+31.235139
+76.901361
+Debris
+Slide
+NA
+4710
+HP/SOL/53A16/2017/21
+Himachal Pradesh
+Solan
+ 
+SYARI
+31.235306
+76.901333
+Debris
+Slide
+NA
+4711
+HP/SOL/53A16/2017/23
+Himachal Pradesh
+Solan
+ 
+SYARI
+31.235417
+76.900194
+Debris
+Slide
+NA
+4712
+HP/BIL/53A12/2017/80
+Himachal Pradesh
+Bilaspur
+ 
+NH 21,PALACHAD
+31.236222
+76.745111
+Debris
+Slide
+NA
+4713
+HP/SOL/53A16/2017/24
+Himachal Pradesh
+Solan
+ 
+SYARI
+31.236222
+76.899639
+Debris
+Slide
+NA
+4714
+HP/BIL/53A12/2017/1
+Himachal Pradesh
+Bilaspur
+ 
+NH 21
+31.236222
+76.745111
+Rock
+Slide
+NA
+4715
+HP/SOL/53A16/2017/32
+Himachal Pradesh
+Solan
+ 
+NH 88
+31.236417
+76.923194
+Debris
+Slide
+NA
+4716
+HP/SHI/53E16/2016/104
+Himachal Pradesh
+Shimla
+ 
+Chirgaon
+31.2365
+77.8817
+Debris
+Slide
+NA
+4717
+HP/SHI/53E16/2016/170
+Himachal Pradesh
+Shimla
+ 
+NEAR SANDASU BRIDGENH-72
+31.2365
+77.8945
+Rock
+Slide
+NA
+4718
+HP/SHI/53E16/2016/204
+Himachal Pradesh
+Shimla
+ 
+NEAR SADANSHUNH-72
+31.2368
+77.8951
+Rock
+Fall
+NA
+4719
+HP/SOL/53A16/2017/25
+Himachal Pradesh
+Solan
+ 
+SYARI
+31.236861
+76.899861
+Debris
+Slide
+NA
+4720
+HP/SHI/53E16/2016/11
+Himachal Pradesh
+Shimla
+ 
+NEAR SANDASU NH-72
+31.2369
+77.8898
+Debris
+Subsidence
+NA
+4721
+HP/BIL/53A12/2017/81
+Himachal Pradesh
+Bilaspur
+ 
+PALACHAD JANALI ROAD
+31.236917
+76.745028
+Rock
+Slide
+NA
+4722
+HP/BIL/53A12/2017/2
+Himachal Pradesh
+Bilaspur
+ 
+NH 21
+31.236917
+76.745028
+Debris
+Slide
+NA
+4723
+HP/BIL/53A16/2017/143
+Himachal Pradesh
+Bilaspur
+ 
+BAHADURPUR
+31.236944
+76.842028
+Rock
+Slide
+NA
+4724
+HP/SHI/53E16/2016/34
+Himachal Pradesh
+Shimla
+ 
+UKHOTI VILLAGENH-72
+31.2373
+77.8872
+Debris
+Slide
+NA
+4725
+HP/BIL/53A16/2017/95
+Himachal Pradesh
+Bilaspur
+ 
+NH 21
+31.237333
+76.775944
+Debris
+Slide
+NA
+4726
+HP/SHI/53E16/2016/24
+Himachal Pradesh
+Shimla
+ 
+NEAR JHALWARI
+31.2377
+77.8138
+Debris
+Slide
+NA
+4727
+HP/SHI/53E04/2017/71
+Himachal Pradesh
+Shimla
+ 
+KARIALI
+31.237778
+77.235694
+Debris
+Slide
+NA
+4728
+HP/SHI/53E04/2017/70
+Himachal Pradesh
+Shimla
+ 
+DARABLA
+31.238472
+77.233389
+Debris
+Slide
+NA
+4729
+HP/SHI/53E16/2016/101
+Himachal Pradesh
+Shimla
+ 
+Near Sharli,  NH-72
+31.2388
+77.9107
+Debris
+Slide
+NA
+4730
+HP/BIL/53A16/2017/139
+Himachal Pradesh
+Bilaspur
+ 
+BAHADURPUR
+31.238972
+76.852667
+Debris
+Slide
+NA
+4731
+HP/SHI/53E16/2016/29
+Himachal Pradesh
+Shimla
+ 
+NEAR GUMMAJANGLA-GUMMA 
+ROAD
+31.2392
+77.8449
+Debris
+Slide
+NA
+4732
+HP/BIL/53A16/2017/140
+Himachal Pradesh
+Bilaspur
+ 
+BAHADURPUR
+31.239361
+76.852028
+Rock
+Slide
+NA
+4733
+HP/SHI/53E16/2016/10
+Himachal Pradesh
+Shimla
+ 
+Shiladesh
+31.2394
+77.9428
+Rock
+Fall
+NA
+4734
+HP/SHI/53E16/2016/26
+Himachal Pradesh
+Shimla
+ 
+NEAR GUMMAJANGLA-GUMMA 
+ROAD
+31.2395
+77.8411
+Debris
+Slide
+NA
+4735
+HP/BIL/53A16/2017/146
+Himachal Pradesh
+Bilaspur
+ 
+MENTHI
+31.239556
+76.797306
+Rock
+Slide
+NA
+4736
+HP/BIL/53A16/2017/141
+Himachal Pradesh
+Bilaspur
+ 
+BAHADURPUR
+31.239694
+76.852
+Debris
+Slide
+NA
+4737
+HP/BIL/53A12/2017/82
+Himachal Pradesh
+Bilaspur
+ 
+PALACHAD JANALI ROAD
+31.239944
+76.742667
+Debris
+Slide
+NA
+4738
+HP/BIL/53A12/2017/3
+Himachal Pradesh
+Bilaspur
+ 
+NH 21
+31.239944
+76.742667
+Rock
+Slide
+NA
+4739
+HP/BIL/53A16/2017/142
+Himachal Pradesh
+Bilaspur
+ 
+BAHADURPUR
+31.240194
+76.850222
+Rock
+Slide
+NA
+4740
+HP/BIL/53A16/2017/144
+Himachal Pradesh
+Bilaspur
+ 
+BHAJUN
+31.240861
+76.808611
+Rock
+Slide
+NA
+4741
+HP/BIL/53A16/2017/84
+Himachal Pradesh
+Bilaspur
+ 
+NH 21
+31.240861
+76.777083
+Rock
+Slide
+NA
+4742
+HP/BIL/53A12/2017/83
+Himachal Pradesh
+Bilaspur
+ 
+PALACHAD JANALI ROAD
+31.240889
+76.737361
+Debris
+Slide
+NA
+4743
+HP/BIL/53A12/2017/4
+Himachal Pradesh
+Bilaspur
+ 
+NH 21
+31.240889
+76.737361
+Debris
+Slide
+NA

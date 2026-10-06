@@ -1,0 +1,550 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+7558
+HP/LAH/52H03/2015/119
+Himachal Pradesh
+Kullu
+ 
+Solang-Rohtang Tunnel Road
+32.3711
+77.1339
+Debris
+Slide
+NA
+7559
+HP/LSP/52H15/2018/16
+Himachal Pradesh
+Lahaul & Spiti
+ 
+North of Pangmo
+32.37777
+77.93786
+Debris
+Slide
+NA
+7560
+HP/LSP/52H15/2018/15
+Himachal Pradesh
+Lahaul & Spiti
+ 
+North of Pangmo
+32.37843
+77.93781
+Debris
+Slide
+NA
+7561
+HP/LSP/52H15/2018/14
+Himachal Pradesh
+Lahaul & Spiti
+ 
+North of Pangmo
+32.37889
+77.93742
+Debris
+Slide
+NA
+7562
+HP/CHA/52D03/2020/89
+Himachal Pradesh
+Chamba
+Flarh
+SH-28
+32.38
+76
+Debris
+Slide
+NA
+7563
+HP/CHA/52D07/2020/12
+Himachal Pradesh
+Chamba
+ 
+Downslope of Marhauta village 32.38
+76.49
+Debris
+Slide
+NA
+7564
+HP/CHA/52D07/2020/18
+Himachal Pradesh
+Chamba
+ 
+Left bank of ravi river
+32.38
+76.49
+Rock
+Slide
+NA
+7565
+HP/CHA/52D11/2020/104
+Himachal Pradesh
+Chamba
+ 
+Holi-Naya Gaon Rd
+32.38
+76.5
+Debris
+Slide
+NA
+7566
+HP/CHA/52D11/2020/105
+Himachal Pradesh
+Chamba
+ 
+Golai
+32.38
+76.51
+Rock
+Slide
+NA
+7567
+HP/LSP/52H15/2018/13
+Himachal Pradesh
+Lahaul & Spiti
+ 
+North of Pangmo
+32.38086
+77.93791
+Debris
+Slide
+NA
+7568
+HP/LSP/52H15/2018/12
+Himachal Pradesh
+Lahaul & Spiti
+ 
+North of Pangmo
+32.38124
+77.93852
+Debris
+Slide
+NA
+7569
+HP/LSP/52H15/2018/10
+Himachal Pradesh
+Lahaul & Spiti
+ 
+North of Pangmo
+32.38129
+77.94021
+Debris
+Slide
+NA
+7570
+HP/LSP/52H15/2018/11
+Himachal Pradesh
+Lahaul & Spiti
+ 
+North of Pangmo
+32.3817
+77.93997
+Debris
+Slide
+NA
+7571
+HP/LAH/52H03/2015/38
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Rohtang
+32.3818
+77.2627
+Rock
+Slide
+NA
+7572
+HP/LAH/52H03/2015/37
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Rohtang
+32.383
+77.2649
+Debris
+Slide
+NA
+7573
+HP/LSP/52H15/2018/9
+Himachal Pradesh
+Lahaul & Spiti
+ 
+North of Pangmo
+32.38512
+77.9422
+Debris
+Slide
+NA
+7574
+HP/LSP/52H15/2018/8
+Himachal Pradesh
+Lahaul & Spiti
+ 
+North of Pangmo
+32.38917
+77.94922
+Debris
+Slide
+NA
+7575
+HP/LSP/52H15/2018/7
+Himachal Pradesh
+Lahaul & Spiti
+ 
+North of Pangmo
+32.38964
+77.94974
+Debris
+Slide
+NA
+7576
+HP/CHA/43P15/2020/23
+Himachal Pradesh
+Chamba
+Sahla
+SH-28
+32.39
+75.99
+Debris
+Slide
+2017
+7577
+HP/CHA/43P15/2020/24
+Himachal Pradesh
+Chamba
+Along Chakki river
+ 
+32.39
+75.99
+Debris
+Slide
+2018
+7578
+HP/CHA/43P15/2020/26
+Himachal Pradesh
+Chamba
+ 
+Sahlu village
+32.39
+76
+Debris
+Slide
+2010
+7579
+HP/CHA/43P15/2020/55
+Himachal Pradesh
+Chamba
+ 
+Sahlu village
+32.39
+75.99
+Rock
+Slide
+NA
+7580
+HP/CHA/43P15/2020/56
+Himachal Pradesh
+Chamba
+ 
+Sahlu village
+32.39
+75.99
+Debris
+Slide
+NA
+7581
+HP/KAN/43P15/2020/72
+Himachal Pradesh
+Kangra
+ 
+Baduni
+32.39
+75.94
+Debris
+Slide
+NA
+7582
+HP/KAN/43P15/2020/77
+Himachal Pradesh
+Kangra
+Nera
+Suliali-Dunera link road
+32.39
+75.89
+Debris
+Slide
+NA
+7583
+HP/KAN/43P15/2020/79
+Himachal Pradesh
+Kangra
+Baduni
+Baduni
+32.39
+75.95
+Debris
+Slide
+2018
+7584
+HP/KAN/43P15/2020/80
+Himachal Pradesh
+Kangra
+Suliali
+near Suliali village
+32.39
+75.89
+Debris
+Slide
+2017
+7585
+HP/KAN/43P15/2020/82
+Himachal Pradesh
+Kangra
+ 
+Baduni
+32.39
+75.94
+Debris
+Slide
+NA
+7586
+HP/KAN/43P15/2020/86
+Himachal Pradesh
+Kangra
+ 
+Baduni
+32.39
+75.95
+Debris
+Slide
+2018
+7587
+HP/CHA/52D03/2020/44
+Himachal Pradesh
+Chamba
+ 
+Kasba Raipur
+32.39
+76.01
+Debris
+Slide
+NA
+7588
+HP/CHA/52D03/2020/45
+Himachal Pradesh
+Chamba
+ 
+Along Chakki river
+32.39
+76
+Rock
+Slide
+NA
+7589
+HP/CHA/52D03/2020/48
+Himachal Pradesh
+Chamba
+ 
+Near Sahlu village
+32.39
+76
+Debris
+Slide
+2015
+7590
+HP/CHA/52D03/2020/50
+Himachal Pradesh
+Chamba
+ 
+Along Chakki river(Dauth)
+32.39
+76
+Debris
+Slide
+2005
+7591
+HP/CHA/52D03/2020/52
+Himachal Pradesh
+Chamba
+ 
+Sahlu village
+32.39
+76.01
+Debris
+Slide
+2000
+7592
+HP/CHA/52D03/2020/92
+Himachal Pradesh
+Chamba
+Along Chakki river
+ 
+32.39
+76
+Debris
+Slide
+NA
+7593
+HP/CHA/52D07/2020/19
+Himachal Pradesh
+Chamba
+ 
+Left bank of ravi river
+32.39
+76.48
+Rock
+Fall
+NA
+7594
+HP/CHA/52D07/2020/25
+Himachal Pradesh
+Chamba
+ 
+Right bank of ravi river
+32.39
+76.49
+Debris
+Slide
+NA
+7595
+HP/LAH/52H03/2015/39
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Rohtang
+32.3923
+77.2515
+Debris
+Slide
+NA
+7596
+HP/LAH/52H03/2015/40
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Rohtang
+32.3923
+77.2515
+Debris
+Slide
+NA
+7597
+HP/LAH/52H03/2015/36
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Rohtang
+32.3934
+77.2566
+Rock
+Slide
+NA
+7598
+HP/LAH/52H03/2015/35
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Koksar-Rohtang
+32.3942
+77.2595
+Rock
+Subsidence
+NA
+7599
+HP/CHA/43P15/2020/36
+Himachal Pradesh
+Chamba
+ 
+Barala, Lahru road
+32.4
+75.95
+Debris
+Slide
+2017
+7600
+HP/CHA/43P15/2020/46
+Himachal Pradesh
+Chamba
+ 
+Barala, Lahru road
+32.4
+75.95
+Debris
+Slide
+2018
+7601
+HP/CHA/43P15/2020/54
+Himachal Pradesh
+Chamba
+ 
+Baduni
+32.4
+75.95
+Debris
+Slide
+2010
+7602
+HP/CHA/43P15/2020/57
+Himachal Pradesh
+Chamba
+ 
+Sahlu village
+32.4
+75.99
+Debris
+Slide
+NA
+7603
+HP/CHA/43P15/2020/58
+Himachal Pradesh
+Chamba
+ 
+Lahru
+32.4
+75.98
+Debris
+Slide
+NA
+7604
+HP/CHA/43P15/2020/59
+Himachal Pradesh
+Chamba
+ 
+Parchor
+32.4
+75.99
+Debris
+Slide
+NA
+7605
+HP/CHA/43P15/2020/60
+Himachal Pradesh
+Chamba
+ 
+Sahlu village
+32.4
+75.99
+Debris
+Slide
+NA
+7606
+HP/KAN/43P15/2020/81
+Himachal Pradesh
+Kangra
+ 
+Baduni
+32.4
+75.94
+Debris
+Slide
+NA

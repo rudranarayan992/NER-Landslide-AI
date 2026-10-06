@@ -1,0 +1,414 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27669
+TN/NIL/58A11/2015-16/85
+Tamil Nadu
+Nilgiri
+ 
+Halada village
+11.379444
+76.715278
+Debris
+Slide
+NA
+27670
+TN/NIL/58A15/2015-16/186
+Tamil Nadu
+Nilgiri
+ 
+Pachaikadu Tea Estate
+11.380556
+76.824444
+Debris
+Slide
+NA
+27671
+TN/NIL/58A11/2015-16/37
+Tamil Nadu
+Nilgiri
+ 
+PC.No:12/5, Yellakkandi to 
+Ittalar Road
+11.381111
+76.641944
+Earth
+Slide
+NA
+27672
+TN/NIL/58A11/2015-16/23
+Tamil Nadu
+Nilgiri
+ 
+1 km South of Kuruduguli village 11.381389
+76.642778
+Earth
+Slide
+NA
+27673
+TN/NIL/58A11/2015-16/82
+Tamil Nadu
+Nilgiri
+ 
+Lovedale Railway junction
+11.381667
+76.706111
+Earth
+Slide
+NA
+27674
+TN/NIL/58A15/2015-16/297
+Tamil Nadu
+Nilgiri
+ 
+Kambaishola village
+11.381944
+76.788611
+Debris
+Slide
+NA
+27675
+TN/NIL/58A15/2015-16/256
+Tamil Nadu
+Nilgiri
+ 
+Tottapalam bus stop
+11.382778
+76.891944
+Debris
+Slide
+NA
+27676
+TN/NIL/58A11/2015-16/81
+Tamil Nadu
+Nilgiri
+ 
+Lovedale railway junction; 
+MS.No: MD1077/2
+11.383056
+76.706389
+Earth
+Slide
+NA
+27677
+TN/NIL/58A11/2015-16/65
+Tamil Nadu
+Nilgiri
+ 
+Along NH 67
+11.384167
+76.735278
+Earth
+Slide
+NA
+27678
+TN/NIL/58A11/2015-16/63
+Tamil Nadu
+Nilgiri
+ 
+NH67, MS.No: 242 6/2
+11.385
+76.734167
+Earth
+Slide
+NA
+27679
+TN/NIL/58A11/2015-16/34
+Tamil Nadu
+Nilgiri
+ 
+Mullikorai towards Palada, 
+PC.No:5/1
+11.385833
+76.674444
+Debris
+Slide
+NA
+27680
+TN/NIL/58A11/2015-16/64
+Tamil Nadu
+Nilgiri
+ 
+Perinha Vilas├╖ K. Sukumar 
+Bunglow
+11.386389
+76.734722
+Earth
+Slide
+NA
+27681
+TN/NIL/58A11/2015-16/62
+Tamil Nadu
+Nilgiri
+ 
+NH67, MS.No:242 6/2
+11.386667
+76.733333
+Earth
+Slide
+NA
+27682
+TN/NIL/58A11/2015-16/60
+Tamil Nadu
+Nilgiri
+ 
+Telescope View Point, Divine 
+Hills
+11.387222
+76.723333
+Debris
+Slide
+NA
+27683
+TN/NIL/58A11/2015-16/33
+Tamil Nadu
+Nilgiri
+ 
+PC.No: 3/7 road towards Palada 11.389444
+76.674444
+Earth
+Slide
+NA
+27684
+TN/NIL/58A11/2015-16/59
+Tamil Nadu
+Nilgiri
+ 
+MS.No:24/2, NH 67
+11.39
+76.718611
+Earth
+Subsidence
+NA
+27685
+TN/NIL/58A11/2015-16/61
+Tamil Nadu
+Nilgiri
+ 
+Manthada, Mariamman Koil 
+temple
+11.39
+76.718611
+Debris
+Slide
+NA
+27686
+TN/NIL/58A11/2015-16/32
+Tamil Nadu
+Nilgiri
+ 
+Mullikorai PC. No: 3/7
+11.391111
+76.675556
+Earth
+Slide
+NA
+27687
+TN/NIL/58A11/2015-16/54
+Tamil Nadu
+Nilgiri
+ 
+Lovedale Tea Estate, PC.No:1/5 11.391389
+76.713889
+Debris
+Slide
+NA
+27688
+TN/NIL/58A11/2015-16/58
+Tamil Nadu
+Nilgiri
+ 
+Satyasai Nagar
+11.391389
+76.719444
+Debris
+Slide
+NA
+27689
+TN/NIL/58A11/2015-16/31
+Tamil Nadu
+Nilgiri
+ 
+Mullikorai PC. No:3/7
+11.3925
+76.676667
+Earth
+Slide
+NA
+27690
+TN/NIL/58A11/2015-16/30
+Tamil Nadu
+Nilgiri
+ 
+Mullikorai MS.No: 2/8
+11.392778
+76.676667
+Debris
+Slide
+NA
+27691
+TN/NIL/58A11/2015-16/29
+Tamil Nadu
+Nilgiri
+ 
+Mullikorai village  road towards 
+Palada
+11.393056
+76.6775
+Earth
+Slide
+NA
+27692
+TN/NIL/58A15/2015-16/298
+Tamil Nadu
+Nilgiri
+ 
+Anna Nagar, 1 Km NE Bettati 
+junction
+11.393056
+76.815556
+Debris
+Slide
+NA
+27693
+TN/NIL/58A11/2015-16/28
+Tamil Nadu
+Nilgiri
+ 
+Mullikorai village, road towards 
+Palada
+11.393333
+76.6775
+Debris
+Slide
+NA
+27694
+TN/NIL/58A11/2015-16/27
+Tamil Nadu
+Nilgiri
+ 
+Mullikorai village; PC.No: 3/6
+11.393611
+76.678056
+Debris
+Slide
+NA
+27695
+TN/NIL/58A11/2015-16/56
+Tamil Nadu
+Nilgiri
+ 
+NH 67, near Nondimedu Village 11.398056
+76.718333
+Earth
+Slide
+NA
+27696
+TN/NIL/58A11/2015-16/79
+Tamil Nadu
+Nilgiri
+ 
+Elk hill
+11.398611
+76.708056
+Debris
+Slide
+NA
+27697
+TN/NIL/58A11/2015-16/80
+Tamil Nadu
+Nilgiri
+ 
+Elk hill
+11.4
+76.708333
+Debris
+Slide
+NA
+27698
+TN/NIL/58A15/2015-16/247
+Tamil Nadu
+Nilgiri
+ 
+Bandishola village, PC:No:7/6
+11.400278
+76.800556
+Debris
+Slide
+NA
+27699
+TN/NIL/58A15/2015-16/248
+Tamil Nadu
+Nilgiri
+ 
+Coonoor to Kattabettu
+11.400556
+76.813056
+Debris
+Slide
+NA
+27700
+TN/NIL/58A11/2015-16/89
+Tamil Nadu
+Nilgiri
+ 
+Thalayatimund village
+11.401389
+76.721389
+Earth
+Slide
+NA
+27701
+TN/NIL/58A11/2015-16/11
+Tamil Nadu
+Nilgiri
+ 
+Pudu Thottam.
+11.404167
+76.744444
+Earth
+Slide
+NA
+27702
+TN/NIL/58A11/2015-16/10
+Tamil Nadu
+Nilgiri
+ 
+PC.no: 8/13 Dodabetta towards 
+Perar
+11.405556
+76.742778
+Debris
+Slide
+NA
+27703
+TN/NIL/58A15/2015-16/299
+Tamil Nadu
+Nilgiri
+ 
+Togalhatti
+11.4075
+76.820833
+Debris
+Slide
+NA
+27704
+TN/NIL/58A15/2015-16/219
+Tamil Nadu
+Nilgiri
+ 
+Perar to Kattabettu
+11.4075
+76.808611
+Debris
+Slide
+NA

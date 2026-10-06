@@ -1,0 +1,364 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29743
+WB/DAR/78A08/2015/125
+West Bengal
+Darjeeling
+Salikhop (8th Mile) near Kalimpong
+Salikhop near Kalimpong
+27.073266
+88.452106
+Debris
+Subsidence
+2012
+29744
+WB/DAR/78A08/2021/PDLS/20
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07332267
+88.25217569
+Debris
+Slide
+October 2021
+29745
+WB/DAR/78A04/2021/PDLS/11
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07333017
+88.16301013
+Debris
+Slide
+October 2021
+29746
+WB/DAR/78A04/2021/PDLS/13
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07359049
+88.20288656
+Debris
+Slide
+October 2021
+29747
+WB/DAR/78A08/2015/114
+West Bengal
+Darjeeling
+NH-31A
+NH31A
+27.073957
+88.436247
+Debris
+Slide
+2011
+29748
+WB/DAR/78A12/2015/253
+West Bengal
+Darjeeling
+Deorali-Lava Road
+Deorali-Lava Road
+27.074
+88.61
+Debris
+Subsidence
+2013
+29749
+WB/DAR/78A04/2021/PDLS/11
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07413608
+88.15724003
+Debris
+Slide
+October 2021
+29750
+WB/DAR/78A12/2015/1270
+West Bengal
+Darjeeling
+ 
+Lava RF
+27.074222
+88.609639
+Debris
+Subsidence
+2012
+29751
+WB/DAR/78A12/2015/1271
+West Bengal
+Darjeeling
+ 
+Lava RF
+27.074583
+88.606
+Debris
+Slide
+2015
+29752
+WB/DAR/78A08/2021/PDLS/20
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07479886
+88.25265598
+Debris
+Slide
+October 2021
+29753
+WB/DAR/78A08/2021/PDLS/20
+9
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07480254
+88.25224256
+Debris
+Slide
+October 2021
+29754
+WB/DAR/78A08/2021/PDLS/20
+8
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07481745
+88.25259568
+Debris
+Slide
+October 2021
+29755
+WB/DAR/78A04/2021/PDLS/54
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07499928
+88.09221295
+Debris
+Slide
+October 2021
+29756
+WB/DAR/78A08/2021/PDLS/21
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07510827
+88.25237706
+Debris
+Slide
+October 2021
+29757
+WB/DAR/78A08/2021/PDLS/21
+1
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07518852
+88.25248888
+Debris
+Slide
+October 2021
+29758
+WB/DAR/78A08/2021/PDLS/36
+5
+West Bengal
+Kalimpong
+N/A
+N/A
+27.07539628
+88.43212108
+Rock
+Slide
+October 2021
+29759
+WB/DAR/78A04/2015/28
+West Bengal
+Darjeeling
+Along the  road between Rammam to 
+mane Bhanjan (towards  
+Sukhiapokhri)
+ 
+27.075694
+88.091889
+Debris
+Slide
+2015
+29760
+WB/DAR/78A04/2015/30
+West Bengal
+Darjeeling
+Along the  road between Rammam to 
+mane Bhanjan (towards  
+Sukhiapokhri)
+SH12
+27.075694
+88.091889
+Debris
+Slide
+2015
+29761
+WB/DAR/78A08/2021/PDLS/36
+6
+West Bengal
+Kalimpong
+N/A
+N/A
+27.07590121
+88.43217792
+Rock
+Slide
+October 2021
+29762
+WB/DAR/78A08/2015/72
+West Bengal
+Darjeeling
+Below the Udaygram-Toongsung 
+village,
+Below the Udaygram-
+Toongsung village,
+27.07591
+88.48412
+Debris
+Slide
+2007
+29763
+WB/DARJ/78A08/2011/0279
+West Bengal
+Darjeeling
+ 
+NH31A
+27.076
+88.432
+Debris
+Slide
+NA
+29764
+WB/DARJ/78A08/2007/0327
+West Bengal
+Darjeeling
+ 
+Below the Udaygram-
+Toongsung village
+27.076
+88.484
+Debris
+Slide
+NA
+29765
+WB/DAR/78A04/2015/1265
+West Bengal
+Darjeeling
+ 
+BARAHATTA
+27.076056
+88.092056
+Debris
+Slide
+2014
+29766
+WB/DAR/78A12/2015/1527
+West Bengal
+Darjeeling
+ 
+NEZI
+27.076265
+88.513268
+Debris
+Slide
+2014
+29767
+WB/DARJ/78A12/2007/0038
+West Bengal
+Darjeeling
+Pudung 12.5 mile
+12.5 mile from chitre towards 
+Algara on Chitre-Algara road, 
+slide widening
+27.0763
+88.5132
+Debris
+Slide
+2007
+29768
+WB/DAR/78A12/2015/202
+West Bengal
+Darjeeling
+Algara - Kalimpong road
+Algara - Kalimpong road
+27.0763
+88.51323
+Rock
+Slide
+2007
+29769
+WB/DAR/78A04/2021/PDLS/16
+0
+West Bengal
+Darjeeling
+N/A
+N/A
+27.07651081
+88.20447077
+Rock
+Slide
+October 2021
+29770
+WB/DAR/78A16/2015/314
+West Bengal
+Darjeeling
+Surok
+Surok
+27.076556
+88.863556
+Rock
+Slide
+2016
+29771
+WB/DAR/78A08/2015/68
+West Bengal
+Darjeeling
+Kalimpong City
+Kalimpong City
+27.076644
+88.475003
+Debris
+Slide
+2007
+29772
+WB/DAR/78A08/2015/127
+West Bengal
+Darjeeling
+Leprosy Hospital near Kalimpong
+Leprosy Hospital near 
+Kalimpong
+27.076779
+88.47188
+Debris
+Slide
+2012

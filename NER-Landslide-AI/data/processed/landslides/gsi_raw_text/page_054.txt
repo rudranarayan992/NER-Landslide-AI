@@ -1,0 +1,489 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1822
+AR/US/82P04/2022/053
+Arunachal Pradesh
+Upper Siang
+Mariyang-Yingkiong road Slide 1
+NH-513
+28.497917
+95.191639
+Debris
+Slide
+NA
+1823
+AP/DV/82P15/2022/123
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 55.8 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.498405
+95.827217
+Rock
+Slide
+NA
+1824
+AP/DV/82P15/2022/122
+Arunachal Pradesh
+Dibang Valley
+ From Hunli 56 kms along NH-313 
+towards Anini
+ NH-313 (Roing-Anini road)
+28.498464
+95.828278
+Debris
+Slide
+NA
+1825
+AR/WS/82L16/2022/080
+Arunachal Pradesh
+West Siang
+Jomlo-Mongku Slide 3
+NH-13
+28.506306
+94.873361
+Debris
+Slide
+NA
+1826
+AR/US/82P02/2022/058
+Arunachal Pradesh
+Upper Siang
+Mariyang-Yingkiong road Slide 5
+NH-513
+28.509
+95.177639
+Debris
+Slide
+NA
+1827
+AR/US/82P04/2022/057
+Arunachal Pradesh
+Upper Siang
+Mariyang-Yingkiong road Slide 4
+NH-513
+28.510528
+95.177722
+Debris
+Slide
+NA
+1828
+AR/US/82P04/2022/054
+Arunachal Pradesh
+Upper Siang
+Mariyang-Yingkiong road Slide 2
+NH-513
+28.512056
+95.1805
+Debris
+Slide
+NA
+1829
+AR/US/82P04/2022/056
+Arunachal Pradesh
+Upper Siang
+Mariyang-Yingkiong road Slide 3
+NH-513
+28.514083
+95.178278
+Rock
+Slide
+NA
+1830
+AR/US/82P04/2022/055
+Arunachal Pradesh
+Upper Siang
+Mariyang-Yingkiong road Slide 2
+NH-513
+28.516083
+95.178028
+Rock
+Slide
+NA
+1831
+AR/US/82P02/2022/059
+Arunachal Pradesh
+Upper Siang
+Mariyang-Yingkiong road Slide 6
+NH-513
+28.522806
+95.172639
+Rock
+Slide
+NA
+1832
+AR/US/82P02/2022/060
+Arunachal Pradesh
+Upper Siang
+Mariyang-Yingkiong road Slide 7
+NH-513
+28.527722
+95.173556
+Rock
+Fall
+NA
+1833
+AP/SY/83I01/2021/14
+Arunachal Pradesh
+Shi-Yomi
+Mechuka town slide 2
+Near Mechuka town
+28.527944
+94.309444
+Debris
+Slide
+NA
+1834
+AR/US/82P02/2022/072
+Arunachal Pradesh
+Upper Siang
+West of Kolung Slide 6
+NH-513
+28.528778
+95.173278
+Rock
+Slide
+NA
+1835
+AR/US/82P02/2022/077
+Arunachal Pradesh
+Upper Siang
+South west of Jengging Slide
+NH-513
+28.531528
+95.050417
+Debris
+Slide
+NA
+1836
+AR/WSI/82L10/2022/63
+Arunachal Pradesh
+West Siang
+Near Dupu, Kaying-Tato Road
+Kaying-Tato Road
+28.535474
+94.597063
+Rock-cum-Debris
+Slide
+NA
+1837
+AR/US/82P02/2022/071
+Arunachal Pradesh
+Upper Siang
+West of Kolung Slide 5
+NH-513(Mariyang-Yingkiong 
+road)
+28.540139
+95.168667
+Debris
+Slide
+NA
+1838
+AR/WSI/82L10/2022/64
+Arunachal Pradesh
+West Siang
+Payum-Dupu road Slide
+Kaying Tato Road
+28.543178
+94.633991
+Rock-cum-Debris
+Slide
+NA
+1839
+AR/US/82P02/2022/076
+Arunachal Pradesh
+Upper Siang
+Jengging Slide 1
+NH-513
+28.550472
+95.06325
+Debris
+Slide
+NA
+1840
+AR/US/82P02/2022/070
+Arunachal Pradesh
+Upper Siang
+West of Kolung Slide 4
+NH-513 (Mariyang-Yingkiong 
+road)
+28.550694
+95.158333
+Debris
+Slide
+NA
+1841
+AR/US/82P02/2022/069
+Arunachal Pradesh
+Upper Siang
+West of Kolung Slide 3
+NH-513 (Mariyang-Yingkiong 
+road)
+28.560139
+95.149472
+Debris
+slide
+NA
+1842
+AR/US/82P02/2022/068
+Arunachal Pradesh
+Upper Siang
+West of Kolung Slide 2
+NH-513
+28.56525
+95.148333
+Debris
+Slide
+NA
+1843
+AR/US/82P02/2022/067
+Arunachal Pradesh
+Upper Siang
+N/A
+N/A
+28.568694
+95.143556
+Debris
+Slide
+NA
+1844
+AR/US/82P02/2022/066
+Arunachal Pradesh
+Upper Siang
+Northeast of Simong Slide 2
+NH-513
+28.605528
+95.105528
+Debris
+slide
+NA
+1845
+AP/DV/82P/14/2022/LS-104
+Arunachal Pradesh
+Dibang Valley
+ Etalin slide
+ NH-313Etalin to Annini  village. 28.606804
+95.864088
+Debris
+Slide
+NA
+1846
+AP/E-Siang/82P8/2022/LS39
+Arunachal Pradesh
+Dibang Valley
+LS-39
+NH-13, Pasighat river slide
+28.608016
+95.854035
+Debris
+Slide
+NA
+1847
+AP/LDV/82P8/2022/LS38
+Arunachal Pradesh
+Dibang Valley
+LS-38
+NH-13, Dambuk slide
+28.609263
+95.856878
+Debris
+Slide
+NA
+1848
+AR/US/82P02/2022/065
+Arunachal Pradesh
+Upper Siang
+Northeast of Simong Slide 1
+NH-513
+28.609361
+95.088583
+Debris
+Slide
+NA
+1849
+AR/US/82P02/2022/064
+Arunachal Pradesh
+Upper Siang
+Yingkiong road Slide 7
+NH-513
+28.614667
+95.063611
+Debris
+Slide
+NA
+1850
+AR/US/82P02/2022/061
+Arunachal Pradesh
+Upper Siang
+Yingkiong road Slide 4
+NH-513
+28.615028
+95.053306
+Soil
+Slide
+NA
+1851
+AP/LDV/82P11/2022/LS82
+Arunachal Pradesh
+Dibang Valley
+LS-82
+NH-13
+28.615893
+95.859914
+Debris
+Slide
+NA
+1852
+AR/US/82P04/2022/050
+Arunachal Pradesh
+Upper Siang
+Yingkiong road Slide 3
+NH-513
+28.617333
+95.049556
+Debris
+Slide
+NA
+1853
+AR/US/82P02/2022/062
+Arunachal Pradesh
+Upper Siang
+Yingkiong road Slide 5
+NH-513
+28.617667
+95.056444
+Soil
+Slide
+NA
+1854
+AP/DV/82P/14/2022/LS-105
+Arunachal Pradesh
+Dibang Valley
+ Annini slide
+ NN-313
+28.618542
+95.858124
+Debris
+Slide
+NA
+1855
+AR/US/82P02/2022/063
+Arunachal Pradesh
+Upper Siang
+Yingkiong road Slide 6
+NH-513
+28.619917
+95.057583
+Debris
+Slide
+NA
+1856
+AP/DV/82P/14/2022/LS-106
+Arunachal Pradesh
+Dibang Valley
+ Annini Slide
+ NH- 313.
+28.621593
+95.855998
+Debris
+Slide
+NA
+1857
+AP/LDV/82P11/2022/LS81
+Arunachal Pradesh
+Dibang Valley
+LS-81
+NH-13
+28.62267
+95.856377
+Debris
+Slide
+NA
+1858
+AR/US/82P04/2022/049
+Arunachal Pradesh
+Upper Siang
+Yingkiong road Slide 2
+NH-513
+28.622722
+95.043528
+Debris
+Slide
+NA
+1859
+AP/DV/82P/13/2022/LS-107
+Arunachal Pradesh
+Dibang Valley
+ Mipi Slide
+Anini to Mipi
+28.625048
+95.857251
+Earth
+Slide
+NA
+1860
+AP/E-Siang/82P8/2022/LS40
+Arunachal Pradesh
+Dibang Valley
+LS-40
+NH-13, Pasighat bridge slide
+28.625114
+95.852703
+Debris
+Slide
+NA
+1861
+AR/US/82P04/2022/048
+Arunachal Pradesh
+Upper Siang
+Yingkiong road Slide 1
+NH-513
+28.626972
+95.035722
+Debris
+Slide
+NA
+1862
+AP/DV/82P/13/2022/LS-108
+Arunachal Pradesh
+Dibang Valley
+ Mipi slide
+South of Mipi Village.
+28.628208
+95.85647
+Earth
+Slide
+NA
+1863
+AR/US/82P02/2022/074
+Arunachal Pradesh
+Upper Siang
+Yingkiong Slide 2
+NH-513
+28.632361
+95.037917
+Soil
+Slide
+NA
+1864
+AR/US/82P02/2022/075
+Arunachal Pradesh
+Upper Siang
+Yingkiong Slide 3
+NH-513
+28.633861
+95.023806
+Debris
+Slide
+NA

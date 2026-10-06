@@ -1,0 +1,350 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14239
+KRL/PKD/58B9/2018/215
+Kerala
+Palakkad
+Muthikulam, Sholayur village
+10.982469
+76.599359
+Debris
+slide
+Initiated on 15/8/18
+14240
+KRL/PKD/58B9/2018/216
+Kerala
+Palakkad
+Muthikulam, Sholayur village
+10.982903
+76.595173
+Debris
+slide
+Initiated on 15/8/18
+14241
+KRL/PKD/58B9/2018/217
+Kerala
+Palakkad
+Muthikulam, Sholayur village
+10.984006
+76.592178
+Debris
+slide
+Initiated on 15/8/18
+14242
+KRL/PKD/58B9/2018/218
+Kerala
+Palakkad
+Muthikulam, Sholayur village
+10.983786
+76.589808
+Debris
+slide
+Initiated on 15/8/18
+14243
+KRL/PKD/58B9/2018/219
+Kerala
+Palakkad
+Muthikulam, Sholayur village
+10.984642
+76.588747
+Debris
+slide
+Initiated on 15/8/18
+14244
+KRL/PKD/58B9/2018/22
+Kerala
+Palakkad
+Achilati colony
+Achalati colony, Palakayam 
+village
+10.956021
+76.571908
+Debris
+subsidence
+Activated on 16/8/18
+14245
+KRL/PKD/58B9/2018/220
+Kerala
+Palakkad
+Muthikulam, Sholayur village
+10.984604
+76.587805
+Debris
+slide
+Initiated on 15/8/18
+14246
+KRL/PKD/58B9/2018/23
+Kerala
+Palakkad
+Valiyad colony slide
+Valiyad colony, Kottanmala 
+village, Mannarkad Taluk
+10.94636
+76.505947
+Debris
+slide
+Initiated on 16/8/18
+14247
+KRL/PKD/58B9/2018/230
+Kerala
+Palakkad
+Malampuzha resorvoir area, 
+Palakkad Taluk
+10.903957
+76.625793
+rock cum debris
+slide
+Initiated on 15/8/18
+14248
+KRL/PKD/58B9/2018/231
+Kerala
+Palakkad
+Malampuzha resorvoir area, 
+Palakkad Taluk
+10.909665
+76.62285
+rock cum debris
+slide
+Initiated on 15/8/18
+14249
+KRL/PKD/58B9/2018/232
+Kerala
+Palakkad
+Malampuzha resorvoir area, 
+Palakkad Taluk
+10.90562
+76.648398
+rock cum debris
+slide
+Initiated on 15/8/18
+14250
+KRL/PKD/58B9/2018/233
+Kerala
+Palakkad
+Malampuzha resorvoir area, 
+Palakkad Taluk
+10.897276
+76.638435
+rock cum debris
+slide
+Initiated on 15/8/18
+14251
+KRL/PKD/58B9/2018/234
+Kerala
+Palakkad
+Malampuzha resorvoir area, 
+Palakkad Taluk
+10.930683
+76.641218
+rock cum debris
+slide
+Initiated on 15/8/18
+14252
+KRL/PKD/58B9/2018/235
+Kerala
+Palakkad
+Malampuzha resorvoir area, 
+Palakkad Taluk
+10.931878
+76.644311
+rock cum debris
+slide
+Initiated on 15/8/18
+14253
+KRL/PKD/58B9/2018/236
+Kerala
+Palakkad
+Malampuzha resorvoir area, 
+Palakkad Taluk
+10.921922
+76.64107
+rock cum debris
+slide
+Initiated on 15/8/18
+14254
+KRL/PKD/58B9/2018/237
+Kerala
+Palakkad
+Malampuzha resorvoir area, 
+Palakkad Taluk
+10.930498
+76.647171
+rock cum debris
+slide
+Initiated on 15/8/18
+14255
+KRL/PKD/58B9/2018/238
+Kerala
+Palakkad
+Malampuzha resorvoir area, 
+Palakkad Taluk
+10.890288
+76.675562
+rock cum debris
+slide
+Initiated on 15/8/18
+14256
+KRL/PKD/58B9/2018/239
+Kerala
+Palakkad
+Malampuzha resorvoir area, 
+Palakkad Taluk
+10.879596
+76.687949
+rock cum debris
+slide
+Initiated on 15/8/18
+14257
+KRL/PKD/58B9/2018/240
+Kerala
+Palakkad
+Malampuzha resorvoir area, 
+Palakkad Taluk
+10.853375
+76.732537
+rock cum debris
+slide
+Initiated on 15/8/18
+14258
+KRL/PKD/58B9/2018/241
+Kerala
+Palakkad
+Malampuzha resorvoir area, 
+Palakkad Taluk
+10.853934
+76.738145
+rock cum debris
+slide
+Initiated on 15/8/18
+14259
+KL/ERM/58B/12/2019/01
+Kerala
+Ernakulam 
+Mulavalur slide 
+Mulavalur 
+10.04354722
+76.54871944
+Rock cum debris
+Flow 
+15.08.2018
+14260
+KL/ERM/58B/12/2019/02
+Kerala
+Ernakulam 
+Mazhuvannur slide
+Mazhuvannur 
+10.02041944
+76.53725
+Soil/Earth   
+Slide
+15.08.2018
+14261
+KL/ERM/58C/09/2019/03
+Kerala
+Ernakulam 
+Vellurkunnam slide
+Vellurkunnam
+9.992719444
+76.57484167
+Debris
+Subsidence 
+26.06.2015
+14262
+KL/ERM/58B/07/2019/04
+Kerala
+Ernakulam 
+Ayyampuzha slide 1
+Ayyampuzha
+10.28620556
+76.48478056
+Debris
+Flow
+15.08.2018 
+14263
+KL/ERM/58B/08/2019/05
+Kerala
+Ernakulam 
+Ayyampuzha slide 2
+Ayyampuzha
+10.24692222
+76.47715278
+Rock cum debris   
+Flow 
+15.08.2018
+14264
+KL/ERM/58B/08/2019/06
+Kerala
+Ernakulam 
+Chittanad slide 1
+Chittanad
+10.02848889
+76.3865
+Earth
+Slide
+15.08.2018 
+14265
+KL/ERM/58B/08/2019/07
+Kerala
+Ernakulam 
+Chittanad slide 2
+Chittanad
+10.02798056
+76.38667222
+Soil 
+Slide 
+15.08.2018 
+14266
+KL/ERM/58B/16/2019/08
+Kerala
+Ernakulam 
+NH-49 slide 
+NH-49 
+10.05445278
+76.76388889
+Debris
+Slide 
+16.08.2018 
+14267
+KL/ERM/58B/16/2019/09
+Kerala
+Ernakulam 
+Chempankuzhi slide1
+Road from Neriyamangalam to 
+Chempankuzhi
+10.04948333
+76.771525
+Rock-cum-debris  
+Flow 
+16.08.2018 
+14268
+KL/ERM/58B/16/2019/10
+Kerala
+Ernakulam 
+Chempankuzhi slide2
+Chempankuzhi 
+10.02835556
+76.81731111
+Rock-cum-debris  
+Flow 
+16.08.2018 
+14269
+KL/ERM/58B/16/2019/11
+Kerala
+Ernakulam 
+Chempankuzhi slide3
+Chempankuzhi 
+10.03480556
+76.80675
+Debris
+Flow 
+16.08.2018 

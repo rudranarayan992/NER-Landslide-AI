@@ -1,0 +1,423 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+29550
+WB/DAR/78A12/2015/262
+West Bengal
+Darjeeling
+Kamjer on Pala-Lulegaon Road
+Pala-Lulegaon Road
+27.053
+88.538
+Rock
+Slide
+2013
+29551
+WB/DAR/78A08/2015/1509
+West Bengal
+Darjeeling
+ 
+KHOLA TAR
+27.053119
+88.26765
+Debris
+Subsidence
+2014
+29552
+WB/DAR/78A08/2015/1404
+West Bengal
+Darjeeling
+ 
+ 
+27.053173
+88.433795
+Rock cum Debris
+Slide
+2013
+29553
+WB/DAR/78A08/2015/90
+West Bengal
+Darjeeling
+Chotta Pattabong, Kanchanview
+ 
+27.053222
+88.267528
+Debris
+Slide
+2009
+29554
+WB/DAR/78A04/2021/PDLS/14
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+27.0534663
+88.20420439
+Debris
+Slide
+October 2021
+29555
+WB/DAR/78A08/2015/1355
+West Bengal
+Darjeeling
+3 miloe Pashyor
+3 MILE,KALIMPONG
+27.053944
+88.436111
+Rock
+Slide
+2010
+29556
+WB/DAR/78A08/2015/1408
+West Bengal
+Darjeeling
+NH-31A Tista Bridge slide
+Near Km. 29 from Sevoke on NH 
+31A
+27.054033
+88.424748
+Rock cum Debris
+Slide
+2002
+29557
+WB/DAR/78A12/2015/222
+West Bengal
+Darjeeling
+16 km on Relli-Lolegaon road
+Near Kab16 km on Relli-
+Lolegaon road
+27.054082
+88.575352
+Rock
+Slide
+2012
+29558
+WB/DAR/78A08/2015/1510
+West Bengal
+Darjeeling
+ 
+YOK BASTI
+27.054175
+88.279757
+Rock
+Slide
+2016
+29559
+WB/DAR/78A08/2015/108
+West Bengal
+Darjeeling
+Leobng Road towards  Darjeeling, 
+byside
+ 
+27.054222
+88.279694
+Rock cum Debris
+Slide
+2009
+29560
+WB/DAR/78A08/2015/1403
+West Bengal
+Darjeeling
+ 
+ 
+27.054289
+88.434172
+Rock cum Debris
+Slide
+2013
+29561
+WB/DAR/78A08/2015/1511
+West Bengal
+Darjeeling
+ 
+CHARGHARE
+27.054295
+88.280504
+Debris
+Subsidence
+2014
+29562
+WB/DAR/78A08/2015/124
+West Bengal
+Darjeeling
+Lower Pashyer near 3rd mile 
+Kalimpong
+Lower Pashyer near 3rd mile 
+Kalimpong
+27.054309
+88.435643
+Rock
+Slide
+2012
+29563
+WB/DAR/78A12/2015/1274
+West Bengal
+Darjeeling
+ 
+LOLEGAON ROAD (Lava RF)
+27.054333
+88.586278
+Debris
+Slide
+2014
+29564
+WB/DAR/78A08/2015/81
+West Bengal
+Darjeeling
+Phoobtshering T.E. Road (M.S. Road)
+Phoobtshering T.E. Road (M.S. 
+Road)
+27.05434
+88.28044
+Debris
+Slide
+2007
+29565
+WB/DAR/78A04/2021/PDLS/14
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+27.05460036
+88.20459964
+Debris
+Slide
+October 2021
+29566
+WB/DAR/78A12/2015/1374
+West Bengal
+Darjeeling
+MELLI ROAD
+LOLEY
+27.054972
+88.571167
+Rock cum Debris
+Slide
+2015
+29567
+WB/DAR/78A04/2015/13
+West Bengal
+Darjeeling
+Darjeeling-Bijanbari Road_Chongtong 
+Tea Garden
+Within Chontong Tea Estate on 
+way to Bijanbari from Darjeeling
+27.054997
+88.201744
+Debris
+Slide
+2006
+29568
+WB/DAR/78A08/2015/1341
+West Bengal
+Darjeeling
+EAST MAIN ROAD KALIMPONG
+KALIMPONG BAZAR ROAD
+27.055
+88.466917
+Debris
+Subsidence
+2010
+29569
+WB/DAR/78A08/2015/1361
+West Bengal
+Darjeeling
+Bong Busty, Kalimpong
+BONG BUSTY,KALIMPONG
+27.055056
+88.473972
+Debris
+Slide
+2015
+29570
+WB/DAR/78A08/2015/1399
+West Bengal
+Darjeeling
+ 
+ 
+27.055069
+88.435513
+Rock cum Debris
+Slide
+2013
+29571
+WB/DAR/78A08/2015/1362
+West Bengal
+Darjeeling
+Bong Busty, Kalimpong
+BONG BUSTY,KALIMPONG
+27.055167
+88.474806
+Debris
+Slide
+2015
+29572
+WB/DAR/78A08/2015/1324
+West Bengal
+Darjeeling
+Beena Khatri house
+UPPER CART ROAD, 
+KALIMPONG
+27.055444
+88.458333
+Debris
+Subsidence
+2010
+29573
+WB/DAR/78A04/2015/1238
+West Bengal
+Darjeeling
+ 
+LISA HILL TG
+27.055722
+88.206528
+Rock cum Debris
+Slide
+2015
+29574
+WB/DAR/78A08/2015/1457
+West Bengal
+Darjeeling
+ 
+ 
+27.0558
+88.481357
+Debris
+Slide
+NA
+29575
+WB/DAR/78A12/2015/1273
+West Bengal
+Darjeeling
+ 
+Lava RF
+27.056
+88.583333
+Rock cum Debris
+Slide
+2014
+29576
+WB/DAR/78A08/2015/1363
+West Bengal
+Darjeeling
+LOWER BONG BUSTY (DAALGAON)
+LOWER BONG BUSTY 
+(DAALGAON)
+27.056028
+88.480694
+Debris
+Slide
+2004
+29577
+WB/DAR/78A12/2015/259
+West Bengal
+Darjeeling
+15 km on Pala- Deorali- Loegaon Road Pala- Deorali- Loegaon Road
+27.056153
+88.573056
+Rock
+Slide
+2013
+29578
+WB/DAR/78A04/2021/PDLS/29
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.05620313
+88.26069697
+Debris
+Slide
+October 2021
+29579
+WB/DAR/78A08/2015/1508
+West Bengal
+Darjeeling
+ 
+MUNTHUM
+27.05626
+88.260462
+Debris
+Subsidence
+2014
+29580
+WB/DAR/78A04/2021/PDLS/14
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+27.05627774
+88.20479905
+Debris
+Slide
+October 2021
+29581
+WB/DAR/78A08/2015/82
+West Bengal
+Darjeeling
+8 No. Village, Singrimtam G.P., 
+Glenbern T.E
+8 No. Village, Singrimtam G.P., 
+Glenbern T.E
+27.05637
+88.2605
+Debris
+Flow
+2007
+29582
+WB/DAR/78A12/2015/256
+West Bengal
+Darjeeling
+Deorali- Jhora
+ 
+27.056377
+88.584199
+Rock
+Slide
+2013
+29583
+WB/DAR/78A08/2015/1458
+West Bengal
+Darjeeling
+ 
+ 
+27.056381
+88.494048
+Debris
+Slide
+NA
+29584
+WB/DAR/78A08/2015/1178
+West Bengal
+Darjeeling
+ 
+TAKLING
+27.056565
+88.409324
+Rock
+Slide
+2015
+29585
+WB/DAR/78A08/2015/1177
+West Bengal
+Darjeeling
+ 
+TAKLING
+27.056639
+88.40925
+Rock
+Slide
+2016

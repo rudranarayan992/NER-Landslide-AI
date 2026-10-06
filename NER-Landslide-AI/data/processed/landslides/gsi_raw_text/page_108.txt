@@ -1,0 +1,439 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+4321
+HP/SHI/53E16/2016/178
+Himachal Pradesh
+Shimla
+ 
+NEAR GHUNSAGHUNSA ROAD
+31.1419
+77.7559
+Rock
+Fall
+NA
+4322
+HP/SOL/53A16/2017/12
+Himachal Pradesh
+Solan
+ 
+ARKI PIPLUGHAT ROAD
+31.142222
+76.953361
+Debris
+Slide
+NA
+4323
+HP/SHI/53E04/2017/36
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.14225
+77.221056
+Rock
+Slide
+NA
+4324
+HP/SHI/53E12/2016/50
+Himachal Pradesh
+Shimla
+ 
+Riyog
+31.142284
+77.498573
+Debris
+Slide
+NA
+4325
+HP/SHI/53E12/2016/53
+Himachal Pradesh
+Shimla
+ 
+Opposite bank of Thana village
+31.142284
+77.498573
+Rock
+Slide
+NA
+4326
+HP/SOL/53A16/2017/166
+Himachal Pradesh
+Solan
+ 
+RAMSHAHR SWARGHAT ROAD
+31.142694
+76.760778
+Debris
+Slide
+NA
+4327
+HP/SOL/53A16/2017/13
+Himachal Pradesh
+Solan
+ 
+ARKI PIPLUGHAT ROAD
+31.143
+76.954306
+Rock
+Slide
+NA
+4328
+HP/SHI/53E04/2017/160
+Himachal Pradesh
+Shimla
+ 
+SH 16
+31.143194
+77.114861
+Rock
+Slide
+NA
+4329
+HP/SOL/53A16/2017/167
+Himachal Pradesh
+Solan
+ 
+LOANRU
+31.143333
+76.760361
+Rock
+Slide
+NA
+4330
+HP/SHI/53E04/2017/159
+Himachal Pradesh
+Shimla
+ 
+SH 16
+31.143361
+77.113389
+Rock
+Slide
+NA
+4331
+HP/SHI/53E04/2017/37
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.143389
+77.216389
+Debris
+Slide
+NA
+4332
+HP/SHI/53E16/2016/87
+Himachal Pradesh
+Shimla
+ 
+NEAR BHOLAR VILLAGE BHOLAR 
+LINK ROAD
+31.1434
+77.7765
+Debris
+Slide
+NA
+4333
+HP/SHI/53E16/2016/88
+Himachal Pradesh
+Shimla
+ 
+NEAR BHOLAR VILLAGE BHOLAR 
+LINK ROAD
+31.1438
+77.7769
+Debris
+Slide
+NA
+4334
+HP/SHI/53E04/2017/166
+Himachal Pradesh
+Shimla
+ 
+BAROHI
+31.144278
+77.078306
+Debris
+Slide
+NA
+4335
+HP/SOL/53A16/2017/174
+Himachal Pradesh
+Solan
+ 
+RAMSHAHR SWARGHAT ROAD
+31.144611
+76.761028
+Debris
+Slide
+NA
+4336
+HP/SHI/53E16/2016/177
+Himachal Pradesh
+Shimla
+ 
+JAGTAN-JARSALI ROADNH-72-
+JHARSALI LINK ROAD
+31.1448
+77.7791
+Debris
+Slide
+NA
+4337
+HP/SHI/53E12/2016/14
+Himachal Pradesh
+Shimla
+ 
+Andreli
+31.145028
+77.403833
+Rock cum debris
+Slide
+NA
+4338
+HP/SHI/53E12/2016/61
+Himachal Pradesh
+Shimla
+ 
+ 
+31.145194
+77.402861
+Rock cum debris
+Slide
+NA
+4339
+HP/SHI/53E16/2016/83
+Himachal Pradesh
+Shimla
+ 
+NEAR BHOLAR VILLAGE BHOLAR 
+LINK ROAD
+31.1453
+77.7779
+Debris
+Slide
+NA
+4340
+HP/SHI/53E16/2016/89
+Himachal Pradesh
+Shimla
+ 
+NEAR BHOLAR VILLAGE BHOLAR 
+LINK ROAD
+31.1456
+77.7772
+Debris
+Slide
+NA
+4341
+HP/SHI/53E12/2016/56
+Himachal Pradesh
+Shimla
+ 
+Bari
+31.145611
+77.401389
+Rock cum debris
+Slide
+NA
+4342
+HP/SHI/53E16/2016/90
+Himachal Pradesh
+Shimla
+ 
+NEAR BHOLAR VILLAGE BHOLAR 
+LINK ROAD
+31.146
+77.7793
+Debris
+Slide
+NA
+4343
+HP/SHI/53E16/2016/84
+Himachal Pradesh
+Shimla
+ 
+NEAR BHOLAR VILLAGE BHOLAR 
+LINK ROAD
+31.1463
+77.7777
+Debris
+Slide
+NA
+4344
+HP/SOL/53A16/2017/14
+Himachal Pradesh
+Solan
+ 
+ARKI PIPLUGHAT ROAD
+31.146556
+76.953167
+Debris
+Slide
+NA
+4345
+HP/SOL/53A16/2017/80
+Himachal Pradesh
+Solan
+ 
+CHALIANI
+31.147194
+76.797472
+Debris
+Slide
+NA
+4346
+HP/SOL/53A16/2017/81
+Himachal Pradesh
+Solan
+ 
+CHALIANI
+31.147417
+76.79575
+Debris
+Slide
+NA
+4347
+HP/SHI/53E04/2017/167
+Himachal Pradesh
+Shimla
+ 
+SH 13,NALDERA
+31.148806
+77.07625
+Debris
+Slide
+NA
+4348
+HP/SOL/53A16/2017/175
+Himachal Pradesh
+Solan
+ 
+RAMSHAHR SWARGHAT ROAD
+31.149472
+76.763278
+Debris
+Slide
+NA
+4349
+HP/SHI/53E04/2017/164
+Himachal Pradesh
+Shimla
+ 
+NH 88,JUTOGH
+31.149556
+77.114389
+Rock
+Slide
+NA
+4350
+HP/SHI/53E04/2017/117
+Himachal Pradesh
+Shimla
+ 
+SH 16
+31.149556
+77.036056
+Debris
+Slide
+NA
+4351
+HP/SHI/53E04/2017/65
+Himachal Pradesh
+Shimla
+ 
+DARABLA
+31.150306
+77.077222
+Rock
+Slide
+NA
+4352
+HP/SHI/53E12/2016/8
+Himachal Pradesh
+Shimla
+ 
+ 
+31.15104
+77.72745
+Rock
+Fall
+NA
+4353
+HP/SHI/53E12/2016/42
+Himachal Pradesh
+Shimla
+ 
+DholaLink road
+31.151907
+77.509178
+Rock cum debris
+Slide
+NA
+4354
+HP/SHI/53E16/2016/85
+Himachal Pradesh
+Shimla
+ 
+NEAR BHOLAR VILLAGE BHOLAR 
+LINK ROAD
+31.1527
+77.7849
+Debris
+Slide
+NA
+4355
+HP/SHI/53E16/2016/82
+Himachal Pradesh
+Shimla
+ 
+NEAR BHOLAR VILLAGE BHOLAR 
+LINK ROAD
+31.153
+77.7857
+Debris
+Slide
+NA
+4356
+HP/SHI/53E04/2017/109
+Himachal Pradesh
+Shimla
+ 
+BASANTPUR KARIALI ROAD
+31.153556
+77.037694
+Rock
+Slide
+NA
+4357
+HP/SHI/53E04/2017/173
+Himachal Pradesh
+Shimla
+ 
+JUTOGH PAHL ROAD
+31.153583
+77.037806
+Debris
+Slide
+NA
+4358
+HP/SOL/53A16/2017/233
+Himachal Pradesh
+Solan
+ 
+SH 9
+31.153583
+77.037806
+Debris
+Slide
+NA

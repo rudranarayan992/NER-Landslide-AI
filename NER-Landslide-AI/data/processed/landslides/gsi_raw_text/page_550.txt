@@ -1,0 +1,351 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21852
+MZ/CHA/84E07/2017/60
+Mizoram
+Champhai
+ 
+Hmunhmeltha road
+23.498889
+93.311889
+Debris
+Slide
+NA
+21853
+MZ/SER/84A11/2017/144
+Mizoram
+Aizawl
+ 
+About 200m South of Tropic of 
+cancer, North Lungsai, SH-
+Aizawl-Thenzawl-Lunglei Road
+23.49901
+92.702759
+Rock
+Slide
+2016
+21854
+MZ/AIZ/84A15/2016/55
+Mizoram
+Aizawl
+ 
+Hualthu Near the Foundation 
+Stone (MPLADS) by CL Raula, 
+PMGSY Chhingchhip-Hualto 
+Road
+23.499418
+92.905021
+Debris
+Slide
+2017
+21855
+MZ/MAM/84A10/2015/140
+Mizoram
+Mamit
+ 
+South of Kanghmun, PMGSY-
+Kanghmun - Darung
+23.500083
+92.585889
+Rock
+Slide
+NA
+21856
+MZ/CHA/84E02/2017/15
+Mizoram
+Champhai
+ 
+PMGSY road 1km SE from 
+Khawzawl
+23.500803
+93.201572
+Rock
+Slide
+NA
+21857
+MZ/MAM/84A10/2015/138
+Mizoram
+Mamit
+ 
+South of Kanghmun, PMGSY-
+Kanghmun - Darung
+23.501778
+92.58575
+Rock
+Slide
+NA
+21858
+MZ/AIZ/84A10/2015/71
+Mizoram
+Mamit
+ 
+Near Bawngthah village, NH-54 
+road.
+23.503611
+92.615556
+Debris
+Slide
+NA
+21859
+MZ/CHA/84E06/2017/33
+Mizoram
+Champhai
+ 
+2km N of Zote
+23.5087
+93.360825
+Debris
+Slide
+NA
+21860
+MZ/AIZ/84A10/2014/08
+Mizoram
+Aizawl
+Variengte
+NH 54, Near check post of 
+Assam - Mizoram border
+23.50994
+92.76861
+Rock
+Slide
+NA
+21861
+MZ/CHA/84E06/2017/34
+Mizoram
+Champhai
+ 
+2.5km N of Zote
+23.510275
+93.360333
+Debris
+Slide
+2015
+21862
+MZ/CHA/84E06/2017/23
+Mizoram
+Champhai
+ 
+3km N of Zote
+23.512147
+93.359164
+Debris
+Slide
+2017
+21863
+MZ/CHA/84E02/2017/0001
+Mizoram
+Champhai
+ 
+1.8km N of Chawrtui on the 
+PMGSY road
+23.513436
+93.074047
+Debris
+Slide
+NA
+21864
+MZ/CHA/84E06/2017/25
+Mizoram
+Champhai
+ 
+5km S of Ngur
+23.514479
+93.369982
+Debris
+Slide
+NA
+21865
+MZ/CHA/84E02/2017/22
+Mizoram
+Champhai
+ 
+2.2 km N of Chawrtui on the 
+PMGSY road
+23.517632
+93.075702
+Rock
+Slide
+NA
+21866
+MZ/CHA/84E06/2017/11
+Mizoram
+Champhai
+ 
+4.8km S of Ngur
+23.518162
+93.366956
+Debris
+Slide
+2016
+21867
+MZ/MAM/84A10/2015/144
+Mizoram
+Mamit
+ 
+South of Kanghmun, PMGSY-
+Kanghmun - Darung
+23.519139
+92.5795
+Debris
+Slide
+NA
+21868
+MZ/MAM/84A10/2015/141
+Mizoram
+Mamit
+ 
+South of Kanghmun, PMGSY-
+Kanghmun - Darung
+23.51975
+92.579556
+Debris
+Slide
+NA
+21869
+MZ/MAM/84A10/2015/143
+Mizoram
+Mamit
+ 
+South of Kanghmun, PMGSY-
+Kanghmun - Darung
+23.531417
+92.573056
+Debris
+Slide
+NA
+21870
+MZ/MAM/84A10/2015/142
+Mizoram
+Mamit
+ 
+South of Kanghmun, PMGSY-
+Kanghmun - Darung
+23.533361
+92.572139
+Rock
+Slide
+NA
+21871
+MZ/CHA/84E02/2017/0016
+Mizoram
+Champhai
+ 
+Nw of Khwazawl
+23.534307
+93.168479
+Soil
+Slide
+NA
+21872
+MZ/AIZ/84A14/2015/61
+Mizoram
+Aizawl
+ 
+500m South of Baktwang 
+village, NH 54
+23.535189
+92.846042
+Debris
+Slide
+NA
+21873
+MZ/CHA/84E02/2017/0017
+Mizoram
+Champhai
+ 
+Nw of Khwazawl
+23.537082
+93.161682
+Rock
+Fall
+NA
+21874
+MZ/CHA/84E02/2017/3
+Mizoram
+Champhai
+ 
+Nw of Khwazawl
+23.537491
+93.159176
+Rock
+Slide
+NA
+21875
+MZ/CHA/84E02/2017/0019
+Mizoram
+Champhai
+ 
+Nw of Khwazawl
+23.538538
+93.158251
+Rock
+Slide
+NA
+21876
+MZ/CHA/84E06/2017/31
+Mizoram
+Champhai
+ 
+Northern part of Ngur village
+23.540457
+93.379051
+Debris
+Slide
+2017
+21877
+MZ/CHA/84E06/2017/19
+Mizoram
+Champhai
+ 
+Jhum road and NgurHnalan 
+road junction
+23.541929
+93.382376
+Rock
+Slide
+NA
+21878
+MZ/CHA/84E02/2017/0011
+Mizoram
+Champhai
+ 
+3km NW of Khawzawl on the 
+KhawzawlKawkulh road
+23.542899
+93.156212
+Rock
+Slide
+NA
+21879
+MZ/CHA/84E06/2017/32
+Mizoram
+Champhai
+ 
+Jhum road east of ngur
+23.54294
+93.384772
+Rock
+Slide
+2017
+21880
+MZ/CHA/84E02/2017/19
+Mizoram
+Champhai
+ 
+6km E from NgaizawlKhawzawl 
+road junction
+23.543891
+93.232644
+Debris
+Slide
+NA

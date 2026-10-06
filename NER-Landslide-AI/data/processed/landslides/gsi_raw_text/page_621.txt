@@ -1,0 +1,358 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+24497
+NG/KOH/83K2/2015/155
+Nagaland
+Kohima
+ 
+ 
+25.667
+94.051
+Debris
+Slide
+2013
+24498
+NG/KOH/83K2/2015/157
+Nagaland
+Kohima
+ 
+NH-29
+25.667
+94.089
+Debris
+Slide
+1968
+24499
+NG/KOH/83K2/2015/128
+Nagaland
+Kohima
+ 
+NH-29
+25.667
+94.089
+Debris
+Composite
+1989
+24500
+NG/PHE/83K2/2015/121
+Nagaland
+Phek
+ 
+On Chakhabama-Chozuba-
+Zunheboto SH
+25.667
+94.21
+Debris
+Slide
+2013
+24501
+NG/PHE/83K10/2017/1
+Nagaland
+Phek
+ 
+Waziho
+25.667
+94.718944
+Debris
+Slide
+NA
+24502
+NG/PHE/83K6/2015/265
+Nagaland
+Phek
+ 
+Phek Bawe-Phek Town road
+25.668
+94.464
+Debris
+Slide
+2014
+24503
+NG/KOH/83K2/2015/51
+Nagaland
+Kohima
+ 
+Army cantonement, Kohima 
+Town
+25.668
+94.107
+Debris
+Slide
+1965
+24504
+NG/KOH/83K2/2015/148
+Nagaland
+Kohima
+ 
+Kohima-Khonoma-Pedi-Peren 
+SH
+25.668
+94.051
+Debris
+Slide
+2013
+24505
+NL/KOH/83K02/2014/09
+Nagaland
+Kohima
+11km- slide
+Kohima-pedi-peren
+25.66806
+94.05525
+Debris
+Slide
+2014
+24506
+NG/PHE/83K10/2017/28
+Nagaland
+Phek
+ 
+LanezhoKizare road
+25.668417
+94.543194
+Debris
+Slide
+NA
+24507
+NL/KOH/83K02/2014/11
+Nagaland
+Kohima
+Right bank of Dziidza bridge along NH-
+29
+NH-29
+25.66897
+94.04664
+Debris
+Slide
+August 2014
+24508
+NG/KOH/83K2/2015/97
+Nagaland
+Kohima
+ 
+NE downslope of Paramedical 
+colony (left bank of stream)
+25.669
+94.091
+Debris
+Slide
+2009
+24509
+NG/KOH/83K2/2015/112
+Nagaland
+Kohima
+ 
+Army cantonement, Kohima 
+Town
+25.669
+94.114
+Debris
+Slide
+NA
+24510
+NG/PHE/83K2/2015/56
+Nagaland
+Phek
+ 
+On Chakhabama-Chozuba-
+Zunheboto SH
+25.669
+94.218
+Debris
+Slide
+2013
+24511
+NG/KOH/83K2/2015/177
+Nagaland
+Kohima
+ 
+New Market colony, Kohima 
+Town
+25.669
+94.104
+Debris
+Slide
+1999
+24512
+NG/KOH/83K2/2015/133
+Nagaland
+Kohima
+ 
+Army cantonement, Kohima 
+Town
+25.669
+94.114
+Debris
+Slide
+NA
+24513
+NG/KOH/83K2/2015/147
+Nagaland
+Kohima
+ 
+NE downslope of Paramedical 
+colony (left bank of stream)
+25.669
+94.091
+Debris
+Slide
+NA
+24514
+NG/KOH/83K2/2015/123
+Nagaland
+Kohima
+ 
+On Kohima-Chakhabama road
+25.669
+94.192
+Debris
+Slide
+2013
+24515
+NG/KOH/83K2/2015/149
+Nagaland
+Kohima
+ 
+ 
+25.669
+94.051
+Debris
+Slide
+2013
+24516
+NAG/KOH/83K02/2008/F-4(A)
+Nagaland
+Kohima
+New Market slide
+ 
+25.66917
+94.10722
+Debris
+Slide
+16 August 2008
+24517
+NL/KOH/83K02/2014/08
+Nagaland
+Kohima
+7.5 km slide
+Kohima pedi- peren road
+25.66969
+94.06267
+Debris
+Slide
+August 2014
+24518
+NL/KOH/83K02/2014/43
+Nagaland
+Kohima
+Assam Rifle cantonment
+Below 'D' Block (Assam Rifle 
+camp)
+25.66977
+94.11269
+Debris
+Slide
+2014
+24519
+NG/KOH/83K2/2015/92
+Nagaland
+Kohima
+ 
+Assam Rifles Cantonment, 
+Kohima Town
+25.67
+94.113
+Debris
+Slide
+2009
+24520
+NG/KOH/83K2/2015/93
+Nagaland
+Kohima
+ 
+D'Block colony, Kohima Town
+25.67
+94.109
+Debris
+Slide
+1965
+24521
+NG/PHE/83K2/2015/98
+Nagaland
+Phek
+ 
+On the immediate downslope of 
+Chakhabama-Chozuba-
+Zunheboto SH
+25.67
+94.211
+Debris
+Slide
+2014
+24522
+NG/KOH/83K2/2015/242
+Nagaland
+Kohima
+ 
+Kohima-Khonoma-Pedi-Peren 
+SH
+25.67
+94.062
+Debris
+Slide
+2010
+24523
+NG/PHE/83K6/2015/246
+Nagaland
+Phek
+ 
+Pfiitsero-Sakraba-Phek road
+25.67
+94.397
+Debris
+Slide
+2015
+24524
+NG/PHE/83K6/2015/319
+Nagaland
+Phek
+ 
+Pfiitsero-Sakraba-Phek road
+25.67
+94.382
+Debris
+Slide
+2013
+24525
+NG/PHE/83K6/2015/310
+Nagaland
+Phek
+ 
+Phek village-Losami road
+25.6702
+94.456
+Rock cum Debris
+Slide
+2015
+24526
+NG/PHE/83K2/2015/65
+Nagaland
+Phek
+ 
+On Chakhabama-Chozuba-
+Zunheboto SH
+25.671
+94.21
+Debris
+Slide
+2013

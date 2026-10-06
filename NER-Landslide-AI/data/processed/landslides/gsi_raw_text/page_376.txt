@@ -1,0 +1,458 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15523
+KER/WYD/58A2/2018/65
+Kerala
+Wayanad
+Erumakolli 2
+Meppadi-Chembra Peak Road
+11.55458333
+76.09483333
+rock-cum-debris
+Slide
+09 August 2018
+15524
+KER/WYD/58A2/2018/66
+Kerala
+Wayanad
+Erumakolli 3
+Meppadi-Chembra Peak Road
+11.55455556
+76.09052778
+Debris
+Flows
+08th and 9th August 2018
+15525
+KER/WYD/58A2/2018/67
+Kerala
+Wayanad
+Chembra peak 1
+Meppadi-Chembra Peak Road
+11.5535
+76.08627778
+Debris
+Flows
+08 August 2018
+15526
+KER/WYD/58A2/2018/68
+Kerala
+Wayanad
+Chemra peak 2
+Meppadi-Chembra Peak Road
+11.55377778
+76.08938889
+rock-cum-debris
+Slide
+15th August 2018
+15527
+KER/WYD/58A2/2018/69
+Kerala
+Wayanad
+Kunnumangalam kunnu
+Kunnumangalam kunnu local 
+Road
+11.56111111
+76.12858333
+soil
+Flows
+June + Aug.2018 
+15528
+KER/WYD/58A2/2018/70
+Kerala
+Wayanad
+Odathodu temple
+Odathodu-Annapara road
+11.56894444
+76.08027778
+rock-cum-debris
+Flows
+08th and 9th August 2018
+15529
+KER/WYD/58A2/2018/71
+Kerala
+Wayanad
+Mangavayal
+Kunnampetta-Puttoorvayal 
+road
+11.57958333
+76.09408333
+Soil
+Creep
+2nd, 9th August crack developed, 
+Submerged on 17th August 2018
+15530
+KER/WYD/58A2/2018/72
+Kerala
+Wayanad
+Mangavayal 2
+Kunnampetta-Puttoorvayal 
+road
+11.58116667
+76.09547222
+Debris
+Slide
+15th August 2018
+15531
+KER/WYD/58A2/2018/73
+Kerala
+Wayanad
+Manjalamkolli
+Kunnampetta-Puttoorvayal 
+road
+11.59138889
+76.088
+soil
+Subsidence
+08 August 2018
+15532
+KER/WYD/58A2/2018/74
+Kerala
+Wayanad
+Sreepuram ST colony 1
+Chundale-Shivapuram road
+11.58430556
+76.05083333
+Debris
+Slide
+08 August 2018
+15533
+KER/WYD/58A2/2018/75
+Kerala
+Wayanad
+Sreepuram ST colony 2
+Chundale-Shivapuram road
+11.58555556
+76.04830556
+Debris
+Slide
+15th August 2018
+15534
+KER/WYD/58A2/2018/76
+Kerala
+Wayanad
+Sreepuram ST colony 3
+Chundale-Shivapuram road
+11.58516667
+76.04786111
+Debris
+Slide
+08 August 2018
+15535
+KER/WYD/58A2/2018/77
+Kerala
+Wayanad
+Chelode 1
+NH-212
+11.56658333
+76.04338889
+Debris
+Slide
+15th August 2018
+15536
+KER/WYD/58A2/2018/78
+Kerala
+Wayanad
+Chelode 2
+NH-212
+11.56875
+76.04397222
+rock-cum-debris
+Flows
+09 August 2018
+15537
+KER/WYD/58A2/2018/79
+Kerala
+Wayanad
+Chelode 3
+NH-212
+11.57127778
+76.04416667
+Debris
+Slide
+09 August 2018
+15538
+KER/WYD/58A2/2018/80
+Kerala
+Wayanad
+Chelode 4
+NH-212
+11.57294444
+76.045
+Debris
+Slide
+08th and 9th August 2018
+15539
+KER/WYD/58A2/2018/81
+Kerala
+Wayanad
+Odathode
+NH-212
+11.57205556
+76.07755556
+Debris
+Slide
+08th and 9th August 2018
+15540
+KER/WYD/58A2/2018/82
+Kerala
+Wayanad
+82
+NH-212
+11.56580556
+76.11833333
+Debris
+Slide
+09 August 2018
+15541
+KER/WYD/58A2/2018/83
+Kerala
+Wayanad
+Lakkidi
+NH-212
+11.52811111
+76.02341667
+Debris
+Slide
+08th and 9th August 2018
+15542
+KER/WYD/58A2/2018/84
+Kerala
+Wayanad
+NH-212
+NH-212
+11.53444444
+76.02647222
+rock-cum-debris
+Slide
+09 August 2018
+15543
+KER/WYD/58A2/2018/85
+Kerala
+Wayanad
+85
+Lakkidi-Kunnathidavaka road
+11.53541667
+76.01827778
+Debris
+Flows
+15th August 2018
+15544
+KER/WYD/58A2/2018/86
+Kerala
+Wayanad
+Kappamkolli
+NH-212
+11.56669444
+76.11777778
+soil
+Slide
+08 August 2018
+15545
+KER/WYD/58A2/2018/87
+Kerala
+Wayanad
+Nedumkarana
+NH-212
+11.54316667
+76.178
+Debris
+Slide
+09 August 2018
+15546
+KER/WYD/58A2/2018/88
+Kerala
+Wayanad
+Padivayal
+NH-212
+11.54819444
+76.20772222
+Debris
+Slide
+09 August 2018
+15547
+KER/WYD/58A2/2018/89
+Kerala
+Wayanad
+Kalpetta ESI
+Meppadi-Kalpetta Road
+11.599166
+76.084166
+Debris
+Slide
+15th August 2018
+15548
+KER/WYD/58A2/2018/90
+Kerala
+Wayanad
+Kottavayal
+Meppadi-Kalpetta Road
+11.578055
+76.110833
+Debris
+Slide
+09 August 2018
+15549
+KER/WYD/58A2/2018/91
+Kerala
+Wayanad
+Chembothara
+Meppadi-Chembothara Road
+11.568888
+76.126666
+Debris
+Slide
+09 August 2018
+15550
+KER/WYD/58A2/2018/92
+Kerala
+Wayanad
+Nellimunda
+Meppadi-Nellimunda-Arrapetta 
+road
+11.530277
+76.14
+Debris
+Slide
+09 August 2018
+15551
+KER/WYD/58A2/2018/93
+Kerala
+Wayanad
+Attamala
+Chooralmala-Attamala road
+11.502222
+76.164722
+rock-cum-debris
+Slide
+Initiated 2016, Reactivated Aug, 2018. 
+15552
+KER/WYD/58A2/2018/94
+Kerala
+Wayanad
+Rattakolly
+Meppadi-Rattakolly road
+11.502222
+76.164722
+soil
+Slide
+09 August 2018
+15553
+KER/WYD/58A2/2018/95
+Kerala
+Wayanad
+Vellaramkunnu 3
+NH-212
+11.591111
+76.068333
+debris-cum-rock
+Slide
+08th and 9th August 2018
+15554
+KER/WYD/58A2/2018/96
+Kerala
+Wayanad
+Vellaramkunnu 4
+NH-212
+11.585
+76.06333
+debris-cum-rock
+Slide
+08th and 9th August 2018
+15555
+KER/WYD/58A2/2018/97
+Kerala
+Wayanad
+Vellaramkunnu 5
+NH-212
+11.582222
+76.063055
+rock-cum-debris
+Slide
+08th and 9th August 2018
+15556
+KER/WYD/58A2/2018/98
+Kerala
+Wayanad
+Vellaramkunnu 6
+NH-212
+11.581388
+76.062777
+debris-cum-rock
+Slide
+08th and 9th August 2018
+15557
+KER/WYD/58A2/2018/99
+Kerala
+Wayanad
+Vellaramkunnu 7
+NH-212
+11.580555
+76.0625
+debris-cum-rock
+Slide
+08th and 9th August 2018
+15558
+KER/WYD/58A2/2018/100
+Kerala
+Wayanad
+Vythiri 1
+NH-212
+11.558333
+76.0375
+debris-cum-rock
+Slide
+08th and 9th August 2018
+15559
+KER/WYD/58A2/2018/101
+Kerala
+Wayanad
+Vythiri Pozhuthana Rd
+Vythiri Pozhuthana Rd
+11.566111
+76.03111
+debris-cum-rock
+Slide
+08th and 9th August 2018
+15560
+KER/WYD/58A2/2018/102
+Kerala
+Wayanad
+Pozhuthana 1
+Vythiri-Tharuvana road
+11.58583
+76.018055
+debris-cum-rock
+Slide
+08th and 9th August 2018
+15561
+KER/WYD/58A2/2018/103
+Kerala
+Wayanad
+Pozhuthana 2
+Vythiri-Tharuvana road
+11.569444
+76.019166
+debris-cum-rock
+Slide
+08th and 9th August 2018
+15562
+KER/WYD/58A2/2018/104
+Kerala
+Wayanad
+Pozhuthana 3
+Vythiri-Tharuvana road
+11.568611
+76.019722
+debris-cum-rock
+Slide
+09 August 2018

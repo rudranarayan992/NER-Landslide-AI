@@ -1,0 +1,296 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+8582
+H.P./KANG/43P15/2019/12
+Himachal Pradesh
+Kangra
+Jabberkhad Nala, Khadetar
+Jabberkhad Nala, Khadetar
+32.36861944
+75.94833889
+Soil cum debris
+Slide
+1987
+8583
+HP/CHAM/43P15/2019/13
+Himachal Pradesh
+Chamba
+Phina Singh Dam slide
+near Lahru village, Nurpur
+32.40133889
+75.98525278
+Debris
+Slide
+17 August 2019
+8584
+HP/CHAM/43P/16/2019/14
+Himachal Pradesh
+Chamba
+Phina Singh canal slide, Lahru
+Near Phina Singh Canal, Lahru 
+village.
+32.40864722
+75.98548611
+Rock
+Fall
+Data not available
+8585
+HP/CHAM/43P15/2019/15
+Himachal Pradesh
+Chamba
+Kalidhar Slide zone
+Near Kalidhar village, r/b of 
+Chakki river on SH-28(Lahdu 
+Chowari road)
+32.41269722
+75.98649444
+Debris
+Slide
+Data not available.
+8586
+HP/CHAM/43P/15/2019/16
+Himachal Pradesh
+Chamba
+Barrian Nala slide zone
+SH – 28 (Lahru-Chamba road)
+32.42897222
+75.95915833
+Soil cum debris
+Slide
+Before 2002
+8587
+HP/KAN/52D/03/2019/17
+Himachal Pradesh
+Kangra
+Niangal slide 1
+Niangal Village
+32.25430556
+76.08022222
+Debris cum soil
+Slide
+23 October 2013
+8588
+HP/KAN/52D/03/2019/18
+Himachal Pradesh
+Kangra
+Niangal slide - 2
+Niangal Village,
+32.25710556
+76.07544444
+Debris cum soil
+Slide
+17 August 2019
+8589
+H.P./Solan/52A12/2019/20
+Himachal Pradesh
+Solan
+Jogohon slide
+Near Swarghat (13Km), Dist. 
+Solan on NH-105
+31.17739167
+76.69079444
+Debris
+Slide
+2019
+8590
+H.P./Kullu/52H08/2019/21
+Himachal Pradesh
+Kullu
+Kasol Slide
+Kasol (3Km), Dist. Kullu on 
+Bhuntar – Manikaran Road
+(SH-30),
+32.00596944
+77.28969722
+Debris
+Slide
+2019
+8591
+H.P./Kullu/52H08/2019/22
+Himachal Pradesh
+Kullu
+Manikaran Slide
+Manikaran, Dist. Kullu on 
+Bhuntar – Manikaran Road (SH-
+30)
+32.02118889
+77.33843056
+Debris
+Slide
+2019
+8592
+H.P./Kullu/52H08/2019/23
+Himachal Pradesh
+Kullu
+Shangna Slide
+Near Manikaran, Dist. Kullu on 
+Manikaran – Tosh Road
+32.02066667
+77.36688056
+Debris
+Slide
+2019
+8593
+H.P./Kullu/53E01/2019/24
+Himachal Pradesh
+Kullu
+Trambli Slide
+Bhuntar to Kullu road (NH-21)
+31.94409722
+77.114175
+Debris
+Slide
+2018, 2019 
+8594
+H.P./Kullu/52H04/2019/25
+Himachal Pradesh
+Kullu
+15th mile slide
+Kullu to Manali Road (NH-21)
+32.14569444
+77.15701111
+Debris
+Slide
+2018, 2019
+8595
+H.P./Kullu/52H04/2019/26
+Himachal Pradesh
+Kullu
+16th mile slide
+Kullu to Manali Road (NH-21)
+32.150525
+77.1641
+Debris
+Flow/Slide
+2018, 2019
+8596
+H.P./Kullu/52H04/2019/27
+Himachal Pradesh
+Kullu
+18th mile slide
+Kullu to Manali Road (NH-21)
+32.17943333
+77.18021944
+Debris
+Slide
+2017, 2019
+8597
+H.P./Kullu/52H04/2019/28
+Himachal Pradesh
+Kullu
+Manali bypass bridge slide
+Near bypass bridge, Manali 
+–Palchan Road.
+32.24776944
+77.19148056
+glacio-fluvial 
+deposits / slope 
+debris
+Slide
+June-July 2019
+8598
+H.P./Kullu/52H03/2019/29
+Himachal Pradesh
+Kullu
+Camp 21 slide
+Near Camp 21, hairpin turns, 
+Manali –Palchan Road.
+32.29038333
+77.179825
+glacio-fluvial 
+deposits / slope 
+debris
+Slide
+May 2019
+8599
+H.P./Kullu/52H03/2019/30
+Himachal Pradesh
+Kullu
+Nehrukund slide
+Near Camp 21, hairpin turns, 
+Manali –Palchan Road.
+32.29400278
+77.18141944
+glacio-fluvial 
+deposits / slope 
+debris
+Slide
+May 2019
+8600
+H.P./Kullu/52H03/2019/31
+Himachal Pradesh
+Kullu
+Marhi 1 landslide
+Manali –Palchan Road.
+32.35410833
+77.21353889
+glacio-fluvial 
+deposits / slope 
+debris
+Slide
+2019 
+8601
+H.P./Kullu/52H03/2019/32
+Himachal Pradesh
+Kullu
+Marhi 2 landslide
+Manali – Palchan Road.
+32.35631667
+77.22593889
+glacio-fluvial 
+deposits / slope 
+debris
+Slide
+2019 
+8602
+H.P./Lahaul & 
+Spiti/52H07/2019/33
+Himachal Pradesh
+Lahaul & Spiti
+Rohtang slide zone
+Manali - Keylong Road.
+32.38901111
+77.25288889
+glacio-fluvial 
+deposits / slope 
+debris
+Slide
+2019 
+8603
+H.P./Lahaul & 
+Spiti/52H07/2019/34
+Himachal Pradesh
+Lahaul & Spiti
+Gramphu Slide
+Manali- Keylong Road.
+32.39134722
+77.25668056
+glacio-fluvial 
+deposits / slope 
+debris
+Slide
+NA
+8604
+H.P./Lahaul & 
+Spiti/52D14/2019/35
+Himachal Pradesh
+Lahaul & Spiti
+Dalang slide zone
+Manali - Keylong Road.
+32.51905
+76.9781
+glacio-fluvial 
+deposits / slope 
+debris
+Slide
+2019 

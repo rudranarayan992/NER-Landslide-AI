@@ -1,0 +1,452 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20869
+MZ/LAW/84B11/2020/57
+Mizoram
+Lawngtlai
+Ajasora slide 4
+outside Ajasora village
+22.46
+92.69
+Rock
+Slide
+NA
+20870
+MZ/SAI/84F03/2020/21
+Mizoram
+Saiha
+North of Tlabung slide 10
+5 km North of Tlabung on  
+PMGSY Tlabung - Diblibagh road
+22.46
+93.05
+Debris
+Slide
+2018
+20871
+MZ/SAI/84F03/2020/22
+Mizoram
+Saiha
+Diblibagh village slide 1
+Diblibagh village near the Ferry 
+point of Karnaphuli River
+22.46
+93.05
+Rock
+Slide
+2018
+20872
+MZ/LAW/84B15/2018/23
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.462999
+92.877998
+Debris
+Slide
+NA
+20873
+MZ/SAI/84B15/2018/51
+Mizoram
+Saiha
+ 
+Saiha to Zero Point Road
+22.462999
+92.969002
+Debris
+Slide
+NA
+20874
+MZ/LAW/84B15/2018/6
+Mizoram
+Lawngtlai
+ 
+4 km north of Saikah
+22.464916
+92.916107
+Rock
+Fall
+NA
+20875
+MZ/LAW/84B15/2018/7
+Mizoram
+Lawngtlai
+ 
+Along NH 54
+22.466166
+92.92083
+Debris
+Slide
+NA
+20876
+MZ/LAW/84B15/2018/20
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.468
+92.873001
+Debris
+Slide
+NA
+20877
+MZ/LAW/84B15/2018/14
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.469
+92.876999
+Debris
+Slide
+NA
+20878
+MZ/LAW/84B15/2018/13
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.469469
+92.878334
+Debris
+Slide
+NA
+20879
+MZ/LAW/84B11/2020/51
+Mizoram
+Lawngtlai
+Chawngte C to Longpuighat slide
+Chawngte C to Longpuighat 
+road
+22.47
+92.63
+Debris
+Slide
+NA
+20880
+MZ/SAI/84B15/2018/41
+Mizoram
+Saiha
+ 
+Lawngtlai to Saiha road
+22.472
+92.969002
+Debris
+Slide
+NA
+20881
+MZ/LAW/84B15/2018/12
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.475
+92.877998
+Debris
+Slide
+NA
+20882
+MZ/SAI/84B15/2018/52
+Mizoram
+Saiha
+ 
+Northeast of Zero Point
+22.475
+92.964996
+Debris
+Slide
+NA
+20883
+MZ/LAW/84B14/2019/4
+Mizoram
+Lawngtlai
+ 
+Outside Lawngtlai
+22.476999
+92.885002
+Rock
+Fall
+NA
+20884
+MZ/SAI/84B15/2018/42
+Mizoram
+Saiha
+ 
+Lawngtlai to Saiha road
+22.478001
+92.966003
+Rock
+Fall
+NA
+20885
+MZ/LAW/84B11/2020/5
+Mizoram
+Lawngtlai
+Diltlang S slide
+Diltlang S
+22.48
+92.73
+Debris
+Slide
+NA
+20886
+MZ/LAW/84B15/2018/11
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.482
+92.877998
+Debris
+Slide
+NA
+20887
+MZ/LAW/84B15/2018/9
+Mizoram
+Lawngtlai
+ 
+Along NH 54
+22.483166
+92.885551
+Rock
+Fall
+NA
+20888
+MZ/SAI/84B15/2018/43
+Mizoram
+Saiha
+ 
+Lawngtlai to Saiha road
+22.483999
+92.954002
+Debris
+Fall
+NA
+20889
+MZ/SAI/84B15/2018/49
+Mizoram
+Saiha
+ 
+A.R. Camp, Saiha
+22.485666
+92.985825
+Debris
+Slide
+NA
+20890
+MZ/LAW/84B15/2018/10
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.486
+92.882004
+Debris
+Slide
+NA
+20891
+MZ/SAI/84B15/2018/44
+Mizoram
+Saiha
+ 
+Lawngtlai to Saiha road
+22.487
+92.964996
+Debris
+Slide
+NA
+20892
+MZ/LAW/84B11/2020/58
+Mizoram
+Lawngtlai
+Ajasora slide 5
+outside Ajasora village
+22.49
+92.67
+Rock
+Slide
+NA
+20893
+MZ/LAW/84B11/2020/63
+Mizoram
+Lawngtlai
+Khawmawi to Chawngte P road slide 3 Khawmawi to Chawngte P road 22.49
+92.74
+Rock
+Slide
+2019
+20894
+MZ/SAI/84F03/2020/33
+Mizoram
+Saiha
+West of Tlangpuikawn slide
+West of Tlangpuikawn
+22.49
+93.01
+Debris
+Slide
+2017
+20895
+MZ/SAI/84B15/2018/45
+Mizoram
+Saiha
+ 
+Lawngtlai to Saiha road
+22.490999
+92.964996
+Debris
+Slide
+NA
+20896
+MZ/SAI/84B15/2018/48
+Mizoram
+Saiha
+ 
+Colony Viah, Saiha
+22.490999
+92.981003
+Debris
+Subsidence
+NA
+20897
+MZ/SAI/84B15/2018/50
+Mizoram
+Saiha
+ 
+New Saiha, Saiha
+22.490999
+92.984001
+Debris
+Subsidence
+NA
+20898
+MZ/SAI/84B15/2018/47
+Mizoram
+Saiha
+ 
+Outskirts of Saiha
+22.496
+92.975998
+Rock
+Fall
+NA
+20899
+MZ/LAW/84B14/2018/33
+Mizoram
+Lawngtlai
+ 
+Multi- Modal Road
+22.5
+92.887001
+Debris
+Slide
+NA
+20900
+MZ/LAW/84B10/2020/1
+Mizoram
+Lawngtlai
+Khawmawi to Chawngte P road slide 1 Khawmawi to Chawngte P road 22.5
+92.75
+Rock
+Slide
+2019
+20901
+MZ/LAW/84B10/2020/2
+Mizoram
+Lawngtlai
+Ngengpuikai to Chawngte road slide
+Ngengpuikai to Chawngte road
+22.5
+92.74
+Rock
+Slide
+2019
+20902
+MZ/LAW/84B10/2020/22
+Mizoram
+Lawngtlai
+Diltlang road slide
+Diltlang road
+22.5
+92.73
+Debris
+Slide
+2019
+20903
+MZ/LAW/84B10/2020/23
+Mizoram
+Lawngtlai
+Diltlang S to Khawmawi road slide
+Diltlang S to Khawmawi road
+22.5
+92.74
+Rock
+Slide
+NA
+20904
+MZ/LAW/84B11/2020/50
+Mizoram
+Lawngtlai
+Diltlang S slide
+Diltlang S
+22.5
+92.73
+Debris
+Slide
+2017
+20905
+MZ/LAW/84B11/2020/59
+Mizoram
+Lawngtlai
+Ajasora slide 6
+outside Ajasora village
+22.5
+92.68
+Rock
+Slide
+NA
+20906
+MZ/SAI/84F03/2020/20
+Mizoram
+Saiha
+North of Tlabung slide 8
+4.2 km North of Tlabung on  
+PMGSY Tlabung - Diblibagh road
+22.5
+93.01
+Debris
+Slide
+2018
+20907
+MZ/SAI/84F03/2020/34
+Mizoram
+Saiha
+North of  Tlangpuikawn slide
+1km north of  Tlangpuikawn
+22.5
+93.02
+Debris
+Slide
+2017
+20908
+MZ/LAW/84B14/2018/30
+Mizoram
+Lawngtlai
+ 
+Along NH 54 
+22.501471
+92.891663
+Debris
+Slide
+NA

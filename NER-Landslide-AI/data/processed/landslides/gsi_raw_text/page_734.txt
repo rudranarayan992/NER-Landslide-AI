@@ -1,0 +1,470 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28986
+WB/DAR/78B05/2015/410
+West Bengal
+Darjeeling
+NH31A_8.3km
+At Km.8.3 from Sevoke on NH-
+31A
+26.947
+88.441
+Rock
+Fall
+2001
+28987
+WB/DAR/78B05/2015/678
+West Bengal
+Darjeeling
+N. OF YANGMAKUM
+N. OF YANGMAKUM
+26.947
+88.498167
+Rock
+Slide
+2015
+28988
+WB/DAR/78B09/2015/802
+West Bengal
+Darjeeling
+NG41 S of Kupring
+ 
+26.947113
+88.569009
+Rock
+Slide
+2015
+28989
+WB/DAR/78B09/2015/751
+West Bengal
+Darjeeling
+N OF CHUKHIM
+N OF CHUKHIM
+26.947228
+88.547407
+Rock
+Slide
+2015
+28990
+WB/DAR/78B01/2021/PDLS/32
+West Bengal
+Darjeeling
+N/A
+N/A
+26.94723504
+88.12620482
+Debris
+Slide
+October 2021
+28991
+WB/DAR/78B05/2021/PDLS/33
+4
+West Bengal
+Darjeeling
+N/A
+N/A
+26.94731082
+88.44212199
+Rock
+Slide
+October 2021
+28992
+WB/DAR/78B05/2015/453
+West Bengal
+Darjeeling
+NG88 PAMBU KHOLA
+ 
+26.947482
+88.450774
+Rock
+Slide
+2004
+28993
+WB/DAR/78B05/2015/649
+West Bengal
+Darjeeling
+Bagora
+Bagora
+26.947683
+88.311161
+Rock
+Slide
+2015
+28994
+WB/DAR/78B01/2021/PDLS/31
+West Bengal
+Darjeeling
+N/A
+N/A
+26.94777529
+88.12638144
+Debris
+Slide
+October 2021
+28995
+WB/DAR/78B01/2021/PDLS/30
+West Bengal
+Darjeeling
+N/A
+N/A
+26.94807543
+88.12610237
+Debris
+Slide
+October 2021
+28996
+WB/DAR/78B05/2015/454
+West Bengal
+Darjeeling
+NG89 PAMBU KHOLA
+ 
+26.948286
+88.451846
+Rock
+Slide
+2004
+28997
+WB/DAR/78B09/2015/780
+West Bengal
+Darjeeling
+NG21 GYASOK
+ 
+26.948323
+88.604408
+Debris
+Slide
+2015
+28998
+WB/DAR/78B05/2015/509
+West Bengal
+Darjeeling
+Yangmakum
+Yangmakum
+26.948431
+88.488741
+Rock
+Slide
+2010
+28999
+WB/DAR/78B09/2015/801
+West Bengal
+Darjeeling
+NG40 S of Kupring
+ 
+26.94846
+88.568639
+Debris
+Slide
+2015
+29000
+WB/DAR/78B05/2015/663
+West Bengal
+Darjeeling
+Sitang
+Sitang
+26.948528
+88.382083
+Rock
+Slide
+2015
+29001
+WB/DAR/78B05/2015/594
+West Bengal
+Darjeeling
+NH10
+ 
+26.948662
+88.441254
+Rock
+Slide
+2014
+29002
+WB/DAR/78B05/2021/PDLS/33
+5
+West Bengal
+Darjeeling
+N/A
+N/A
+26.94989751
+88.43986841
+Rock
+Fall
+October 2021
+29003
+WB/DAR/78B09/2015/781
+West Bengal
+Darjeeling
+NG22 GYASOK
+ 
+26.949907
+88.603477
+Debris
+Slide
+2015
+29004
+WB/DAR/78B05/2015/679
+West Bengal
+Darjeeling
+Sitang
+Sitang
+26.95
+88.400111
+Debris
+Slide
+2015
+29005
+WB/DAR/78B05/2015/677
+West Bengal
+Darjeeling
+N. OF YANGMAKUM
+N. OF YANGMAKUM
+26.950361
+88.495389
+Rock
+Slide
+2015
+29006
+WB/DAR/78B09/2015/752
+West Bengal
+Darjeeling
+N OF CHUKHIM
+N OF CHUKHIM
+26.950556
+88.5515
+Rock
+Slide
+2015
+29007
+WB/DAR/78B05/2021/PDLS/33
+6
+West Bengal
+Darjeeling
+N/A
+N/A
+26.95074091
+88.43948629
+Rock
+Slide
+October 2021
+29008
+WB/DAR/78B05/2015/683
+West Bengal
+Darjeeling
+Dam Khola NH31A
+Dam Khola NH31A
+26.950861
+88.439528
+Rock
+Slide
+2015
+29009
+WB/DAR/78B05/2021/PDLS/33
+7
+West Bengal
+Darjeeling
+N/A
+N/A
+26.95122319
+88.43910965
+Rock
+Slide
+October 2021
+29010
+WB/DAR/78B05/2015/525
+West Bengal
+Darjeeling
+Labda
+Labda village
+26.951683
+88.35613
+Debris
+Slide
+2011
+29011
+WB/DAR/78B09/2015/753
+West Bengal
+Darjeeling
+SSW OF CHUKHIM
+SSW OF CHUKHIM
+26.951722
+88.557
+Rock
+Slide
+2015
+29012
+WB/DAR/78B05/2015/470
+West Bengal
+Darjeeling
+Luruk
+ 
+26.95237
+88.401375
+Debris
+Slide
+2004
+29013
+WB/DAR/78B05/2015/627
+West Bengal
+Darjeeling
+Rajahata NH55
+Rajahata NH55
+26.953444
+88.289806
+Rock
+Slide
+2015
+29014
+WB/DAR/78B05/2015/674
+West Bengal
+Darjeeling
+Longku
+Longku
+26.953818
+88.420414
+Rock
+Slide
+2015
+29015
+WB/DAR/78B09/2015/785
+West Bengal
+Darjeeling
+NG24 SE OF NIMBONG
+ 
+26.953829
+88.590906
+Debris
+Slide
+2015
+29016
+WB/DAR/78B05/2015/550
+West Bengal
+Darjeeling
+NH31A_12.5km
+ 
+26.954675
+88.365081
+Rock
+Slide
+2012
+29017
+WB/DAR/78B09/2015/782
+West Bengal
+Darjeeling
+NG23 GYASOK
+ 
+26.954756
+88.602805
+Debris
+Slide
+2015
+29018
+WB/DAR/78B05/2015/472
+West Bengal
+Darjeeling
+Near Tung within Karsyang Municipal 
+limit
+Near Tung within Karsyang 
+Municipal limit off NH 55
+26.955
+88.289
+Rock
+Slide
+2006
+29019
+WB/DAR/78B09/2015/817
+West Bengal
+Darjeeling
+NG55 SW of Kupring
+ 
+26.955073
+88.542426
+Debris
+Slide
+2015
+29020
+WB/DAR/78B05/2015/628
+West Bengal
+Darjeeling
+TUNG
+NH-55
+26.955305
+88.297262
+Rock
+Slide
+2015
+29021
+WB/DAR/78B01/2021/PDLS/35
+West Bengal
+Darjeeling
+N/A
+N/A
+26.95632612
+88.121641
+Debris
+Slide
+October 2021
+29022
+WB/DAR/78B09/2015/816
+West Bengal
+Darjeeling
+NG54 SW of Kupring
+ 
+26.956427
+88.542571
+Debris
+Slide
+2015
+29023
+WB/DAR/78B01/2021/PDLS/36
+West Bengal
+Darjeeling
+N/A
+N/A
+26.95648893
+88.12160231
+Debris
+Slide
+October 2021
+29024
+WB/DAR/78B05/2015/673
+West Bengal
+Darjeeling
+Longku
+Longku
+26.957083
+88.424389
+Rock
+Slide
+2015
+29025
+WB/DAR/78B09/2015/815
+West Bengal
+Darjeeling
+NG53 SW of Kupring
+ 
+26.957349
+88.548779
+Rock
+Slide
+2015
+29026
+WB/DAR/78B09/2015/728
+West Bengal
+Darjeeling
+NW OF KUPRING
+ 
+26.95759
+88.546007
+Rock
+Slide
+2014

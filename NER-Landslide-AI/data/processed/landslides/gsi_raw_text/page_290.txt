@@ -1,0 +1,390 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12456
+KA/UK/48J06/2015/144
+Karnataka
+Uttar Kannada
+ 
+NH-17 near Handigade village
+14.608483
+74.3607
+Debris
+Slide
+NA
+12457
+KA/UK/48J06/2015/143
+Karnataka
+Uttar Kannada
+ 
+NH-17 near Handigade village
+14.60875
+74.360183
+Debris
+Slide
+NA
+12458
+KA/UTT/48I10/2018/08
+Karnataka
+Uttar Kannada
+Hakkigadde
+Hakkigadde
+14.609133
+74.688339
+Soil
+Slide
+NA
+12459
+KA/UTT/48J10/2018/13
+Karnataka
+Uttar Kannada
+West of Vaddi
+West of Vaddi
+14.613297
+74.554911
+Debris
+Slump
+NA
+12460
+KA/UK/48J06/2015/139
+Karnataka
+Uttar Kannada
+ 
+NH-17 near Handigade village
+14.61335
+74.357433
+Debris
+Slide
+NA
+12461
+KA/UK/48J06/2015/140
+Karnataka
+Uttar Kannada
+ 
+NH-17 near Handigade village
+14.613467
+74.35745
+Debris
+Slide
+NA
+12462
+KA/UK/48J06/2015/141
+Karnataka
+Uttar Kannada
+ 
+NH-17 near Handigade village
+14.61375
+74.35795
+Debris
+Slide
+NA
+12463
+KA/UK/48J06/2015/153
+Karnataka
+Uttar Kannada
+ 
+Honnabale village
+14.613833
+74.306
+Rock
+Slide
+NA
+12464
+KA/UK/48J06/2015/152
+Karnataka
+Uttar Kannada
+ 
+Honnabale village
+14.614033
+74.305017
+Rock
+Slide
+NA
+12465
+KA/UK/48J06/2015/138
+Karnataka
+Uttar Kannada
+ 
+NH-17 near Handigade village
+14.61505
+74.357683
+Rock
+Slide
+NA
+12466
+KA/UTT/48J10/2018/14
+Karnataka
+Uttar Kannada
+West of Vaddi
+West of Vaddi
+14.615669
+74.555067
+Debris
+Slide
+NA
+12467
+KA/UTT/48J10/2018/12
+Karnataka
+Uttar Kannada
+Vaddi
+Vaddi
+14.615761
+74.557853
+Soil
+Slump
+NA
+12468
+KA/UTT/48J14/2020/28
+Karnataka
+Uttar Kannada
+Byagadde village
+Byagadde village
+14.63
+74.91
+Earth
+Slide
+2020
+12469
+KA/UTT/48J14/2020/29
+Karnataka
+Uttar Kannada
+NE of Else village
+NE of Else village
+14.63
+74.87
+Debris
+Slide
+2019
+12470
+KA/UTT/48J14/2020/1
+Karnataka
+Uttar Kannada
+Kerllakoppa village
+Kerllakoppa village
+14.64
+74.8
+Earth
+Slide
+2019
+12471
+KA/UTT/48J14/2020/2
+Karnataka
+Uttar Kannada
+Devarkoppa Village
+Devarkoppa Village
+14.65
+74.8
+Earth
+Slide
+2019
+12472
+KA/UTT/48J14/2020/8
+Karnataka
+Uttar Kannada
+Taragod village
+Taragod village
+14.66
+74.83
+Debris
+Slide
+2019
+12473
+KA/UTT/48J14/2020/11
+Karnataka
+Uttar Kannada
+Dasangadde village 
+Dasangadde village 
+14.66
+74.84
+Earth
+Slide
+2020
+12474
+KA/UTT/48J14/2020/9
+Karnataka
+Uttar Kannada
+Taragod village
+Taragod village
+14.67
+74.85
+Earth
+Slide
+2020
+12475
+KA/UTT/48J14/2020/10
+Karnataka
+Uttar Kannada
+Taragod village
+Taragod village
+14.67
+74.85
+Earth
+Slide
+2020
+12476
+KA/UTT/48J14/2020/50
+Karnataka
+Uttar Kannada
+ Kumbrigadde village
+ Kumbrigadde village
+14.67
+74.85
+Debris
+Slide
+2019
+12477
+KA/UK/48J06/2015/133
+Karnataka
+Uttar Kannada
+ 
+NH-17 on ankola- karwar 
+road/Islampur
+14.672017
+74.310767
+Debris
+Slide
+NA
+12478
+KA/UK/48J06/2015/137
+Karnataka
+Uttar Kannada
+ 
+NH-17 on ankola- karwar 
+road/Islampur
+14.672233
+74.311217
+Debris
+Slide
+NA
+12479
+KA/UK/48J06/2015/132
+Karnataka
+Uttar Kannada
+ 
+NH-63 on Yellapur road
+14.685267
+74.3762
+Debris
+Slide
+NA
+12480
+KA/UK/48J06/2015/164
+Karnataka
+Uttar Kannada
+ 
+Near gokarna on NH-17
+14.685386
+74.409675
+Debris
+Slide
+NA
+12481
+KA/UK/48J06/2015/130
+Karnataka
+Uttar Kannada
+ 
+NH-63 on Yellapur road
+14.68815
+74.3545
+Debris
+Slide
+NA
+12482
+KA/UK/48J06/2015/131
+Karnataka
+Uttar Kannada
+ 
+NH-63 on Yellapur road near 
+Navagadde Halla
+14.688317
+74.353283
+Rock
+Fall
+NA
+12483
+KA/UTT/48J14/2020/12
+Karnataka
+Uttar Kannada
+Agsala Village
+Agsala Village
+14.69
+74.82
+Debris
+Slide
+2019
+12484
+KA/UTT/48J14/2020/16
+Karnataka
+Uttar Kannada
+Babankatte village
+Babankatte village
+14.69
+74.9
+Earth
+Subsidence
+2019
+12485
+KA/UTT/48J14/2020/31
+Karnataka
+Uttar Kannada
+Gaddigehole-Agsale village
+Gaddigehole-Agsale village
+14.69
+74.82
+Debris
+Slide
+2019
+12486
+KA/UK/48J06/2015/125
+Karnataka
+Uttar Kannada
+ 
+NH-63 on Yellapur road near 
+Navagadde Halla
+14.6909
+74.343717
+Rock
+Slide
+NA
+12487
+KA/UTT/48J14/2020/13
+Karnataka
+Uttar Kannada
+Bhairumbe Village
+Bhairumbe Village
+14.7
+74.82
+Earth
+Slide
+2019
+12488
+KA/UTT/48J14/2020/14
+Karnataka
+Uttar Kannada
+Boppanalli village
+Boppanalli village
+14.7
+74.88
+Earth
+Slide
+2019
+12489
+KA/UTT/48J14/2020/15
+Karnataka
+Uttar Kannada
+Boppanalli village
+Boppanalli village
+14.7
+74.88
+Debris
+Slide
+2020

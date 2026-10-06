@@ -1,0 +1,48 @@
+# Core Python stack
+pandas>=2.2.0
+numpy>=1.26.0
+geopandas>=0.14.4
+shapely>=2.0.4
+pyproj>=3.6.1
+scipy>=1.12.0
+
+# GIS / raster / geospatial
+rasterio>=1.3.9
+fiona>=1.9.6
+pyogrio>=0.7.4
+pysal>=2.8.0
+
+# IMPORTANT:
+# GDAL is a system dependency for many GIS workflows and may require an OSGeo install
+# (e.g., OSGeo4W / Conda / QGIS environment) rather than a direct pip build on Windows.
+# Do not force a source-built GDAL package in a standard Python 3.11 virtualenv.
+
+# Database / API / validation
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.7.0
+sqlalchemy>=2.0.30
+psycopg[binary]>=3.3.6
+
+# ML / modeling
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+
+# Image AI
+torch>=2.2.0
+torchvision>=0.17.0
+
+# Utilities
+python-dotenv>=1.0.1
+requests>=2.32.0
+httpx>=0.27.0
+pyyaml>=6.0.0
+loguru>=0.7.0
+pandas-stubs>=2.2.0
+
+# Optional data quality / notebooks
+jupyter>=1.0.0
+ipykernel>=6.29.0
+
+# NOTE: Versions are kept compatible with Python 3.11 for local installation.
+# For production GIS workflows, install GDAL from the official OSGeo tooling or conda environment.

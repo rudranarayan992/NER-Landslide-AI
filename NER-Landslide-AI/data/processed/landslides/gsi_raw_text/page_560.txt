@@ -1,0 +1,300 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22120
+MZ/AIZ/84A10/2015/197
+Mizoram
+Aizawl
+ 
+Southwest of Lawipu, Power 
+House, Lawipu - Tlawng Rd
+23.722111
+92.681472
+Debris
+Slide
+NA
+22121
+MZ/AIZ/84A10/2015/198
+Mizoram
+Aizawl
+ 
+Southwest of Lawipu, Near 
+Power House, Lawipu - Tlawng 
+Rd
+23.722222
+92.682278
+Debris
+Slide
+NA
+22122
+MZ/MAM/84A10/2015/130
+Mizoram
+Mamit
+ 
+North of Rulpuihlim, SH-Reiek- 
+Mamit-Aizawl
+23.726694
+92.557778
+Debris
+Slide
+NA
+22123
+MZ/AIZ/84A14/2015/82
+Mizoram
+Aizawl
+ 
+Seling village on NH 54
+23.727472
+92.85265
+Rock
+Fall
+NA
+22124
+MZ/AIZ/84A10/2015/215
+Mizoram
+Aizawl
+ 
+500m SW of New Secreteriat, 
+Aizawl (Near GSI Site)
+23.727639
+92.703083
+Rock
+Slide
+NA
+22125
+MZ/AIZ/84A10/2015/74
+Mizoram
+Aizawl
+N/A
+N/A
+23.727694
+92.736
+Debris
+Slide
+NA
+22126
+MZ/MAM/84A10/2015/123
+Mizoram
+Mamit
+ 
+North of Rulpuihlim, SH-Reiek- 
+Mamit-Aizawl
+23.728778
+92.557833
+Rock
+Slide
+NA
+22127
+MZ/AIZ/84A14/2015/75
+Mizoram
+Aizawl
+ 
+Zemabawk, near Ripans 
+complex road on NH 54 Aizawl-
+Seling road
+23.730867
+92.755639
+Rock
+Slide
+NA
+22128
+MZ/AIZ/84A14/2015/66
+Mizoram
+Aizawl
+ 
+Paibawk Turial section along 
+NH54
+23.732867
+92.825842
+Debris
+Slide
+NA
+22129
+MZ/AIZ/84A14/2015/76
+Mizoram
+Aizawl
+ 
+East of Zemabawk, near MRF 
+showroom on NH 54 Aizawl-
+Seling road
+23.732894
+92.753033
+Debris
+Slide
+NA
+22130
+MZ/AIZ/84A10/2015/117
+Mizoram
+Aizawl
+ 
+Mizoram university-Aizawl road 23.733083
+92.675611
+Debris
+Slide
+NA
+22131
+MZ/MAM/84A10/2015/125
+Mizoram
+Mamit
+ 
+North of Rulpuihlim, SH-Reiek- 
+Mamit-Aizawl
+23.733222
+92.557833
+Debris
+Slide
+NA
+22132
+MZ/AIZ/84A10/2015/189
+Mizoram
+Aizawl
+ 
+East of Mizoram university, 
+Mizoram Univ. - Aizawl
+23.7335
+92.674472
+Rock
+Slide
+NA
+22133
+MZ/AIZ/84A10/2014/05
+Mizoram
+Aizawl
+Zemabawk
+Zemabawk
+23.73436
+92.75194
+Rock
+Slide
+2012
+22134
+MZ/CHA/84E02/2017/10
+Mizoram
+Champhai
+ 
+5.5 km of saichal
+23.734427
+93.08625
+Rock
+Slide
+NA
+22135
+MZ/AIZ/84A10/2015/208
+Mizoram
+Aizawl
+ 
+Zonuam Veng, on Mizoram 
+University - Aizawl Rd
+23.735
+92.695111
+Rock
+Slide
+NA
+22136
+MZ/AIZ/84A10/2015/207
+Mizoram
+Aizawl
+ 
+Zonuam Veng, on Mizoram 
+University - Aizawl Rd
+23.735028
+92.696028
+Rock
+Slide
+NA
+22137
+MZ/AIZ/84A14/2015/77
+Mizoram
+Aizawl
+ 
+About 1km along bamboo link 
+road, on the foot slope of 
+Sherbawk tlang
+23.735086
+92.829525
+Rock
+Slide
+NA
+22138
+MZ/MAM/84A10/2015/126
+Mizoram
+Mamit
+ 
+North of Rulpuihlim, SH-Reiek- 
+Mamit-Aizawl
+23.735833
+92.558056
+Debris
+Slide
+NA
+22139
+MZ/AIZ/84A14/2015/70
+Mizoram
+Aizawl
+ 
+Airfield veng, Junction of Airfield
+Aizawl road
+23.736217
+92.796936
+Debris
+Subsidence
+NA
+22140
+MZ/AIZ/84A10/2015/214
+Mizoram
+Aizawl
+ 
+Govt Complex, Aizawl, Govt 
+Complex - Mizoram university 
+Rd via Zonuam
+23.736778
+92.694528
+Rock
+Slide
+NA
+22141
+MZ/AIZ/84A10/2015/224
+Mizoram
+Aizawl
+ 
+Rangvamul, Near Mining Check 
+Post, NH-54 Aizawl - 
+Lengpui(Airport) - Silchar
+23.737083
+92.703889
+Rock
+Slide
+NA
+22142
+MZ/MAM/84A10/2015/127
+Mizoram
+Mamit
+ 
+North of Rulpuihlim, SH-Reiek- 
+Mamit-Aizawl
+23.737167
+92.557167
+Rock
+Slide
+NA
+22143
+MZ/AIZ/84A10/2015/217
+Mizoram
+Aizawl
+ 
+Thuampi Vengthar, Thuampui 
+Vengthar - Chite Lui Rd
+23.739306
+92.743111
+Debris
+Slide
+NA

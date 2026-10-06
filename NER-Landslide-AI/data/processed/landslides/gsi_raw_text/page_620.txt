@@ -1,0 +1,355 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+24467
+NG/KOH/83K2/2015/194
+Nagaland
+Kohima
+ 
+Kohima-Khonoma-Pedi-Peren 
+SH
+25.661
+94.054
+Debris
+Slide
+2011
+24468
+NG/KOH/83K2/2015/206
+Nagaland
+Kohima
+ 
+ 
+25.661
+94.055
+Debris
+Slide
+NA
+24469
+NG/PHE/83K6/2015/323
+Nagaland
+Phek
+ 
+Terrace cultivated fields of 
+Pholami village
+25.661
+94.388
+Debris
+Slide
+2004
+24470
+NG/PHE/83K6/2015/276
+Nagaland
+Phek
+ 
+Pfiitsero-Sakraba-Phek road
+25.662
+94.453
+Debris
+Slide
+2012
+24471
+NG/KOH/83K2/2015/80
+Nagaland
+Kohima
+ 
+Lower Jail colony, Kohima Town 25.662
+94.096
+Debris
+Slide
+2010
+24472
+NG/KOH/83K2/2015/117
+Nagaland
+Kohima
+ 
+Chandmari colony, Kohima 
+Town
+25.662
+94.108
+Debris
+Slide
+2011
+24473
+NG/PHE/83K10/2017/3
+Nagaland
+Phek
+ 
+Waziho
+25.662222
+94.719444
+Debris
+Slide
+NA
+24474
+NL/KOH/83K02/2014/40
+Nagaland
+Kohima
+Kohima Army Helipad slide
+Army cantonment
+25.66264
+94.11353
+Debris
+Slide
+August 2014
+24475
+NL/KOH/83K02/2014/01
+Nagaland
+Kohima
+PWD Road Junction, Kohima Town
+NH 29
+25.663
+94.10439
+Debris
+Slide
+August 2014
+24476
+NG/KOH/83K2/2015/81
+Nagaland
+Kohima
+ 
+ 
+25.663
+94.097
+Debris
+Slide
+2006
+24477
+NG/KOH/83K2/2015/189
+Nagaland
+Kohima
+ 
+Assam Rifles Cantonment, 
+Kohima Town
+25.663
+94.113
+Rock
+Slide
+NA
+24478
+NG/KOH/83K2/2015/32
+Nagaland
+Kohima
+ 
+NH-29
+25.664
+94.101
+Debris
+Slide
+2013
+24479
+NG/KOH/83K2/2015/100
+Nagaland
+Kohima
+ 
+Midland colony, Kohima Town
+25.665
+94.104
+Debris
+Slide
+1989
+24480
+NG/PHE/83K2/2015/79
+Nagaland
+Phek
+ 
+On Chakhabama-Chozuba-
+Zunheboto SH
+25.665
+94.216
+Debris
+Slide
+2013
+24481
+NG/PHE/83K2/2015/198
+Nagaland
+Phek
+ 
+On Chakhabama-Chozuba-
+Zunheboto-Mokokchung  SH
+25.665
+94.247
+Rock
+Slide
+NA
+24482
+NG/KOH/83K2/2015/204
+Nagaland
+Kohima
+ 
+NH-29 (right bank of stream)
+25.665
+94.096
+Rock cum Debris
+Composite
+1968
+24483
+NG/PHE/83K2/2015/178
+Nagaland
+Phek
+ 
+On Chakhabama-Chozuba-
+Zunheboto SH
+25.665
+94.215
+Debris
+Slide
+2012
+24484
+NG/KOH/83K2/2015/139
+Nagaland
+Kohima
+ 
+Midland colony, Kohima Town
+25.665
+94.104
+Debris
+Composite
+1989
+24485
+NG/PHE/83K2/2015/144
+Nagaland
+Phek
+ 
+On Chakhabama-Chozuba-
+Zunheboto SH
+25.665
+94.214
+Debris
+Slide
+2013
+24486
+NG/PHE/83K2/2015/210
+Nagaland
+Phek
+ 
+ 
+25.666
+94.244
+Rock
+Slide
+2015
+24487
+NG/PHE/83K6/2015/256
+Nagaland
+Phek
+ 
+Chakhabama-Chozuba-
+Zunheboto SH
+25.666
+94.258
+Debris
+Slide
+2014
+24488
+NG/KOH/83K2/2015/165
+Nagaland
+Kohima
+ 
+Southwestern downslope of 
+Paramedical colony
+25.666
+94.09
+Debris
+Slide
+1989
+24489
+NG/KOH/83K2/2015/166
+Nagaland
+Kohima
+ 
+NH-29
+25.666
+94.09
+Debris
+Slide
+1968
+24490
+NG/KOH/83K2/2015/142
+Nagaland
+Kohima
+ 
+ 
+25.666
+94.098
+Debris
+Slide
+NA
+24491
+NAG/KOH/83K02/2008/F-3B
+Nagaland
+Kohima
+Officer Hill/ Naga Hospital Colony slide 
+25.66667
+94.10972
+Debris
+Slide
+12 August 2007
+24492
+NG/KOH/83K2/2015/94
+Nagaland
+Kohima
+ 
+Kohima-Khonoma road
+25.667
+94.035
+Rock
+Fall
+2015
+24493
+NG/PHE/83K6/2015/273
+Nagaland
+Phek
+ 
+Chakhabama-Chozuba-
+Zunheboto SH
+25.667
+94.253
+Debris
+Slide
+2015
+24494
+NG/KOH/83K2/2015/89
+Nagaland
+Kohima
+ 
+Western downslope of 
+Paramedical colony below NH-
+29 road bench
+25.667
+94.094
+Rock
+Slide
+2010
+24495
+NG/PHE/83K6/2015/266
+Nagaland
+Phek
+ 
+Chakhabama-Chozuba-
+Zunheboto SH
+25.667
+94.254
+Debris
+Slide
+2014
+24496
+NG/PHE/83K2/2015/127
+Nagaland
+Phek
+ 
+On Chakhabama-Chozuba-
+Zunheboto SH
+25.667
+94.211
+Debris
+Slide
+2013

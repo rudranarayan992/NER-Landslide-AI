@@ -1,0 +1,401 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20139
+ME/EKH/83C02/2015/164
+Meghalaya
+East Khasi Hills
+ 
+1.5km SSW of Pepbah, NH-44
+25.539611
+92.001556
+Rock
+Slide
+NA
+20140
+ME/EKH/83C02/2015/146
+Meghalaya
+East Khasi Hills
+ 
+1.5 km w of Pomura, NH-44
+25.541611
+92.0125
+Debris
+Slide
+NA
+20141
+MEGH/EKH/83C02/2009/D-34
+Meghalaya
+East Khasi Hills
+Puriang-4 slide
+NH-44 (Shillong - Silchar)
+25.54231
+92.1
+Rock cum Debris
+Slide
+1 July 2009
+20142
+MEGH/EKH/83C02/2009/D-31
+Meghalaya
+East Khasi Hills
+Puriang slide
+NH-44 (Shillong - Silchar)
+25.54261
+92.10867
+Debris
+Slide
+1 July 2009
+20143
+MEGH/EKH/83C02/2009/D-35
+Meghalaya
+Jaintia Hills
+Kongong-2 slide
+NH-44 (Shillong-Silchar road)
+25.54261
+92.09842
+Debris
+Slide
+1 July 2009
+20144
+MEGH/EKH/83C02/2009/D-33
+Meghalaya
+East Khasi Hills
+Puriang-3 slide
+NH-44 (Shillong - Silchar)
+25.54264
+92.10214
+Rock
+Slide
+1 July 2009
+20145
+ME/EKH/83C02/2015/151
+Meghalaya
+East Khasi Hills
+ 
+Puriang, NH-44
+25.542694
+92.096472
+Rock
+Slide
+NA
+20146
+MEG/EKH/78O10/2016/09
+Meghalaya
+East Khasi Hills
+Nongbri village Slide
+1 km W of Nongbri village
+25.542744
+91.662067
+Rock
+Slide
+2016
+20147
+ME/EKH/83C02/2015/152
+Meghalaya
+East Khasi Hills
+ 
+Puriang, NH-44
+25.542806
+92.096972
+Rock
+Slide
+NA
+20148
+MEGH/EKH/83C02/2009/D-32
+Meghalaya
+East Khasi Hills
+Puriang-2 slide
+NH-44 (Shillong - Silchar)
+25.54328
+92.10478
+Rock
+Fall
+1 July 2009
+20149
+MG/WKH/78O02/2017/50
+Meghalaya
+West Khasi Hills
+Mawkadiang
+Mawkadiang  Nongkaniang road 25.544028
+91.215472
+Debris
+Slide
+NA
+20150
+ME/EKH/83C02/2015/153
+Meghalaya
+East Khasi Hills
+ 
+NH-44
+25.544506
+92.102033
+Rock
+Slide
+NA
+20151
+MG/WKH/78O06/2017/10
+Meghalaya
+West Khasi Hills
+Siejlieh slide no. 2
+NH44E Nongstoin bypass
+25.544889
+91.263722
+Debris
+Slide
+NA
+20152
+MG/WKH/78O06/2017/8
+Meghalaya
+West Khasi Hills
+Pyndengrei slide No 3
+NH44E Nongstoin bypass
+25.544906
+91.268575
+Debris
+Slide
+NA
+20153
+MG/WKH/78O06/2017/6
+Meghalaya
+West Khasi Hills
+Pyndengrei slide No 1
+NH44E Nongstoinbypass
+25.544917
+91.270722
+Debris
+Slide
+NA
+20154
+MG/WKH/78O06/2017/12
+Meghalaya
+West Khasi Hills
+4.1 km E of  Pdengshakap
+Laremshiap road
+25.544936
+91.267672
+Rock
+Slide
+NA
+20155
+MG/WKH/78O06/2017/7
+Meghalaya
+West Khasi Hills
+Pyndengrei slide No 2
+NH44E Nongstoin bypass
+25.545061
+91.269778
+Debris
+Slide
+NA
+20156
+ME/EKH/83C02/2015/154
+Meghalaya
+East Khasi Hills
+ 
+1 km NE of Puriang,NH-44
+25.545083
+92.103175
+Rock
+Slide
+NA
+20157
+ME/EKH/83C02/2015/155
+Meghalaya
+East Khasi Hills
+ 
+1.7 km NE of Puriang,NH-44
+25.545139
+92.104778
+Debris
+Slide
+NA
+20158
+MG/WKH/78O06/2017/11
+Meghalaya
+West Khasi Hills
+Pyndengrei slide no. 4
+NH44E Nongstoin bypass
+25.545206
+91.276144
+Debris
+Slide
+NA
+20159
+MG/WKH/78O06/2017/3
+Meghalaya
+West Khasi Hills
+Nongspung slide,
+1.4 km West of Nongspung, 
+NH44E
+25.545642
+91.325403
+Debris
+Slide
+NA
+20160
+MG/WKH/78O02/2017/49
+Meghalaya
+West Khasi Hills
+0.68 km NW of Mawiawban
+Mawkadiang  Nongkaniang road 25.545722
+91.520556
+Debris
+Slide
+NA
+20161
+MG/WKH/78O06/2017/13
+Meghalaya
+West Khasi Hills
+NH44E bypass slide
+NH44E Nongstoin bypass
+25.545939
+91.284283
+Debris
+Slide
+NA
+20162
+MG/WKH/78O02/2017/13
+Meghalaya
+West Khasi Hills
+0.7 km NW of Mawiawban
+NH44E
+25.546456
+91.235733
+Soil
+Slide
+NA
+20163
+MG/WKH/78O02/2017/14
+Meghalaya
+West Khasi Hills
+0.76 km NW of Mawiawban
+NH44E
+25.546553
+91.235222
+Debris
+Slide
+NA
+20164
+MG/WKH/78O06/2017/14
+Meghalaya
+West Khasi Hills
+Pyndengrei slide no 5
+NH44E Nongstoin bypass
+25.547867
+91.292589
+Debris
+Slide
+NA
+20165
+MEG/WKH/78O10/2016/10
+Meghalaya
+West Khasi Hills
+ 
+Along NH44E near 40km mile 
+stone
+25.548089
+91.647706
+Debris
+Slide
+2016
+20166
+MEG/WKH/78O10/2016/05
+Meghalaya
+West Khasi Hills
+47 mile stone slide
+Along NH44E near 47 mile stone 25.548306
+91.61775
+Rock
+Slide
+2016
+20167
+MG/WKH/78O02/2017/37
+Meghalaya
+West Khasi Hills
+0.9 km NN of Mawiawban
+Link road from NH44E from 
+Mawliehdein
+25.549139
+91.244417
+Debris
+Slide
+NA
+20168
+MG/WKH/78O02/2017/38
+Meghalaya
+West Khasi Hills
+1 km NN of Mawiawban
+Link road from NH44E from 
+Mawliehdein
+25.549333
+91.246583
+Debris
+Slide
+NA
+20169
+MG/WKH/78O02/2017/39
+Meghalaya
+West Khasi Hills
+1.1 km NN of Mawiawban
+Link road from NH44E from 
+Mawliehdein
+25.549639
+91.247472
+Rock
+Slide
+NA
+20170
+MG/WKH/78O02/2017/36
+Meghalaya
+West Khasi Hills
+0.8 km NN of Mawiawban
+Link road from NH44E from 
+Mawliehdein
+25.549667
+91.242444
+Debris
+Slide
+NA
+20171
+MEG/WKH/78O10/2016/07
+Meghalaya
+West Khasi Hills
+NH44E slide6
+Along NH44E near 0.5 km NE of 
+Mawlong
+25.549789
+91.645033
+Debris
+Slide
+2016
+20172
+MG/WKH/78O06/2017/15
+Meghalaya
+West Khasi Hills
+Pyndengrei slide no 6
+NH44E Nongstoin bypass
+25.549861
+91.295706
+Debris
+Slide
+NA
+20173
+MG/WKH/78O06/2017/21
+Meghalaya
+South West Khasi  Hills
+Nongspung natural slide
+NE of Nongspung
+25.549961
+91.341175
+Debris
+Slide
+NA

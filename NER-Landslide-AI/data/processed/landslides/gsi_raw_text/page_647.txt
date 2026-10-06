@@ -1,0 +1,420 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+25520
+NAG/MOK/83J/7/2016/0017
+Nagaland
+Mokokchung
+ 
+Bewteen Chungtia-
+Longjongkong
+26.395139
+94.451194
+Debris
+Slide
+NA
+25521
+NAG/MOK/83J/7/2016/0011
+Nagaland
+Mokokchung
+ 
+Bewteen Chungtia-
+Longjongkong
+26.395389
+94.454528
+Debris
+Slide
+NA
+25522
+NAG/MOK/83J/7/2016/0018
+Nagaland
+Mokokchung
+ 
+Bewteen Chungtia-
+Longjongkong
+26.395944
+94.460056
+Debris
+Slide
+2015
+25523
+NL/MON/83J15/2014/09
+Nagaland
+Mon
+Shense slide
+State Highway (Tobu to Mon 
+road)
+26.39936
+94.94553
+Debris
+Flow
+17 August 2023
+25524
+NG/LON/83J15/2017/35
+Nagaland
+Longleng
+ 
+1 km S of Yimching Village
+26.404167
+94.870278
+Debris
+Subsidence
+NA
+25525
+NL/MON/83J15/2014/10
+Nagaland
+Mon
+Chaklangsho-1
+State Highway (Tobu to Mon 
+road)
+26.40653
+94.95814
+Debris
+Slide
+17 August 2013, at 17:00hrs
+25526
+NL/MON/83J15/2014/11
+Nagaland
+Mon
+Chaklangsho-2
+State Highway (Tobu to Mon 
+road)
+26.40908
+94.96308
+Rock cum Debris
+Slide
+17 August 2013
+25527
+NA/MOK/83J07/2020/6
+Nagaland
+Mokokchung
+ 
+NH702D (below Changki)
+26.41
+94.37
+Debris
+Slide
+NA
+25528
+NA/MOK/83J07/2020/7
+Nagaland
+Mokokchung
+ 
+NH 29
+26.41
+94.37
+Debris
+Slide
+NA
+25529
+NG/TUE/83J15/2017/45
+Nagaland
+Tuensang
+ 
+8km SW of Ukha
+26.410556
+94.961944
+Debris
+Slide
+NA
+25530
+NAG/MOKH/83J08/2015/ 0100
+Nagaland
+Mokokchung
+ 
+7 km NE of Longkang Village on 
+the way to Yoongimiti Vllage
+26.412694
+94.641333
+Debris
+Slide
+NA
+25531
+NG/MON/83N3/2017/15
+Nagaland
+Mon
+ 
+PesaoMonyakshu Road
+26.413056
+95.048278
+Rock
+Slide
+NA
+25532
+NG/MON/83N3/2017/14
+Nagaland
+Mon
+ 
+PesaoMonyakshu Road
+26.415417
+95.053667
+Rock
+Slide
+NA
+25533
+NG/TUE/83J15/2017/49
+Nagaland
+Tuensang
+ 
+3 km S of Ukha
+26.417222
+94.960833
+Debris
+Slide
+NA
+25534
+NG/TUE/83J15/2017/50
+Nagaland
+Tuensang
+ 
+2.7 km S of Ukha
+26.4175
+94.960278
+Debris
+Slide
+NA
+25535
+NG/TUE/83J15/2017/51
+Nagaland
+Tuensang
+ 
+5 km S of Ukha
+26.418333
+94.967778
+Debris
+Slide
+NA
+25536
+NG/TUE/83J15/2017/52
+Nagaland
+Tuensang
+ 
+5.1 km S of Ukha
+26.418333
+94.968056
+Debris
+Slide
+NA
+25537
+NG/TUE/83J15/2017/48
+Nagaland
+Tuensang
+ 
+3.5 km S of Ukha
+26.418611
+94.966111
+Debris
+Slide
+NA
+25538
+NL/MON/83J15/2014/12
+Nagaland
+Mon
+Telangsao slide
+State Highway (Tobu to Mon 
+road)
+26.41931
+94.97369
+Debris
+Slide
+18 August 2013
+25539
+NA/MOK/83J07/2020/5
+Nagaland
+Mokokchung
+ 
+NH702D
+26.42
+94.38
+Debris
+Slide
+2018
+25540
+NG/MON/83N3/2017/13
+Nagaland
+Mon
+ 
+PesaoMonyakshu Road
+26.420167
+95.053833
+Rock
+Slide
+NA
+25541
+NG/TUE/83J15/2017/47
+Nagaland
+Tuensang
+ 
+4.2 km S of Ukha
+26.420556
+94.973056
+Debris
+Slide
+NA
+25542
+NG/TUE/83J15/2017/46
+Nagaland
+Tuensang
+ 
+4km S of Ukha
+26.421389
+94.975
+Debris
+Slide
+NA
+25543
+NG/MON/83N3/2017/1
+Nagaland
+Mon
+ 
+Near Changlangshu
+26.421667
+95.011306
+Debris
+Slide
+NA
+25544
+NG/LON/83J15/2017/36
+Nagaland
+Longleng
+ 
+3 km N of Yimching Village
+26.424167
+94.863889
+Debris
+Slide
+NA
+25545
+NAG/MOKH/83J08/2015/ 0103
+Nagaland
+Mokokchung
+ 
+New Yoongimiti Village orange 
+yeard
+26.424472
+94.67
+Rock
+Slide
+NA
+25546
+NG/MON/83N3/2017/2
+Nagaland
+Mon
+ 
+Near Changlangshu
+26.425222
+95.021694
+Debris
+Slide
+NA
+25547
+NAG/MOKH/83J08/2015/ 0104
+Nagaland
+Mokokchung
+ 
+New Yoongimiti Village 
+playgroung
+26.42575
+94.669417
+Rock
+Slide
+NA
+25548
+NAG/MOKH/83J08/2015/ 0102
+Nagaland
+Mokokchung
+ 
+New Yoongimiti Village church 
+building
+26.426417
+94.668444
+Rock
+Slide
+NA
+25549
+NAG/MOKH/83J08/2015/ 0101
+Nagaland
+Mokokchung
+ 
+New Yoongimiti Village
+26.426944
+94.669
+Rock
+Slide
+NA
+25550
+NG/MON/83N3/2017/12
+Nagaland
+Mon
+ 
+PesaoMonyakshu Road
+26.427222
+95.052389
+Debris
+Slide
+NA
+25551
+NAG/MOKH/83J08/2015/ 0105
+Nagaland
+Mokokchung
+ 
+New Yoongimiti Village water 
+well
+26.428
+94.668611
+Rock
+Slide
+NA
+25552
+NG/MON/83N3/2017/3
+Nagaland
+Mon
+ 
+Bumei
+26.4285
+95.0185
+Soil
+Creep
+NA
+25553
+NAG/MOKH/83J08/2015/ 0115
+Nagaland
+Mokokchung
+ 
+Mysymthi Village
+26.429361
+94.623
+Rock
+Slide
+NA
+25554
+NA/MOK/83J07/2020/4
+Nagaland
+Mokokchung
+ 
+NH702D
+26.43
+94.38
+Debris
+Slide
+NA
+25555
+NAG/MOKH/83J08/2015/ 0106
+Nagaland
+Mokokchung
+ 
+Old Yoongimiti Village
+26.431
+94.669944
+Rock
+Slide
+NA

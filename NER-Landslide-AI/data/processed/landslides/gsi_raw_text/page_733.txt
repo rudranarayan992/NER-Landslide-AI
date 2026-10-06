@@ -1,0 +1,499 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28942
+WB/DAR/78B05/2015/546
+West Bengal
+Darjeeling
+Sabjey on Mangpu-Selphu road
+Sabjey on Mangpu-Selphu road 26.934
+88.366
+Rock
+Slide
+2012
+28943
+WB/DAR/78B09/2015/769
+West Bengal
+Darjeeling
+YANGMAKUN
+YANGMAKUN
+26.934056
+88.527417
+Rock
+Slide
+2015
+28944
+WB/DAR/78B05/2015/691
+West Bengal
+Darjeeling
+Sebje
+ 
+26.934279
+88.366738
+Rock
+Slide
+2015
+28945
+WB/DAR/78B09/2015/720
+West Bengal
+Darjeeling
+Nabgaon
+Nabgaon village
+26.934486
+88.540907
+Debris
+Slide
+2013
+28946
+WB/DAR/78B05/2015/591
+West Bengal
+Darjeeling
+SATI KHOLA
+ 
+26.934609
+88.436977
+Rock
+Slide
+2014
+28947
+WB/DAR/78B05/2015/534
+West Bengal
+Darjeeling
+Lower Dudhia
+ 
+26.934943
+88.372138
+Debris
+Slide
+2011
+28948
+WB/DAR/78B05/2015/469
+West Bengal
+Darjeeling
+Seadim
+ 
+26.934999
+88.392444
+Debris
+Slide
+2004
+28949
+WB/DAR/78B05/2021/PDLS/33
+2
+West Bengal
+Darjeeling
+N/A
+N/A
+26.93546128
+88.44889028
+Debris
+Slide
+October 2021
+28950
+WB/DAR/78B05/2015/668
+West Bengal
+Darjeeling
+Sebje
+Sebje
+26.935944
+88.363611
+Debris
+Slide
+2015
+28951
+WB/DAR/78B09/2015/805
+West Bengal
+Darjeeling
+NG44 S of Kupring
+ 
+26.93648
+88.565025
+Debris
+Slide
+2015
+28952
+WB/DAR/78B09/2015/735
+West Bengal
+Darjeeling
+NW OF YANGMAKUN
+ 
+26.936614
+88.5065
+Rock
+Slide
+2014
+28953
+WB/DAR/78B05/2015/417
+West Bengal
+Darjeeling
+NH31A _ 6.8km
+At Km 6.8 from Sevoke on NH 
+31A
+26.936735
+88.442575
+Rock
+Fall
+2002
+28954
+WB/DAR/78B05/2015/450
+West Bengal
+Darjeeling
+NG83 E OF KALIJHORA
+ 
+26.93678
+88.467168
+Rock
+Slide
+2004
+28955
+WB/DAR/78B09/2015/804
+West Bengal
+Darjeeling
+NG44 S of Kupring
+ 
+26.937003
+88.56554
+Debris
+Slide
+2015
+28956
+WB/DAR/78B05/2015/693
+West Bengal
+Darjeeling
+Sati Khola NH31A
+ 
+26.937298
+88.441611
+Debris
+Slide
+2015
+28957
+WB/DAR/78B05/2021/PDLS/33
+3
+West Bengal
+Darjeeling
+N/A
+N/A
+26.93762072
+88.44164616
+Rock
+Fall
+October 2021
+28958
+WB/DAR/78B09/2015/722
+West Bengal
+Darjeeling
+NW OF YANGMAKUN
+ 
+26.937776
+88.507469
+Rock
+Slide
+2014
+28959
+WB/DAR/78B05/2015/697
+West Bengal
+Darjeeling
+Right bank of Tista(200m north of Siti 
+Khola)
+NH-10
+26.937889
+88.441722
+Rock
+Slide
+2015
+28960
+WB/DAR/78B05/2015/593
+West Bengal
+Darjeeling
+MANE, SATI KHOLA
+ 
+26.938221
+88.426029
+Rock
+Slide
+2014
+28961
+WB/DAR/78B05/2015/592
+West Bengal
+Darjeeling
+MANE, SATI KHOLA
+ 
+26.938343
+88.421622
+Rock
+Slide
+2014
+28962
+WB/DAR/78B05/2015/629
+West Bengal
+Darjeeling
+Dlaram-Bagora
+Dlaram-Bagora
+26.938667
+88.304611
+Rock
+Slide
+2015
+28963
+WB/DAR/78B09/2015/726
+West Bengal
+Darjeeling
+S OF KUPRING
+ 
+26.939423
+88.56717
+Debris
+Slide
+2014
+28964
+WB/DAR/78B01/2021/PDLS/29
+West Bengal
+Darjeeling
+N/A
+N/A
+26.94020133
+88.12861278
+Debris
+Slide
+October 2021
+28965
+WB/DAR/78B09/2015/771
+West Bengal
+Darjeeling
+YANGMAKUN
+YANGMAKUN
+26.940917
+88.512972
+Rock
+Slide
+2015
+28966
+WB/DAR/78B05/2015/506
+West Bengal
+Darjeeling
+NG85 E OF KALIJHORA
+ 
+26.941112
+88.460935
+Rock
+Slide
+2010
+28967
+WB/DAR/78B09/2015/727
+West Bengal
+Darjeeling
+S OF KUPRING
+ 
+26.941145
+88.571441
+Rock
+Slide
+2014
+28968
+WB/DAR/78B05/2015/505
+West Bengal
+Darjeeling
+NG84 E OF KALIJHORA
+ 
+26.941589
+88.465202
+Rock
+Slide
+2010
+28969
+WB/DAR/78B05/2015/451
+West Bengal
+Darjeeling
+NG86 E OF KALIJHORA
+ 
+26.941599
+88.459768
+Rock
+Slide
+2004
+28970
+WB/DAR/78B09/2015/772
+West Bengal
+Darjeeling
+YANGMAKUN
+YANGMAKUN
+26.942583
+88.512778
+Rock
+Slide
+2015
+28971
+WB/DAR/78B09/2015/773
+West Bengal
+Darjeeling
+YANGMAKUN
+YANGMAKUN
+26.943389
+88.511
+Rock
+Slide
+2015
+28972
+WB/DAR/78B09/2015/803
+West Bengal
+Darjeeling
+NG42 S of Kupring
+ 
+26.943539
+88.569415
+Rock
+Slide
+2015
+28973
+WB/DAR/78B09/2015/725
+West Bengal
+Darjeeling
+S OF KUPRING
+ 
+26.943543
+88.564643
+Debris
+Slide
+2014
+28974
+WB/DAR/78B05/2015/468
+West Bengal
+Darjeeling
+Lower Mamring
+ 
+26.943916
+88.350615
+Debris
+Slide
+2004
+28975
+WB/DAR/78B05/2015/676
+West Bengal
+Darjeeling
+Mane
+Mane
+26.943944
+88.413083
+Debris
+Slide
+2015
+28976
+WB/DAR/78B05/2015/648
+West Bengal
+Darjeeling
+Bagora
+Bagora
+26.944028
+88.311611
+Rock
+Slide
+2015
+28977
+WB/DAR/78B09/2015/811
+West Bengal
+Darjeeling
+NG49 SW of Kupring
+ 
+26.944806
+88.542192
+Rock
+Slide
+2015
+28978
+WB/DAR/78B09/2015/812
+West Bengal
+Darjeeling
+NG50 SW of Kupring
+ 
+26.945149
+88.541259
+Rock
+Slide
+2015
+28979
+WB/DAR/78B09/2015/750
+West Bengal
+Darjeeling
+N OF CHUKHIM
+N OF CHUKHIM
+26.945306
+88.552889
+Rock
+Slide
+2015
+28980
+WB/DAR/78B09/2015/814
+West Bengal
+Darjeeling
+NG52 SW of Kupring
+ 
+26.945844
+88.538675
+Debris
+Slide
+2015
+28981
+WB/DAR/78B09/2015/813
+West Bengal
+Darjeeling
+NG51 SW of Kupring
+ 
+26.945977
+88.540735
+Rock
+Slide
+2015
+28982
+WB/DAR/78B01/2021/PDLS/34
+West Bengal
+Darjeeling
+N/A
+N/A
+26.94598352
+88.12578945
+Debris
+Slide
+October 2021
+28983
+WB/DAR/78B01/2021/PDLS/33
+West Bengal
+Darjeeling
+N/A
+N/A
+26.94622612
+88.12593289
+Debris
+Slide
+October 2021
+28984
+WB/DAR/78B05/2015/452
+West Bengal
+Darjeeling
+NG87 PAMBU KHOLA
+ 
+26.946594
+88.450797
+Rock
+Slide
+2004
+28985
+WB/DAR/78B09/2015/809
+West Bengal
+Darjeeling
+NG48 SW of Kupring
+ 
+26.946813
+88.543631
+Rock
+Slide
+2015

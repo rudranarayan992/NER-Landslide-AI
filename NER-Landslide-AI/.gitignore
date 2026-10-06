@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.env
+.venv*
+
+# Added for local environment exclusions
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.pkl
+*.h5
+*.pt
+*.pth
+
+# Node / frontend
+node_modules/
+frontend/node_modules/
+
+# Raw source data
+data/raw/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data / generated outputs
+*.parquet
+*.gpkg
+*.geojson
+*.tif
+*.tiff
+*.shp
+*.dbf
+*.shx
+*.prj
+*.csv
+*.sqlite
+*.db
+
+# Logs
+*.log
+logs/
+
+# Build / cache
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,485 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+25369
+NAG/MOKH/83J08/2015/ 0093
+Nagaland
+Mokokchung
+ 
+8 km North of Sastami 
+Village,NH 61
+26.222111
+94.419028
+Rock
+Slide
+NA
+25370
+NAG/WOK/83J/4/2016/0046
+Nagaland
+Wokha
+ 
+Sanis to Bhagti Road
+26.222306
+94.214056
+Debris
+Slide
+NA
+25371
+NAG/WOK/83J/4/2016/0117
+Nagaland
+Wokha
+ 
+5 km east of Yimza
+26.222492
+94.167267
+Debris
+Slide
+NA
+25372
+NG/TUE/83N4/2017/8
+Nagaland
+Tuensang
+#N/A
+#N/A
+26.223
+95.033417
+Rock
+Slide
+NA
+25373
+NG/TUE/83N4/2017/7
+Nagaland
+Tuensang
+ 
+NoklakPangsha Road
+26.223528
+95.03275
+Rock
+Slide
+NA
+25374
+NG/TUE/83N4/2017/10
+Nagaland
+Tuensang
+ 
+NoklakPangsha Road
+26.226028
+95.043389
+Rock
+Slide
+NA
+25375
+NAG/TUN/83J16/2016/0031
+Nagaland
+Tuensang
+ 
+Tuensang Town
+26.226778
+94.801583
+Earth
+Slide
+NA
+25376
+NAG/WOK/83J/4/2016/0047
+Nagaland
+Wokha
+ 
+Sanis to Bhagti Road
+26.226972
+94.211806
+Rock
+Slide
+2016
+25377
+NAG/MOK/83J12/2017/0078
+Nagaland
+Mokokchung
+ 
+3 km N of Longsa Village
+26.227896
+94.55032
+Rock
+Slide
+NA
+25378
+NG/TUE/83N4/2017/11
+Nagaland
+Tuensang
+ 
+NoklakPangsha Road
+26.229389
+95.051694
+Rock
+Slide
+NA
+25379
+NG/TUE/83N4/2017/12
+Nagaland
+Tuensang
+ 
+NoklakPangsha Road
+26.229861
+95.0515
+Debris
+Slide
+NA
+25380
+NAG/WOK/83J/4/2016/0111
+Nagaland
+Wokha
+#N/A
+#N/A
+26.230083
+94.198
+Debris
+Slide
+NA
+25381
+NAG/WOK/83J/4/2016/0048
+Nagaland
+Wokha
+ 
+Sanis to Bhagti Road
+26.231028
+94.217083
+Debris
+Slide
+2016
+25382
+NAG/TUN/83J16/2016/0041
+Nagaland
+Tuensang
+ 
+5 km E of New Chengmai Village 26.231694
+94.941056
+Rock
+Slide
+NA
+25383
+NAG/ZUNH/83J08/2015/ 0075
+Nagaland
+Zunheboto
+ 
+Zaphumi Village
+26.232556
+94.472889
+Debris
+Slide
+NA
+25384
+NAG/ZUNH/83J08/2015/ 0076
+Nagaland
+Zunheboto
+ 
+Zaphumi Village
+26.232694
+94.473083
+Rock
+Slide
+NA
+25385
+NAG/WOK/83J/4/2016/0116
+Nagaland
+Wokha
+ 
+2 km NE of Yimza
+26.232722
+94.130806
+Debris
+Slide
+2015
+25386
+NAG/ZUNH/83J08/2015/ 0077
+Nagaland
+Zunheboto
+ 
+Zaphumi Village
+26.232861
+94.472361
+Rock
+Slide
+NA
+25387
+NAG/WOK/83J/4/2016/0115
+Nagaland
+Wokha
+ 
+2 km NE of Yimza
+26.232944
+94.130639
+Debris
+Slide
+2015
+25388
+NAG/TUN/83J16/2016/0043
+Nagaland
+Tuensang
+ 
+3.5 km NW of Tuensang Town
+26.233444
+94.795278
+Rock
+Slide
+NA
+25389
+NAG/ZUNH/83J08/2015/ 0078
+Nagaland
+Zunheboto
+ 
+Zaphumi Village
+26.233861
+94.4725
+Debris
+Slide
+NA
+25390
+NAG/WOK/83J/4/2016/0049
+Nagaland
+Wokha
+ 
+Sanis to Bhagti Road
+26.234722
+94.21525
+Debris
+Slide
+NA
+25391
+NAG/TUN/83J16/2016/0044
+Nagaland
+Tuensang
+ 
+Unit Hospital Colony, Tuensang 
+Town
+26.234778
+94.782333
+Earth
+Slide
+NA
+25392
+NAG/WOK/83J/4/2016/0050
+Nagaland
+Wokha
+ 
+Sanis to Bhagti Road
+26.235278
+94.215556
+Debris
+Slide
+NA
+25393
+NAG/WOK/83J/4/2016/0051
+Nagaland
+Wokha
+ 
+Sanis to Bhagti Road
+26.235639
+94.213417
+Debris
+Slide
+NA
+25394
+NAG/TUN/83J16/2016/0042
+Nagaland
+Tuensang
+ 
+8 km E of New Chengmai Village 26.235678
+94.942004
+Rock
+Slide
+NA
+25395
+NAG/TUN/83J16/2016/0030
+Nagaland
+Tuensang
+ 
+Tuensang town river side
+26.235736
+94.805011
+Debris
+Slide
+NA
+25396
+NAG/WOK/83J/4/2016/0052
+Nagaland
+Wokha
+ 
+Sanis to Bhagti Road
+26.236111
+94.212639
+Debris
+Slide
+NA
+25397
+NAG/TUN/83J16/2016/0029
+Nagaland
+Tuensang
+ 
+Tuensang Town
+26.236111
+94.809694
+Earth
+Slide
+NA
+25398
+NAG/WOK/83J/4/2016/0054
+Nagaland
+Wokha
+ 
+Sanis to Bhagti Road
+26.236336
+94.212222
+Debris
+Slide
+NA
+25399
+NAG/WOK/83J/4/2016/0055
+Nagaland
+Wokha
+ 
+Sanis to Bhagti Road
+26.23675
+94.209639
+Rock
+Slide
+NA
+25400
+NAG/WOK/83J/4/2016/0053
+Nagaland
+Wokha
+ 
+Sanis to Bhagti Road
+26.237
+94.212611
+Debris
+Slide
+NA
+25401
+NAG/WOK/83J/4/2016/0056
+Nagaland
+Wokha
+ 
+Sanis to Bhagti Road
+26.237861
+94.205028
+Debris
+Slide
+NA
+25402
+NAG/WOK/83J/4/2016/0057
+Nagaland
+Wokha
+ 
+Sanis to Bhagti Road
+26.238694
+94.203944
+Debris
+Slide
+NA
+25403
+NG/TUE/83N4/2017/15
+Nagaland
+Tuensang
+ 
+NoklakPangsha Road
+26.239056
+95.058194
+Rock
+Slide
+NA
+25404
+NAG/WOK/83J/4/2016/0059
+Nagaland
+Wokha
+ 
+Baghty
+26.239167
+94.200611
+Debris
+Slide
+NA
+25405
+NAG/WOK/83J/4/2016/0114
+Nagaland
+Wokha
+ 
+Pongtong village
+26.239167
+94.071111
+Debris
+Slide
+NA
+25406
+NAG/WOK/83J/4/2016/0058
+Nagaland
+Wokha
+ 
+Sanis to Bhagti Road
+26.23925
+94.202222
+Debris
+Slide
+2016
+25407
+NG/TUE/83N4/2017/16
+Nagaland
+Tuensang
+ 
+NoklakPangsha Road
+26.239444
+95.0655
+Debris
+Slide
+NA
+25408
+NG/TUE/83N4/2017/17
+Nagaland
+Tuensang
+ 
+NoklakPangsha Road
+26.240556
+95.065694
+Debris
+Slide
+NA
+25409
+NG/TUE/83N4/2017/14
+Nagaland
+Tuensang
+ 
+NoklakPangsha Road
+26.24075
+95.056722
+Soil
+Slide
+NA
+25410
+NAG/TUE/83J16/2009/F-5
+Nagaland
+Tuensang
+Tuensang slide
+ 
+26.24139
+94.82056
+Debris
+Slide
+10 July,2009
+25411
+NG/TUE/83N4/2017/13
+Nagaland
+Tuensang
+ 
+NoklakPangsha Road
+26.242944
+95.048417
+Rock
+Fall and slide
+NA

@@ -1,0 +1,277 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21830
+MZ/SER/84A15/2016/85
+Mizoram
+Serchhip
+ 
+Mualpui Veng, Chhinchhip, NH-
+54 Aizawl-Serchhip-Lunglei 
+Road
+23.478601
+92.858505
+Rock
+Slide
+2015
+21831
+MZ/CHA/84E03/2017/50
+Mizoram
+Champhai
+ 
+About 13.5km from Khawzawl 
+to Champhai
+23.479667
+93.225722
+Rock
+Slide
+NA
+21832
+MZ/SER/84A15/2016/56
+Mizoram
+Serchhip
+ 
+Chhingchhip Area,(Mounting 
+hall) PMGSY Chhingchhip-
+Hualto Road
+23.479766
+92.870601
+Debris
+Slide
+2016
+21833
+MZ/CHA/84E03/2017/52
+Mizoram
+Champhai
+ 
+Champhai  Khawzawl Rd
+23.480549
+93.040585
+Debris
+Slide
+NA
+21834
+MZ/CHA/84E03/2017/53
+Mizoram
+Champhai
+ 
+Rullam Road
+23.481881
+93.214835
+Debris
+Slide
+NA
+21835
+MZ/CHA/84E07/2017/54
+Mizoram
+Champhai
+Vengsang slide
+Vengsang, Champhai
+23.482322
+93.310052
+Debris
+Slide
+NA
+21836
+MZ/CHA/84E03/2017/54
+Mizoram
+Champhai
+ 
+7km stone Khawzawl
+23.48375
+93.212611
+Rock
+Slide
+NA
+21837
+MZ/CHA/84E07/2017/55
+Mizoram
+Champhai
+ 
+NW of ChhungteKhua along 
+Aizawl  Champhai road
+23.484639
+93.278222
+Rock
+Fall
+NA
+21838
+MZ/CHA/84E07/2017/56
+Mizoram
+Champhai
+ 
+Champhai  Tuipui road
+23.485194
+93.274236
+Rock
+Slide
+NA
+21839
+MZ/SER/84A15/2016/86
+Mizoram
+Serchhip
+ 
+North of Chhingchhip, NH-54 
+Aizawl-Serchhip-Lunglei Road
+23.486909
+92.856282
+Debris
+Slide
+2014
+21840
+MZ/MAM/84A11/2017/140
+Mizoram
+Mamit
+ 
+About 1km South of Bawngtha, 
+SH-Aibawk-Darlung- Buarpui-
+Lunglei Road
+23.487102
+92.606156
+Rock
+Slide
+NA
+21841
+MZ/CHA/84E03/2017/55
+Mizoram
+Champhai
+ 
+KhawzawlChamphai Rd
+23.487306
+93.192778
+Rock
+Slide
+NA
+21842
+MZ/CHA/84E03/2017/56
+Mizoram
+Champhai
+ 
+6km stone Khawzawl
+23.487813
+93.20758
+Debris
+Slide
+NA
+21843
+MZ/CHA/84E07/2017/57
+Mizoram
+Champhai
+ 
+Vengthar (near slaughter 
+house)
+23.490702
+93.33685
+Rock
+Slide
+2017
+21844
+MZ/AIZ/84A11/2016/105
+Mizoram
+Aizawl
+ 
+About 1km West of Maubuang 
+along Samlukhai- Damdia road
+23.491004
+92.696873
+Rock
+Slide
+2016
+21845
+MZ/SER/84A11/2017/145
+Mizoram
+Aizawl
+ 
+About 900m South of Oil India 
+Drilling site, North Lungsai, SH-
+Aizawl-Thenzawl-Lunglei Road
+23.491497
+92.705503
+Rock
+Slide
+2016
+21846
+MZ/SER/84A15/2016/87
+Mizoram
+Serchhip
+ 
+About 300m from MIFCO Food 
+Park, Buhkangkawn, NH-54 
+Aizawl-Serchhip-Lunglei Road
+23.493913
+92.854305
+Rock
+Slide
+2016
+21847
+MZ/CHA/84E07/2017/58
+Mizoram
+Champhai
+ 
+Keifangtlang, Champhai, road 
+below the DC complex
+23.496347
+93.310454
+Debris
+Slide
+NA
+21848
+MZ/SER/84A15/2016/88
+Mizoram
+Serchhip
+ 
+Zawlbuk Group YMA Board, 
+North of Buhkangkawn, NH-54 
+Aizawl-Serchhip-Lunglei Road
+23.497388
+92.855013
+Debris
+Slide
+2016
+21849
+MZ/SER/84A15/2016/89
+Mizoram
+Serchhip
+ 
+North of Buhkangkawn, NH-54 
+Aizawl-Serchhip-Lunglei Road
+23.497919
+92.854946
+Debris
+Slide
+2016
+21850
+MZ/SER/84A15/2016/90
+Mizoram
+Serchhip
+ 
+About 900m North of 
+BukangKawn, NH-54 Aizawl-
+Serchhip-Lunglei Road
+23.498802
+92.8546
+Debris
+Slide
+2016
+21851
+MZ/SER/84A11/2017/143
+Mizoram
+Aizawl
+ 
+About 200m South of Tropic of 
+cancer, North Lungsai, SH-
+Aizawl-Thenzawl-Lunglei Road
+23.498881
+92.703251
+Rock
+Slide
+2016

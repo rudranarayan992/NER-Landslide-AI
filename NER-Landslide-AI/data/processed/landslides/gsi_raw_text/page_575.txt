@@ -1,0 +1,336 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22647
+MZ/KOL/83D15/2020/19
+Mizoram
+Kolasib
+N. Hlimen slide 4
+N. Hlimen-Saipum road section
+24.28
+92.81
+Debris
+Slide
+2019
+22648
+MZ/KLS/83D11/2020/6
+Mizoram
+Kolasib
+Omloi slide
+Bukvannei- Saihapui K road
+24.29
+92.65
+Debris
+Slide
+NA
+22649
+MZ/AIZ/83D15/2020/8
+Mizoram
+Aizawl
+Palsang-Zohmun slide
+Palsang-Zohmun PMGSY road 
+section
+24.29
+92.95
+Rock
+Slide
+2019
+22650
+MZ/AIZ/83D15/2020/9
+Mizoram
+Aizawl
+Tinghmun-Zohmun section slide
+Tinghmun-Zohmun road section 24.29
+92.96
+Rock
+Slide
+2019
+22651
+MZ/KOL/83D15/2020/20
+Mizoram
+Kolasib
+N. Hlimen slide 5
+N. Hlimen-Saipum road section
+24.29
+92.82
+Debris
+Slide
+NA
+22652
+MZ/KLS/83D11/2020/7
+Mizoram
+Kolasib
+Bilkhawthlir- Kolasib road slide
+NH-54
+24.3
+92.7
+Rock
+Slide
+NA
+22653
+MZ/KLS/83D11/2020/15
+Mizoram
+Kolasib
+Kolasib- Bilkhawthlir slide
+NH-54
+24.31
+92.71
+Debris
+Slide
+NA
+22654
+MZ/KOL/83D15/2020/21
+Mizoram
+Kolasib
+N. Hlimen slide 6
+N. Hlimen-Saipum road section
+24.32
+92.84
+Debris
+Slide
+2019
+22655
+MZ/KLS/83D11/2020/14
+Mizoram
+Kolasib
+Bilkhawthlir slide
+NH-54
+24.33
+92.72
+Debris
+Slide
+NA
+22656
+MZ/KOL/83D15/2020/22
+Mizoram
+Kolasib
+N. Hlimen slide 7
+N. Hlimen-Saipum road section
+24.33
+92.84
+Debris
+Slide
+NA
+22657
+MZ/KLS/83D11/2020/21
+Mizoram
+Kolasib
+Zukbual slide
+NH-154
+24.34
+92.66
+Rock
+Slide
+NA
+22658
+MZ/KLS/83D11/2020/24
+Mizoram
+Kolasib
+Bilkawthlir slide 2
+NH-54
+24.34
+92.71
+Rock
+Slide
+NA
+22659
+MZ/KOL/83D11/2020/1
+Mizoram
+Kolasib
+Serlui B -Bilkkhawtlir slide
+Serlui B -Bilkkhawtlir road sectin 24.34
+92.74
+Debris
+Slide
+2019
+22660
+MZ/KOL/83D15/2020/13
+Mizoram
+Kolasib
+Serlui B Tourist lodge slide
+Road to Serlui B Tourist lodge
+24.34
+92.77
+Rock
+Fall
+2019
+22661
+MZ/KOL/83D15/2020/23
+Mizoram
+Kolasib
+N. Hlimen slide 8
+N. Hlimen-Saipum road section
+24.34
+92.84
+Debris
+Slide
+NA
+22662
+MZ/KOL/83D15/2020/24
+Mizoram
+Kolasib
+N. Hlimen slide  9
+N. Hlimen-Saipum road section
+24.34
+92.84
+Rock
+Slide
+2019
+22663
+MZ/KOL/83D15/2020/25
+Mizoram
+Kolasib
+N. Hlimen slide 10
+N. Hlimen-Saipum road section
+24.34
+92.84
+Rock
+Slide
+2019
+22664
+MZ/KOL/83D15/2020/26
+Mizoram
+Kolasib
+N. Hlimen slide 11
+N. Hlimen-Saipum road section
+24.34
+92.84
+Debris
+Slide
+NA
+22665
+MZ/KOL/83D15/2020/27
+Mizoram
+Kolasib
+N. Hlimen slide 12
+N. Hlimen-Saipum road section
+24.34
+92.84
+Debris
+Slide
+NA
+22666
+MZ/KOL/83D15/2020/28
+Mizoram
+Kolasib
+N. Hlimen slide 13
+N. Hlimen-Saipum road section
+24.34
+92.84
+Debris
+Slide
+2019
+22667
+MZ/KOL/83D15/2020/29
+Mizoram
+Kolasib
+South of Saipum slide 2
+N. Hlimen-Saipum road section, 
+~1.5Km south of Saipum village
+24.34
+92.84
+Rock
+Slide
+NA
+22668
+MZ/KOL/83D15/2020/30
+Mizoram
+Kolasib
+South of Saipum slide 1
+N. Hlimen-Saipum road section, 
+~1.4Km south of Saipum village
+24.34
+92.84
+Debris
+Slide
+2019
+22669
+MZ/KLS/83D11/2020/22
+Mizoram
+Kolasib
+Zukbual-Bilkhawthlir road slide 1
+Zukbual-Bilkhawthlir road
+24.35
+92.67
+Debris
+Slide
+NA
+22670
+MZ/KLS/83D11/2020/23
+Mizoram
+Kolasib
+Zukbual-Bilkhawthlir road slide 2
+Zukbual-Bilkhawthlir road
+24.35
+92.67
+Rock
+Slide
+NA
+22671
+MZ/KLS/83D11/2020/25
+Mizoram
+Kolasib
+North Chimluang slide
+NH-54
+24.35
+92.72
+Rock
+Slide
+NA
+22672
+MZ/KOL/83D15/2020/31
+Mizoram
+Kolasib
+South of Saipum slide 3
+N. Hlimen-Saipum road section, 
+~1Km south of Saipum village
+24.35
+92.84
+Debris
+Slide
+NA
+22673
+MZ/KOL/83D15/2020/32
+Mizoram
+Kolasib
+South of Saipum slide 4
+N. Hlimen-Saipum road section, 
+soutern tip  of Saipum village
+24.35
+92.85
+Debris
+Slide
+NA
+22674
+MZ/KOL/83D15/2020/40
+Mizoram
+Kolasib
+Saipum-Saiphai section slide 2
+Saipum-Saiphai village road 
+section
+24.35
+92.82
+Rock
+Slide
+2019
+22675
+MZ/KOL/83D15/2020/33
+Mizoram
+Kolasib
+Saipum-Tuirial dam slide 7
+Saipum-Tuirial dam- Mauchhar 
+road section
+24.36
+92.89
+Debris
+Slide
+2019

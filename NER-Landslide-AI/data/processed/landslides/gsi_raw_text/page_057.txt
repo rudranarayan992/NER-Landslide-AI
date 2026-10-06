@@ -1,0 +1,516 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1941
+ARA/DIB/82P15/2024/01
+Arunachal Pradesh
+Lower Dibang Valley
+Abrali Slide
+Hunli-Anini Road (NH313)
+28.38919722
+95.92776111
+Rock
+flow
+24 April 2024
+1942
+4691
+Arunachal Pradesh
+West Kameng
+NULL
+NULL
+27.092699
+92.58314
+Debris
+Slide
+NA
+1943
+7010
+Arunachal Pradesh
+Papum Pare
+NULL
+NULL
+27.059755
+93.522666
+Debris
+Slide
+NA
+1944
+AR/EAK/84E03/2025/01
+Arunachal Pradesh
+East Kameng
+NH 13
+27.322582
+93.048256
+Debris
+Slide
+NA
+1945
+AR/EAK/84E03/2025/02
+Arunachal Pradesh
+East Kameng
+NH 13
+27.313874
+93.045623
+Soil
+Slide
+NA
+1946
+AR/EAK/84E03/2025/03
+Arunachal Pradesh
+East Kameng
+NH 13
+27.311231
+93.04677
+Soil
+Slide
+NA
+1947
+AR/EAK/84E12/2025/04
+Arunachal Pradesh
+Papum Pare
+Itanagar-Jote Road
+27.059755
+93.522666
+Debris
+Slide
+NA
+1948
+AR/EAK/84E03/2025/05
+Arunachal Pradesh
+East Kameng
+NH 13
+27.309745
+93.047722
+Soil
+Slide
+NA
+1949
+AR/EAK/84E03/2025/06
+Arunachal Pradesh
+East Kameng
+NH 13
+27.304291
+93.052835
+Debris
+Slide
+NA
+1950
+AR/EAK/84E03/2025/07
+Arunachal Pradesh
+East Kameng
+NH 13
+27.304291
+93.052835
+Debris
+Slide
+NA
+1951
+AR/EAK/84E03/2025/08
+Arunachal Pradesh
+East Kameng
+NH 13
+27.308143
+93.059302
+Soil
+Slide
+NA
+1952
+AR/EAK/84E03/2025/09
+Arunachal Pradesh
+East Kameng
+NH 13
+27.301468
+93.053244
+Debris
+Slide
+NA
+1953
+AR/EAK/84E03/2025/10
+Arunachal Pradesh
+East Kameng
+NH 13
+27.302253
+93.050932
+Debris
+Slide
+NA
+1954
+AR/EAK/84E03/2025/11
+Arunachal Pradesh
+East Kameng
+NH 13
+27.293539
+93.050398
+Debris
+Slide
+NA
+1955
+AR/EAK/84E03/2025/12
+Arunachal Pradesh
+East Kameng
+NH 13
+27.296928
+93.088111
+Debris
+Slide
+NA
+1956
+AR/EAK/84E03/2025/13
+Arunachal Pradesh
+East Kameng
+NH 13
+27.296928
+93.088111
+Debris
+Slide
+NA
+1957
+AR/EAK/84E03/2025/14
+Arunachal Pradesh
+East Kameng
+NH 13
+27.296928
+93.088111
+Debris
+Slide
+NA
+1958
+AR/EAK/84E03/2025/15
+Arunachal Pradesh
+East Kameng
+NH 13
+27.296928
+93.088111
+Debris
+Slide
+NA
+1959
+AR/EAK/84E03/2025/16
+Arunachal Pradesh
+East Kameng
+NH 13
+27.296928
+93.088111
+Debris
+Slide
+NA
+1960
+AR/EAK/84E03/2025/17
+Arunachal Pradesh
+East Kameng
+NH 13
+27.296928
+93.088111
+Debris
+Slide
+NA
+1961
+AR/EAK/84E03/2025/18
+Arunachal Pradesh
+East Kameng
+NH 13
+27.301412
+93.051563
+Debris
+Slide
+NA
+1962
+AR/EAK/84E03/2025/19
+Arunachal Pradesh
+East Kameng
+NH 13
+27.311571
+93.046703
+Debris
+Slide
+NA
+1963
+AR/EAK/84E04/2025/20
+Arunachal Pradesh
+Pakke Kessang
+NH 13
+27.216933
+93.066329
+Debris
+Slide
+NA
+1964
+AR/EAK/84E04/2025/21
+Arunachal Pradesh
+Pakke Kessang
+NH 13
+27.216933
+93.066329
+Debris
+Slide
+NA
+1965
+AR/EAK/84E03/2025/22
+Arunachal Pradesh
+East Kameng
+NH 13
+27.296928
+93.088111
+Debris
+Slide
+NA
+1966
+AR/EAK/84E03/2025/23
+Arunachal Pradesh
+East Kameng
+NH 13
+27.296928
+93.088111
+Debris
+Slide
+NA
+1967
+AR/EAK/84E03/2025/24
+Arunachal Pradesh
+East Kameng
+NH 13
+27.296928
+93.088111
+Debris
+Slide
+NA
+1968
+AR/EAK/84E03/2025/25
+Arunachal Pradesh
+East Kameng
+NH 13
+27.296928
+93.088111
+Debris
+Slide
+NA
+1969
+AR/EAK/84E12/2025/26
+Arunachal Pradesh
+Papum Pare
+Itanagar-Jote Road
+27.053976
+93.494166
+Debris
+Slide
+NA
+1970
+AR/EAK/84E03/2025/27
+Arunachal Pradesh
+East Kameng
+NH 13
+27.296928
+93.088111
+Debris
+Slide
+NA
+1971
+AR/EAK/84E03/2025/28
+Arunachal Pradesh
+East Kameng
+NH 13
+27.296928
+93.088111
+Debris
+Slide
+NA
+1972
+AR/EAK/84E12/2025/29
+Arunachal Pradesh
+Papum Pare
+NH-13
+27.213127
+92.652213
+Debris
+Slide
+NA
+1973
+AR/EAK/84E12/2025/30
+Arunachal Pradesh
+Papum Pare
+NH-13
+27.062298
+93.531487
+Debris
+Slide
+NA
+1974
+AR/EAK/84E12/2025/31
+Arunachal Pradesh
+Papum Pare
+NH- 415
+27.109398
+93.61692
+Debris
+Slide
+NA
+1975
+3515
+Arunachal Pradesh
+West Kameng
+Pinjuli bridge
+Just before pinjuli bridge
+27.084417
+92.586622
+Debris
+slide
+NA
+1976
+4524
+Arunachal Pradesh
+Lower Dibang Valley
+Beside NH 313
+28.199641
+95.811903
+Debris
+slide
+NA
+1977
+4525
+Arunachal Pradesh
+Lower Dibang Valley
+Beside NH 313
+28.198566
+95.813206
+Debris
+flow
+NA
+1978
+4526
+Arunachal Pradesh
+Lower Dibang Valley
+Beside NH 313
+28.194898
+95.807336
+Debris
+slide
+NA
+1979
+4540
+Arunachal Pradesh
+West Kameng
+27.08386
+92.587656
+rock
+slide
+NA
+1980
+5752
+Arunachal Pradesh
+Lower Dibang Valley
+Mayodiya
+Beside Mayodiya-Anini Road
+28.244256
+95.920559
+Debris
+slide
+NA
+1981
+6805
+Arunachal Pradesh
+East Kameng
+27.322582
+93.048256
+Debris
+slide
+NA
+1982
+6806
+Arunachal Pradesh
+East Kameng
+27.313874
+93.045623
+Soil
+slide
+NA
+1983
+6807
+Arunachal Pradesh
+East Kameng
+27.311231
+93.04677
+Soil
+slide
+NA
+1984
+6808
+Arunachal Pradesh
+Papum Pare
+Yupia-1
+27.160636
+93.738873
+Debris
+Slide
+NA
+1985
+6809
+Arunachal Pradesh
+East Kameng
+27.309745
+93.047722
+Soil
+slide
+NA
+1986
+6810
+Arunachal Pradesh
+East Kameng
+27.304291
+93.052835
+Debris
+slide
+NA
+1987
+6812
+Arunachal Pradesh
+East Kameng
+27.308143
+93.059302
+Soil
+slide
+NA
+1988
+6813
+Arunachal Pradesh
+East Kameng
+27.301468
+93.053244
+Debris
+slide
+NA
+1989
+6814
+Arunachal Pradesh
+East Kameng
+27.302253
+93.050932
+Debris
+slide
+NA
+1990
+6815
+Arunachal Pradesh
+East Kameng
+27.293539
+93.050398
+Debris
+slide
+NA
+1991
+6816
+Arunachal Pradesh
+East Kameng
+27.296928
+93.088111
+Debris
+slide
+NA

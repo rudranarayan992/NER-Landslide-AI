@@ -1,0 +1,463 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+25846
+NL/PER/83G14/2022/049
+Nagaland
+Peren
+Peren-Benreu Road
+Peren-Benreu Road
+25.591228
+93.851831
+Insitu soil
+Slide
+NA
+25847
+NL/PER/83G10/2022/050
+Nagaland
+Peren
+Peren-Benreu Road
+Peren-Benreu Road
+25.590458
+93.851498
+Loose debris
+Slide
+NA
+25848
+NL/PER/83G10/2022/051
+Nagaland
+Peren
+Peren-Tening road
+Peren-Tening road
+25.514327
+93.666041
+Rock
+Fall
+NA
+25849
+NL/PER/83G10/2022/052
+Nagaland
+Peren
+Peren-Tening road
+Peren-Tening road
+25.493958
+93.657962
+Insitu soil
+Slide
+NA
+25850
+NL/KOH/83G10/2022/053
+Nagaland
+Peren
+Peren-Tening road
+Peren-Tening road
+25.493218
+93.657921
+Insitu soil
+Slide
+July 2018
+25851
+NL/KOH/83G13/2023/01
+Nagaland
+Kohima
+Piphema
+NH-29
+25.76085556
+93.94696111
+Debris
+Slide
+June 2023
+25852
+NL/KOH/83G14/2023/02
+Nagaland
+Kohima
+Piphema
+NH-29
+25.76512222
+93.94213889
+Debris
+Slide
+July 2023
+25853
+NL/KOH/83G13/2023/03
+Nagaland
+Kohima
+Piphema
+NH-29
+25.76618333
+93.94043611
+Debris
+Slide
+08 September 2023
+25854
+NL/KOH/83K02/2023/04
+Nagaland
+Kohima
+Peducha
+NH-29
+25.79666111
+93.80424722
+Rock
+Slide
+July 2023
+25855
+NL/KOH/83K02/2023/05
+Nagaland
+Kohima
+Khonoma
+Kohima-Peren road
+25.646219
+94.0334861
+Debris
+Slide
+June 2023
+25856
+NL/KOH/83K01/2023/06
+Nagaland
+Kohima
+Botsa
+Kohima-Botsa road
+25.7439067
+94.0824993
+Debris
+Slide
+July 2023
+25857
+NL/KOH/83K01/2023/07
+Nagaland
+Kohima
+Botsa
+Kohima-Botsa road
+25.76305
+94.078305
+Debris
+Slide
+July 2023
+25858
+NL/KOH/83K02/2023/08
+Nagaland
+Kohima
+Botsa
+Kohima-Botsa road
+25.7641421
+94.0777917
+Debris
+Slide
+July 2023
+25859
+NL/KOH/83K02/2023/09
+Nagaland
+Kohima
+Kohima-Botsa road
+Kohima-Botsa road
+25.7641457
+94.0781772
+Rock
+Slide
+August 2023
+25860
+NL/KOH/83K02/2023/10
+Nagaland
+Kohima
+Kohima-Chakhaboma road
+Kohima-Chakhaboma road
+25.67776
+94.1390317
+Debris
+Slide
+July 2023
+25861
+NL/KOH/83G13/2023/11
+Nagaland
+Kohima
+Kohima-Chakhaboma road
+Kohima-Chakhaboma road
+25.6712978
+94.1388109
+Rock
+Slide
+July 2023
+25862
+NL/KOH/83K02/2023/12
+Nagaland
+Kohima
+Kohima-Chakhaboma road
+Kohima-Chakhaboma road
+25.6625403
+94.1437783
+Debris
+Slide
+NA
+25863
+NL/KOH/83K02/2023/13
+Nagaland
+Kohima
+Kohima-Chakhaboma road
+Kohima-Chakhaboma road
+25.65575291
+94.1505873
+Debris
+Slide
+July 2023
+25864
+NL/KOH/83K02/2023/14
+Nagaland
+Kohima
+Vishwema
+NH2
+25.5407188
+94.1334216
+Soil
+Slide
+August 2023
+25865
+NL/KOH/83K01/2023/15
+Nagaland
+Kohima
+Botsa
+Kohima-Wokha road
+25.8549806
+94.1569166
+Rock
+Slide
+September 2023
+25866
+NL/KOH/83K02/2023/17
+Nagaland
+Kohima
+Jotsoma
+Kohima-Peren road
+25.72508611
+94.07130278
+Debris
+Slide
+August 2023
+25867
+NL/KOH/83K02/2023/18
+Nagaland
+Kohima
+Jotsoma-Khonoma road
+Jotsoma-Padi-Benreu road
+25.71775556
+94.07246667
+Debris
+Slide
+September 2023
+25868
+NL/KOH/83K02/2023/19
+Nagaland
+Kohima
+Khonoma
+Jotsoma-Padi-Benreu road
+25.66754722
+94.08075278
+Debris
+Slide
+02 October 2023
+25869
+NL/KOH/83G14/2023/20
+Nagaland
+Kohima
+Poilwa
+Poilwa-Khonoma road
+25.60054167
+93.92484444
+Rock
+Slide
+September 2023
+25870
+NL/PER/83G14/2023/21
+Nagaland
+Peren
+Poilwa
+Poilwa-Khonoma road
+25.60711616
+93.92787222
+Rock
+Slide
+2022
+25871
+NL/PER/83G14/2023/22
+Nagaland
+Peren
+Poilwa
+Poilwa-Khonoma road
+25.60688056
+93.92055833
+Rock
+Slide
+NA
+25872
+NL/PER/83G14/2023/23
+Nagaland
+Peren
+Poilwa
+Poilwa-Khonoma road
+25.61061111
+93.92184722
+Rock
+Slide
+NA
+25873
+NL/PER/83G14/2023/24
+Nagaland
+Peren
+Poilwa
+Poilwa-Khonoma road
+25.61285278
+93.92066111
+Debris
+Slide
+NA
+25874
+NL/PER/83G14/2023/25
+Nagaland
+Peren
+Jotsoma-Padi-Benreu road
+Jotsoma-Padi-Benreu road
+25.77309444
+93.91229167
+Rock
+Slide
+NA
+25875
+NL/PER/83G14/2023/26
+Nagaland
+Peren
+Jotsoma-Padi-Benreu road
+Jotsoma-Padi-Benreu road
+25.77308611
+93.91128889
+Rock
+Slide
+NA
+25876
+NL/PER/83G14/2023/27
+Nagaland
+Peren
+Jotsoma-Padi-Benreu road
+Jotsoma-Padi-Benreu road
+25.77178333
+93.90760556
+Rock
+Slide
+October 2023
+25877
+NL/CMK/83G13/2023/28
+Nagaland
+Chumoukedima
+Pagalapahad
+NH29
+25.77360556
+93.80462222
+Rock
+Slide
+October 2023
+25878
+NL/CMK/83G13/2023/29
+Nagaland
+Chumoukedima
+Pagalapahad
+NH29
+25.77895278
+93.80219722
+Rock
+Slide
+October 2023
+25879
+NL/CMK/83G13/2023/30
+Nagaland
+Chumoukedima
+Pagalapahad
+NH29
+25.77982778
+93.800875
+Rock
+Slide
+October 2023
+25880
+NL/CMK/83G13/2023/31
+Nagaland
+Chumoukedima
+Pagalapahad
+NH29
+25.78017222
+93.80064167
+Rock
+Slide
+October 2023
+25881
+NL/CMK/83G13/2023/32
+Nagaland
+Chumoukedima
+Pagalapahad
+NH29
+25.77561389
+93.80086111
+Rock
+Slide
+October 2023
+25882
+NL/CMK/83G13/2023/33
+Nagaland
+Chumoukedima
+Pagalapahad
+NH29
+25.78117222
+93.80404167
+Rock
+Slide
+August 2023
+25883
+NL/KOH/83K02/2023/34
+Nagaland
+Kohima
+Chakhabama
+Kohima-Zunhoboto road
+25.6721
+94.231075
+Debris
+Slide
+September 2023
+25884
+NL/KOH/83K02/2023/35
+Nagaland
+Kohima
+Chakhabama
+Kohima-Zunhoboto road
+25.67186944
+94.23065278
+Debris
+Slide
+September 2023
+25885
+NL/KOH/83K02/2023/36
+Nagaland
+Kohima
+Chakhabama
+Kohima-Zunhoboto road
+25.67291111
+94.23135278
+Debris
+Slide
+September 2023
+25886
+NL/KOH/83K02/2023/37
+Nagaland
+Kohima
+Chakhabama
+Kohima-Zunhoboto road
+25.66874167
+94.22856389
+Rock
+Slide
+NA

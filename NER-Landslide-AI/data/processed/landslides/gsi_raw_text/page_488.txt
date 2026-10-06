@@ -1,0 +1,446 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+19753
+MG/EKH/78O12/2017/71
+Meghalaya
+East Khasi Hills
+ 
+along sohrashella bypass from 
+Sohbar village
+25.206892
+91.736341
+Debris
+Slide
+NA
+19754
+MEG/WJH/83C4/2016/14
+Meghalaya
+West Jaintia Hills
+Satpator
+Laremshiap road
+25.206972
+92.208028
+Debris
+Slide
+2016
+19755
+MG/EKH/78O12/2017/44
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.2071
+91.741225
+Debris
+Slide
+NA
+19756
+MG/EKH/78O12/2017/29
+Meghalaya
+East Khasi Hills
+ 
+<Null>
+25.207314
+91.592357
+Rock
+Slide
+NA
+19757
+MG/EKH/78O12/2017/22
+Meghalaya
+East Khasi Hills
+ 
+along sohrashella bypass from 
+Sohbar village
+25.207515
+91.746839
+Debris
+Slide
+NA
+19758
+MG/EKH/78O12/2017/41
+Meghalaya
+East Khasi Hills
+ 
+Along Mawlong Shella road
+25.208256
+91.69041
+Debris
+Slide
+NA
+19759
+MG/EKH/78O12/2017/62
+Meghalaya
+East Khasi Hills
+ 
+Along LawbahHat Mawdon
+25.208313
+91.606889
+Rock
+Slide
+NA
+19760
+MG/EKH/78O12/2017/73
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.20836
+91.725397
+Debris
+Slide
+NA
+19761
+MG/EKH/78O12/2017/66
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.208593
+91.742294
+Debris
+Slide
+2017
+19762
+MG/EKH/78O12/2017/36
+Meghalaya
+East Khasi Hills
+ 
+Approach road to Mustoh
+25.209427
+91.646032
+Rock
+Slide
+NA
+19763
+MG/EKH/78O12/2017/10
+Meghalaya
+East Khasi Hills
+ 
+Approach road to Mustoh
+25.209456
+91.646315
+Rock
+Slide
+NA
+19764
+MG/EKH/78O12/2017/47
+Meghalaya
+East Khasi Hills
+ 
+50 m downslope of approach 
+road to Sohbar village
+25.209568
+91.745894
+Rock
+Slide
+NA
+19765
+MG/EKH/78O12/2017/50
+Meghalaya
+East Khasi Hills
+ 
+Approach road to Mustoh
+25.209703
+91.646662
+Rock
+Slide
+NA
+19766
+MG/SWK/78O04/2017/1
+Meghalaya
+South West Khasi  Hills
+Ranikor slide
+AlongNonghyllam  Ranikor road 
+(nearRanikor)
+25.211269
+91.208223
+Rock
+Slide
+NA
+19767
+MEG/WJH/83C4/2016/10
+Meghalaya
+West Jaintia Hills
+0.24 km N of Nongtalang
+NH40E( Jowai Dawki road)
+25.211722
+92.065389
+Debris
+Slide
+2016
+19768
+MEG/WJH/83C4/2016/09
+Meghalaya
+West Jaintia Hills
+0.25 km N of Nongtalang
+NH40E( Jowai Dawki road)
+25.211814
+92.065517
+Debris
+Slide
+NA
+19769
+MEG/WJH/83C4/2016/27
+Meghalaya
+West Jaintia Hills
+1.3 km E of Sohkha mission
+NH40E
+25.21225
+92.047306
+Debris
+Slide
+2016
+19770
+MG/EKH/78O12/2017/19
+Meghalaya
+East Khasi Hills
+ 
+Approach road to Sohbar village 25.212554
+91.747962
+Debris
+Slide
+NA
+19771
+MEG/WJH/83C4/2016/29
+Meghalaya
+West Jaintia Hills
+1.13 km E of Sohkha mission
+NH40E
+25.214153
+92.045428
+Debris
+Slide
+2016
+19772
+MG/EKH/78O12/2017/43
+Meghalaya
+East Khasi Hills
+ 
+Along LawbahHat Mawdon
+25.214783
+91.590875
+Rock
+Slide
+NA
+19773
+MEG/WJH/83C4/2016/08
+Meghalaya
+West Jaintia Hills
+1.3 km W of Nongtalang 
+Amsohmeheleng
+NH40E( Jowai Dawki road)
+25.214944
+92.073917
+Debris
+Slide
+2016
+19774
+MEG/WJH/83C4/2016/07
+Meghalaya
+West Jaintia Hills
+Nongtalang┬á Amsohmeheleng
+NH40E( Jowai Dawki road)
+25.215028
+92.075167
+Debris
+Slide
+NA
+19775
+MEG/WJH/83C4/2016/05
+Meghalaya
+West Jaintia Hills
+0.24 km NE of Nongtalang 
+Amsohmeheleng
+NH40E
+25.215583
+92.077639
+Debris
+Slide
+NA
+19776
+MEG/WJH/83C4/2016/06
+Meghalaya
+West Jaintia Hills
+0.21 km NE of Nongtalang 
+Amsohmeheleng
+NH40E
+25.215611
+92.077361
+Debris
+Slide
+NA
+19777
+MG/EKH/78O12/2017/54
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.216078
+91.738387
+Debris
+Slide
+NA
+19778
+MG/EKH/78O08/2017/2
+Meghalaya
+East Khasi Hills
+ 
+Along Mawsynrambalat road
+25.216169
+91.389142
+Rock
+Slide
+2009
+19779
+MG/EKH/78O12/2017/46
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.216464
+91.735629
+Debris
+Slide
+NA
+19780
+MG/EKH/78O12/2017/48
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.216805
+91.709405
+Rock
+Slide
+NA
+19781
+MG/EKH/78O12/2017/20
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.217558
+91.709355
+Rock
+Slide
+NA
+19782
+MG/EKH/78O12/2017/55
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.217886
+91.73381
+Rock
+Slide
+NA
+19783
+MG/EKH/78O12/2017/18
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.218732
+91.740262
+Debris
+Slide
+2017
+19784
+MG/EKH/78O12/2017/61
+Meghalaya
+East Khasi Hills
+ 
+Along LawbahHat Mawdon
+25.218821
+91.581584
+Rock
+Slide
+NA
+19785
+MG/EKH/78O12/2017/31
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.218961
+91.707094
+Rock
+Slide
+NA
+19786
+MG/EKH/78O12/2017/16
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.219787
+91.710947
+Rock
+Slide
+NA
+19787
+MG/EKH/78O12/2017/11
+Meghalaya
+East Khasi Hills
+ 
+<Null>
+25.220023
+91.631989
+Rock
+Slide
+NA
+19788
+MG/EKH/78O12/2017/9
+Meghalaya
+East Khasi Hills
+ 
+Along SohraMawlong road
+25.22026
+91.720198
+Debris
+Slide
+NA
+19789
+MG/SWK/78O04/2017/6
+Meghalaya
+South West Khasi  Hills
+ 
+AlongNonghyllam  Ranikor road 25.220764
+91.187
+Rock
+Slide
+NA
+19790
+MG/EKH/78O12/2017/13
+Meghalaya
+East Khasi Hills
+ 
+Along Sohra Mawlong road
+25.221164
+91.719886
+Debris
+Slide
+NA
+19791
+MG/EKH/78O08/2017/7
+Meghalaya
+East Khasi Hills
+ 
+Along MawsynramBalat road
+25.221406
+91.387092
+Rock
+Slide
+NA

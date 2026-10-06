@@ -1,0 +1,400 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+35852
+UK/TG/53J8/2025/11
+Uttarakhand
+Tehri Garhwal (NN)
+Atali 1A
+Atali & NH-7 
+30.081207
+78.436585
+Debris
+Slide
+13 June at 1300hrs and 25 June 2025
+35853
+UK/TG/53J8/2025/12
+Uttarakhand
+Tehri Garhwal (NN)
+Byasi slide
+Byasi
+30.0685229
+78.4612096
+Rock
+Slide
+06 August 2025 at 07.20 hrs
+35854
+UK/TG/53J8/2025/13
+Uttarakhand
+Tehri Garhwal
+Singtali-1
+Singtali, Byari, NH-7 
+30.067351
+78.4802053
+Rock
+Slide
+06 August 2025 at 06.50hrs
+35855
+UK/ /5358/2015/14
+Uttarakhand
+Tehri Garhwal
+Singtali-1A
+NH-7 Singtali village
+30.059677
+78.485091
+Rock
+Slide
+30 August 2025at 07.00hrs
+35856
+UK/TG/53J8/2025/15
+Uttarakhand
+Tehri Garhwal
+Singtali-1B
+30.063994
+78.487419
+Debris
+Slide
+11 August 2025 at 09.00 hrs
+35857
+UK/TG/53J8/2015/16
+Uttarakhand
+Tehri Garhwal
+Kaudiyala rock slide
+NH-7, Kaudiyala
+30.073814
+78.492374
+Rock
+Slide
+15 August 2025 at  0800 hrs
+35858
+UK/TG/53J12/17
+Uttarakhand
+Tehri Garhwal (Devprayag)
+Lachmoli side
+NH-7 & Lachmoli
+30.239138
+78.682359
+Rock
+Slide
+29 June 2025 at 11:30 hrs
+35859
+UK/TG/53J12/2025/18
+Uttarakhand
+Tehri Garhwal
+Lachmoli slide - IA
+NH-7 Lachmoli
+30.239138
+78.682359
+Rock
+Slide
+29 June 2025  at 11:30 hrs
+35860
+UK/TG/53J12/2025/19
+Uttarakhand
+Tehri Garhwal
+Luneta Slide
+30.2114
+78.6793
+Rock
+Slide
+01 September 2025  at 13:00 hrs
+35861
+UK/TG/53J12/2025/20
+Uttarakhand
+Tehri Garhwal
+Karakot slide
+NH-7 & Karakot
+30.2087
+78.6471
+Rock
+Slide
+06 August at 07.30 hrs, 18 August at 
+07.35 hrs and 26 August 2025 at 
+09.15hrs
+35862
+UK/TG/53J12/2025/21
+Uttarakhand
+Tehri Garhwal
+Kandola slide - 1
+NH-7
+30.165949
+78.617681
+Rock
+Slide
+17 September 2025 at 16.40 hrs
+35863
+UK/TG/53J12/2025/22
+Uttarakhand
+Tehri Garhwal
+Kandola Slide - IA
+NH-7 & Kandola
+30.165466
+78.617671
+Debris
+Slide
+17 September 2025 at 16.40 hrs
+35864
+UK/TG/53512/2015/23
+Uttarakhand
+Tehri Garhwal
+Kandola-1B
+30.165052
+78.617504
+Debris
+Slide
+17 September 2025 at 17.00hrs
+35865
+UK/TG/53J12/2025/24
+Uttarakhand
+Tehri Garhwal
+Golgaon-1
+NH-7 Golgaon
+30.1631
+78.617
+Rock
+Slide 
+15 July 2025 at 17.00hrs
+35866
+UK/TG/53J12/2025/25
+Uttarakhand
+Tehri Garhwal
+Golgaon 1A
+NH-7 Golgaon
+30.163511
+78.617044
+Rock
+Slide
+15 July 2025 at 17.00hrs
+35867
+UK/TG/53J12/2025/26
+Uttarakhand
+Tehri Garhwal
+Devprayag-1
+30.1463
+78.5967
+Debris
+Slide
+06 August  at 07.30 hrs and 16 
+September 2025 at 08.00 hrs
+35868
+UK/TG/53J12/2025/27
+Uttarakhand
+Tehri Garhwal (Devprayag)
+Devprayag-1A
+30.145247
+78.596294
+Debris
+Slide
+16 September 2025 at 07.00-08.00 hrs
+35869
+UK/TG/53J12/2025/28
+Uttarakhand
+Tehri Garhwal
+Devprayag - 1B
+NH-7 Devprayag
+30.142473
+78.595303
+Rock
+Slide
+15 September 2025 at 12.30hrs
+35870
+UK/TG/53J12/2025/29
+Uttarakhand
+Tehri Garhwal (Devprayag)
+Bus Stand Slide - Devprayag-1C
+NH-7 Devprayag
+30.148542
+78.597015
+Debris
+Slide
+15 September at 11.30hrs and 16 
+September 2025
+35871
+UK/TG/53J12/2025/30
+Uttarakhand
+Tehri Garhwal
+Devprayag-1D
+30.143104
+78.595503
+Rock
+Slide
+15 September 2025 at 12.30hrs
+35872
+UK/TG/53J12/2025/31
+Uttarakhand
+Tehri Garhwal
+Raj sera - 1
+NH-7 Devprayag
+30.129487
+78.594203
+Rock
+Slide
+05 August 2025 at 01.30hrs
+35873
+UK/TG/53J12/2025/32
+Uttarakhand
+Tehri Garhwal
+Rajsera 1A
+30.1252
+78.5968
+Rock
+Slide
+17 August 2025 at 09.00hrs
+35874
+ UK/TG/53J12/2025/33
+Uttarakhand
+Tehri Garhwal
+Simswara malla
+NH-7 simswar Malla
+30.0864
+78.5788
+Rock
+Slide
+9 September 2025 at 15.30 hrs and 11 
+August 2025 at 15.00hrs
+35875
+UK/TG/53J12/2025/34
+Uttarakhand
+Tehri Garhwal
+Toli - 1
+NH-7 Toli
+30.081064
+78.556443
+Rock
+Slide
+06 August 2025 at 08.30hrs
+35876
+UK/TG/53J12/2025/35
+Uttarakhand
+Tehri Garhwal
+Toli-1A
+NH-7 Toli
+30.0809
+78.5555
+Rock
+Slide
+30 June 2025at 05.10hrs
+35877
+UK/TG/53J12/2025/36
+Uttarakhand
+Tehri Garhwal
+Chilpar
+NH-7 & Sakni, Badiyargar
+30.0808
+78.5235
+Rock
+Slide
+04 August 2025,  16.00hrs
+35878
+UK/TG/53J8/2025/37
+Uttarakhand
+Tehri Garhwal
+Dhunar gaon slide
+NH-7 & Shivpuri
+30.123715
+78.390011
+Debris
+Slide
+06 August 2025, 15.00hrs
+35879
+UK/RPG/53N2/2025/03
+Uttarakhand
+Rudraprayag
+Kedarnath slide-1
+Kedarnath trek route approx 
+1km before 
+30.661636
+79.034019
+Rock
+Slide
+4 July 2025,  07.40 hrs
+35880
+UK/RPG/53N2/2025/04
+Uttarakhand
+Rudraprayag
+Gaurikund shuttle-Parking 1
+NH-107, Kedarnath NH, 
+Mundkatiya
+30.649708
+79.024394
+Debris
+Slide
+3 July 2025,  07.40 hrs
+35881
+UK/RPG/53N2/2025/05
+Uttarakhand
+Rudraprayag
+Gaurikund Shuttle - Parking - Slide - 2
+NH-107; Mundkatiya
+30.647206
+79.021507
+Debris
+Slide
+03 July 2025 07.40 hrs
+35882
+UK/RPG/53N2/2025/06
+Uttarakhand
+Rudraprayag
+Gaurikund Shuttle parking slide-3
+NH-107; 1.3 km from Gaurikund 
+(towards Sonprayag)
+30.644787
+79.017771
+rock
+Slide
+29 July and 30 July 2005
+35883
+UK RPG/5312/2025/07
+Uttarakhand
+Rudraprayag
+Trek Route slide -1
+Kedarnath slide-2 (near 
+Kedarnath  Main gate)
+30.65568
+79.028241
+Rock
+slide
+26 July 2025, 3.30hrs
+35884
+UK/RPG/53N2/2025/08
+Uttarakhand
+Rudraprayag
+Phata slide
+NH-107 (Phata)
+30.5784
+79.0434
+rock
+slide+ fall
+29 August 2015 08.00hrs
+35885
+UK/RPG/53N2/2025/09
+Uttarakhand
+Rudraprayag
+Kedarnath Slide -3
+Trek route Kedarnath
+30.655784
+79.028259
+rock
+Slide
+27July 2015 09.00hrs
+35886
+UK/Tehri/53J/11./2014/01
+Uttarakhand
+Tehri
+Nautada –Jakhanyali
+SH-15/ Nautada on Ghansali- 
+Myali –Rudraprayag Road
+30.40472222
+78.70627778
+Debris 
+Flow (Debris)
+NA

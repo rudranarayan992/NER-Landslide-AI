@@ -1,0 +1,372 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15938
+KER/IDK/58G01/2018/231
+Kerala
+Idukki
+Kambilikandom
+Kambilikandom-Panamkutty 
+Road
+9.942912
+77.009643
+Debris
+Slide
+15th August 2018
+15939
+KER/IDK/58G01/2018/232
+Kerala
+Idukki
+Kambilikandom
+Kambilikandom-Panamkutty 
+Road
+9.943964
+77.005948
+Debris
+Slide
+15th August 2018
+15940
+KER/IDK/58C13/2018/233
+Kerala
+Idukki
+Panamkutty
+Kambilikandom-Panamkutty 
+Road
+9.948008
+76.993254
+Debris
+Slide
+15th August 2018
+15941
+KER/IDK/58C13/2018/234
+Kerala
+Idukki
+Manguva
+Inchathotti-Manguwa Road
+9.939633
+76.985024
+Debris
+Flow
+15th August 2018
+15942
+KER/IDK/58C13/2018/235
+Kerala
+Idukki
+Manguva
+Manguwa-Kurushukuthi Road
+9.931993
+76.994424
+Debris
+Slide
+15th August 2018
+15943
+KER/IDK/58G01/2018/236
+Kerala
+Idukki
+Chinnar
+Manguwa-Chinnar Road
+9.925141
+77.009453
+Debris
+Flow
+15th August 2018
+15944
+KER/IDK/58G01/2018/237
+Kerala
+Idukki
+Chinnar
+Manguwa-Chinnar Road
+9.925409
+77.007038
+Debris
+Flow
+15th August 2018
+15945
+KER/IDK/58G01/2018/238
+Kerala
+Idukki
+Muthirapuzha
+Pakkalapadi-5th Mile Road
+9.96003
+77.017435
+Debris
+Slide
+15th August 2018
+15946
+KER/IDK/58G01/2018/239
+Kerala
+Idukki
+Vimalacity
+Vellathooval-Rajakkad Road
+9.975106
+77.029673
+Debris
+Slide
+15th August 2018
+15947
+KER/IDK/58G01/2018/240
+Kerala
+Idukki
+Vellathooval (Near Penstock)
+Vellathooval-Rajakkad Road
+9.973343
+77.031185
+Debris
+Slide
+15th August 2018
+15948
+KER/IDK/58G01/2018/241
+Kerala
+Idukki
+Vellathooval
+Vellathooval-Rajakkad Road
+9.971985
+77.030018
+Debris
+Slide
+15th August 2018
+15949
+KER/IDK/58C13/2018/242
+Kerala
+Idukki
+Panamkutty
+Adimali-Idukki Road
+9.958954
+76.991952
+Debris
+Flow
+15th August 2018
+15950
+KER/IDK/58C13/2018/243
+Kerala
+Idukki
+Panamkutty
+Panamkutty-Kambilikandom 
+Road
+9.953099
+76.986984
+Debris
+Slide
+15th August 2018
+15951
+KER/IDK/58C13/2018/244
+Kerala
+Idukki
+Panamkutty
+Panamkutty-Kambilikandom 
+Road
+9.952209
+76.986167
+Debris
+Slide
+15th August 2018
+15952
+KER/IDK/58G01/2018/245
+Kerala
+Idukki
+Thellithodu
+Kambilikandom-Manguva Road 9.934699
+77.009028
+Debris
+Flow
+16th August 2018
+15953
+KER/IDK/58G01/2018/246
+Kerala
+Idukki
+Ponmudi S Valavu (Panniyarkutty)
+Adimali - Rajakkad Road
+9.974
+77.0429
+Debris
+Flow
+15th August 2018
+15954
+KER/MPM/58A3/2019/01
+Kerala
+Malappuram
+Kavalapara slide
+Panamkayam-Kavalapara road
+11.407647
+76.23719
+Debris
+Slide
+8th August 2019 (20:30 hrs)
+15955
+KE/MAL/58A03/2019/02
+Kerala
+Malappuram
+Thudimutti
+Panamkayam-Bhoothanam 
+road
+11.40425
+76.23441667
+Debris
+Flow
+8th August 2019 (at around 17:00 hrs)
+15956
+KE/MAL/58A03/2019/03
+Kerala
+Malappuram
+Thudimutti mala
+Thudimutti
+11.40642222
+76.2381
+Debris
+Subsidence
+8th August 2019
+15957
+KE/MAL/58A03/2019/04
+Kerala
+Malappuram
+Thudimutti mala
+Thudimutti
+11.40527778
+76.23916667
+Debris
+Flow
+8th August 2019 (17:00 hrs)
+15958
+KE/MAL/58A03/2019/05
+Kerala
+Malappuram
+Kavalapara II
+Panamkayam-Kavalapara road
+11.40661111
+76.23575
+Debris
+Slide
+8th August 2019
+15959
+KE/MAL/58A03/2019/06
+Kerala
+Malappuram
+Kavalapara III
+Panamkayam-Kavalapara road
+11.41255833
+76.23224444
+Debris
+Slide
+8th August 2019
+15960
+KE/MAL/58A07/2019/07
+Kerala
+Malappuram
+Uppada Kottakunnu
+Uppada-Gramom road
+11.38247222
+76.26022222
+Debris
+Slide
+8th August 2019
+15961
+KE/MAL/58A07/2019/08
+Kerala
+Malappuram
+Anakallu Punchakolli
+Uppada-Anakallu road
+11.40305556
+76.27113889
+Debris
+Flow
+10th August 2019
+15962
+KE/MAL/58A07/2019/09
+Kerala
+Malappuram
+Anakallu Kurishumala
+Anakallu Kurishumala road
+11.39822222
+76.27069444
+Debris
+Flow
+8th August 2019 (Said to be occurred 
+on 2010 and 1984)
+15963
+KE/MAL/58A03/2019/10
+Kerala
+Malappuram
+Valamkolli East I
+Pathar-Valamkolli road
+11.3995
+76.22813889
+Debris
+Flow
+8th August 2019 (19:00 hrs)
+15964
+KE/MAL/58A03/2019/11
+Kerala
+Malappuram
+Perumpan mala
+Panamkayam-Koovakkol Road
+11.39922222
+76.22897222
+Debris
+Flow
+8th August 2019 (19:00 hrs)
+15965
+KE/MAL/58A03/2019/12
+Kerala
+Malappuram
+Valamkolli East II
+Pathar-Valamkolli road
+11.39988889
+76.22441667
+Debris
+Flow
+8th August 2019
+15966
+KE/MAL/58A03/2019/13
+Kerala
+Malappuram
+Valamkolli west I
+Pathar- West Valamkolli road
+11.39833333
+76.22322222
+Debris
+Flow
+8th August 2019 (15:30 hrs)
+15967
+KE/MAL/58A03/2019/14
+Kerala
+Malappuram
+Valamkolli West II
+Pathar- West Valamkolli road
+11.39958333
+76.22133333
+Debris
+Flow
+8th August 2019 (15:30 hrs)
+15968
+KE/MAL/58A03/2019/15
+Kerala
+Malappuram
+Athiruveetti East
+Pathar-Muttippalam-
+Athiruveetti road
+11.39633333
+76.22036111
+Debris
+Flow
+8th August 2019 (17:00 hrs)
+15969
+KE/MAL/58A03/2019/16
+Kerala
+Malappuram
+Athiruveetti East II
+Pathar-Muttippalam-
+Athiruveetti road
+11.39894444
+76.21869444
+Debris
+Flow
+8th August 2019 (13:30 hrs)

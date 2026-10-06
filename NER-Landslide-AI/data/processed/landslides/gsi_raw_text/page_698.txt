@@ -1,0 +1,442 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27595
+TN/NIL/58A15/2015-16/271
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.339943
+76.8537
+Debris
+Slide
+NA
+27596
+TN/COI/58A15/2015-16/278
+Tamil Nadu
+Coimbatore
+ 
+NH-67
+11.34022
+76.864811
+Debris
+Slide
+NA
+27597
+TN/NIL/58A15/2015-16/269
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.34022
+76.849811
+Debris
+Slide
+NA
+27598
+TN/NIL/58A15/2015-16/281
+Tamil Nadu
+Nilgiri
+ 
+NH-67, near Coonoor Rly. 
+Station
+11.340278
+76.797222
+Debris
+Slide
+NA
+27599
+TN/NIL/58A15/2015-16/282
+Tamil Nadu
+Nilgiri
+ 
+NH-67, near Coonoor Rly. 
+Station
+11.340278
+76.797778
+Debris
+Slide
+NA
+27600
+TN/COI/58A15/2015-16/276
+Tamil Nadu
+Coimbatore
+ 
+NH-67
+11.340498
+76.862311
+Debris
+Slide
+NA
+27601
+TN/NIL/58A15/2015-16/188
+Tamil Nadu
+Nilgiri
+ 
+NH-67, near Coonoor Rly. 
+Station
+11.340556
+76.796667
+Debris
+Slide
+NA
+27602
+TN/COI/58A15/2015-16/273
+Tamil Nadu
+Coimbatore
+ 
+NH-67
+11.340776
+76.857033
+Debris
+Slide
+NA
+27603
+TN/NIL/58A15/2015-16/283
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.341054
+76.797867
+Debris
+Slide
+NA
+27604
+TN/NIL/58A11/2015-16/72
+Tamil Nadu
+Nilgiri
+ 
+road from  Ithalar to Porthi
+11.341111
+76.632222
+Debris
+Subsidence
+NA
+27605
+TN/COI/58A15/2015-16/328
+Tamil Nadu
+Coimbatore
+ 
+Along Railway track
+11.341111
+76.935556
+Debris
+Slide
+NA
+27606
+TN/COI/58A15/2015-16/329
+Tamil Nadu
+Coimbatore
+ 
+Along Railway track
+11.341111
+76.938889
+Debris
+Slide
+NA
+27607
+TN/NIL/58A15/2015-16/268
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.342165
+76.850089
+Debris
+Slide
+NA
+27608
+TN/NIL/58A15/2015-16/267
+Tamil Nadu
+Nilgiri
+ 
+NH-67 Burliyar checkpost
+11.342222
+76.850833
+Debris
+Slide
+NA
+27609
+TN/NIL/58A11/2015-16/161
+Tamil Nadu
+Nilgiri
+ 
+Emarald to ParsonΓò₧s Valley
+11.3425
+76.596389
+Debris
+Slide
+NA
+27610
+TN/NIL/58A15/2015-16/319
+Tamil Nadu
+Nilgiri
+ 
+Carolin Tea Estate
+11.3425
+76.775833
+Debris
+Slide
+NA
+27611
+TN/NIL/58A15/2015-16/322
+Tamil Nadu
+Nilgiri
+ 
+Near hair pin bend no. 4/14, NH-
+67
+11.3425
+76.849444
+Earth
+Slide
+NA
+27612
+TN/NIL/58A15/2015-16/332
+Tamil Nadu
+Nilgiri
+ 
+Along Railway track
+11.342778
+76.853889
+Debris
+Slide
+NA
+27613
+TN/NIL/58A15/2015-16/266
+Tamil Nadu
+Nilgiri
+ 
+Burliyar checkpost
+11.342778
+76.850833
+Debris
+Slide
+NA
+27614
+TN/NIL/58A15/2015-16/331
+Tamil Nadu
+Nilgiri
+ 
+Along Railway track
+11.343056
+76.855556
+Debris
+Slide
+NA
+27615
+TN/NIL/58A15/2015-16/183
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.343276
+76.846755
+Earth
+Slide
+NA
+27616
+TN/NIL/58A15/2015-16/182
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.343554
+76.847311
+Debris
+Slide
+NA
+27617
+TN/COI/58A15/2015-16/321
+Tamil Nadu
+Coimbatore
+ 
+Hair pin bend no. 2/14, NH-67
+11.343727
+76.873724
+Debris
+Slide
+NA
+27618
+TN/COI/58A15/2015-16/336
+Tamil Nadu
+Coimbatore
+ 
+Along Railway track
+11.343889
+76.863333
+Rock
+Slide
+NA
+27619
+TN/COI/58A15/2015-16/330
+Tamil Nadu
+Coimbatore
+ 
+Along Railway track
+11.344167
+76.861111
+Debris
+Slide
+NA
+27620
+TN/NIL/58A15/2015-16/236
+Tamil Nadu
+Nilgiri
+ 
+NH-67, near Coonoor Rly. 
+Station
+11.344167
+76.756944
+Earth
+Slide
+NA
+27621
+TN/COI/58A15/2015-16/337
+Tamil Nadu
+Coimbatore
+ 
+Along Railway track
+11.346667
+76.878333
+Rock
+Slide
+NA
+27622
+TN/NIL/58A11/2015-16/38
+Tamil Nadu
+Nilgiri
+ 
+PC.No:13/2, Yellakkandi 
+towards Ittalar
+11.346944
+76.641389
+Earth
+Slide
+NA
+27623
+TN/NIL/58A11/2015-16/40
+Tamil Nadu
+Nilgiri
+ 
+Tulitalai Village
+11.347778
+76.666944
+Debris
+Slide
+NA
+27624
+TN/NIL/58A11/2015-16/164
+Tamil Nadu
+Nilgiri
+ 
+Porthimund Dam towards 
+catchment-II
+11.348333
+76.577778
+Debris
+Slide
+NA
+27625
+TN/NIL/58A11/2015-16/36
+Tamil Nadu
+Nilgiri
+ 
+Yellakkandi to Ittalar, near 
+Temple
+11.348889
+76.643333
+Debris
+Slide
+NA
+27626
+TN/NIL/58A11/2015-16/39
+Tamil Nadu
+Nilgiri
+ 
+Ittalar village
+11.349444
+76.6425
+Debris
+Slide
+NA
+27627
+TN/NIL/58A15/2015-16/320
+Tamil Nadu
+Nilgiri
+ 
+Behind MGM Resort, 
+Wellington
+11.35
+76.786389
+Debris
+Slide
+NA
+27628
+TN/NIL/58A15/2015-16/316
+Tamil Nadu
+Nilgiri
+ 
+Palamtottam village
+11.350556
+76.763889
+Debris
+Slide
+NA
+27629
+TN/NIL/58A11/2015-16/163
+Tamil Nadu
+Nilgiri
+ 
+Porthimund Dam towards 
+catchment-II
+11.351944
+76.578611
+Debris
+Slide
+NA
+27630
+TN/NIL/58A11/2015-16/48
+Tamil Nadu
+Nilgiri
+ 
+Nundala Junction to Nundala 
+Mattam, PC.No:8/5
+11.355278
+76.693611
+Debris
+Slide
+NA
+27631
+TN/NIL/58A11/2015-16/35
+Tamil Nadu
+Nilgiri
+ 
+Vinobali Nagar, PC.No:10/5
+11.357222
+76.650833
+Earth
+Slide
+NA
+27632
+TN/NIL/58A11/2015-16/49
+Tamil Nadu
+Nilgiri
+ 
+Nundala Junction to Nundala 
+Mattam.
+11.357778
+76.696944
+Debris
+Slide
+NA

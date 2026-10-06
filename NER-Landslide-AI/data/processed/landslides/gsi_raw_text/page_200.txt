@@ -1,0 +1,214 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+8547
+HP/SHI/53E11/2017/01
+Himachal Pradesh
+Shimla
+Jhakri (Baroni Nala) Landslide
+Jhakri  Village,  Dist.  Shimla,  
+Himachal  Pradesh  on  Road  
+connecting
+Jeori- Rekongpeo NH-5.
+31.48377222
+77.69446667
+Debris
+Slide
+NA
+8548
+HP/KIN/53E14/2017/01
+Himachal Pradesh
+Kinnaur
+Nigulsari Sinking Zone
+Nigulsari   Village,   Dist.   
+Kinnaur,   Himachal   Pradesh   
+on   Road
+connecting Jeuri - Reckong Peo 
+(NH-05).
+31.55016667
+77.88252778
+Colluvium
+Subsidence/ 
+Sinking Zone.
+2016, 2017
+8549
+HP/KIN/53E14/2017/02
+Himachal Pradesh
+Kinnaur
+Nigulsari Landslide
+Nigulsari  Village,  Dist.  Kinnaur, 
+Himachal  Pradesh  on  Road  
+connecting
+Jeuri - Reckong Peo (NH-05).
+31.565
+77.88508333
+Colluvium
+Slide
+1st  week of  August  2015, 2016,  2017
+8550
+---
+Himachal Pradesh
+Mandi
+Kanthi Slope Failure
+About  ~11km  U/S:  Right  bank  
+of  Satluj  river  i.e.  Right
+fringe  of  Kol  Dam  Reservoir,  
+and  thereafter,  uphill  after 
+Maindla village, District Mandi 
+(Himachal Pradesh).
+31.35275556
+76.94300556
+Colluvium
+Ground 
+cracks/Subside
+nce
+2015
+8551
+HP/SIR/53F06 /2018/01
+Himachal Pradesh
+Sirmur
+Badolia Slide
+Nahan-Dadahu Road, Distt. 
+Sirmour, H.P.
+30.60783333
+77.37825
+Rock cum debris
+Slide
+2017
+8552
+HP/SIR/53F06 /2018/02
+Himachal Pradesh
+Sirmur
+Bhatgarh Slide
+Bhatgarh Village on Dadahu-
+Koti-Daman Road, Dist.Sirmour
+30.62602778
+77.50877778
+Debris cum rock
+Slide
+26 July 2018
+8553
+H.P./SIR/53F10/2018/03
+Himachal Pradesh
+Sirmur
+Hyon Slide
+Hyon Village, Khala Kher to 
+Bandal Surakh Road
+30.59683333
+77.50375
+Debris cum rock
+Slide
+2005, 2018
+8554
+HP/SOL/53F01/2018/04
+Himachal Pradesh
+Solan
+ITBP Colony, Dharmpur
+Chandigarh-Shimla NH-22, Distt. 
+Solan, H.P.
+30.89975
+77.02602778
+Rock
+Slide
+2017, 21July 2018
+8555
+H.P./SOL/53F01/2018
+Himachal Pradesh
+Solan
+RD Km 84+550m Dharampur
+NH-22/ RD Km 84+550m 
+Dharampur
+30.90223333
+77.01810278
+Rock cum debris
+Slide
+April/May  2018, one week ago from 
+30 August 2018
+8556
+H.P./SOL/53F01/2018/06
+Himachal Pradesh
+Solan
+RD Km 89+720m, Forest guest house, 
+Kumarhatti
+NH-22/ Forest guest house 
+landslide, Kumarhatti Dist. 
+Solan
+30.88810278
+77.05765
+Rock cum debris
+Slide
+April/May  2018,  monsoon 2018.
+8557
+H.P./MANDI/53A014/2018/07
+Himachal Pradesh
+Mandi
+Chumukha  Landslide
+NH-21/Chumukha/5km away 
+from Sundernagar to 
+Chandigarh
+31.50738167
+76.87488944
+Rock cum debris
+Slide/Subsidenc
+e/Flow
+December 2014 ,31 July 2018
+8558
+H.P./MANDI/53A014/2018/08
+Himachal Pradesh
+Mandi
+Chumukha  Landslide
+NH-21/Chumukha/5.2km away 
+from Sundernagar towards
+Chandigarh
+31.50016194
+76.87331194
+Rock cum debris
+Slide
+03 August 2018
+8559
+H.P./SOL/53F01/2018/09
+Himachal Pradesh
+Solan
+Barog Slide
+MDR-9/Barog /Solan 
+District/H.P., 1Km away from
+Barog to Kumarhatti MDR-9 
+road.
+30.88988889
+77.07122222
+Rock
+Slide
+18 August 2018 
+8560
+HP/SOL/53F01/2018/10
+Himachal Pradesh
+Solan
+NH-22/RD 99 +020
+Chandigarh-Shimla NH-22, Distt. 
+Solan, H.P.
+30.88721667
+77.09086667
+Rock cum debris
+Slide
+NA
+8561
+HP/SOL/53F01/2018/11
+Himachal Pradesh
+Solan
+NH-22/RD Km92 +960m
+Chandigarh-Simla Road (NH-22), 
+H.P.
+30.88131667
+77.0793
+Rock cum debris
+Slide
+NA

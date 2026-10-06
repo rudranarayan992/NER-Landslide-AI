@@ -1,0 +1,296 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1237
+AP/TAW/78M14-SE/2009-10/AR-
+1B
+Arunachal Pradesh
+Tawang
+Tawang Monastery/Arunachal 
+Pradesh
+27.584639
+91.860917
+Rock cum Debris
+ 
+NA
+1238
+AP/TAW/78M14-SE/2009-10/AR-
+1C
+Arunachal Pradesh
+Tawang
+Tawang Monastery/Arunachal 
+Pradesh
+27.584639
+91.860917
+Rock cum Debris
+ 
+NA
+1239
+AP/TAW/78M14-SE/2009-10/AR-
+1A
+Arunachal Pradesh
+Tawang
+Tawang Monastery/Arunachal 
+Pradesh
+27.584639
+91.860917
+Rock cum Debris
+ 
+NA
+1240
+ARN/TWNG/787M14/2016/002
+1
+Arunachal Pradesh
+Tawang
+Khremithang slide
+27.586694
+91.871444
+NA
+Slide
+2016
+1241
+ARN/TWNG/78M14/2016/0001 Arunachal Pradesh
+Tawang
+Famla Slide
+ 
+27.587417
+91.886944
+Debris
+Slide
+22 April 2016
+1242
+ARN/TWNG/78M14/2016/0002 Arunachal Pradesh
+Tawang
+Famla Slide
+ 
+27.587417
+91.886944
+NA
+Slide
+22 April 2016
+1243
+ARN/TWNG/78M14/2016/0016 Arunachal Pradesh
+Tawang
+Bomdir Supply Slide (Army)
+ 
+27.587611
+91.894167
+Debris
+Slide
+2016
+1244
+ARN/TWG/78M14/2016/0028
+Arunachal Pradesh
+Tawang
+Govt. Girl Hr. Sec. School Slide
+Locality
+27.589
+91.873194
+Earth
+Slide
+2016
+1245
+ARN/TWNG/78M14/2016/0019 Arunachal Pradesh
+Tawang
+Thongleng Slide
+ 
+27.58925
+91.795667
+Rock cum Debris
+Slide
+2016
+1246
+ARN/TWNG/78M14/2016/0022 Arunachal Pradesh
+Tawang
+New Lebrang slide
+ 
+27.589417
+91.861444
+NA
+Slide
+23 April 2016
+1247
+ARN/TWNG/78M14/2016/0007 Arunachal Pradesh
+Tawang
+Nyungmadung Slide near 4, 55 Bn. 
+ITBP camp
+ 
+27.589889
+91.881194
+NA
+Slide
+2016
+1248
+ARN/TWG/78M14/2016/0029
+Arunachal Pradesh
+Tawang
+New Market Sinking zone
+Locality
+27.590556
+91.867667
+Debris
+Subsidence
+2016
+1249
+ARN/TWG/78M14/2016/0030
+Arunachal Pradesh
+Tawang
+WRD Slide (North)
+Locality
+27.590639
+91.876806
+Earth
+Slide
+2016
+1250
+ARN/TWG/78M14/2016/0031
+Arunachal Pradesh
+Tawang
+WRD Slide (South)
+Locality
+27.590639
+91.876806
+Debris
+Slide
+2016
+1251
+ARN/TWNG/78M14/2016/0004 Arunachal Pradesh
+Tawang
+Namet Slide
+ 
+27.591389
+91.9025
+Rock cum Debris
+Slide
+23 April 2016
+1252
+AR/WKG/78M14/2021/001
+Arunachal Pradesh
+Tawang
+NH 13 Slide 34
+NH 13/ S of Jangda
+27.591417
+91.973083
+Soil
+Slide
+NA
+1253
+ARN/TWNG/78M14/2016/0006 Arunachal Pradesh
+Tawang
+Nyungmadung Slide
+ 
+27.591528
+91.880444
+NA
+Flow
+2016
+1254
+ARN/TWNG/78M14/2016/0008 Arunachal Pradesh
+Tawang
+All India Radio Colony Slide
+ 
+27.591806
+91.865028
+NA
+Fall
+22 April 2016
+1255
+ARN/TWNG/78M14/2016/0009 Arunachal Pradesh
+Tawang
+Rubrang Slide
+ 
+27.591833
+91.865056
+Debris
+Flow
+2016
+1256
+ARN/TWNG/78M14/2016/0011 Arunachal Pradesh
+Tawang
+Topon Colony slide
+ 
+27.592639
+91.867528
+NA
+Slide
+2016
+1257
+ARN/TWNG/78M14/2016/0012 Arunachal Pradesh
+Tawang
+Rubray (Shyo) Slide
+ 
+27.592667
+91.866222
+Debris
+Flow
+2016
+1258
+ARN/TWNG/78M14/2016/0010 Arunachal Pradesh
+Tawang
+D.C. & S. P. Bungalows Slide
+ 
+27.593139
+91.873889
+NA
+Slide
+22 April 2016
+1259
+ARN/TWNG/78M14/2016/0023 Arunachal Pradesh
+Tawang
+Changpu sinking zone
+ 
+27.593361
+91.879444
+NA
+Subsidence
+23 April 2016
+1260
+ARN/TWNG/78M14/2016/0013 Arunachal Pradesh
+Tawang
+Duda Slide (District Urban 
+Development Authority Colony)
+ 
+27.594833
+91.866417
+Debris
+Slide
+22 April 2016
+1261
+ARN/TWNG/78M14/2016/0014 Arunachal Pradesh
+Tawang
+MG Road slide
+ 
+27.594861
+91.866444
+NA
+Fall
+2016
+1262
+ARN/TWNG/78M14/2016/0003 Arunachal Pradesh
+Tawang
+Shyinteng slide
+ 
+27.595167
+91.895444
+Debris
+Slide
+2016
+1263
+ARN/TWNG/78M14/2016/0005 Arunachal Pradesh
+Tawang
+Khinmai Monastery slide
+ 
+27.596278
+91.894333
+Debris
+Slide
+2016

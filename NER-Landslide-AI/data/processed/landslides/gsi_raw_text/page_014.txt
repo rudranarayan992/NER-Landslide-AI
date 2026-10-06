@@ -1,0 +1,397 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+435
+ASM/WKA/83B08/2017/20
+Assam
+West Karbi Anglong
+Barimgaon slide
+East of Barimgaon, Amsoi- 
+Amtrang road
+26.048611
+92.432194
+Earth
+Slide
+2016
+436
+AS/KAM/78N16/2015/87
+Assam
+Kamrup
+Tanduk
+Tanduk, Kamrup
+26.050286
+91.880072
+Debris
+Slide
+NA
+437
+AS/KAR/83F08/2018/2
+Assam
+Karbi Anglong
+Charbong Slide No. 2
+SE of Charbong
+26.056083
+93.406528
+Soil
+Slide
+NA
+438
+AS/KAR/83F08/2018/1
+Assam
+Karbi Anglong
+Charbong Slide No. 1
+SE of Charbong
+26.058972
+93.406972
+Soil
+Slide
+NA
+439
+AS/GOA/78J12/2018/2
+Assam
+Goalpara
+Phophonga village landslide
+Phophonga village
+26.061
+90.605
+Rock cum debris
+Slide
+NA
+440
+AS/KAM/83B4/2015/98
+Assam
+Kamrup
+Enroute Noonmati-3
+En-route Noonmati-3, Kamrup
+26.061861
+92.147889
+Debris
+Slide
+NA
+441
+AS/KAM/78N16/2015/83
+Assam
+Kamrup
+Markdola-2
+Marakdola, near Aluminium 
+production factory, Kamrup
+26.0641
+91.889136
+Rock cum Debris
+Slide
+NA
+442
+AS/KAM/83B4/2015/97
+Assam
+Kamrup
+Enroute Noonmati-2
+En-route Noonmati-2, Kamrup
+26.065167
+92.150639
+Debris
+Slide
+NA
+443
+AS/KAM/78N12/2015/100
+Assam
+Kamrup
+Garbhanga RF
+Garbhanga Reserved Forest, 
+Kamrup
+26.071556
+91.734028
+Debris
+Slide
+NA
+444
+AS/KAM/78N16/2015/86
+Assam
+Kamrup
+Langdong
+Langdong, Kamrup
+26.077653
+91.982292
+Debris
+Slide
+NA
+445
+AS/KAM/83B4/2015/94
+Assam
+Kamrup
+Tapatali, Nadighat
+Tapatali, Nadighat, Kamrup
+26.077806
+92.170389
+Debris
+Slide
+NA
+446
+AS/KAM/83B4/2015/91
+Assam
+Kamrup
+ 
+Enroute to Barkasarong, 
+Kamrup
+26.077844
+92.035022
+Debris
+Slide
+NA
+447
+AS/KAM/83B4/2015/90
+Assam
+Kamrup
+Naukuchi
+Naukuchi, en-route to 
+Magursila, Kamrup
+26.080139
+92.032667
+Debris
+Slide
+NA
+448
+AS/KAM/83B4/2015/96
+Assam
+Kamrup
+Gharara-3
+Gharara-3, Kamrup
+26.083972
+92.14525
+Debris
+Slide
+NA
+449
+AS/KAM/83B4/2015/95
+Assam
+Kamrup
+Nibira Gaon
+Nibira Gaon, Anganbari, Kamrup 26.094578
+92.135144
+Earth
+Slide
+NA
+450
+ASM/NAG/83B08/2017/14
+Assam
+Nagaon
+Amsoi-Amtrang road slide No.14
+~300 meter North of 
+Garampani, Amsoi- Amtrang 
+road
+26.096722
+92.43875
+Rock
+Fall
+NA
+451
+AS/KAM/78N16/2015/109
+Assam
+Kamrup
+Alenga
+Alenga-Kanaidas, Sonapur, 
+Kamrup
+26.097986
+91.980589
+Debris
+Slide
+NA
+452
+AS/DH/83G04/2018/004
+Assam
+Dima Hasao
+Dautohaja Tunnel No. 3 slide.
+Between Phiding and Dautohaja 
+Railway Station, NFR.
+26.098167
+91.881278
+Debris
+Slide
+14 June 2018
+453
+ASM/NAG/83B08/2017/13
+Assam
+Nagaon
+Amsoi-Amtrang road slide No.13
+~500 meter North of 
+Garampani, Amsoi- Amtrang 
+road
+26.098222
+92.439389
+Rock
+Slide
+NA
+454
+AS/KAM/78N16/2015/69
+Assam
+Kamrup
+Jorabat, Khanapara
+NH-37
+26.099975
+91.876625
+Earth
+Slide
+NA
+455
+ASM/NAG/83B08/2017/12
+Assam
+Nagaon
+Amsoi-Amtrang road slide No.12
+Amsoi- Amtrang road
+26.101333
+92.440556
+Debris
+Slide
+2011
+456
+AS/KAM/83B4/2015/89
+Assam
+Kamrup
+Tegheria
+Barbitli to Tighira road, Kamrup 26.10175
+92.040222
+Debris
+Slide
+NA
+457
+ASM/NAG/83B08/2017/11
+Assam
+Nagaon
+Amsoi-Amtrang road slide No.11
+Amsoi- Amtrang road
+26.102167
+92.440472
+Earth
+Slide
+2010
+458
+ASM/NAG/83B08/2017/08
+Assam
+Nagaon
+Amsoi-Amtrang road slide No.8
+Amsoi- Amtrang road
+26.102333
+92.4415
+Rock cum Debris
+Slide
+2012
+459
+ASM/NAG/83B08/2017/09
+Assam
+Nagaon
+Amsoi-Amtrang road slide No.9
+Amsoi- Amtrang road
+26.102667
+92.441639
+Rock cum Debris
+Slide
+2013
+460
+AS/KAM/78N16/2015/79
+Assam
+Kamrup
+10th mile
+10th mile, Khanapara
+26.102944
+91.862111
+Debris
+Slide
+NA
+461
+ASM/NAG/83B08/2017/10
+Assam
+Nagaon
+Amsoi-Amtrang road slide No.10
+Amsoi- Amtrang road
+26.103028
+92.440889
+Earth
+Slide
+2011
+462
+ASM/NAG/83B08/2017/17
+Assam
+Nagaon
+Amsoi-Amtrang road slide No.17
+Amsoi- Amtrang road
+26.105667
+92.441
+Rock cum Debris
+Slide
+NA
+463
+AS/KAM/78N12/2015/70
+Assam
+Kamrup
+Matiapahar
+Matiapahar, Natun bosti near 
+Rani gate
+26.105806
+91.62275
+Rock cum Debris
+Slide
+NA
+464
+AS/KAM/78N16/2014/07
+Assam
+Kamrup (Metro)
+Ganeshpur-Lalmati
+About 500 m south of Game 
+village, Lalmati, NH-37
+26.10711
+91.78917
+Earth
+Flow
+NA
+465
+ASM/NAG/83B08/2017/07
+Assam
+Nagaon
+Amsoi-Amtrang road slide No.7
+Amsoi- Amtrang road
+26.10725
+92.44
+Rock cum Debris
+Slide
+2013
+466
+ASM/NAG/83B08/2017/16
+Assam
+Nagaon
+Amsoi-Amtrang road slide No.16
+Amsoi- Amtrang road
+26.107667
+92.44003
+Debris
+Slide
+NA
+467
+ASM/NAG/83B08/2017/06
+Assam
+Nagaon
+Amsoi-Amtrang road slide No.6
+Amsoi- Amtrang road
+26.108417
+92.440222
+Debris
+Slide
+2013
+468
+AS/KAM/78N16/2015/82
+Assam
+Kamrup
+Marangabari-1
+Marangabari, Kamrup
+26.109222
+91.939
+Rock cum Debris
+Slide
+NA

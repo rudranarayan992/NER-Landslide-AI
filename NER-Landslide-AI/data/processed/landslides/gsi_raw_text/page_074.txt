@@ -1,0 +1,494 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+2715
+HP/SIR/53F06/2017/334
+Himachal Pradesh
+Sirmur
+ 
+Jaghas
+30.622158
+77.367897
+Rock
+Slide
+NA
+2716
+HP/SIR/53F06/2017/337
+Himachal Pradesh
+Sirmur
+ 
+South of Mohari
+30.623072
+77.350812
+Rock
+Slide
+NA
+2717
+HP/SIR/53F06/2017/209
+Himachal Pradesh
+Sirmur
+ 
+Sanara, Bacheri ka bagh 
+Dadahu road
+30.62315
+77.431452
+Rock
+Slide
+NA
+2718
+HP/SIR/53F06/2017/239
+Himachal Pradesh
+Sirmur
+ 
+Jhalara
+30.623456
+77.331625
+Rock
+Slide
+NA
+2719
+HP/SIR/53F06/2017/138
+Himachal Pradesh
+Sirmur
+ 
+East of Kharkuli, 
+DadahuSangrah road
+30.623797
+77.460805
+Rock
+Slide
+NA
+2720
+HP/SIR/53F06/2017/342
+Himachal Pradesh
+Sirmur
+ 
+South of Mohari
+30.623894
+77.35214
+Rock
+Slide
+NA
+2721
+HP/SIR/53F06/2017/137
+Himachal Pradesh
+Sirmur
+ 
+East of Kharkuli, 
+DadahuSangrah road
+30.623899
+77.46281
+Rock
+Slide
+NA
+2722
+HP/SIR/53F06/2017/136
+Himachal Pradesh
+Sirmur
+ 
+East of Kharkuli, 
+DadahuSangrah road
+30.624114
+77.462729
+Rock
+Slide
+NA
+2723
+HP/SIR/53F06/2017/135
+Himachal Pradesh
+Sirmur
+ 
+East of Kharkuli, 
+DadahuSangrah road
+30.624564
+77.463242
+Rock
+Slide
+NA
+2724
+HP/SIR/53F02/2017/19
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.624628
+77.189682
+Rock
+Slide
+NA
+2725
+HP/SIR/53F06/2017/340
+Himachal Pradesh
+Sirmur
+ 
+South of Mohari
+30.625512
+77.350874
+Rock
+Slide
+NA
+2726
+HP/SIR/53F06/2017/341
+Himachal Pradesh
+Sirmur
+ 
+South of Mohari
+30.625613
+77.3522
+Rock
+Slide
+NA
+2727
+HP/SIR/53F10/2017/105
+Himachal Pradesh
+Sirmur
+ 
+Jamna, KotiKaffota road
+30.625873
+77.739205
+Rock
+Slide
+NA
+2728
+HP/SIR/53F02/2017/1
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.625875
+77.190204
+Rock
+Fall
+NA
+2729
+HP/SIR/53F10/2017/106
+Himachal Pradesh
+Sirmur
+ 
+Jamna, KotiKaffota road
+30.626339
+77.740025
+Rock
+Slide
+NA
+2730
+HP/SIR/53F10/2017/108
+Himachal Pradesh
+Sirmur
+ 
+Jamna, KotiKaffota road
+30.626728
+77.757029
+Rock
+Slide
+NA
+2731
+HP/SIR/53F06/2017/344
+Himachal Pradesh
+Sirmur
+ 
+Chakli
+30.627075
+77.343537
+Rock
+Slide
+NA
+2732
+HP/SIR/53F06/2017/237
+Himachal Pradesh
+Sirmur
+ 
+Chakli
+30.627075
+77.343537
+Rock
+Slide
+NA
+2733
+HP/SIR/53F06/2017/133
+Himachal Pradesh
+Sirmur
+ 
+East of Kharkuli, 
+DadahuSangrah road
+30.627188
+77.465038
+Rock
+Slide
+NA
+2734
+HP/SIR/53F06/2017/338
+Himachal Pradesh
+Sirmur
+ 
+South of Mohari
+30.627494
+77.351694
+Rock
+Slide
+NA
+2735
+HP/SIR/53F10/2017/107
+Himachal Pradesh
+Sirmur
+ 
+Jamna, KotiKaffota road
+30.627519
+77.748647
+Rock
+Slide
+NA
+2736
+HP/SIR/53F06/2017/343
+Himachal Pradesh
+Sirmur
+ 
+South of Mohari
+30.627911
+77.354044
+Rock
+Slide
+NA
+2737
+HP/SIR/53F06/2017/134
+Himachal Pradesh
+Sirmur
+ 
+East of Kharkuli, 
+DadahuSangrah road
+30.628007
+77.466613
+Rock
+Slide
+NA
+2738
+HP/SIR/53F06/2017/339
+Himachal Pradesh
+Sirmur
+ 
+South of Mohari
+30.628045
+77.353262
+Rock
+Slide
+NA
+2739
+HP/SIR/53F06/2017/131
+Himachal Pradesh
+Sirmur
+ 
+Aliyan
+30.62816
+77.477754
+Rock
+Slide
+NA
+2740
+HP/SIR/53F06/2017/201
+Himachal Pradesh
+Sirmur
+ 
+South of Banethi SH1
+30.628313
+77.27314
+Rock
+Slide
+NA
+2741
+HP/SIR/53F06/2017/200
+Himachal Pradesh
+Sirmur
+ 
+South of Banethi SH1
+30.628351
+77.274717
+Debris
+Subsidence
+NA
+2742
+HP/SIR/53F06/2017/199
+Himachal Pradesh
+Sirmur
+ 
+South of Banethi SH1
+30.62841
+77.276472
+Rock
+Slide
+NA
+2743
+HP/SOL/53B13/2017/190
+Himachal Pradesh
+Solan
+ 
+ 
+30.62909
+76.219379
+Rock
+Slide
+NA
+2744
+HP/SIR/53F06/2017/132
+Himachal Pradesh
+Sirmur
+ 
+East of Kharkuli, 
+DadahuSangrah road
+30.629979
+77.467679
+Rock
+Slide
+NA
+2745
+HP/SIR/53F06/2017/130
+Himachal Pradesh
+Sirmur
+ 
+Aliyan
+30.631394
+77.475749
+Rock
+Slide
+NA
+2746
+HP/SIR/53F06/2017/234
+Himachal Pradesh
+Sirmur
+ 
+Dongi Ki Ser
+30.633491
+77.340888
+Rock
+Slide
+NA
+2747
+HP/SIR/53F06/2017/233
+Himachal Pradesh
+Sirmur
+ 
+Dongi Ki Ser
+30.633799
+77.34176
+Rock
+Slide
+NA
+2748
+HP/SIR/53F02/2017/5
+Himachal Pradesh
+Sirmur
+ 
+NainatikkarSarahan road
+30.633933
+77.187139
+Rock
+Fall
+NA
+2749
+HP/SIR/53F06/2017/235
+Himachal Pradesh
+Sirmur
+ 
+Dongi Ki Ser
+30.634022
+77.342596
+Rock
+Slide
+NA
+2750
+HP/SIR/53F02/2017/20
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.634969
+77.186424
+Rock
+Slide
+NA
+2751
+HP/SIR/53F06/2017/236
+Himachal Pradesh
+Sirmur
+ 
+Dongi Ki Ser
+30.635744
+77.344014
+Rock
+Slide
+NA
+2752
+HP/SIR/53F06/2017/143
+Himachal Pradesh
+Sirmur
+ 
+Kakog, Dadahu 
+Sangrah road
+30.641925
+77.435935
+Rock
+Slide
+NA
+2753
+HP/SIR/53F14/2017/36
+Himachal Pradesh
+Sirmur
+ 
+Kyontha
+30.642261
+77.776432
+Rock
+Slide
+NA
+2754
+HP/SIR/53F14/2017/35
+Himachal Pradesh
+Sirmur
+ 
+Kyontha
+30.643713
+77.775265
+Rock
+Slide
+NA
+2755
+HP/SIR/53F06/2017/38
+Himachal Pradesh
+Sirmur
+ 
+Chamiyana
+30.643924
+77.412068
+Rock
+Slide
+NA
+2756
+HP/SIR/53F14/2017/34
+Himachal Pradesh
+Sirmur
+ 
+Kyontha
+30.644488
+77.774026
+Rock
+Slide
+NA
+2757
+HP/SIR/53F02/2017/3
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.645573
+77.189126
+Rock
+Fall
+NA

@@ -1,0 +1,351 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+35957
+Uttarakhand/Pithoragarh/62B_
+12/2017/02
+Uttarakhand
+Pithoragarh
+Mangti Slide
+Kailash – MansarowarYatra 
+route, approx. 300-400 m 
+downstream of Mangti Bridge 
+near confluence of Shyamkhola 
+gad and Kali River.
+30.00094444
+80.71894444
+Rock cum debris
+Fall & Slide
+NA
+35958
+Uttarakhand/Pithoragarh/62B/1
+2/2017/03
+Uttarakhand
+Pithoragarh
+Najyang gad slide
+Kailash-MansarowarYatra route 30.03774722
+80.75534722
+Rock (Biotite gneiss)
+Rock slide
+NA
+35959
+Uttarakhand/Pithoragarh/62B_
+12/2017/04
+Uttarakhand
+Pithoragarh
+Garba Slide
+Kailash –MansarowarYatra 
+route, approx. 1km upstream of 
+Mangti Bridge on Shyamkhola 
+gad towards Malpa, Garba 
+village is located at higher 
+elevation.
+30.00147222
+80.72816667
+Rock
+Fall & Slide
+NA
+35960
+UK_Tehri_Kot_Slide 01
+Uttarakhand
+Tehri
+Kot Slide
+Chamiyala-Titurana Road
+30.59461111
+78.68130556
+Debris
+Slide
+29 August 2018
+35961
+UK_Tehri_Kot_Slide 02
+Uttarakhand
+Tehri
+Kot Slide
+Chamiyala-Titurana Road
+30.59472222
+78.68147222
+Debris
+Flow 
+29 August 2018
+35962
+Slide 1
+Uttarakhand
+Bageshwar 
+Kuwari rock slide (very less debris)
+Kuwari village
+30.08363889
+79.80080556
+Rock
+Slide 
+2012-13
+35963
+Slide 2
+Uttarakhand
+Bageshwar 
+Kuwari rock cum debris slide
+Kuwari village
+30.08391667
+79.79969444
+Rock-cum-debris
+Slide
+2012-13
+35964
+Slide 3
+Uttarakhand
+Bageshwar 
+Kuwari rock slide
+Kuwari village
+30.08327778
+79.79875
+Rock(Nala)
+Slide
+2012-13
+35965
+Kuwari rock slide 4 (2018)
+Uttarakhand
+Bageshwar 
+Kuwari rockslide 4
+Kuwari village
+30.07883333
+79.79447222
+Rock
+Slide
+2018
+35966
+UK/Uttarkashi/53J/5/2018/01
+Uttarakhand
+Uttarkashi
+UK/Uttarkashi/53J/5/2018/01
+NH-94
+30.90573
+78.34671
+Rock-cum-debris  
+Fall and slide
+2003, 2013, 2017 and 2018.
+35967
+UK/Uttarkashi/53E_16/2019/01 Uttarakhand
+Uttarkashi
+Arakot,Guli gad Debris slide
+National Highway-707.
+31.04111111
+77.82635
+Debris
+Flow
+18 August 2019, 08:00 hrs
+35968
+UK/Uttarkashi/53E_16/2019/02 Uttarakhand
+Uttarkashi
+Sanel Debris slide, Rock-cum-Debris
+NH-707
+31.05844167
+77.82160556
+Rock-cum-debris
+Slide
+18 August 2019, 08:00 hrs
+35969
+UK/Uttarkashi/53E_16/2019/03 Uttarakhand
+Uttarkashi
+Malara road Subsidence
+Arakot – Malana – Makudi Road 31.05501944
+77.83901389
+Debris
+Subsidence
+22 August 2019, 01:00 hrs
+35970
+UK/Uttarkashi/53E_16/2019/04 Uttarakhand
+Uttarkashi
+Ishali Road Subsidence
+NH-707
+31.02648056
+77.82987778
+Rock-cum-Debris
+Subsidence
+18 August 2019, 09:00 hrs
+35971
+UK/Uttarkashi/53F_13/2019/05 Uttarakhand
+Uttarkashi
+Tyuni  Subsidence
+NH-707
+31.94500556
+77.85253056
+Debris
+Subsidence
+18 August 2019, 09:00 hrs
+35972
+1
+Uttarakhand
+Rudraprayag
+Chandika Dhar, Near Bharasu
+NH-109
+30.59222222
+79.02833333
+Rock Boulder
+Rock Fall
+ 19 October, 2019
+35973
+UK/TehriGarhwal/53J/08/2020/
+01
+Uttarakhand
+Tehri Garhwal
+Kaudiyala Slide
+NH-7/Kaudiyala
+30.071
+78.49072222
+Rock
+Topple
+24 August 2020
+35974
+UK_Nainital_1
+Uttarakhand
+Nainital
+KN_1
+SH-13 Kaladungi Nainital Road
+29.313852
+79.35293
+Debris
+Slide
+NA
+35975
+UK_Nainital_2
+Uttarakhand
+Nainital
+KN_2
+State Highway Kaladungi 
+Nainital Road
+29.315322
+79.345679
+Debris
+Slide
+17-20 October 2020
+35976
+3
+Uttarakhand
+Nainital
+KN_3
+State Highway
+29.319882
+79.351964
+Rock cum debris
+Slide
+NA
+35977
+UK_Nainital_5
+Uttarakhand
+Nainital
+KN_4
+Kaladungi Nainital Road
+29.318418
+79.355334
+Debris
+Flows
+NA
+35978
+UK_Nainital_6
+Uttarakhand
+Nainital
+KN_5
+Kaladungi Nainital Road
+29.3207
+79.365417
+Debris
+Flows
+NA
+35979
+UK_Nainital_7
+Uttarakhand
+Nainital
+KN_6
+Kaladungi Nainital Road
+29.321188
+79.368534
+Debris
+Flows
+NA
+35980
+UK_Nainital_8
+Uttarakhand
+Nainital
+KN_7
+Kaladungi Nainital Road
+29.321569
+79.35744
+Debris
+Slide
+NA
+35981
+UK_Nainital_9
+Uttarakhand
+Nainital
+KN_9
+State highway
+29.322513
+79.357171
+Rock cum debris
+Slide
+NA
+35982
+UK_Nainital_10
+Uttarakhand
+Nainital
+KN_10
+Kaladungi Nainital Road
+29.326083
+79.364646
+Rock cum debris
+Slide
+NA
+35983
+UK_Nainital_11
+Uttarakhand
+Nainital
+KN_11
+Kaladungi Nainital Road
+29.326083
+79.364646
+Rock cum debris
+Slide
+NA
+35984
+UK_Nainital_12
+Uttarakhand
+Nainital
+BN_1 Hugh slide in the south of 
+Kafarphat
+Bhawali Nainital road
+29.3536
+79.4204
+Rock cum debris
+Slide
+NA
+35985
+UK_Nainital_13
+Uttarakhand
+Nainital
+BN_2 Hugh slide in the south of 
+Kafarphat
+Bhawali Nainital road
+29.3565
+79.4073
+Rock cum debris
+Slide
+NA
+35986
+UK_Nainital_14
+Uttarakhand
+Nainital
+Narayan nagar, BN_3
+Bhawali Nainital road
+29.3565
+79.4073
+Rock/Debris
+Flow
+NA

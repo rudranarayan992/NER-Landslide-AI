@@ -1,0 +1,310 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27008
+TN/ANN/58F12/2016/28
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Vatlakundu
+10.20375
+77.650556
+Debris
+Slide
+NA
+27009
+TN/ANN/58F08/2016/8
+Tamil Nadu
+Dindigul
+ 
+South East of Mannavanur 
+village
+10.205333
+77.347556
+Debris
+Slide
+NA
+27010
+TN/ANN/58F12/2016/27
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Vatlakundu
+10.20825
+77.645306
+Debris
+Slide
+NA
+27011
+TN/ANN/58F12/2016/26
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Vatlakundu, via Tom Tom 
+Parai
+10.210583
+77.638222
+Debris
+Slide
+NA
+27012
+TN/ANN/58F08/2016/22
+Tamil Nadu
+Dindigul
+ 
+Mannavanoor to Berijam Road
+10.21225
+77.372311
+Debris
+Slide
+NA
+27013
+TN/ANN/58F12/2016/25
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Vatlakundu, near Tom Tom 
+Parai
+10.212639
+77.634417
+Debris
+Slide
+NA
+27014
+TN/ANN/58F12/2016/24
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Vatlakundu, near Tom Tom 
+Parai
+10.213778
+77.631111
+Rock
+Slide
+NA
+27015
+TN/ANN/58F08/2016/9
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kavunji to 
+Mannavanur
+10.216639
+77.356167
+Debris
+Slide
+NA
+27016
+TN/ANN/58F12/2016/23
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Vatlakundu, near Tom Tom 
+Parai
+10.218472
+77.631167
+Rock
+Slide
+NA
+27017
+TN/ANN/58F08/2016/29
+Tamil Nadu
+Dindigul
+ 
+Kodaikanal to Vattakanal road
+10.219
+77.483833
+Debris
+Slide
+NA
+27018
+TN/ANN/58F08/2016/10
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kavunji to 
+Mannavanur
+10.219111
+77.355722
+Debris
+Slide
+NA
+27019
+TN/ANN/58F08/2016/15
+Tamil Nadu
+Dindigul
+ 
+South of Mannavanur
+10.219444
+77.348889
+Earth
+Slide
+NA
+27020
+TN/ANN/58F08/2016/12
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kavunji to 
+Mannavanur
+10.220333
+77.3565
+Debris
+Slide
+NA
+27021
+TN/ANN/58F08/2016/11
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kavunji to 
+Mannavanur
+10.220444
+77.357806
+Debris
+Slide
+NA
+27022
+TN/ANN/58F08/2016/14
+Tamil Nadu
+Dindigul
+ 
+South of Mannavanur
+10.220556
+77.349722
+Earth
+Slide
+NA
+27023
+TN/ANN/58F08/2016/28
+Tamil Nadu
+Dindigul
+ 
+Kodaikanal to Vattakanal road
+10.220836
+77.483703
+Debris
+Slide
+NA
+27024
+TN/ANN/58F08/2016/27
+Tamil Nadu
+Dindigul
+ 
+Kodaikanal to Vattakanal road
+10.22095
+77.48355
+Debris
+Slide
+NA
+27025
+TN/ANN/58F08/2016/26
+Tamil Nadu
+Dindigul
+ 
+Kodaikanal to Vattakanal road
+10.221917
+77.482989
+Debris
+Slide
+NA
+27026
+TN/ANN/58F12/2016/22
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Vatlakundu
+10.223278
+77.632722
+Earth
+Slide
+NA
+27027
+TN/ANN/58F12/2016/14
+Tamil Nadu
+Dindigul
+ 
+Along the road from Perumal 
+Malai to Adukkam near 
+Adukkam village
+10.226694
+77.561167
+Debris
+Slide
+NA
+27028
+TN/ANN/58F12/2016/21
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Vatlakundu
+10.228528
+77.636694
+Debris
+Slide
+NA
+27029
+TN/ANN/58F12/2016/20
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Vatlakundu
+10.230444
+77.640361
+Earth
+Slide
+NA
+27030
+TN/ANN/58F12/2016/19
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Vatlakundu
+10.231833
+77.642778
+Debris
+Slide
+NA
+27031
+TN/ANN/58F08/2016/13
+Tamil Nadu
+Dindigul
+ 
+Along the road from 
+Mannavanur to Poombarai
+10.231861
+77.350194
+Earth
+Slide
+NA
+27032
+TN/ANN/58F12/2016/18
+Tamil Nadu
+Dindigul
+ 
+Along the road from Kodaikanal 
+to Vatlakundu
+10.231972
+77.644389
+Debris
+Slide
+NA

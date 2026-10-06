@@ -1,0 +1,415 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21129
+MZ/LUN/84B13/2018/67
+Mizoram
+Lunglei
+ 
+2.5km N of Zowbawk
+22.869579
+92.824974
+Rock
+Slide
+NA
+21130
+MZ/LUN/84B13/2018/68
+Mizoram
+Lunglei
+ 
+1 km N from Luangmual
+22.869707
+92.753304
+Rock
+Slide
+NA
+21131
+MZ/LUN/84B05/2020/6
+Mizoram
+Lunglei
+SE of Tlabung slide 9
+9.2 km SE of Tlabung on SH- 
+Tlabung -Tiperghat road
+22.87
+92.49
+Debris
+Slide
+2017
+21132
+MZ/LUN/84B05/2020/7
+Mizoram
+Lunglei
+SE of Tlabung slide 1
+10 km SE of Tlabung on SH- 
+Tlabung -Tiperghat road
+22.87
+92.48
+Debris
+Slide
+2018
+21133
+MZ/LUN/84B05/2020/8
+Mizoram
+Lunglei
+SE of Tlabung slide 2
+10.2 km SE of Tlabung on SH- 
+Tlabung -Tiperghat road
+22.87
+92.48
+Debris
+Slide
+2018
+21134
+MZ/LUN/84B09/2018/8
+Mizoram
+Lunglei
+ 
+Haurang-Pachang road
+22.870518
+92.703873
+Debris
+Slide
+NA
+21135
+MZ/LUN/84B13/2018/70
+Mizoram
+Lunglei
+ 
+1.2km from Luangmual
+22.870546
+92.752853
+Rock
+Slide
+NA
+21136
+MZ/LUN/84B13/2018/69
+Mizoram
+Lunglei
+ 
+4km S of Dawn
+22.87056
+92.822105
+Rock
+Slide
+2018
+21137
+MIZO/LUN/84B13/2005/E-15
+Mizoram
+Lunglei
+Lunglei-3 slide
+ 
+22.87075
+92.75403
+Rock cum Debris
+Slide
+NA
+21138
+MZ/LUN/84B13/2018/72
+Mizoram
+Lunglei
+ 
+1.6km N of luangmual
+22.872238
+92.750557
+Rock
+Fall
+NA
+21139
+MZ/LUN/84B13/2018/71
+Mizoram
+Lunglei
+ 
+6km S of Dawn
+22.872299
+92.815971
+Debris
+Slide
+NA
+21140
+MZ/LUN/84B13/2018/73
+Mizoram
+Lunglei
+ 
+2 km N of Luangmual
+22.872849
+92.748711
+Debris
+Slide
+NA
+21141
+MZ/LUN/84B13/2018/74
+Mizoram
+Lunglei
+ 
+5Km S of Dawn
+22.873062
+92.817093
+Rock
+Slide
+NA
+21142
+MZ/LUN/84B09/2018/26
+Mizoram
+Lunglei
+Lunglawn landslide
+Lunglawn Veng, SE of Lunglei 
+town.
+22.873558
+92.755951
+Debris
+Slide
+NA
+21143
+MZ/LUN/84B13/2018/75
+Mizoram
+Lunglei
+ 
+E Rotlang- S. Mualthuam
+22.873812
+92.902039
+Debris
+Slide
+NA
+21144
+MZ/LUN/84B13/2018/76
+Mizoram
+Lunglei
+ 
+E Rotlang- S. Mualthuam
+22.874456
+92.901688
+Soil
+Slide
+NA
+21145
+MZ/LUN/84B09/2018/9
+Mizoram
+Lunglei
+ 
+About 500m from Haurang 
+Village
+22.874741
+92.730354
+Debris
+Slide
+NA
+21146
+MIZO/LUN/84B13/2005/E-14
+Mizoram
+Lunglei
+Lunglei-2 slide
+ 
+22.87506
+92.75136
+Debris
+Slide
+NA
+21147
+MZ/LUN/84B05/2020/2
+Mizoram
+Lunglei
+Muriskata to Lewin slide
+Muriskata to Lewin on SH- 
+Tlabung -Tiperghat road
+22.88
+92.49
+Debris
+Slide
+2017
+21148
+MZ/LUN/84B05/2020/3
+Mizoram
+Lunglei
+Tlabung -Tiperghat road section slide 
+1
+SH- Tlabung -Tiperghat road
+22.88
+92.49
+Debris
+Slide
+2017
+21149
+MZ/LUN/84B05/2020/4
+Mizoram
+Lunglei
+Tlabung -Tiperghat road section slide 
+2
+SH- Tlabung -Tiperghat road
+22.88
+92.49
+Debris
+Slide
+2017
+21150
+MZ/LUN/84B05/2020/5
+Mizoram
+Lunglei
+SE of Tlabung slide 8
+7 km SE of Tlabung on SH- 
+Tlabung -Tiperghat road
+22.88
+92.49
+Debris
+Slide
+2017
+21151
+MZ/LUN/84B05/2020/9
+Mizoram
+Lunglei
+SE of Tlabung slide 4
+10.8 km SE of Tlabung on SH- 
+Tlabung -Tiperghat road
+22.88
+92.48
+Debris
+Slide
+2018
+21152
+MZ/LUN/84B05/2020/10
+Mizoram
+Lunglei
+SE of Tlabung slide 11
+10.3 km SE of Tlabung on SH- 
+Tlabung -Tiperghat road
+22.88
+92.48
+Debris
+Slide
+2018
+21153
+MZ/LUN/84B05/2020/11
+Mizoram
+Lunglei
+SE of Tlabung slide 7
+12 km SE of Tlabung on SH- 
+Tlabung -Tiperghat road
+22.88
+92.48
+Debris
+Slide
+2017
+21154
+MZ/LUN/84B05/2020/13
+Mizoram
+Lunglei
+SE of Tlabung slide 5
+11 km SE of Tlabung on SH- 
+Tlabung -Tiperghat road
+22.88
+92.47
+Debris
+Slide
+2018
+21155
+MZ/LUN/84B05/2020/14
+Mizoram
+Lunglei
+SE of Tlabung slide 6
+11.4 km SE of Tlabung near 
+Silkur Village on SH- Tlabung -
+Tiperghat road
+22.88
+92.46
+Debris
+Slide
+2019
+21156
+MZ/LUN/84B05/2020/15
+Mizoram
+Lunglei
+SE of Tlabung slide 10
+SE of Tlabung near Silkur Village 
+on SH- Tlabung - Thekaduar 
+Road
+22.88
+92.46
+Debris
+Slide
+2019
+21157
+MZ/LUN/84B05/2020/35
+Mizoram
+Lunglei
+Silkur village slide 2
+Silkur village
+22.88
+92.46
+Rock
+Fall
+2017
+21158
+MZ/LUN/84B09/2018/10
+Mizoram
+Lunglei
+ 
+2.1 km N of Luangmual
+22.880117
+92.831108
+Debris
+Slide
+NA
+21159
+MZ/LUN/84B09/2018/11
+Mizoram
+Lunglei
+ 
+2.5km N of Luangmaul (Lunglei-
+Lungsen road)
+22.880322
+92.747818
+Rock
+Slide
+NA
+21160
+MZ/LUN/84B13/2018/77
+Mizoram
+Lunglei
+ 
+Zobawk-Leite road
+22.882607
+92.837952
+Debris
+Slide
+NA
+21161
+MIZO/LUN/84B13/2005/E-13
+Mizoram
+Lunglei
+Lunglei slide
+ 
+22.88281
+92.74583
+Debris
+Slide
+NA
+21162
+MZ/LUN/84B09/2018/12
+Mizoram
+Lunglei
+ 
+Tuichawng-Siphirtlang road
+22.883036
+92.557152
+Debris
+Slide
+NA
+21163
+MZ/LUN/84B09/2018/13
+Mizoram
+Lunglei
+ 
+Haurang village
+22.883656
+92.715782
+Debris
+Slide
+NA

@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+10535
+JK/REA/43K11/2020/16
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.39
+74.72
+Rock
+Slide
+NA
+10536
+JK/KIS/43O11/2020/12
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.64
+Rock
+Slide
+NA
+10537
+JK/KIS/43O11/2020/22
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.63
+Rock
+Slide
+NA
+10538
+JK/KIS/43O11/2020/23
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.63
+Rock
+Slide
+NA
+10539
+JK/KIS/43O11/2020/24
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.63
+Rock
+Slide
+NA
+10540
+JK/KIS/43O11/2020/25
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.63
+Rock
+Slide
+NA
+10541
+JK/KIS/43O11/2020/26
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.63
+Rock
+Slide
+NA
+10542
+JK/KIS/43O11/2020/10
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.63
+Rock
+Slide
+NA
+10543
+JK/KIS/43O11/2020/108
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.64
+Debris
+Slide
+NA
+10544
+JK/KIS/43O11/2020/109
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.65
+Debris
+Slide
+NA
+10545
+JK/KIS/43O11/2020/11
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.64
+Rock
+Slide
+NA
+10546
+JK/KIS/43O11/2020/34
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.64
+Rock
+Slide
+NA
+10547
+JK/KIS/43O11/2020/57
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.65
+Rock
+Slide
+NA
+10548
+JK/KIS/43O11/2020/58
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.63
+Rock
+Slide
+NA
+10549
+JK/KIS/43O11/2020/59
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.64
+Rock
+Creep
+NA
+10550
+JK/KIS/43O11/2020/7
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.71
+Debris
+Slide
+NA
+10551
+JK/KIS/43O11/2020/72
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.69
+Debris
+Slide
+NA
+10552
+JK/KIS/43O11/2020/75
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.71
+Debris
+Slide
+NA
+10553
+JK/KIS/43O11/2020/8
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.71
+Debris
+Slide
+NA
+10554
+JK/KIS/43O11/2020/80
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.65
+Rock
+Slide
+NA
+10555
+JK/KIS/43O11/2020/81
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.65
+Rock
+Slide
+NA
+10556
+JK/KIS/43O11/2020/9
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.63
+Rock
+Slide
+NA
+10557
+JK/KIS/43O11/2020/98
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.39
+75.66
+Rock
+Slide
+NA
+10558
+JK/RAM/43O03/2018/114
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.393085
+75.137856
+Rock cum debris
+Slide
+NA
+10559
+JK/REA/43K15/2017/7
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.395485
+74.830978
+Rock
+Slide
+NA
+10560
+JK/RAM/43O03/2018/125
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.396954
+75.141273
+Rock cum debris
+Slide
+NA
+10561
+JK/REA/43K15/2017/17
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.397808
+74.909836
+Rock
+Slide
+NA
+10562
+JK/RAM/43O03/2018/87
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.398033
+75.196678
+Rock cum debris
+Slide
+NA
+10563
+JK/KIS/43O11/2020/14
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.4
+75.64
+Rock
+Slide
+NA
+10564
+JK/KIS/43O11/2020/15
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.4
+75.64
+Rock
+Slide
+NA
+10565
+JK/KIS/43O11/2020/16
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.4
+75.64
+Rock
+Slide
+NA
+10566
+JK/KIS/43O11/2020/2
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.4
+75.67
+Debris
+Slide
+NA
+10567
+JK/KIS/43O11/2020/44
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.4
+75.67
+Rock
+Slide
+NA
+10568
+JK/KIS/43O11/2020/49
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.4
+75.69
+Rock
+Slide
+NA
+10569
+JK/KIS/43O11/2020/55
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.4
+75.65
+Debris
+Slide
+NA
+10570
+JK/KIS/43O11/2020/56
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.4
+75.65
+Debris
+Slide
+NA
+10571
+JK/KIS/43O11/2020/73
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.4
+75.67
+Debris
+Slide
+NA
+10572
+JK/KIS/43O11/2020/78
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.4
+75.65
+Rock
+Slide
+NA
+10573
+JK/KIS/43O11/2020/79
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.4
+75.65
+Rock
+Slide
+NA
+10574
+JK/KIS/43O11/2020/82
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.4
+75.65
+Rock
+Slide
+NA
+10575
+JK/KIS/43O11/2020/83
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.4
+75.65
+Rock
+Slide
+NA
+10576
+JK/KIS/43O11/2020/86
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.4
+75.67
+Debris
+Slide
+NA
+10577
+JK/KIS/43O11/2020/87
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.4
+75.65
+Debris
+Slide
+NA
+10578
+JK/RAM/43O03/2018/94
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.404907
+75.126183
+Rock cum debris
+Slide
+NA
+10579
+JK/REA/43K15/2017/16
+Jammu & Kashmir (UT)
+Reasi
+ 
+ 
+33.406692
+74.762413
+Rock
+Slide
+NA
+10580
+JK/RAM/43O03/2018/73
+Jammu & Kashmir (UT)
+Ramban
+ 
+ 
+33.408962
+75.182236
+Rock cum debris
+Slide
+NA
+10581
+JK/KIS/43O11/2020/17
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.41
+75.63
+Rock
+Slide
+NA
+10582
+JK/KIS/43O11/2020/18
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.41
+75.63
+Rock
+Slide
+NA
+10583
+JK/KIS/43O11/2020/21
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.41
+75.63
+Rock
+Slide
+NA
+10584
+JK/KIS/43O11/2020/42
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.41
+75.62
+Rock
+Slide
+NA
+10585
+JK/KIS/43O11/2020/54
+Jammu & Kashmir (UT)
+Kishtwar
+ 
+ 
+33.41
+75.67
+Debris
+Slide
+NA

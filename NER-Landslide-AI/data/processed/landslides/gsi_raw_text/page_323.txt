@@ -1,0 +1,521 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+13721
+KRL/WAY/58A02/2015/66
+Kerala
+Wayanad
+Near Chembera parking area
+Chembra Peak Road
+11.552539
+76.0895
+Debris
+Slide
+1961
+13722
+KRL/WAY/58A02/2015/65
+Kerala
+Wayanad
+Chembera
+Chembra Peak Road
+11.553164
+76.085942
+Debris
+Slide
+2015
+13723
+KRL/WAY/58A02/2015/70
+Kerala
+Wayanad
+Chembera 22
+Chembra Peak Road
+11.553283
+76.101244
+Debris
+Slide
+2008
+13724
+KRL/WAY/58A02/2015/68
+Kerala
+Wayanad
+Chembera2
+Chembra Peak Road
+11.554086
+76.097822
+Debris
+Slide
+NA
+13725
+KRL/WAY/58A02/2015/67
+Kerala
+Wayanad
+Chembera1
+Chembra Peak Road
+11.554256
+76.0928
+Debris
+Slide
+1961
+13726
+KRL/WAY/58A02/2015/63
+Kerala
+Wayanad
+Kunnamangalam vayal
+Chembra Peak Road
+11.5543
+76.127939
+Debris
+Subsidence
+2007
+13727
+KRL/WAY/58A02/2015/82
+Kerala
+Wayanad
+Meppadi-Near Market
+Kozhokode - Vythiri-Gudallur 
+Highway
+11.554431
+76.131517
+Debris
+Slide
+NA
+13728
+KRL/WAY/58A02/2015/64
+Kerala
+Wayanad
+Near Chembera Watch tower
+Chembra Peak Road
+11.5548
+76.083589
+Debris
+Slide
+2015
+13729
+KRL/KOZ/54M14/2015/189
+Kerala
+Kozhikode
+Kakkayam hairpin
+Kakkayam Road
+11.555278
+75.908611
+Debris
+Flow
+NA
+13730
+KRL/KOZ/54M14/2015/207
+Kerala
+Kozhikode
+Chembra
+NULL
+11.556389
+75.813611
+Rock cum Debris
+Slide
+NA
+13731
+KRL/KOZ/54M14/2015/195
+Kerala
+Kozhikode
+Kakkayam hairpin
+Kakkayam Road
+11.556667
+75.918889
+Rock cum Debris
+Slide
+NA
+13732
+KRL/WAY/58A02/2015/53
+Kerala
+Wayanad
+Kadamad
+NULL
+11.556978
+76.198161
+Earth
+Slide
+2015
+13733
+KRL/KOZ/54M14/2015/167
+Kerala
+Kozhikode
+Kakkayam hairpin
+Kakkayam Road
+11.557222
+75.910278
+Rock
+Fall
+NA
+13734
+KRL/KOZ/54M14/2015/170
+Kerala
+Kozhikode
+Kakkayam hairpin
+Kakkayam Road
+11.557222
+75.916611
+Debris
+Slide
+1984
+13735
+KRL/KOZ/54M14/2015/169
+Kerala
+Kozhikode
+Kakkayam hairpin
+Kakkayam Road
+11.557778
+75.916111
+Debris
+Slide
+1984
+13736
+KRL/KOZ/54M14/2015/136
+Kerala
+Kozhikode
+Vengappatta
+Perambra-Chembra Road
+11.558333
+75.795
+Debris
+Slide
+NA
+13737
+KRL/KOZ/54M14/2015/164
+Kerala
+Kozhikode
+Kuttali
+Kakkayam Road
+11.558611
+75.899167
+Debris
+Slide
+NA
+13738
+KRL/WAY/58A02/2015/101
+Kerala
+Wayanad
+Poothakolly
+Poothakolly Road
+11.559383
+76.135828
+Debris
+Slide
+NA
+13739
+KRL/WAY/58A02/2015/103
+Kerala
+Wayanad
+Poothakolly-2
+Poothakolly Road
+11.559564
+76.136561
+Debris
+Slide
+1961
+13740
+KRL/WAY/58A02/2015/102
+Kerala
+Wayanad
+Poothakolly-1
+Poothakolly Road
+11.560225
+76.136717
+Debris
+Slide
+NA
+13741
+KRL/KOZ/54M14/2015/196
+Kerala
+Kozhikode
+Kakkayam hairpin
+Kakkayam Road
+11.560278
+75.916111
+Earth
+Slide
+NA
+13742
+KRL/KOZ/54M14/2015/187
+Kerala
+Kozhikode
+Attikod estate
+Kakkayam Road
+11.561389
+75.929722
+Debris
+Flow
+1994
+13743
+KRL/WAY/58A02/2015/71
+Kerala
+Wayanad
+ 
+Vitthkaad-Poothakolly Road
+11.562956
+76.132781
+Debris
+Slide
+NA
+13744
+KRL/KOZ/54M14/2015/165
+Kerala
+Kozhikode
+Kakkayam hairpin
+Kakkayam Road
+11.563889
+75.899722
+Debris
+Slide
+NA
+13745
+KRL/WAY/58A02/2015/104
+Kerala
+Wayanad
+Meppadi-46
+Kozhokode - Vythiri-Gudallur 
+Highway
+11.566717
+76.115653
+Earth
+Slide
+NA
+13746
+KRL/KOZ/54M14/2015/166
+Kerala
+Kozhikode
+Kakkayam hairpin
+Kakkayam Road
+11.5675
+75.898889
+Debris
+Slide
+NA
+13747
+KRL/WAY/58A02/2015/52
+Kerala
+Wayanad
+ 
+Kozhikode - Mysore - Kollegadi 
+Highway
+11.577869
+76.060242
+Earth
+Slide
+NA
+13748
+KRL/WAY/58A02/2015/50
+Kerala
+Wayanad
+ 
+Vythiri - Tharuvana Road
+11.588728
+76.018258
+Debris
+Slide
+NA
+13749
+KRL/WAY/54M14/2015/160
+Kerala
+Wayanad
+Peruvannamoozhi
+SH54
+11.598889
+75.823889
+Debris
+Flow
+NA
+13750
+KRL/KOZ/54M14/2015/174
+Kerala
+Kozhikode
+Peruvannamoozhi
+SH54
+11.600278
+75.819722
+Debris
+Slide
+NA
+13751
+KRL/KOZ/54M14/2015/103
+Kerala
+Kozhikode
+Muthucadu
+Peruvannamoozhi Road
+11.604167
+75.857222
+Debris
+Flow
+2010
+13752
+KRL/KOZ/54M14/2015/162
+Kerala
+Kozhikode
+Peruvannamoozhi
+SH54
+11.613889
+75.813611
+Debris
+Slide
+NA
+13753
+KRL/KOZ/54M14/2015/104
+Kerala
+Kozhikode
+Chembanode
+SH54
+11.6275
+75.817222
+Debris
+Slide
+NA
+13754
+KRL/KOZ/54M14/2015/93
+Kerala
+Kozhikode
+Kombancode
+SH54
+11.628889
+75.831944
+Debris
+Flow
+2007
+13755
+KRL/WAY/54M14/2015/157
+Kerala
+Wayanad
+Ladysmith reserved forest
+NULL
+11.630833
+75.959167
+Debris
+Flow
+2004
+13756
+KRL/WAY/54M14/2015/155
+Kerala
+Wayanad
+Ladysmith reserved forest
+NULL
+11.632222
+75.947778
+Debris
+Flow
+2008
+13757
+KRL/WAY/54M14/2015/158
+Kerala
+Wayanad
+Ladysmith reserved forest
+NULL
+11.632778
+75.955
+Debris
+Slide
+2007
+13758
+KRL/KOZ/54M14/2015/94
+Kerala
+Kozhikode
+Alampara
+SH54
+11.633333
+75.856667
+Rock cum Debris
+Flow
+2013
+13759
+KRL/WAY/58A02/2015/51
+Kerala
+Wayanad
+Kumbleri-Ambalavayal
+Ambalvayal Bypass Road
+11.636239
+76.201533
+Rock cum Debris
+Slide
+NA
+13760
+KRL/KOZ/54M14/2015/197
+Kerala
+Kozhikode
+Randajali puzha
+SH54
+11.636389
+75.870833
+Debris
+Slide
+NA
+13761
+KRL/KOZ/54M14/2015/98
+Kerala
+Kozhikode
+Rubber Estate
+SH54
+11.638056
+75.850833
+Rock cum Debris
+Flow
+2013
+13762
+KRL/KOZ/54M14/2015/99
+Kerala
+Kozhikode
+Poozhithodu
+SH54
+11.638333
+75.873056
+Rock cum Debris
+Flow
+1984
+13763
+KRL/KOZ/54M14/2015/95
+Kerala
+Kozhikode
+Alampara
+SH54
+11.638611
+75.856944
+Rock cum Debris
+Flow
+1985
+13764
+KRL/KOZ/54M14/2015/198
+Kerala
+Kozhikode
+Puzhithodu
+SH54
+11.639167
+75.864444
+Debris
+Slide
+NA
+13765
+KRL/KOZ/54M14/2015/97
+Kerala
+Kozhikode
+Poozhithode
+SH54
+11.640556
+75.855556
+Rock cum Debris
+Flow
+1984
+13766
+KRL/KOZ/54M14/2015/96
+Kerala
+Kozhikode
+Alampara
+SH55
+11.642778
+75.856389
+Rock cum Debris
+Flow
+1984

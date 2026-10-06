@@ -1,0 +1,409 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12490
+KA/UTT/48J14/2020/51
+Karnataka
+Uttar Kannada
+Gadkai village
+Gadkai village
+14.7
+74.84
+Earth
+Slide
+2019
+12491
+KA/UTT/48J14/2020/66
+Karnataka
+Uttar Kannada
+Duminsare village
+Duminsare village
+14.7
+74.91
+Earth
+Slide
+2019
+12492
+KA/UTT/48J14/2020/30
+Karnataka
+Uttar Kannada
+Kerekoppa, Agsale village
+Kerekoppa, Agsale village
+14.71
+74.81
+Debris
+Slide
+2019
+12493
+KA/UTT/48J14/2020/57
+Karnataka
+Uttar Kannada
+East of Mulgol village
+East of Mulgol village
+14.71
+74.83
+Debris
+Slide
+NA
+12494
+KA/UTT/48J14/2020/58
+Karnataka
+Uttar Kannada
+Belale village
+Belale village
+14.71
+74.84
+Earth
+Slide
+2019
+12495
+KA/UTT/48J14/2020/5
+Karnataka
+Uttar Kannada
+Kodigar village
+Kodigar village
+14.72
+74.78
+Debris
+Slide
+2019
+12496
+KA/UTT/48J14/2020/4
+Karnataka
+Uttar Kannada
+Ambalike village
+Ambalike village
+14.73
+74.75
+Earth
+Slide
+2019
+12497
+KA/UTT/48J14/2020/7
+Karnataka
+Uttar Kannada
+Near Sonda Cross
+Near Sonda Cross
+14.73
+74.82
+Debris
+Slide
+2019
+12498
+KA/UTT/48J14/2020/59
+Karnataka
+Uttar Kannada
+Bailgadde village
+Bailgadde village
+14.73
+74.88
+Earth
+Flow
+2019
+12499
+KA/UTT/48J14/2020/60
+Karnataka
+Uttar Kannada
+Bailgadde village
+Bailgadde village
+14.73
+74.89
+Earth
+Slide
+NA
+12500
+KA/UTT/48J10/2018/23
+Karnataka
+Uttar Kannada
+East of Kanmuski
+East of Kanmuski
+14.734722
+74.680556
+Soil
+Slide
+NA
+12501
+KA/UTT/48J10/2018/22
+Karnataka
+Uttar Kannada
+Kanmuski
+Kanmuski
+14.73525
+74.678889
+Soil
+Slide
+NA
+12502
+KA/UTT/48J10/2018/21
+Karnataka
+Uttar Kannada
+Anmod-Mollem Ghat road
+Anmod-Mollem Ghat road
+14.738889
+74.674258
+Soil
+Slide
+NA
+12503
+KA/UTT/48J14/2020/6
+Karnataka
+Uttar Kannada
+Near Sonda Cross
+Near Sonda Cross
+14.74
+74.82
+Earth
+Slide
+2019
+12504
+KA/UTT/48J10/2018/20
+Karnataka
+Uttar Kannada
+West of Kanmuski
+West of Kanmuski
+14.743333
+74.665833
+Debris
+Slide
+NA
+12505
+KA/UTT/48J10/2018/19
+Karnataka
+Uttar Kannada
+West of Kanmuski
+West of Kanmuski
+14.743611
+74.651472
+Debris
+Slide
+NA
+12506
+KA/UTT/48J10/2018/18
+Karnataka
+Uttar Kannada
+North East of Bidaratale
+North East of Bidaratale
+14.744167
+74.580833
+Debris
+Slide
+NA
+12507
+KA/UTT/48J10/2018/17
+Karnataka
+Uttar Kannada
+West of Kanmuski
+West of Kanmuski
+14.744972
+74.663611
+Debris
+Slide
+NA
+12508
+KA/UTT/48J10/2018/16
+Karnataka
+Uttar Kannada
+West of Kanmuski
+West of Kanmuski
+14.746339
+74.662003
+Debris
+Slide
+NA
+12509
+KA/UK/48J06/2015/156
+Karnataka
+Uttar Kannada
+ 
+Karmanne gudda on NH-17
+14.746378
+74.250608
+Debris
+Slide
+NA
+12510
+KA/UK/48J06/2015/157
+Karnataka
+Uttar Kannada
+ 
+Karmanne gudda on NH-17
+14.746444
+74.250233
+Debris
+Slide
+NA
+12511
+KA/UK/48J06/2015/154
+Karnataka
+Uttar Kannada
+ 
+NH-17 near Amdalli village
+14.746661
+74.250747
+Rock
+Fall
+NA
+12512
+KA/UK/48J06/2015/155
+Karnataka
+Uttar Kannada
+ 
+NH-17 near Amdalli 
+village/Karmanne gudda
+14.746788
+74.250685
+Rock
+Slide
+NA
+12513
+KA/UK/48J06/2015/158
+Karnataka
+Uttar Kannada
+ 
+Karmanne gudda on NH-17
+14.746861
+74.250008
+Rock
+Fall
+NA
+12514
+KA/UTT/48I07/2018/15
+Karnataka
+Uttar Kannada
+West of Kanmuski
+West of Kanmuski
+14.747278
+74.560556
+Debris
+Slide
+NA
+12515
+KA/UTT/48J14/2020/67
+Karnataka
+Uttar Kannada
+Hemmadi village
+Hemmadi village
+14.75
+74.86
+Earth
+Slide
+2019
+12516
+KA/UTT/48J13/2020/1
+Karnataka
+Uttar Kannada
+Kummanmane village
+Kummanmane village
+14.76
+74.8
+Earth
+Slide
+2019
+12517
+KA/UTT/48J13/2020/3
+Karnataka
+Uttar Kannada
+Kummanmane village
+Kummanmane village
+14.76
+74.81
+Earth
+Slide
+2019
+12518
+KA/UTT/48J13/2020/4
+Karnataka
+Uttar Kannada
+Kummanmane village
+Kummanmane village
+14.76
+74.81
+Earth
+Slide
+2019
+12519
+KA/UK/48J01/2015/99
+Karnataka
+Uttar Kannada
+ 
+Chendiye village
+14.761667
+74.191572
+Debris
+Slide
+NA
+12520
+KA/UK/48J01/2015/100
+Karnataka
+Uttar Kannada
+ 
+Chendiye village
+14.766164
+74.188228
+Debris
+Slide
+NA
+12521
+KA/UTT/48J13/2020/5
+Karnataka
+Uttar Kannada
+Chauti village
+Chauti village
+14.77
+74.81
+Earth
+Slide
+2019
+12522
+KA/UTT/48J13/2020/6
+Karnataka
+Uttar Kannada
+Chauti village
+Chauti village
+14.77
+74.81
+Earth
+Slide
+2019
+12523
+KA/UTT/48J13/2020/12
+Karnataka
+Uttar Kannada
+Tarehalli village
+Tarehalli village
+14.77
+74.83
+Earth
+Slide
+2020
+12524
+KA/UTT/48J13/2020/13
+Karnataka
+Uttar Kannada
+North of Kannur village
+North of Kannur village
+14.77
+74.86
+Earth
+Slide
+2020
+12525
+KA/UTT/48J13/2020/22
+Karnataka
+Uttar Kannada
+Hosamane village
+Hosamane village
+14.77
+74.82
+Debris
+Slide
+2019

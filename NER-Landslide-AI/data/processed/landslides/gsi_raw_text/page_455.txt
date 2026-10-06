@@ -1,0 +1,395 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+18481
+MN/NON/83H10/2018/16
+Manipur
+Noney
+ 
+Along Imphal-Khuopum road, 
+near Zouyantek village.
+24.647011
+93.672828
+Debris
+Slide
+NA
+18482
+MN/NON/83H10/2018/15
+Manipur
+Noney
+ 
+Along Imphal-Khuopum road.
+24.649492
+93.679522
+Debris
+Creep
+NA
+18483
+MN/NON/83H09/2018/64
+Manipur
+Noney
+ 
+Dolang-Zouyantak road
+24.6525
+93.676
+Debris
+Slide
+NA
+18484
+MN/KAM/83L06/2018/29
+Manipur
+Kamjong
+ 
+3 km S of Sorbong Village
+24.652556
+94.389194
+Debris
+Slide
+NA
+18485
+MN/NON/83H10/2018/14
+Manipur
+Noney
+ 
+Data taken from  Imphal-
+Khuopum road, lying above 
+Khongbung village.
+24.653156
+93.646406
+Debris
+Slide
+NA
+18486
+MN/KAM/83L06/2018/5
+Manipur
+Kamjong
+ 
+2 km N of Tarang Village
+24.655226
+94.292756
+Debris
+Slide
+NA
+18487
+MN/NON/83H10/2018/75
+Manipur
+Noney
+ 
+NH_37A, Imphal-Khoupum 
+highway.
+24.656306
+93.580806
+Soil
+Slide
+NA
+18488
+MN/NON/83H10/2018/65
+Manipur
+Noney
+ 
+Data taken from NH_37A, 
+Imphal-Khoupum highway
+24.658206
+93.625503
+Debris
+Slide
+NA
+18489
+MN/NON/83H10/2018/11
+Manipur
+Noney
+ 
+Data taken from Khongbung 
+village
+24.660825
+93.632156
+Debris
+Slide
+NA
+18490
+MN/NON/83H10/2018/64
+Manipur
+Noney
+ 
+Data taken from NH_37A, 
+Imphal-Khoupum highway
+24.662664
+93.62825
+Debris
+Slide
+NA
+18491
+MN/NON/83H09/2018/63
+Manipur
+Noney
+ 
+Dolang-Zouyantak road
+24.663889
+93.679056
+Debris
+Slide
+NA
+18492
+MN/NON/83H10/2018/76
+Manipur
+Noney
+ 
+Khoupum valley, near dam
+24.664694
+93.532361
+Debris
+Slide
+NA
+18493
+MN/KAM/83L06/2018/4
+Manipur
+Kamjong
+ 
+7 km SE of Kasom Khullen
+24.664707
+94.29025
+Debris
+Slide
+NA
+18494
+MN/KAM/83L06/2018/32
+Manipur
+Kamjong
+ 
+6 km SE of Kasom Khullen
+24.664737
+94.290345
+Debris
+Slide
+NA
+18495
+MN/NON/83H10/2018/20
+Manipur
+Noney
+ 
+Along Zouyantek-Dolang road
+24.667778
+93.676944
+Debris
+Slide
+NA
+18496
+MN/KAM/83L06/2018/18
+Manipur
+Kamjong
+ 
+4 km SE of Kasom Khullen
+24.668389
+94.285472
+Debris
+Slide
+NA
+18497
+MN/KAM/83L06/2018/10
+Manipur
+Kamjong
+ 
+Kasom Khullen
+24.672316
+94.26374
+Debris
+Slide
+NA
+18498
+MN/NON/83H10/2018/8
+Manipur
+Noney
+ 
+Data taken from Sangji village-
+Dolang village
+24.672406
+93.696858
+Debris
+Slide
+NA
+18499
+MN/NON/83H10/2018/9
+Manipur
+Noney
+ 
+Data taken from Sangji village-
+Dolang village
+24.672569
+93.6973
+Debris
+Slide
+NA
+18500
+MN/KAM/83L06/2018/14
+Manipur
+Kamjong
+ 
+Kasom Khullen, way to Cathlic 
+School
+24.6735
+94.270702
+Debris
+Slide
+NA
+18501
+MN/KAM/83L06/2018/9
+Manipur
+Kamjong
+ 
+Kasom Khullen
+24.673582
+94.270534
+Debris
+Slide
+NA
+18502
+MN/KAM/83L06/2018/15
+Manipur
+Kamjong
+ 
+Kasom Khullen (cultivation area) 24.676078
+94.253133
+Debris
+Slide
+NA
+18503
+MN/KAM/83L06/2018/7
+Manipur
+Kamjong
+ 
+Kasom Khullen
+24.676323
+94.253976
+Debris
+Slide
+NA
+18504
+MN/KAM/83L06/2018/16
+Manipur
+Kamjong
+ 
+Kasom Khullen (cultivation area) 24.677303
+94.253445
+Debris
+Slide
+NA
+18505
+MN/KAM/83L06/2018/17
+Manipur
+Kamjong
+ 
+Kasom Khullen (cultivation area) 24.67916
+94.252632
+Debris
+Slide
+NA
+18506
+MN/NON/83H10/2018/21
+Manipur
+Noney
+ 
+Along Zouyantek-Dolang road
+24.679639
+93.669667
+Debris
+Slide
+NA
+18507
+MN/JRM/83H02/2020/14
+Manipur
+Jiribam
+ 
+Tongtao Village
+24.68
+93.11
+Debris
+Slide
+NA
+18508
+MN/KAN/83L02/2018/1
+Manipur
+Kangpokpi
+ 
+Salam Patong
+24.682167
+94.138111
+Rock cum debris
+Slide
+NA
+18509
+MN/KAN/83L02/2018/15
+Manipur
+Kangpokpi
+ 
+Salam Patong
+24.682778
+94.140056
+Rock
+Slide
+NA
+18510
+MN/KAM/83L06/2018/13
+Manipur
+Kamjong
+ 
+Kasom Khullen, Old Community 
+Hall
+24.682833
+94.269306
+Debris
+Subsidence
+NA
+18511
+MN/NON/83H10/2018/10
+Manipur
+Noney
+ 
+Data taken from Sangji village-
+Dolang village
+24.683139
+93.696258
+Debris
+Slide
+NA
+18512
+MN/KAM/83L06/2018/31
+Manipur
+Kamjong
+ 
+0.5 km N of Sorbong Village
+24.683139
+94.400917
+Debris
+Slide
+NA
+18513
+MN/KAM/83L06/2018/6
+Manipur
+Kamjong
+ 
+Kasom Khullen
+24.683238
+94.267283
+Debris
+Subsidence
+NA
+18514
+MN/KAN/83L02/2018/6
+Manipur
+Kangpokpi
+ 
+Yeason Village
+24.683944
+94.172778
+Rock cum debris
+Slide
+NA

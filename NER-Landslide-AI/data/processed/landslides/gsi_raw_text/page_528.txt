@@ -1,0 +1,365 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21264
+MZ/LUN/84A16/2018/59
+Mizoram
+Lunglei
+ 
+Tarpho-Hnathial Section
+23.005156
+92.985893
+Debris
+Slide
+NA
+21265
+MZ/LUN/84A16/2018/50
+Mizoram
+Lunglei
+ 
+Zotuitlang-Haulawng Section 
+(~1.5 km N of Zotuitlang)
+23.005556
+92.810555
+Rock
+Slide
+2018
+21266
+MZ/LUN/84A12/2018/20
+Mizoram
+Lunglei
+ 
+Lunglei-Aizawl road (near 
+Tlawng river)
+23.005587
+92.720192
+Rock
+Slide
+NA
+21267
+MZ/LUN/84A12/2018/15
+Mizoram
+Lunglei
+ 
+Thuampui-S. Lungdai Section
+23.005594
+92.703522
+Rock
+Slide
+NA
+21268
+MZ/LUN/84A16/2018/57
+Mizoram
+Lunglei
+ 
+Tarpho-Hnathial Section
+23.006939
+92.98938
+Rock
+Slide
+NA
+21269
+MZ/LUN/84A16/2018/51
+Mizoram
+Lunglei
+ 
+Zotuitlang-Haulawng Section
+23.007998
+92.808693
+Rock
+Slide
+NA
+21270
+MZ/LUN/84A16/2018/80
+Mizoram
+Lunglei
+ 
+Thiltlang-Hnathial Section
+23.010895
+92.924156
+Rock
+Slide
+NA
+21271
+MZ/LUN/84A12/2018/21
+Mizoram
+Lunglei
+ 
+Lunglei-Aizawl road (SE of 
+Haulawng)
+23.011667
+92.720558
+Rock
+Slide
+NA
+21272
+MZ/LUN/84A12/2018/22
+Mizoram
+Lunglei
+ 
+Lunglei-Aizawl road
+23.014982
+92.720505
+Debris
+Slide
+NA
+21273
+MZ/LUN/84A12/2018/16
+Mizoram
+Lunglei
+ 
+Thuampui-S. Lungdai Section
+23.015444
+92.704414
+Debris
+Slide
+NA
+21274
+MZ/LUN/84A16/2018/85
+Mizoram
+Lunglei
+ 
+Lunglei-Aizawl road
+23.016111
+92.764168
+Rock
+Slide
+NA
+21275
+MZ/LUN/84A16/2018/79
+Mizoram
+Lunglei
+ 
+Southern part of Thiltlang 
+Village (NH 54)
+23.017494
+92.920425
+Debris
+Slide
+NA
+21276
+MZ/LUN/84A16/2018/86
+Mizoram
+Lunglei
+ 
+Lunglei-Aizawl road (~5.8 km 
+south of Haulawng Village)
+23.017555
+92.771515
+Rock
+Slide
+2018
+21277
+MZ/LUN/84A16/2018/78
+Mizoram
+Lunglei
+ 
+Southern outskirts of Thiltlang 
+Village (NH 54)
+23.017822
+92.920723
+Debris
+Slide
+NA
+21278
+MZ/LUN/84A16/2018/77
+Mizoram
+Lunglei
+ 
+Southern outskirts of Thiltlang 
+Village (NH 54)
+23.018333
+92.920555
+Debris
+Slide
+NA
+21279
+MZ/LUN/84A16/2018/76
+Mizoram
+Lunglei
+ 
+Southern outskirts of Thiltlang 
+Village (NH 54)
+23.018612
+92.920555
+Rock
+Slide
+NA
+21280
+MZ/LUN/84A16/2018/75
+Mizoram
+Lunglei
+ 
+Thiltlang Village (NH 54)
+23.019981
+92.920921
+Rock
+Fall
+NA
+21281
+MZ/LUN/84A16/2018/87
+Mizoram
+Lunglei
+ 
+Lunglei-Aizawl road (~5 km 
+south of Haulawng Village)
+23.021145
+92.770981
+Rock
+Slide
+NA
+21282
+MZ/LUN/84A16/2018/83
+Mizoram
+Lunglei
+ 
+Lunglei-Aizawl road
+23.021692
+92.752975
+Rock
+Fall
+NA
+21283
+MZ/LUN/84A16/2018/74
+Mizoram
+Lunglei
+ 
+Northern outskirts of Thiltlang 
+Village (NH 54)
+23.022125
+92.919952
+Debris
+Slide
+2018
+21284
+MZ/LUN/84A16/2018/84
+Mizoram
+Lunglei
+ 
+Lunglei-Aizawl road
+23.022377
+92.757759
+Rock
+Slide
+NA
+21285
+MZ/LUN/84A16/2018/73
+Mizoram
+Lunglei
+ 
+Northern outskirts of Thiltlang 
+Village (NH 54)
+23.025131
+92.91922
+Debris
+Slide
+2018
+21286
+MZ/CHA/84E08/2017/3
+Mizoram
+Champhai
+ 
+Champhai
+23.026818
+93.26673
+Rock
+Fall
+NA
+21287
+MZ/LUN/84A16/2018/88
+Mizoram
+Lunglei
+ 
+Lunglei-Aizawl road
+23.031231
+92.773987
+Rock
+Fall
+NA
+21288
+MZ/LUN/84A12/2018/17
+Mizoram
+Lunglei
+ 
+Thuampui-S. Lungdai Section
+23.032444
+92.705917
+Debris
+Slide
+NA
+21289
+MZ/LUN/84A16/2018/52
+Mizoram
+Lunglei
+ 
+Zotuitlang-Haulawng Section
+23.035839
+92.795578
+Debris
+Slide
+NA
+21290
+MZ/LUN/84A16/2018/53
+Mizoram
+Lunglei
+ 
+Zotuitlang-Haulawng Section
+23.038607
+92.795174
+Debris
+Slide
+NA
+21291
+MZ/LUN/84A16/2018/54
+Mizoram
+Lunglei
+ 
+Zotuitlang-Haulawng Section
+23.038607
+92.795174
+Rock
+Slide
+NA
+21292
+MZ/LUN/84A16/2018/55
+Mizoram
+Lunglei
+ 
+Zotuitlang-Haulawng Section
+23.038668
+92.794441
+Rock
+Slide
+NA
+21293
+MZ/LUN/84A16/2018/72
+Mizoram
+Lunglei
+ 
+Pangzawl-Thiltlang Section (NH 
+54)
+23.040543
+92.909523
+Rock
+Fall
+NA
+21294
+MZ/LUN/84A16/2018/90
+Mizoram
+Lunglei
+ 
+Haulawng Village
+23.0425
+92.772781
+Debris
+Slide
+NA

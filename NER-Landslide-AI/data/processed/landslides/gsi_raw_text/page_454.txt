@@ -1,0 +1,316 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+18455
+MN/NON/83H10/2018/27
+Manipur
+Noney
+ 
+Imphal-Khoupum highway, near 
+Ngaryan.
+24.635389
+93.719194
+Debris
+Slide
+NA
+18456
+MN/NON/83H10/2018/60
+Manipur
+Noney
+ 
+NH_37A, Imphal-Khoupum 
+highway
+24.636444
+93.606694
+Debris
+Slide
+NA
+18457
+MN/UKH/83L01/2018/49
+Manipur
+Ukhrul
+ 
+Sada Thangkul
+24.637278
+94.1725
+Soil
+Slide
+NA
+18458
+MN/NON/83H10/2018/51
+Manipur
+Noney
+ 
+below NH-37A, Imphal-
+Khoupum highway
+24.637769
+93.612292
+Debris
+Slide
+NA
+18459
+MN/NON/83H10/2018/5
+Manipur
+Noney
+ 
+Zouyantek to Imphal highway
+24.637806
+93.69075
+Debris
+Slide
+NA
+18460
+MN/NON/83H10/2018/53
+Manipur
+Noney
+ 
+NH_37A, Imphal-Khoupum 
+highway
+24.63875
+93.611278
+Debris
+Slide
+NA
+18461
+MN/NON/83H10/2018/52
+Manipur
+Noney
+ 
+NH_37A, Imphal-Khoupum 
+highway
+24.639
+93.611556
+Debris
+Slide
+NA
+18462
+MN/NON/83H10/2018/4
+Manipur
+Noney
+ 
+Zouyantek to Imphal highway
+24.639311
+93.691111
+Debris
+Slide
+NA
+18463
+MN/NON/83H10/2018/78
+Manipur
+Noney
+ 
+NH_37A, Imphal-Khoupum 
+highway.
+24.639361
+93.659444
+Debris
+Slide
+NA
+18464
+MN/NON/83H10/2018/50
+Manipur
+Noney
+ 
+NH_37A, Imphal-Khoupum 
+highway
+24.639722
+93.612222
+Debris
+Slide
+NA
+18465
+MN/NON/83H10/2018/3
+Manipur
+Noney
+ 
+Zouyantek to Imphal highway
+24.639806
+93.691333
+Debris
+Slide
+NA
+18466
+MN/NON/83H10/2018/48
+Manipur
+Noney
+ 
+NH_37A, Imphal-Khoupum 
+highway
+24.640072
+93.627392
+Debris
+Slide
+NA
+18467
+MN/NON/83H10/2018/13
+Manipur
+Noney
+ 
+Along Imphal-Khuopum road.
+24.640639
+93.620311
+Debris
+Slide
+NA
+18468
+MN/NON/83H10/2018/63
+Manipur
+Noney
+ 
+NH_37A, Imphal-Khoupum 
+highway
+24.641194
+93.594472
+Debris
+Slide
+NA
+18469
+MN/NON/83H10/2018/12
+Manipur
+Noney
+ 
+Along Imphal-Khuopum road.
+24.641369
+93.623008
+Debris
+Slide
+NA
+18470
+MN/NON/83H10/2018/62
+Manipur
+Noney
+ 
+NH_37A, Imphal-Khoupum 
+highway
+24.641417
+93.596611
+Debris
+Slide
+NA
+18471
+MN/NON/83H10/2018/2
+Manipur
+Noney
+ 
+Zouyantek to Imphal highway
+24.641444
+93.691639
+Debris
+Slide
+NA
+18472
+MN/NON/83H10/2018/77
+Manipur
+Noney
+ 
+NH_37A, Imphal-Khoupum 
+highway.
+24.641528
+93.623694
+Debris
+Slide
+NA
+18473
+MN/NON/83H10/2018/19
+Manipur
+Noney
+ 
+along Imphal-Khoupum road, 
+near Longsai village
+24.641747
+93.640183
+Debris
+Subsidence
+NA
+18474
+MN/NON/83H10/2018/40
+Manipur
+Noney
+ 
+NH_37A, Imphal-Khoupum 
+highway
+24.64175
+93.623222
+Debris
+Slide
+NA
+18475
+MN/NON/83H10/2018/61
+Manipur
+Noney
+ 
+NH_37A, Imphal-Khoupum 
+highway
+24.642722
+93.602083
+Debris
+Slide
+NA
+18476
+MN/NON/83H10/2018/49
+Manipur
+Noney
+ 
+NH_37A, Imphal-Khoupum 
+highway
+24.644889
+93.619583
+Debris
+Slide
+NA
+18477
+MN/NON/83H10/2018/41
+Manipur
+Noney
+ 
+NH_37A, Imphal-Khoupum 
+highway
+24.645275
+93.628828
+Debris
+Slide
+NA
+18478
+MN/KAM/83L06/2018/30
+Manipur
+Kamjong
+ 
+4 km S of Sorbong Village
+24.645686
+94.38249
+Rock
+Fall
+NA
+18479
+MN/NON/83H10/2018/18
+Manipur
+Noney
+ 
+Along Imphal-Khuopum road, 
+near Tairenpokpi village.
+24.646197
+93.671856
+Debris
+Slide
+NA
+18480
+MN/NON/83H10/2018/17
+Manipur
+Noney
+ 
+Along Imphal-Khuopum road, 
+near Tairenpokpi village.
+24.646969
+93.672364
+Debris
+Slide
+NA

@@ -1,0 +1,358 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14458
+109
+Kerala
+Idukki
+Thopramkudy II
+Thopramkudi - Vathukudi road
+9.886582
+77.052528
+Debris
+Slide
+15th August 2018
+14459
+110
+Kerala
+Idukki
+Maalikkuthu
+Padamugam - Malikuthu road
+9.895342
+77.038972
+Debris
+Slide
+17th August 2018
+14460
+111
+Kerala
+Idukki
+Maalikkuthu II
+Padamugam - Malikuthu road
+9.895524
+77.038736
+Debris
+Flow
+17th August 2018
+14461
+112
+Kerala
+Idukki
+Periyar Valley X
+Periyar Valley - Murickasseri 
+road
+9.908326
+76.976366
+Debris
+Slide
+14th August 2018
+14462
+113
+Kerala
+Idukki
+Periyar Valley XI
+Murickasseri - Chelachuvad 
+road
+9.908188
+76.976757
+Debris
+Slide
+14th August 2018
+14463
+114
+Kerala
+Idukki
+Antopuram II
+Thodupuzha - Murickasseri - 
+Chelachuvad road
+9.909755
+76.980742
+Debris
+Flow
+14th August 2018
+14464
+115
+Kerala
+Idukki
+Asramam
+Moolamattam - Kottamala road 9.767408
+76.880724
+Debris
+Flow
+16th August 2018
+14465
+116
+Kerala
+Idukki
+Asramam II
+Moolamattam - Kottamala road 9.762402
+76.886875
+Debris
+Slide
+16th August 2018
+14466
+117
+Kerala
+Idukki
+Asramam III
+Moolamattam - Kottamala road 9.758115
+76.887115
+Debris
+Slide
+16th August 2018
+14467
+118
+Kerala
+Idukki
+Meemuttom
+Ashramam - Memuttam link 
+road
+9.751969
+76.888502
+Soil 
+Slide
+16th August 2018
+14468
+119
+Kerala
+Idukki
+Pathipally
+Foot path
+9.763586
+76.882632
+Debris
+Slide
+16th August 2018
+14469
+120
+Kerala
+Idukki
+Asramam IV
+Moolamattam - Kottamala road 9.766509
+76.881357
+Debris
+Flow
+16th August 2018
+14470
+121
+Kerala
+Idukki
+Kozhipally
+Jeep road
+9.813075
+76.876351
+Debris
+Slide
+16th August 2018
+14471
+122
+Kerala
+Idukki
+Kozhipally II
+Jeep road
+9.813493
+76.875962
+Debris
+Flow
+16th August 2018
+14472
+123
+Kerala
+Idukki
+Kozhipally III
+Jeep road
+9.814796
+76.875696
+Debris
+Slide
+16th August 2018
+14473
+124
+Kerala
+Idukki
+Valiyakandam
+Moolamattam - Valiyakandam 
+road
+9.777421301
+76.85654734
+Debris
+Slide
+15th August 2018
+14474
+125
+Kerala
+Idukki
+Valiyakandam II
+Moolamattam - Valiyakandam 
+road
+9.769485485
+76.86124237
+Debris
+Flow
+15th August 2018
+14475
+126
+Kerala
+Idukki
+Myladi
+Myladi - Idukki road
+9.816191519
+76.83888865
+Debris
+Slide
+17th August 2018
+14476
+127
+Kerala
+Idukki
+Naadukaani
+Thodupuzha - Idukki road
+9.812449375
+76.85372512
+Debris
+Slide
+15th August 2018
+14477
+128
+Kerala
+Idukki
+Naadukaani
+Thodupuzha - Idukki road
+9.812495372
+76.85357954
+Debris
+Slide
+15th August 2018
+14478
+129
+Kerala
+Idukki
+Kottappara
+Vannapuram - Mullaringad road 9.998154979
+76.7971387
+Debris
+Slide
+16th August 2018
+14479
+130
+Kerala
+Idukki
+Kottappara II
+Vannapuram - Mullaringad road 9.99998665
+76.80113429
+Debris
+Slide
+15th August 2018
+14480
+131
+Kerala
+Idukki
+Mullaringadu
+Mullaringad - Mambra road
+10.00493481
+76.81221537
+Debris
+Slide
+15th August 2018
+14481
+132
+Kerala
+Idukki
+Mullaringadu II
+Mullaringad - Mambra road
+10.00440974
+76.81234926
+Debris
+Slide
+15th August 2018
+14482
+133
+Kerala
+Idukki
+Vellakkayam
+Vellakayam - Kummayikulambu 
+road
+10.00768174
+76.82238154
+Debris
+Flow
+15th August 2018
+14483
+134
+Kerala
+Idukki
+Vellakkayam II
+Vellakayam - Kummayikulambu 
+road
+10.00829216
+76.82151851
+Debris
+Flow
+15th August 2018
+14484
+135
+Kerala
+Idukki
+Kummayakkulambu
+Vellakayam - Kummayikulambu 
+road
+10.00163665
+76.83338317
+Debris
+Flow
+15th August 2018
+14485
+136
+Kerala
+Idukki
+Kummayakkulambu II
+Vellakayam - Kummayikulambu 
+road
+10.0021226
+76.83214556
+Debris
+Slide
+15th August, 2018
+14486
+137
+Kerala
+Idukki
+Kummayakkulambu III
+Vellakayam - Kummayikulambu 
+road
+10.00311624
+76.83064631
+Debris
+Slide
+15th August, 2018
+14487
+138
+Kerala
+Idukki
+Vellallu
+Vellakkayam - Pattekkudi road
+9.998656343
+76.83284662
+Debris
+Slide
+15th August, 2018
+14488
+139
+Kerala
+Idukki
+Vellallu II
+Rajagiri - Kamboorkanam road
+9.98845781
+76.84452653
+Debris
+Flow
+16th August, 2018

@@ -1,0 +1,553 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+7192
+HP/KAN/52D08/2018/76
+Himachal Pradesh
+Kangra
+ 
+MDR 45
+32.21783
+76.31423
+Debris
+Slide
+NA
+7193
+HP/KUL/52H04/2015/159
+Himachal Pradesh
+Kullu
+ 
+NH21
+32.2179
+77.1925
+Debris
+Slide
+NA
+7194
+HP/KAN/52D04/2018/43
+Himachal Pradesh
+Kangra
+ 
+Sinwan, NH 20
+32.218832
+76.138143
+Debris
+Slide
+NA
+7195
+HP/KAN/52D04/2018/44
+Himachal Pradesh
+Kangra
+ 
+Sirwan, NH 20
+32.219247
+76.13715
+Debris
+Slide
+NA
+7196
+HP/KAN/43P16/2020/9
+Himachal Pradesh
+Kangra
+ 
+chachchiya
+32.22
+75.97
+Debris
+Slide
+NA
+7197
+HP/KAN/53A05/2018/146
+Himachal Pradesh
+Kangra
+ 
+KHANYARA
+32.220342
+76.364508
+Rock
+Slide
+NA
+7198
+HP/KAN/52D08/2018/21
+Himachal Pradesh
+Kangra
+ 
+KHANYARA
+32.22035
+76.36455
+Rock cum debris
+Slide
+NA
+7199
+HP/KAN/52D08/2018/143
+Himachal Pradesh
+Kangra
+ 
+KHANYARA
+32.22062
+76.36415
+Rock
+Slide
+NA
+7200
+HP/KAN/52D08/2018/75
+Himachal Pradesh
+Kangra
+ 
+INDRUNAG ROAD
+32.22075
+76.34068
+Debris
+Slide
+NA
+7201
+HP/KAN/52D08/2018/99
+Himachal Pradesh
+Kangra
+ 
+KHANYARA
+32.22087
+76.363247
+Rock
+Slide
+NA
+7202
+HP/KAN/52D08/2018/119
+Himachal Pradesh
+Kangra
+RAJHAUN
+KHANYARA ROAD
+32.2211
+76.32962
+Rock
+Fall
+NA
+7203
+HP/KAN/52D08/2018/74
+Himachal Pradesh
+Kangra
+ 
+INDRUNAG ROAD
+32.22127
+76.33923
+Rock cum debris
+Slide
+NA
+7204
+HP/KAN/52D08/2018/73
+Himachal Pradesh
+Kangra
+DHARAMSHALA EDUCATION BOARD 
+BUILDING
+INDRUNAG ROAD
+32.22135
+76.33962
+Debris
+Slide
+NA
+7205
+HP/KAN/52D08/2018/65
+Himachal Pradesh
+Kangra
+ 
+INDRUNAG ROAD
+32.22172
+76.3395
+Debris
+Slide
+NA
+7206
+HP/KAN/52D08/2018/66
+Himachal Pradesh
+Kangra
+ 
+INDRUNAG ROAD
+32.22178
+76.34007
+Debris
+Subsidence
+NA
+7207
+HP/KAN/52D04/2018/45
+Himachal Pradesh
+Kangra
+ 
+East of Bhali, NH 20
+32.2219
+76.116505
+Debris
+Slide
+NA
+7208
+HP/KAN/52D04/2018/70
+Himachal Pradesh
+Kangra
+ 
+North of Thamba
+32.222086
+76.235258
+Debris
+Slide
+NA
+7209
+HP/KAN/52D08/2018/63
+Himachal Pradesh
+Kangra
+ 
+INDRUNAG ROAD
+32.22248
+76.33828
+Debris
+Slide
+NA
+7210
+HP/KAN/52D08/2018/64
+Himachal Pradesh
+Kangra
+ 
+INDRUNAG ROAD
+32.22261
+76.33749
+Rock cum debris
+Slide
+NA
+7211
+HP/KAN/52D04/2018/47
+Himachal Pradesh
+Kangra
+ 
+Sihuni, NH 20
+32.222617
+76.096977
+Debris
+Slide
+NA
+7212
+HP/KAN/52D04/2018/93
+Himachal Pradesh
+Kangra
+ 
+Tharu R.F
+32.222619
+76.242679
+Debris
+Slide
+NA
+7213
+HP/KAN/52D04/2018/50
+Himachal Pradesh
+Kangra
+ 
+Sihuni
+32.223005
+76.099493
+Debris
+Slide
+NA
+7214
+HP/KAN/52D08/2018/68
+Himachal Pradesh
+Kangra
+ 
+INDRUNAG ROAD
+32.22301
+76.336617
+Debris
+Slide
+NA
+7215
+HP/KAN/52D08/2018/71
+Himachal Pradesh
+Kangra
+ 
+INDRUNAG BANGOTU ROAD
+32.22308
+76.33932
+Debris
+Slide
+NA
+7216
+HP/KAN/52D04/2018/48
+Himachal Pradesh
+Kangra
+Bhalli rock slide
+Bhalli village, NH 20
+32.223283
+76.09414
+Rock
+Slide
+2018
+7217
+HP/KAN/52D08/2018/11
+Himachal Pradesh
+Kangra
+KHAROTA
+INDRUNAG BANGOTU ROAD
+32.2233
+76.33993
+Debris
+Slide
+NA
+7218
+HP/KAN/52D04/2018/46
+Himachal Pradesh
+Kangra
+Bhalli slide
+Bhalli village, NH 20
+32.223305
+76.09764
+Debris
+Slide
+2018
+7219
+HP/KAN/52D04/2018/49
+Himachal Pradesh
+Kangra
+ 
+Sihuri, NH 20
+32.223332
+76.100763
+Debris
+Slide
+NA
+7220
+HP/KAN/52D08/2018/128
+Himachal Pradesh
+Kangra
+ 
+MCLEODGANJ DHARAMSHALA 
+ROAD
+32.22353
+76.32147
+Debris
+Slide
+NA
+7221
+HP/KAN/52D08/2018/136
+Himachal Pradesh
+Kangra
+ 
+MCLEODGANJ ROAD
+32.22363
+76.31663
+Debris
+Slide
+NA
+7222
+HP/KAN/52D08/2018/28
+Himachal Pradesh
+Kangra
+ 
+KANGRA-JWALAJI ROAD
+32.22373
+76.3402
+Debris
+Slide
+NA
+7223
+HP/KAN/52D08/2018/29
+Himachal Pradesh
+Kangra
+ 
+INDRUNAG BANGOTU ROAD
+32.22388
+76.34107
+Debris
+Slide
+NA
+7224
+HP/KAN/52D04/2018/53
+Himachal Pradesh
+Kangra
+ 
+Sihuni
+32.224578
+76.084915
+Rock
+Slide
+NA
+7225
+HP/KAN/52D04/2018/52
+Himachal Pradesh
+Kangra
+ 
+Sihuni, NH 20
+32.224747
+76.089937
+Debris
+Slide
+NA
+7226
+HP/KAN/52D04/2018/129
+Himachal Pradesh
+Kangra
+ 
+Sihuni, SH 23
+32.224908
+76.074522
+Rock
+Slide
+NA
+7227
+HP/KAN/52D08/2018/27
+Himachal Pradesh
+Kangra
+ 
+INDRUNAG BANGOTU ROAD
+32.22505
+76.34125
+Debris
+Slide
+NA
+7228
+HP/KAN/52D04/2018/128
+Himachal Pradesh
+Kangra
+ 
+Sihuni, SH 23
+32.225233
+76.077122
+Rock
+Slide
+NA
+7229
+HP/KAN/52D08/2018/18
+Himachal Pradesh
+Kangra
+ 
+ 
+32.22543
+76.34152
+Debris
+Slide
+NA
+7230
+HP/KAN/52D08/2018/56
+Himachal Pradesh
+Kangra
+ARMY CANTONMENT
+INDRUNAG BANGOTU ROAD
+32.22548
+76.34264
+Rock cum debris
+Slide
+NA
+7231
+HP/KAN/52D08/2018/26
+Himachal Pradesh
+Kangra
+RAJHAUN KHAS
+TIHRI ROAD
+32.22568
+76.34243
+Debris
+Slide
+NA
+7232
+HP/KAN/52D04/2018/31
+Himachal Pradesh
+Kangra
+ 
+Sihuni
+32.225705
+76.087137
+Rock
+Slide
+NA
+7233
+HP/KUL/52H04/2015/1
+Himachal Pradesh
+Kullu
+ 
+Aleo-Naggar
+32.2258
+77.198
+Debris
+Creep
+NA
+7234
+HP/KAN/52D04/2018/98
+Himachal Pradesh
+Kangra
+ 
+Kotla, SH 23
+32.22581
+76.07867
+Rock
+Slide
+NA
+7235
+HP/KAN/52D04/2018/32
+Himachal Pradesh
+Kangra
+ 
+Sihuni
+32.225911
+76.088001
+Rock
+Slide
+NA
+7236
+HP/KAN/52D04/2018/94
+Himachal Pradesh
+Kangra
+ 
+Tharu R.F
+32.225982
+76.244017
+Debris
+Slide
+NA
+7237
+HP/KAN/52D04/2018/33
+Himachal Pradesh
+Kangra
+ 
+Sihuni
+32.226104
+76.088809
+Rock
+Slide
+NA
+7238
+HP/KAN/52D04/2018/35
+Himachal Pradesh
+Kangra
+ 
+Sihuni, NH 20
+32.226347
+76.083865
+Rock
+Slide
+NA
+7239
+HP/KAN/52D08/2018/43
+Himachal Pradesh
+Kangra
+ 
+INDRUNAG ROAD
+32.22662
+76.33603
+Rock cum debris
+Slide
+NA
+7240
+HP/KAN/52D08/2018/49
+Himachal Pradesh
+Kangra
+KHARTI
+INDRUNAG ROAD
+32.22666
+76.33593
+Rock cum debris
+Slide
+NA

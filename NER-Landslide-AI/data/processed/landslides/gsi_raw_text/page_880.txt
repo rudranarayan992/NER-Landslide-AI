@@ -1,0 +1,551 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+35026
+UK/UTT/53J09/2013/0014
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_L14
+NH-108, Laldang slide
+30.7175
+78.3508
+Rock cum Debris
+Slide
+16th-17th June 2013
+35027
+UK/UTT/53J09/2013/0015
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_L15
+NH-108, Bishanpur slide
+30.7175
+78.3508
+Rock cum Debris
+Slide
+16th-17th June 2013
+35028
+UK/UTT/53J09/2013/0016
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_L16
+NH-108, Lata slide
+30.7175
+78.3508
+Debris
+Slide
+16th-17th June 2013
+35029
+UK/UTT/53J09/2013/0017
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_L17
+NH-108, Malla slide
+30.7175
+78.3508
+Debris
+Slide
+16th-17th June 2013
+35030
+UK/UTT/53J09/2013/0018
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_L18
+NH-108, Malla slide-2
+30.7175
+78.3508
+Rock cum Debris
+Slide
+16th-17th June 2013
+35031
+UK/UTT/53J06/2013/0002
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_ L2
+NH-108, Near Dharasu bend-2
+30.7175
+78.3508
+Rock cum Debris
+ 
+16th-17th June 2013
+35032
+UK/UTT/53J06/2013/0003
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_ L3
+NH-108, Singoti slide
+30.7175
+78.3508
+Rock cum Debris
+ 
+16th-17th June 2013
+35033
+UK/UTT/53J06/2013/0004
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_ L4
+NH-108, Raturi Sera slide
+30.7175
+78.3508
+Debris
+ 
+16th-17th June 2013
+35034
+UK/UTT/53J09/2013/0019
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_L19
+NH-108, Malla slide-3
+30.7175
+78.3508
+Debris
+Slide
+16th-17th June 2013
+35035
+UK/UTT/53J09/2013/0020
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_L20
+NH-108, Bhatwari slide
+30.7175
+78.3508
+Rock cum Debris
+Slide
+16th-17th June 2013
+35036
+UK/UTT/53J10/2013/0013
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_L13
+NH-108, Aungi  slide
+30.7175
+78.3508
+Rock cum Debris
+Fall and Slide
+16th-17th June 2013
+35037
+UK/UTT/53J05/2013/0008
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_ L8
+NH-108,Gangori slide
+30.7175
+78.3508
+Debris
+Slide
+16th-17th June 2013
+35038
+UK/UTT/53J05/2013/0009
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_ L9
+NH-108, Ganwan slide
+30.7175
+78.3508
+Debris
+Slide
+16th-17th June 2013
+35039
+UK/UTT/53J05/2013/0010
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_L10
+NH-108,  Ganeshpur slide
+30.7175
+78.3508
+Debris
+Slide
+16th-17th June 2013
+35040
+UK/UTT/53J06/2013/0011
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_L11
+NH-108, Naitala slide
+30.7175
+78.3508
+Rock cum Debris
+Fall and Slide
+16th-17th June 2013
+35041
+UK/UTT/53J10/2013/0012
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_L12
+NH-108, Heena slide
+30.7175
+78.3508
+Debris
+Slide
+16th-17th June 2013
+35042
+UK/UTT/53J06/2013/0005
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_ L5
+NH-108, Bandarkot Village
+30.7175
+78.3508
+Rock cum Debris
+ 
+16th-17th June 2013
+35043
+UK/UTT/53J06/2013/0006
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_ L6
+NH-108, Badhethi Chungi slide
+30.7175
+78.3508
+Rock cum Debris
+Slide
+16th-17th June 2013
+35044
+UK/UTT/53J05/2013/0007
+Uttarakhand
+Uttarkashi
+UK_UTT_NH108_ L7
+NH-108,Tekhla slide
+30.7175
+78.3508
+Debris
+ 
+16th-17th June 2013
+35045
+UK/UTT/53J10/2015/169
+Uttarakhand
+Uttarkashi
+ 
+ 
+30.719083
+78.500222
+Debris
+Slide
+NA
+35046
+UK/UTT/53J10/2015/170
+Uttarakhand
+Uttarkashi
+ 
+ 
+30.721028
+78.502417
+Rock
+Slide
+NA
+35047
+UK/UTT/53J06/2015/878
+Uttarakhand
+Uttarkashi
+ 
+L/b of river Bhagirathi
+30.728333
+78.42
+Debris
+Fall
+2013
+35048
+UK/UTT/53J06/2015/880
+Uttarakhand
+Uttarkashi
+ 
+L/b of river Bhagirathi
+30.728333
+78.42
+Debris
+Fall
+2013
+35049
+UK/DEH/53F14/2015/429
+Uttarakhand
+Dehradun
+ 
+Kundiya Chak - Korwa
+30.729002
+77.847277
+Debris
+Slide
+NA
+35050
+UK/UTT/53J06/2015/879
+Uttarakhand
+Uttarkashi
+ 
+L/b of river Bhagirathi
+30.729167
+78.405556
+Debris
+Fall
+2013
+35051
+UK/RUD/53N02/2015/545
+Uttarakhand
+Rudraprayag
+ 
+Kedarnath base camp
+30.730742
+79.071194
+Debris
+Flow
+2013
+35052
+UK/RUD/53N02/2015/544
+Uttarakhand
+Rudraprayag
+ 
+NH-109
+30.732167
+79.07025
+Debris
+Flow
+2013
+35053
+UK/TEH/53J02/2015/1963
+Uttarakhand
+Uttarkashi
+ 
+Maldeota-Phulet road
+30.732243
+78.138684
+Rock cum Debris
+Slide
+NA
+35054
+UK/UTT/53J10/2015/171
+Uttarakhand
+Uttarkashi
+ 
+ 
+30.733556
+78.504167
+Debris
+Slide
+NA
+35055
+UK/DEH/53J02/2015/1929
+Uttarakhand
+Dehradun
+ 
+Barnigad-Garhsar road
+30.735284
+78.012765
+Rock
+Slide
+NA
+35056
+UK/DEH/53F14/2015/431
+Uttarakhand
+Dehradun
+ 
+Pokhra - Chakrata- Korwa
+30.735291
+77.984619
+Debris
+Slide
+NA
+35057
+UK/UTT/53J10/2015/175
+Uttarakhand
+Uttarkashi
+ 
+ 
+30.736528
+78.517833
+Debris
+Slide
+NA
+35058
+UK/UTT/53J06/2015/877
+Uttarakhand
+Uttarkashi
+ 
+L/b of river Bhagirathi
+30.738889
+78.456944
+Debris
+Fall
+2010
+35059
+UK/UTT/53J10/2015/173
+Uttarakhand
+Uttarkashi
+ 
+ 
+30.739639
+78.534361
+Debris
+Slide
+NA
+35060
+UK/UTT/53J06/2015/882
+Uttarakhand
+Uttarkashi
+ 
+Rishikesh-Gangotri road
+30.739722
+78.355556
+Debris
+Fall
+2010
+35061
+UK/UTT/53J10/2015/174
+Uttarakhand
+Uttarkashi
+ 
+ 
+30.740056
+78.525111
+Debris
+Slide
+NA
+35062
+UK/UTT/53J10/2015/177
+Uttarakhand
+Uttarkashi
+ 
+ 
+30.740444
+78.573833
+Debris
+Slide
+NA
+35063
+UK/UTT/53J10/2015/176
+Uttarakhand
+Uttarkashi
+ 
+ 
+30.741889
+78.591333
+Debris
+Slide
+NA
+35064
+UK/UTT/53J06/2015/875
+Uttarakhand
+Uttarkashi
+ 
+Rishikesh-Gangotri road
+30.742473
+78.493235
+Rock cum Debris
+Slide
+2006
+35065
+UK/UTT/53J06/2015/876
+Uttarakhand
+Uttarkashi
+ 
+Rishikesh-Gangotri road
+30.7425
+78.485278
+Debris
+Composite
+2010
+35066
+UK/UTT/53J06/2015/881
+Uttarakhand
+Uttarkashi
+ 
+Rishikesh-Gangotri road
+30.7425
+78.361944
+Debris
+Fall
+2013
+35067
+UK/UTT/53J10/2015/172
+Uttarakhand
+Uttarkashi
+ 
+ 
+30.748833
+78.551583
+Debris
+Slide
+NA
+35068
+UK/UTT/53J06/2015/918
+Uttarakhand
+Uttarkashi
+ 
+Rishikesh-Gangotri NH-108
+30.748889
+78.452056
+Rock
+Slide
+NA
+35069
+UK/UTT/53J05/2015/1916
+Uttarakhand
+Uttarkashi
+ 
+ 
+30.750556
+78.407083
+Rock
+Slide
+NA
+35070
+UK/UTT/53J05/2015/1874
+Uttarakhand
+Uttarkashi
+ 
+Rishikesh-Gangotri NH-108
+30.751276
+78.333127
+Debris
+Slide
+NA
+35071
+UK/UTT/53J05/2015/1804
+Uttarakhand
+Uttarkashi
+ 
+Rishikesh-Gangotri NH-94
+30.751503
+78.272441
+Rock
+Slide
+NA
+35072
+UK/UTT/53J05/2015/1867
+Uttarakhand
+Uttarkashi
+ 
+ 
+30.752059
+78.432813
+Debris
+Slide
+NA
+35073
+UK/UTT/53J05/2015/1858
+Uttarakhand
+Uttarkashi
+ 
+ 
+30.752222
+78.460278
+Rock
+Slide
+NA
+35074
+UK/UTT/53J01/2015/1388
+Uttarakhand
+Uttarkashi
+ 
+Yamunotri road
+30.752631
+78.092346
+Rock
+Slide
+NA

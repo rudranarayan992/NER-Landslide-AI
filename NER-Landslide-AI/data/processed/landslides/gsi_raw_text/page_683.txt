@@ -1,0 +1,370 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27062
+TN/ANN/58F11/2016/16
+Tamil Nadu
+Dindigul
+ 
+Road from Kodaikanal  to 
+Genguvarpatti
+10.252306
+77.522833
+Earth
+Slide
+NA
+27063
+TN/ANN/58F11/2016/15
+Tamil Nadu
+Dindigul
+ 
+Road from Kodaikanal  to 
+Genguvarpatti near 
+Perumalmalai
+10.253611
+77.524139
+Debris
+Slide
+NA
+27064
+TN/ANN/58F11/2016/14
+Tamil Nadu
+Dindigul
+ 
+Road from Kodaikanal  to 
+Genguvarpatti
+10.254028
+77.5245
+Debris
+Slide
+NA
+27065
+TN/ANN/58F11/2016/13
+Tamil Nadu
+Dindigul
+ 
+Road from  Kodaikanal  to 
+Genguvarpatti near 
+Perumalmalai
+10.255056
+77.528611
+Debris
+Slide
+NA
+27066
+TN/DIN/58F07/2017/41
+Tamil Nadu
+Dindigul
+ 
+Kodaikanal
+10.255194
+77.483361
+Debris
+Slide
+NA
+27067
+TN/COI/58F07/2017/30
+Tamil Nadu
+Coimbatore
+ 
+Kilanavayol  village
+10.256417
+77.332389
+Soil cum debris
+Slide
+NA
+27068
+TN/ANN/58F11/2016/12
+Tamil Nadu
+Dindigul
+ 
+Road from  Kodaikanal  to 
+Genguvarpatti near 
+Perumalmalai
+10.256639
+77.531139
+Rock cum Debris
+Fall
+NA
+27069
+TN/ANN/58F11/2016/11
+Tamil Nadu
+Dindigul
+ 
+Road from  Perumalmalai  to 
+Kodaikanal
+10.257556
+77.531556
+Earth
+Slide
+NA
+27070
+TN/DIN/58F07/2017/13
+Tamil Nadu
+Dindigul
+ 
+Nayudupuram to Vilpatti Road
+10.257667
+77.491278
+Soil cum debris
+Fall
+NA
+27071
+TN/DIN/58F07/2017/23
+Tamil Nadu
+Dindigul
+ 
+Mannavanoor to Kukkal Road
+10.257889
+77.373028
+Soil
+Slide
+NA
+27072
+TN/DIN/58F07/2017/14
+Tamil Nadu
+Dindigul
+ 
+Nayudupuram to Vilpatti Road
+10.257944
+77.492139
+Soil cum debris
+Slide
+NA
+27073
+TN/DIN/58F07/2017/42
+Tamil Nadu
+Dindigul
+ 
+Kodaikanal
+10.258028
+77.491778
+Debris
+Slide
+NA
+27074
+TN/COI/58F07/2017/31
+Tamil Nadu
+Coimbatore
+ 
+Kilanavayol  village
+10.258056
+77.3315
+Soil cum debris
+Slide
+NA
+27075
+TN/DIN/58F07/2017/15
+Tamil Nadu
+Dindigul
+ 
+Nayudupuram to Vilpatti Road
+10.25925
+77.492361
+Soil cum debris
+Fall
+NA
+27076
+TN/DIN/58F07/2017/44
+Tamil Nadu
+Dindigul
+ 
+Kodaikanal vilpatti road
+10.259694
+77.492667
+Debris
+Slide
+NA
+27077
+TN/DIN/58F03/2017/147
+Tamil Nadu
+Dindigul
+ 
+Kodaikanal
+10.260194
+77.405333
+Debris
+Slide
+NA
+27078
+TN/ANN/58F11/2016/10
+Tamil Nadu
+Dindigul
+ 
+Road from  Perumalmalai  to 
+Kodaikanal
+10.260222
+77.535278
+Earth
+Slide
+NA
+27079
+TN/ANN/58F12/2016/10
+Tamil Nadu
+Dindigul
+ 
+Along the road from Perumal 
+Malai to Adukkam
+10.260444
+77.554889
+Earth
+Slide
+NA
+27080
+TN/COI/58B15/2017/71
+Tamil Nadu
+Coimbatore
+ 
+Annaimudi Tea Estate
+10.2612
+76.9346
+Debris
+Slide
+NA
+27081
+TN/ANN/58F12/2016/8
+Tamil Nadu
+Dindigul
+ 
+Along the road from Perumal 
+Malai to Adukkam
+10.261444
+77.552639
+Debris
+Slide
+NA
+27082
+TN/DIN/58F07/2017/16
+Tamil Nadu
+Dindigul
+ 
+Vilpatti Road
+10.261444
+77.493444
+Soil cum debris
+Slide
+NA
+27083
+TN/ANN/58F12/2016/9
+Tamil Nadu
+Dindigul
+ 
+Along the road from Perumal 
+Malai to Adukkam
+10.261667
+77.554083
+Earth
+Slide
+NA
+27084
+TN/ANN/58F11/2016/9
+Tamil Nadu
+Dindigul
+ 
+Road from  Perumalmalai  to 
+Genguvarpatti
+10.262583
+77.537194
+Earth
+Slide
+NA
+27085
+TN/ANN/58F12/2016/7
+Tamil Nadu
+Dindigul
+ 
+Along the road from Perumal 
+Malai to Adukkam
+10.262667
+77.547083
+Earth
+Slide
+NA
+27086
+TN/DIN/58F07/2017/2
+Tamil Nadu
+Dindigul
+ 
+Pumparai to Kukkal road
+10.263667
+77.404222
+Debris
+Fall
+NA
+27087
+TN/DIN/58F07/2017/17
+Tamil Nadu
+Dindigul
+ 
+Vilpatti
+10.263833
+77.494028
+Soil cum debris
+Slide
+NA
+27088
+TN/ANN/58F11/2016/18
+Tamil Nadu
+Dindigul
+ 
+Road from Perumal Malai to 
+Palani
+10.264333
+77.535667
+Debris
+Slide
+NA
+27089
+TN/DIN/58F07/2017/43
+Tamil Nadu
+Dindigul
+ 
+Kodaikanal vilpatti road
+10.264361
+77.493889
+Debris
+Slide
+NA
+27090
+TN/DIN/58F07/2017/38
+Tamil Nadu
+Dindigul
+ 
+Vilpatti road Bifurcation
+10.265444
+77.493889
+Debris
+Slide
+NA
+27091
+TN/DIN/58F07/2017/18
+Tamil Nadu
+Dindigul
+ 
+Vilpatti bifurcation to Pallangi
+10.265639
+77.494028
+Debris
+Slide
+NA
+27092
+TN/ANN/58F11/2016/19
+Tamil Nadu
+Dindigul
+ 
+Road from Perumal Malai to 
+Palani
+10.266472
+77.534917
+Earth
+Slide
+NA

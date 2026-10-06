@@ -1,0 +1,563 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+8198
+HP/CHA/52D02/2020/8
+Himachal Pradesh
+Chamba
+ 
+Sangodi
+32.72
+76.1
+Rock
+Slide
+NA
+8199
+HP/CHA/52D02/2020/9
+Himachal Pradesh
+Chamba
+ 
+Sangodi
+32.72
+76.1
+Debris
+Slide
+2009
+8200
+HP/CHA/52D02/2020/12
+Himachal Pradesh
+Chamba
+ 
+Shali
+32.72
+76.08
+Rock
+Slide
+NA
+8201
+HP/CHA/52D02/2020/14
+Himachal Pradesh
+Chamba
+ 
+Shali
+32.72
+76.07
+Rock
+Slide
+NA
+8202
+HP/CHA/52D02/2020/15
+Himachal Pradesh
+Chamba
+ 
+Bhadoh
+32.72
+76.11
+Rock
+Slide
+NA
+8203
+HP/CHA/52D02/2020/57
+Himachal Pradesh
+Chamba
+ 
+Saluni
+32.72
+76.06
+Rock
+Slide
+NA
+8204
+HP/CHA/52D02/2020/59
+Himachal Pradesh
+Chamba
+ 
+Biana
+32.72
+76.07
+Debris
+Slide
+NA
+8205
+HP/CHA/52D06/2020/10
+Himachal Pradesh
+Chamba
+ 
+Near Pariarka village
+32.72
+76.29
+Rock
+Slide
+NA
+8206
+HP/CHA/52D06/2020/15
+Himachal Pradesh
+Chamba
+ 
+Jhakla village
+32.72
+76.28
+Debris
+Slide
+NA
+8207
+HP/CHA/43P14/2017/44
+Himachal Pradesh
+Chamba
+ 
+ 
+32.727672
+75.960062
+Rock cum debris
+Slide
+NA
+8208
+HP/CHA/43P14/2017/24
+Himachal Pradesh
+Chamba
+ 
+ 
+32.728633
+75.95987
+Rock cum debris
+Slide
+NA
+8209
+HP/CHA/52D06/2020/13
+Himachal Pradesh
+Chamba
+ 
+Upslope of pariarka village
+32.73
+76.29
+Debris
+Slide
+NA
+8210
+HP/CHA/52D06/2020/14
+Himachal Pradesh
+Chamba
+ 
+Near Jhakla village
+32.73
+76.26
+Debris
+Slide
+NA
+8211
+HP/CHA/52D06/2020/22
+Himachal Pradesh
+Chamba
+ 
+Upslope of Dehra
+32.73
+76.3
+Rock
+Slide
+NA
+8212
+HP/CHA/52D06/2020/23
+Himachal Pradesh
+Chamba
+ 
+Near Khalli village
+32.73
+76.25
+Debris
+Slide
+NA
+8213
+HP/CHA/52D06/2020/32
+Himachal Pradesh
+Chamba
+ 
+Near Khalli village
+32.73
+76.26
+Rock
+Slide
+NA
+8214
+HP/CHA/43P14/2017/55
+Himachal Pradesh
+Chamba
+ 
+ 
+32.732059
+75.930659
+Rock cum debris
+Slide
+NA
+8215
+HP/CHA/43P14/2017/38
+Himachal Pradesh
+Chamba
+ 
+ 
+32.732546
+75.928798
+Rock cum debris
+Slide
+NA
+8216
+HP/CHA/43P14/2017/48
+Himachal Pradesh
+Chamba
+ 
+ 
+32.734949
+75.930799
+Rock cum debris
+Slide
+NA
+8217
+HP/CHA/43P14/2017/25
+Himachal Pradesh
+Chamba
+ 
+ 
+32.735001
+75.93851
+Rock cum debris
+Slide
+NA
+8218
+HP/CHA/43P14/2017/33
+Himachal Pradesh
+Chamba
+ 
+ 
+32.735454
+75.93971
+Rock cum debris
+Slide
+NA
+8219
+HP/CHA/43P14/2017/34
+Himachal Pradesh
+Chamba
+ 
+ 
+32.736315
+75.953336
+Rock cum debris
+Slide
+NA
+8220
+HP/CHA/43P14/2017/35
+Himachal Pradesh
+Chamba
+ 
+ 
+32.738637
+75.929507
+Rock cum debris
+Slide
+NA
+8221
+HP/CHA/43P14/2017/37
+Himachal Pradesh
+Chamba
+ 
+ 
+32.739394
+75.929887
+Rock cum debris
+Slide
+NA
+8222
+HP/CHA/52D02/2020/29
+Himachal Pradesh
+Chamba
+ 
+Kyani, near Kalhel Nala
+32.74
+76.12
+Rock
+Fall
+NA
+8223
+HP/CHA/52D02/2020/30
+Himachal Pradesh
+Chamba
+ 
+Kyani,SH-33
+32.74
+76.12
+Rock
+Slide
+NA
+8224
+HP/LAH/52D06/2020/35
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Right bank of chenab river
+32.74
+76.49
+Rock
+Fall
+NA
+8225
+HP/LAH/52D06/2020/37
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Udaipur to Tindi link road
+32.74
+76.49
+Rock
+Slide
+NA
+8226
+HP/LAH/52D06/2020/38
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Right bank of Chenab river
+32.74
+76.48
+Rock
+Slide
+NA
+8227
+HP/LAH/52D06/2020/39
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Right bank of Chenab river
+32.74
+76.47
+Rock
+Slide
+NA
+8228
+HP/LAH/52D06/2020/43
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Udaipur to Tindi road
+32.74
+76.49
+Rock
+Slide
+NA
+8229
+HP/CHA/43P14/2017/53
+Himachal Pradesh
+Chamba
+ 
+ 
+32.747628
+75.952134
+Rock cum debris
+Slide
+NA
+8230
+HP/CHA/52D01/2020/55
+Himachal Pradesh
+Chamba
+ 
+Bagai nala
+32.75
+76.24
+Debris
+Slide
+NA
+8231
+HP/CHA/52D02/2020/31
+Himachal Pradesh
+Chamba
+ 
+Seri P.F
+32.75
+76.13
+Rock
+Slide
+NA
+8232
+HP/CHA/52D02/2020/104
+Himachal Pradesh
+Chamba
+ 
+Seri P.F
+32.75
+76.13
+Rock
+Slide
+NA
+8233
+HP/LAH/52D06/2020/36
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Udaipur to Tindi link road
+32.75
+76.48
+Rock
+Fall
+NA
+8234
+HP/LAH/52D06/2020/40
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Udaipur to Tindi link road
+32.75
+76.47
+Rock
+Fall
+NA
+8235
+HP/LAH/52D06/2020/41
+Himachal Pradesh
+Lahaul & Spiti
+ 
+Tindi village
+32.75
+76.46
+Debris
+Slide
+NA
+8236
+HP/CHA/52D01/2020/40
+Himachal Pradesh
+Chamba
+Naredh rock slide
+Naredh Village,  Nakrol-Gheya 
+link road
+32.76
+76.22
+Rock
+Slide
+2002
+8237
+HP/CHA/52D01/2020/52
+Himachal Pradesh
+Chamba
+ 
+Nagali P.F
+32.76
+76.14
+Rock
+Slide
+NA
+8238
+HP/CHA/43P13/2017/83
+Himachal Pradesh
+Chamba
+ 
+ 
+32.764634
+75.990502
+Debris
+Slide
+NA
+8239
+HP/CHA/52D01/2020/31
+Himachal Pradesh
+Chamba
+ 
+Ser
+32.77
+76.15
+Debris
+Slide
+NA
+8240
+HP/CHA/52D01/2020/56
+Himachal Pradesh
+Chamba
+ 
+Chataga
+32.77
+76.17
+Rock
+Slide
+NA
+8241
+HP/CHA/52D01/2020/57
+Himachal Pradesh
+Chamba
+ 
+Gadhera
+32.77
+76.18
+Debris
+Slide
+NA
+8242
+HP/CHA/52D01/2020/72
+Himachal Pradesh
+Chamba
+ 
+Airias P.F near Chanju nala
+32.77
+76.17
+Debris
+Slide
+NA
+8243
+HP/CHA/52D01/2020/78
+Himachal Pradesh
+Chamba
+ 
+Manki
+32.77
+76.15
+Rock
+Slide
+NA
+8244
+HP/CHA/52D01/2020/79
+Himachal Pradesh
+Chamba
+ 
+Chataga
+32.77
+76.17
+Rock
+Slide
+NA
+8245
+HP/CHA/52D01/2020/85
+Himachal Pradesh
+Chamba
+ 
+Chataga
+32.77
+76.17
+Rock
+Slide
+NA
+8246
+HP/CHA/52D01/2020/38
+Himachal Pradesh
+Chamba
+ 
+Chatuga
+32.78
+76.18
+Debris
+Slide
+NA
+8247
+HP/CHA/52D01/2020/39
+Himachal Pradesh
+Chamba
+ 
+Tikrigarh
+32.78
+76.19
+Debris
+Slide
+NA

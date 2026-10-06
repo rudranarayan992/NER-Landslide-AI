@@ -1,0 +1,471 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+4564
+HP/SHI/53E04/2017/53
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.211806
+77.128472
+Debris
+Slide
+NA
+4565
+HP/SHI/53E16/2016/132
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANSIL GHATITIKRI-
+DODRA KWAR ROAD
+31.2125
+77.9966
+Debris
+Slide
+NA
+4566
+HP/SHI/53E08/2016/62
+Himachal Pradesh
+Shimla
+ 
+1km from Matiyana towards 
+Narkanda, NH-22
+31.212559
+77.406349
+Rock cum debris
+Slide
+NA
+4567
+HP/SHI/53E16/2016/16
+Himachal Pradesh
+Shimla
+ 
+NEAR BIJORI
+31.2126
+77.7723
+Debris
+Slide
+NA
+4568
+HP/SHI/53E16/2016/162
+Himachal Pradesh
+Shimla
+ 
+ROHRU-CHIRGAONNH-72
+31.2129
+77.7897
+Earth
+Slide
+NA
+4569
+HP/SHI/53E16/2016/161
+Himachal Pradesh
+Shimla
+ 
+ROHRU-CHIRGAONNH-72
+31.2132
+77.7926
+Debris
+Slide
+NA
+4570
+HP/SHI/53E16/2016/147
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANSIL GHATITIKRI-
+DODRA KWAR ROAD
+31.2133
+77.9814
+Debris
+Slide
+NA
+4571
+HP/SHI/53E16/2016/201
+Himachal Pradesh
+Shimla
+ 
+ROHRU-CHIRGAONNH-72
+31.2133
+77.7929
+Rock
+Slide
+NA
+4572
+HP/SHI/53E16/2016/137
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANSIL GHATITIKRI-
+DODRA KWAR ROAD
+31.2135
+77.9807
+Debris
+Slide
+NA
+4573
+HP/SHI/53E04/2017/55
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.213556
+77.122222
+Rock
+Slide
+NA
+4574
+HP/SHI/53E16/2016/140
+Himachal Pradesh
+Shimla
+ 
+NEAR CHANSIL GHATITIKRI-
+DODRA KWAR ROAD
+31.2136
+77.98
+Debris
+Slide
+NA
+4575
+HP/SOL/53A16/2017/105
+Himachal Pradesh
+Solan
+ 
+MALEN
+31.213722
+76.835222
+Rock
+Slide
+NA
+4576
+HP/SHI/53E04/2017/84
+Himachal Pradesh
+Shimla
+ 
+KADARGHAT
+31.213917
+77.197
+Debris
+Slide
+NA
+4577
+HP/SHI/53E04/2017/54
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.213944
+77.124917
+Rock
+Slide
+NA
+4578
+HP/SHI/53E16/2016/202
+Himachal Pradesh
+Shimla
+ 
+ROHRU-CHIRGAONNH-72
+31.2143
+77.7957
+Rock
+Slide
+NA
+4579
+HP/SHI/53E16/2016/180
+Himachal Pradesh
+Shimla
+ 
+NEAR KASHDHARNH-72-
+KASHDHAR LINK ROAD
+31.2145
+77.8728
+Debris
+Slide
+NA
+4580
+HP/SHI/53E04/2017/99
+Himachal Pradesh
+Shimla
+ 
+NH 88
+31.2145
+77.1515
+Rock
+Slide
+NA
+4581
+HP/BIL/53A16/2017/39
+Himachal Pradesh
+Bilaspur
+ 
+BAHADURPUR
+31.214583
+76.963083
+Debris
+Slide
+NA
+4582
+HP/SHI/53E08/2016/38
+Himachal Pradesh
+Shimla
+ 
+Upslope of Kiara PWD road
+31.214821
+77.374748
+Rock cum debris
+Slide
+NA
+4583
+HP/SOL/53A12/2017/60
+Himachal Pradesh
+Solan
+ 
+NH 21
+31.214833
+76.715722
+Rock
+Slide
+NA
+4584
+HP/SOL/53A12/2017/34
+Himachal Pradesh
+Solan
+ 
+NH 21A
+31.214833
+76.715722
+Debris
+Slide
+NA
+4585
+HP/SHI/53E08/2016/7
+Himachal Pradesh
+Shimla
+ 
+Narainti PWD road
+31.215439
+77.384125
+Rock cum debris
+Slide
+NA
+4586
+HP/SHI/53E08/2016/31
+Himachal Pradesh
+Shimla
+ 
+Narainti PWD road
+31.215439
+77.384125
+Rock
+Subsidence
+NA
+4587
+HP/SHI/53E04/2017/97
+Himachal Pradesh
+Shimla
+ 
+SH 13
+31.2155
+77.16125
+Rock
+Slide
+NA
+4588
+HP/SHI/53E16/2016/93
+Himachal Pradesh
+Shimla
+ 
+SAMOLI-CHIRGAON NH-72
+31.2157
+77.7785
+Earth
+Slide
+NA
+4589
+HP/SHI/53E08/2016/39
+Himachal Pradesh
+Shimla
+ 
+Kuinal villageBharana link road
+31.216143
+77.365433
+Rock cum debris
+Slide
+NA
+4590
+HP/SHI/53E08/2016/46
+Himachal Pradesh
+Shimla
+ 
+Kathal Link road
+31.21616
+77.357826
+Rock cum debris
+Slide
+NA
+4591
+HP/SHI/53E08/2016/55
+Himachal Pradesh
+Shimla
+ 
+Batlog Bharana link road
+31.216203
+77.371254
+Rock cum debris
+Slide
+NA
+4592
+HP/SOL/53A12/2017/56
+Himachal Pradesh
+Solan
+ 
+NH 21
+31.216306
+76.728167
+Rock
+Slide
+NA
+4593
+HP/SOL/53A12/2017/13
+Himachal Pradesh
+Solan
+ 
+BAHN
+31.216306
+76.728167
+Debris
+Slide
+NA
+4594
+HP/SHI/53E04/2017/83
+Himachal Pradesh
+Shimla
+ 
+KADARGHAT
+31.217
+77.2074
+Debris
+Slide
+NA
+4595
+HP/SHI/53E04/2017/81
+Himachal Pradesh
+Shimla
+ 
+KADARGHAT
+31.217111
+77.208944
+Debris
+Slide
+NA
+4596
+HP/SHI/53E16/2016/166
+Himachal Pradesh
+Shimla
+ 
+BIJORI-KOTARA ROADBIJORI-
+KOTARA ROAD
+31.2172
+77.7821
+Debris
+Slide
+NA
+4597
+HP/SHI/53E16/2016/205
+Himachal Pradesh
+Shimla
+ 
+NEAR BADIYARABADIYARA 
+ROAD
+31.2173
+77.8306
+Rock
+Fall
+NA
+4598
+HP/SHI/53E16/2016/207
+Himachal Pradesh
+Shimla
+ 
+NEAR MASLINH-72
+31.2173
+77.8501
+Debris
+Slide
+NA
+4599
+HP/SOL/53A16/2017/38
+Himachal Pradesh
+Solan
+ 
+NH 88
+31.217306
+76.9615
+Rock
+Slide
+NA
+4600
+HP/SOL/53A16/2017/37
+Himachal Pradesh
+Solan
+ 
+NH 88
+31.217556
+76.960611
+Debris
+Slide
+NA
+4601
+HP/SHI/53E16/2016/7
+Himachal Pradesh
+Shimla
+ 
+ROHRU-CHIRGAONNH-72
+31.2176
+77.8362
+Rock
+Fall
+NA
+4602
+HP/SOL/53A12/2017/59
+Himachal Pradesh
+Solan
+ 
+NH 21
+31.217722
+76.723611
+Rock
+Slide
+NA
+4603
+HP/SOL/53A12/2017/33
+Himachal Pradesh
+Solan
+ 
+NH 21A,BAWARAN
+31.217722
+76.723611
+Debris
+Slide
+NA
+4604
+HP/SHI/53E16/2016/199
+Himachal Pradesh
+Shimla
+ 
+ROHRU-CHIRGAONNH-72
+31.2178
+77.8135
+Rock
+Slide
+NA

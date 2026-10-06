@@ -1,0 +1,563 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+34735
+UK/THE/53J10/2015/67
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.588528
+78.64725
+Rock
+Slide
+NA
+34736
+UK/THE/53J10/2015/99
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.588611
+78.682083
+Rock
+Slide
+NA
+34737
+UK/THE/53J10/2015/66
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.588689
+78.645417
+Rock
+Slide
+NA
+34738
+UK/DEH/53F14/2015/446
+Uttarakhand
+Dehradun
+ 
+Saini - Chakrata- Korwa
+30.588739
+77.877553
+Debris
+Slide
+NA
+34739
+UK/CHA/53N03/2013/0002
+Uttarakhand
+Chamoli
+UK_CHA_NH_ 002 (Kamera slide)
+3 km downstream of Gaucher 
+township.
+30.5895
+79.968889
+Rock cum Debris
+Slide
+2013
+34740
+UK/TEH/53J14/2015/213
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.5895
+78.823361
+Debris
+Slide
+NA
+34741
+UK/THE/53J10/2015/6
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.589639
+78.620889
+Rock
+Slide
+2015
+34742
+UK/RUD/53N02/2015/557
+Uttarakhand
+Rudraprayag
+ 
+NH-109
+30.58972
+79.030427
+Rock
+Slide
+2013
+34743
+UK/THE/53J10/2015/57
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.590333
+78.678111
+Debris
+Slide
+NA
+34744
+UK/THE/53J10/2015/4
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.590472
+78.620278
+Rock
+Slide
+2015
+34745
+UK/THE/53J10/2015/3
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.590556
+78.619472
+Rock
+Slide
+2015
+34746
+UK/THE/53J10/2015/5
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.590556
+78.620972
+Debris
+Slide
+2015
+34747
+UK/THE/53J10/2015/84
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.590611
+78.646778
+Rock
+Slide
+NA
+34748
+UK/TEH/53J14/2015/216
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.590694
+78.82325
+Debris
+Slide
+NA
+34749
+UK/DEH/53F14/2015/477
+Uttarakhand
+Dehradun
+ 
+Koti- Kalsi
+30.590869
+77.750666
+Debris
+Slide
+NA
+34750
+UK/THE/53J10/2015/56
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.590889
+78.681389
+Debris
+Slide
+NA
+34751
+UK/THE/53J10/2015/58
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.591
+78.676333
+Rock
+Slide
+2010
+34752
+UK/THE/53J10/2015/85
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.591667
+78.646833
+Rock
+Slide
+NA
+34753
+UK/THE/53J10/2015/81
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.591806
+78.641806
+Rock
+Slide
+2012
+34754
+UK/RUD/53N02/2015/589
+Uttarakhand
+Rudraprayag
+ 
+ 
+30.591829
+79.143327
+Debris
+Slide
+NA
+34755
+UK/THE/53J10/2015/26
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.591861
+78.617056
+Debris
+Slide
+NA
+34756
+UK/DEH/53F14/2015/495
+Uttarakhand
+Dehradun
+ 
+Singhori -Byasi-Kalsi
+30.592054
+77.89029
+Debris
+Slide
+NA
+34757
+UK/DEH/53J02/2015/1922
+Uttarakhand
+Dehradun
+ 
+Koisi-Nainbag road
+30.592263
+78.006828
+Rock cum Debris
+Slide
+NA
+34758
+UK/TEH/53J14/2015/215
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.592583
+78.821817
+Debris
+Slide
+NA
+34759
+UK/THE/53J10/2015/83
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.592583
+78.646889
+Debris
+Slide
+2013
+34760
+UK/THE/53J10/2015/38
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.592667
+78.679889
+Debris
+Slide
+NA
+34761
+UK/TEH/53J14/2015/214
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.592847
+78.825706
+Debris
+Slide
+NA
+34762
+UK/DEH/53F14/2015/476
+Uttarakhand
+Dehradun
+ 
+Koti- Kalsi
+30.593017
+77.764961
+Debris
+Slide
+NA
+34763
+UK/THE/53J10/2015/82
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.593417
+78.643472
+Debris
+Slide
+2012
+34764
+UK/THE/53J10/2015/97
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.593611
+78.691278
+Debris
+Slide
+NA
+34765
+UK/THE/53J10/2015/25
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.593611
+78.613417
+Debris
+Slide
+NA
+34766
+UK/TEH/53J02/2015/1960
+Uttarakhand
+Tehri Garhwal
+ 
+Nainbag-Damta road
+30.593616
+78.022341
+Rock
+Slide
+NA
+34767
+UK/THE/53J10/2015/98
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.593831
+78.689708
+Rock
+Slide
+NA
+34768
+UK/THE/53J10/2015/1
+Uttarakhand
+Tehri Garhwal
+ 
+Ghuttu-Niwalgaon
+30.593833
+78.613528
+Debris
+Slide
+2015
+34769
+UK/THE/53J10/2015/2
+Uttarakhand
+Tehri Garhwal
+ 
+Niwalgaon-Marwari
+30.593917
+78.613444
+Rock
+Slide
+2015
+34770
+UK/TEH/53J02/2015/1935
+Uttarakhand
+Tehri Garhwal
+ 
+Nainbag-Miyani road
+30.593952
+78.063307
+Rock
+Slide
+NA
+34771
+UK/THE/53J10/2015/34
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.594056
+78.685333
+Rock
+Slide
+NA
+34772
+UK/THE/53J10/2015/21
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.594083
+78.614167
+Debris
+Slide
+NA
+34773
+UK/TEH/53J02/2015/1936
+Uttarakhand
+Tehri Garhwal
+ 
+Nainbag-Miyani road
+30.594167
+78.045611
+Rock
+Slide
+NA
+34774
+UK/THE/53J10/2015/24
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.594444
+78.613833
+Debris
+Flow
+NA
+34775
+UK/THE/53J10/2015/35
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.5945
+78.685222
+Debris
+Slide
+NA
+34776
+UK/THE/53J10/2015/96
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.594583
+78.693028
+Debris
+Slide
+NA
+34777
+UK/THE/53J10/2015/55
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.594667
+78.683333
+Debris
+Slide
+NA
+34778
+UK/THE/53J10/2015/95
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.594722
+78.693222
+Debris
+Slide
+NA
+34779
+UK/THE/53J10/2015/36
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.594833
+78.685
+Debris
+Slide
+NA
+34780
+UK/THE/53J10/2015/39
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.594861
+78.683028
+Debris
+Slide
+NA
+34781
+UK/THE/53J10/2015/22
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.594944
+78.614583
+Rock
+Slide
+NA
+34782
+UK/TEH/53J14/2015/264
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.59505
+78.83175
+Debris
+Slide
+2013
+34783
+UK/THE/53J10/2015/33
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.595167
+78.689167
+Debris
+Slide
+NA
+34784
+UK/THE/53J10/2015/49
+Uttarakhand
+Tehri Garhwal
+ 
+ 
+30.595333
+78.672139
+Debris
+Slide
+NA

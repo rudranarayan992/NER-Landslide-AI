@@ -1,0 +1,414 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21164
+MIZO/LUN/84B09/2005/E-12
+Mizoram
+Lunglei
+Hawruang-6 slide
+ 
+22.88392
+92.74256
+Rock
+Fall
+NA
+21165
+MZ/LUN/84B09/2018/14
+Mizoram
+Lunglei
+ 
+5km N of Luangmual
+22.883968
+92.735397
+Debris
+Slide
+NA
+21166
+MIZO/LUN/84B09/2005/E-11
+Mizoram
+Lunglei
+Hawruang-5 slide
+ 
+22.88408
+92.72978
+Rock
+Fall
+NA
+21167
+MZ/LUN/84B09/2018/15
+Mizoram
+Lunglei
+ 
+4.9km N of Luangmual
+22.884092
+92.736252
+Debris
+Slide
+NA
+21168
+MZ/LUN/84B13/2018/78
+Mizoram
+Lunglei
+ 
+15.5 Km S from Leite
+22.8846
+92.85128
+Rock
+Slide
+NA
+21169
+MZ/LUN/84B09/2018/16
+Mizoram
+Lunglei
+ 
+about 5km SW of Vanhe Jn.
+22.886652
+92.724503
+Debris
+Slide
+NA
+21170
+MZ/LUN/84B13/2018/79
+Mizoram
+Lunglei
+ 
+12km S of Zobawk
+22.887474
+92.836769
+Rock
+Slide
+NA
+21171
+MZ/LUN/84B13/2018/80
+Mizoram
+Lunglei
+ 
+0.5km from Matbawk
+22.889551
+92.728073
+Debris
+Slide
+NA
+21172
+MZ/LUN/84B13/2018/81
+Mizoram
+Lunglei
+ 
+Leite-E Rotlang
+22.889872
+92.903984
+Rock
+Slide
+NA
+21173
+MZ/LUN/84B05/2020/28
+Mizoram
+Lunglei
+North of Bindasora village slide 2
+North of Bindasora village
+22.89
+92.46
+Debris
+Slide
+2019
+21174
+MZ/LUN/84B05/2020/34
+Mizoram
+Lunglei
+Muriskata village slide 2
+Muriskata village, Tlabung on 
+Karnaphuli River bank
+22.89
+92.47
+Rock
+Slide
+2018
+21175
+MZ/LUN/84B05/2020/38
+Mizoram
+Lunglei
+Tlabung -Tiperghat road section slide 
+5
+SH - Tlabung - Tiperghat road
+22.89
+92.48
+Debris
+Slide
+2017
+21176
+MZ/LUN/84B05/2020/39
+Mizoram
+Lunglei
+SE of Tlabung slide 3
+4 km SE Tlabung on SH - 
+Tlabung - Tiperghat road.
+22.89
+92.48
+Debris
+Slide
+2017
+21177
+MZ/LUN/84B05/2020/40
+Mizoram
+Lunglei
+Tlabung -Tiperghat road section slide 
+3
+SH- Tlabung -Tiperghat road
+22.89
+92.48
+Debris
+Slide
+2018
+21178
+MZ/LUN/84B05/2020/41
+Mizoram
+Lunglei
+Tlabung -Tiperghat road section slide 
+4
+SH- Tlabung -Tiperghat road
+22.89
+92.49
+Debris
+Slide
+2017
+21179
+MZ/LUN/84B13/2018/82
+Mizoram
+Lunglei
+ 
+1.5km S of Dawn Village
+22.890068
+92.823021
+Rock
+Slide
+NA
+21180
+MIZO/LUN/84B13/2005/E-18
+Mizoram
+Lunglei
+Lunglei-6 slide
+ 
+22.89061
+92.73033
+Debris
+Slide
+NA
+21181
+MZ/LUN/84B13/2018/83
+Mizoram
+Lunglei
+ 
+Darzo-Tuipui D (Hnathail 20Km 
+stone)
+22.891706
+92.950081
+Rock
+Fall
+NA
+21182
+MZ/LUN/84B13/2018/84
+Mizoram
+Lunglei
+ 
+S of Dawn
+22.892199
+92.822884
+Debris
+Slide
+NA
+21183
+MZ/LUN/84B13/2018/85
+Mizoram
+Lunglei
+ 
+Darzo-Tuipui D
+22.892977
+92.947433
+Debris
+Slide
+NA
+21184
+MZ/LUN/84B13/2018/86
+Mizoram
+Lunglei
+ 
+Darzo-Tuipui D
+22.893372
+92.946724
+Debris
+Slide
+NA
+21185
+MZ/LUN/84B13/2018/87
+Mizoram
+Lunglei
+ 
+500m N of New Dawn
+22.89682
+92.832611
+Rock
+Fall
+NA
+21186
+MZ/LUN/84B09/2018/17
+Mizoram
+Lunglei
+ 
+Tuichawng-Siphirtlang road
+22.897339
+92.549866
+Rock
+Slide
+NA
+21187
+MZ/LUN/84B13/2018/88
+Mizoram
+Lunglei
+ 
+Leite-Maudarh
+22.897387
+92.889938
+Debris
+Slide
+NA
+21188
+MZ/LUN/84B13/2018/89
+Mizoram
+Lunglei
+ 
+Tuipui D
+22.897877
+92.934364
+Debris
+Slide
+NA
+21189
+MZ/LUN/84B13/2018/90
+Mizoram
+Lunglei
+ 
+Leite-Maudarh
+22.898329
+92.893478
+Debris
+Slide
+NA
+21190
+MZ/LUN/84B13/2018/92
+Mizoram
+Lunglei
+ 
+2.5km from Matbawk
+22.899078
+92.721306
+Rock
+Slide
+NA
+21191
+MZ/LUN/84B13/2018/91
+Mizoram
+Lunglei
+ 
+About 1km E of Tuipui along 
+Darzo-Tuipui
+22.899151
+92.935677
+Debris
+Slide
+NA
+21192
+MZ/LUN/84B13/2018/93
+Mizoram
+Lunglei
+ 
+12.5 Km S of Leite near Bridge
+22.899906
+92.868828
+Rock
+Fall
+NA
+21193
+MZ/LUN/84B05/2020/12
+Mizoram
+Lunglei
+Public Higher Secondary School slide
+Near Public Higher Secondary 
+School,Tlabung
+22.9
+92.47
+Debris
+Slide
+2017
+21194
+MZ/LUN/84B05/2020/18
+Mizoram
+Lunglei
+SE of Chawnpui Veng slide 4
+2 km SE of Chawnpui Veng on 
+Tlabung - Lunglei Road
+22.9
+92.49
+Debris
+Slide
+2019
+21195
+MZ/LUN/84B05/2020/19
+Mizoram
+Lunglei
+South of Chawnpui Veng slide 1
+1 Km south of Chawnpui veng 
+on PMGSY  Tlabung - Chawlung 
+Road.
+22.9
+92.49
+Debris
+Slide
+2017
+21196
+MZ/LUN/84B05/2020/20
+Mizoram
+Lunglei
+South of Chawnpui Veng slide 2
+South of Chawnpui Veng on 
+PMGSY Tlabung - Chawlung 
+road
+22.9
+92.49
+Debris
+Slide
+2018
+21197
+MZ/LUN/84B05/2020/21
+Mizoram
+Lunglei
+SE of Chawnpui veng slide
+1 Km SE of Chawnpui veng on 
+PMGSY Tlabung - Chawlung 
+road
+22.9
+92.49
+Debris
+Slide
+2019
+21198
+MZ/LUN/84B05/2020/22
+Mizoram
+Lunglei
+SE of Chawnpui veng  slide 1
+1.2 Km SE of Chawnpui veng on 
+PMGSY Tlabung - Chawlung 
+road
+22.9
+92.49
+Debris
+Slide
+2018

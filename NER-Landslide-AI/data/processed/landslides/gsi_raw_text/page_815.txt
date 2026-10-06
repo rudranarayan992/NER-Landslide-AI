@@ -1,0 +1,521 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+32143
+UK/PAU/53O01/2017/92
+Uttarakhand
+Pauri Garhwal
+ 
+MatelaJogmari road
+29.906639
+79.032722
+Rock
+Slide
+2012
+32144
+UK/BAG/53O13/2015/288
+Uttarakhand
+Bageshwar
+ 
+ 
+29.906706
+79.813945
+Rock
+Fall
+NA
+32145
+UK/PAU/53K13/2016/44
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.906812
+78.830182
+Rock
+Slide
+NA
+32146
+UK/PAU/53K13/2016/36
+Uttarakhand
+Pauri Garhwal
+ 
+Road Gadai to Kiad
+29.906896
+78.765509
+Rock
+Slide
+NA
+32147
+UK/PAU/53K13/2016/37
+Uttarakhand
+Pauri Garhwal
+ 
+Road Gadai to Kiad
+29.906918
+78.763643
+Rock
+Slide
+NA
+32148
+UK/PAU/53K13/2016/46
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Sanglakoti
+29.906995
+78.827942
+Rock
+Slide
+NA
+32149
+UK/BAG/62C01/2013/0094
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_94
+ 
+29.907019
+80.142056
+Debris
+Slide
+16th-17th June 2013
+32150
+UK/PAU/53K13/2016/38
+Uttarakhand
+Pauri Garhwal
+ 
+Road Gadai to Kiad
+29.907042
+78.760336
+Rock
+Slide
+NA
+32151
+UK/PAU/53K13/2016/47
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Sanglakoti
+29.907145
+78.822693
+Debris
+Slide
+NA
+32152
+UK/BAG/62C01/2015/420
+Uttarakhand
+Bageshwar
+ 
+ 
+29.907198
+80.140281
+Rock
+Slide
+NA
+32153
+UK/PAU/53K09/2016/156
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.907242
+78.71279
+Rock
+Fall
+NA
+32154
+UK/BAG/62C01/2015/419
+Uttarakhand
+Bageshwar
+ 
+ 
+29.907355
+80.138828
+Rock
+Fall
+NA
+32155
+UK/BAG/62C01/2013/0093
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_93
+ 
+29.907472
+80.138639
+Debris
+Slide
+16th-17th June 2013
+32156
+UK/PAU/53K13/2016/45
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Sanglakoti
+29.907595
+78.828351
+Rock
+Slide
+NA
+32157
+UK/BAG/62C01/2013/0098
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_98
+Dwari village
+29.907611
+80.031778
+Rock
+Slide
+16th-17th June 2013
+32158
+UK/BAG/62C01/2013/0092
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_92
+Along the road section 
+downslope of Kismila-Machhera 
+village
+29.907639
+80.133333
+Debris
+Slide
+16th-17th June 2013
+32159
+UK/BAG/62C01/2015/418
+Uttarakhand
+Bageshwar
+ 
+ 
+29.907742
+80.132416
+Rock
+Fall
+NA
+32160
+UK/BAG/53O13/2015/355
+Uttarakhand
+Bageshwar
+ 
+ 
+29.907917
+79.941694
+Rock cum Debris
+Slide
+NA
+32161
+UK/PAU/53O01/2017/71
+Uttarakhand
+Pauri Garhwal
+ 
+Thanga Bichla
+29.908345
+79.016021
+Rock
+Slide
+2012
+32162
+UK/PAU/53K13/2016/158
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.908378
+78.814331
+Rock
+Slide
+NA
+32163
+UK/PAU/53K13/2016/160
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.908426
+78.785802
+Rock
+Slide
+NA
+32164
+UK/BAG/62C01/2013/0091
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_91
+Near Kheti village
+29.908611
+80.130389
+Rock cum Debris
+Flow
+16th-17th June 2013
+32165
+UK/PAU/53K13/2016/83
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Nauli
+29.908612
+78.813795
+Rock
+Slide
+NA
+32166
+UK/PAU/53K09/2016/17
+Uttarakhand
+Pauri Garhwal
+Satpuli
+ 
+29.908631
+78.713455
+Rock
+Slide
+NA
+32167
+UK/BAG/53O13/2015/287
+Uttarakhand
+Bageshwar
+ 
+ 
+29.909028
+79.819461
+Rock cum Debris
+Slide
+NA
+32168
+UK/BAG/53O09/2018/4
+Uttarakhand
+Bageshwar
+Aana
+Aana-Baijnath
+29.909042
+79.59222
+Debris
+Slide
+2017
+32169
+UK/HAR/53K1/2016/6
+Uttarakhand
+Haridwar
+ 
+ 
+29.909234
+78.18456
+Rock
+Slide
+NA
+32170
+UK/BAG/62C01/2013/0090
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_90
+Kheti Slides along the left bank. 29.909417
+80.128194
+Rock cum Debris
+Slide
+16th-17th June 2013
+32171
+UK/BAG/62C01/2015/421
+Uttarakhand
+Bageshwar
+ 
+ 
+29.909697
+80.159628
+Rock
+Slide
+NA
+32172
+UK/BAG/62C01/2015/422
+Uttarakhand
+Bageshwar
+ 
+ 
+29.909697
+80.159628
+Rock
+Slide
+NA
+32173
+UK/PAU/53K09/2016/153
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.909702
+78.635017
+Rock
+Slide
+NA
+32174
+UK/BAG/62C01/2013/0089
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_89
+SSE of Bhalori and SW of Kheti 
+villages.
+29.910083
+80.126111
+Rock cum Debris
+Slide
+16th-17th June 2013
+32175
+UK/PAU/53K13/2016/30
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.910203
+78.810171
+Rock
+Slide
+NA
+32176
+UK/PAU/53K13/2016/162
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.910246
+78.790721
+Rock
+Slide
+NA
+32177
+UK/PAU/53K13/2016/161
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.910667
+78.788084
+Rock
+Slide
+NA
+32178
+UK/BAG/53O13/2013/0065
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_65
+Harsila on right bank of the 
+Saryu River
+29.910917
+79.819917
+Earth
+Slide
+16th-17th June 2013
+32179
+UK/HAR/53K1/2016/5
+Uttarakhand
+Haridwar
+ 
+ 
+29.911128
+78.190271
+Debris
+Slide
+NA
+32180
+UK/PAU/53K13/2016/97
+Uttarakhand
+Pauri Garhwal
+ 
+Road to Sanglakoti
+29.911575
+78.81113
+Rock
+Slide
+NA
+32181
+UK/ALM/53O05/2017/52
+Uttarakhand
+Almora
+ 
+Bhatwari
+29.911727
+79.28194
+Debris
+Slide
+2016
+32182
+UK/ALM/53O05/2017/1
+Uttarakhand
+Almora
+ 
+Ramganga Nadi
+29.911727
+79.417462
+Debris
+Slide
+2006
+32183
+UK/PAU/53K13/2016/28
+Uttarakhand
+Pauri Garhwal
+ 
+ 
+29.911808
+78.810917
+Rock
+Slide
+NA
+32184
+UK/BAG/53O13/2013/0064
+Uttarakhand
+Bageshwar
+UK_BAG_PMGSY_64
+Right bank of Kanal Gad
+29.911889
+79.809278
+Rock
+Fall
+16th-17th June 2013
+32185
+UK/ALM/53O05/2017/2
+Uttarakhand
+Almora
+ 
+Ramganga Nadi
+29.911984
+79.417765
+Debris
+Slide
+2006
+32186
+UK/PAU/53O01/2017/70
+Uttarakhand
+Pauri Garhwal
+ 
+BaijroChokhalBungidhar Marg
+29.912203
+79.034292
+Rock
+Slide
+2011
+32187
+UK/BAG/53O13/2015/402
+Uttarakhand
+Bageshwar
+ 
+ 
+29.912545
+79.811848
+Debris
+Slide
+NA
+32188
+UK/ALM/53O05/2017/50
+Uttarakhand
+Almora
+ 
+ThanigaonMarbukhal road
+29.912832
+79.326544
+Debris
+Flow
+2014

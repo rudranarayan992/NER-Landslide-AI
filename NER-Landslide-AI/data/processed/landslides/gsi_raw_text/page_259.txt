@@ -1,0 +1,413 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11226
+JK/RIA/43K16/2023/46
+Jammu & Kashmir (UT)
+Reasi
+-
+Riasi - Jyotipuram
+33.137828
+74.829517
+Rock
+Slide
+NA
+11227
+JK/UDH/43O08/2023/47
+Jammu & Kashmir (UT)
+Udhampur
+Rengi
+Chaneni - Sudhmahadev road
+33.033333
+75.342314
+Debris
+Slide
+NA
+11228
+JK/UDH/43O08/2023/48
+Jammu & Kashmir (UT)
+Udhampur
+Rengi
+Chaneni - Sudhmahadev road
+33.035306
+75.334661
+Debris
+Slide
+NA
+11229
+JK/RAM/43O03/2022/49
+Jammu & Kashmir (UT)
+Ramban
+Khooni Nala
+Ramban – Banihal National 
+Highway 44
+33.31551944
+75.1926
+Rock
+Slide
+20 May 2022 at 22:34 hrs
+11230
+JK/POO/43K/05/2022/50
+Jammu & Kashmir (UT)
+Poonch
+Mandi
+Poonch - Mandi
+33.791611
+74.249274
+Debris
+Flow
+19 June 2022 at 15:30 hrs
+11231
+JK/POO/43K/05/2022/51
+Jammu & Kashmir (UT)
+Poonch
+Loran
+Poonch - Mandi
+33.851953
+74.309375
+Debris
+Flow
+19 June 2022 at 10:30 hrs
+11232
+JK/ANA/43N12/2022/52
+Jammu & Kashmir (UT)
+Anantnag
+Shri Amarnath Ji
+Shri Amarnath Ji Holy Cave
+34.217219
+75.504553
+Debris
+Flow
+28 July 2021, 8 July 2022
+11233
+JK/UDH/43O04/2023/53
+Jammu & Kashmir (UT)
+Udhampur
+Udhampur - Pancheri
+Pancheri 1
+33.045499
+75.143663
+Rock
+Slide
+NA
+11234
+JK/UDH/43O04/2023/54
+Jammu & Kashmir (UT)
+Udhampur
+Pancheri-2
+Udhampur - Pancheri
+33.048076
+75.147624
+Rock
+Slide
+NA
+11235
+JK/UDH/43O04/2023/55
+Jammu & Kashmir (UT)
+Udhampur
+Pancheri-3
+Udhampur - Pancheri
+33.052361
+75.157342
+Debris
+Slide
+NA
+11236
+JK/UDH/43O04/2023/56
+Jammu & Kashmir (UT)
+Udhampur
+Saddal-1
+Udhampur - Saddal
+33.043636
+75.132647
+Rock
+Planar failure
+NA
+11237
+JK/UDH/43O04/2023/57
+Jammu & Kashmir (UT)
+Udhampur
+Saddal-2
+Udhampur - Saddal
+33.04397722
+75.132435
+Debris
+Slide
+NA
+11238
+JK/UDH/43O04/2023/58
+Jammu & Kashmir (UT)
+Udhampur
+Saddal-3
+Udhampur – Saddal road
+33.047834
+75.091833
+Debris
+Slide
+NA
+11239
+JK/RAM/43O04/2023/59
+Jammu & Kashmir (UT)
+Ramban
+Dharamkot
+Ramban – Sangaldhan road
+33.244161
+75.137818
+Debris
+Slide
+NA
+11240
+JK/RAM/43O03/2023/60
+Jammu & Kashmir (UT)
+Ramban
+Dharamkot
+Ramban – Sangaldhan road
+33.26243167
+75.021815
+Debris
+Slide
+NA
+11241
+JK/RAM/43O03/2023/61
+Jammu & Kashmir (UT)
+Ramban
+Dharamkot
+Ramban – Sangaldhan road
+33.263131
+75.03454
+Debris
+Slide
+NA
+11242
+JK/RAM/43O03/2023/62
+Jammu & Kashmir (UT)
+Ramban
+Dharamkot
+Ramban – Sangaldhan road
+33.262338
+75.034164
+Debris
+Slide
+NA
+11243
+JK/RAM/43O03/2023/63
+Jammu & Kashmir (UT)
+Ramban
+Dharamkot
+Ramban – Sangaldhan road
+33.261297
+75.03375
+Debris
+Slide
+NA
+11244
+JK/RAM/43O04/2023/64
+Jammu & Kashmir (UT)
+Ramban
+Sangaldhan
+Ramban – Sangaldhan road
+33.24575
+75.077501
+Debris
+Creep
+NA
+11245
+JK/DOD/43O16/2023/65
+Jammu & Kashmir (UT)
+Doda
+Nai Basti
+Batote – Kishtwar National 
+Highway (NH-244)
+33.145872
+75.784294
+Rock and overburden 
+material
+Rock slide at 
+road level and 
+debris slide in 
+the upper level.
+1988, 1 February 2023
+11246
+JK/RAM/43O03/2023/66
+Jammu & Kashmir (UT)
+Ramban
+Duksar Dalwa
+Gref road connecting Sangaldan 
+and Gool
+33.260278
+75.035556
+Rock and overburden 
+material
+Mainly Debris 
+slide with small 
+chutes of 
+rockslide
+NA
+11247
+JK/RAM/43O04/2023/67
+Jammu & Kashmir (UT)
+Ramban
+Cafeteria Morh landslide
+NH-44
+33.235541
+75.245127
+Rock
+Fall (Shooting 
+stones)
+2022
+11248
+JK/RAM/43O08/2023/68
+Jammu & Kashmir (UT)
+Ramban
+Nashri
+Udhampur – Ramban road
+32.13841389
+75.30015
+Debris
+Slide
+NA
+11249
+JK/RAM/43O08/2023/69
+Jammu & Kashmir (UT)
+Ramban
+Nashri
+Udhampur – Ramban road
+33.136936
+75.299293
+Debris
+Slide
+NA
+11250
+JK/POO/43K6/2023/01
+Jammu & Kashmir (UT)
+Poonch
+Ratta Chamb
+Mughal Road
+33.64691667
+74.50822222
+Rock cum debris
+Slide
+NA
+11251
+JK/RAM/43O8/2023/02
+Jammu & Kashmir (UT)
+Ramban
+Dolwas
+NH-44
+33.15375
+75.306858
+Debris
+Flow
+6 July 2024
+11252
+JK/RAM/43O3/2023/03
+Jammu & Kashmir (UT)
+Ramban
+Panthyal
+NH-44 (Jammu-Srinagar)
+33.321434
+75.198012
+Rock
+Fall
+2010
+11253
+JK/KAT/43P9/2023/04
+Jammu & Kashmir (UT)
+Kathua
+Bhoond
+Basholi- Bani Road
+32.611194
+75.821472
+Debris
+Slide
+1998, 19 July 2023 at 17:30 hrs.
+11254
+JK/KAT/43P9/2023/05
+Jammu & Kashmir (UT)
+Kathua
+Arvard- ward no. 3, Tehsil Bani
+Local road, Bani- Balzedi Road 
+section
+32.693347
+75.783772
+Debris
+Slide
+19 July 2023
+11255
+JK/KAT/43P9/2023/06
+Jammu & Kashmir (UT)
+Kathua
+Arvard- ward no. 3, Tehsil Bani
+Local road, Bani-Balzedi Road 
+section
+32.693695
+75.783462
+Rock
+Slide
+NA
+11256
+JK/KAT/43P9/2023/07
+Jammu & Kashmir (UT)
+Kathua
+Bani
+Basholi- Bani Road
+32.704972
+75.809583
+Debris
+Slide
+18 July 2023
+11257
+JK/RAM/43O3/2023/08
+Jammu & Kashmir (UT)
+Ramban
+Chamalwas
+NH-44
+33.365063
+75.183576
+Rock
+Slide
+21 September 2023
+11258
+JK/UDH/43O4/2023/09
+Jammu & Kashmir (UT)
+Udhampur
+Kainthgali subsidence/soil creep
+Kainthgali along Udhampur to 
+Panchari Road
+33.043789
+75.141506
+Debris
+Slide/subsidenc
+e
+NA
+11259
+JK/RAM/43O3/2023/10
+Jammu & Kashmir (UT)
+Ramban
+Shalgad Nala slide. (Chamlawas)
+National Highway-44
+33.388583
+75.201361
+Rock
+Rock slide
+17 October 2023
+11260
+JK/RAM/43O3/2023/11
+Jammu & Kashmir (UT)
+Ramban
+Sher Bibi Slide
+National Highway-44
+33.394778
+75.197583
+Rock
+Rock flow
+NA

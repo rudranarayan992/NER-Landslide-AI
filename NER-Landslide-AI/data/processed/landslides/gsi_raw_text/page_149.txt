@@ -1,0 +1,552 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+6208
+HP/MAN/53A13/2015/253
+Himachal Pradesh
+Mandi
+ 
+Katindi
+31.757229
+76.971166
+Rock
+Slide
+NA
+6209
+HP/MAN/53A13/2015/255
+Himachal Pradesh
+Mandi
+ 
+Katindi
+31.757975
+76.971681
+Rock
+Fall
+NA
+6210
+HP/HAM/53A09/2018/20
+Himachal Pradesh
+Hamirpur
+ 
+SH-05
+31.758
+76.727833
+Rock
+Slide
+NA
+6211
+HP/MAN/53A13/2015/254
+Himachal Pradesh
+Mandi
+ 
+Katindi
+31.758261
+76.972231
+Rock
+Fall
+NA
+6212
+HP/MAN/53A13/2015/273
+Himachal Pradesh
+Mandi
+ 
+Dhanara
+31.759119
+76.934537
+Debris
+Slide
+NA
+6213
+HP/HAM/53A09/2018/21
+Himachal Pradesh
+Hamirpur
+ 
+SH 04
+31.759139
+76.747167
+Debris
+Slide
+NA
+6214
+HP/HAM/53A09/2018/22
+Himachal Pradesh
+Hamirpur
+ 
+SH 04
+31.759194
+76.746972
+Debris
+Slide
+NA
+6215
+HP/HAM/53A09/2018/23
+Himachal Pradesh
+Hamirpur
+ 
+SUJANPUR - KHAIRA ROAD
+31.759222
+76.728361
+Rock cum debris
+Slide
+NA
+6216
+HP/MAN/53A13/2015/256
+Himachal Pradesh
+Mandi
+ 
+Katindi
+31.759274
+76.973743
+Rock
+Slide
+NA
+6217
+HP/MAN/53A13/2015/274
+Himachal Pradesh
+Mandi
+ 
+Dhanara
+31.760431
+76.92871
+Rock
+Slide
+NA
+6218
+HP/MAN/53A13/2015/257
+Himachal Pradesh
+Mandi
+ 
+Katindi
+31.760498
+76.974511
+Rock
+Slide
+NA
+6219
+HP/MAN/53A13/2015/242
+Himachal Pradesh
+Mandi
+ 
+Mattha Neol,NH 20
+31.760618
+76.946371
+Debris
+Slide
+NA
+6220
+HP/MAN/53A13/2015/258
+Himachal Pradesh
+Mandi
+ 
+Katindi
+31.76074
+76.974272
+Rock
+Slide
+NA
+6221
+HP/MAN/53A13/2015/44
+Himachal Pradesh
+Mandi
+ 
+Katindi
+31.761626
+76.974504
+Rock
+Slide
+NA
+6222
+HP/MAN/53A13/2015/275
+Himachal Pradesh
+Mandi
+ 
+Bhaled
+31.762153
+76.928814
+Rock
+Slide
+NA
+6223
+HP/MAN/53A13/2015/18
+Himachal Pradesh
+Mandi
+ 
+North of Dhaniara,NH 70
+31.76229
+76.859331
+Rock
+Slide
+NA
+6224
+HP/HAM/53A09/2018/24
+Himachal Pradesh
+Hamirpur
+ 
+NH-70
+31.762528
+76.734139
+Rock cum debris
+Slide
+NA
+6225
+HP/HAM/53A09/2018/25
+Himachal Pradesh
+Hamirpur
+ 
+SH-05
+31.762528
+76.735417
+Rock cum debris
+Slide
+NA
+6226
+HP/MAN/53A13/2015/19
+Himachal Pradesh
+Mandi
+ 
+South of Neal,NH 20,milestone 
+198
+31.762539
+76.946019
+Rock
+Slide
+NA
+6227
+HP/HAM/53A09/2018/26
+Himachal Pradesh
+Hamirpur
+ 
+SUJANPUR - KHAIRA ROAD
+31.762611
+76.736472
+Rock cum debris
+Slide
+NA
+6228
+HP/HAM/53A09/2018/27
+Himachal Pradesh
+Hamirpur
+ 
+SUJANPUR - KHAIRA ROAD
+31.762861
+76.737333
+Rock cum debris
+Slide
+NA
+6229
+HP/MAN/53A13/2015/20
+Himachal Pradesh
+Mandi
+ 
+Palaut,NH 20
+31.763238
+76.948632
+Rock
+Slide
+NA
+6230
+HP/HAM/53A09/2018/28
+Himachal Pradesh
+Hamirpur
+ 
+SUJANPUR - KHAIRA ROAD
+31.763278
+76.738389
+Rock cum debris
+Slide
+NA
+6231
+HP/MAN/53A13/2015/240
+Himachal Pradesh
+Mandi
+ 
+South of Palaut,NH 20
+31.763831
+76.948828
+Rock
+Slide
+NA
+6232
+HP/MAN/53A13/2015/241
+Himachal Pradesh
+Mandi
+ 
+South of Palaut,NH 20
+31.763848
+76.949044
+Rock
+Slide
+NA
+6233
+HP/MAN/53A13/2015/137
+Himachal Pradesh
+Mandi
+ 
+East of Kamla Dev,NH 70
+31.764087
+76.857922
+Rock
+Slide
+NA
+6234
+HP/HAM/53A05/2018/58
+Himachal Pradesh
+Hamirpur
+ 
+NADAUN-SUJANPUR ROAD
+31.76415
+76.3827
+Debris
+Slide
+NA
+6235
+HP/MAN/53A13/2015/278
+Himachal Pradesh
+Mandi
+ 
+Hyun P.F
+31.76419
+76.87531
+Rock
+Slide
+NA
+6236
+HP/HAM/53A05/2018/59
+Himachal Pradesh
+Hamirpur
+ 
+NADAUN-SUJANPUR ROAD
+31.76433
+76.38332
+Debris
+Slide
+NA
+6237
+HP/MAN/53A13/2015/43
+Himachal Pradesh
+Mandi
+ 
+Katindi
+31.764695
+76.975389
+Rock
+Slide
+NA
+6238
+HP/MAN/53A13/2015/42
+Himachal Pradesh
+Mandi
+ 
+Katindi
+31.765058
+76.975146
+Rock
+Slide
+NA
+6239
+HP/HAM/53A05/2018/60
+Himachal Pradesh
+Hamirpur
+ 
+ 
+31.76506
+76.38434
+Rock cum debris
+Slide
+NA
+6240
+HP/KAN/53A01/2018/35
+Himachal Pradesh
+Kangra
+ 
+Kaloha, NH 70
+31.76548
+76.22247
+Rock cum debris
+Slide
+NA
+6241
+HP/MAN/53A13/2015/140
+Himachal Pradesh
+Mandi
+ 
+Neal,NH 20
+31.76618
+76.942201
+Rock
+Slide
+NA
+6242
+HP/KAN/53A05/2018/51
+Himachal Pradesh
+Kangra
+ 
+ 
+31.76628
+76.31015
+Debris
+Slide
+NA
+6243
+HP/MAN/53A13/2015/139
+Himachal Pradesh
+Mandi
+ 
+Neal,NH 20,below power line
+31.766298
+76.941712
+Rock
+Slide
+NA
+6244
+HP/MAN/53A13/2015/269
+Himachal Pradesh
+Mandi
+ 
+Katindi
+31.766514
+76.974069
+Rock
+Slide
+NA
+6245
+HP/MAN/53A13/2015/138
+Himachal Pradesh
+Mandi
+ 
+Near Ropru,NH 70
+31.767487
+76.845422
+Rock cum debris
+Slide
+NA
+6246
+HP/MAN/53A13/2015/268
+Himachal Pradesh
+Mandi
+ 
+South of Kamand
+31.767924
+76.974757
+Rock
+Slide
+NA
+6247
+HP/KAN/53A01/2018/34
+Himachal Pradesh
+Kangra
+ 
+Kaloha, NH 70
+31.768258
+76.223122
+Debris
+Slide
+NA
+6248
+HP/MAN/53A13/2015/267
+Himachal Pradesh
+Mandi
+ 
+Kamand
+31.770193
+76.976144
+Rock
+Slide
+NA
+6249
+HP/MAN/53E01/2015/13
+Himachal Pradesh
+Mandi
+ 
+ 
+31.770444
+77.174167
+Rock cum debris
+Slide
+NA
+6250
+HP/HAM/53A5/2018/44
+Himachal Pradesh
+Hamirpur
+ 
+RANGUS ROAD
+31.771056
+76.341714
+Rock cum debris
+Slide
+NA
+6251
+HP/MAN/53A13/2015/266
+Himachal Pradesh
+Mandi
+ 
+Kamand
+31.771136
+76.978518
+Debris
+Slide
+2014
+6252
+HP/KUL/53E01/2015/15
+Himachal Pradesh
+Kullu
+ 
+ 
+31.7715
+77.18
+Rock cum debris
+Slide
+NA
+6253
+HP/MAN/53A13/2015/252
+Himachal Pradesh
+Mandi
+ 
+Matrer
+31.772
+76.951
+Debris
+Slide
+NA
+6254
+HP/MAN/53A13/2015/265
+Himachal Pradesh
+Mandi
+ 
+Kamand
+31.77203
+76.979781
+Rock
+Slide
+NA
+6255
+HP/MAN/53A13/2015/279
+Himachal Pradesh
+Mandi
+ 
+SW of Dhar
+31.77233
+76.89217
+Debris
+Slide
+NA
+6256
+HP/KAN/53A05/2018/62
+Himachal Pradesh
+Kangra
+DHARAMKOT
+ 
+31.77308
+76.44298
+Debris
+Slide
+NA

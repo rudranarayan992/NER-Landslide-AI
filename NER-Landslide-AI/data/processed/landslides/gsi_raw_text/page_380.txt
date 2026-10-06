@@ -1,0 +1,378 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15692
+KRL/MP/58A/07/19/32
+Kerala
+Malappuram
+Vazhikadavu slide_4
+Vazhikadavu to  Cuddalore road 11.42485
+76.38247
+Soil cum debris
+slide
+15th August 2018
+15693
+KRL/MP/58A/07/19/33
+Kerala
+Malappuram
+Vazhikadavu slide_5
+Vazhikadavu to  Guddalore road 11.42485
+76.38247
+Soil cum debris
+slide
+15th August 2018
+15694
+KRL/MP/58A/07/19/34
+Kerala
+Malappuram
+Vazhikadavu slide_6
+Vazhikadavu to  Cuddalore road 11.42293
+76.38277
+Soil cum debris
+slide
+15th August 2018
+15695
+KRL/MP/58A/07/19/35
+Kerala
+Malappuram
+Munderi slide_1
+Munderi
+11.4507
+76.26667
+Soil
+slide
+15th August 2018
+15696
+KRL/MP/58A/07/19/36
+Kerala
+Malappuram
+Munderi slide_2
+Munderi
+11.4534
+76.28154
+Rock 
+slide
+15th August 2018
+15697
+KRL/KKD/58A/3/2019/37
+Kerala
+Malappuram
+Kumbalapara slide_1
+Kumbalapara
+11.46581
+76.22296
+Debris.
+slide
+15th August 2018
+15698
+KRL/MP/58A/08/19/38
+Kerala
+Malappuram
+Pullangode Rubber estate slide
+Pullangode
+11.20819
+76.32187
+Debris.
+Flow
+15th August 2018
+15699
+KRL/MP/58A/08/19/39
+Kerala
+Malappuram
+Kerala Estate slide_1
+Kalkundu
+11.13272
+76.36924
+River bank erosion
+Erosion
+15th August 2018
+15700
+KRL/KKD/58A/08/19/40
+Kerala
+Malappuram
+Kalkundu slide_1
+Kalkundu
+11.13371
+76.37339
+River bank erosion
+Erosion
+15th August 2018
+15701
+KRL/MP/58A/08/19/41
+Kerala
+Malappuram
+Kerala estate slide_2
+Kerala kundu
+11.12718
+76.39171
+Debris.
+Flow
+15th August 2018
+15702
+KRL/MP/58A/08/19/42
+Kerala
+Malappuram
+Kerala estate slide_2
+Kerala kundu
+11.12718
+76.39178
+Debris.
+Flow
+15th August 2018
+15703
+KRL/MP/58A/08/19/43
+Kerala
+Malappuram
+Chery slide_2
+Karauvarangadu
+11.11541
+76.36941
+Debris.
+Flow
+15th August 2018
+15704
+KRL/MP/58A/08/19/44
+Kerala
+Malappuram
+Chery slide_3
+Karauvarangadu
+11.11745
+76.3711
+Debris.
+Flow
+15th August 2018
+15705
+KRL/MP/58A/08/19/45
+Kerala
+Malappuram
+Chery slide_4
+Karauvarangadu
+11.11827
+76.37232
+Debris.
+Flow
+15th August 2018
+15706
+KRL/MP/58A/08/19/46
+Kerala
+Malappuram
+Kakkara Estate slide
+Karauvarangadu
+11.10757
+76.35521
+Soil cum debris
+Slide
+15th August 2018
+15707
+KER/IDK/58G01/2018/01
+Kerala
+Idukki
+Upputhodu
+Upputhodu-Prakash-Kattapana 
+road
+9.88
+77.004
+Debris
+Flow
+17th August, 2018 (09.30 pm)
+15708
+KER/IDK/58G01/2018/02
+Kerala
+Idukki
+Upputhodu-Chittadikavala
+Karimban-Upputhodu Road
+9.874
+77.004
+Debris
+Flow
+15th August 2018 (04:30pm)
+15709
+KER/IDK/58G01/2018/03
+Kerala
+Idukki
+Chittadikkavala
+Upputhodu-Karikkinmedu Road 9.875786
+77.007949
+Debris
+Slide
+12th & 15th August 2018
+15710
+KER/IDK/58G01/2018/04
+Kerala
+Idukki
+Chittadikkavala 1
+Upputhodu-Karikkinmedu Road 9.874508
+77.008653
+Debris
+Slide
+August, 2018
+15711
+KER/IDK/58G01/2018/05
+Kerala
+Idukki
+Rationkadapadi-Karikkinmedu
+Rationkadapadi-Karikkinmedu 
+Road
+9.877491
+77.011606
+Debris
+Flow
+14th August 2018
+15712
+KER/IDK/58G01/2018/06
+Kerala
+Idukki
+Parakkadavu
+Parakkadavu-Rajamudy Road
+9.88237
+77.018017
+Debris
+Slide
+17th August 2018
+15713
+KER/IDK/58G01/2018/07
+Kerala
+Idukki
+Rajamudy
+Rajamudy-Karimban Road
+9.887115
+77.016697
+Debris
+Flow
+17th August 2018
+15714
+KER/IDK/58G01/2018/08
+Kerala
+Idukki
+Upputhodu
+Prakash-Upputhodu Road
+9.879064
+77.014596
+Debris
+Flow
+15th August 2018
+15715
+KER/IDK/58G01/2018/09
+Kerala
+Idukki
+Jawan City
+Parakkadavu-Prakash Road
+9.876643
+77.020452
+Debris
+Slide
+16th August 2018
+15716
+KER/IDK/58G01/2018/10
+Kerala
+Idukki
+Upputhodu
+Chalikkadavu-Prakash Road
+9.87598
+77.025471
+Debris
+Slide
+Initiated in 12th August 1974 and 
+recurrences in 1st August 1979, 4th 
+August 1994 and 16th August 2018
+15717
+KER/IDK/58G01/2018/11
+Kerala
+Idukki
+Pulinchodu
+Chalicity-Vettikkamattom-
+Prakash Road
+9.869185
+77.036997
+Debris
+Slide
+15th August 2018
+15718
+KER/IDK/58G01/2018/12
+Kerala
+Idukki
+Pulinchodu
+Chalicity-Prakash Road
+9.870095
+77.037467
+Debris
+Slide
+17th August 2018
+15719
+KER/IDK/58G01/2018/13
+Kerala
+Idukki
+Kiliyarkandom
+Chalicity-Prakash Road
+9.870133
+77.038671
+Debris
+Flow
+15th and 17th of August 2018
+15720
+KER/IDK/58G01/2018/14
+Kerala
+Idukki
+Pathinezhukambani
+Rajamudy-Kiliyarkandom Road
+9.874421
+77.033611
+Debris
+Flow
+16th August 2018
+15721
+KER/IDK/58G01/2018/15
+Kerala
+Idukki
+Pathinezhukambani
+Rajamudy-Kiliyarkandom Road
+9.874631
+77.033247
+Debris
+Flow
+15th August 2018
+15722
+KER/IDK/58G01/2018/16
+Kerala
+Idukki
+Kiliyarkandom
+Chalicity-Prakash Road
+9.864482
+77.044935
+Debris
+Flow
+15th August 2018
+15723
+KER/IDK/58C13/2018/17
+Kerala
+Idukki
+Antopuram
+Kochukarimban-Chelachuvadu 
+Road
+9.907286
+76.982623
+Debris
+Slide / Slump
+Initiated in 2000 and recurred on 15th 
+August 2018
+15724
+KER/IDK/58C13/2018/18
+Kerala
+Idukki
+Antopuram
+Chelachuvadu-Antopuram-
+Murikkasseri Road
+9.909771
+76.983645
+Debris
+Flow
+14th August 2018

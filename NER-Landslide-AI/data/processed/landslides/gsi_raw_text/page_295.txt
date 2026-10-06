@@ -1,0 +1,442 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12656
+KA/BEL/48I07/2018/7
+Karnataka
+Uttar Kannada
+Anmod-Mollem Ghat road
+NH-4A
+15.429256
+74.286292
+Debris
+Slide
+NA
+12657
+KA/BEL/48I07/2018/6
+Karnataka
+Uttar Kannada
+Anmod-Mollem Ghat road
+NH-4A
+15.429928
+74.286067
+Debris
+Slide
+NA
+12658
+KA/UTT/48I07/2018/4
+Karnataka
+Uttar Kannada
+Anmod-Mollem Ghat road
+NH-4A
+15.430053
+74.289003
+Rock cum debris
+Slide
+NA
+12659
+KA/UTT/48I07/2018/5
+Karnataka
+Uttar Kannada
+Anmod-Mollem Ghat road
+NH-4A
+15.430431
+74.286019
+Rock cum debris
+Slide
+NA
+12660
+KA/UTT/48I07/2018/3
+Karnataka
+Uttar Kannada
+Anmod-Mollem Ghat road
+NH-4A
+15.431808
+74.291431
+Debris
+Slump
+NA
+12661
+KA/UTT/48I07/2018/1
+Karnataka
+Uttar Kannada
+Anmod-Mollem Ghat road
+NH-4A
+15.438408
+74.300336
+Debris
+Slide
+NA
+12662
+KA/UTT/48I07/2018/2
+Karnataka
+Uttar Kannada
+Anmod-Mollem Ghat road
+NH-4A
+15.438594
+74.299819
+Rock cum debris
+Slide
+NA
+12663
+GA/NGA/48I02/2020/16
+Karnataka
+Belagavi
+Cut Slope failure along Chorla ghat 
+road
+570 m south of Chorla
+15.65
+74.14
+Debris
+Slide
+NA
+12664
+3218
+Karnataka
+Chikmagalur
+Inam Dattatray Peeta Kavikal gundi
+SH-257, Chainage-125.100,  
+Kavikal gundi
+13.406306
+75.744861
+Debris
+Slide
+27 July 2024
+12665
+3220
+Karnataka
+Chikmagalur
+NULL
+NULL
+13.403333
+75.735917
+Debris
+Slide
+25 July 2024
+12666
+3221
+Karnataka
+Chikmagalur
+NULL
+NULL
+13.387861
+75.727111
+Debris
+Slide
+25 July 2024
+12667
+3213
+Karnataka
+Kodagu
+NULL
+NULL
+12.50288889
+75.8
+Soil
+Slide
+2022
+12668
+3228
+Karnataka
+Chikmagalur
+NULL
+NULL
+13.381445
+75.713611
+Debris
+Slide
+2023, 2024
+12669
+3227
+Karnataka
+Kodagu
+NULL
+NULL
+12.97333889
+76.01831111
+Soil
+Subsidence
+23 July 2024
+12670
+3363
+Karnataka
+Uttar Kannada
+NULL
+NULL
+14.80989612
+74.14158063
+Debris
+Slide
+12 June 2025
+12671
+3354
+Karnataka
+Chikmagalur
+Kelagur Tea & Coffee Estate
+13.1492694
+75.459855
+Debris
+Slide
+NA
+12672
+3353
+Karnataka
+Chikmagalur
+NULL
+NULL
+13.1280464
+75.5153175
+Debris
+Flow
+09 August 2019
+12673
+3357
+Karnataka
+Chikmagalur
+NULL
+NULL
+13.3004415
+75.3054032
+Debris
+Complex
+January 2001, 09 August 2019
+12674
+3356
+Karnataka
+Chikmagalur
+NULL
+NULL
+13.2497395
+75.3692866
+Debris
+Complex
+January 2001, 09 August 2019
+12675
+3355
+Karnataka
+Chikmagalur
+NULL
+NULL
+13.1485672
+75.4586835
+Debris
+Flow
+09 August 2019
+12676
+3358
+Karnataka
+Chikmagalur
+NULL
+NULL
+13.4189147
+75.7206706
+Debris
+Complex
+NA
+12677
+KA/Kodagu/48P14/2024/01
+Karnataka
+Kodagu
+Shanthahalli
+Somwarpet to Shanthahalli road 12.64066667
+75.80711111
+Debris
+Slide
+25 July 2024
+12678
+KA/Kodagu/48P14/2024/02
+Karnataka
+Kodagu
+Madapur landslide
+Madapur to Somwarpet road 
+SH-27
+12.51091667
+75.81194444
+soil
+slide
+28 July 2024
+12679
+KA/DK/48P14/2024/03
+Karnataka
+Kodagu
+Iggodlu
+SH-27
+12.5029
+75.8
+Soil
+Slide
+2022
+12680
+KA/Kodagu/48P11/2024/04
+Karnataka
+Kodagu
+Koyanad school
+Koyanad
+12.47756111
+75.583875
+Debris
+Slide
+16 July 2024 (7:30 am)
+12681
+KA/Kodagu/48P11/2024/05
+Karnataka
+Kodagu
+Kartoji-Made
+NH-275 road
+12.42337778
+75.68185556
+Debris
+Slide
+2018, 08 August 2022
+12682
+KA/Kodagu/48P11/2024/06
+Karnataka
+Kodagu
+Kartoji-Made
+NH-275 road
+12.4244
+75.6786
+Debris
+Slide
+06 July 2022
+12683
+KA/Kodagu/48A01/2024/07
+Karnataka
+Kodagu
+Manchalli
+SH-89
+11.97333889
+76.01831111
+Soil
+subsidence
+23 July 2024
+12684
+KA/Kodagu/48P12/2024/08
+Karnataka
+Kodagu
+Tarmemotte
+Kedamalur to Thora road
+12.18142222
+75.73915556
+soil
+Subsidence
+02 August 2024, 03 August 2024
+12685
+KA/DK/48L13/2024/01
+Karnataka
+Dakshin Kannad
+Bellibetta
+Mangalore- Moodbidri road
+12.93978611
+74.93526667
+Debris
+Slide
+31 July 2024
+12686
+KA/DK/48L13/2024/02
+Karnataka
+Dakshin Kannad
+Soojikallu Landslide
+_
+12.91175
+74.848625
+Debris
+Slide
+11 June 2024
+12687
+KA/DK/48L13/2024/03
+Karnataka
+Dakshina Kannada/Bantwal Kodegoli-Tumbe Landslide
+-
+12.87427778
+74.97915833
+Soil
+Slide
+02 August 2024
+12688
+KA/DK/48P1/2024/04
+Karnataka
+Dakshina Kannada/Bantwal Goodibabali village-Mooda village
+-
+12.87813611
+75.03807222
+Debris
+Slide
+08 July 2023
+12689
+KA/DK/48P1/2024/05
+Karnataka
+Dakshina Kannada/Puttur
+ Manni-Madikeri road
+-
+12.75933056
+75.19792778
+Debris
+Slide
+August 2024
+12690
+KA/DK/48P1/2024/06
+Karnataka
+Dakshina Kannada/Puttur
+ Kemminje-Bailu
+-
+12.75165278
+75.23003889
+Debris
+Slide
+2010, 02 August 2024
+12691
+KA/DK/48P1/2024/07
+Karnataka
+Dakshina Kannada/Puttur
+ Perike-Padnur
+Murra-Kadambu-Sediyapa 
+connecting road
+12.75165278
+75.23003889
+Debris
+Slide
+2010, 02 August 2024
+12692
+KA/DK/48P1/2024/08
+Karnataka
+Dakshina Kannada/Puttur
+ Bellipady
+Nil
+12.80025833
+75.24629167
+soil
+Slide
+02 August 2024
+12693
+KA/DK/48P1/2024/9
+Karnataka
+Dakshina Kannada/Puttur
+ Kodimpady
+Puttur-Uppinangady road
+12.81395556
+75.2177
+soil
+Slide
+02 August 2024
+12694
+KA/DK/48O8/2024/10
+Karnataka
+Dakshina 
+Kannada/Belthangadi
+Pannakka
+Nil
+13.00683889
+75.26101944
+Debris
+Slide
+31 July 2024

@@ -1,0 +1,418 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+25484
+NG/TUE/83J15/2017/21
+Nagaland
+Tuensang
+ 
+4.5 km S of Pipan Village.
+26.336111
+94.866944
+Soil
+Slide
+NA
+25485
+NG/MON/83J15/2017/13
+Nagaland
+Mon
+ 
+6 km south of Tobu Village
+26.336667
+94.9275
+Debris
+Slide
+NA
+25486
+NG/MON/83J15/2017/10
+Nagaland
+Mon
+ 
+5 km south of Tobu Village
+26.337778
+94.929167
+Debris
+Slide
+NA
+25487
+NAG/TUE/83J15/2009/F-14
+Nagaland
+Tuensang
+Ajang (Bhumbak Village)
+ 
+26.34417
+94.83333
+NA
+Slide
+20 June 2009
+25488
+NG/MON/83J15/2017/12
+Nagaland
+Mon
+ 
+Tobu Town
+26.359722
+94.935556
+Rock
+Slide
+NA
+25489
+NG/MON/83J15/2017/11
+Nagaland
+Mon
+ 
+Tobu Town
+26.360556
+94.933056
+Rock
+Subsidence
+NA
+25490
+NAG/TUE/83J15/2009/F-13
+Nagaland
+Tuensang
+Ajang (Bhumbak Village)
+ 
+26.36083
+94.84
+Rock
+Fall
+04 June 2009
+25491
+NAG/MOK/83J/7/2016/0006
+Nagaland
+Mokokchung
+ 
+Khensa-Chungtia Road
+26.367056
+94.472861
+Debris
+Slide
+NA
+25492
+NAG/TUEN/83J11/2015/ 0122
+Nagaland
+Tuensang
+ 
+Noksen and Lithim Village 
+boundary
+26.371611
+94.709194
+Debris
+Slide
+NA
+25493
+NG/TUE/83J15/2017/40
+Nagaland
+Tuensang
+ 
+5 km NE of Tobu Town
+26.371667
+94.943333
+Rock
+Slide
+NA
+25494
+NG/MON/83N3/2017/16
+Nagaland
+Mon
+ 
+Near Tamkao
+26.37175
+95.000806
+Debris
+Slide
+NA
+25495
+NAG/TUEN/83J11/2015/ 0123
+Nagaland
+Tuensang
+ 
+Noksen and Lithim Village 
+boundary
+26.372667
+94.71375
+Rock
+Slide
+NA
+25496
+NG/TUE/83J15/2017/41
+Nagaland
+Tuensang
+ 
+6 km NE of Tobu Town
+26.373056
+94.941389
+Rock
+Slide
+NA
+25497
+NG/TUE/83J15/2017/39
+Nagaland
+Tuensang
+ 
+1 km NE of Tobu Town
+26.375278
+94.936389
+Rock
+Subsidence
+NA
+25498
+NAG/MOK/83J/7/2016/0007
+Nagaland
+Mokokchung
+ 
+Between Mukuli to Chungtia
+26.376
+94.463389
+Debris
+Slide
+NA
+25499
+NAG/TUE/83J15/2009/F-12
+Nagaland
+Tuensang
+Washomung (Bhumbak Village) slide
+ 
+26.37639
+94.84056
+Debris
+Slide
+20 June 2009
+25500
+NG/MON/83N3/2017/18
+Nagaland
+Mon
+ 
+Near Tamkao
+26.3765
+95.011139
+Debris
+Slide
+NA
+25501
+NG/MON/83N3/2017/19
+Nagaland
+Mon
+ 
+Near Tamkao
+26.378222
+95.009
+Debris
+Slide
+NA
+25502
+NAG/MOK/83J/7/2016/0008
+Nagaland
+Mokokchung
+ 
+Chungtia
+26.379167
+94.44625
+Debris
+Slide
+NA
+25503
+NG/MON/83N3/2017/17
+Nagaland
+Mon
+ 
+Near Tamkao
+26.379361
+95.003444
+Debris
+Slide
+NA
+25504
+NAG/MOKH/83J08/2015/ 0099
+Nagaland
+Mokokchung
+ 
+Longkang village, Rubber 
+plantation area.
+26.382806
+94.66425
+Debris
+Slide
+NA
+25505
+NAG/TUE/83J15/2009/F-10
+Nagaland
+Tuensang
+Yangpi Village slide
+ 
+26.38778
+94.82583
+Rock
+Slide
+27 July 2009
+25506
+NAG/TUE/83J15/2009/F-11
+Nagaland
+Tuensang
+Noksen-Tuengsang road slide
+ 
+26.38778
+94.82583
+Debris
+Slide
+20 August 2009
+25507
+NAG/MOK/83J/7/2016/0014
+Nagaland
+Mokokchung
+ 
+Bewteen Chungtia-
+Longjongkong
+26.389028
+94.434889
+Debris
+Slide
+NA
+25508
+NAG/MOK/83J/7/2016/0015
+Nagaland
+Mokokchung
+ 
+Bewteen Chungtia-
+Longjongkong
+26.389028
+94.434556
+Debris
+Slide
+NA
+25509
+NAG/MOKH/83J08/2015/ 0096
+Nagaland
+Mokokchung
+ 
+Near the entrance gate of 
+Longkang village
+26.389556
+94.616667
+Rock
+Slide
+NA
+25510
+NG/TUE/83J15/2017/42
+Nagaland
+Tuensang
+ 
+12 km NE of Tobu Town
+26.389722
+94.920556
+Debris
+Slide
+NA
+25511
+NAG/MOKH/83J08/2015/ 0097
+Nagaland
+Mokokchung
+ 
+Longkong village
+26.390417
+94.617556
+Rock
+Slide
+NA
+25512
+NAG/MOK/83J/7/2016/0013
+Nagaland
+Mokokchung
+ 
+Bewteen Chungtia-
+Longjongkong
+26.390833
+94.437417
+Debris
+Slide
+NA
+25513
+NL/MON/83J15/2014/08
+Nagaland
+Mon
+Shamnyu slide
+State Highway (Tobu to Mon 
+road)
+26.39094
+94.94406
+Rock cum Debris
+Flow
+16 August 2013
+25514
+NAG/MOK/83J/7/2016/0012
+Nagaland
+Mokokchung
+ 
+Bewteen Chungtia-
+Longjongkong
+26.390972
+94.438111
+Debris
+Slide
+NA
+25515
+NAG/MOKH/83J08/2015/ 0098
+Nagaland
+Mokokchung
+ 
+Longkong village
+26.391361
+94.620083
+Rock
+Slide
+NA
+25516
+NG/TUE/83J15/2017/43
+Nagaland
+Tuensang
+ 
+14 km NE of Tobu Town
+26.3925
+94.918611
+Debris
+Slide
+NA
+25517
+NG/TUE/83J15/2017/44
+Nagaland
+Tuensang
+ 
+16 km NE of Tobu Town
+26.393889
+94.919444
+Debris
+Subsidence
+NA
+25518
+NAG/MOKH/83J08/2015/ 0114
+Nagaland
+Mokokchung
+ 
+Longsang Village
+26.394222
+94.553472
+Debris
+Slide
+NA
+25519
+NAG/MOK/83J/7/2016/0016
+Nagaland
+Mokokchung
+ 
+Bewteen Chungtia-
+Longjongkong
+26.39425
+94.444333
+Debris
+Slide
+NA

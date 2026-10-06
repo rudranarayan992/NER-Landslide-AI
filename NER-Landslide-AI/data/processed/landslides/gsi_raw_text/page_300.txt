@@ -1,0 +1,453 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+12843
+KA/CKM/48O07/2025/09
+Karnataka
+Chikmagalur
+Devagodu landslide
+SH-27, Devagodu village, 
+Sringeri taluk
+13.38881556
+75.31348722
+Debris
+Slide
+16 August 2025
+12844
+KA/CKM/48O07/2025/10
+Karnataka
+Chikmagalur
+Veeragalmakki landslide
+Veeragalmakki village, Village 
+road, Koppa taluk
+13.35143722
+75.38734
+Debris
+Slide
+2025
+12845
+KA/CKM/48O07/2025/11
+Karnataka
+Chikmagalur
+Shanthipura landslide
+Shanthipura village, Koppa taluk 13.37229611
+75.39829028
+Debris
+Slide
+2024, 16 August 2025
+12846
+KA/CKM/48O12/2025/12
+Karnataka
+Chikmagalur
+Tripura landslide
+Village road near Tripura village, 
+Gutti-Byduballi-Mudigere road
+13.04149583
+75.56029417
+Soil
+Slide
+16 June 2025
+12847
+KA/CKM/48O08/2025/13
+Karnataka
+Chikmagalur
+Balige landslide
+Balige village, Mudigere taluk
+13.16028833
+75.42628194
+Debris
+Slide
+16 June 2025 (02.30 pm)
+12848
+KA/CKM/48O07/2025/14
+Karnataka
+Chikmagalur
+Thalgodu-Balehole landslide
+Thalgodu village near Balehole, 
+Kalasa taluk
+13.26724722
+75.39658444
+Debris
+Slide
+1 April 2025
+12849
+KA/CKM/48O14/2025/15
+Karnataka
+Chikmagalur
+Kemmannugundi landslide
+Kemmannugundi road, Tarikere 
+taluk
+13.54903861
+75.75878833
+Debris
+Flow
+18 August 2025 (05:30 am)
+12850
+KA/UK/48J01/2025/24
+Karnataka
+Uttar Kannada
+Balemane
+Kadra to Balemane-Sulgeri road 14.879833
+74.412722
+Earth
+Flow
+03 July 2025
+12851
+3208
+Karnataka
+Kodagu
+12.64066667
+75.80711111
+Debris
+NULL
+25 July 2024
+12852
+3209
+Karnataka
+Kodagu
+Madapur to Somwarpet road 
+SH-27
+12.51091667
+75.81194444
+Debris
+NULL
+28 July 2024
+12853
+3367
+Karnataka
+Uttar Kannada
+Hebbar Kumri Manigadde Kumri 
+road
+14.9025033
+74.56196438
+Soil
+NULL
+15 June 2025
+12854
+3223
+Karnataka
+Kodagu
+Koyanad school
+12.47756111
+75.583875
+Debris
+Slide
+16 July 2024
+12855
+3223
+Karnataka
+Kodagu
+Koyanad 
+Koyanad school
+12.47756111
+75.583875
+Debris
+Slide
+16 July 2024 at 7.30 hrs
+12856
+KRL/TVN/58H02/2015/41
+Kerala
+Thiruvananthapuram
+Amboori
+Amboori Village
+8.507778
+77.189722
+Debris
+Slide
+2001
+12857
+KRL/TVN/58H02/2015/17
+Kerala
+Thiruvananthapuram
+Amboori
+Amboori Village
+8.507833
+77.189
+Debris
+Creep
+2001
+12858
+KRL/TVN/58H02/2015/20
+Kerala
+Thiruvananthapuram
+Perekonam
+Vazhichal Village
+8.508861
+77.1575
+Debris
+Flow
+2000
+12859
+KRL/TVN/58H02/2015/19
+Kerala
+Thiruvananthapuram
+Kandamthitta
+Vazhichal Village
+8.509833
+77.169139
+Rock cum Debris
+Creep
+2007
+12860
+KRL/TVN/58H02/2015/16
+Kerala
+Thiruvananthapuram
+Paramukal
+Vazhichal Village
+8.510528
+77.157944
+Debris
+Creep
+1996
+12861
+KRL/TVN/58H02/2015/2
+Kerala
+Thiruvananthapuram
+Pottanthottam
+Vazhichal village
+8.519028
+77.16775
+Debris
+Flow
+1989
+12862
+KRL/KOL/58H02/2015/40
+Kerala
+Kollam
+ 
+Thenmala Village
+8.588778
+77.099083
+Debris
+Flow
+1992
+12863
+KRL/TVN/58H02/2015/45
+Kerala
+Thiruvananthapuram
+Chettikunnu
+Tolikod
+8.64294
+77.0712
+Rock
+Slide
+2016
+12864
+KRL/TVN/58H02/2015/15
+Kerala
+Thiruvananthapuram
+Vattakayam
+Thennur Village
+8.703
+77.114472
+Debris
+Creep
+1993
+12865
+KRL/TVN/58H02/2015/43
+Kerala
+Thiruvananthapuram
+Kallar
+Thennur Village
+8.711083
+77.143339
+Debris
+Flow
+1984
+12866
+KRL/TVN/58H02/2015/4
+Kerala
+Thiruvananthapuram
+Merchestian Estate
+Thennur village
+8.74275
+77.13425
+Debris
+Flow
+1992
+12867
+KRL/TVN/58H02/2015/10
+Kerala
+Thiruvananthapuram
+Merchestian Estate
+Thennur Village
+8.742944
+77.132194
+Debris
+Flow
+1992
+12868
+KRL/TVN/58H02/2015/3
+Kerala
+Thiruvananthapuram
+Merchestian Estate
+Thennur village
+8.743139
+77.161028
+Debris
+Flow
+1992
+12869
+KRL/TVN/58H02/2015/5
+Kerala
+Thiruvananthapuram
+Ponmudi
+Thennur village
+8.747056
+77.132944
+Rock
+Fall
+1992
+12870
+KRL/TVN/58H02/2015/14
+Kerala
+Thiruvananthapuram
+Ponmudi
+Thennur Village
+8.747056
+77.132944
+Debris
+Flow
+1992
+12871
+KRL/TVN/58H02/2015/1
+Kerala
+Thiruvananthapuram
+Merchestian Estate
+Thennur village
+8.74875
+77.130722
+Debris
+Flow
+1988
+12872
+KRL/TVN/58H01/2015/9
+Kerala
+Thiruvananthapuram
+Idinjar
+Peringamala Village
+8.751889
+77.071
+Debris
+Flow
+1992
+12873
+KRL/TVN/58H01/2015/22
+Kerala
+Thiruvananthapuram
+Kambimoodu-Idivukovil (Between 
+hairpin curve  21 &22)
+Peringamalan Village
+8.75475
+77.125389
+Debris
+Slide
+2011
+12874
+KRL/TVN/58H01/2015/18
+Kerala
+Thiruvananthapuram
+Ponmudi near hair pin 22
+Thennur Village
+8.758972
+77.114917
+Debris
+Creep
+2002
+12875
+KRL/TVN/58H01/2015/8
+Kerala
+Thiruvananthapuram
+Brimor-Kurisadi
+Peringamala Village
+8.763333
+77.076861
+Debris
+Slide
+1992
+12876
+KRL/TVN/58H01/2015/21
+Kerala
+Thiruvananthapuram
+Ponmudi Upper Sanatorium
+Thennur Village
+8.763333
+77.109556
+Debris
+Slide
+2010
+12877
+KRL/TVN/58H01/2015/7
+Kerala
+Thiruvananthapuram
+Brimor-Kurisadi
+Peringamala Village
+8.764472
+77.078611
+Debris
+Slide
+1992
+12878
+KRL/TVN/58H02/2015/42
+Kerala
+Thiruvananthapuram
+Bremore rubber estate
+Peringamala Village
+8.766997
+77.099767
+Debris
+Slide
+1991
+12879
+KRL/TVN/58H02/2015/6
+Kerala
+Thiruvananthapuram
+Brimor-Kurisadi
+Peringamala Village
+8.768111
+77.082278
+Debris
+Flow
+1992
+12880
+KRL/TVN/58H01/2015/12
+Kerala
+Thiruvananthapuram
+Shaghili Erattumukku
+Peringamala Village
+8.807056
+77.106833
+Debris
+Flow
+1992
+12881
+KRL/TVN/58H01/2015/13
+Kerala
+Thiruvananthapuram
+Shaghili Erattumukku
+Peringamala Village
+8.807833
+77.121694
+Debris
+Flow
+1992
+12882
+KRL/TVN/58H01/2015/11
+Kerala
+Thiruvananthapuram
+Shaghili Erattumukku
+Peringamala Village
+8.809139
+77.12625
+Debris
+Flow
+1992

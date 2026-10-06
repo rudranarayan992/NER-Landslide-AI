@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28124
+TN/Nil/2023/CSF-21
+Tamil Nadu
+Nilgiri
+CSF-21
+NH-181
+11.33969
+76.84094
+Earth 
+Slide
+23 November 2023
+28125
+TN/Nil/2023/CSF-22
+Tamil Nadu
+Nilgiri
+CSF-22
+NH-181
+11.33525
+76.82756
+Earth 
+Slide
+23 November 2023
+28126
+TN/Nil/2023/CSF-23
+Tamil Nadu
+Nilgiri
+CSF-23
+NH-181
+11.33578
+76.82769
+Debris
+Slide
+23 November 2023
+28127
+TN/Nil/2023/CSF-24
+Tamil Nadu
+Nilgiri
+CSF-24
+NH-181
+11.33675
+76.82814
+Earth 
+Slide
+23 November 2023
+28128
+TN/Nil/2023/CSF-25
+Tamil Nadu
+Nilgiri
+CSF-25
+NH-181
+11.33844
+76.82786
+Earth 
+Slide
+23 November 2023
+28129
+TN/Nil/2023/CSF-26
+Tamil Nadu
+Nilgiri
+CSF-26
+NH-181
+11.33675
+76.82742
+Debris
+Slide
+23 November 2023
+28130
+TN/Nil/2023/CSF-27
+Tamil Nadu
+Nilgiri
+CSF-27
+NH-181
+11.33589
+76.82678
+Debris
+Slide
+23 November 2023
+28131
+TN/Nil/2023/CSF-28
+Tamil Nadu
+Nilgiri
+CSF-28
+NH-181
+11.33647
+76.82564
+Debris
+Slide
+23 November 2023
+28132
+TN/Nil/2023/CSF-29
+Tamil Nadu
+Nilgiri
+CSF-29
+NH-181
+11.33728
+76.82531
+Earth
+Slide
+23 November 2023
+28133
+TN/Nil/2023/CSF-30
+Tamil Nadu
+Nilgiri
+CSF-30
+NH-181
+11.33736
+76.82425
+Earth
+Slide
+23 November 2023
+28134
+TN/Nil/2023/CSF-31
+Tamil Nadu
+Nilgiri
+CSF-31
+NH-181
+11.33736
+76.82419
+Earth
+Slide
+23 November 2023
+28135
+TN/Nil/2023/CSF-32
+Tamil Nadu
+Nilgiri
+CSF-32
+NH-181
+11.33578
+76.81989
+Earth
+Slide
+23 November 2023
+28136
+TN/Nil/2023/CSF-33
+Tamil Nadu
+Nilgiri
+CSF-33
+NH-181
+11.33475
+76.8195
+Earth
+Slide
+23 November 2023
+28137
+TN/Nil/2023/CSF-34
+Tamil Nadu
+Nilgiri
+CSF-34
+NH-181
+11.33492
+76.81864
+Earth
+Slide
+23 November 2023
+28138
+TN/Nil/2023/CSF-35
+Tamil Nadu
+Nilgiri
+CSF-35
+NH-181
+11.33492
+76.82417
+Earth
+Slide
+23 November 2023
+28139
+TN/Nil/2023/CSF-36
+Tamil Nadu
+Nilgiri
+CSF-36
+NH-181
+11.33439
+76.81717
+Earth
+Slide
+23 November 2023
+28140
+TN/Nil/2023/CSF-37
+Tamil Nadu
+Nilgiri
+CSF-37
+NH-181
+11.33477
+76.81732
+Earth
+Slide
+23 November 2023
+28141
+TN/Nil/2023/CSF-38
+Tamil Nadu
+Nilgiri
+CSF-38
+NH-181
+11.33477
+76.81728
+Earth
+Slide
+23 November 2023
+28142
+TN/Nil/2023/CSF-39
+Tamil Nadu
+Nilgiri
+CSF-39
+NH-181
+11.33428
+76.81322
+Earth
+Slide
+23 November 2023
+28143
+TN/Nil/2023/CSF-40
+Tamil Nadu
+Nilgiri
+CSF-40
+NH-181
+11.33558
+76.815
+Earth
+Slide
+23 November 2023
+28144
+TN/Nil/2023/CSF-41
+Tamil Nadu
+Nilgiri
+CSF-41
+NH-181
+11.33547
+76.81456
+Debris
+Slide
+23 November 2023
+28145
+TN/Nil/2023/CSF-42
+Tamil Nadu
+Nilgiri
+CSF-42
+NH-181
+11.33547
+76.8145
+Debris
+Slide
+23 November 2023
+28146
+TN/Nil/2023/CSF-43
+Tamil Nadu
+Nilgiri
+CSF-43
+NH-181
+11.33528
+76.81331
+Debris
+Slide
+23 November 2023
+28147
+TN/Nil/2023/CSF-44
+Tamil Nadu
+Nilgiri
+CSF-44
+NH-181
+11.33536
+76.81286
+Earth
+Slide
+23 November 2023
+28148
+TN/Nil/2023/CSF-45
+Tamil Nadu
+Nilgiri
+CSF-45
+NH-181
+11.33536
+76.81281
+Earth
+Slide
+23 November 2023
+28149
+TN/Nil/2023/CSF-46
+Tamil Nadu
+Nilgiri
+CSF-46
+NH-181
+11.33433
+76.81244
+Earth
+Slide
+23 November 2023
+28150
+TN/Nil/2023/CSF-47
+Tamil Nadu
+Nilgiri
+CSF-47
+NH-181
+11.33231
+76.80869
+Earth
+Slide
+23 November 2023
+28151
+TN/Nil/2023/CSF-48
+Tamil Nadu
+Nilgiri
+CSF-48
+NH-181
+11.33042
+76.80783
+Earth
+Slide
+23 November 2023
+28152
+TN/Nil/2023/CSF-49
+Tamil Nadu
+Nilgiri
+CSF-49
+NH-181
+11.32925
+76.80642
+Earth
+Slide
+23 November 2023
+28153
+TN/Nil/2023/CSF-50
+Tamil Nadu
+Nilgiri
+CSF-50
+NH-181
+11.33147
+76.80142
+Debris
+Slide
+23 November 2023
+28154
+TN/Nil/2023/CSF-51
+Tamil Nadu
+Nilgiri
+CSF-51
+NH-181
+11.33128
+76.79947
+Earth
+Slide
+23 November 2023
+28155
+TN/Nil/2023/CSF-52
+Tamil Nadu
+Nilgiri
+CSF-52
+NH-181
+11.33128
+76.79944
+Earth
+Slide
+23 November 2023
+28156
+TN/Nil/2023/CSF-53
+Tamil Nadu
+Nilgiri
+CSF-53
+NH-181
+11.33244
+76.79422
+Earth
+Slide
+23 November 2023
+28157
+TN/Nil/2023/CSF-54
+Tamil Nadu
+Nilgiri
+CSF-54
+NH-181
+11.33461
+76.79083
+Earth
+Slide
+23 November 2023
+28158
+TN/Nil/2023/CSF-55
+Tamil Nadu
+Nilgiri
+CSF-55
+NH-181
+11.33372
+76.79764
+Debris
+Slide
+23 November 2023
+28159
+TN/Nil/2023/CSF-56
+Tamil Nadu
+Nilgiri
+CSF-56
+NH-181
+11.33406
+76.79825
+Debris
+Slide
+23 November 2023
+28160
+TN/Nil/2023/CSF-57
+Tamil Nadu
+Nilgiri
+CSF-57
+NH-181
+11.33406
+76.79831
+Debris
+Slide
+23 November 2023
+28161
+TN/Nil/2023/CSF-58
+Tamil Nadu
+Nilgiri
+CSF-58
+NH-181
+11.33597
+76.79875
+Debris
+Slide
+23 November 2023
+28162
+TN/Nil/2023/CSF-59
+Tamil Nadu
+Nilgiri
+CSF-59
+NH-181
+11.33646
+76.79841
+Rock
+Fall
+23 November 2023
+28163
+TN/Nil/2023/CSF-60
+Tamil Nadu
+Nilgiri
+CSF-60
+NH-181
+11.34025
+76.79775
+Debris
+Slide
+23 November 2023
+28164
+TN/Nil/2023/CSF-61
+Tamil Nadu
+Nilgiri
+CSF-61
+NH-181
+11.34058
+76.79775
+Earth
+Slide
+23 November 2023
+28165
+TN/Nil/2023/CSF-62
+Tamil Nadu
+Nilgiri
+CSF-62
+NH-181
+11.341
+76.79756
+Debris
+Slide
+23 November 2023
+28166
+TN/Nil/2023/CSF-63
+Tamil Nadu
+Nilgiri
+CSF-63
+NH-181
+11.34175
+76.79606
+Earth
+Slide
+23 November 2023
+28167
+TN/Nil/2023/CSF-64
+Tamil Nadu
+Nilgiri
+CSF-64
+NH-181
+11.34181
+76.79556
+Debris
+Slide
+23 November 2023
+28168
+TN/Nil/2023/CSF-65
+Tamil Nadu
+Nilgiri
+CSF-65
+NH-181
+11.34208
+76.79533
+Earth
+Slide
+23 November 2023
+28169
+TN/Nil/2023/CSF-66
+Tamil Nadu
+Nilgiri
+CSF-66
+NH-181
+11.34481
+76.79025
+Earth
+Slide
+23 November 2023
+28170
+TN/Nil/2023/CSF-67
+Tamil Nadu
+Nilgiri
+CSF-67
+NH-181
+11.345
+76.79022
+Earth
+Slide
+23 November 2023
+28171
+TN/Nil/2023/CSF-68
+Tamil Nadu
+Nilgiri
+CSF-68
+NH-181
+11.34569
+76.78942
+Earth
+Slide
+23 November 2023
+28172
+TN/Nil/2023/CSF-69
+Tamil Nadu
+Nilgiri
+CSF-69
+NH-181
+11.34597
+76.78917
+Debris
+Slide
+23 November 2023
+28173
+TN/Nil/2023/CSF-70
+Tamil Nadu
+Nilgiri
+CSF-70
+NH-181
+11.34758
+76.78822
+Debris
+Slide
+23 November 2023
+28174
+TN/Nil/2023/CSF-71
+Tamil Nadu
+Nilgiri
+CSF-71
+NH-181
+11.3495
+76.78722
+Earth
+Slide
+23 November 2023

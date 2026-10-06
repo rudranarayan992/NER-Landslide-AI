@@ -1,0 +1,275 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+14166
+KRL/PKD/58B10/2018/88
+Kerala
+Palakkad
+Neeliampathy reserve forest
+10.526982
+76.725932
+Debris
+slide
+Initiated on 15/8/18
+14167
+KRL/PKD/58B10/2018/89
+Kerala
+Palakkad
+Neeliampathy reserve forest
+10.528409
+76.72551
+Debris
+slide
+Initiated on 15/8/18
+14168
+KRL/PKD/58B10/2018/90
+Kerala
+Palakkad
+Neeliampathy reserve forest
+10.526381
+76.720458
+Debris
+slide
+Initiated on 15/8/18
+14169
+KRL/PKD/58B10/2018/91
+Kerala
+Palakkad
+SW of Pothundi Dam, Chittur 
+Taluk
+10.536065
+76.613566
+rock cum debris
+slide
+Initiated on 15/8/18
+14170
+KRL/PKD/58B10/2018/92
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.53852
+76.620628
+Debris
+slide
+Initiated on 15/8/18
+14171
+KRL/PKD/58B10/2018/93
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.531615
+76.621292
+Debris
+slide
+Initiated on 15/8/18
+14172
+KRL/PKD/58B10/2018/94
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.530195
+76.622477
+Debris
+slide
+Initiated on 15/8/18
+14173
+KRL/PKD/58B10/2018/95
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.529522
+76.622937
+rock cum debris
+slide
+Initiated on 15/8/18
+14174
+KRL/PKD/58B10/2018/96
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.527023
+76.62514
+rock cum debris
+slide
+Initiated on 15/8/18
+14175
+KRL/PKD/58B10/2018/97
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.526765
+76.625365
+rock cum debris
+slide
+Initiated on 15/8/18
+14176
+KRL/PKD/58B10/2018/98
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.525045
+76.627113
+Debris
+slide
+Initiated on 15/8/18
+14177
+KRL/PKD/58B10/2018/99
+Kerala
+Palakkad
+Near Pothundi Reservoir area, 
+Nelliyampathy road, Chitoor 
+Taluk
+10.52445
+76.627285
+rock cum debris
+slide
+Initiated on 15/8/18
+14178
+KRL/PKD/58B11/2018/26
+Kerala
+Palakkad
+Kizhakencheri  debris slide
+Kizhakencheri  village, Alathur 
+Taluk
+10.481833
+76.512625
+Debris
+slide
+Initiated on 16/8/18
+14179
+KRL/PKD/58B11/2018/28
+Kerala
+Palakkad
+Kizhakencheri debris slide
+Kizhakencheri  village, Alathur 
+Taluk
+10.483532
+76.510802
+Debris
+slide
+Initiated on 16/8/18
+14180
+KRL/PKD/58B11/2018/29
+Kerala
+Palakkad
+Kizhakencheri debris slide
+Kizhakencheri  village, Alathur 
+Taluk
+10.479529
+76.512323
+Debris
+slide
+Initiated on 16/8/18
+14181
+KRL/PKD/58B11/2018/32
+Kerala
+Palakkad
+VRT Kava, Kizhakencheri, 
+Alathur Taluk
+10.488847
+76.501153
+Debris
+slide
+Initiated on 16/8/18
+14182
+KRL/PKD/58B11/2018/34
+Kerala
+Palakkad
+VRT Kava, Kizhakencheri, 
+Alathur Taluk
+10.48721
+76.502767
+Debris
+slide
+Initiated on 16/8/18
+14183
+KRL/PKD/58B11/2018/35
+Kerala
+Palakkad
+Kaviluvara debris slide
+Kaviluvara , Kizhakencheri, 
+Alathur Taluk
+10.479755
+76.528452
+Debris
+slide
+Initiated on 16/8/18
+14184
+KRL/PKD/58B11/2018/36
+Kerala
+Palakkad
+Kadappara village
+Kadappara village
+10.467801
+76.565078
+Debris
+slide
+Initiated on 16/8/18
+14185
+KRL/PKD/58B11/2018/55
+Kerala
+Palakkad
+Brookland estate slide
+Brookland estate, 
+Neeliampathy, Chittur Taluk
+10.451009
+76.66347
+Debris
+Subsidence
+Initiated on night of 16/8/18
+14186
+KRL/PKD/58B11/2018/56
+Kerala
+Palakkad
+Way to Brookland estate, 
+Neeliampathy
+10.456635
+76.67035
+Debris
+slide
+Initiated on 16/8/18
+14187
+KRL/PKD/58B11/2018/57
+Kerala
+Palakkad
+Way to Brookland estate, 
+Neeliampathy
+10.4563
+76.66926
+Debris
+slide
+Initiated on 16/8/18
+14188
+KRL/PKD/58B11/2018/58
+Kerala
+Palakkad
+Way to Brookland estate, 
+Neeliampathy
+10.4576
+76.6655
+Debris
+slide
+Initiated on 16/8/18

@@ -1,0 +1,303 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+717
+ASM/DH/83G4/ PD/2016/17
+Assam
+Dima Hasao
+Near and below Assam rifles camp, 
+Boro Haflong-3.
+Boro Haflong, Haflong, Dima 
+Hasao  (NC Hills)
+25.14041667
+93.02038889
+Debris
+Slide
+22 May 2016
+718
+ASM/DH/83G4/ PD/2016/18
+Assam
+Dima Hasao
+Jatinga-Haflong Road section-1.
+Jatinga-Haflong Road section, 
+Haflong, Dima Hasao  (NC Hills)
+25.13961111
+93.01955556
+Debris
+Slide
+22 May 2016
+719
+AS/KAM(M)/78N12/2023/01
+Assam
+Kamrup (Metro)
+Dhirenpara
+Jonali path
+26.150124
+91.727915
+Earth
+Slide
+17 Jun 2023 at 18:00 hrs.
+720
+ASM/DH/83G4/ PD/2016/20
+Assam
+Dima Hasao
+Newngalsong
+Newngalsong village, Mahur, 
+Dima Hasao  (NC Hills)
+25.18452778
+93.12563889
+Debris
+Slide
+May, 2016
+721
+ASM/DH/83G4/ PD/2016/21
+Assam
+Dima Hasao
+Heuwangaberam-2
+Heuwangaberam,village,Mahur,
+Dima Hasao  (NC Hills)
+25.18725
+93.12055556
+Debris
+Slide
+NA
+722
+ASM/DH/83G4/ PD/2016/23
+Assam
+Dima Hasao
+Mahur
+Mahur, Dima Hasao  (NC Hills)
+25.17638889
+93.11613889
+Debris
+Slide
+22 May 2016
+723
+ASM/DH/83G4/ PD/2016/05
+Assam
+Dima Hasao (N.C. Hills)
+Khongsai slide-1
+Khongsai village, Haflong, 
+25.1775
+93.02622222
+Earth
+Shallow 
+rotational
+22 May 2016
+724
+ASM/DH/83G4/ PD/2016/08
+Assam
+Dima Hasao
+Khongsai slide- 2
+Khongsai village, Haflong, Dima 
+Hasao  (NC Hills)
+25.17691667
+93.02655556
+Earth
+Slide
+22 May 2016
+725
+ASM/DH/83G4/ PD/2016/09
+Assam
+Dima Hasao
+Muolhoi /Gilgal
+Muolhoi /Gilgal village, Haflong, 
+Dima Hasao  (NC Hills)
+25.17702778
+93.02088889
+Earth
+Slide
+22 May 2016
+726
+ASM/DH/83G4/ PD/2016/22
+Assam
+Dima Hasao
+Heuwangaberam-3
+Heuwangaberam village, 
+Mahur, Dima Hasao  (NC Hills)
+25.19308333
+93.12041667
+Earth
+Slide
+May, 2016
+727
+ASM/DH/83G4/ PD/2016/19
+Assam
+Dima Hasao
+ Jatinga-2
+Jatinga, Haflong, Dima Hasao  
+(NC Hills)
+25.13447222
+93.01897222
+Rock
+Slide
+22 May 2016
+728
+ASM/KAM 
+(M)/78N16/2017/0006
+Assam
+Kamrup (Metro)
+Bonda, Hajongdisa slide
+Tuinang colony
+26.18841667
+91.85125
+Earth
+Slide
+16 June 2017
+729
+ASM/KAM(M)/78N16/2016/63
+Assam
+Kamrup (Metro)
+Mandakini slide
+Mandakini path, Kharghuli
+26.19244444
+91.76422222
+Earth
+Slide
+20 July 2016
+730
+ASM/KAM/78N16/2019/03
+Assam
+Kamrup (Metro)
+Amiya Nagar Slide
+Chandmari
+26.19236111
+91.78080556
+Debris
+Subsidence
+10 July 2019
+731
+ASM/KAM/78N12/2019/04
+Assam
+Kamrup (Metro)
+Bezbaruah Nagar slide
+Nilachalpur, Bezbaruah Nagar
+26.15805556
+91.71258333
+Debris
+Slide
+16 July 2019
+732
+ASM/West Sarania/78N16/2016-
+17/65
+Assam
+Kamrup (Metro)
+West Sarania slide (Guwahati)
+Pub Sarania hill, Guwahati.
+26.1755
+91.76175
+Debris
+Slide
+14 July 2016
+733
+ASM/ Nijabara/78N16/2016-
+17/64
+Assam
+Kamrup (Metro)
+Nijabara slide  (Guwahati)
+Noonmati, Guwahati.
+26.19038889
+91.80994444
+Earth
+Slide
+14 July 2016
+734
+AS/KAMRUP(M)/78N16/2014-
+15/0004
+Assam
+Kamrup (Metro)
+Nabragraha Slide, Bapuji Nagar 
+Housing Complex.
+SH: Chandmari Road. Localtiy: 
+Bapuji Nagar Housing Complex, 
+Guwahati.
+26.18866667
+91.76694444
+Earth
+Flow
+27 June 2014
+735
+AS/WKA/83C09/2020/21
+Assam
+West Karbi Anglong
+Hatidubi Dam Slide
+Hatidubi Dam site, Lengery, 
+Amtreng
+25.91286
+92.49797
+Debris
+Slide
+24th to 27th Sept. 2020.
+736
+AS/KAMRUP(M)/78N16/2014-
+15/0005
+Assam
+Kamrup (Metro)
+Karghuli Landslide, Bankuwar Nagar, 
+Guwahati.(Twin Slide in same road)
+SH: Chandmari Road. Localtiy: 
+Bankuwar Nagar, Karghuli 
+Pahar, Guwahati.
+26.19622222
+91.76336111
+Earth
+Flow
+27 June 2014
+737
+AS/WKA/83C09/2020/14
+Assam
+West Karbi Anglong
+Approach Road (Hatidubi Dam)-14
+Hatidubi Dam Site, Lengery, 
+Amtreng
+25.96664
+92.51636
+Earth
+Slide
+24th to 26th September, 2020
+738
+AS/WKA/83C09/2020/15
+Assam
+West Karbi Anglong
+Approach Road (Hatidubi Dam)-15
+Hatidubi Dam Site, Lengery, 
+Amtreng
+25.967
+92.51617
+Debris
+Slide
+24th to 26th September, 2020
+739
+AS/WKA/83C09/2020/20
+Assam
+West Karbi Anglong
+Approach Road (Power House, 
+Hatidubi Dam)-2
+Hatidubi Dam site, Lengery, 
+Amtreng
+25.96458
+92.52081
+Debris
+Slide
+24th to 26th September, 2020
+740
+AS/WKA/83C09/2020/16
+Assam
+West Karbi Anglong
+Approach Road (Hatidubi Dam)-16
+Hatidubi Dam Site, Lengery, 
+Amtreng
+25.96886
+92.51572
+Earth
+Slide
+24th to 26th September, 2020

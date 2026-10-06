@@ -1,0 +1,414 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+25412
+NG/TUE/83N4/2017/18
+Nagaland
+Tuensang
+ 
+NoklakPangsha Road
+26.24325
+95.073167
+Debris
+Slide
+NA
+25413
+NAG/ZUNH/83J08/2015/ 0074
+Nagaland
+Zunheboto
+ 
+12 km SW of Mokokchung on 
+the way to Lumami
+26.247056
+94.479694
+Rock
+Slide
+NA
+25414
+NAG/TUN/83J16/2016/0052
+Nagaland
+Tuensang
+ 
+Tuensang Village
+26.249
+94.819778
+Debris
+Slide
+NA
+25415
+NG/TUE/83J15/2017/55
+Nagaland
+Tuensang
+ 
+5km NW of Tuensang Town
+26.251111
+94.808889
+Debris
+Slide
+NA
+25416
+NG/TUE/83N3/2017/6
+Nagaland
+Tuensang
+ 
+NoklakPangsha Road
+26.251778
+95.072111
+Rock
+Slide
+NA
+25417
+NAG/TUEN/83J11/2015/ 0119
+Nagaland
+Tuensang
+ 
+Old Tsatanger Village
+26.253611
+94.616639
+Debris
+Slide
+NA
+25418
+NG/TUE/83N3/2017/8
+Nagaland
+Tuensang
+ 
+NoklakPangsha Road
+26.256833
+95.096639
+Rock
+Slide
+NA
+25419
+NG/TUE/83N3/2017/9
+Nagaland
+Tuensang
+ 
+NoklakPangsha Road
+26.257028
+95.099528
+Debris
+Slide
+NA
+25420
+NG/TUE/83J15/2017/14
+Nagaland
+Tuensang
+ 
+3 km N of Tuensang Town
+26.258889
+94.8175
+Rock
+Slide
+NA
+25421
+NG/TUE/83N3/2017/7
+Nagaland
+Tuensang
+ 
+NoklakPangsha Road
+26.259083
+95.085972
+Rock
+Slide
+NA
+25422
+NA/WOK/83J03/2020/9
+Nagaland
+Wokha
+ 
+Merapani-Wokha rd
+26.26
+94.15
+Rock
+Slide
+NA
+25423
+NA/WOK/83J03/2020/10
+Nagaland
+Wokha
+ 
+2km N of Baghty
+26.26
+94.15
+Rock
+Fall
+NA
+25424
+NG/NOK/83N3/2017/21
+Nagaland
+Noklak
+ 
+Pangsha
+26.260333
+95.104806
+Debris
+Slide
+NA
+25425
+NG/TUE/83J15/2017/4
+Nagaland
+Tuensang
+ 
+0.5 km north of Tuensang 
+Village
+26.260556
+94.813333
+Debris
+Slide
+NA
+25426
+NG/TUE/83J15/2017/5
+Nagaland
+Tuensang
+ 
+700 m North of L8, opposite 
+bank of river.
+26.260556
+94.809444
+Debris
+Slide
+NA
+25427
+NG/TUE/83J15/2017/54
+Nagaland
+Tuensang
+ 
+3km N of Tuensang Village
+26.260556
+94.813333
+Debris
+Slide
+NA
+25428
+NG/TUE/83J15/2017/6
+Nagaland
+Tuensang
+ 
+3 km North of Tuensang Village 26.261111
+94.809444
+Debris
+Slide
+NA
+25429
+NG/NOK/83N3/2017/22
+Nagaland
+Noklak
+ 
+Pangsha
+26.26175
+95.103444
+Debris
+Slide
+NA
+25430
+NG/NOK/83N3/2017/20
+Nagaland
+Noklak
+ 
+Pangsha
+26.262889
+95.084667
+Debris
+Slide
+NA
+25431
+NG/TUE/83J15/2017/7
+Nagaland
+Tuensang
+ 
+3.2 km north of Tuensang 
+Village
+26.263889
+94.812222
+Debris
+Fall
+NA
+25432
+NG/TUE/83J15/2017/53
+Nagaland
+Tuensang
+ 
+Near Graveyard of Tuensang 
+Village
+26.264444
+94.815556
+Rock
+Slide
+NA
+25433
+NA/WOK/83J03/2020/8
+Nagaland
+Wokha
+ 
+1Km of Baghty
+26.27
+94.14
+Rock
+Slide
+NA
+25434
+NAG/TUE/83J11/2009/F-9
+Nagaland
+Tuensang
+Sangdok slide
+ 
+26.27028
+94.75
+NA
+ 
+21 June,2009
+25435
+NAG/MOK/83J/7/2016/0003
+Nagaland
+Mokokchung
+ 
+Alichen NAP camp
+26.271389
+94.453972
+Debris
+Slide
+2016
+25436
+NAG/TUEN/83J11/2015/ 0117
+Nagaland
+Tuensang
+ 
+Chungliyemti Village
+26.272028
+94.585056
+Debris
+Slide
+NA
+25437
+NAG/TUEN/83J11/2015/ 0118
+Nagaland
+Tuensang
+ 
+Chungliyemti Village
+26.272361
+94.58425
+Rock
+Slide
+NA
+25438
+NG/TUE/83J15/2017/8
+Nagaland
+Tuensang
+ 
+8 kms north of Tuensang Village 26.273333
+94.83
+Debris
+Slide
+NA
+25439
+NG/TUE/83J15/2017/24
+Nagaland
+Tuensang
+ 
+3.3 kms NE of Naksho Village
+26.275
+94.770278
+Rock
+Slide
+NA
+25440
+NG/TUE/83J15/2017/16
+Nagaland
+Tuensang
+ 
+2 km S of Podampo Village
+26.275167
+94.770472
+Rock
+Slide
+NA
+25441
+NAG/TUEN/83J11/2015/ 0116
+Nagaland
+Tuensang
+ 
+Chungliyemti Village
+26.276306
+94.58375
+Rock
+Slide
+NA
+25442
+Nagaland/Wokha/83J03/2019/0
+59
+Nagaland
+Wokha
+#N/A
+#N/A
+26.27647222
+94.13175
+Sandy soil
+Slide
+ July 2017,2018 and 2019
+25443
+NG/TUE/83J15/2017/15
+Nagaland
+Tuensang
+ 
+16 km SW of Hakchang Village
+26.276667
+94.8275
+Debris
+Slide
+NA
+25444
+NA/WOK/83J03/2020/6
+Nagaland
+Wokha
+ 
+Merapani-Wokha rd
+26.28
+94.13
+Rock
+Fall
+NA
+25445
+NA/WOK/83J03/2020/7
+Nagaland
+Wokha
+ 
+0.5 km of Bhandari
+26.28
+94.13
+Earth
+Slide
+2017
+25446
+NAG/MOK/83J/7/2016/0004
+Nagaland
+Mokokchung
+ 
+NH-61 at junction Chakabama-
+Mokokchung Road
+26.282667
+94.475667
+Debris
+Slide
+2016
+25447
+NAG/MOK/83J/7/2016/0001
+Nagaland
+Mokokchung
+ 
+Between Mangmetong and 
+Okotso
+26.286222
+94.364167
+Debris
+Slide
+2016

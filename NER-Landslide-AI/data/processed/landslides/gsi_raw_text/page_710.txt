@@ -1,0 +1,442 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27981
+TN/NIL/58A07/2019/25
+Tamil Nadu
+Nilgiri
+Appukodu slide
+Appukodu
+11.35913611
+76.65180833
+Soil
+Slide
+08 August 2019
+27982
+TN/NIL/58A07/2019/26
+Tamil Nadu
+Nilgiri
+Murgan temple slide
+Murgan temple
+11.34962222
+76.64144167
+Debris
+Slide
+08 August 2019
+27983
+TN/NIL/58A07/2019/27
+Tamil Nadu
+Nilgiri
+Emerlad slide -1
+Emerlad
+11.31956389
+76.62323333
+Debris.
+Slide
+08 August 2019
+27984
+TN/NIL/58A07/2019/28
+Tamil Nadu
+Nilgiri
+Emeralad slide-2
+Emeralad
+11.31895556
+76.62474167
+Debris.
+Slide
+08 August 2019 (Night)
+27985
+TN/NIL/58A07/2019/29
+Tamil Nadu
+Nilgiri
+Emeralad slide-3
+Emeralad.
+11.31533611
+76.62669444
+Debris.
+Slide
+08 August 2019 (7-8 pm)
+27986
+TN/NIL/58A11/2019/30
+Tamil Nadu
+Nilgiri
+Emeralad slide-4
+Emeralad
+11.31546111
+76.62583722
+Rock cum debris
+Slide
+08 August 2019 (7-8 pm)
+27987
+TN/NIL/58A07/2019/31
+Tamil Nadu
+Nilgiri
+Not Available
+Emeralad along the 
+downstream of nala
+11.31468333
+76.62637222
+Rock cum debris
+Slide
+08 August 2019 (7 am)
+27988
+TN/NIL/58A07/2019/32
+Tamil Nadu
+Nilgiri
+Not Available
+Emeralad along the 
+downstream of nala
+11.31385
+76.62715
+Debris
+Subsidence
+08 August 2019 (7 pm)
+27989
+TN/NIL/58A07/2019/33
+Tamil Nadu
+Nilgiri
+Not Available
+Nerkandi
+11.31278333
+76.62521111
+Debris
+Slide
+08 August 2019
+27990
+TN/NIL/58A07/2019/34
+Tamil Nadu
+Nilgiri
+Not Available
+New Attabail
+11.30375972
+76.62717194
+Debris
+Slide
+08 August 2019 (8-9 am)
+27991
+TN/NIL/58A07/2019/35
+Tamil Nadu
+Nilgiri
+Not Available
+New Attubail
+11.31278333
+76.62521111
+Debris
+Slide
+08 August 2019 (8-9 am)
+27992
+TN/NIL/58A07/2019/36
+Tamil Nadu
+Nilgiri
+Not Available
+New Attubail
+11.30446639
+76.61826861
+Debris
+Slide
+07 August 2019 (10:45 pm)
+27993
+TN/NIL/58A07/2019/37
+Tamil Nadu
+Nilgiri
+Not Available
+New Attubail
+11.30400222
+76.61938694
+Debris
+Slide
+08 August 2019
+27994
+TN/NIL/58A07/2019/38
+Tamil Nadu
+Nilgiri
+Not Available
+New Attubail
+11.30533472
+76.61881611
+Debris
+Slide
+08 August 2019
+27995
+TN/NIL/58A07/2019/39
+Tamil Nadu
+Nilgiri
+Not Available
+Newattboil
+11.30718056
+76.61859444
+Debris
+Slide
+08 August 2019 (08:00 am)
+27996
+TN/NIL/58A07/2019/40
+Tamil Nadu
+Nilgiri
+Not Available
+Newattboil
+11.30777778
+76.61816667
+Debris
+Slide
+8 August 2019
+27997
+TN/NIL/58A07/2019/41
+Tamil Nadu
+Nilgiri
+Not Available
+Ghandikandi
+11.3034
+76.62228333
+Debris
+Slide
+8 August 2019 (2:30 pm)
+27998
+TN/NIL/58A07/2019/42
+Tamil Nadu
+Nilgiri
+Not Available
+Road towards Eddakadu village
+11.30527222
+76.63084722
+Debris
+Slide
+8 August 2019
+27999
+TN/NIL/58A07/2019/43
+Tamil Nadu
+Nilgiri
+Not Available
+Pathakandi village
+11.29669444
+76.63436111
+Debris
+Slide
+8 August 2019
+28000
+TN/NIL/58A07/2019/44
+Tamil Nadu
+Nilgiri
+Not Available
+Avalanchi Forest Road
+11.31093611
+76.61947778
+Debris
+Slide
+8 August 2019
+28001
+TN/NIL/58A07/2019/45
+Tamil Nadu
+Nilgiri
+Not Available
+Bharathi Nagar
+11.31245
+76.632075
+Debris
+Slide
+8 August 2019 (2:00 pm)
+28002
+TN/NIL/58A07/2019/46
+Tamil Nadu
+Nilgiri
+Not Available
+Bharathi Nagar
+11.309525
+76.63230278
+Debris
+Slide
+8 August 2019
+28003
+TN/NIL/58A07/2019/47
+Tamil Nadu
+Nilgiri
+Not Available
+Bharathi Nagar
+11.31091389
+76.61695
+Debris
+Slide
+8 August 2019 (2:00 pm)
+28004
+TN/NIL/58A07/2019/48
+Tamil Nadu
+Nilgiri
+Not Available
+Emerald
+11.31774167
+76.62316667
+Debris
+Slide
+8 August 2019
+28005
+TN/NIL/58A11/2019/49
+Tamil Nadu
+Nilgiri
+Not Available
+Emerald
+11.31813889
+76.62159722
+Rock cum debris
+Slide
+8 August 2019
+28006
+TN/NIL/58A11/2019/50
+Tamil Nadu
+Nilgiri
+Not Available
+Emerald Dam
+11.32480833
+76.61985556
+Debris
+Slide
+8 August 2019
+28007
+TN/NIL/58A11/2019/51
+Tamil Nadu
+Nilgiri
+Not Available
+Emerald Dam towards 
+Kattukupai
+11.34251667
+76.59768611
+Debris
+Slide
+8 August 2019
+28008
+TN/NIL/58A11/2019/52
+Tamil Nadu
+Nilgiri
+Not Available
+Emerald Dam towards 
+Kattukupai
+11.34599167
+76.59545
+Debris
+Slide
+8 August 2019
+28009
+TN/NIL/58A07/2019/53
+Tamil Nadu
+Nilgiri
+Not Available
+Near Bharathiyar University 
+College
+11.49304444
+76.45360278
+Debris
+Slide
+8 August 2019
+28010
+TN/NIL/58A07/2019/54
+Tamil Nadu
+Nilgiri
+Not Available
+Near Bharathiyar University 
+College
+11.49326667
+76.45346667
+Debris
+Slide
+8 August 2019
+28011
+TN/NIL/58A07/2019/55
+Tamil Nadu
+Nilgiri
+Not Available
+Near 1.5km NE of Nadugani 
+Village
+11.47850556
+76.4215
+Debris
+Slide
+8 August 2019
+28012
+TN/NIL/58A07/2019/56
+Tamil Nadu
+Nilgiri
+Not Available
+Near Marala Malai
+11.45208333
+76.40720278
+Debris
+Slide
+8 August 2019
+28013
+TN/NIL/58A07/2019/57
+Tamil Nadu
+Nilgiri
+Not Available
+Near Marala Malai (Kil 
+Nadugani)
+11.44234444
+76.39845278
+Rock cum Debris
+Slide
+8 August 2019
+28014
+TN/NIL/58A07/2019/58
+Tamil Nadu
+Nilgiri
+Not Available
+Near Marala Malai (Kil 
+Nadugani)
+11.438075
+76.39306111
+Debris
+Slide
+8 August 2019
+28015
+TN/NIL/58A07/2019/59
+Tamil Nadu
+Nilgiri
+Not Available
+Near Marala Malai (Kil 
+Nadugani)
+11.43790556
+76.39236111
+Debris
+Slide
+8 August 2019
+28016
+TN/NIL/58A07/2019/60
+Tamil Nadu
+Nilgiri
+Not Available
+Near Panthalur
+11.50833333
+76.31916667
+Debris flow
+Flow
+8 August 2019
+28017
+TN/NIL/58A07/2019/61
+Tamil Nadu
+Nilgiri
+Kattukuppai debris flow
+Road from Emerald colony to 
+Kundah PH-6, Kattukuppai
+11.34749
+76.59668
+Debris
+Flow
+8 August 2019
+28018
+TN/NIL/58A/11/2019/62
+Tamil Nadu
+Nilgiri
+TNEB PH-6 debris slide
+TNEB R-type quarters, 
+Kattukuppai
+11.36275
+76.60348
+Debris
+Slide
+8 August 2019

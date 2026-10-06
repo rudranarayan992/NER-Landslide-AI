@@ -1,0 +1,573 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+6307
+HP/MAN/53A13/2015/216
+Himachal Pradesh
+Mandi
+ 
+South of Dharampur,NH 70
+31.794
+76.75171
+Rock cum debris
+Slide
+NA
+6308
+HP/MAN/53A13/2015/229
+Himachal Pradesh
+Mandi
+ 
+Malaun,NH 70
+31.79407
+76.7869
+Rock cum debris
+Slide
+NA
+6309
+HP/MAN/53A13/2015/217
+Himachal Pradesh
+Mandi
+ 
+South of Dharampur,NH 70
+31.79427
+76.75169
+Rock cum debris
+Slide
+NA
+6310
+HP/KAN/53A05/2018/49
+Himachal Pradesh
+Kangra
+ 
+MANJHI CHAWK
+31.79467
+76.35727
+Rock cum debris
+Slide
+NA
+6311
+HP/MAN/53A13/2015/24
+Himachal Pradesh
+Mandi
+ 
+Bataur,NH 70
+31.79484
+76.80924
+Debris
+Slide
+NA
+6312
+HP/KAN/53A05/2018/50
+Himachal Pradesh
+Kangra
+ 
+ 
+31.795159
+76.342814
+Debris
+Slide
+NA
+6313
+HP/MAN/53A13/2015/218
+Himachal Pradesh
+Mandi
+ 
+South of Dharampur,NH 70
+31.7966
+76.75507
+Rock
+Slide
+NA
+6314
+HP/MAN/53A13/2015/219
+Himachal Pradesh
+Mandi
+ 
+South of Dharampur,NH 70
+31.7966
+76.75502
+Debris
+Subsidence
+NA
+6315
+HP/MAN/53A13/2015/220
+Himachal Pradesh
+Mandi
+ 
+South of Dharampur,NH 70
+31.797
+76.75554
+Debris
+Slide
+NA
+6316
+HP/MAN/53A13/2015/239
+Himachal Pradesh
+Mandi
+ 
+Dhalwan
+31.797
+76.842
+Debris
+Slide
+NA
+6317
+HP/MAN/53A13/2015/221
+Himachal Pradesh
+Mandi
+ 
+South of Dharampur,NH 70
+31.79715
+76.75572
+Debris
+Subsidence
+NA
+6318
+HP/KAN/53A01/2018/38
+Himachal Pradesh
+Una
+ 
+South of Badhmana
+31.797562
+76.065885
+Debris
+Slide
+NA
+6319
+HP/UNA/53A01/2018/17
+Himachal Pradesh
+Una
+ 
+South of Badhmana
+31.797562
+76.065885
+Debris
+Slide
+NA
+6320
+HP/MAN/53A13/2015/222
+Himachal Pradesh
+Mandi
+ 
+South of Dharampur,NH 70
+31.79792
+76.75648
+Debris
+Slide
+NA
+6321
+HP/MAN/53A13/2015/191
+Himachal Pradesh
+Mandi
+ 
+Dharampur
+31.79828
+76.75102
+Debris
+Slide
+NA
+6322
+HP/MAN/53A13/2015/136
+Himachal Pradesh
+Mandi
+ 
+Dharampur
+31.79853
+76.7522
+Rock cum debris
+Slide
+NA
+6323
+HP/MAN/53A13/2015/135
+Himachal Pradesh
+Mandi
+ 
+Dharampur
+31.79855
+76.7515
+Debris
+Slide
+NA
+6324
+HP/MAN/53A13/2015/133
+Himachal Pradesh
+Mandi
+ 
+Dharampur
+31.79859
+76.75138
+Rock
+Slide
+NA
+6325
+HP/MAN/53A13/2015/192
+Himachal Pradesh
+Mandi
+ 
+Dharampur
+31.79865
+76.75331
+Rock
+Slide
+NA
+6326
+HP/MAN/53A13/2015/134
+Himachal Pradesh
+Mandi
+ 
+Dharampur
+31.79869
+76.75179
+Rock
+Slide
+NA
+6327
+HP/MAN/53A13/2015/251
+Himachal Pradesh
+Mandi
+ 
+Hallu
+31.798702
+76.954477
+Rock
+Slide
+NA
+6328
+HP/MAN/53E01/2015/29
+Himachal Pradesh
+Mandi
+ 
+ 
+31.799083
+77.057222
+Debris
+Slide
+NA
+6329
+HP/MAN/53A13/2015/250
+Himachal Pradesh
+Mandi
+ 
+Hallu
+31.799102
+76.954746
+Rock
+Slide
+NA
+6330
+HP/MAN/53E01/2015/97
+Himachal Pradesh
+Mandi
+ 
+Hurla nala
+31.799194
+77.015028
+Debris
+Slide
+NA
+6331
+HP/MAN/53E01/2015/96
+Himachal Pradesh
+Mandi
+ 
+Hurla nala
+31.799194
+77.015028
+Rock
+Slide
+NA
+6332
+HP/MAN/53A13/2015/223
+Himachal Pradesh
+Mandi
+ 
+East of Dharampur,NH 70
+31.79937
+76.76156
+Debris
+Slide
+NA
+6333
+HP/MAN/53A13/2015/249
+Himachal Pradesh
+Mandi
+ 
+Hallu
+31.799679
+76.954801
+Rock
+Slide
+NA
+6334
+HP/MAN/53A13/2015/21
+Himachal Pradesh
+Mandi
+ 
+Thapra,NH 70
+31.80007
+76.78624
+Debris
+Slide
+NA
+6335
+HP/MAN/53E01/2015/28
+Himachal Pradesh
+Mandi
+ 
+Jhanjheli-Thunag road
+31.800139
+77.057417
+Rock
+Fall
+NA
+6336
+HP/MAN/53A13/2015/247
+Himachal Pradesh
+Mandi
+ 
+Hallu
+31.800152
+76.95474
+Rock
+Slide
+NA
+6337
+HP/MAN/53A13/2015/248
+Himachal Pradesh
+Mandi
+ 
+Hallu
+31.800237
+76.955247
+Rock
+Slide
+NA
+6338
+HP/MAN/53A10/2018/15
+Himachal Pradesh
+Mandi
+ 
+Hawni-Brang Road
+31.800278
+76.528861
+Debris
+Slide
+NA
+6339
+HP/MAN/53E01/2015/27
+Himachal Pradesh
+Mandi
+ 
+ 
+31.800722
+77.058056
+Debris
+Slide
+NA
+6340
+HP/MAN/53E01/2015/26
+Himachal Pradesh
+Mandi
+ 
+ 
+31.800861
+77.051111
+Debris
+Slide
+NA
+6341
+HP/MAN/53E01/2015/98
+Himachal Pradesh
+Mandi
+ 
+Hurla nala
+31.801278
+77.015167
+Debris
+Slide
+NA
+6342
+HP/MAN/53A13/2015/224
+Himachal Pradesh
+Mandi
+ 
+Sarsikhan,NH 70
+31.80137
+76.76318
+Debris
+Slide
+NA
+6343
+HP/MAN/53E01/2015/99
+Himachal Pradesh
+Mandi
+ 
+Hurla nala
+31.801417
+77.015556
+Debris
+Slide
+NA
+6344
+HP/MAN/53E01/2015/100
+Himachal Pradesh
+Mandi
+ 
+ 
+31.801833
+77.01625
+Debris
+Slide
+NA
+6345
+HP/MAN/53A13/2015/30
+Himachal Pradesh
+Mandi
+ 
+Saroli,SH19
+31.80261
+76.76794
+Rock
+Slide
+NA
+6346
+HP/MAN/53A13/2015/79
+Himachal Pradesh
+Mandi
+ 
+Saroli,SH19
+31.8027
+76.76624
+Debris
+Slide
+NA
+6347
+HP/MAN/53A13/2015/25
+Himachal Pradesh
+Mandi
+ 
+Sitahan,NH 70,MS 245
+31.80283
+76.8223
+Debris
+Slide
+NA
+6348
+HP/MAN/53A13/2015/31
+Himachal Pradesh
+Mandi
+ 
+Saroli,SH19
+31.80308
+76.76821
+Debris
+Slide
+NA
+6349
+HP/MAN/53A13/2015/100
+Himachal Pradesh
+Mandi
+ 
+Drang,NH20
+31.80369
+76.94682
+Rock
+Slide
+NA
+6350
+HP/MAN/53A13/2015/101
+Himachal Pradesh
+Mandi
+ 
+DRANG,NH20
+31.80369
+76.94682
+Rock
+Slide
+2009
+6351
+HP/MAN/53A13/2015/172
+Himachal Pradesh
+Mandi
+ 
+Saroli,SH19
+31.80396
+76.76858
+Rock
+Slide
+NA
+6352
+HP/MAN/53A13/2015/173
+Himachal Pradesh
+Mandi
+ 
+Saroli,SH19
+31.80506
+76.76883
+Rock
+Slide
+NA
+6353
+HP/MAN/53A13/2015/174
+Himachal Pradesh
+Mandi
+ 
+North of Saroli,SH 19
+31.80557
+76.76895
+Rock
+Slide
+NA
+6354
+HP/MAN/53A13/2015/193
+Himachal Pradesh
+Mandi
+ 
+Dharampur,SH 17
+31.80579
+76.76338
+Debris
+Slide
+NA
+6355
+HP/MAN/53E01/2015/25
+Himachal Pradesh
+Mandi
+ 
+ 
+31.805833
+77.054444
+Debris
+Slide
+NA
+6356
+HP/MAN/53A13/2015/22
+Himachal Pradesh
+Mandi
+ 
+Rakhera
+31.806
+76.776
+Debris
+Slide
+NA
+6357
+HP/MAN/53A13/2015/237
+Himachal Pradesh
+Mandi
+ 
+NE of Kohiyar
+31.80641
+76.85201
+Rock
+Slide
+NA

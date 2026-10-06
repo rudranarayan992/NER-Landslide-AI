@@ -1,0 +1,312 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+24021
+MIZ/LUN/84A12/2025/053
+Mizoram
+Lunglei
+North of Ramlaitui, Aizawl-
+Thenzawl-Lunglei SH
+23.197177
+92.735661
+Debris
+Slide
+May 2024
+24022
+MIZ/LUN/84A12/2025/054
+Mizoram
+Lunglei
+North of Ramlaitui, Aizawl-
+Thenzawl-Lunglei SH
+23.196642
+92.735456
+Debris
+Slide
+July 2025
+24023
+MIZ/LUN/84A12/2025/055
+Mizoram
+Lunglei
+North of Ramlaitui, Aizawl-
+Thenzawl-Lunglei SH
+23.193237
+92.734819
+Debris
+Slide
+02 June 2025
+24024
+MIZ/LUN/84A12/2025/056
+Mizoram
+Lunglei
+North of Ramlaitui, Aizawl-
+Thenzawl-Lunglei SH
+23.191775
+92.734778
+Debris
+Slide
+06 June 2025
+24025
+MIZ/LUN/84A12/2025/057
+Mizoram
+Lunglei
+North of Ramlaitui, Aizawl-
+Thenzawl-Lunglei SH
+23.191747
+92.73459
+Debris
+Slide
+02 June 2025
+24026
+MIZ/LUN/84A12/2025/061
+Mizoram
+Lunglei
+North of Ramlaitui, Aizawl-
+Thenzawl-Lunglei SH
+23.189242
+92.734475
+Debris
+Slide and Flow
+July 2025
+24027
+MIZ/LUN/84A12/2025/063
+Mizoram
+Lunglei
+Outside Ramlaitui
+23.187473
+92.734547
+Debris
+Slide
+July 2024
+24028
+MIZ/LUN/84A12/2025/064
+Mizoram
+Lunglei
+Outside Ramlaitui, Aizawl-
+Thenzawl-Lunglei SH
+23.188245
+92.734327
+Rock
+Slide
+02 June 2025
+24029
+MIZ/LUN/84A12/2025/065
+Mizoram
+Lunglei
+Outside Ramlaitui, Aizawl-
+Thenzawl-Lunglei SH
+23.187661
+92.735055
+Rock
+Slide
+May 2025
+24030
+MIZ/LUN/84A12/2025/066
+Mizoram
+Lunglei
+Outside Ramlaitui, Aizawl-
+Thenzawl-Lunglei SH
+23.18675
+92.735178
+Debris
+Slide
+02 June 2025
+24031
+MIZ/LUN/84A12/2025/067
+Mizoram
+Lunglei
+Outside Ramlaitui, Aizawl-
+Thenzawl-Lunglei SH
+23.186501
+92.735632
+Rock
+Slide
+13 September 2025
+24032
+MIZ/LUN/84A12/2025/068
+Mizoram
+Lunglei
+Outside Ramlaitui, Aizawl-
+Thenzawl-Lunglei SH
+23.186296
+92.7356
+Debris
+Slide
+13 September 2025
+24033
+MIZ/LUN/84A12/2025/069
+Mizoram
+Lunglei
+Outside Ramlaitui, Aizawl-
+Thenzawl-Lunglei SH
+23.186133
+92.735682
+Debris
+Slide
+13 September 2025
+24034
+MIZ/LUN/84A12/2025/070
+Mizoram
+Lunglei
+Outside Ramlaitui
+23.184091
+92.738895
+Debris
+Slide
+01 June 2025
+24035
+MIZ/LUN/84A12/2025/071
+Mizoram
+Lunglei
+500 mts north of Ramlaitui 
+Aizawl-Thenzawl-Lunglei SH
+23.185555
+92.736061
+Debris
+Slide
+August 2025
+24036
+MIZ/LUN/84A12/2025/072
+Mizoram
+Lunglei
+200 mts north of Ramlaitui, 
+Aizawl-Thanzawl-Lunglei SH
+23.185396
+92.736019
+Debris
+Slide
+June 2025
+24037
+MIZ/LUN/84A12/2025/074
+Mizoram
+Lunglei
+Ramlaitui
+23.18351
+92.735641
+Debris
+Slide
+June 2025
+24038
+MIZ/LUN/84A12/2025/075
+Mizoram
+Lunglei
+Ramlaitui
+23.183268
+92.736695
+Rock
+Slide
+June 2025
+24039
+MIZ/LUN/84A12/2025/077
+Mizoram
+Lunglei
+Ramlaitui
+23.181667
+92.736374
+Debris
+Slide
+2023
+24040
+MIZ/LUN/84A12/2025/078
+Mizoram
+Lunglei
+Ramlaitui
+23.17884
+92.736546
+Debris
+Slide
+June 2024
+24041
+MIZ/LUN/84A12/2025/084
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH 
+outside Ramlaitui
+23.174341
+92.740855
+Debris
+Slide
+13 September 2025
+24042
+MIZ/LUN/84A12/2025/086
+Mizoram
+Lunglei
+Ramlaitui
+23.176777
+92.738013
+Rock
+Slide
+May 2025
+24043
+MIZ/LUN/84A12/2025/087
+Mizoram
+Lunglei
+Below Aizawl-Thenzawl-Lunglei 
+SH, Ramlaitui to Sekhum
+23.170376
+92.739585
+Debris
+Slide
+August 2025
+24044
+MIZ/LUN/84A12/2025/088
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Ramlaitui to Sekhum
+23.170205
+92.73929
+Debris
+Slide
+August 2025
+24045
+MIZ/LUN/84A12/2025/090
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Ramlaitui to Sekhum
+23.16864
+92.740342
+Debris
+Slide
+August 2025
+24046
+MIZ/LUN/84A12/2025/091
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Ramlaitui to Sekhum
+23.168362
+92.74061
+Debris
+Slide
+September 2025
+24047
+MIZ/LUN/84A12/2025/092
+Mizoram
+Lunglei
+Aizawl-Thenzawl-Lunglei SH, 
+Ramlaitui to Sekhum
+23.165872
+92.741435
+Debris
+Slide
+August 2025
+24048
+MIZ/LUN/84A12/2025/093
+Mizoram
+Lunglei
+South of Ramlaitui
+23.164812
+92.743396
+Debris
+Slide and Flow
+02 June 2025

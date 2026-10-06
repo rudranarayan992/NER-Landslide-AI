@@ -1,0 +1,399 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+13649
+KRL/WAY/58A02/2015/62
+Kerala
+Wayanad
+Churam Road
+Kozhokode - Vythiri-Gudallur 
+Road
+11.506867
+76.030142
+Debris
+Slide
+NA
+13650
+KRL/KOZ/54M14/2015/180
+Kerala
+Kozhikode
+Kanappankundu
+NULL
+11.5075
+75.990833
+Rock cum Debris
+Slide
+2014
+13651
+KRL/KOZ/54M14/2015/139
+Kerala
+Kozhikode
+Manicherimala
+Koorachundu-Kakkayam Road
+11.507778
+75.878333
+Rock cum Debris
+Slide
+2014
+13652
+KRL/KOZ/54M14/2015/186
+Kerala
+Kozhikode
+Mayilallumpara
+NULL
+11.508611
+75.994167
+Rock cum Debris
+Slide
+NA
+13653
+KRL/KOZ/54M14/2015/184
+Kerala
+Kozhikode
+Mayilampara rubber plantation
+NULL
+11.509167
+75.991667
+Debris
+Flow
+1994
+13654
+KRL/KOZ/54M14/2015/140
+Kerala
+Kozhikode
+Manicherimala
+Koorachundu-Kakkayam Road
+11.509444
+75.858889
+Debris
+Flow
+1990
+13655
+KRL/KOZ/54M14/2015/181
+Kerala
+Kozhikode
+Mayilallumpara rubber plantation
+NULL
+11.509722
+75.97
+Rock cum Debris
+Slide
+NA
+13656
+KRL/WAY/58A02/2015/57
+Kerala
+Wayanad
+Near Lakkidi-Near Hairpin No.9
+Kozhokode - Vythiri-Gudallur 
+Road
+11.509792
+76.024886
+Rock cum Debris
+Slide
+NA
+13657
+KRL/KOZ/54M14/2015/130
+Kerala
+Kozhikode
+Idinjakunnu
+Koorachundu-Kakkayam Road
+11.513611
+75.846667
+Debris
+Flow
+1984
+13658
+KRL/WAY/54M14/2015/217
+Kerala
+Wayanad
+Avidanallur
+Koottalida-Koorachundu Road
+11.514444
+75.816389
+Debris
+Flow
+2007
+13659
+KRL/KOZ/54M14/2015/124
+Kerala
+Kozhikode
+Periyamala
+Thalayad-Kakkayam Road
+11.515833
+75.8975
+Debris
+Flow
+2007
+13660
+KRL/KOZ/54M14/2015/129
+Kerala
+Kozhikode
+ponodumala
+Koorachundu-Kakkayam Road
+11.516111
+75.843889
+Debris
+Flow
+2004
+13661
+KRL/KOZ/54M14/2015/123
+Kerala
+Kozhikode
+East of Kilikudikimala
+Thalayad-Kakkayam Road
+11.516389
+75.893333
+Debris
+Slide
+NA
+13662
+KER/KOZH/49M14/2007/0003
+Kerala
+Kozhikode
+Periyamala land rupture
+Kanthaladu
+11.5169
+75.8992
+Debris
+Subsidence
+21 July 2007 (03:50 hrs)
+13663
+KRL/KOZ/54M14/2015/185
+Kerala
+Kozhikode
+Mayilampara forest
+NULL
+11.518056
+75.983056
+Debris
+Flow
+2013
+13664
+KRL/KOZ/54M14/2015/125
+Kerala
+Kozhikode
+Kilikudikkimala rubber plantation
+Thalayad-Kakkayam Road
+11.518333
+75.899444
+Debris
+Slide
+2007
+13665
+KRL/KOZ/54M14/2015/218
+Kerala
+Kozhikode
+Kilikudikki
+Koorachundu-Kakkayam Road
+11.518705
+75.877626
+Debris
+Flow
+2007
+13666
+KRL/KOZ/54M14/2015/126
+Kerala
+Kozhikode
+Kilikudikkimala rubber plantation
+Thalayad-Kakkayam Road
+11.518889
+75.8875
+Debris
+Slide
+2007
+13667
+KRL/WAY/58A02/2015/86
+Kerala
+Wayanad
+Kalladi
+Mepadi-Churalmala Road
+11.519206
+76.135783
+Debris
+Slide
+2008
+13668
+KRL/KOZ/54M14/2015/120
+Kerala
+Kozhikode
+Kilikudikkimala
+Thalayad-Kakkayam Road
+11.519444
+75.885
+Debris
+Slide
+NA
+13669
+KRL/KOZ/54M14/2015/131
+Kerala
+Kozhikode
+Manicherimala
+Koorachundu-Kakkayam Road
+11.520556
+75.859167
+Debris
+Flow
+1984
+13670
+KRL/KOZ/54M14/2015/138
+Kerala
+Kozhikode
+Poovathunchola
+Koorachundu-Kakkayam Road
+11.520556
+75.8725
+Debris
+Flow
+1984
+13671
+KRL/KOZ/54M14/2015/121
+Kerala
+Kozhikode
+27th mile periyamala
+Thalayad-Kakkayam Road
+11.523333
+75.886667
+Debris
+Slide
+1984
+13672
+KRL/WAY/58A02/2015/90
+Kerala
+Wayanad
+Vallateri village road
+NULL
+11.524853
+76.169294
+Debris
+Slide
+NA
+13673
+KRL/KOZ/54M14/2015/163
+Kerala
+Kozhikode
+Cherukkad
+Koottalida-Koorachundu Road
+11.525
+75.821667
+Debris
+Slide
+NA
+13674
+KRL/WAY/58A02/2015/83
+Kerala
+Wayanad
+Thanjirodu
+NULL
+11.525275
+76.145222
+Debris
+Slide
+2009
+13675
+KRL/KOZ/54M14/2015/119
+Kerala
+Wayanad
+North of Kilikudikkimala
+Koorachundu-Kakkayam Road
+11.525278
+75.878333
+Debris
+Flow
+1984
+13676
+KRL/WAY/58A02/2015/89
+Kerala
+Wayanad
+Vallateri road
+NULL
+11.526181
+76.163231
+Debris
+Slide
+NA
+13677
+KRL/WAY/58A02/2015/88
+Kerala
+Wayanad
+Kanthapara1
+NULL
+11.526258
+76.154406
+Rock cum Debris
+Slide
+2009
+13678
+KRL/WAY/58A02/2015/84
+Kerala
+Wayanad
+Thanjirodu1
+NULL
+11.526589
+76.144019
+Debris
+Slide
+2009
+13679
+KRL/KOZ/54M14/2015/122
+Kerala
+Kozhikode
+28th mile periyamala
+Thalayad-Kakkayam Road
+11.526944
+75.890556
+Debris
+Flow
+2008
+13680
+KRL/KOZ/54M14/2015/137
+Kerala
+Kozhikode
+Vallanod
+Koorachundu-Kakkayam Road
+11.527778
+75.878333
+Debris
+Flow
+1984
+13681
+KRL/WAY/58A02/2015/87
+Kerala
+Wayanad
+Kanthapara
+NULL
+11.52815
+76.157156
+Rock
+Fall
+NA
+13682
+KRL/KOZ/54M14/2015/127
+Kerala
+Kozhikode
+Vattachira ponodumala
+Koorachundu-Kakkayam Road
+11.529722
+75.876111
+Rock cum Debris
+Slide
+2014
+13683
+KRL/WAY/58A02/2015/92
+Kerala
+Wayanad
+Rippon tea estate
+Pichen-Noufal Road
+11.531108
+76.187719
+Debris
+Slide
+2012

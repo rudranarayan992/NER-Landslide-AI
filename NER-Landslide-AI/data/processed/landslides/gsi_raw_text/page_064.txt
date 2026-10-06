@@ -1,0 +1,529 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+2274
+HP/SIR/53F06/2017/301
+Himachal Pradesh
+Sirmur
+ 
+Rama, NahanRama Don road
+30.559264
+77.372515
+Rock
+Slide
+NA
+2275
+HP/SIR/53F10/2017/61
+Himachal Pradesh
+Sirmur
+ 
+Kanyon
+30.559665
+77.539273
+Rock
+Slide
+NA
+2276
+HP/SIR/53F10/2017/185
+Himachal Pradesh
+Sirmur
+ 
+South of Tapri
+30.559997
+77.61479
+Rock
+Slide
+NA
+2277
+HP/SIR/53F10/2017/168
+Himachal Pradesh
+Sirmur
+ 
+South of Rudane
+30.560251
+77.747453
+Rock
+Slide
+NA
+2278
+HP/SIR/53F06/2017/300
+Himachal Pradesh
+Sirmur
+RamaDon slide
+Rama, NahanRama Don road
+30.560516
+77.375735
+Rock
+Slide
+NA
+2279
+HP/SIR/53F10/2017/167
+Himachal Pradesh
+Sirmur
+ 
+South of Rudane
+30.560565
+77.747255
+Rock
+Slide
+NA
+2280
+HP/SIR/53F10/2017/190
+Himachal Pradesh
+Sirmur
+ 
+South of Detar
+30.560657
+77.542548
+Rock
+Slide
+NA
+2281
+HP/SIR/53F10/2017/188
+Himachal Pradesh
+Sirmur
+ 
+South of Detar
+30.560862
+77.546242
+Rock
+Slide
+NA
+2282
+HP/SIR/53F14/2017/15
+Himachal Pradesh
+Sirmur
+ 
+Ambheta
+30.561051
+77.769193
+Rock
+Slide
+NA
+2283
+HP/SIR/53F10/2017/187
+Himachal Pradesh
+Sirmur
+ 
+South of Detar
+30.561102
+77.553012
+Rock
+Slide
+NA
+2284
+HP/SIR/53F10/2017/166
+Himachal Pradesh
+Sirmur
+ 
+South of Rudane
+30.561105
+77.747737
+Rock
+Slide
+NA
+2285
+HP/SIR/53F06/2017/290
+Himachal Pradesh
+Sirmur
+ 
+Khakari, NahanRama Don road
+30.561124
+77.374098
+Rock
+Slide
+NA
+2286
+HP/SIR/53F10/2017/9
+Himachal Pradesh
+Sirmur
+ 
+South of Tapri
+30.561381
+77.620104
+Rock
+Slide
+NA
+2287
+HP/SIR/53F10/2017/8
+Himachal Pradesh
+Sirmur
+ 
+South of Tapri
+30.561424
+77.621071
+Rock
+Slide
+NA
+2288
+HP/SIR/53F10/2017/189
+Himachal Pradesh
+Sirmur
+ 
+South of Detar
+30.561605
+77.544762
+Rock
+Slide
+NA
+2289
+HP/SIR/53F14/2017/14
+Himachal Pradesh
+Sirmur
+ 
+Ambheta
+30.562347
+77.767561
+Rock
+Slide
+NA
+2290
+HP/SIR/53F02/2017/37
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.562484
+77.240475
+Rock
+Slide
+NA
+2291
+HP/SIR/53F10/2017/25
+Himachal Pradesh
+Sirmur
+Sadiyar landslide
+Sadiyar
+30.562642
+77.566015
+Rock cum debris
+Slide
+NA
+2292
+HP/SIR/53F10/2017/62
+Himachal Pradesh
+Sirmur
+ 
+Kanyon
+30.562878
+77.540032
+Rock
+Slide
+NA
+2293
+HP/SIR/53F02/2017/38
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.562932
+77.240255
+Rock
+Slide
+NA
+2294
+HP/SIR/53F06/2017/362
+Himachal Pradesh
+Sirmur
+ 
+Kansar R.F.
+30.564086
+77.493167
+Rock
+Slide
+NA
+2295
+HP/SIR/53F02/2017/81
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.564298
+77.173239
+Rock
+Slide
+NA
+2296
+HP/SIR/53F10/2017/60
+Himachal Pradesh
+Sirmur
+ 
+Haldwari
+30.564329
+77.531325
+Rock
+Slide
+NA
+2297
+HP/SIR/53F10/2017/180
+Himachal Pradesh
+Sirmur
+ 
+Bhujon
+30.564428
+77.576934
+Rock cum debris
+Slide
+NA
+2298
+HP/SIR/53F10/2017/58
+Himachal Pradesh
+Sirmur
+ 
+Haldwari
+30.56445
+77.531949
+Rock cum debris
+Slide
+NA
+2299
+HP/SIR/53F06/2017/363
+Himachal Pradesh
+Sirmur
+ 
+Kansar R.F.
+30.564454
+77.493151
+Rock
+Slide
+NA
+2300
+HP/SIR/53F02/2017/82
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.564477
+77.176865
+Rock
+Slide
+NA
+2301
+HP/SIR/53F10/2017/181
+Himachal Pradesh
+Sirmur
+ 
+Bhujon
+30.564508
+77.580479
+Rock cum debris
+Slide
+NA
+2302
+HP/SIR/53F10/2017/59
+Himachal Pradesh
+Sirmur
+ 
+Haldwari
+30.564639
+77.532567
+Rock
+Slide
+NA
+2303
+HP/SIR/53F10/2017/26
+Himachal Pradesh
+Sirmur
+Sadiyar landslide
+Sadiyar
+30.564822
+77.567919
+Rock cum debris
+Slide
+NA
+2304
+HP/SIR/53F02/2017/80
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.564892
+77.17274
+Rock
+Slide
+NA
+2305
+HP/SIR/53F02/2017/79
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.565149
+77.175564
+Rock
+Slide
+NA
+2306
+HP/SIR/53F10/2017/7
+Himachal Pradesh
+Sirmur
+ 
+Bhujon
+30.565182
+77.584104
+Debris
+Slide
+NA
+2307
+HP/SIR/53F10/2017/39
+Himachal Pradesh
+Sirmur
+ 
+Haryal
+30.565222
+77.603583
+Rock
+Slide
+NA
+2308
+HP/SIR/53F06/2017/373
+Himachal Pradesh
+Sirmur
+ 
+Rohas
+30.565316
+77.397817
+Rock
+Slide
+NA
+2309
+HP/SIR/53F02/2017/61
+Himachal Pradesh
+Sirmur
+ 
+Left bank of Mazar ki Nadi
+30.565342
+77.187336
+Rock
+Slide
+NA
+2310
+HP/SIR/53F06/2017/291
+Himachal Pradesh
+Sirmur
+ 
+Daghera R.F., NahanBirla road
+30.565347
+77.378611
+Debris
+Slide
+NA
+2311
+HP/SIR/53F02/2017/85
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.565364
+77.177537
+Rock
+Slide
+NA
+2312
+HP/SIR/53F10/2017/182
+Himachal Pradesh
+Sirmur
+ 
+Dadua
+30.565385
+77.586311
+Debris
+Slide
+NA
+2313
+HP/SIR/53F10/2017/169
+Himachal Pradesh
+Sirmur
+ 
+South of Rudane
+30.565455
+77.746417
+Rock
+Slide
+NA
+2314
+HP/SIR/53F06/2017/292
+Himachal Pradesh
+Sirmur
+ 
+Daghera R.F., NahanBirla road
+30.565619
+77.385726
+Rock
+Slide
+NA
+2315
+HP/SIR/53F10/2017/126
+Himachal Pradesh
+Sirmur
+ 
+Chilon, PaontaShillai road
+30.56571
+77.648572
+Rock
+Slide
+NA
+2316
+HP/SIR/53F02/2017/83
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.565714
+77.178797
+Rock
+Slide
+NA
+2317
+HP/SIR/53F02/2017/78
+Himachal Pradesh
+Sirmur
+ 
+Left bank of River
+30.565717
+77.179694
+Rock
+Slide
+NA
+2318
+HP/SIR/53F02/2017/84
+Himachal Pradesh
+Sirmur
+ 
+ 
+30.565775
+77.176542
+Rock
+Slide
+NA
+2319
+HP/SIR/53F06/2017/379
+Himachal Pradesh
+Sirmur
+ 
+Rohas
+30.565789
+77.397033
+Rock
+Slide
+NA
+2320
+HP/SIR/53F06/2017/305
+Himachal Pradesh
+Sirmur
+ 
+Rohas
+30.565923
+77.396645
+Rock
+Slide
+NA

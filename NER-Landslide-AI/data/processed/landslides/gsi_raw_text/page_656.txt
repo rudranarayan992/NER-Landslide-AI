@@ -1,0 +1,313 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+25933
+NAG/ KOH/ 83 K2/ 2015/01
+Nagaland
+Kohima
+163.0 Km Chainage
+NH-29
+25.73338889
+94.02372222
+Debris
+Shallow 
+translational
+NA
+25934
+NAG/ KOH/ 83K2/ 2015/02
+Nagaland
+Kohima
+Near bridge
+NH-29
+25.73425
+94.00119444
+Debris
+Slide & 
+subsidence
+15 July 2015
+25935
+NAG/ KOH/ 83 K2/ 2015/03
+Nagaland
+Kohima
+165 km
+NH-29
+25.72125
+94.03983333
+Soil
+Subsidence
+June 2013,July 2015
+25936
+NAG/ KOH/ 83K2/ 2015/04
+Nagaland
+Kohima
+171.20KM
+NH-29
+25.68625
+94.04297222
+Soil
+Subsidence
+ 2014, 25 July 2025
+25937
+NAG/ KOH/ 83K2/ 2015/05
+Nagaland
+Kohima
+174.59KM
+NH- 29
+25.68094444
+94.07002778
+Soil
+Slide
+NA
+25938
+NAG/ KOH/ 83K2/ 2015/06
+Nagaland
+Kohima
+179.2 km
+NH-29
+25.66627778
+94.08938889
+Soil
+Subsidence
+NA
+25939
+NAG/KOH/83K2/2015/07
+Nagaland
+Kohima
+181.0 km
+NH-29
+25.66641667
+94.09544444
+Soil
+Subsidence
+NA
+25940
+NAG/KOH/83K2/2015/08
+Nagaland
+Kohima
+Phesama landslide
+NH-2
+25.62509167
+94.11405278
+Soil
+Complex-
+Subsidence, 
+slide, flow
+2013,  18 July 2015
+25941
+NL/ Phek/83K10/2015/22
+Nagaland
+Phek
+Sohomi village slide
+Approach road from Phek to 
+Sohomi village
+25.72075
+94.50163889
+Debris (Colluvial 
+overburden material 
+with highly 
+weathered Shale 
+bedrock)
+Slide
+NA
+25942
+Nagaland/Kohima/Meriema/83
+K02/2017/001.
+Nagaland
+Kohima
+Meriema landslide
+NH-2/ Kohima-Wokha Highway 25.71711111
+94.08561111
+Soil
+Slide
+2013. 29 October 2017
+25943
+Nagaland/Kohima/83K-
+02/2018/001
+Nagaland
+Kohima
+Lower Para Medical Landslide
+NH-29/ Lower Para Medical 
+Colony
+25.66772222
+94.08908333
+Debris
+Subsidence and 
+slide
+ 08 July 2018
+25944
+Nagaland/Kohima/83K-
+02/2018/002
+Nagaland
+Kohima
+New Secretariat Road landslide
+New Secretariat
+25.69172222
+94.10319444
+Debris
+Subsidence and 
+slide
+ 2015, 30 July 2018
+25945
+Nagaland/Kohima/83K-
+02/2018/003
+Nagaland
+Kohima
+Pezielietsie colony landslide
+Pezielietsie colony
+25.68077778
+94.10619444
+Debris
+Subsidence and 
+slide
+31 Juy 2018
+25946
+Nagaland/Kohima/83K02/2019/
+01.
+Nagaland
+Kohima
+164+600 to 164+800
+NH-29/ Dimapur-Kohima 
+National Highway
+25.68616667
+94.04130556
+Debris
+Slide
+2010
+25947
+Nagaland/Kohima/83K02/2019/
+02.
+Nagaland
+Kohima
+Chainage: 164+20 to 164+300
+NH-29/ Dimapur-Kohima 
+National Highway
+25.69422222
+94.04538889
+Debris
+Slide
+2019
+25948
+Nagaland/Kohima/83K02/2019/
+03.
+Nagaland
+Kohima
+Chainage: 163+400 to 163+800
+NH-29/ Dimapur-Kohima 
+National Highway
+25.69422222
+94.04538889
+Debris
+Slide
+2019
+25949
+Nagaland/Kohima/83K02/2019/
+04.
+Nagaland
+Kohima
+Chainage: 163+002 to 163+150
+NH-29/ Dimapur-Kohima 
+National Highway
+25.70247222
+94.04666667
+Highly fractured and 
+jointed shale 
+interbanded with 
+sandstone
+Slide
+2017
+25950
+Nagaland/Kohima/83K02/2019/
+05.
+Nagaland
+Kohima
+Chainage: 162+600 to 162+900
+NH-29/ Dimapur-Kohima 
+National Highway
+25.70497778
+94.044275
+Highly fractured and 
+jointed shale with 
+interbanded 
+sandstone
+Slide
+2018
+25951
+Nagaland/Kohima/83K02/2019/
+06.
+Nagaland
+Kohima
+Chainage: 161+900 to 162+100
+NH-29/ Dimapur-Kohima 
+National Highway
+25.70994444
+94.04122222
+Highly fractured and 
+jointed shale with 
+interbanded 
+sandstone
+Slide
+2016
+25952
+Nagaland/Kohima/83K02/2019/
+07.
+Nagaland
+Kohima
+Chainage: 161+100 to 161+200
+NH-29/ Dimapur-Kohima 
+National Highway
+25.71316667
+94.03863889
+Highly fractured and 
+jointed shale with 
+interbanded 
+sandstone
+Slide
+2017
+25953
+Nagaland/Kohima/83K02/2019/
+08.
+Nagaland
+Kohima
+Chainage: 159+900 to 160+040
+NH-29/ Dimapur-Kohima 
+National Highway
+25.72088889
+94.04036111
+Colluvium
+Slide
+2018
+25954
+Nagaland/Kohima/83K02/2019/
+09
+Nagaland
+Kohima
+Chainage: 158+850 to 159+450
+NH-29/ Dimapur-Kohima 
+National Highway
+25.72516111
+94.03246944
+Colluvium
+Slide
+2016
+25955
+Nagaland/Kohima/83K02/2019/
+10
+Nagaland
+Kohima
+Chainage: 157+800 to 158+300
+NH-29/ Dimapur-Kohima 
+National Highway
+25.73277778
+94.02216667
+Colluvium
+Slide
+2018

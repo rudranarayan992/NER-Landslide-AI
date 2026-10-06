@@ -1,0 +1,529 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+7903
+HP/CHA/52D07/2020/89
+Himachal Pradesh
+Chamba
+ 
+Right bank of ravi river
+32.47
+76.46
+Debris
+Slide
+NA
+7904
+HP/CHA/52D07/2020/93
+Himachal Pradesh
+Chamba
+ 
+Chamba bharmour road
+32.47
+76.43
+Rock
+Slide
+NA
+7905
+HP/CHA/52D07/2020/99
+Himachal Pradesh
+Chamba
+ 
+Right bank of Budhil nala
+32.47
+76.48
+Debris
+Slide
+NA
+7906
+HP/CHA/52D07/2020/100
+Himachal Pradesh
+Chamba
+ 
+Kharamukh- Bharmour road
+32.47
+76.46
+Debris
+Slide
+NA
+7907
+HP/CHA/52D07/2020/104
+Himachal Pradesh
+Chamba
+ 
+Chamba Bharmour road
+32.47
+76.27
+Debris
+Slide
+NA
+7908
+HP/CHA/52D07/2020/106
+Himachal Pradesh
+Chamba
+ 
+ Bagga Left bank of Chamera II
+32.47
+76.26
+Rock
+Slide
+NA
+7909
+HP/CHA/52D07/2020/107
+Himachal Pradesh
+Chamba
+ 
+Bagga Upslope of chamera II
+32.47
+76.25
+Rock
+Slide
+NA
+7910
+HP/CHA/52D07/2020/110
+Himachal Pradesh
+Chamba
+ 
+Kharamukh-Durgati road
+32.47
+76.44
+Rock
+Fall
+NA
+7911
+HP/CHA/52D07/2020/111
+Himachal Pradesh
+Chamba
+ 
+Near chamera III dame site
+32.47
+76.44
+Rock
+Fall
+NA
+7912
+HP/CHA/52D07/2020/114
+Himachal Pradesh
+Chamba
+ 
+Chamba Bharmour road
+32.47
+76.31
+Rock
+Slide
+NA
+7913
+HP/CHA/52D07/2020/118
+Himachal Pradesh
+Chamba
+ 
+Durgati- Kharamukh road
+32.47
+76.44
+Rock
+Slide
+NA
+7914
+HP/CHA/52D07/2020/128
+Himachal Pradesh
+Chamba
+ 
+Chamba Bharmour road
+32.47
+76.3
+Debris
+Slide
+NA
+7915
+HP/CHA/52D11/2020/67
+Himachal Pradesh
+Chamba
+ 
+Kugti
+32.47
+76.7
+Debris
+Slide
+NA
+7916
+HP/CHA/52D11/2020/78
+Himachal Pradesh
+Chamba
+ 
+Kugti
+32.47
+76.69
+Debris
+Slide
+NA
+7917
+HP/CHA/52D11/2020/89
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.47
+76.69
+Debris
+Slide
+NA
+7918
+HP/CHA/52D11/2020/100
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.47
+76.68
+Debris
+Slide
+NA
+7919
+HP/CHA/52D11/2020/103
+Himachal Pradesh
+Chamba
+ 
+Kugti
+32.47
+76.7
+Debris
+Slide
+NA
+7920
+HP/CHA/52D11/2020/111
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.47
+76.68
+Debris
+Slide
+NA
+7921
+HP/CHA/52D11/2020/131
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.47
+76.69
+Rock
+Slide
+NA
+7922
+HP/CHA/52D11/2020/132
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.47
+76.69
+Debris
+Slide
+NA
+7923
+HP/CHA/52D11/2020/134
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.47
+76.69
+Debris
+Slide
+NA
+7924
+HP/CHA/52D11/2020/135
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.47
+76.68
+Rock
+Slide
+NA
+7925
+HP/CHA/52D11/2020/136
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.47
+76.68
+Debris
+Slide
+NA
+7926
+HP/CHA/52D11/2020/137
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.47
+76.67
+Debris
+Slide
+NA
+7927
+HP/CHA/52D11/2020/138
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.47
+76.67
+Rock
+Slide
+NA
+7928
+HP/CHA/52D11/2020/139
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.47
+76.67
+Rock
+Slide
+NA
+7929
+HP/CHA/52D11/2020/140
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.47
+76.68
+Debris
+Slide
+NA
+7930
+HP/CHA/52D11/2020/141
+Himachal Pradesh
+Chamba
+ 
+NH-154A/Hadsar-Kugti Rd
+32.47
+76.67
+Debris
+Slide
+NA
+7931
+HP/CHA/52D03/2020/26
+Himachal Pradesh
+Chamba
+ 
+Jangi,NH-154A
+32.48
+76.19
+Debris
+Slide
+NA
+7932
+HP/CHA/52D03/2020/27
+Himachal Pradesh
+Chamba
+ 
+Jangi,NH-154A
+32.48
+76.19
+Debris
+Slide
+NA
+7933
+HP/CHA/52D03/2020/34
+Himachal Pradesh
+Chamba
+ 
+Jangi,NH-154A
+32.48
+76.19
+Debris
+Slide
+NA
+7934
+HP/CHA/52D03/2020/35
+Himachal Pradesh
+Chamba
+ 
+Jangi,NH-154A
+32.48
+76.19
+Debris
+Slide
+NA
+7935
+HP/CHA/52D07/2020/1
+Himachal Pradesh
+Chamba
+ 
+Near Bagga .
+32.48
+76.26
+Debris
+Slide
+NA
+7936
+HP/CHA/52D07/2020/9
+Himachal Pradesh
+Chamba
+ 
+Right bank of Ravi river,
+32.48
+76.29
+Rock
+Slide
+NA
+7937
+HP/CHA/52D07/2020/11
+Himachal Pradesh
+Chamba
+ 
+Bagga, upslope of chamera II
+32.48
+76.25
+Rock
+Slide
+NA
+7938
+HP/CHA/52D07/2020/15
+Himachal Pradesh
+Chamba
+ 
+Chamba Bharmour road
+32.48
+76.31
+Debris
+Slide
+NA
+7939
+HP/CHA/52D07/2020/31
+Himachal Pradesh
+Chamba
+ 
+Left bank of Dhunali nala
+32.48
+76.25
+Rock
+Slide
+NA
+7940
+HP/CHA/52D07/2020/32
+Himachal Pradesh
+Chamba
+ 
+Near Dudain village
+32.48
+76.26
+Rock
+Slide
+NA
+7941
+HP/CHA/52D07/2020/39
+Himachal Pradesh
+Chamba
+ 
+Chamba bharmour road
+32.48
+76.27
+Debris
+Slide
+NA
+7942
+HP/CHA/52D07/2020/45
+Himachal Pradesh
+Chamba
+ 
+Right bank of Ravi river.
+32.48
+76.29
+Debris
+Slide
+NA
+7943
+HP/CHA/52D07/2020/53
+Himachal Pradesh
+Chamba
+ 
+Left bank of Dhaneli nala
+32.48
+76.25
+Rock
+Slide
+NA
+7944
+HP/CHA/52D07/2020/54
+Himachal Pradesh
+Chamba
+ 
+Bagga Upslope of Chamera II
+32.48
+76.25
+Debris
+Slide
+NA
+7945
+HP/CHA/52D07/2020/55
+Himachal Pradesh
+Chamba
+ 
+Right bank of Braguna nala
+32.48
+76.28
+Debris
+Slide
+NA
+7946
+HP/CHA/52D07/2020/56
+Himachal Pradesh
+Chamba
+ 
+Dharwala
+32.48
+76.29
+Debris
+Slide
+NA
+7947
+HP/CHA/52D07/2020/57
+Himachal Pradesh
+Chamba
+ 
+Lothal
+32.48
+76.29
+Debris
+Slide
+NA
+7948
+HP/CHA/52D07/2020/58
+Himachal Pradesh
+Chamba
+ 
+Batot link road
+32.48
+76.33
+Rock
+Slide
+NA
+7949
+HP/CHA/52D07/2020/60
+Himachal Pradesh
+Chamba
+ 
+Right bank of Ravi river.
+32.48
+76.32
+Debris
+Slide
+NA

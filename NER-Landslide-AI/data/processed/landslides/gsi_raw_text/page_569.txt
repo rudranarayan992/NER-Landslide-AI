@@ -1,0 +1,382 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22414
+MZ/AIZ/84E01/2017/95
+Mizoram
+Aizawl
+ 
+S of Suangpuilawn
+23.948917
+93.038719
+Rock
+Slide
+NA
+22415
+MZ/MAM/84A05/2020/10
+Mizoram
+Mamit
+North of Tuidam slide 2
+Tuidam-Kwarthah road section 
+(North of Tuidam village/NH 
+108)
+23.95
+92.37
+Rock
+Slide
+2019
+22416
+MZ/AIZ/84E01/2017/108
+Mizoram
+Aizawl
+ 
+Near Phuaibuang
+23.950195
+93.125061
+Rock
+Slide
+NA
+22417
+MZ/CHA/84E01/2017/19
+Mizoram
+Champhai
+ 
+ 
+23.950277
+93.217056
+Debris
+Slide
+NA
+22418
+MZ/AIZ/84E01/2017/86
+Mizoram
+Aizawl
+ 
+S of Suangpuilawn
+23.950417
+93.037109
+Debris
+Slide
+2017
+22419
+MZ/AIZ/84E01/2017/68
+Mizoram
+Aizawl
+ 
+Suangpuilawn village
+23.956528
+93.041084
+Rock
+Slide
+NA
+22420
+MZ/AIZ/84E01/2017/98
+Mizoram
+Aizawl
+ 
+SuangpuilawnE. Phaileng 
+section
+23.957556
+93.026558
+Debris
+Slide
+NA
+22421
+MZ/AIZ/84E01/2017/87
+Mizoram
+Aizawl
+ 
+SuangpuilawnE. Phaileng 
+section
+23.958944
+93.022781
+Debris
+Slide
+NA
+22422
+MZ/AIZ/84E01/2017/102
+Mizoram
+Aizawl
+ 
+SuangpuilawnE. Phaileng 
+section
+23.958944
+93.022781
+Debris
+Slide
+NA
+22423
+MZ/AIZ/84E01/2017/63
+Mizoram
+Aizawl
+ 
+SuangpuilawnE. Phaileng 
+section
+23.959278
+93.020859
+Debris
+Slide
+NA
+22424
+MZ/AIZ/84E01/2017/109
+Mizoram
+Aizawl
+ 
+ 
+23.959278
+93.123558
+Debris
+Slide
+NA
+22425
+MIZ/AIZ/84A13/2016/132
+Mizoram
+Aizawl
+ 
+SE of Sawleng
+23.95942
+92.943345
+Debris
+Slide
+2016
+22426
+MZ/AIZ/84E01/2017/103
+Mizoram
+Aizawl
+ 
+SuangpuilawnE. Phaileng 
+section
+23.961
+93.028969
+Debris
+Slide
+NA
+22427
+MZ/AIZ/84E01/2017/110
+Mizoram
+Aizawl
+ 
+Suangpuilawn village
+23.962278
+93.035309
+Debris
+Slide
+2017
+22428
+MIZ/AIZ/84A09/2016/108
+Mizoram
+Aizawl
+ 
+Near bridge(PHED Kawnpui 
+water supply gate)
+23.965889
+92.682278
+Rock
+Fall
+2016
+22429
+MZ/AIZ/84E01/2017/76
+Mizoram
+Aizawl
+ 
+Suangpuilawn village
+23.966249
+93.041115
+Rock
+Slide
+NA
+22430
+MZ/AIZ/84E01/2017/97
+Mizoram
+Aizawl
+ 
+Suangpuilawn village
+23.966249
+93.041115
+Rock
+Slide
+NA
+22431
+MZ/AIZ/84E01/2017/50
+Mizoram
+Aizawl
+ 
+SuangpuilawnLamherh section
+23.966917
+93.041473
+Debris
+Flow
+NA
+22432
+MZ/AIZ/84E01/2017/58
+Mizoram
+Aizawl
+ 
+SuangpuilawnE. Phaileng 
+section
+23.969223
+93.016335
+Rock
+Slide
+NA
+22433
+MIZ/AIZ/84A13/2016/13
+Mizoram
+Aizawl
+ 
+~2.5 km S of Sawleng at 5 km N 
+of Kepran milestone
+23.970444
+92.927167
+Debris
+Slide
+2016
+22434
+MIZ/AIZ/84A09/2016/109
+Mizoram
+Kolasib
+ 
+Aizaw-Silchar road
+23.971078
+92.682781
+Rock
+Slide
+2016
+22435
+MZ/AIZ/84E01/2017/92
+Mizoram
+Aizawl
+ 
+SuangpuilawnE. Phaileng 
+section
+23.972027
+93.014893
+Rock
+Slide
+2017
+22436
+MIZ/AIZ/84A09/2016/110
+Mizoram
+Kolasib
+ 
+Aizaw-Silchar road (~100m from 
+prev loc)
+23.972222
+92.68325
+Rock
+Slide
+2016
+22437
+MIZ/AIZ/84A09/2016/112
+Mizoram
+Kolasib
+ 
+Aizaw-Silchar road (~10m from 
+prev loc 206a)
+23.973513
+92.6839
+Debris
+Slide
+2016
+22438
+MIZ/AIZ/84A09/2016/111
+Mizoram
+Kolasib
+ 
+Aizaw-Silchar road (~100m from 
+prev loc 205)
+23.973684
+92.683868
+Rock
+Slide
+2016
+22439
+MIZ/AIZ/84A09/2016/113
+Mizoram
+Kolasib
+ 
+Aizaw-Silchar road, 9 km 
+milestone S of Kawnpui
+23.976412
+92.683312
+Rock
+Fall
+2016
+22440
+MIZ/AIZ/84A09/2016/114
+Mizoram
+Kolasib
+ 
+Aizaw-Silchar road, S of 
+Kawnpui
+23.979472
+92.684139
+Rock
+Slide
+2016
+22441
+MZ/CHA/84E05/2017/3
+Mizoram
+Champhai
+ 
+HrianghmunMimbung section
+23.980749
+93.28653
+Rock
+Slide
+NA
+22442
+MZ/CHA/84E05/2017/19
+Mizoram
+Champhai
+ 
+MimbungHrianghmun section
+23.981083
+93.287392
+Rock
+Slide
+NA
+22443
+MIZ/AIZ/84A09/2016/59
+Mizoram
+Kolasib
+ 
+ 
+23.982
+92.718028
+Debris
+Slide
+2016
+22444
+MZ/AIZ/84E01/2017/59
+Mizoram
+Aizawl
+ 
+SuangpuilawnE. Phaileng 
+section
+23.982639
+93.011055
+Debris
+Slide
+2017
+22445
+MIZ/AIZ/84A09/2016/115
+Mizoram
+Kolasib
+ 
+Aizaw-Silchar road, 8 km 
+milestone S of Kawnpui
+23.983667
+92.683333
+Rock
+Slide
+2016

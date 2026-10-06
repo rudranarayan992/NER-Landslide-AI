@@ -1,0 +1,562 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+5965
+HP/MAN/53E02/2015/164
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.640056
+77.063361
+Debris
+Slide
+NA
+5966
+HP/MAN/53A14/2015/292
+Himachal Pradesh
+Mandi
+ 
+NE of Gahor, SH32
+31.642319
+76.874738
+Rock
+Slide
+NA
+5967
+HP/KUL/53E06/2016/75
+Himachal Pradesh
+Kullu
+ 
+Rupa
+31.642571
+77.388943
+Rock
+Slide
+1905
+5968
+HP/KUL/53E06/2016/76
+Himachal Pradesh
+Kullu
+ 
+Nagini
+31.643
+77.405
+Rock
+Slide
+NA
+5969
+HP/KUL/53E06/2016/74
+Himachal Pradesh
+Kullu
+ 
+Rupa
+31.643344
+77.389657
+Rock
+Fall
+1905
+5970
+HP/MAN/53E02/2015/166
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.643639
+77.056056
+Debris
+Slide
+NA
+5971
+HP/KUL/53E06/2016/26
+Himachal Pradesh
+Kullu
+ 
+N of Gushaini
+31.644202
+77.436883
+Debris
+Slide
+NA
+5972
+HP/MAN/53E02/2015/165
+Himachal Pradesh
+Mandi
+ 
+Bagi village road
+31.644528
+77.061111
+Debris
+Slide
+NA
+5973
+HP/KUL/53E06/2016/13
+Himachal Pradesh
+Kullu
+ 
+Pali
+31.645047
+77.370674
+Debris
+Subsidence
+NA
+5974
+HP/MAN/53E02/2015/201
+Himachal Pradesh
+Mandi
+ 
+ 
+31.645556
+77.131389
+Debris
+Slide
+NA
+5975
+HP/MAN/53A14/2015/290
+Himachal Pradesh
+Mandi
+ 
+Hawani
+31.646
+76.883
+Debris
+Slide
+NA
+5976
+HP/MAN/53E02/2015/200
+Himachal Pradesh
+Mandi
+ 
+ 
+31.646056
+77.130111
+Debris
+Slide
+NA
+5977
+HP/MAN/53E02/2015/199
+Himachal Pradesh
+Mandi
+ 
+ 
+31.646167
+77.129333
+Debris
+Slide
+NA
+5978
+HP/MAN/53E02/2015/198
+Himachal Pradesh
+Mandi
+ 
+ 
+31.646389
+77.128361
+Debris
+Slide
+NA
+5979
+HP/KUL/53E06/2016/77
+Himachal Pradesh
+Kullu
+ 
+Muringa P.F.
+31.646668
+77.398615
+Rock
+Slide
+1905
+5980
+HP/KUL/53E06/2016/48
+Himachal Pradesh
+Kullu
+ 
+Sharandhar
+31.646676
+77.359055
+Debris
+Subsidence
+NA
+5981
+HP/UNA/53A02/2018/23
+Himachal Pradesh
+Una
+Gagret Juice factory slide
+Gagret, NH 3
+31.647292
+76.038832
+Rock cum debris
+Slide
+NA
+5982
+HP/KUL/53E06/2016/130
+Himachal Pradesh
+Kullu
+ 
+Kaluropa
+31.647446
+77.368624
+Rock
+Slide
+NA
+5983
+HP/KUL/53E06/2016/51
+Himachal Pradesh
+Kullu
+ 
+Banjar,NH 305
+31.647569
+77.348753
+Debris
+Subsidence
+2010
+5984
+HP/KUL/53E06/2016/73
+Himachal Pradesh
+Kullu
+ 
+Maringa
+31.648335
+77.396785
+Rock
+Fall
+1905
+5985
+HP/UNA/53A02/2018/14
+Himachal Pradesh
+Una
+ 
+West of Gagret
+31.648778
+76.033907
+Rock cum debris
+Slide
+NA
+5986
+HP/MAN/53E02/2015/195
+Himachal Pradesh
+Mandi
+ 
+ 
+31.648889
+77.123333
+Debris
+Slide
+NA
+5987
+HP/MAN/53E02/2015/196
+Himachal Pradesh
+Mandi
+ 
+ 
+31.648889
+77.123333
+Debris
+Slide
+NA
+5988
+HP/MAN/53E02/2015/197
+Himachal Pradesh
+Mandi
+ 
+ 
+31.648889
+77.123333
+Debris
+Slide
+NA
+5989
+HP/KUL/53E06/2016/126
+Himachal Pradesh
+Kullu
+ 
+Paniali
+31.649041
+77.334064
+Debris
+Slide
+2011
+5990
+HP/UNA/53A02/2018/15
+Himachal Pradesh
+Una
+ 
+West of Gagret
+31.649169
+76.034143
+Rock cum debris
+Slide
+NA
+5991
+HP/MAN/53E02/2015/192
+Himachal Pradesh
+Mandi
+ 
+Village road
+31.64925
+77.122333
+Debris
+Slide
+NA
+5992
+HP/MAN/53E02/2015/193
+Himachal Pradesh
+Mandi
+ 
+Village road
+31.64925
+77.122333
+Debris
+Slide
+NA
+5993
+HP/MAN/53E02/2015/194
+Himachal Pradesh
+Mandi
+ 
+ 
+31.64925
+77.122333
+Debris
+Slide
+NA
+5994
+HP/KUL/53E06/2016/41
+Himachal Pradesh
+Kullu
+ 
+N of Bulbagi
+31.649357
+77.384288
+Rock
+Slide
+2002
+5995
+HP/UNA/53A02/2018/16
+Himachal Pradesh
+Una
+ 
+West of Gagret
+31.649648
+76.034221
+Rock cum debris
+Slide
+NA
+5996
+HP/KUL/53E06/2016/87
+Himachal Pradesh
+Kullu
+ 
+Shail
+31.649819
+77.376705
+Rock
+Fall
+NA
+5997
+HP/KUL/53E06/2016/17
+Himachal Pradesh
+Kullu
+ 
+Paniali, NH 305
+31.650968
+77.337406
+Debris
+Subsidence
+1996
+5998
+HP/MAN/53A14/2015/291
+Himachal Pradesh
+Mandi
+ 
+Chachol,SH 32, milestone 12
+31.651689
+76.880553
+Rock
+Slide
+NA
+5999
+HP/MAN/53E02/2015/187
+Himachal Pradesh
+Mandi
+ 
+Village road
+31.652056
+77.120889
+Debris
+Slide
+NA
+6000
+HP/MAN/53E02/2015/188
+Himachal Pradesh
+Mandi
+ 
+Village road
+31.652056
+77.123333
+Debris
+Slide
+NA
+6001
+HP/MAN/53E02/2015/189
+Himachal Pradesh
+Mandi
+ 
+Village road
+31.652056
+77.123333
+Debris
+Slide
+NA
+6002
+HP/MAN/53E02/2015/190
+Himachal Pradesh
+Mandi
+ 
+Village road
+31.652056
+77.123333
+Debris
+Slide
+NA
+6003
+HP/MAN/53E02/2015/191
+Himachal Pradesh
+Mandi
+ 
+Village road
+31.652056
+77.123333
+Debris
+Slide
+NA
+6004
+HP/MAN/53E02/2015/186
+Himachal Pradesh
+Mandi
+ 
+Village road
+31.652778
+77.113944
+Debris
+Slide
+NA
+6005
+HP/KUL/53E06/2016/95
+Himachal Pradesh
+Kullu
+ 
+Khamirara
+31.652992
+77.30146
+Rock
+Slide
+NA
+6006
+HP/MAN/53E02/2015/184
+Himachal Pradesh
+Mandi
+ 
+ 
+31.653028
+77.117917
+Rock cum debris
+Slide
+NA
+6007
+HP/KUL/53E06/2016/21
+Himachal Pradesh
+Kullu
+ 
+N of Bulbagi
+31.653166
+77.385799
+Rock
+Slide
+2000
+6008
+HP/MAN/53E02/2015/182
+Himachal Pradesh
+Mandi
+ 
+ 
+31.653167
+77.119861
+Rock cum debris
+Slide
+NA
+6009
+HP/MAN/53E02/2015/185
+Himachal Pradesh
+Mandi
+ 
+ 
+31.653389
+77.115833
+Debris
+Slide
+NA
+6010
+HP/KUL/53E06/2016/20
+Himachal Pradesh
+Kullu
+ 
+N of Bulbagi
+31.654348
+77.385958
+Rock
+Slide
+2003
+6011
+HP/MAN/53E02/2015/183
+Himachal Pradesh
+Mandi
+ 
+ 
+31.655083
+77.108139
+Rock cum debris
+Slide
+NA
+6012
+HP/MAN/53E06/2016/88
+Himachal Pradesh
+Mandi
+ 
+Maringa
+31.655175
+77.394371
+Rock
+Fall
+NA
+6013
+HP/KUL/53E06/2016/128
+Himachal Pradesh
+Kullu
+ 
+N of Shikari P.F.
+31.655944
+77.317632
+Rock cum debris
+Slide
+NA
+6014
+HP/MAN/53E02/2015/122
+Himachal Pradesh
+Mandi
+ 
+ 
+31.656333
+77.102417
+Debris
+Slide
+NA

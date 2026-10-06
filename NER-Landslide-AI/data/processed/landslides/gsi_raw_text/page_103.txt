@@ -1,0 +1,500 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+4111
+HP/SHI/53E12/2016/49
+Himachal Pradesh
+Shimla
+ 
+Kothara village
+31.09814
+77.66337
+Debris
+Slide
+2016
+4112
+HP/SHI/53E12/2016/4
+Himachal Pradesh
+Shimla
+ 
+Pola, SH-10
+31.0982
+77.65271
+Rock cum debris
+Slide
+NA
+4113
+HP/SHI/53E12/2016/6
+Himachal Pradesh
+Shimla
+ 
+Paraunthi, SH-10
+31.09844
+77.64867
+Rock cum debris
+Subsidence
+NA
+4114
+HP/SOL/53A16/2017/1
+Himachal Pradesh
+Solan
+ 
+SH9,DATTU
+31.098444
+76.964556
+Rock
+Slide
+NA
+4115
+HP/SHI/53E12/2016/40
+Himachal Pradesh
+Shimla
+ 
+close to LS93 SH-10
+31.09852
+77.64069
+Rock cum debris
+Slide
+NA
+4116
+HP/SHI/53E12/2016/28
+Himachal Pradesh
+Shimla
+ 
+Sanawa, SH-10
+31.09853
+77.64067
+Rock cum debris
+Slide
+NA
+4117
+HP/SHI/53E08/2016/58
+Himachal Pradesh
+Shimla
+ 
+Talai, SH-10; Theog Rohru Road 31.098639
+77.37999
+Rock cum debris
+Slide
+NA
+4118
+HP/SHI/53E16/2016/22
+Himachal Pradesh
+Shimla
+ 
+NH-72NH-72
+31.0987
+77.7827
+Debris
+Slide
+NA
+4119
+HP/SHI/53E16/2016/156
+Himachal Pradesh
+Shimla
+ 
+BADOT VILLAGEBADOT-NH-72 
+LINK ROAD
+31.099
+77.7641
+Debris
+Slide
+NA
+4120
+HP/SOL/53A16/2017/63
+Himachal Pradesh
+Solan
+ 
+SH 16
+31.099083
+76.863139
+Rock
+Slide
+NA
+4121
+HP/SHI/53E12/2016/19
+Himachal Pradesh
+Shimla
+ 
+Markandli Village road
+31.0993
+77.745042
+Rock cum debris
+Slide
+NA
+4122
+HP/SHI/53E12/2016/5
+Himachal Pradesh
+Shimla
+ 
+PolaSH-10
+31.09941
+77.65573
+Rock cum debris
+Slide
+NA
+4123
+HP/SHI/53E16/2016/39
+Himachal Pradesh
+Shimla
+ 
+NEAR SAMOT VILLAGE
+31.0995
+77.7502
+Debris
+Slide
+NA
+4124
+HP/SHI/53E12/2016/18
+Himachal Pradesh
+Shimla
+ 
+Markandli Village road
+31.099508
+77.750528
+Rock cum debris
+Slide
+NA
+4125
+HP/SHI/53E08/2016/13
+Himachal Pradesh
+Shimla
+ 
+Downslope of Gharesh 
+villageNH-22
+31.099623
+77.314316
+Rock cum debris
+Subsidence
+NA
+4126
+HP/SHI/53E12/2016/31
+Himachal Pradesh
+Shimla
+ 
+Pola, SH-10
+31.09966
+77.65614
+Rock cum debris
+Slide
+NA
+4127
+HP/SHI/53E12/2016/59
+Himachal Pradesh
+Shimla
+ 
+Baina
+31.09971
+77.63147
+Rock cum debris
+Slide
+NA
+4128
+HP/SHI/53E12/2016/67
+Himachal Pradesh
+Shimla
+ 
+Sanawa, SH-10
+31.09974
+77.64156
+Rock cum debris
+Slide
+NA
+4129
+HP/SHI/53E08/2016/42
+Himachal Pradesh
+Shimla
+ 
+TalaiSH-10
+31.099918
+77.375748
+Rock cum debris
+Slide
+NA
+4130
+HP/SHI/53E08/2016/94
+Himachal Pradesh
+Shimla
+ 
+Chamiyana, NH-05
+31.100048
+77.267799
+Rock
+Slide
+NA
+4131
+HP/SHI/53E08/2016/69
+Himachal Pradesh
+Shimla
+ 
+near Haat Bus StopTheog-
+Hatkoti Road
+31.100106
+77.406006
+Debris
+Slide
+NA
+4132
+HP/SHI/53E04/2017/189
+Himachal Pradesh
+Shimla
+ 
+NH 88
+31.100306
+77.130306
+Debris
+Slide
+NA
+4133
+HP/SHI/53E08/2016/70
+Himachal Pradesh
+Shimla
+ 
+Haat Theog-Hatkoti Road
+31.10035
+77.407519
+Debris
+Slide
+NA
+4134
+HP/SHI/53E16/2016/20
+Himachal Pradesh
+Shimla
+ 
+NH-72NH-72
+31.1004
+77.7842
+Debris
+Slide
+NA
+4135
+HP/SHI/53E08/2016/67
+Himachal Pradesh
+Shimla
+ 
+Haat Theog-Hatkoti Road
+31.100467
+77.406944
+Debris
+Slide
+NA
+4136
+HP/SHI/53E08/2016/68
+Himachal Pradesh
+Shimla
+ 
+Haat Theog-Hatkoti Road
+31.100467
+77.406944
+Debris
+Slide
+NA
+4137
+HP/SHI/53E04/2017/27
+Himachal Pradesh
+Shimla
+ 
+CHHOTA SHIMLA
+31.100472
+77.142028
+Rock
+Fall
+NA
+4138
+HP/SHI/53E12/2016/60
+Himachal Pradesh
+Shimla
+ 
+ 
+31.10076
+77.65759
+Debris
+Slide
+NA
+4139
+HP/SOL/53A16/2017/159
+Himachal Pradesh
+Solan
+ 
+RAMSHAHR SWARGHAT ROAD
+31.100917
+76.785278
+Rock
+Slide
+NA
+4140
+HP/SOL/53A16/2017/113
+Himachal Pradesh
+Solan
+ 
+KATAL
+31.100917
+76.916833
+Rock
+Slide
+NA
+4141
+HP/SHI/53E04/2017/15
+Himachal Pradesh
+Shimla
+ 
+NH 22,DHALLI
+31.101
+77.206139
+Rock
+Slide
+NA
+4142
+HP/SHI/53E08/2016/12
+Himachal Pradesh
+Shimla
+ 
+ChellaSH-10
+31.101578
+77.431976
+Rock cum debris
+Slide
+NA
+4143
+HP/SHI/53E08/2016/32
+Himachal Pradesh
+Shimla
+ 
+SH-10; Theog Rohru Road
+31.101723
+77.372231
+Rock cum debris
+Slide
+NA
+4144
+HP/SHI/53E08/2016/47
+Himachal Pradesh
+Shimla
+ 
+Upslope of Dasaun village, SH-
+10
+31.102173
+77.369621
+Rock cum debris
+Slide
+NA
+4145
+HP/SHI/53E08/2016/91
+Himachal Pradesh
+Shimla
+ 
+Theog; 50m E of S41NH-5
+31.102322
+77.370338
+Rock cum debris
+Slide
+NA
+4146
+HP/SHI/53E08/2016/48
+Himachal Pradesh
+Shimla
+ 
+Theog, NH-5
+31.102322
+77.370338
+Rock cum debris
+Slide
+NA
+4147
+HP/SHI/53E08/2016/35
+Himachal Pradesh
+Shimla
+ 
+Upslope of Dasaun village, SH-
+10
+31.102497
+77.3703
+Rock
+Slide
+NA
+4148
+HP/SHI/53E12/2016/48
+Himachal Pradesh
+Shimla
+ 
+ParaunthiSH-10
+31.10259
+77.64954
+Rock cum debris
+Slide
+NA
+4149
+HP/SHIM/53E04/2017/01
+Himachal Pradesh
+Shimla
+Dhalli landslide.
+NH-5, near Dhalli.
+31.102716
+77.204228
+Rock
+Slide
+2002
+4150
+HP/SHI/53E04/2017/14
+Himachal Pradesh
+Shimla
+ 
+NH 22,DHALLI
+31.103139
+77.203778
+Rock
+Slide
+NA
+4151
+HP/SHI/53E08/2016/54
+Himachal Pradesh
+Shimla
+ 
+Gajeri, SH-10
+31.103266
+77.384041
+Rock cum debris
+Slide
+NA
+4152
+HP/SHI/53E08/2016/52
+Himachal Pradesh
+Shimla
+ 
+Bishnog Theog-Hatkoti Road
+31.1035
+77.401056
+Rock cum debris
+Slide
+NA
+4153
+HP/SHI/53E08/2016/73
+Himachal Pradesh
+Shimla
+ 
+BishnogTheog-Hatkoti Road
+31.103556
+77.399389
+Rock cum debris
+Slide
+NA
+4154
+HP/SHI/53E08/2016/79
+Himachal Pradesh
+Shimla
+ 
+BishnogTheog-Hatkoti Road
+31.103611
+77.4
+Rock
+Slide
+NA

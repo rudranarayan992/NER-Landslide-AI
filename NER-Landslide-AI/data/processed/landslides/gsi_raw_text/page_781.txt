@@ -1,0 +1,370 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+30483
+28
+West Bengal
+Darjeeling
+Soureni Bazar to Toklan road
+26.86380556
+88.19369444
+Debris
+slide
+2015
+30484
+29
+West Bengal
+Darjeeling
+Soureni Bazar to Toklan road
+26.863
+88.19305556
+Debris
+slide
+2015
+30485
+30
+West Bengal
+Darjeeling
+Soureni Bazar to Toklan road
+26.86111111
+88.19333333
+Debris
+slide
+2015
+30486
+31
+West Bengal
+Darjeeling
+Mechi TG
+26.86355556
+88.19016667
+Debris
+slide
+2015
+30487
+32
+West Bengal
+Darjeeling
+Mechi TG
+26.85394444
+88.18755556
+Debris
+slide
+2015
+30488
+33
+West Bengal
+Darjeeling
+Mechi TG, Chaundhura Basic 
+school
+26.855
+88.18666667
+Debris
+slide
+2015
+30489
+34
+West Bengal
+Darjeeling
+Soureni Bazar, Eastern slope
+26.86041667
+88.19658333
+Debris
+slide
+2015
+30490
+35
+West Bengal
+Darjeeling
+At soureni bazar, Below Soureni 
+Rabindranath HS school
+26.8615
+88.19652778
+Debris
+slide
+2015
+30491
+36
+West Bengal
+Darjeeling
+26.84638889
+88.20611111
+Debris
+slide
+2015
+30492
+37
+West Bengal
+Darjeeling
+Mahindra Gaon ward no. 8
+26.88936111
+88.17869444
+Debris
+slide
+2015
+30493
+38
+West Bengal
+Darjeeling
+Mahindra Gaon ward no. 8
+26.89175
+88.17877778
+Debris
+slide & flow
+2015
+30494
+39
+West Bengal
+Darjeeling
+Bishnulal Gaon ward no. 9
+26.88927778
+88.17436111
+Debris
+slide
+2015
+30495
+40
+West Bengal
+Darjeeling
+Bishnulal Gaon ward no. 9
+26.88866667
+88.17422222
+Debris
+subsidence
+2015
+30496
+41
+West Bengal
+Darjeeling
+Deosaydara ward no. 4
+26.89102778
+88.19161111
+Debris
+slide & flow
+2015
+30497
+42
+West Bengal
+Darjeeling
+Thanalying ward no. 3
+26.89102778
+88.18680556
+Debris
+slide
+2015
+30498
+43
+West Bengal
+Darjeeling
+Krishnanagar ward no. 5
+26.88752778
+88.18863889
+Debris
+slide
+2015
+30499
+62
+West Bengal
+Darjeeling
+Nimtidhara, 3km from Ghum 
+Railway station towards 
+Darjeeling
+27.02833333
+88.25675
+rock 
+slide
+29 June 2015 (06:00hrs)
+30500
+44
+West Bengal
+Darjeeling
+Opposite to Mirik block office
+26.89333333
+88.18527778
+Debris
+slide
+2015
+30501
+45
+West Bengal
+Darjeeling
+SH12
+26.92383333
+88.14416667
+Debris
+slide
+2015
+30502
+63
+West Bengal
+Darjeeling
+Mangalpuri Gram ward no. 17, 
+victoria road
+27.03702778
+88.25908333
+Debris
+slide
+6 July 2015
+30503
+52
+West Bengal
+Darjeeling
+Giddapahar
+26.87122222
+88.30133333
+Debris
+subsidence
+2015
+30504
+53
+West Bengal
+Darjeeling
+Giddapahar
+26.87116667
+88.30177778
+Debris
+subsidence
+2015
+30505
+54
+West Bengal
+Darjeeling
+Giddapahar
+26.87119444
+88.30191667
+Debris
+subsidence
+2015
+30506
+55
+West Bengal
+Darjeeling
+14th mile slide crown
+26.87069444
+88.30233333
+Debris
+slide
+30 June 2015
+30507
+56
+West Bengal
+Darjeeling
+Giddapahar
+26.8705
+88.30152778
+Debris
+subsidence
+2015
+30508
+57
+West Bengal
+Darjeeling
+G.P. Gayabari
+26.86730556
+88.30505556
+Debris
+slide
+2015
+30509
+58
+West Bengal
+Darjeeling
+on NH55, 1km towards 
+Mahanadi from Kurseong
+26.87255556
+88.28508333
+rock
+slide
+2015
+30510
+59
+West Bengal
+Darjeeling
+Khaire Khola
+26.89805556
+88.28663889
+rock
+slide
+NA
+30511
+64
+West Bengal
+Darjeeling
+Nehur Balasun
+26.91275
+88.25236111
+Rock cum Debris
+slide
+2006
+30512
+65
+West Bengal
+Darjeeling
+Nehur Balasun
+26.91172222
+88.25005556
+Debris
+subsidence
+NA
+30513
+66
+West Bengal
+Darjeeling
+Nehur Balasun
+26.9115
+88.24988889
+Debris
+slide
+NA
+30514
+67
+West Bengal
+Darjeeling
+Alubari Mangar Gaon
+27.01013889
+88.25872222
+Debris
+slide
+27 June 2015
+30515
+68
+West Bengal
+Darjeeling
+along road from Rammam to 
+mane bhanjan to Sukhiya pokhri
+27.07569444
+88.09188889
+Debris
+slide
+2015
+30516
+69
+West Bengal
+Darjeeling
+along road from Rammam to 
+mane bhanjan to Sukhiya pokhri
+27.02552778
+88.09872222
+Debris
+slide
+2015
+30517
+70
+West Bengal
+Darjeeling
+along road from Rammam to 
+mane bhanjan to Sukhiya pokhri
+26.99144444
+88.14475
+Debris
+slide
+2015

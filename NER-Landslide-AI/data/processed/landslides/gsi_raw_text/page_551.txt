@@ -1,0 +1,337 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+21881
+MZ/CHA/84E02/2017/0013
+Mizoram
+Champhai
+ 
+4.8km NW of Khawzawl
+23.545796
+93.136912
+Rock
+Slide
+NA
+21882
+MZ/MAM/84A10/2015/139
+Mizoram
+Mamit
+ 
+South of Kanghmun, PMGSY-
+Kanghmun - Darung
+23.546
+92.574556
+Rock
+Slide
+NA
+21883
+MZ/CHA/84E02/2017/0012
+Mizoram
+Champhai
+ 
+4.5 km NW of Khwazawl on the 
+Khawzawl Kawkulh road
+23.546048
+93.147734
+Rock
+Slide
+2017
+21884
+MZ/CHA/84E06/2017/7
+Mizoram
+Champhai
+ 
+1km  n of Ngur
+23.546627
+93.381058
+Debris
+Slide
+NA
+21885
+MZ/CHA/84E02/2017/0003
+Mizoram
+Champhai
+ 
+4km S. f Puilo on the PMGSY 
+road
+23.548132
+93.077509
+Rock
+Slide
+NA
+21886
+MZ/CHA/84E02/2017/0014
+Mizoram
+Champhai
+ 
+Nw of Khwazawl
+23.548173
+93.131588
+Rock
+Slide
+2017
+21887
+MZ/CHA/84E02/2017/18
+Mizoram
+Champhai
+ 
+2km E from NgaizawlKhawzawl 
+road junction
+23.55097
+93.215688
+Debris
+Slide
+NA
+21888
+MZ/CHA/84E02/2017/0004
+Mizoram
+Champhai
+ 
+2 km s. of Puilo on the PMGSY 
+road
+23.555561
+93.072462
+Debris
+Slide
+NA
+21889
+MZ/CHA/84E06/2017/26
+Mizoram
+Champhai
+ 
+3km Jhum road W of N. 
+Khwbung
+23.555929
+93.295668
+Debris
+Slide
+NA
+21890
+MZ/MAM/84A10/2015/145
+Mizoram
+Mamit
+ 
+Kanghmun, PMGSY-Kanghmun - 
+Darung
+23.562444
+92.577806
+Rock
+Slide
+NA
+21891
+MZ/CHA/84E02/2017/0015
+Mizoram
+Champhai
+ 
+12 km NW of Khawzawl
+23.563275
+93.120567
+Rock
+Slide
+NA
+21892
+MZ/AIZ/84A14/2015/60
+Mizoram
+Aizawl
+ 
+Tlungvel, On Turini lui near 
+cultivation area
+23.566631
+92.876781
+Debris
+Slide
+NA
+21893
+MZ/CHA/84E02/2017/0067
+Mizoram
+Champhai
+ 
+1km from Tuisen bridge
+23.56952
+93.100523
+Rock
+Slide
+NA
+21894
+MZ/MAM/84A06/2020/1
+Mizoram
+Mamit
+East Saihtah slide 2
+2 Km East Saihtah on PMGSY 
+Saihta - Parvatui road
+23.57
+92.47
+Rock
+Slide
+2019
+21895
+MZ/MAM/84A06/2020/2
+Mizoram
+Mamit
+East Saihtah slide 4
+2.5 Km East Saihtah on PMGSY 
+Saihta - Parvatui road
+23.57
+92.47
+Rock
+Slide
+2019
+21896
+MZ/CHA/84E02/2017/0126
+Mizoram
+Champhai
+ 
+Puilo village
+23.570595
+93.07382
+Debris
+Slide
+NA
+21897
+MZ/CHA/84E02/2017/28
+Mizoram
+Champhai
+ 
+2km N of Tuisen bridge
+23.573051
+93.102716
+Debris
+Slide
+NA
+21898
+MZ/CHA/84E02/2017/0069
+Mizoram
+Champhai
+ 
+2.5 km N of Tuisen bridge
+23.57348
+93.102938
+Rock
+Slide
+NA
+21899
+MZ/CHA/84E02/2017/0065
+Mizoram
+Champhai
+ 
+500m N of Puilo vilage
+23.573731
+93.075313
+Rock
+Slide
+NA
+21900
+MZ/CHA/84E02/2017/0070
+Mizoram
+Champhai
+ 
+2.8 km N from Tuisen bridge
+23.577354
+93.102871
+Debris
+Slide
+NA
+21901
+MZ/MAM/84A10/2015/146
+Mizoram
+Mamit
+ 
+3.5 Km South of Lungphun; 
+PMGSY-Kanghmun - W. Lungdar
+23.580139
+92.591139
+Rock
+Slide
+NA
+21902
+MZ/CHA/84E02/2017/20
+Mizoram
+Champhai
+ 
+4km NW of Tuisen bridge
+23.583574
+93.09659
+Rock
+Fall
+NA
+21903
+MZ/MAM/84A10/2015/159
+Mizoram
+Mamit
+ 
+SSE of Lungphun, Agri-link Road 
+Tlawng river
+23.584417
+92.622917
+Rock
+Slide
+NA
+21904
+MZ/CHA/84E02/2017/25
+Mizoram
+Champhai
+ 
+near bridge Kawlkulhvankal 
+junction
+23.586582
+93.102493
+Rock
+Slide
+NA
+21905
+MZ/MAM/84A10/2015/160
+Mizoram
+Mamit
+ 
+SSE of Lungphun, Agri-link Road 
+Tlawng river
+23.587
+92.622389
+Rock
+Slide
+NA
+21906
+MZ/MAM/84A10/2015/137
+Mizoram
+Mamit
+ 
+South of Lungphun; PMGSY-
+Kanghmun - W. Lungdar
+23.587111
+92.601667
+Rock
+Slide
+NA
+21907
+MZ/MAM/84A10/2015/152
+Mizoram
+Mamit
+ 
+0.8 Km South of Lungphun; 
+PMGSY-Kanghmun - W. Lungdar
+23.587361
+92.601278
+Rock
+Slide
+NA
+21908
+MZ/MAM/84A10/2015/149
+Mizoram
+Mamit
+ 
+1.4 Km South of Lungphun; 
+PMGSY-Kanghmun - W. Lungdar
+23.587917
+92.598056
+Rock
+Slide
+NA

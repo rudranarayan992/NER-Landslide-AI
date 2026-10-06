@@ -1,0 +1,429 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1013
+AP/PAP/83E12/2021/66
+Arunachal Pradesh
+Papum Pare
+49th K.M Camp, Sagalee slide
+49th K.M Camp-Sagalee section 27.216278
+93.655639
+Debris
+Slide
+NA
+1014
+AP/PAP/83E12/2021/65
+Arunachal Pradesh
+Papum Pare
+Mep Soro-Jote road section slide 10
+Mep Soro-Jote road section
+27.216639
+93.691472
+Debris
+Slide
+NA
+1015
+AP/EK/83E03/2021/26
+Arunachal Pradesh
+East Kameng
+NH-31 slide-17
+NH-31
+27.216778
+93.074944
+Debris
+Slide
+NA
+1016
+AP/EK/83E03/2021/24
+Arunachal Pradesh
+East Kameng
+NH-31 slide-15
+NH-31
+27.217333
+93.064833
+Debris
+Slide
+NA
+1017
+AP/PAP/83E12/2021/64
+Arunachal Pradesh
+Papum Pare
+Mep Soro-Jote road section slide 9
+Mep Soro-Jote road section
+27.218611
+93.695278
+Debris
+Slide
+NA
+1018
+AP/PAP/83E12/2021/70
+Arunachal Pradesh
+Papum Pare
+Palapu village slide
+Palapu village
+27.22075
+93.581167
+Rock
+Slide
+NA
+1019
+AP/PAP/83E12/2021/63
+Arunachal Pradesh
+Papum Pare
+Mep Soro-Jote road section slide 8
+Mep Soro-Jote road section
+27.220833
+93.698194
+Debris
+Slide
+NA
+1020
+AP/PAP/83E12/2021/71
+Arunachal Pradesh
+Papum Pare
+Mep Soro-Jote road section slide 8
+Mep Soro-Jote road section
+27.223667
+93.580417
+Debris
+Slide
+NA
+1021
+AP/PAP/83E12/2021/72
+Arunachal Pradesh
+Papum Pare
+Mep Soro-Jote road section slide 9
+Mep Soro-Jote road section
+27.225361
+93.570278
+Debris
+Slide
+NA
+1022
+AR/CHNG/83M16/2022/096
+Arunachal Pradesh
+Changlang
+1.7km SW of Lungsang
+ Jairampur-Walongtoi road
+27.226901
+95.905393
+Debris
+Slide
+NA
+1023
+AP/PAP/83E12/2021/73
+Arunachal Pradesh
+Papum Pare
+Mep Soro-Jote road section slide 10
+Mep Soro-Jote road section
+27.228056
+93.568972
+Rock
+Slide
+NA
+1024
+AP/PAP/83E16/2021/13
+Arunachal Pradesh
+Papum Pare
+N/A
+N/A
+27.228167
+93.799111
+Debris
+Slide
+NA
+1025
+AP/PAP/83E12/2021/62
+Arunachal Pradesh
+Papum Pare
+West of Mep Soro slide 2
+W of Mep Soro
+27.234139
+93.707861
+Rock
+Slide
+NA
+1026
+AP/PAP/83E12/2021/74
+Arunachal Pradesh
+Papum Pare
+Mep Soro-Jote road section slide 11
+Mep Soro-Jote road section
+27.234917
+93.536139
+Debris
+Slide
+NA
+1027
+AP/PAP/83E12/2021/75
+Arunachal Pradesh
+Papum Pare
+Sagalee-Jote road section slide 1
+Sagalee-Jote road section
+27.235306
+93.524389
+Debris
+Slide
+NA
+1028
+AP/PAP/83E12/2021/61
+Arunachal Pradesh
+Papum Pare
+West of Mep Soro slide 1
+W of Mep Soro
+27.236139
+93.715694
+Debris
+Slide
+NA
+1029
+AP/PAP/83E16/2021/14
+Arunachal Pradesh
+Papum Pare
+West of Doimukh slide 3
+W of Doimukh
+27.236306
+93.807167
+Debris
+Slide
+NA
+1030
+AP/PAP/83E16/2021/15
+Arunachal Pradesh
+Papum Pare
+West of Doimukh slide 4
+W of Doimukh
+27.238222
+93.806444
+Debris
+Slide
+NA
+1031
+AP/PAP/83E16/2021/16
+Arunachal Pradesh
+Papum Pare
+West of Doimukh slide 5
+W of Doimukh
+27.238917
+93.806083
+Debris
+Slide
+NA
+1032
+AP/PAP/83E12/2021/59
+Arunachal Pradesh
+Papum Pare
+West of Dakte village slide 3
+W of Dakte village
+27.239333
+93.745
+Debris
+Slide
+NA
+1033
+ARN/LS/83E15/2016/08
+Arunachal Pradesh
+Lower Subansiri
+Hoj-Potin slide
+National Highway 713-A
+27.23995
+93.806589
+Debris
+Slide
+17 July 2016
+1034
+AP/PAP/83E12/2021/58
+Arunachal Pradesh
+Papum Pare
+West of Dakte village slide 2
+W of Dakte village
+27.240083
+93.745917
+Debris
+Slide
+NA
+1035
+AP/EK/83E03/2021/23
+Arunachal Pradesh
+East Kameng
+NH-31 slide-14
+NH-31
+27.240444
+93.064361
+Debris
+Slide
+NA
+1036
+AP/PAP/83E16/2021/55
+Arunachal Pradesh
+Papum Pare
+Mep Soro-Jote road section slide 6
+Mep Soro-Jote road section
+27.240556
+93.750417
+Debris
+Slide
+NA
+1037
+AP/PAP/83E12/2021/60
+Arunachal Pradesh
+Papum Pare
+West of Dakte village slide 4
+W of Dakte village
+27.241
+93.731417
+Debris
+Slide
+NA
+1038
+AP/PAP/83E12/2021/56
+Arunachal Pradesh
+Papum Pare
+Mep Soro-Jote road section slide 7
+Mep Soro-Jote road section
+27.241056
+93.749306
+Debris
+Slide
+NA
+1039
+AP/PAP/83E12/2021/57
+Arunachal Pradesh
+Papum Pare
+West of Dakte village slide 1
+W of Dakte village
+27.24125
+93.746889
+Debris
+Slide
+NA
+1040
+AP/PAP/83E16/2021/54
+Arunachal Pradesh
+Papum Pare
+Mep Soro-Jote road section slide 5
+Mep Soro-Jote road section
+27.242917
+93.757222
+Debris
+Slide
+NA
+1041
+AP/PAP/83E16/2021/17
+Arunachal Pradesh
+Papum Pare
+Jumpa village slide
+Jumpa village
+27.246111
+93.804667
+Debris
+Slide
+NA
+1042
+ARN/LS/83E15/2016/07
+Arunachal Pradesh
+Lower Subansiri
+Hoj-Potin slide
+National Highway 713-A
+27.246131
+93.804711
+Debris
+Slide
+17 July 2016
+1043
+AP/PAP/83E16/2021/53
+Arunachal Pradesh
+Papum Pare
+Mep Soro-Jote road section slide 4
+Mep Soro-Jote road section
+27.24675
+93.765333
+Debris
+Slide
+NA
+1044
+AP/PAP/83E16/2021/52
+Arunachal Pradesh
+Papum Pare
+Mep Soro-Jote road section slide 3
+Mep Soro-Jote road section
+27.248167
+93.765889
+Debris
+Slide
+NA
+1045
+AR/WKG/83A12/2021/049
+Arunachal Pradesh
+West Kameng
+Seppa Road Slide 8
+Seppa Road Section
+27.248722
+92.737722
+Rock
+Slide
+NA
+1046
+AP/PAP/83E11/2021/76
+Arunachal Pradesh
+Papum Pare
+Sagalee-Jote road section slide 2
+Sagalee-Jote road section
+27.2495
+93.507833
+Soil
+Slide
+NA
+1047
+AP/PAP/83E11/2021/77
+Arunachal Pradesh
+Papum Pare
+Sagalee-Jote road section slide 3
+Sagalee-Jote road section
+27.251806
+93.504278
+Debris
+Slide
+NA
+1048
+AP/PAP/83E11/2021/78
+Arunachal Pradesh
+Papum Pare
+East of Sagalee slide
+East of Sagalee
+27.253778
+93.507778
+Debris
+Slide
+NA
+1049
+ARN/LS/83E15/2016/06
+Arunachal Pradesh
+Lower Subansiri
+Hoj-Potin slide
+National Highway 713-A
+27.254756
+93.801303
+Debris
+Slide
+17 July 2016
+1050
+AP/EK/83E03/2021/22
+Arunachal Pradesh
+East Kameng
+NH-31 slide-13
+NH-31
+27.256917
+93.064472
+Earth
+Slide
+NA

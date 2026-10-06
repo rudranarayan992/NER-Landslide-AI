@@ -1,0 +1,561 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28242
+TN/Nil/58A11/2023/139
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.36209752
+76.94641095
+Debris
+Slide
+23 November 2023
+28243
+TN/Nil/58A11/2023/140
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.36256559
+76.94760942
+Debris
+Slide
+23 November 2023
+28244
+TN/Nil/58A11/2023/141
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.36214007
+76.94926543
+Earth
+Slide
+23 November 2023
+28245
+TN/Nil/58A11/2023/142
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.36206926
+76.9497801
+Earth
+Slide
+23 November 2023
+28246
+TN/Nil/58A11/2023/143
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.36176027
+76.95017151
+Earth
+Slide
+23 November 2023
+28247
+TN/Nil/58A11/2023/144
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.36127232
+76.95066827
+Debris
+Slide
+23 November 2023
+28248
+TN/Nil/58A11/2023/145
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.36214007
+76.94926543
+Debris
+Slide
+23 November 2023
+28249
+TN/Nil/58A11/2023/146
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.36054865
+76.94816795
+Debris
+Slide
+23 November 2023
+28250
+TN/Nil/58A11/2023/147
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35960568
+76.94661845
+Debris
+Slide
+23 November 2023
+28251
+TN/Nil/58A11/2023/148
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35914057
+76.94630165
+Debris
+Slide
+23 November 2023
+28252
+TN/Nil/58A11/2023/149
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35809154
+76.94533891
+Debris
+Slide
+23 November 2023
+28253
+TN/Nil/58A11/2023/150
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35649634
+76.94579092
+Debris
+Slide
+23 November 2023
+28254
+TN/Nil/58A11/2023/151
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35763256
+76.94602336
+Debris
+Slide
+23 November 2023
+28255
+TN/Nil/58A11/2023/152
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35774289
+76.94668593
+Debris
+Slide
+23 November 2023
+28256
+TN/Nil/58A11/2023/153
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35811507
+76.94959631
+Earth
+Slide
+23 November 2023
+28257
+TN/Nil/58A11/2023/154
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35793098
+76.94887613
+Debris
+Slide
+23 November 2023
+28258
+TN/Nil/58A11/2023/155
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35760003
+76.94858135
+Debris
+Slide
+23 November 2023
+28259
+TN/Nil/58A11/2023/156
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35746737
+76.9480396
+Debris
+Slide
+23 November 2023
+28260
+TN/Nil/58A11/2023/157
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35730415
+76.94762268
+Debris
+Slide
+23 November 2023
+28261
+TN/Nil/58A11/2023/158
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35708672
+76.9470253
+Debris
+Slide
+23 November 2023
+28262
+TN/Nil/58A11/2023/159
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35680547
+76.94697583
+Debris
+Slide
+23 November 2023
+28263
+TN/Nil/58A11/2023/160
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35473266
+76.94561356
+Debris
+Slide
+23 November 2023
+28264
+TN/Nil/58A11/2023/161
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35444989
+76.94379168
+Debris
+Slide
+23 November 2023
+28265
+TN/Nil/58A11/2023/162
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35488905
+76.9430774
+Debris
+Slide
+23 November 2023
+28266
+TN/Nil/58A11/2023/163
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35450826
+76.94263034
+Debris
+Slide
+23 November 2023
+28267
+TN/Nil/58A11/2023/164
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.35346901
+76.94214577
+Debris
+Slide
+23 November 2023
+28268
+TN/Nil/58A11/2023/165
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34981179
+76.9411861
+Debris
+Slide
+23 November 2023
+28269
+TN/Nil/58A11/2023/166
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34967677
+76.94147878
+Earth
+Slide
+23 November 2023
+28270
+TN/Nil/58A11/2023/167
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34962812
+76.94181618
+Earth
+Slide
+23 November 2023
+28271
+TN/Nil/58A11/2023/168
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34893439
+76.94316226
+Earth
+Slide
+23 November 2023
+28272
+TN/Nil/58A11/2023/169
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34853389
+76.94340348
+Earth
+Slide
+23 November 2023
+28273
+TN/Nil/58A11/2023/170
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34824292
+76.94361365
+Earth
+Slide
+23 November 2023
+28274
+TN/Nil/58A11/2023/171
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34809917
+76.94380445
+Earth
+Slide
+23 November 2023
+28275
+TN/Nil/58A11/2023/172
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34777823
+76.94398539
+Earth
+Slide
+23 November 2023
+28276
+TN/Nil/58A11/2023/173
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34765289
+76.94450377
+Debris
+Slide
+23 November 2023
+28277
+TN/Nil/58A11/2023/174
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34700889
+76.94478131
+Debris
+Slide
+23 November 2023
+28278
+TN/Nil/58A11/2023/175
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34612638
+76.94402605
+Debris
+Slide
+23 November 2023
+28279
+TN/Nil/58A11/2023/176
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34619369
+76.94389937
+Debris
+Slide
+23 November 2023
+28280
+TN/Nil/58A11/2023/177
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34641057
+76.9435889
+Debris
+Slide
+23 November 2023
+28281
+TN/Nil/58A11/2023/178
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34653207
+76.94348491
+Debris
+Slide
+23 November 2023
+28282
+TN/Nil/58A11/2023/179
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34677326
+76.94266173
+Debris
+Slide
+23 November 2023
+28283
+TN/Nil/58A11/2023/180
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34687267
+76.94157503
+Debris
+Slide
+23 November 2023
+28284
+TN/Nil/58A11/2023/181
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34493399
+76.93814992
+Debris
+Slide
+23 November 2023
+28285
+TN/Nil/58A11/2023/182
+Tamil Nadu
+Nilgiri
+Kothagiri slide
+SH-15
+11.34263136
+76.93718243
+Debris
+Slide
+23 November 2023
+28286
+7254
+Tamil Nadu
+Nilgiri
+near NH-181
+11.336513
+76.798517
+Debris
+slide
+2026-01-12
+28287
+7528
+Tamil Nadu
+Coimbatore
+Left bank of Sholayar dam way 
+to Pannimede estate
+10.2868733
+76.877005
+NA
+Slide
+2024-07-30
+28288
+WB/JAL/78F10/2015/937
+West Bengal
+Jalpaiguri
+ 
+ 
+26.691649
+89.668421
+Debris
+Slide
+NA
+28289
+WB/JAL/78F10/2015/938
+West Bengal
+Jalpaiguri
+ 
+ 
+26.693764
+89.670291
+Debris
+Slide
+NA
+28290
+WB/JAL/78F10/2015/939
+West Bengal
+Jalpaiguri
+ 
+ 
+26.694991
+89.666126
+Rock
+Slide
+NA
+28291
+WB/JAL/78F10/2015/940
+West Bengal
+Jalpaiguri
+ 
+ 
+26.695182
+89.670162
+Rock
+Slide
+NA

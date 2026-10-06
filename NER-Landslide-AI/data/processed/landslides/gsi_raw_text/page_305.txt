@@ -1,0 +1,511 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+13022
+KL/IDU/58F04/2019/472
+Kerala
+Idukki
+Aaram mile
+Bison valley-Devikulam road
+10.03
+77.12
+Debris
+Slide
+NA
+13023
+KL/IDU/58F04/2019/510
+Kerala
+Idukki
+Parakudi
+Bison valley-Devikulam road
+10.03
+77.12
+Debris
+Flow
+NA
+13024
+KL/IDU/58F04/2019/515
+Kerala
+Idukki
+Aanakkulam
+Muttan mudi
+10.03
+77.07
+Debris
+Slide
+NA
+13025
+KL/IDU/58F04/2019/536
+Kerala
+Idukki
+Chithirapuram
+Aanayirangal
+10.03
+77.21
+Debris
+Slide
+NA
+13026
+KL/IDU/58F04/2019/390
+Kerala
+Idukki
+Aanakkulam
+Adimali Munnar Highway
+10.04
+77.04
+Debris
+Slide
+2019
+13027
+KL/IDU/58F04/2019/391
+Kerala
+Idukki
+Near Pallivasal
+Adimali Munnar Highway
+10.04
+77.04
+Debris
+Flow
+NA
+13028
+KL/IDU/58F04/2019/392
+Kerala
+Idukki
+Chithirapuram
+Adimali Munnar Highway
+10.04
+77.03
+Debris
+Flow
+2019
+13029
+KL/IDU/58F04/2019/393
+Kerala
+Idukki
+Thalumkandam
+Adimali Munnar Highway
+10.04
+77.03
+Debris
+Slide
+2019
+13030
+KL/IDU/58F04/2019/395
+Kerala
+Idukki
+Mankulam
+Adimali Munnar Highway
+10.04
+77.03
+Debris
+Slide
+2018
+13031
+KL/IDU/58F04/2019/396
+Kerala
+Idukki
+Mankulam
+Adimali Munnar Highway
+10.04
+77.02
+Debris
+Slide
+2018
+13032
+KL/IDU/58F04/2019/397
+Kerala
+Idukki
+Perumbamkoottu
+Adimali Munnar Highway
+10.04
+77.02
+Debris
+Slide
+2018
+13033
+KL/IDU/58F04/2019/398
+Kerala
+Idukki
+Seval kudi
+Adimali Munnar Highway
+10.04
+77.01
+Debris
+Slide
+2018
+13034
+KL/IDU/58B16/2019/421
+Kerala
+Idukki
+Aanachal
+Adimali-Plamala road
+10.04
+76.95
+Debris
+Slide
+2018
+13035
+KL/IDU/58B16/2019/422
+Kerala
+Idukki
+Aaram mile
+Adimali-Plamala road
+10.04
+76.95
+Debris
+Slide
+2018
+13036
+KL/IDU/58B16/2019/423
+Kerala
+Idukki
+Seval kudi
+Adimali-Plamala road
+10.04
+76.95
+Debris
+Slide
+2018
+13037
+KL/IDU/58B16/2019/433
+Kerala
+Idukki
+Perumbamkoottu
+Kallar
+10.04
+76.99
+Debris
+Flow
+2018
+13038
+KL/IDU/58B16/2019/434
+Kerala
+Idukki
+Seval kudi
+Kallar estate
+10.04
+76.99
+Debris
+Slide
+2018
+13039
+KL/IDU/58F04/2019/439
+Kerala
+Idukki
+Aanachal
+Adimali Munnar Highway
+10.04
+77.04
+Debris
+Slide
+NA
+13040
+KL/IDU/58B16/2019/471
+Kerala
+Idukki
+Aaram mile
+Neriyamangalam-Adimali 
+Highway
+10.04
+76.85
+Debris
+Slide
+2018
+13041
+KL/IDU/58B16/2019/473
+Kerala
+Idukki
+Chikkanad kudi
+Neriyamangalam-Adimali 
+Highway
+10.04
+76.85
+Debris
+Slide
+2018
+13042
+KL/IDU/58F04/2019/508
+Kerala
+Idukki
+Aaram mile
+NH 49
+10.04
+77.11
+Debris
+Slide
+2019
+13043
+KL/IDU/58F04/2019/509
+Kerala
+Idukki
+Chikkanad kudi
+NH 49
+10.04
+77.12
+Debris
+Slide
+2019
+13044
+KL/IDU/58F04/2019/533
+Kerala
+Idukki
+Aanakkulam
+Aanayirangal-Chinnakkanal 
+road
+10.04
+77.17
+Debris
+Slide
+NA
+13045
+KL/IDU/58F04/2019/534
+Kerala
+Idukki
+Aanakkulam
+NH 49
+10.04
+77.14
+Debris
+Slide
+NA
+13046
+KL/IDU/58F04/2019/535
+Kerala
+Idukki
+Near Pallivasal
+Aanayirangal-Chinnakkanal 
+road
+10.04
+77.16
+Debris
+Slide
+NA
+13047
+KL/IDU/58F04/2019/780
+Kerala
+Idukki
+Parakudi
+NH49
+10.04
+77.04
+Debris
+Flow
+2018
+13048
+KL/IDU/58F04/2019/386
+Kerala
+Idukki
+Aaram mile
+Pallivasal
+10.05
+77.05
+Debris
+Flow
+2018
+13049
+KL/IDU/58F04/2019/388
+Kerala
+Idukki
+Aanakkulam
+Pallivasal
+10.05
+77.05
+Debris
+Slide
+2019
+13050
+KL/IDU/58F04/2019/389
+Kerala
+Idukki
+Aanakkulam
+Pallivasal
+10.05
+77.05
+Debris
+Slide
+2018
+13051
+KL/IDU/58F04/2019/427
+Kerala
+Idukki
+Near Pallivasal
+Adimali Munnar Highway
+10.05
+77.05
+Debris
+Flow
+NA
+13052
+KL/IDU/58B16/2019/437
+Kerala
+Idukki
+Chikkanad kudi
+kallar-Anakkulam road
+10.05
+76.96
+Debris
+Slide
+2019
+13053
+KL/IDU/58B16/2019/438
+Kerala
+Idukki
+Parakudi
+kallar-Anakkulam road
+10.05
+76.95
+Debris
+Slide
+2018
+13054
+KL/IDU/58B16/2019/446
+Kerala
+Idukki
+Chithirapuram
+Machiplavu-Plamala road
+10.05
+76.94
+Debris
+Slide
+2018
+13055
+KL/IDU/58B16/2019/475
+Kerala
+Idukki
+Aanachal
+Chillithodu-padikkappu road
+10.05
+76.87
+Debris
+Slide
+2018
+13056
+KL/IDU/58F04/2019/532
+Kerala
+Idukki
+Aanakkulam
+Aanayirangal
+10.05
+77.21
+Debris
+Slide
+NA
+13057
+KL/IDU/58F04/2019/537
+Kerala
+Idukki
+Thalumkandam
+pappathi-yelamudi road
+10.05
+77.22
+Debris
+Slide
+NA
+13058
+KL/EKM/58B16/2019/541
+Kerala
+Ernakulam
+Perumbamkoottu
+NH 49
+10.05
+76.76
+Debris
+Slide
+NA
+13059
+KL/IDU/58F04/2019/637
+Kerala
+Idukki
+Aanachal
+Estate road
+10.05
+77.12
+Debris
+Slide
+NA
+13060
+KL/IDU/58F04/2019/638
+Kerala
+Idukki
+Aaram mile
+Estate road
+10.05
+77.13
+Debris
+Slide
+NA
+13061
+KL/IDU/58F04/2019/337
+Kerala
+Idukki
+Near Pallivasal
+Adimali Munnar Highway
+10.06
+77.06
+Debris
+Slide
+NA
+13062
+KL/IDU/58F04/2019/387
+Kerala
+Idukki
+Seval kudi
+Pallivasal
+10.06
+77.05
+Debris
+Slide
+NA
+13063
+KL/IDU/58F04/2019/416
+Kerala
+Idukki
+Seval kudi
+Adimali Munnar Highway
+10.06
+77.05
+Debris
+Slide
+NA
+13064
+KL/IDU/58B16/2019/440
+Kerala
+Idukki
+Aaram mile
+kallar-Anakkulam road
+10.06
+76.96
+Debris
+Slide
+2018
+13065
+KL/IDU/58B16/2019/441
+Kerala
+Idukki
+Seval kudi
+kallar-Anakkulam road
+10.06
+76.96
+Debris
+Slide
+2018
+13066
+KL/IDU/58B16/2019/447
+Kerala
+Idukki
+Thalumkandam
+Machiplavu-Plamala road
+10.06
+76.94
+Debris
+Slide
+2018

@@ -1,0 +1,529 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+10833
+JK/BAR/43J04/2020/3
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Manzigham area
+34.18
+74.24
+Debris
+Slide
+NA
+10834
+JK/BAR/43J08/2020/6
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Gantmulla Payeen area
+34.18
+74.28
+Debris
+Slide
+NA
+10835
+JK/GAN/43J16/2020/1
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+PMGSY road Saidpora
+34.18
+74.89
+Debris
+Slide
+NA
+10836
+JK/BAR/43J04/2020/4
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Hillam  Pahlipora area
+34.19
+74.22
+Debris
+Slide
+NA
+10837
+JK/BAR/43J08/2020/4
+Jammu & Kashmir (UT)
+Baramulla
+ 
+2 km ahead of Sheeri area
+34.2
+74.3
+Debris
+Slide
+NA
+10838
+JK/BAN/43J11/2020/14
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Khanpora area
+34.21
+74.32
+Debris
+Slide
+NA
+10839
+JK/BAR/43J04/2020/5
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Hillan Hagpathri area
+34.24
+74.22
+Rock
+Slide
+NA
+10840
+JK/BAN/43J11/2020/1
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Masbal area
+34.25
+74.71
+Debris
+Slide
+NA
+10841
+JK/BAN/43J11/2020/2
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Masbal area
+34.25
+74.71
+Debris
+Slide
+NA
+10842
+JK/BAN/43J11/2020/12
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Mansabal area
+34.26
+74.69
+Debris
+Slide
+NA
+10843
+JK/GAN/43N07/2020/1
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+ 
+34.26
+75.42
+Rock
+Slide
+NA
+10844
+JK/GAN/43N07/2020/3
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+ 
+34.26
+75.42
+Rock
+Slide
+NA
+10845
+JK/GAN/43N07/2020/8
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+ 
+34.26
+75.44
+Rock
+Slide
+NA
+10846
+JK/BAN/43J11/2020/13
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Mansabal area
+34.27
+74.68
+Debris
+Slide
+NA
+10847
+JK/BAN/43J11/2020/7
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Masbal area
+34.27
+74.69
+Debris
+Slide
+NA
+10848
+JK/GAN/43J15/2020/6
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+Bawa gri road
+34.27
+74.91
+Earth
+Slide
+NA
+10849
+JK/GAN/43J15/2020/7
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+Wangut-Kangan road
+34.27
+74.91
+Debris
+Slide
+NA
+10850
+JK/GAN/43N07/2020/2
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+ 
+34.27
+75.44
+Rock
+Slide
+NA
+10851
+JK/GAN/43N07/2020/7
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+ 
+34.27
+75.43
+Rock
+Slide
+NA
+10852
+JK/GAN/43N07/2020/9
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+ 
+34.27
+75.44
+Rock
+Slide
+NA
+10853
+JK/GAN/43N07/2020/4
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+ 
+34.28
+75.35
+Rock
+Slide
+NA
+10854
+JK/GAN/43J15/2020/1
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+Srigar-Bandipora road
+34.29
+74.9
+Rock
+Topple
+NA
+10855
+JK/GAN/43J15/2020/2
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+Kangan-Wangut road
+34.29
+74.92
+Debris
+Slide
+NA
+10856
+JK/GAN/43J15/2020/3
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+Near Kangan
+34.29
+74.92
+Debris
+Slide
+NA
+10857
+JK/GAN/43J15/2020/5
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+Srigar-Bandipora road
+34.29
+74.88
+Rock
+Fall
+NA
+10858
+JK/GAN/43N07/2020/5
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+ 
+34.29
+75.32
+Rock
+Slide
+NA
+10859
+JK/BAN/43J11/2020/17
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Sadarkote area
+34.3
+74.66
+Debris
+Slide
+NA
+10860
+JK/GAN/43N07/2020/6
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+ 
+34.3
+75.32
+Rock
+Slide
+NA
+10861
+JK/BAN/43J11/2020/3
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Sadarkote area
+34.32
+74.67
+Debris
+Slide
+NA
+10862
+JK/GAN/43J15/2020/8
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+Near Wangut
+34.33
+74.94
+Debris
+Slide
+NA
+10863
+JK/GAN/43J15/2020/9
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+Near Walmut
+34.34
+74.96
+Debris
+Slide
+NA
+10864
+JK/BAN/43J11/2020/8
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Chapran area
+34.36
+74.71
+Earth
+Subsidence
+NA
+10865
+JK/BAN/43J11/2020/18
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Aragam area
+34.37
+74.7
+Rock
+Slide
+NA
+10866
+JK/BAN/43J11/2020/19
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Aragam area
+34.37
+74.69
+Rock
+Slide
+NA
+10867
+JK/BAN/43J11/2020/4
+Jammu & Kashmir (UT)
+Bandipora
+ 
+Aragam area
+34.37
+74.7
+Rock
+Slide
+NA
+10868
+JK/BAN/43J11/2020/9
+Jammu & Kashmir (UT)
+Bandipora
+ 
+chatte Bandhi area
+34.37
+74.7
+Debris
+Slide
+NA
+10869
+JK/BAR/43J03/2020/2
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Near Peth Wadur area
+34.38
+74.12
+Debris
+Slide
+NA
+10870
+JK/BAR/43J03/2020/5
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Wadur Payeen area
+34.38
+74.13
+Debris
+Slide
+NA
+10871
+JK/GAN/43J15/2020/10
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+Keunus area
+34.39
+74.76
+Debris
+Slide
+NA
+10872
+JK/BAR/43J03/2020/3
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Rajpora area
+34.4
+74.17
+Debris
+Slide
+NA
+10873
+JK/BAR/43J03/2020/7
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Rajpora area
+34.4
+74.16
+Debris
+Slide
+NA
+10874
+JK/GAN/43J15/2020/4
+Jammu & Kashmir (UT)
+Ganderbal
+ 
+Sumlar area
+34.4
+74.76
+Debris
+Slide
+NA
+10875
+JK/BAR/43J03/2020/4
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Near Rajwar area
+34.41
+74.13
+Debris
+Slide
+NA
+10876
+JK/BAR/43J03/2020/6
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Sultanpora near Zachaldar
+34.41
+74.2
+Debris
+Slide
+NA
+10877
+JK/KUP/43J07/2020/3
+Jammu & Kashmir (UT)
+Kupwara
+ 
+ Near Saman area
+34.42
+74.32
+Debris
+Slide
+NA
+10878
+JK/BAR/43J03/2020/8
+Jammu & Kashmir (UT)
+Baramulla
+ 
+Near Hangulkute
+34.44
+74.09
+Earth
+Slide
+NA
+10879
+JK/KUP/43J07/2020/1
+Jammu & Kashmir (UT)
+Kupwara
+ 
+Kawari-Karpora area
+34.44
+74.28
+Debris
+Slide
+NA

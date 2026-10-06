@@ -1,0 +1,505 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1992
+6823
+Arunachal Pradesh
+East Kameng
+27.301412
+93.051563
+Debris
+slide
+NA
+1993
+6824
+Arunachal Pradesh
+East Kameng
+27.311571
+93.046703
+Debris
+slide
+NA
+1994
+6825
+Arunachal Pradesh
+Papum Pare
+Yupia-2
+27.157291
+93.739896
+Debris
+Slide
+NA
+1995
+6827
+Arunachal Pradesh
+East Kameng
+Rillow
+27.216933
+93.066329
+Debris
+slide
+NA
+1996
+6834
+Arunachal Pradesh
+Papum Pare
+Yupia-3
+27.158579
+93.74103
+Debris
+Slide
+NA
+1997
+6837
+Arunachal Pradesh
+Papum Pare
+27.162502
+93.746553
+Debris
+Slide
+NA
+1998
+6840
+Arunachal Pradesh
+Papum Pare
+Tigdo
+27.16186
+93.747535
+Debris
+Slide
+NA
+1999
+6843
+Arunachal Pradesh
+Papum Pare
+Rono-1
+27.166107
+93.750907
+Debris
+Slide
+NA
+2000
+6859
+Arunachal Pradesh
+Papum Pare
+Rono-2
+27.166864
+93.755668
+Debris
+Slide
+NA
+2001
+6861
+Arunachal Pradesh
+Papum Pare
+Rono-3
+27.169659
+93.756277
+Debris
+Slide
+NA
+2002
+6959
+Arunachal Pradesh
+Papum Pare
+Chiputa-1
+27.184921
+93.782324
+Debris
+Slide
+NA
+2003
+6960
+Arunachal Pradesh
+Papum Pare
+Chiputa-2
+27.188151
+93.78308
+Debris
+Slide
+NA
+2004
+6961
+Arunachal Pradesh
+Papum Pare
+27.192865
+93.781908
+Debris
+Slide
+NA
+2005
+6962
+Arunachal Pradesh
+Papum Pare
+27.194916
+93.778683
+Debris
+Slide
+NA
+2006
+6965
+Arunachal Pradesh
+Papum Pare
+27.197293
+93.782341
+Debris
+Slide
+NA
+2007
+6966
+Arunachal Pradesh
+Papum Pare
+Sopo-1
+27.20833
+93.794568
+Debris
+Slide
+NA
+2008
+6967
+Arunachal Pradesh
+Papum Pare
+Sopo-2
+27.227449
+93.798727
+Debris
+Slide
+NA
+2009
+6968
+Arunachal Pradesh
+Papum Pare
+Sopo-3
+27.228061
+93.797954
+Debris
+Slide
+NA
+2010
+6969
+Arunachal Pradesh
+Papum Pare
+Sopo-4
+27.228511
+93.799206
+Debris
+Slide
+NA
+2011
+6970
+Arunachal Pradesh
+Papum Pare
+Sopo-5
+27.229356
+93.800968
+Debris
+Slide
+NA
+2012
+6971
+Arunachal Pradesh
+Papum Pare
+Jampa -1
+27.23616
+93.807069
+Debris
+Slide
+NA
+2013
+6972
+Arunachal Pradesh
+Papum Pare
+Jampa-2
+27.23719
+93.80556
+Debris
+Slide
+NA
+2014
+6973
+Arunachal Pradesh
+Papum Pare
+Jampa-3
+27.238406
+93.806341
+Debris
+Slide
+NA
+2015
+6974
+Arunachal Pradesh
+Papum Pare
+Jampa-4
+27.239998
+93.807194
+Debris
+Slide
+NA
+2016
+6975
+Arunachal Pradesh
+Papum Pare
+Hara Hapa-1 
+27.246268
+93.804628
+Debris
+Slide
+NA
+2017
+6976
+Arunachal Pradesh
+Papum Pare
+Hara Hapa -2
+27.248114
+93.805987
+Debris
+Slide
+NA
+2018
+6977
+Arunachal Pradesh
+Papum Pare
+Hara Hapa-3
+27.252527
+93.804341
+Debris
+Slide
+NA
+2019
+6978
+Arunachal Pradesh
+Papum Pare
+Hoj 
+27.25649
+93.795077
+Debris
+Slide
+NA
+2020
+6979
+Arunachal Pradesh
+Papum Pare
+Hoj
+27.257603
+93.796335
+Debris
+Slide
+NA
+2021
+6980
+Arunachal Pradesh
+West Kameng
+Near BRO camp
+27.177138
+92.576909
+Debris
+slide
+NA
+2022
+6981
+Arunachal Pradesh
+West Kameng
+NE of BRO camp
+27.178567
+92.583154
+Debris
+slide
+NA
+2023
+6982
+Arunachal Pradesh
+West Kameng
+Near BRO camp
+27.177138
+92.576909
+Debris
+slide
+NA
+2024
+6983
+Arunachal Pradesh
+West Kameng
+Near Jamiri village
+27.184248
+92.579624
+Debris
+slide
+NA
+2025
+6987
+Arunachal Pradesh
+Papum Pare
+E-21
+27.109398
+93.61692
+Debris
+slide
+NA
+2026
+6988
+Arunachal Pradesh
+Papum Pare
+1036
+27.113024
+93.606339
+Debris
+slide
+NA
+2027
+6989
+Arunachal Pradesh
+East Kameng
+Parang
+27.307958
+93.498326
+Debris
+slide
+NA
+2028
+6990
+Arunachal Pradesh
+West Kameng
+Nichiphula
+Taken from opposite slope/road 27.318647
+92.77855
+Debris
+slide
+NA
+2029
+6991
+Arunachal Pradesh
+West Kameng
+Nichiphula
+27.24867
+92.737685
+Rock
+slide
+NA
+2030
+6992
+Arunachal Pradesh
+West Kameng
+27.288425
+92.769407
+Rock
+slide
+NA
+2031
+6993
+Arunachal Pradesh
+Papum Pare
+27.080299
+93.574089
+Debris
+slide
+NA
+2032
+6994
+Arunachal Pradesh
+Papum Pare
+Bedhi Bedha
+27.079763
+93.573921
+Debris
+slide
+NA
+2033
+6995
+Arunachal Pradesh
+Papum Pare
+Bedhi Beda
+27.078192
+93.572402
+Debris
+slide
+NA
+2034
+6996
+Arunachal Pradesh
+Papum Pare
+27.077728
+93.57163
+Debris
+slide
+NA
+2035
+6997
+Arunachal Pradesh
+Papum Pare
+Bedhi Bedha
+near Ganga lake entrance
+27.076582
+93.569035
+Debris
+slide
+NA
+2036
+6998
+Arunachal Pradesh
+Papum Pare
+27.069837
+93.5542
+Debris
+slide
+NA
+2037
+6999
+Arunachal Pradesh
+Papum Pare
+way to NIT, AP
+27.069615
+93.550726
+Soil
+slide
+NA
+2038
+7000
+Arunachal Pradesh
+Papum Pare
+Poma
+way to NIT
+27.066648
+93.536536
+Debris
+slide
+NA
+2039
+7001
+Arunachal Pradesh
+West Kameng
+way to NIT
+27.213127
+92.652213
+Debris
+slide
+NA
+2040
+7002
+Arunachal Pradesh
+Papum Pare
+way to NIT
+27.062298
+93.531487
+Debris
+slide
+NA
+2041
+7003
+Arunachal Pradesh
+Papum Pare
+Poma
+way to NIT
+27.053976
+93.494166
+Debris
+slide
+NA

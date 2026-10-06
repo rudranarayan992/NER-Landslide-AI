@@ -1,0 +1,429 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+15372
+KL/PTMT/58C/15/2018/20
+Kerala
+Pathanamthitta
+Mundanpara slide 3
+Seethathodu/Mundanpara
+9.304333333
+76.990425
+Debris
+Flow 
+15th August 2018
+15373
+KL/PTMT/58C/15/2018/21
+Kerala
+Pathanamthitta
+Mundanpara slide 4
+Mundanpara 
+9.303427778
+76.99098333
+Debris
+Flow 
+15th August 2018
+15374
+KL/PTMT/58C/15/2018/22
+Kerala
+Pathanamthitta
+Mundanpara slide 5
+Seethathodu Village
+9.304602778
+76.98839167
+Debris
+Slide 
+15th August 2018
+15375
+KL/PTMT/58C/15/2018/23
+Kerala
+Pathanamthitta
+Mundanpara slide 6
+Mundanpara 
+9.305169444
+76.98724444
+Debris
+Flow 
+15th August 2018
+15376
+KL/PTMT/58C/15/2018/24
+Kerala
+Pathanamthitta
+Mundanpara slide 7
+Mundanpara 
+9.310961111
+76.97961944
+Debris
+Flow 
+15th August 2018
+15377
+KL/PTMT/58C/15/2018/25
+Kerala
+Pathanamthitta
+Thekkummood slide
+Thekkummood, Seethathodu
+9.321516667
+76.96113889
+Debris
+Flow 
+15th August 2018
+15378
+KL/PTMT/58C/15/2018/26
+Kerala
+Pathanamthitta
+Moonnukallu slide
+Moonnukallu, Seethathodu
+9.327388889
+76.95871111
+Debris
+Flow 
+15th August 2018
+15379
+KL/PTMT/58C/15/2018/27
+Kerala
+Pathanamthitta
+86 block slide
+Moonnukallu, Seethathodu
+9.328972222
+76.95457778
+Debris
+Flow 
+15th August 2018
+15380
+KL/PTMT/58C/15/2018/28
+Kerala
+Pathanamthitta
+Anachantha slide
+Anachantha, Seethathodu
+9.31495
+76.98687222
+Debris
+Flow 
+15th August 2018
+15381
+KL/PTMT/58C/15/2018/29
+Kerala
+Pathanamthitta
+22nd Block slide
+22nd block, Seethathodu
+9.310505556
+76.99689167
+Debris
+Flow 
+15th August 2018
+15382
+KL/PTMT/58C/15/2018/30
+Kerala
+Pathanamthitta
+Anachanda slide 2
+Anachanda-22nd block road, 
+Seethathodu
+9.313472222
+76.99053889
+Debris
+                           
+Flow 
+15th August 2018
+15383
+KL/PTMT/58C/15/2018/31
+Kerala
+Pathanamthitta
+Kochukoikkal slide
+Kochukoikkal , Seethathodu
+9.335494444
+76.99559722
+Rock - cum - debris
+Flow 
+15th August 2018
+15384
+KL/PTMT/58C/15/2018/32
+Kerala
+Pathanamthitta
+4th block slides
+4th block , Seethathodu
+9.3212
+77.00377222
+Debris
+                             
+Slide
+15th August 2018
+15385
+KL/PTMT/58C/15/2018/33
+Kerala
+Pathanamthitta
+Seethathodu East slide
+East of Seethathodu village
+9.326661111
+76.98666389
+Debris
+Slide 
+15th August 2018
+15386
+KL/PTMT/58C/15/2018/34
+Kerala
+Pathanamthitta
+Harrisons plantation slide
+Kappakadu , Perunadu
+9.347475
+76.91850833
+Debris
+Flow 
+15th August 2018
+15387
+KL/PTMT/58C/15/2018/35
+Kerala
+Pathanamthitta
+Bimmaram colony slide 1
+Bimmaram colony, Perunadu
+9.34365
+76.94040556
+Rock cum debris
+Flow 
+15th August 2018
+15388
+KL/PTMT/58C/15/2018/36
+Kerala
+Pathanamthitta
+Bimmaram colony slide 2
+Bimmaram colony, Perunadu
+9.343594444
+76.93544444
+Debris
+Flow 
+15th August 2018
+15389
+KL/PTMT/58C/15/2018/37
+Kerala
+Pathanamthitta
+Bimmaram colony slide 3
+Bimmaram colony, Perunadu
+9.343591667
+76.93378611
+Debris
+Flow 
+15th August 2018
+15390
+KL/PTMT/58C/15/2018/38
+Kerala
+Pathanamthitta
+Kollamula slide 1
+Kollamula
+9.437263889
+76.86890556
+Debris
+Slide
+15th August 2018
+15391
+KL/PTMT/58C/15/2018/39
+Kerala
+Pathanamthitta
+Kollamula slide 2
+Kollamula
+9.411836111
+76.973325
+Soil
+Slide
+15th August 2018
+15392
+KL/PTMT/58C/15/2018/40
+Kerala
+Pathanamthitta
+Kollamula slide 3
+Kollamula
+9.418430556
+76.96574167
+Soil
+Slide
+15th August 2018
+15393
+KL/PTMT/58C/16/2018/41
+Kerala
+Pathanamthitta
+Muttaakkuzhi slide
+Muttaakkuzhi, Aruvaappalam, 
+Konni. 
+9.170569444
+76.87509167
+Debris
+Flow 
+13 October 2018
+15394
+KL/PTMT/58C/16/2018/42
+Kerala
+Pathanamthitta
+Muttaakkuzhi slide 2 
+Muttaakkuzhi, Aruvaappalam, 
+Konni. 
+9.170291667
+76.87375278
+Debris
+slide 
+13 October 2018
+15395
+KL/PTMT/58C/11/2018/43
+Kerala
+Pathanamthitta
+Punnassery colony rock fall 
+Punnassery colony, 
+Naranganam. 
+9.316963889
+76.74328889
+Rock
+Fall
+July 2018, 15th August 2018
+15396
+KL/PTMT/58C/16/2018/44
+Kerala
+Pathanamthitta
+Vakayar slide 
+Muthupezhungal, Vakayar 
+9.170822222
+76.87366111
+Soil
+Slide
+13 October 2018
+15397
+KL/PTMT/58C/16/2018/45
+Kerala
+Pathanamthitta
+Athirungal slide 
+Vakayar-Athirungal road 
+9.164555556
+76.87303056
+Soil
+Slide
+13 October 2018
+15398
+KL/PTMT/58C/16/2018/46
+Kerala
+Pathanamthitta
+Kulathuman slide
+Athirungal-Kulathuman-Kalleli 
+road 
+9.166425
+76.87938333
+Debris
+Slide
+13 October 2018
+15399
+KL/PTMT/58C/16/2018/47
+Kerala
+Pathanamthitta
+Kulathuman slide
+Murinjakal-Athirungal road 
+9.167266667
+76.86105556
+Soil
+Slide
+13 October 2018
+15400
+KL/PTMT/58C/16/2018/48
+Kerala
+Pathanamthitta
+Thannimoodu slide
+Thannimoodu 
+9.176258333
+76.85974722
+Soil
+Slide
+13 October 2018
+15401
+KL/PTMT/58C/16/2018/49
+Kerala
+Pathanamthitta
+Mlaanthadam slide
+Mlaanthadam
+9.177086111
+76.863
+Soil
+Slide
+13 October 2018
+15402
+KL/PTMT/58C/16/2018/50
+Kerala
+Pathanamthitta
+Chuvattupara cut slope failure
+Chuvattupara
+9.184813889
+76.86902778
+Soil
+Slide
+13 October 2018
+15403
+KL/PTMT/58C/16/2018/51
+Kerala
+Pathanamthitta
+Athirungal - Vakayar road slide
+Athirungal - Vakayar road
+9.164555556
+76.87303056
+Soil
+Slide
+13 October 2018
+15404
+KL/TSR/58B/07/2019/01
+Kerala
+Thrissur
+Mettipadam Slide
+Mettipadam
+10.34972778
+76.37563611
+Rock cum debris
+Flow 
+15th August 2018
+15405
+KL/TSR/58B/07/2019/02
+Kerala
+Thrissur
+Arichankuzhy  Slide
+Arichankuzhy
+10.34705833
+76.45483889
+Rock cum debris
+Flow 
+15th August 2018
+15406
+KL/TSR/58B/07/2019/03
+Kerala
+Thrissur
+Vettukuzhy  Slide
+Vettukuzhy
+10.32061111
+76.46618333
+Rock cum debris
+Flow 
+15th August 2018
+15407
+KL/TSR/58B/07/2019/04
+Kerala
+Thrissur
+Konnakuzhy  Slide
+Konnakuzhy cattle breeding 
+farm (Kerala veterinary and 
+animal science university).
+10.30133333
+76.41955556
+Rock cum debris
+Flow 
+16 August 2018
+15408
+KL/TSR/58B/07/2019/05
+Kerala
+Thrissur
+Konnakuzhy  Slide 2
+Kerala veterinary and animal 
+science university, Konnakuzhy
+10.30375
+76.43389722
+Rock cum debris
+Flow 
+16 August 2018

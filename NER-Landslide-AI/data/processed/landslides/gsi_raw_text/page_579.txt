@@ -1,0 +1,494 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+22787
+MZ/AZL/84A10/2024/087
+Mizoram
+Aizawl
+Aizawl-Thenzawl-Lunglei 
+Highway
+23.66666667
+92.72388889
+Debris
+Slide
+28 May 2024
+22788
+MZ/AZL/84A10/2024/088
+Mizoram
+Aizawl
+Hualngohmun Bifurcation
+23.66027778
+92.72694444
+Debris
+Complex
+28 May 2024
+22789
+MZ/AZL/84A10/2024/089
+Mizoram
+Aizawl
+Hualngohmun, Aizawl
+23.65666667
+92.72694444
+Debris
+Subsidence
+2022, 2023
+22790
+MZ/AZL/84A10/2024/090
+Mizoram
+Aizawl
+Melriat Bazar, Aizawl
+23.64388889
+92.72583333
+Debris
+Complex
+28 May 2024
+22791
+MZ/AZL/84A10/2024/091
+Mizoram
+Aizawl
+Kelsih, Aizawl
+23.635
+92.72361111
+Debris
+Slide
+28 May 2024
+22792
+MZ/AZL/84A15/2024/092
+Mizoram
+Aizawl
+Chamring to Hmuifang Road, 
+Aizawl
+23.43277778
+92.76111111
+Debris
+Slide
+28 May 2024
+22793
+MZ/AZL/84A10/2024/093
+Mizoram
+Aizawl
+Midum Kham, Sumsuih
+23.46777778
+92.74111111
+Debris
+Slide
+28 May 2024
+22794
+MZ/AZL/84A11/2024/094
+Mizoram
+Aizawl
+Thiak, Aizawl
+23.46805556
+92.71638889
+Debris
+Flow
+28 May 2024
+22795
+MZ/AZL/84A11/2024/095
+Mizoram
+Aizawl
+Thiak, Aizawl
+23.4725
+92.71444444
+Earth
+Slide
+28 May 2024
+22796
+MZ/AZL/84A11/2024/096
+Mizoram
+Aizawl
+Thiak, Aizawl
+23.47388889
+92.70972222
+Earth
+Slide
+Septemebr 2023
+22797
+MZ/AZL/84A11/2024/097
+Mizoram
+Aizawl
+Thiak to Maubuang
+23.49
+92.70555556
+Debris
+Complex
+28 May 2024
+22798
+MZ/AZL/84A11/2024/098
+Mizoram
+Aizawl
+Thiak to Maubuang
+23.49722222
+92.70333333
+Debris
+Slide
+28 May 2024
+22799
+MZ/AZL/84A10/2024/099
+Mizoram
+Aizawl
+Maubuang to Sateek
+23.51361111
+92.69833333
+Debris
+Slide
+28 May 2024
+22800
+MZ/AZL/84A10/2024/100
+Mizoram
+Aizawl
+Sateek
+23.53666667
+92.6975
+Debris
+Slide
+28 May 2024
+22801
+MZ/AZL/84A10/2024/101
+Mizoram
+Aizawl
+Sateek
+23.54166667
+92.70194444
+Debris
+Flow
+28 May 2024
+22802
+MZ/AZL/84A10/2024/102
+Mizoram
+Aizawl
+Sateek
+23.54277778
+92.70333333
+Earth
+Slide
+28 May 2024
+22803
+MZ/AZL/84A10/2024/103
+Mizoram
+Aizawl
+Phulpui
+23.52944444
+92.72944444
+Debris
+Flow
+28 May 2024
+22804
+MZ/AZL/84A10/2024/104
+Mizoram
+Aizawl
+Phulpui
+23.53083333
+92.73055556
+Debris
+Slide
+28 May 2024
+22805
+MZ/AZL/84A10/2024/105
+Mizoram
+Aizawl
+Phulpui
+23.53111111
+92.73361111
+Debris
+Slide
+28 May 2024
+22806
+MZ/AZL/84A10/2024/106
+Mizoram
+Aizawl
+Phulpui
+23.53083333
+92.73333333
+Debris
+Slide
+28 May 2024
+22807
+MZ/AZL/84A10/2024/107
+Mizoram
+Aizawl
+Aibawk
+23.56388889
+92.70805556
+Debris
+Slide
+28 May 2024
+22808
+MZ/AZL/84A10/2024/108
+Mizoram
+Aizawl
+Aibawk
+23.56416667
+92.70805556
+Debris
+Slide
+28 May 2024
+22809
+MZ/AZL/84A10/2024/109
+Mizoram
+Aizawl
+Aibawk
+23.565
+92.70777778
+Debris
+Slide
+28 May 2024
+22810
+MZ/AZL/84A10/2024/110
+Mizoram
+Aizawl
+Aibawk
+23.56666667
+92.70888889
+Debris
+Slide
+28 May 2024
+22811
+MZ/AZL/84A09/2024/111
+Mizoram
+Aizawl
+BSUP, Durtlang
+23.77305556
+92.74361111
+Debris
+Slide
+28 May 2024
+22812
+MZ/AZL/84A13/2024/112
+Mizoram
+Aizawl
+Muthi
+23.77472222
+92.76194444
+Debris
+Slide
+28 May 2024
+22813
+MZ/AZL/84A13/2024/113
+Mizoram
+Aizawl
+Muthi
+23.77361111
+92.76111111
+Debris
+Slide
+28 May 2024
+22814
+MZ/AZL/84A10/2024/114
+Mizoram
+Aizawl
+Zuangtui, Aizawl
+23.74861111
+92.73861111
+Debris
+Slide
+28 May 2024
+22815
+MZ/AZL/84A10/2024/115
+Mizoram
+Aizawl
+Muallungthu
+23.61
+92.72083333
+Debris
+Slide
+28 May 2024
+22816
+MZ/AZL/84A10/2024/116
+Mizoram
+Aizawl
+Muallungthu
+23.60666667
+92.72305556
+Debris
+Complex
+28 May 2024
+22817
+MZ/AZL/84A10/2024/117
+Mizoram
+Aizawl
+Tachhip
+23.5925
+92.71666667
+Debris
+Slide
+28 May 2024
+22818
+MZ/AZL/84A10/2024/118
+Mizoram
+Aizawl
+Tachhip
+23.58722222
+92.71361111
+Debris
+Slide
+28 May 2024
+22819
+MZ/AZL/84A10/2024/119
+Mizoram
+Aizawl
+Tachhip
+23.57694444
+92.71305556
+Debris
+Slide
+28 May 2024
+22820
+MZ/AZL/84A10/2024/121
+Mizoram
+Aizawl
+Tachhip
+23.58027778
+92.715
+Earth
+Slide
+28 May 2024
+22821
+MZ/AZL/84A10/2024/122
+Mizoram
+Aizawl
+Tachhip
+23.58138889
+92.71416667
+Debris
+Slide
+28 May 2024
+22822
+MZ/AZL/84A10/2024/123
+Mizoram
+Aizawl
+Tachhip
+23.58694444
+92.7175
+Debris
+Slide
+28 May 2024
+22823
+MZ/AZL/84A10/2024/124
+Mizoram
+Aizawl
+Tachhip
+23.58555556
+92.71583333
+Debris
+Complex
+28 May 2024
+22824
+MZ/AZL/84A10/2024/125
+Mizoram
+Aizawl
+Tachhip
+23.58583333
+92.71638889
+Debris
+Slide
+28 May 2024
+22825
+MZ/AZL/84A10/2024/126
+Mizoram
+Aizawl
+Tachhip
+23.58638889
+92.71583333
+Debris
+Slide
+28 May 2024
+22826
+MZ/AZL/84A10/2024/127
+Mizoram
+Aizawl
+Hualngohmun
+23.65388889
+92.72444444
+Debris
+Slide
+28 May 2024
+22827
+MZ/AZL/84A10/2024/128
+Mizoram
+Aizawl
+Hualngohmun
+23.65416667
+92.71777778
+Debris
+Slide
+28 May 2024
+22828
+MZ/AZL/84A10/2024/129
+Mizoram
+Aizawl
+Melriat to Samtlang road
+23.655
+92.71444444
+Rock
+Slide
+28 May 2024
+22829
+MZ/AZL/84A10/2024/130
+Mizoram
+Aizawl
+Melriat to Samtlang road
+23.65416667
+92.69
+Debris
+Slide
+28 May 2024
+22830
+MZ/AZL/84A10/2024/131
+Mizoram
+Aizawl
+N Lungleng
+23.66055556
+92.67277778
+Earth
+Slide
+28 May 2024
+22831
+MZ/AZL/84A10/2024/132
+Mizoram
+Aizawl
+N Lungleng
+23.66083333
+92.67277778
+Debris
+Slide
+28 May 2024
+22832
+MZ/AZL/84A10/2024/133
+Mizoram
+Aizawl
+N Lungleng
+23.65777778
+92.67444444
+Earth
+Slide
+28 May 2024
+22833
+MZ/AZL/84A10/2024/134
+Mizoram
+Aizawl
+Samtlang Junction
+23.65861111
+92.70583333
+Debris
+Slide
+28 May 2024
+22834
+MZ/AZL/84A10/2024/135
+Mizoram
+Aizawl
+Melthum
+23.68143611
+92.72144167
+Debris
+Slide
+28 May 2024

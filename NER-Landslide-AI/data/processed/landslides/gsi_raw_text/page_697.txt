@@ -1,0 +1,513 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27550
+TN/NIL/58A15/2015-16/249
+Tamil Nadu
+Nilgiri
+ 
+Katteri Junction, Katteri to 
+Burliyar
+11.3325
+76.791667
+Debris
+Slide
+NA
+27551
+TN/NIL/58A15/2015-16/289
+Tamil Nadu
+Nilgiri
+ 
+West of Katteri road junction
+11.3325
+76.787778
+Debris
+Slide
+NA
+27552
+TN/NIL/58A15/2015-16/291
+Tamil Nadu
+Nilgiri
+ 
+PC.No:4/7,  Katteri to 
+Karumapalam
+11.3325
+76.784722
+Debris
+Slide
+NA
+27553
+TN/NIL/58A15/2015-16/252
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.33272
+76.793978
+Debris
+Slide
+NA
+27554
+TN/NIL/58A15/2015-16/290
+Tamil Nadu
+Nilgiri
+ 
+PC.No: 4/5,  Katteri to 
+Karumapalam
+11.332778
+76.785278
+Debris
+Slide
+NA
+27555
+TN/NIL/58A15/2015-16/292
+Tamil Nadu
+Nilgiri
+ 
+PC.No:4/8,  Katteri to 
+Karumapalam
+11.332778
+76.783333
+Debris
+Slide
+NA
+27556
+TN/NIL/58A15/2015-16/293
+Tamil Nadu
+Nilgiri
+ 
+Katteri to Karumapalam
+11.332778
+76.7825
+Earth
+Slide
+NA
+27557
+TN/NIL/58A15/2015-16/296
+Tamil Nadu
+Nilgiri
+ 
+Near Sivaram Tea Factory
+11.332778
+76.763889
+Debris
+Slide
+NA
+27558
+TN/NIL/58A15/2015-16/167
+Tamil Nadu
+Nilgiri
+ 
+HPB: 9/14, NH-67
+11.333889
+76.821389
+Debris
+Slide
+NA
+27559
+TN/NIL/58A15/2015-16/318
+Tamil Nadu
+Nilgiri
+ 
+Katteri to Selas
+11.333889
+76.753333
+Debris
+Slide
+NA
+27560
+TN/NIL/58A15/2015-16/280
+Tamil Nadu
+Nilgiri
+ 
+HPB.No: 11/4,  NH-67
+11.334167
+76.82
+Debris
+Slide
+NA
+27561
+TN/NIL/58A15/2015-16/288
+Tamil Nadu
+Nilgiri
+ 
+Downslope of Sagaimatha 
+hospital
+11.334444
+76.793333
+Debris
+Slide
+NA
+27562
+TN/NIL/58A15/2015-16/166
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.334665
+76.818422
+Debris
+Slide
+NA
+27563
+TN/NIL/58A11/2015-16/114
+Tamil Nadu
+Nilgiri
+ 
+Palada to Selas, near Katteri 
+Dam
+11.334722
+76.736389
+Debris
+Slide
+NA
+27564
+TN/NIL/58A15/2015-16/334
+Tamil Nadu
+Nilgiri
+ 
+Along Railway track
+11.334722
+76.813611
+Earth
+Slide
+NA
+27565
+TN/NIL/58A15/2015-16/285
+Tamil Nadu
+Nilgiri
+ 
+Gandhipuram village
+11.334722
+76.799722
+Earth
+Slide
+NA
+27566
+TN/NIL/58A11/2015-16/45
+Tamil Nadu
+Nilgiri
+ 
+Kallakorai to Tulitalai road
+11.335
+76.665833
+Debris
+Slide
+NA
+27567
+TN/NIL/58A15/2015-16/168
+Tamil Nadu
+Nilgiri
+ 
+MS.No:2/402, NH-67
+11.335278
+76.822222
+Debris
+Slide
+NA
+27568
+TN/NIL/58A15/2015-16/165
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.335498
+76.818422
+Earth
+Slide
+NA
+27569
+TN/NIL/58A15/2015-16/173
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.336054
+76.825922
+Debris
+Slide
+NA
+27570
+TN/NIL/58A15/2015-16/176
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.336054
+76.827867
+Debris
+Slide
+NA
+27571
+TN/NIL/58A11/2015-16/46
+Tamil Nadu
+Nilgiri
+ 
+Tulitalai village
+11.336111
+76.663889
+Earth
+Slide
+NA
+27572
+TN/NIL/58A15/2015-16/317
+Tamil Nadu
+Nilgiri
+ 
+Ennkadu Tea Estate
+11.336111
+76.756944
+Earth
+Slide
+NA
+27573
+TN/NIL/58A15/2015-16/174
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.336332
+76.827033
+Debris
+Slide
+NA
+27574
+TN/NIL/58A15/2015-16/335
+Tamil Nadu
+Nilgiri
+ 
+Along Railway track
+11.336389
+76.818611
+Earth
+Slide
+NA
+27575
+TN/NIL/58A15/2015-16/172
+Tamil Nadu
+Nilgiri
+ 
+HPB.No:8/1,NH-67
+11.336667
+76.827778
+Debris
+Slide
+NA
+27576
+TN/NIL/58A15/2015-16/179
+Tamil Nadu
+Nilgiri
+ 
+NH-67, near Burliyar
+11.336667
+76.839722
+Debris
+Slide
+NA
+27577
+TN/NIL/58A15/2015-16/171
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.336887
+76.825922
+Debris
+Slide
+NA
+27578
+TN/NIL/58A15/2015-16/178
+Tamil Nadu
+Nilgiri
+ 
+NH-67, near Burliyar
+11.336944
+76.837222
+Earth
+Slide
+NA
+27579
+TN/NIL/58A15/2015-16/170
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.337443
+76.825089
+Debris
+Slide
+NA
+27580
+TN/NIL/58A15/2015-16/180
+Tamil Nadu
+Nilgiri
+ 
+NH-67, near Burliyar
+11.3375
+76.843333
+Earth
+Slide
+NA
+27581
+TN/NIL/58A15/2015-16/169
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.33772
+76.8237
+Debris
+Slide
+NA
+27582
+TN/NIL/58A15/2015-16/177
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.33772
+76.832033
+Debris
+Slide
+NA
+27583
+TN/COI/58A15/2015-16/275
+Tamil Nadu
+Coimbatore
+ 
+NH-67
+11.33772
+76.860089
+Debris
+Slide
+NA
+27584
+TN/NIL/58A15/2015-16/175
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.338554
+76.827867
+Debris
+Slide
+NA
+27585
+TN/NIL/58A15/2015-16/284
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.338554
+76.798422
+Debris
+Slide
+NA
+27586
+TN/NIL/58A15/2015-16/303
+Tamil Nadu
+Nilgiri
+ 
+Kannimariamman Koil
+11.338889
+76.801667
+Debris
+Slide
+NA
+27587
+TN/COI/58A15/2015-16/274
+Tamil Nadu
+Coimbatore
+ 
+NH-67
+11.339387
+76.857589
+Debris
+Slide
+NA
+27588
+TN/NIL/58A11/2015-16/47
+Tamil Nadu
+Nilgiri
+ 
+Balakola village - Tea Estate
+11.339444
+76.682222
+Debris
+Subsidence
+NA
+27589
+TN/NIL/58A15/2015-16/272
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.339665
+76.855089
+Debris
+Slide
+NA
+27590
+TN/NIL/58A11/2015-16/71
+Tamil Nadu
+Nilgiri
+ 
+Ithalar village
+11.339722
+76.635
+Debris
+Slide
+NA
+27591
+TN/NIL/58A15/2015-16/181
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.339943
+76.8437
+Debris
+Slide
+NA
+27592
+TN/COI/58A15/2015-16/277
+Tamil Nadu
+Coimbatore
+ 
+NH-67
+11.339943
+76.863978
+Debris
+Slide
+NA
+27593
+TN/COI/58A15/2015-16/279
+Tamil Nadu
+Coimbatore
+ 
+NH-67
+11.339943
+76.868144
+Debris
+Slide
+NA
+27594
+TN/NIL/58A15/2015-16/270
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.339943
+76.852589
+Debris
+Slide
+NA

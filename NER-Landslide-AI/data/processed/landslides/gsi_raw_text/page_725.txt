@@ -1,0 +1,386 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+28634
+WB/DAR/78B05/2015/554
+West Bengal
+Darjeeling
+Rongtong Shiv Mandir
+Rongtong Shiv Mandir
+26.84098
+88.35264
+Rock
+Slide
+2012
+28635
+WB/DAR/78B05/2015/421
+West Bengal
+Darjeeling
+NH31A _0 km,
+Adjacent to Sevoke; 0 km on NH 
+31A
+26.841
+88.275
+Rock
+Slide
+2003
+28636
+WB/DAR/78B01/2015/322
+West Bengal
+Darjeeling
+Gayabari Slide
+Between Km. 14 & 14.5 from 
+Garidhura on SH-12A 
+(Garidhura-Mirik road)
+26.842734
+88.232945
+Debris
+Flow
+2003
+28637
+WB/DAR/78B05/2021/PDLS/02
+West Bengal
+Darjeeling
+N/A
+N/A
+26.84323907
+88.34112263
+Debris
+Slide
+October 2021
+28638
+WB/DAR/78B05/2021/PDLS/01
+West Bengal
+Darjeeling
+N/A
+N/A
+26.84364508
+88.33637741
+Debris
+Slide
+October 2021
+28639
+WB/DAR/78B05/2015/566
+West Bengal
+Darjeeling
+ROHINI TG
+ 
+26.84373
+88.279405
+Debris
+Slide
+2014
+28640
+WB/DAR/78B01/2015/336
+West Bengal
+Darjeeling
+Near Tingling view point
+Tingling view point
+26.845411
+88.191884
+Debris
+Slide
+2015
+28641
+WB/DAR/78B01/2015/335
+West Bengal
+Darjeeling
+Limbu Dhura-2, near Tingling Tea 
+Garden
+Limbu dhura
+26.845506
+88.190744
+Debris
+Slide
+2015
+28642
+WB/DAR/78B01/2015/323
+West Bengal
+Darjeeling
+SH-12A 14.75 km
+At Km. 14.75 from Garidhura on 
+SH-12A (Garidhura-Mirik road)
+26.845808
+88.230391
+Debris
+Subsidence
+2003
+28643
+WB/DAR/78B01/2015/345
+West Bengal
+Darjeeling
+80 m south of location 4
+Singboli
+26.845982
+88.224174
+Debris
+Slide
+2015
+28644
+WB/DAR/78B05/2021/PDLS/03
+West Bengal
+Darjeeling
+N/A
+N/A
+26.84637173
+88.34205523
+Debris
+NULL
+October 2021
+28645
+WB/DAR/78B01/2015/362
+West Bengal
+Darjeeling
+Near Phuguri tea garden( on  SH-12)
+Phuguri
+26.846394
+88.206114
+Debris
+Slide
+2015
+28646
+WB/DAR/78B01/2015/356
+West Bengal
+Darjeeling
+Near junction of SH-12 and Singboli 
+TG road
+Singboli
+26.846726
+88.224285
+Debris
+Slide
+2015
+28647
+WB/DAR/78B01/2015/377
+West Bengal
+Darjeeling
+Limbu Dhura-2, near Tingling Tea 
+Garden
+Limbu dhura
+26.846806
+88.190304
+Debris
+Slide
+2015
+28648
+WB/DAR/78B05/2015/419
+West Bengal
+Darjeeling
+Chunabhati
+ 
+26.84689
+88.338191
+Rock
+Slide
+2002
+28649
+WB/DAR/78B05/2015/568
+West Bengal
+Darjeeling
+THALIPAKHA
+ 
+26.847189
+88.264001
+Rock
+Slide
+2014
+28650
+WB/DAR/78B01/2015/373
+West Bengal
+Darjeeling
+Near junction of SH-12 and Singboli 
+TG road
+Singboli
+26.847354
+88.224369
+Debris
+Slide
+2015
+28651
+WB/DAR/78B05/2015/644
+West Bengal
+Darjeeling
+Mithaldanda
+Mithaldanda
+26.847365
+88.338607
+Rock
+Slide
+2015
+28652
+WB/DAR/78B01/2015/376
+West Bengal
+Darjeeling
+Paul Dhura-1, 300 m north of Tingling 
+view point
+Limbu dhura & Paul dhura
+26.847567
+88.191691
+Debris
+Slide
+2015
+28653
+WB/DAR/78B05/2015/696
+West Bengal
+Darjeeling
+Phulban, RD, 29
+Phulban, RD, 29
+26.847861
+88.261917
+Debris
+Subsidence
+2015
+28654
+WB/DAR/78B01/2015/367
+West Bengal
+Darjeeling
+Near junction of SH-12 and Singboli 
+TG road
+Singboli
+26.847864
+88.224221
+Debris
+Slide
+2015
+28655
+WB/DAR/78B01/2015/375
+West Bengal
+Darjeeling
+Limbu Dhura-1 near Tingling Tea 
+Garden,
+Limbu dhura
+26.84798
+88.190291
+Debris
+Slide
+2015
+28656
+WB/DAR/78B05/2015/549
+West Bengal
+Darjeeling
+Rongtong
+Rongtong
+26.848
+88.357
+Rock
+Slide
+2012
+28657
+WB/DAR/78B05/2015/489
+West Bengal
+Darjeeling
+Bhariani
+ 
+26.848509
+88.273609
+Debris
+Slide
+2008
+28658
+WB/DAR/78B05/2015/624
+West Bengal
+Darjeeling
+Phulban, PK-RD, 29
+Phulban, PK-RD, 29
+26.84875
+88.263278
+Debris
+Subsidence
+2015
+28659
+WB/DAR/78B05/2015/621
+West Bengal
+Darjeeling
+Phulban, RD, 29
+Phulban, RD, 29
+26.848889
+88.262444
+Debris
+Slide
+2015
+28660
+WB/DAR/78B05/2015/569
+West Bengal
+Darjeeling
+SIPAHIDHURA TG
+ 
+26.848966
+88.355296
+Debris
+Slide
+2014
+28661
+WB/DAR/78B01/2015/351
+West Bengal
+Darjeeling
+Soureni-6, within Soureni Tea Garden Soureni TG
+26.849114
+88.194081
+Debris
+Slide
+2015
+28662
+WB/DAR/78B01/2015/339
+West Bengal
+Darjeeling
+Paul dhura-4,  550 m north of Tingling 
+view point
+Paul dhura
+26.849353
+88.192211
+Debris
+Slide
+2015
+28663
+WB/DAR/78B05/2015/429
+West Bengal
+Darjeeling
+NH55 Cricket Colony
+NH55
+26.849459
+88.335596
+Debris
+Subsidence
+2003
+28664
+WB/DAR/78B05/2015/641
+West Bengal
+Darjeeling
+Gairigaon, NH55
+Gairigaon, NH55
+26.849463
+88.33315
+Rock
+Slide
+2015
+28665
+WB/DAR/78B01/2015/374
+West Bengal
+Darjeeling
+On SH-12 and 650 m NW of location 5 Singboli
+26.849721
+88.218027
+Debris
+Slide
+2015
+28666
+WB/DAR/78B01/2015/338
+West Bengal
+Darjeeling
+Paul dhura,-3  650 m north of Tingling 
+view point
+Paul dhura
+26.850001
+88.191997
+Debris
+Slide
+2015

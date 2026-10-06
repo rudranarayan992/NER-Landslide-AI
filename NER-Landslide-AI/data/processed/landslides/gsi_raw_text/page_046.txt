@@ -1,0 +1,396 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+1557
+AR/US/82P04/2022/104
+Arunachal Pradesh
+Upper Siang
+N/A
+N/A
+28.178861
+95.228056
+Debris
+Slide
+NA
+1558
+AP/DV/82P/13/2022/LS-150
+Arunachal Pradesh
+East Siang
+Anini-Etalin slide
+Anini-Etalin road section
+28.179262
+95.477068
+Debris
+Slide
+NA
+1559
+AR/US/82P04/2022/012
+Arunachal Pradesh
+Upper Siang
+Pasighat-Yingkiong road Slide 5
+NH-513
+28.181139
+95.225944
+Rock
+slide
+NA
+1560
+AP/LDV/82P11/2022/LS68
+Arunachal Pradesh
+East Siang
+LS-68
+NH-13
+28.181365
+95.470102
+Rock
+Wedge failure
+NA
+1561
+AP/LDV/82P11/2022/LS69
+Arunachal Pradesh
+East Siang
+LS-69
+NH-13, near bridge
+28.181834
+95.469828
+Debris
+Slide
+NA
+1562
+AR/ANJ/91D12/2014/05
+Arunachal Pradesh
+Anjaw
+ 
+HMC road
+28.18439
+96.53453
+Debris
+Slide
+2013
+1563
+AR/ANJ/91D12/2014/43
+Arunachal Pradesh
+Anjaw
+ 
+H. M. C. Road
+28.18525
+96.53256
+Debris
+Slide
+2012
+1564
+AP/LDV/82P11/2022/LS70
+Arunachal Pradesh
+East Siang
+LS-70
+NH-13
+28.186582
+95.471126
+Rock
+Wedge failure
+NA
+1565
+AR/US/82P04/2022/015
+Arunachal Pradesh
+Upper Siang
+Pasighat-Yingkiong road Slide 6
+NH-13 (Pasighat-Yingkiong 
+road)
+28.1915
+95.225917
+Debris
+Slide
+NA
+1566
+AR/WSI/82L12/2021/15
+Arunachal Pradesh
+West Siang
+Aalo-kaying Road Highway slide
+Aalo-Kaying Highway
+28.192217
+94.713927
+Rock-cum-Debris
+Slide
+NA
+1567
+AR/S/82P04/2022/030
+Arunachal Pradesh
+Siang
+South of Jeru Slide 2
+NH-13
+28.192444
+94.984917
+Debris
+Slide
+NA
+1568
+AP/LDV/82P16/20212/1
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 12.4 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.192581
+95.804085
+Rock
+slide
+NA
+1569
+AP/LDV/82P16/2022/64
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 12.6 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.193864
+95.805469
+Debris
+Slide
+NA
+1570
+AR/US/82P04/2022/105
+Arunachal Pradesh
+Upper Siang
+Pasighat-Yingkiong road Slide 18
+NH-513
+28.1945
+95.227917
+Debris
+Slide
+NA
+1571
+AP/LDV/82P16/2022/65
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 13 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.194651
+95.807085
+Debris
+Slide
+NA
+1572
+AR/ANJ/91D12/2014/04
+Arunachal Pradesh
+Anjaw
+Metenliang 2.5 km slide
+HMC road
+28.19597
+96.53733
+Debris
+Slide
+2013
+1573
+AP/LDV/82P16/2022/73
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 14.3 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.198018
+95.810448
+Rock
+Slide
+NA
+1574
+AR/US/82P04/2022/106
+Arunachal Pradesh
+Upper Siang
+Pasighat-Yingkiong road Slide 19
+NH-513
+28.199389
+95.230278
+Debris
+Slide
+NA
+1575
+AP/LDV/82P16/2022/66
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 14.7 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.199873
+95.811883
+Rock
+Slide
+NA
+1576
+AP/LDV/82P16/2022/7
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 15.4 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.201838
+95.812004
+Rock
+Slide
+NA
+1577
+AR/WS/82L16/2022/078
+Arunachal Pradesh
+West Siang
+Jomlo-Mongku Slide 1
+NH-13
+28.202667
+94.828417
+Debris
+Slide
+NA
+1578
+AP/LDV/82P16/2022/6
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 15.3 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.202844
+95.811201
+Rock
+Slide
+NA
+1579
+AP/LDV/82P16/2022/5
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 15.6 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.205003
+95.813193
+Rock
+Slide
+NA
+1580
+AP/LDV/82P16/2022/3
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 16 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.20737
+95.81005
+Rock
+Slide
+NA
+1581
+AP/LDV/82P16/2022/4 
+AP/LDV/82P16/2021/LS4
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 16.1 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.207699
+95.809197
+Rock
+Fall
+NA
+1582
+AP/LDV/82P16/20/2
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 16.3 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.207796
+95.807742
+Rock
+Slide
+NA
+1583
+AR/WS/82L16/2022/079
+Arunachal Pradesh
+West Siang
+Jomlo-Mongku Slide 2
+NH-13
+28.208389
+94.830667
+Debris
+Slide
+NA
+1584
+AR/ANJ/91D12/2014/42
+Arunachal Pradesh
+Anjaw
+Metengliang slide
+H. M. C. Road
+28.20867
+96.53222
+Debris
+Slide
+2013
+1585
+AP/LDV/82P16/2022/51
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 17.5 kms along NH-313 
+towards Hunli
+Newly connstruct15ing Roing-
+Hunli/ Anini road NH-313
+28.209018
+95.80348
+Debris
+Slide
+NA
+1586
+AP/LDV/82P16/2022/72
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 16.57 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.209062
+95.806755
+Rock
+Slide
+NA
+1587
+AP/LDV/82P16/2022/62
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 18.23 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.212211
+95.801273
+Rock
+Slide
+NA
+1588
+AP/LDV/82P16/2022/63
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 18 kms along NH-313 
+towards Hunli
+Newly connstructing Roing-
+Hunli/ Anini road NH-313
+28.212275
+95.802589
+Debris
+Slide
+NA
+1589
+AP/LDV/82P16/2022/71
+Arunachal Pradesh
+Lower Dibang Valley
+ From Roing 17.95 kms along NH-313 
+towards Mayudia Pass
+ NH-313 (Roing-Anini road)
+28.21267
+95.803194
+Debris
+Slide
+NA

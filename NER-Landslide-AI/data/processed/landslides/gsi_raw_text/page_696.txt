@@ -1,0 +1,440 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+27512
+TN/NIL/58A11/2015-16/120
+Tamil Nadu
+Nilgiri
+ 
+Kakkachi village
+11.321944
+76.741389
+Earth
+Slide
+NA
+27513
+TN/NIL/58A11/2015-16/117
+Tamil Nadu
+Nilgiri
+ 
+Selas village
+11.322778
+76.747222
+Debris
+Slide
+NA
+27514
+TN/NIL/58A11/2015-16/76
+Tamil Nadu
+Nilgiri
+ 
+Tea garden in Emerald village
+11.323611
+76.629167
+Earth
+Slide
+NA
+27515
+TN/NIL/58A11/2015-16/119
+Tamil Nadu
+Nilgiri
+ 
+Selas village near outlet of 
+tunnel
+11.323611
+76.739167
+Debris
+Slide
+NA
+27516
+TN/NIL/58A15/2015-16/308
+Tamil Nadu
+Nilgiri
+ 
+Runnymede Tea Estate
+11.323611
+76.791389
+Debris
+Slide
+NA
+27517
+TN/NIL/58A11/2015-16/116
+Tamil Nadu
+Nilgiri
+ 
+Selas village
+11.324444
+76.748333
+Debris
+Slide
+NA
+27518
+TN/NIL/58A15/2015-16/307
+Tamil Nadu
+Nilgiri
+ 
+Runnymede Tea Estate
+11.324444
+76.793056
+Debris
+Slide
+NA
+27519
+TN/NIL/58A15/2015-16/310
+Tamil Nadu
+Nilgiri
+ 
+Runnymede Tea Estate
+11.324444
+76.790278
+Debris
+Slide
+NA
+27520
+TN/NIL/58A11/2015-16/93
+Tamil Nadu
+Nilgiri
+ 
+B. Manihatti towards Tangadu
+11.325278
+76.665556
+Debris
+Subsidence
+NA
+27521
+TN/NIL/58A15/2015-16/309
+Tamil Nadu
+Nilgiri
+ 
+Runnymede Tea Estate
+11.325556
+76.790833
+Debris
+Slide
+NA
+27522
+TN/NIL/58A15/2015-16/311
+Tamil Nadu
+Nilgiri
+ 
+Runnymede Tea Estate
+11.325833
+76.790556
+Debris
+Slide
+NA
+27523
+TN/NIL/58A11/2015-16/130
+Tamil Nadu
+Nilgiri
+ 
+Culvert no. 13/2, Kanthala 
+towards Kunda
+11.326389
+76.7275
+Debris
+Slide
+NA
+27524
+TN/NIL/58A15/2015-16/300
+Tamil Nadu
+Nilgiri
+ 
+Glendale Tea Estate
+11.326389
+76.798333
+Debris
+Slide
+NA
+27525
+TN/NIL/2009/0009
+Tamil Nadu
+Nilgiri
+ 
+ 
+11.32722
+76.80389
+NA
+ 
+NA
+27526
+TN/NIL/58A15/2015-16/184
+Tamil Nadu
+Nilgiri
+ 
+Runnymede Tea Estate
+11.327222
+76.804167
+Debris
+Slide
+NA
+27527
+TN/NIL/58A15/2015-16/325
+Tamil Nadu
+Nilgiri
+ 
+Runnymede Tea Estate
+11.3275
+76.793889
+Debris
+Slide
+NA
+27528
+TN/NIL/58A15/2015-16/185
+Tamil Nadu
+Nilgiri
+ 
+Runnymede Tea Estate
+11.327778
+76.804167
+Debris
+Slide
+NA
+27529
+TN/NIL/58A11/2015-16/125
+Tamil Nadu
+Nilgiri
+ 
+PC.No:. 11/7,  Kanthala towards 
+Kunda
+11.328333
+76.749722
+Debris
+Slide
+NA
+27530
+TN/NIL/58A15/2015-16/323
+Tamil Nadu
+Nilgiri
+ 
+Katteri park,Runnymede railway 
+station
+11.328333
+76.801111
+Debris
+Slide
+NA
+27531
+TN/NIL/58A11/2015-16/126
+Tamil Nadu
+Nilgiri
+ 
+MS.No:.19/11, Kanthala 
+towards Kundha
+11.328611
+76.735278
+Debris
+Slide
+NA
+27532
+TN/NIL/58A11/2015-16/74
+Tamil Nadu
+Nilgiri
+ 
+MS.No:.614/6, Ithalar towards 
+Porthi
+11.329167
+76.630556
+Debris
+Slide
+NA
+27533
+TN/NIL/58A11/2015-16/127
+Tamil Nadu
+Nilgiri
+ 
+Culvert no. 12/5, near Shiv 
+Temple
+11.329167
+76.747778
+Debris
+Slide
+NA
+27534
+TN/NIL/58A11/2015-16/101
+Tamil Nadu
+Nilgiri
+ 
+Ittalar to Bembatti
+11.33
+76.645833
+Debris
+Slide
+NA
+27535
+TN/NIL/58A15/2015-16/324
+Tamil Nadu
+Nilgiri
+ 
+Runnymede railway track
+11.330278
+76.800556
+Debris
+Slide
+NA
+27536
+TN/NIL/58A15/2015-16/326
+Tamil Nadu
+Nilgiri
+ 
+Near Glendale Tea Factory
+11.330278
+76.788889
+Debris
+Slide
+NA
+27537
+TN/NIL/58A11/2015-16/73
+Tamil Nadu
+Nilgiri
+ 
+MS.No: 614 /6, Ithalar towards 
+Porthi.
+11.330556
+76.633333
+Debris
+Slide
+NA
+27538
+TN/NIL/58A15/2015-16/251
+Tamil Nadu
+Nilgiri
+ 
+NH-67, Katteri to Buliyar
+11.330833
+76.795
+Debris
+Slide
+NA
+27539
+TN/NIL/58A15/2015-16/333
+Tamil Nadu
+Nilgiri
+ 
+Along Railway track
+11.330833
+76.808611
+Debris
+Slide
+NA
+27540
+TN/NIL/58A11/2015-16/121
+Tamil Nadu
+Nilgiri
+ 
+Kilinchada village
+11.331111
+76.739444
+Debris
+Slide
+NA
+27541
+TN/NIL/58A15/2015-16/250
+Tamil Nadu
+Nilgiri
+ 
+NH-67,  Katteri to Buliyar
+11.331389
+76.793889
+Debris
+Slide
+NA
+27542
+TN/NIL/58A15/2015-16/327
+Tamil Nadu
+Nilgiri
+ 
+Near Katteri bend
+11.331389
+76.7875
+Debris
+Slide
+NA
+27543
+TN/NIL/58A15/2015-16/304
+Tamil Nadu
+Nilgiri
+ 
+Glendale Tea Estate, 
+Karpuswami temple
+11.331389
+76.786667
+Debris
+Slide
+NA
+27544
+TN/NIL/58A15/2015-16/253
+Tamil Nadu
+Nilgiri
+ 
+NH-67
+11.331609
+76.808422
+Debris
+Slide
+NA
+27545
+TN/NIL/58A15/2015-16/306
+Tamil Nadu
+Nilgiri
+ 
+Glendale Tea Estate
+11.331667
+76.784722
+Debris
+Slide
+NA
+27546
+TN/NIL/58A15/2015-16/305
+Tamil Nadu
+Nilgiri
+ 
+Glendale Tea Estate
+11.331944
+76.785
+Earth
+Slide
+NA
+27547
+TN/NIL/58A15/2015-16/286
+Tamil Nadu
+Nilgiri
+ 
+Gandhipuram village
+11.332222
+76.798056
+Debris
+Slide
+NA
+27548
+TN/NIL/58A15/2015-16/294
+Tamil Nadu
+Nilgiri
+ 
+Mile stone no. 4, Katteri to 
+Karumapalam
+11.332222
+76.779167
+Debris
+Slide
+NA
+27549
+TN/NIL/58A15/2015-16/295
+Tamil Nadu
+Nilgiri
+ 
+Chinna Karumapalam village
+11.332222
+76.7675
+Debris
+Slide
+NA

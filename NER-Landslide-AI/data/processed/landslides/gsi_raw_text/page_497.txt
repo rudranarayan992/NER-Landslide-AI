@@ -1,0 +1,361 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+20107
+MG/WGH/78K02/2020/1
+Meghalaya
+West Garo Hills
+Lower Hawakhana slide
+Mohindra colony, Lower 
+Hawakhana, Tura
+25.51
+90.21
+Rock
+Slide
+2019
+20108
+MEGH/WGH/78K02/2007/D-19 Meghalaya
+ West Garo Hills
+Tura town (Rishipara) slide
+ 
+25.51028
+90.21678
+NA
+ 
+27 July 2007
+20109
+MEG/EKH/78O10/2021/05
+Meghalaya
+East Khasi Hills
+NA
+NA
+25.51046111
+91.70312778
+Debris
+Slide
+NA
+20110
+MG/EGH/78K10/2018/1
+Meghalaya
+East Garo hills
+Williamnagar road slide
+NH-127B
+25.512611
+90.658611
+Debris
+Slide
+NA
+20111
+MG/WKH/78O06/2017/20
+Meghalaya
+South West Khasi  Hills
+Nongstoin taxi stand slide
+NH44E
+25.519556
+91.266444
+Debris
+Slide
+NA
+20112
+MEGH/WKH/78O06/2007/D-7
+Meghalaya
+West Khasi Hills
+Mawkawah slide
+PWD road (SH)
+25.51973
+91.28443
+Debris
+Fall
+25 July 2007
+20113
+MEG/WKH/78O10/2016/03
+Meghalaya
+West Khasi Hills
+NH44E slide3
+Along NH44E near Kynshi village 25.520356
+91.537764
+Debris
+Slide
+2016
+20114
+MEGH/WKH/78O06/2007/D-6
+Meghalaya
+West Khasi Hills
+Lawab slide
+Road (Nongstoin by pass)
+25.5208
+91.25985
+Rock cum Debris
+Slide
+25 July 2007
+20115
+MG/WKH/78O06/2017/1
+Meghalaya
+West Khasi Hills
+Markasa debris slide
+1.5 km East of Markasa NH44E
+25.522717
+91.448328
+Debris
+Slide
+NA
+20116
+ME/EKJ/78O14/2015/26
+Meghalaya
+East Khasi Hills
+ 
+Smit road
+25.522768
+91.892701
+Earth
+Slide
+NA
+20117
+MEG/WKH/78O10/2016/02
+Meghalaya
+West Khasi Hills
+NH44E slide2
+NH44E
+25.523
+91.521389
+Debris
+Slide
+2016
+20118
+MG/WKH/78O06/2017/5
+Meghalaya
+West Khasi Hills
+Nongstoin PHE slide
+Nongstoin PHE
+25.523083
+91.268972
+Soil
+Flow
+NA
+20119
+MEG/WKH/78O10/2016/01
+Meghalaya
+West Khasi Hills
+NH44E slide1
+NH44E
+25.524931
+91.514383
+Debris
+Slide
+2016
+20120
+MG/WKH/78O06/2017/19
+Meghalaya
+South West Khasi  Hills
+Domkseh slide
+Domkseh road
+25.525533
+91.467683
+Debris
+Slide
+NA
+20121
+MG/WJH/83C06/2018/2
+Meghalaya
+West Jaintia hills
+Laskein slide
+3 km north of Laskein slide
+25.527489
+92.415139
+Rock
+Slide
+NA
+20122
+MEGH/EKH/78O14/2009/D-40
+Meghalaya
+East Khasi Hills
+Lamlyer landslide 2
+Shillong-Silchar road (NH-44)
+25.5275
+91.918861
+Debris
+Fall
+NA
+20123
+MG/WKH/78O06/2017/17
+Meghalaya
+West Khasi Hills
+Pyndengrei Metrology slide
+Pyndengrei, Nongstoin
+25.527781
+91.263214
+Debris
+Slide
+NA
+20124
+MG/WKH/78O06/2017/2
+Meghalaya
+West Khasi Hills
+Khyllem slide
+NH44E
+25.528308
+91.395711
+Debris
+Slide
+NA
+20125
+MEGH/EKH/78O14/2009/D-39
+Meghalaya
+East Khasi Hills
+Lymlyer landslide (A)
+NH-44 (Shillong - Silchar)
+25.529056
+91.923722
+Debris
+Slide
+NA
+20126
+MG/WJH/83C06/2018/5
+Meghalaya
+West Jaintia hills
+Mokaiyaw slide
+3 km NE of Mokaiyaw village
+25.529408
+92.455339
+Soil
+Fall
+NA
+20127
+MG/WGH/78G14/2020/3
+Meghalaya
+West Garo Hills
+Tura-Ampati road slide no 3
+SH-12, Tura-Ampati Road, near 
+Kharugaon, Betasing.
+25.53
+89.98
+Debris
+Slide
+2019
+20128
+MG/WGH/78G14/2020/4
+Meghalaya
+West Garo Hills
+Tura-Ampati road slide no 4
+SH-12, Tura-Ampati Road, near 
+Ulubari, Betasing.
+25.53
+89.98
+Debris
+Slide
+2019
+20129
+MG/WKH/78O02/2017/56
+Meghalaya
+West Khasi Hills
+0.4 km NE of Nongkaniang
+Mawkadiang  Nongkaniang road 25.533183
+91.205647
+Debris
+Slide
+NA
+20130
+MG/WKH/78O02/2017/55
+Meghalaya
+West Khasi Hills
+5 km NE of Nongkaniang
+Mawkadiang  Nongkaniang road 25.534486
+91.205492
+Soil
+Slide
+NA
+20131
+MEGH/JH/83C02/2009/D-30
+Meghalaya
+Jaintia Hills
+Jowai-2 slide
+NH-44 (Shillong - Silchar)
+25.53458
+92.11539
+Debris
+Slide
+NA
+20132
+MEG/WKH/78O10/2016/08
+Meghalaya
+West Khasi Hills
+NH44E slide7
+100 m SW of NH44E between 
+milestone 36 & 37
+25.535628
+91.679575
+Earth
+Slide
+2016
+20133
+MG/WKH/78O02/2017/54
+Meghalaya
+West Khasi Hills
+1.8 km NE of Nongkaniang
+Mawkadiang  Nongkaniang road 25.536889
+91.206556
+Debris
+Slide
+NA
+20134
+MEGH/EKH/78O14/2009/D-38
+Meghalaya
+East Khasi Hills
+Sohryngkham Rock Fall
+NH-44
+25.536972
+91.973639
+Rock
+Fall
+NA
+20135
+MG/WKH/78O02/2017/53
+Meghalaya
+West Khasi Hills
+0.8 km NE of Nongkaniang
+Mawkadiang  Nongkaniang road 25.53725
+91.206972
+Soil
+Slide
+NA
+20136
+MG/WKH/78O02/2017/52
+Meghalaya
+West Khasi Hills
+0.9 km NE of Nongkaniang
+Mawkadiang  Nongkaniang road 25.537344
+91.207542
+Debris
+Slide
+NA
+20137
+MG/WKH/78O02/2017/51
+Meghalaya
+West Khasi Hills
+1 km NE of Nongkaniang
+Mawkadiang  Nongkaniang road 25.537636
+91.208528
+Debris
+Slide
+NA
+20138
+MEG/WKH/78O10/2016/04
+Meghalaya
+West Khasi Hills
+NH44E slide4
+Along NH44E 2 km West of 
+Bynther village
+25.537972
+91.602361
+Debris
+Slide
+2016

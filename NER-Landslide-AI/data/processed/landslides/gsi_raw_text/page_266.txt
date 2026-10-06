@@ -1,0 +1,551 @@
+Sl.No.
+Slide_No
+State
+District
+Slide_Name
+NH_SH_Location
+Latitude
+Longitude
+Material Involved
+Movement 
+Type
+History
+11535
+KA/DAK/48O08/2017/72
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.075007
+75.457789
+Debris
+Slide
+NA
+11536
+KA/DAK/48O08/2017/75
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.075048
+75.456283
+Debris
+Slide
+NA
+11537
+KA/DAK/48O08/2017/73
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.075112
+75.458339
+Debris
+Slide
+NA
+11538
+KA/DAK/48O08/2017/87
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.075209
+75.450247
+Debris
+Slide
+NA
+11539
+KA/DAK/48O08/2017/84
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.075297
+75.452491
+Debris
+Slide
+NA
+11540
+KA/DAK/48O08/2017/74
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.075421
+75.458686
+Debris
+Slide
+NA
+11541
+KA/DAK/48O08/2017/83
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.075437
+75.452689
+Debris
+Slide
+NA
+11542
+KA/DAK/48O08/2017/82
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.075631
+75.45381
+Debris
+Slide
+NA
+11543
+KA/CHI/48O08/2017/61
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.075699
+75.469923
+Debris
+Slide
+NA
+11544
+KA/DAK/48O08/2017/76
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.075713
+75.45596
+Debris
+Slide
+NA
+11545
+KA/DAK/48O08/2017/69
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.075714
+75.456818
+Debris
+Slide
+NA
+11546
+KA/DAK/48O08/2017/86
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.075811
+75.450901
+Debris
+Slide
+NA
+11547
+KA/CHI/48O08/2017/59
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.07595
+75.470398
+Debris
+Slide
+NA
+11548
+KA/CHI/48O08/2017/60
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.076021
+75.471532
+Debris
+Slide
+NA
+11549
+KA/CHI/48O08/2017/58
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.076035
+75.470727
+Debris
+Slide
+NA
+11550
+KA/DAK/48O08/2017/85
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.076068
+75.452914
+Debris
+Slide
+NA
+11551
+KA/DAK/48O08/2017/81
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.076503
+75.455661
+Debris
+Slide
+NA
+11552
+KA/CHI/48O08/2017/57
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.076509
+75.471719
+Debris
+Slide
+NA
+11553
+KA/DAK/48O08/2017/68
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.076512
+75.457142
+Debris
+Slide
+NA
+11554
+KA/DAK/48O08/2017/77
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.076911
+75.456287
+Debris
+Slide
+NA
+11555
+KA/CHI/48O08/2017/56
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.077058
+75.472049
+Debris
+Slide
+NA
+11556
+KA/DAK/48O08/2017/65
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.07799
+75.461824
+Debris
+Slide
+NA
+11557
+KA/DAK/48O08/2017/67
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.078082
+75.460441
+Debris
+Slide
+NA
+11558
+KA/DAK/48O08/2017/66
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.078177
+75.46159
+Debris
+Slide
+NA
+11559
+KA/DAK/48O08/2017/78
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.078177
+75.456289
+Debris
+Slide
+NA
+11560
+KA/CHI/48O08/2017/55
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.0783
+75.472707
+Debris
+Slide
+NA
+11561
+KA/DAK/48O08/2017/79
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.078566
+75.456008
+Debris
+Slide
+NA
+11562
+KA/CHI/48O08/2017/54
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.078608
+75.470159
+Debris
+Slide
+NA
+11563
+KA/DAK/48O08/2017/80
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.078949
+75.455903
+Debris
+Slide
+NA
+11564
+KA/CHI/48O08/2017/53
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.079058
+75.469755
+Debris
+Slide
+NA
+11565
+KA/DAK/48O08/2017/64
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.079364
+75.464196
+Debris
+Slide
+NA
+11566
+KA/DAK/48O08/2017/63
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.079549
+75.464559
+Debris
+Slide
+NA
+11567
+KA/CHI/48O08/2017/52
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.079637
+75.469516
+Debris
+Slide
+NA
+11568
+KA/DAK/48O08/2017/62
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.079733
+75.464753
+Debris
+Slide
+NA
+11569
+KA/DAK/48O08/2017/51
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.080787
+75.469624
+Debris
+Slide
+NA
+11570
+KA/DAK/48O08/2017/50
+Karnataka
+Dakshin Kannad
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.084009
+75.470221
+Debris
+Slide
+NA
+11571
+KA/CHI/48O08/2017/49
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.084891
+75.472348
+Debris
+Slide
+NA
+11572
+KA/CHI/48O08/2017/48
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.085391
+75.47301
+Debris
+Slide
+NA
+11573
+KA/CHI/48O08/2017/47
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.085492
+75.473352
+Rock
+Fall
+NA
+11574
+KA/CHI/48O08/2017/46
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.085655
+75.473706
+Rock
+Slide
+NA
+11575
+KA/CHI/48O08/2017/45
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.086033
+75.474045
+Debris
+Slide
+NA
+11576
+KA/CHI/48O08/2017/44
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.086249
+75.474072
+Debris
+Slide
+NA
+11577
+KA/CHI/48O08/2017/43
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.086435
+75.473919
+Debris
+Slide
+NA
+11578
+KA/CHI/48O08/2017/42
+Karnataka
+Chikmagalur
+North East of Nadumane
+Kotighere  Ujire (NH  73)
+13.08691
+75.473671
+Rock
+Fall
+NA
+11579
+KA/UDU/48K16/2020/14
+Karnataka
+Udupi
+Mundukur slide
+2km west of Mundukuru
+13.09
+74.91
+Earth
+Slide
+NA
+11580
+KA/UDU/48K14/2020/48
+Karnataka
+Udupi
+Mundukur slide
+2km west of Mundukuru
+13.09
+74.91
+Earth
+Slide
+NA
+11581
+KA/UDU/48K14/2020/51
+Karnataka
+Udupi
+4 km SW of Kumbarwada
+4 km SW of Kumbarwada
+13.09
+74.88
+Debris
+Slide
+NA
+11582
+KA/CHI/48O08/2017/41
+Karnataka
+Chikmagalur
+South of Bidaratale
+Kotighere  Ujire (NH  73)
+13.09092
+75.475315
+Rock
+Slide
+NA
+11583
+KA/CHI/48O08/2017/40
+Karnataka
+Chikmagalur
+South of Bidaratale
+Kotighere  Ujire (NH  73)
+13.091005
+75.475531
+Debris
+Slide
+NA

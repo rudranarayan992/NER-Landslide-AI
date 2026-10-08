@@ -2,23 +2,375 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ====================================================================
+   PROFESSIONAL GIS APPLICATION STYLES
+   Dark navy/charcoal theme for emergency operations center aesthetic
+   ==================================================================== */
+
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
+}
+
 :root {
-  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
   line-height: 1.5;
   font-weight: 400;
-  color: rgba(255, 255, 255, 0.87);
-  background: #020617;
+  color: rgba(255, 255, 255, 0.92);
+  background: #0f172a;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  /* GIS-specific color variables */
+  --gis-bg-primary: #0f172a;
+  --gis-bg-secondary: #1e293b;
+  --gis-bg-tertiary: #0f172a;
+  --gis-border: rgba(100, 116, 139, 0.25);
+  --gis-text-primary: #f1f5f9;
+  --gis-text-secondary: #cbd5e1;
+  --gis-text-muted: #94a3b8;
+  --gis-accent-primary: #06b6d4;
+  --gis-accent-secondary: #22d3ee;
+  --gis-success: #10b981;
+  --gis-warning: #f59e0b;
+  --gis-danger: #ef4444;
+  --gis-info: #3b82f6;
+
+  /* Map layer colors */
+  --landslide-point: #dc2626;
+  --landslide-cluster: #f87171;
+  --historical-density: #7f1d1d;
+  --admin-boundary: #38bdf8;
+  --road-line: #cbd5e1;
+  --village-point: #7dd3fc;
 }
 
 html, body, #root {
-  min-height: 100%;
   margin: 0;
+  min-height: 100%;
+  min-width: 100%;
+  background: var(--gis-bg-primary);
+  color: var(--gis-text-primary);
 }
 
 body {
   min-height: 100vh;
+  background:
+    radial-gradient(circle at top-left, rgba(6, 182, 212, 0.05), transparent 30%),
+    radial-gradient(circle at bottom-right, rgba(59, 130, 246, 0.03), transparent 40%),
+    var(--gis-bg-primary);
+}
+
+button, input, select, textarea {
+  font: inherit;
+  color: inherit;
+}
+
+/* MapLibre GL container styling */
+.maplibregl-map {
+  background: var(--gis-bg-primary);
+  font-family: inherit;
+}
+
+.maplibregl-canvas {
+  outline: none;
+}
+
+/* MapLibre control positioning */
+.maplibregl-ctrl-bottom-right,
+.maplibregl-ctrl-bottom-left,
+.maplibregl-ctrl-top-right,
+.maplibregl-ctrl-top-left {
+  z-index: 10;
+}
+
+.maplibregl-ctrl-top-left {
+  top: 70px;
+  left: 12px;
+}
+
+/* ====================================================================
+   GIS PANEL STYLING
+   ==================================================================== */
+
+.gis-layer-panel {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(148, 163, 184, 0.4) transparent;
+  background: rgba(15, 23, 42, 0.98);
+}
+
+.gis-layer-panel::-webkit-scrollbar {
+  width: 7px;
+}
+
+.gis-layer-panel::-webkit-scrollbar-track {
+  background: rgba(30, 41, 59, 0.5);
+}
+
+.gis-layer-panel::-webkit-scrollbar-thumb {
+  background: rgba(94, 234, 212, 0.25);
+  border-radius: 99px;
+  transition: background 0.2s;
+}
+
+.gis-layer-panel::-webkit-scrollbar-thumb:hover {
+  background: rgba(94, 234, 212, 0.4);
+}
+
+.info-panel {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(148, 163, 184, 0.4) transparent;
+  background: rgba(15, 23, 42, 0.98);
+}
+
+.info-panel::-webkit-scrollbar {
+  width: 7px;
+}
+
+.info-panel::-webkit-scrollbar-track {
+  background: rgba(30, 41, 59, 0.5);
+}
+
+.info-panel::-webkit-scrollbar-thumb {
+  background: rgba(94, 234, 212, 0.25);
+  border-radius: 99px;
+  transition: background 0.2s;
+}
+
+.info-panel::-webkit-scrollbar-thumb:hover {
+  background: rgba(94, 234, 212, 0.4);
+}
+
+/* ====================================================================
+   GIS BUTTON & CONTROL STYLING
+   ==================================================================== */
+
+.gis-control-btn {
+  background: rgba(30, 41, 59, 0.95);
+  border: 1px solid rgba(100, 116, 139, 0.4);
+  color: #cbd5e1;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.375rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.gis-control-btn:hover {
+  background: rgba(51, 65, 85, 0.95);
+  border-color: rgba(148, 163, 184, 0.5);
+  color: #f1f5f9;
+}
+
+.gis-control-btn.active {
+  background: rgba(6, 182, 212, 0.8);
+  border-color: rgba(6, 182, 212, 0.9);
+  color: #0f172a;
+  font-weight: 700;
+}
+
+.gis-control-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* ====================================================================
+   CARD & PANEL STYLING
+   ==================================================================== */
+
+.gis-card {
+  background: rgba(15, 23, 42, 0.9);
+  border: 1px solid rgba(100, 116, 139, 0.3);
+  border-radius: 0.5rem;
+  backdrop-filter: blur(8px);
+}
+
+.gis-card-header {
+  border-bottom: 1px solid rgba(100, 116, 139, 0.2);
+  padding: 0.75rem 1rem;
+  background: rgba(30, 41, 59, 0.5);
+}
+
+.gis-card-body {
+  padding: 1rem;
+}
+
+/* ====================================================================
+   STATUS BADGES
+   ==================================================================== */
+
+.status-badge {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 0.375rem;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border: 1px solid;
+}
+
+.status-badge.verified {
+  border-color: rgba(16, 185, 129, 0.6);
+  background: rgba(16, 185, 129, 0.15);
+  color: #6ee7b7;
+}
+
+.status-badge.blocked {
+  border-color: rgba(239, 68, 68, 0.6);
+  background: rgba(239, 68, 68, 0.15);
+  color: #fca5a5;
+}
+
+.status-badge.awaiting {
+  border-color: rgba(245, 158, 11, 0.6);
+  background: rgba(245, 158, 11, 0.15);
+  color: #fcd34d;
+}
+
+.status-badge.partial {
+  border-color: rgba(59, 130, 246, 0.6);
+  background: rgba(59, 130, 246, 0.15);
+  color: #93c5fd;
+}
+
+/* ====================================================================
+   LAYER TREE & PANEL STRUCTURE
+   ==================================================================== */
+
+.layer-group {
+  border-bottom: 1px solid rgba(100, 116, 139, 0.2);
+}
+
+.layer-group-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  width: 100%;
+  transition: background 0.15s ease;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #e2e8f0;
+}
+
+.layer-group-header:hover {
+  background: rgba(51, 65, 85, 0.5);
+}
+
+.layer-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  background: rgba(30, 41, 59, 0.4);
+  border-bottom: 1px solid rgba(100, 116, 139, 0.15);
+  font-size: 0.75rem;
+}
+
+.layer-item:hover {
+  background: rgba(51, 65, 85, 0.5);
+}
+
+.layer-item.disabled {
+  opacity: 0.6;
+  background: rgba(20, 28, 40, 0.6);
+}
+
+/* ====================================================================
+   LEGEND STYLING
+   ==================================================================== */
+
+.legend-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  font-size: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.legend-color-swatch {
+  width: 0.75rem;
+  height: 0.75rem;
+  border-radius: 0.15rem;
+  flex-shrink: 0;
+  margin-top: 0.125rem;
+}
+
+/* ====================================================================
+   RESPONSIVE BREAKPOINTS
+   ==================================================================== */
+
+@media (max-width: 1280px) {
+  .left-layer-panel {
+    width: 280px !important;
+  }
+
+  .right-info-panel {
+    width: 320px !important;
+  }
+}
+
+@media (max-width: 1024px) {
+  .left-layer-panel {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    z-index: 20;
+    display: none;
+  }
+
+  .left-layer-panel.open {
+    display: block;
+  }
+
+  .right-info-panel {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    z-index: 20;
+    display: none;
+  }
+
+  .right-info-panel.open {
+    display: block;
+  }
+}
+
+@media (max-width: 640px) {
+  .gis-header-status {
+    display: none;
+  }
+
+  .basemap-control {
+    flex-wrap: wrap;
+  }
 }

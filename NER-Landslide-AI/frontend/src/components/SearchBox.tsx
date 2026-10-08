@@ -40,27 +40,27 @@ export function SearchBox({ map }: SearchBoxProps) {
   };
 
   return (
-    <div className="relative flex-1 max-w-md">
-      <form onSubmit={handleSearch}>
+    <div className="relative w-[230px]">
+      <form onSubmit={handleSearch} className="w-full">
         <input
           type="text"
-          placeholder="Search states, districts, villages..."
+          placeholder="Search district, village, landslide..."
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+          className="w-full rounded-md border border-slate-700 bg-slate-900/80 px-2.5 py-1.5 text-[10px] uppercase tracking-[0.12em] text-slate-100 placeholder:text-slate-400 focus:border-cyan-400 focus:outline-none"
         />
       </form>
 
       {results.length > 0 && (
-        <div className="absolute top-full left-0 right-0 mt-1 bg-white border border-gray-200 rounded-lg shadow-lg z-10 max-h-64 overflow-y-auto">
+        <div className="absolute top-full left-0 right-0 mt-1 rounded-md border border-slate-700 bg-slate-900 shadow-xl z-20 max-h-64 overflow-y-auto">
           {results.map((result, idx) => (
             <button
               key={idx}
               onClick={() => handleResultClick(result)}
-              className="w-full text-left px-3 py-2 hover:bg-blue-50 transition-colors border-b border-gray-100 last:border-b-0"
+              className="w-full text-left px-2.5 py-2 hover:bg-slate-800 border-b border-slate-700 last:border-b-0"
             >
-              <p className="text-sm font-medium text-gray-900">{result.name}</p>
-              <p className="text-xs text-gray-600">{result.type}</p>
+              <p className="text-[10px] font-semibold uppercase tracking-[0.12em] text-slate-100">{result.name}</p>
+              <p className="mt-1 text-[9px] uppercase tracking-[0.16em] text-slate-400">{result.type}</p>
             </button>
           ))}
         </div>

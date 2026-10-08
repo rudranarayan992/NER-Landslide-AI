@@ -6,6 +6,23 @@ from fastapi import FastAPI, Query
 from pydantic import BaseModel
 
 from backend.app.config import NER_STATES
+from backend.app.enums import SystemStatus
+from backend.app.ml_module_status import get_ml_module_status, check_training_readiness
+from backend.app.risk_engine_status import get_risk_engine_status, get_risk_prerequisites, calculate_risk
+from backend.app.field_reports_service import (
+    submit_field_report, get_field_reports, get_field_report,
+    review_field_report, get_field_report_statistics
+)
+from backend.app.alert_engine import get_alert_engine_status, get_alerts, get_active_alerts
+from backend.app.infrastructure_services import (
+    get_roads_status, get_villages_status, get_routes_status,
+    get_road_segments, get_villages, analyze_route, get_route_alternatives
+)
+from backend.app.data_readiness_status import (
+    get_system_status, get_data_sources_status, get_processing_status,
+    get_ml_risk_status, get_system_readiness_report
+)
+from backend.app.llm_assistant import query_assistant
 from scripts.ingestion.administrative_ingest import ingest_administrative_boundaries
 from scripts.ingestion.base_ingest import bbox_filter_geojson, feature_collection
 from scripts.ingestion.geology_ingest import ingest_geology
@@ -470,6 +487,272 @@ def get_layers() -> dict:
     }
 
 
+# ============================================================================
+# SYSTEM STATUS & READINESS ENDPOINTS
+# ============================================================================
+
+@app.get("/api/system-status")
+def get_complete_system_status() -> dict:
+    """Get complete system status for all components"""
+    return get_system_status()
+
+
+@app.get("/api/data-readiness")
+def get_data_readiness() -> dict:
+    """Get data sources readiness status"""
+    return get_data_sources_status()
+
+
+@app.get("/api/data-status")
+def get_data_status_summary() -> dict:
+    """Get summary of data status (alias for data-readiness)"""
+    return get_data_sources_status()
+
+
+@app.get("/api/processing-status")
+def get_processing_pipeline_status() -> dict:
+    """Get processing pipeline status"""
+    return get_processing_status()
+
+
+@app.get("/api/system-readiness-report")
+def get_system_readiness_document() -> dict:
+    """Get complete system readiness report for leadership/review"""
+    return get_system_readiness_report()
+
+
+# ============================================================================
+# ML MODULE ENDPOINTS
+# ============================================================================
+
+@app.get("/api/ml/status")
+def get_ml_status() -> dict:
+    """Get ML module status - NOT TRAINED until data available"""
+    return get_ml_module_status()
+
+
+@app.get("/api/ml/training-readiness")
+def get_ml_training_readiness() -> dict:
+    """Check if ML training is ready - returns BLOCKED"""
+    return check_training_readiness()
+
+
+# ============================================================================
+# RISK ENGINE ENDPOINTS
+# ============================================================================
+
+@app.get("/api/risk/status")
+def get_risk_status() -> dict:
+    """Get risk engine status - BLOCKED until ML trained"""
+    return get_risk_engine_status()
+
+
+@app.get("/api/risk/prerequisites")
+def get_risk_prerequisites_list() -> dict:
+    """Get list of prerequisites for risk calculation"""
+    return get_risk_prerequisites()
+
+
+@app.get("/api/risk/location/{location_id}")
+def get_location_risk(location_id: str) -> dict:
+    """Get risk for a specific location - returns BLOCKED"""
+    return calculate_risk(location_id, location_id)
+
+
+# ============================================================================
+# FIELD REPORTS ENDPOINTS
+# ============================================================================
+
+@app.get("/api/field-reports/status")
+def get_field_reports_workflow_status() -> dict:
+    """Get field reports workflow status"""
+    return {
+        "status": "OPERATIONAL",
+        "component": "FIELD_REPORTS",
+        "message": "Field report submission and review workflow is operational",
+        "workflow_stages": ["SUBMITTED", "UNDER_REVIEW", "VERIFIED", "REJECTED"],
+        "statistics": get_field_report_statistics(),
+    }
+
+
+@app.get("/api/field-reports")
+def list_field_reports(status: str | None = Query(default=None)) -> dict:
+    """Get all field reports, optionally filtered by status"""
+    return get_field_reports(status=status)
+
+
+@app.get("/api/field-reports/{report_id}")
+def get_specific_field_report(report_id: str) -> dict:
+    """Get a specific field report"""
+    return get_field_report(report_id)
+
+
+@app.post("/api/field-reports")
+def submit_new_field_report(data: dict) -> dict:
+    """Submit a new field report"""
+    return submit_field_report(
+        location_name=data.get("location_name"),
+        latitude=data.get("latitude"),
+        longitude=data.get("longitude"),
+        description=data.get("description"),
+        reporter_name=data.get("reporter_name"),
+        reporter_contact=data.get("reporter_contact"),
+        photo_url=data.get("photo_url"),
+        evidence_notes=data.get("evidence_notes"),
+        observations=data.get("observations"),
+    )
+
+
+@app.put("/api/field-reports/{report_id}/review")
+def review_submitted_field_report(report_id: str, data: dict) -> dict:
+    """Review and update a field report"""
+    return review_field_report(
+        report_id=report_id,
+        action=data.get("action"),  # VERIFY, REJECT, INCONCLUSIVE
+        reviewed_by=data.get("reviewed_by"),
+        review_notes=data.get("review_notes"),
+        linked_event_id=data.get("linked_event_id"),
+    )
+
+
+# ============================================================================
+# ALERT ENGINE ENDPOINTS
+# ============================================================================
+
+@app.get("/api/alerts/status")
+def get_alert_engine_status_endpoint() -> dict:
+    """Get alert engine status - BLOCKED until risk operational"""
+    return get_alert_engine_status()
+
+
+@app.get("/api/alerts")
+def list_alerts() -> dict:
+    """Get all alerts"""
+    return get_alerts()
+
+
+@app.get("/api/alerts/active")
+def list_active_alerts() -> dict:
+    """Get active alerts"""
+    return get_active_alerts()
+
+
+# ============================================================================
+# INFRASTRUCTURE SERVICES ENDPOINTS
+# ============================================================================
+
+@app.get("/api/roads/status")
+def get_roads_service_status() -> dict:
+    """Get roads service status"""
+    return get_roads_status()
+
+
+@app.get("/api/roads")
+def list_road_segments(state: str | None = Query(default=None)) -> dict:
+    """Get road segments, optionally filtered by state"""
+    return get_road_segments(state=state)
+
+
+@app.get("/api/roads/{road_id}/risk")
+def get_road_risk_assessment(road_id: str) -> dict:
+    """Get risk assessment for a road - returns BLOCKED"""
+    return {
+        "road_id": road_id,
+        "status": "BLOCKED",
+        "message": "Road risk calculation blocked - risk engine not operational",
+    }
+
+
+@app.get("/api/villages/status")
+def get_villages_service_status() -> dict:
+    """Get villages service status"""
+    return get_villages_status()
+
+
+@app.get("/api/villages")
+def list_villages(state: str | None = Query(default=None)) -> dict:
+    """Get villages, optionally filtered by state"""
+    return get_villages(state=state)
+
+
+@app.get("/api/villages/{village_id}/exposure")
+def get_village_exposure_assessment(village_id: str) -> dict:
+    """Get exposure assessment for a village - returns BLOCKED"""
+    return {
+        "village_id": village_id,
+        "status": "BLOCKED",
+        "message": "Village exposure assessment blocked - risk engine not operational",
+    }
+
+
+@app.get("/api/routes/status")
+def get_routes_service_status() -> dict:
+    """Get routes service status"""
+    return get_routes_status()
+
+
+@app.post("/api/routes/analyze")
+def analyze_route_endpoint(data: dict) -> dict:
+    """Analyze a route for risk - returns BLOCKED"""
+    return analyze_route(
+        origin=data.get("origin"),
+        destination=data.get("destination"),
+    )
+
+
+@app.post("/api/routes/alternatives")
+def get_route_alternatives_endpoint(data: dict) -> dict:
+    """Get alternative routes with risk comparison - returns BLOCKED"""
+    return get_route_alternatives(
+        origin=data.get("origin"),
+        destination=data.get("destination"),
+    )
+
+
+@app.get("/api/routes/calculate")
+def calculate_route_endpoint(from_location: str = Query(...), to_location: str = Query(...)) -> dict:
+    """Calculate route between two locations"""
+    return get_route_alternatives(
+        origin=from_location,
+        destination=to_location,
+    )
+
+
+# ============================================================================
+# LLM ASSISTANT ENDPOINT
+# ============================================================================
+
+@app.post("/api/assistant/query")
+def query_llm_assistant(data: dict) -> dict:
+    """Query LLM assistant about system and data status"""
+    question = data.get("question", "")
+    if not question:
+        return {
+            "error": "No question provided",
+            "message": "Please provide a 'question' field in the request",
+        }
+    
+    return query_assistant(question)
+
+
+@app.get("/api/assistant/status")
+def get_assistant_status() -> dict:
+    """Get LLM assistant status"""
+    return {
+        "component": "LLM_ASSISTANT",
+        "status": "OPERATIONAL",
+        "capabilities": [
+            "Query historical landslide data",
+            "Explain data availability status",
+            "Clarify why components are blocked",
+            "Report system readiness",
+            "Distinguish OBSERVED vs HISTORICAL vs CALCULATED vs PREDICTED vs UNKNOWN",
+        ],
+        "important_note": "Assistant provides honest answers based on verified data without fabricating missing observations",
+        "endpoint": "POST /api/assistant/query with {'question': 'your question'}",
+    }
+
+
 @app.get("/api/search")
 def search(q: str = Query(..., min_length=1)) -> dict:
     """Search for locations: states, districts, villages, landslide IDs"""
@@ -508,3 +791,263 @@ def search(q: str = Query(..., min_length=1)) -> dict:
         pass
 
     return {"query": q, "results": results[:20]}
+
+# ============================================================================
+# LOCATION INTELLIGENCE & WARNING-STYLE ENDPOINTS
+# ============================================================================
+
+@app.get("/api/location/{lat}/{lon}")
+def get_location_payload(lat: float, lon: float) -> dict:
+    """Return a location intelligence payload with honest status handling."""
+    return {
+        "status": "BLOCKED",
+        "message": "CURRENT PREDICTIVE RISK UNAVAILABLE. Verified environmental datasets and a validated ML model are required before current location risk can be calculated.",
+        "location": {
+            "latitude": lat,
+            "longitude": lon,
+            "state": "AWAITING VERIFIED SOURCE DATA",
+            "district": "AWAITING VERIFIED SOURCE DATA",
+            "village": "AWAITING VERIFIED SOURCE DATA",
+            "administrative_hierarchy": "AWAITING VERIFIED SOURCE DATA",
+        },
+        "infrastructure": {
+            "nearest_road": "AWAITING VERIFIED SOURCE DATA",
+            "road_id": "AWAITING VERIFIED SOURCE DATA",
+            "road_class": "AWAITING VERIFIED SOURCE DATA",
+            "road_connectivity": "AWAITING VERIFIED SOURCE DATA",
+            "nearest_village": "AWAITING VERIFIED SOURCE DATA",
+            "distance_to_village_km": "AWAITING VERIFIED SOURCE DATA",
+            "nearby_infrastructure": "AWAITING VERIFIED SOURCE DATA",
+        },
+        "historical_landslide_intelligence": {
+            "historical_landslide_count_nearby": "AWAITING VERIFIED SOURCE DATA",
+            "historical_landslide_density": "AWAITING VERIFIED SOURCE DATA",
+            "nearest_historical_landslide": "AWAITING VERIFIED SOURCE DATA",
+            "distance_to_nearest_historical_landslide_km": "AWAITING VERIFIED SOURCE DATA",
+            "source": "GSI HISTORICAL LANDSLIDE DATA",
+            "status": "VERIFIED",
+        },
+        "environment": {
+            "status": "AWAITING_VERIFIED_DATA",
+            "rainfall_1h": "AWAITING VERIFIED SOURCE DATA",
+            "rainfall_24h": "AWAITING VERIFIED SOURCE DATA",
+            "rainfall_3d": "AWAITING VERIFIED SOURCE DATA",
+            "rainfall_7d": "AWAITING VERIFIED SOURCE DATA",
+            "rainfall_30d": "AWAITING VERIFIED SOURCE DATA",
+            "temperature": "AWAITING VERIFIED SOURCE DATA",
+            "humidity": "AWAITING VERIFIED SOURCE DATA",
+            "wind": "AWAITING VERIFIED SOURCE DATA",
+            "soil_moisture": "AWAITING VERIFIED SOURCE DATA",
+            "soil_properties": "AWAITING VERIFIED SOURCE DATA",
+            "dem_elevation": "AWAITING VERIFIED SOURCE DATA",
+            "slope": "AWAITING VERIFIED SOURCE DATA",
+            "aspect": "AWAITING VERIFIED SOURCE DATA",
+            "ndvi": "AWAITING VERIFIED SOURCE DATA",
+            "land_cover": "AWAITING VERIFIED SOURCE DATA",
+            "distance_to_stream_m": "AWAITING VERIFIED SOURCE DATA",
+            "drainage_density": "AWAITING VERIFIED SOURCE DATA",
+            "flow_accumulation": "AWAITING VERIFIED SOURCE DATA",
+        },
+        "soil": {
+            "status": "AWAITING_VERIFIED_DATA",
+            "soil_type": "AWAITING VERIFIED SOURCE DATA",
+            "soil_classification": "AWAITING VERIFIED SOURCE DATA",
+            "texture": "AWAITING VERIFIED SOURCE DATA",
+            "sand_percent": "NOT AVAILABLE",
+            "silt_percent": "NOT AVAILABLE",
+            "clay_percent": "NOT AVAILABLE",
+            "organic_matter": "NOT AVAILABLE",
+            "bulk_density": "NOT AVAILABLE",
+            "permeability": "NOT AVAILABLE",
+            "available_water_capacity": "NOT AVAILABLE",
+            "soil_depth": "NOT AVAILABLE",
+            "soil_moisture": "AWAITING VERIFIED SOURCE DATA",
+            "source_dataset": "AWAITING VERIFIED SOURCE DATA",
+            "dataset_version": "AWAITING VERIFIED SOURCE DATA",
+            "resolution": "AWAITING VERIFIED SOURCE DATA",
+        },
+        "terrain": {
+            "status": "AWAITING_VERIFIED_DATA",
+            "elevation": "AWAITING VERIFIED SOURCE DATA",
+            "slope": "AWAITING VERIFIED SOURCE DATA",
+            "aspect": "AWAITING VERIFIED SOURCE DATA",
+            "curvature": "AWAITING VERIFIED SOURCE DATA",
+            "relief": "AWAITING VERIFIED SOURCE DATA",
+            "flow_accumulation": "AWAITING VERIFIED SOURCE DATA",
+            "distance_to_stream_m": "AWAITING VERIFIED SOURCE DATA",
+            "drainage_density": "AWAITING VERIFIED SOURCE DATA",
+            "note": "Terrain factors are model inputs / susceptibility indicators. They do not independently confirm a landslide.",
+        },
+        "rainfall": {
+            "status": "AWAITING_VERIFIED_DATA",
+            "source": "AWAITING VERIFIED SOURCE DATA",
+            "observation_time": "AWAITING VERIFIED SOURCE DATA",
+            "quality": "MISSING",
+            "values": {
+                "1h": "AWAITING VERIFIED SOURCE DATA",
+                "24h": "AWAITING VERIFIED SOURCE DATA",
+                "3d": "AWAITING VERIFIED SOURCE DATA",
+                "7d": "AWAITING VERIFIED SOURCE DATA",
+                "30d": "AWAITING VERIFIED SOURCE DATA",
+            },
+        },
+        "prediction": {
+            "status": "BLOCKED",
+            "risk": "BLOCKED",
+            "probability": None,
+            "prediction_horizon": "AWAITING VERIFIED MODEL",
+            "model_version": "AWAITING VERIFIED MODEL",
+            "model_type": "AWAITING VERIFIED MODEL",
+            "validation_status": "UNAVAILABLE",
+            "inputs": ["DEM", "Rainfall", "Soil", "Weather", "Land cover", "Historical landslides", "Hydrology"],
+        },
+        "warning": {
+            "status": "BLOCKED",
+            "level": "BLOCKED",
+            "reason": "Validated environmental observations and ML/risk model are not yet available.",
+        },
+        "provenance": {
+            "status": "PARTIAL",
+            "source": "GSI historical landslide records and verified administrative / infrastructure data only",
+            "data_set": "VERIFIED HISTORICAL DATASET",
+            "dataset_version": "AVAILABLE",
+            "acquisition_time": "N/A",
+            "processing_time": "N/A",
+            "resolution": "N/A",
+            "crs": "EPSG:4326",
+            "verification_status": "VERIFIED FOR HISTORICAL DATA ONLY",
+        },
+    }
+
+
+@app.get("/api/location-intelligence")
+def get_location_intelligence_endpoint(lat: float = Query(...), lon: float = Query(...)) -> dict:
+    """Client-friendly alias for location intelligence payload."""
+    return get_location_payload(lat=lat, lon=lon)
+
+
+@app.get("/api/environment")
+def get_environment_status() -> dict:
+    return {
+        "status": "AWAITING_VERIFIED_DATA",
+        "message": "Current environmental values are unavailable until verified source data is ingested.",
+        "data": None,
+    }
+
+
+@app.get("/api/terrain")
+def get_terrain_status() -> dict:
+    return {
+        "status": "AWAITING_VERIFIED_DATA",
+        "message": "Terrain factors are available as model inputs only after verified DEM/terrain datasets are supplied.",
+        "data": None,
+    }
+
+
+@app.get("/api/soil")
+def get_soil_status() -> dict:
+    return {
+        "status": "AWAITING_VERIFIED_DATA",
+        "message": "Soil data is not yet available from a verified source.",
+        "data": None,
+    }
+
+
+@app.get("/api/rainfall")
+def get_rainfall_status() -> dict:
+    return {
+        "status": "AWAITING_VERIFIED_DATA",
+        "message": "Rainfall data is not yet available from a verified source.",
+        "data": None,
+    }
+
+
+@app.get("/api/hydrology")
+def get_hydrology_status() -> dict:
+    return {
+        "status": "AWAITING_VERIFIED_DATA",
+        "message": "Hydrology information is not yet available from a verified source.",
+        "data": None,
+    }
+
+
+@app.get("/api/landcover")
+def get_landcover_status() -> dict:
+    return {
+        "status": "AWAITING_VERIFIED_DATA",
+        "message": "Land cover data is not yet available from a verified source.",
+        "data": None,
+    }
+
+
+@app.get("/api/risk/explanation")
+def get_risk_explanation() -> dict:
+    return {
+        "status": "BLOCKED",
+        "message": "Model explanation unavailable because predictive model is not operational.",
+        "primary_contributing_factors": [],
+        "data": None,
+    }
+
+
+@app.get("/api/risk/location")
+def get_location_risk_status() -> dict:
+    return {
+        "status": "BLOCKED",
+        "location": None,
+        "risk": "BLOCKED",
+        "message": "CURRENT PREDICTIVE RISK UNAVAILABLE. Verified environmental datasets and a validated ML model are required before current predictive risk can be calculated.",
+        "data": None,
+    }
+
+
+@app.get("/api/risk/roads")
+def get_roads_risk_status() -> dict:
+    return {
+        "status": "BLOCKED",
+        "message": "Road risk analysis is blocked until validated hazard/risk outputs exist.",
+        "data": None,
+    }
+
+
+@app.get("/api/risk/villages")
+def get_villages_risk_status() -> dict:
+    return {
+        "status": "BLOCKED",
+        "message": "Village exposure analysis is blocked until validated hazard/risk outputs exist.",
+        "data": None,
+    }
+
+
+@app.get("/api/risk/routes")
+def get_routes_risk_status() -> dict:
+    return {
+        "status": "BLOCKED",
+        "message": "Route risk analysis is blocked until validated hazard/risk outputs exist.",
+        "data": None,
+    }
+
+
+@app.get("/api/alerts/history")
+def get_alerts_history() -> dict:
+    return {
+        "status": "OPERATIONAL",
+        "message": "No verified automated alert history is available yet.",
+        "alerts": [],
+    }
+
+
+@app.get("/api/provenance")
+def get_provenance_status() -> dict:
+    return {
+        "status": "PARTIAL",
+        "message": "Historical datasets have verified provenance. Environmental and model provenance are unavailable until source data and model validation exist.",
+        "data": {
+            "source": "GSI historical landslide records",
+            "verification_status": "VERIFIED",
+            "dataset_version": "AVAILABLE",
+            "crs": "EPSG:4326",
+            "quality": "VERIFIED FOR HISTORICAL DATA ONLY",
+            "warning": "Additional environmental provenance remains pending verified source data.",
+        },
+    }

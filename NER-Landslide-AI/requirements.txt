@@ -32,6 +32,9 @@ xgboost>=2.0.0
 torch>=2.2.0
 torchvision>=0.17.0
 
+# PDF / document parsing
+PyMuPDF>=1.9.0
+
 # Utilities
 python-dotenv>=1.0.1
 requests>=2.32.0

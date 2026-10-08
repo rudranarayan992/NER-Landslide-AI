@@ -19,12 +19,41 @@ interface InfoPanelProps {
   selectedFeature: SelectedFeatureData | null;
 }
 
+const fieldValue = (value: unknown) => {
+  if (value === null || value === undefined || value === '') return '—';
+  if (typeof value === 'number') return Number.isFinite(value) ? value.toString() : '—';
+  if (typeof value === 'object') return JSON.stringify(value);
+  return String(value);
+};
+
+const unavailable = 'AWAITING VERIFIED SOURCE DATA';
+
+const renderStatusPill = (status: string, tone: 'green' | 'amber' | 'red' | 'slate' = 'slate') => {
+  const palette = {
+    green: 'border-emerald-600/60 bg-emerald-500/10 text-emerald-200',
+    amber: 'border-amber-600/60 bg-amber-500/10 text-amber-200',
+    red: 'border-rose-600/60 bg-rose-500/10 text-rose-200',
+    slate: 'border-slate-600/70 bg-slate-800/80 text-slate-200',
+  };
+
+  return (
+    <span className={`inline-flex items-center rounded-full border px-2 py-0.5 text-[9px] uppercase tracking-[0.18em] ${palette[tone]}`}>
+      {status}
+    </span>
+  );
+};
+
 export function InfoPanel({ selectedFeature }: InfoPanelProps) {
   const renderContent = () => {
     if (!selectedFeature || !selectedFeature.data) {
       return (
-        <div className="p-6 text-center text-gray-500">
-          <p className="text-sm">Click a map feature to inspect its information</p>
+        <div className="p-6 text-center text-slate-400">
+          <p className="text-[11px] uppercase tracking-[0.2em] text-cyan-300">Location Intelligence</p>
+          <p className="mt-3 text-sm text-slate-300">Click a feature to inspect its location and historical context.</p>
+          <div className="mt-4 rounded border border-slate-700 bg-slate-900/60 p-3 text-left">
+            <p className="text-[9px] uppercase tracking-[0.18em] text-amber-300">Current Risk</p>
+            <p className="mt-2 text-xs text-slate-200">BLOCKED — Verified environmental data and a validated ML model are required.</p>
+          </div>
         </div>
       );
     }
@@ -32,201 +61,127 @@ export function InfoPanel({ selectedFeature }: InfoPanelProps) {
     const feature = selectedFeature.data;
     const props = feature.properties || {};
     const coords = feature.geometry?.coordinates || [];
+    const lat = Array.isArray(coords) && coords.length >= 2 ? Number(coords[1]) : null;
+    const lon = Array.isArray(coords) && coords.length >= 2 ? Number(coords[0]) : null;
 
     const getTypeLabel = () => {
       switch (selectedFeature.type) {
-        case 'landslide':
-          return 'Historical Landslide Event';
-        case 'state':
-          return 'State Boundary';
-        case 'village':
-          return 'Village/Settlement';
-        case 'road':
-          return 'Road';
-        default:
-          return 'Feature';
+        case 'landslide': return 'Historical Landslide Event';
+        case 'state': return 'Administrative Boundary';
+        case 'village': return 'Village / Local Settlement';
+        case 'road': return 'Road Feature';
+        default: return 'GIS Feature';
       }
     };
 
+    const nameValue = props.name || props.event_id || props.village || props.state || props.state_name || props.road_name || 'Unnamed Feature';
+    const locationInfo = [
+      { label: 'Latitude', value: lat !== null && Number.isFinite(lat) ? lat.toFixed(5) : unavailable },
+      { label: 'Longitude', value: lon !== null && Number.isFinite(lon) ? lon.toFixed(5) : unavailable },
+      { label: 'State', value: props.state || props.state_name || unavailable },
+      { label: 'District', value: props.district || unavailable },
+      { label: 'Village / locality', value: props.village || props.village_name || unavailable },
+      { label: 'Administrative hierarchy', value: props.administrative_hierarchy || 'AWAITING VERIFIED SOURCE DATA' },
+    ];
+
     return (
       <div className="space-y-4">
-        {/* Header */}
-        <div className="bg-blue-50 p-4 border-b border-blue-200">
-          <p className="text-xs text-blue-600 font-semibold uppercase tracking-wide">
-            {getTypeLabel()}
-          </p>
-          <p className="text-lg font-bold text-gray-900 mt-1">
-            {props.name || props.event_id || props.state || 'Unnamed Feature'}
-          </p>
+        <div className="panel-header px-4 py-3 border-b border-slate-700/80 bg-slate-900/50">
+          <p className="text-[10px] uppercase tracking-[0.18em] text-cyan-300">LOCATION INTELLIGENCE</p>
+          <div className="mt-2 flex items-center justify-between gap-3">
+            <p className="text-lg font-semibold text-white">{nameValue}</p>
+            {renderStatusPill('CURRENT RISK BLOCKED', 'amber')}
+          </div>
         </div>
 
-        {/* Properties */}
         <div className="px-4 py-3 space-y-3">
-          {/* Coordinates */}
-          {coords.length >= 2 && (
-            <div>
-              <p className="text-xs font-semibold text-gray-600 uppercase tracking-wide">
-                Coordinates
-              </p>
-              <p className="text-sm text-gray-900 font-mono">
-                {coords[1]?.toFixed(6)}, {coords[0]?.toFixed(6)}
-              </p>
+          <div className="rounded border border-slate-700 bg-slate-900/60 p-3">
+            <p className="text-[9px] uppercase tracking-[0.2em] text-cyan-300">A. LOCATION</p>
+            <div className="mt-3 space-y-2">
+              {locationInfo.map((item) => (
+                <div key={item.label} className="flex justify-between gap-3 text-xs">
+                  <span className="text-slate-400">{item.label}</span>
+                  <span className="text-right text-slate-100">{item.value}</span>
+                </div>
+              ))}
             </div>
-          )}
+          </div>
 
-          {/* Event-specific properties */}
-          {selectedFeature.type === 'landslide' && (
-            <>
-              {props.event_id && (
-                <div>
-                  <p className="text-xs font-semibold text-gray-600 uppercase tracking-wide">
-                    Event ID
-                  </p>
-                  <p className="text-sm text-gray-900">{props.event_id}</p>
-                </div>
-              )}
-              {props.date && (
-                <div>
-                  <p className="text-xs font-semibold text-gray-600 uppercase tracking-wide">
-                    Date
-                  </p>
-                  <p className="text-sm text-gray-900">{props.date}</p>
-                </div>
-              )}
-              {props.state && (
-                <div>
-                  <p className="text-xs font-semibold text-gray-600 uppercase tracking-wide">
-                    State
-                  </p>
-                  <p className="text-sm text-gray-900">{props.state}</p>
-                </div>
-              )}
-              {props.district && (
-                <div>
-                  <p className="text-xs font-semibold text-gray-600 uppercase tracking-wide">
-                    District
-                  </p>
-                  <p className="text-sm text-gray-900">{props.district}</p>
-                </div>
-              )}
-              {props.type_of_movement && (
-                <div>
-                  <p className="text-xs font-semibold text-gray-600 uppercase tracking-wide">
-                    Type of Movement
-                  </p>
-                  <p className="text-sm text-gray-900">{props.type_of_movement}</p>
-                </div>
-              )}
-              {props.trigger && (
-                <div>
-                  <p className="text-xs font-semibold text-gray-600 uppercase tracking-wide">
-                    Trigger
-                  </p>
-                  <p className="text-sm text-gray-900">{props.trigger}</p>
-                </div>
-              )}
-              {props.source && (
-                <div>
-                  <p className="text-xs font-semibold text-gray-600 uppercase tracking-wide">
-                    Data Source
-                  </p>
-                  <p className="text-sm text-gray-900">{props.source}</p>
-                </div>
-              )}
-            </>
-          )}
+          <div className="rounded border border-slate-700 bg-slate-900/60 p-3">
+            <p className="text-[9px] uppercase tracking-[0.2em] text-cyan-300">B. INFRASTRUCTURE</p>
+            <div className="mt-3 space-y-2 text-xs">
+              <div className="flex justify-between gap-3"><span className="text-slate-400">Nearest road</span><span className="text-right text-slate-100">{props.road_name || unavailable}</span></div>
+              <div className="flex justify-between gap-3"><span className="text-slate-400">Road ID</span><span className="text-right text-slate-100">{props.road_id || unavailable}</span></div>
+              <div className="flex justify-between gap-3"><span className="text-slate-400">Road class</span><span className="text-right text-slate-100">{props.road_class || unavailable}</span></div>
+              <div className="flex justify-between gap-3"><span className="text-slate-400">Road connectivity</span><span className="text-right text-slate-100">{props.road_connectivity || unavailable}</span></div>
+              <div className="flex justify-between gap-3"><span className="text-slate-400">Nearest village</span><span className="text-right text-slate-100">{props.village || props.village_name || unavailable}</span></div>
+              <div className="flex justify-between gap-3"><span className="text-slate-400">Distance to village</span><span className="text-right text-slate-100">{props.distance_to_village_km || unavailable}</span></div>
+            </div>
+          </div>
 
-          {/* State properties */}
-          {selectedFeature.type === 'state' && (
-            <>
-              {props.state_name && (
-                <div>
-                  <p className="text-xs font-semibold text-gray-600 uppercase tracking-wide">
-                    State Name
-                  </p>
-                  <p className="text-sm text-gray-900">{props.state_name}</p>
-                </div>
-              )}
-              {props.population && (
-                <div>
-                  <p className="text-xs font-semibold text-gray-600 uppercase tracking-wide">
-                    Population
-                  </p>
-                  <p className="text-sm text-gray-900">{props.population.toLocaleString()}</p>
-                </div>
-              )}
-            </>
-          )}
-
-          {/* Village properties */}
-          {selectedFeature.type === 'village' && (
-            <>
-              {props.village_name && (
-                <div>
-                  <p className="text-xs font-semibold text-gray-600 uppercase tracking-wide">
-                    Village Name
-                  </p>
-                  <p className="text-sm text-gray-900">{props.village_name}</p>
-                </div>
-              )}
-              {props.population && (
-                <div>
-                  <p className="text-xs font-semibold text-gray-600 uppercase tracking-wide">
-                    Population
-                  </p>
-                  <p className="text-sm text-gray-900">{props.population.toLocaleString()}</p>
-                </div>
-              )}
-              {props.district && (
-                <div>
-                  <p className="text-xs font-semibold text-gray-600 uppercase tracking-wide">
-                    District
-                  </p>
-                  <p className="text-sm text-gray-900">{props.district}</p>
-                </div>
-              )}
-            </>
-          )}
-
-          {/* Generic properties */}
-          {Object.entries(props).map(([key, value]) => {
-            // Skip already displayed properties
-            if (['name', 'event_id', 'date', 'state', 'district', 'village_name', 
-                  'type_of_movement', 'trigger', 'source', 'state_name', 'population'].includes(key)) {
-              return null;
-            }
-            // Skip geometry properties
-            if (key.startsWith('_') || key === 'properties') return null;
-
-            return (
-              <div key={key}>
-                <p className="text-xs font-semibold text-gray-600 uppercase tracking-wide">
-                  {key.replace(/_/g, ' ')}
-                </p>
-                <p className="text-sm text-gray-900">
-                  {typeof value === 'object' ? JSON.stringify(value) : String(value)}
-                </p>
+          <div className="rounded border border-slate-700 bg-slate-900/60 p-3">
+            <p className="text-[9px] uppercase tracking-[0.2em] text-cyan-300">C. HISTORICAL LANDSLIDE INTELLIGENCE</p>
+            <div className="mt-3 space-y-2 text-xs">
+              <div className="flex justify-between gap-3"><span className="text-slate-400">Historical landslide count nearby</span><span className="text-right text-slate-100">{props.historical_count || unavailable}</span></div>
+              <div className="flex justify-between gap-3"><span className="text-slate-400">Historical density</span><span className="text-right text-slate-100">{props.density || unavailable}</span></div>
+              <div className="flex justify-between gap-3"><span className="text-slate-400">Nearest historical event</span><span className="text-right text-slate-100">{props.nearest_event || unavailable}</span></div>
+              <div className="flex justify-between gap-3"><span className="text-slate-400">Distance</span><span className="text-right text-slate-100">{props.distance_to_nearest_event_km || unavailable}</span></div>
+              <div className="mt-2 rounded border border-emerald-600/30 bg-emerald-500/5 p-2 text-[10px] text-emerald-100">
+                SOURCE: GSI HISTORICAL LANDSLIDE DATA
               </div>
-            );
-          })}
-        </div>
+            </div>
+          </div>
 
-        {/* Footer */}
-        <div className="px-4 py-3 border-t border-gray-200 bg-gray-50 text-xs text-gray-500">
-          <p>Click another feature to inspect, or click the map to close</p>
+          <div className="rounded border border-slate-700 bg-slate-900/60 p-3">
+            <p className="text-[9px] uppercase tracking-[0.2em] text-cyan-300">D. CURRENT ENVIRONMENT</p>
+            <div className="mt-3 space-y-2 text-xs">
+              <div className="flex justify-between gap-3"><span className="text-slate-400">Rainfall 1h</span><span className="text-right text-slate-100">{unavailable}</span></div>
+              <div className="flex justify-between gap-3"><span className="text-slate-400">Rainfall 24h</span><span className="text-right text-slate-100">{unavailable}</span></div>
+              <div className="flex justify-between gap-3"><span className="text-slate-400">Rainfall 3d</span><span className="text-right text-slate-100">{unavailable}</span></div>
+              <div className="flex justify-between gap-3"><span className="text-slate-400">Rainfall 7d</span><span className="text-right text-slate-100">{unavailable}</span></div>
+              <div className="flex justify-between gap-3"><span className="text-slate-400">DEM / slope</span><span className="text-right text-slate-100">{unavailable}</span></div>
+              <div className="flex justify-between gap-3"><span className="text-slate-400">Soil / moisture</span><span className="text-right text-slate-100">{unavailable}</span></div>
+              <div className="flex justify-between gap-3"><span className="text-slate-400">Hydrology / land cover</span><span className="text-right text-slate-100">{unavailable}</span></div>
+            </div>
+          </div>
+
+          <div className="rounded border border-slate-700 bg-slate-900/60 p-3">
+            <p className="text-[9px] uppercase tracking-[0.2em] text-cyan-300">LANDSLIDE PREDICTION</p>
+            <div className="mt-3 flex items-center justify-between gap-3">
+              <span className="text-slate-400 text-xs">Status</span>
+              {renderStatusPill('BLOCKED', 'red')}
+            </div>
+            <p className="mt-2 text-[10px] text-slate-300 leading-relaxed">
+              Predictive landslide risk is unavailable because verified environmental inputs and a validated ML model are not yet available.
+            </p>
+          </div>
+
+          <div className="rounded border border-slate-700 bg-slate-900/60 p-3">
+            <p className="text-[9px] uppercase tracking-[0.2em] text-cyan-300">WHY THIS LOCATION?</p>
+            <p className="mt-2 text-[10px] text-slate-300 leading-relaxed">
+              Model explanation unavailable because predictive model is not operational.
+            </p>
+          </div>
+
+          <div className="rounded border border-slate-700 bg-slate-900/60 p-3">
+            <p className="text-[9px] uppercase tracking-[0.2em] text-cyan-300">PROVENANCE</p>
+            <div className="mt-3 text-[10px] text-slate-300 leading-relaxed">
+              <p>Source: GSI historical landslide data and verified administrative infrastructure.</p>
+              <p className="mt-1">Verification status: VERIFIED FOR HISTORICAL DATA ONLY</p>
+              <p className="mt-1">Additional environmental provenance: AWAITING VERIFIED SOURCE DATA</p>
+            </div>
+          </div>
         </div>
       </div>
     );
   };
 
   return (
-    <div className="flex flex-col h-full bg-white">
-      <div className="p-4 border-b border-gray-200 bg-gray-50">
-        <h2 className="text-lg font-bold text-gray-900">Feature Information</h2>
+    <div className="flex flex-col h-full bg-slate-900 text-slate-100">
+      <div className="px-4 py-3 border-b border-slate-700/80 bg-slate-950/80">
+        <h2 className="text-[11px] uppercase tracking-[0.2em] text-cyan-300">LOCATION INTELLIGENCE</h2>
       </div>
-      <div className="flex-1 overflow-y-auto">
-        {renderContent()}
-      </div>
+      <div className="flex-1 overflow-y-auto">{renderContent()}</div>
     </div>
   );
 }

@@ -294,8 +294,8 @@ A: Historical shows where events happened. Risk would require ML model.
 **Q: Can I add my own data?**
 A: Yes - create endpoint in backend, add layer in LayerPanel.tsx
 
-**Q: Is this production-ready?**
-A: Yes - test suite, documentation, performance optimized
+**Q: Is this production-ready for landslide forecasting?**
+A: Not yet. The platform is production-quality for verified historical GIS and status workflows, but operational forecasting remains blocked until verified environmental data and ML validation are complete.
 
 ---
 

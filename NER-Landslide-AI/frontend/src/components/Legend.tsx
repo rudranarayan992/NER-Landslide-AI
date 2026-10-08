@@ -18,40 +18,40 @@ export function Legend({ visibleLayers, heatmapEnabled }: LegendProps) {
     if (visibleLayers.has('landslides')) {
       items.push({
         label: '● Historical Landslide Events',
-        color: '#c0392b',
-        description: '33,904 verified events (NOT current risk)',
+        color: '#dc2626',
+        description: 'Real GSI historical observations',
       });
     }
 
     if (visibleLayers.has('landslides-heatmap') && heatmapEnabled) {
       items.push({
-        label: '⬚ Historical Density Heatmap',
-        color: '#bd2d1f',
-        description: 'Spatial clustering of historical events (past occurrence)',
+        label: '◆ Historical Landslide Density',
+        color: '#ef4444',
+        description: 'Density overlay — historical data only (NOT current risk)',
       });
     }
 
     if (visibleLayers.has('state-boundaries')) {
       items.push({
-        label: '─ State Boundaries',
-        color: '#2c3e50',
-        description: 'Administrative state boundaries of NER region',
+        label: '─ Administrative Boundaries',
+        color: '#38bdf8',
+        description: 'State and regional boundaries',
       });
     }
 
     if (visibleLayers.has('roads')) {
       items.push({
         label: '─ Road Network',
-        color: '#95a5a6',
-        description: 'Primary and secondary road network',
+        color: '#cbd5e1',
+        description: 'Infrastructure road segments',
       });
     }
 
     if (visibleLayers.has('villages')) {
       items.push({
         label: '● Villages & Settlements',
-        color: '#3498db',
-        description: 'Populated villages in the region',
+        color: '#7dd3fc',
+        description: 'Villages and local settlements',
       });
     }
 
@@ -60,37 +60,55 @@ export function Legend({ visibleLayers, heatmapEnabled }: LegendProps) {
 
   const items = getLegendItems();
 
-  if (items.length === 0) {
-    return (
-      <div className="text-xs text-gray-500">
-        <p className="font-semibold">No layers enabled</p>
-        <p className="mt-1">Enable layers from the left panel to view legend</p>
-      </div>
-    );
-  }
-
   return (
-    <div className="space-y-2">
-      <p className="font-bold text-sm text-gray-900">Map Legend</p>
-      <div className="space-y-2">
-        {items.map((item, idx) => (
-          <div key={idx} className="flex items-start gap-2">
-            <div
-              className="w-3 h-3 rounded-full flex-shrink-0 mt-1"
-              style={{ backgroundColor: item.color }}
-            />
-            <div>
-              <p className="text-xs font-semibold text-gray-900">{item.label}</p>
-              <p className="text-xs text-gray-600">{item.description}</p>
+    <div className="space-y-3 text-slate-100">
+      <p className="text-[10px] uppercase tracking-[0.18em] text-cyan-300 font-bold">LEGEND</p>
+
+      {items.length > 0 ? (
+        <div className="space-y-2.5 border-b border-slate-700/50 pb-3">
+          {items.map((item, idx) => (
+            <div key={idx} className="flex items-start gap-2">
+              <div className="w-2.5 h-2.5 rounded-full mt-1.5 flex-shrink-0" style={{ backgroundColor: item.color }} />
+              <div>
+                <p className="text-[10px] font-semibold text-white">{item.label}</p>
+                <p className="text-[9px] text-slate-400">{item.description}</p>
+              </div>
             </div>
-          </div>
-        ))}
-      </div>
-      <div className="mt-3 p-2 bg-amber-50 border border-amber-200 rounded text-xs text-amber-900">
-        <p className="font-semibold">⚠ Important Note</p>
-        <p className="mt-1">
-          Historical data shows PAST occurrences. Current risk assessment requires verified environmental data (DEM, rainfall, soil) not yet available.
+          ))}
+        </div>
+      ) : (
+        <div className="text-[9px] text-slate-400">
+          <p>Enable layers from the left panel.</p>
+        </div>
+      )}
+
+      <div className="space-y-2 border-b border-slate-700/50 pb-3">
+        <div className="flex items-center gap-2">
+          <span className="text-[10px] font-bold text-cyan-300 uppercase tracking-[0.12em]">Current Risk</span>
+          <span className="inline-block px-1.5 py-0.5 rounded bg-red-500/20 border border-red-600/60 text-[8px] font-bold text-red-200 uppercase">BLOCKED</span>
+        </div>
+        <p className="text-[9px] text-slate-400">
+          Requires: verified environmental data + validated ML model
         </p>
+      </div>
+
+      <div className="space-y-2 border-b border-slate-700/50 pb-3">
+        <div className="flex items-center gap-2">
+          <span className="text-[10px] font-bold text-cyan-300 uppercase tracking-[0.12em]">Road Risk</span>
+          <span className="inline-block px-1.5 py-0.5 rounded bg-red-500/20 border border-red-600/60 text-[8px] font-bold text-red-200 uppercase">BLOCKED</span>
+        </div>
+        <p className="text-[9px] text-slate-400">
+          Requires: validated road + hazard data
+        </p>
+      </div>
+
+      <div>
+        <p className="text-[9px] font-semibold text-amber-300 uppercase tracking-[0.12em] mb-1.5">Alert Levels</p>
+        <div className="space-y-1 text-[9px]">
+          <p className="text-slate-400">🔔 WATCH — ALERTS NOT OPERATIONAL</p>
+          <p className="text-slate-400">⚠️ AUTOMATED ALERTS BLOCKED</p>
+          <p className="text-slate-400">No real-time warnings available.</p>
+        </div>
       </div>
     </div>
   );

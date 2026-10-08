@@ -23,7 +23,7 @@ interface LayerGroup {
 
 export function LayerPanel({ visibleLayers, onToggleLayer, onToggleHeatmap, heatmapEnabled }: LayerPanelProps) {
   const [expandedGroups, setExpandedGroups] = React.useState<Set<string>>(
-    new Set(['Base Maps', 'Administrative', 'Landslides', 'Infrastructure'])
+    new Set(['Administrative', 'Landslides', 'Terrain', 'Rainfall', 'Soil', 'Hydrology', 'Roads', 'Villages'])
   );
 
   const toggleGroup = (groupName: string) => {
@@ -52,26 +52,16 @@ export function LayerPanel({ visibleLayers, onToggleLayer, onToggleHeatmap, heat
 
   const LAYER_GROUPS: LayerGroup[] = [
     {
-      name: 'Base Maps',
-      layers: [
-        { id: 'street', name: 'Street', status: 'available', isBasemap: true },
-        { id: 'satellite', name: 'Satellite', status: 'available', isBasemap: true },
-        { id: 'topographic', name: 'Topographic', status: 'available', isBasemap: true },
-        { id: 'terrain', name: 'Terrain', status: 'available', isBasemap: true },
-      ],
-    },
-    {
       name: 'Administrative',
       layers: [
-        { id: 'state-boundaries', name: 'States', status: 'available' },
+        { id: 'state-boundaries', name: 'State Boundaries', status: 'available' },
         { id: 'district-boundaries', name: 'Districts', status: 'awaiting' },
-        { id: 'village-boundaries', name: 'Villages', status: 'awaiting' },
       ],
     },
     {
       name: 'Landslides',
       layers: [
-        { id: 'landslides', name: 'Historical Events', status: 'available' },
+        { id: 'landslides', name: 'Historical Landslide Events', status: 'available' },
         { id: 'landslides-heatmap', name: 'Historical Density', status: 'available', isHeatmap: true },
         { id: 'susceptibility', name: 'Susceptibility Map', status: 'blocked' },
       ],
@@ -86,39 +76,38 @@ export function LayerPanel({ visibleLayers, onToggleLayer, onToggleHeatmap, heat
       ],
     },
     {
-      name: 'Environment',
+      name: 'Rainfall',
       layers: [
         { id: 'rainfall', name: 'Rainfall Distribution', status: 'awaiting' },
-        { id: 'weather', name: 'Weather', status: 'awaiting' },
+        { id: 'weather', name: 'Weather Monitoring', status: 'awaiting' },
+      ],
+    },
+    {
+      name: 'Soil',
+      layers: [
         { id: 'soil', name: 'Soil Properties', status: 'awaiting' },
         { id: 'soil-moisture', name: 'Soil Moisture', status: 'awaiting' },
-        { id: 'hydrology', name: 'Hydrology', status: 'awaiting' },
       ],
     },
     {
-      name: 'Remote Sensing',
+      name: 'Hydrology',
       layers: [
-        { id: 'satellite-imagery', name: 'Satellite Imagery', status: 'awaiting' },
-        { id: 'landcover', name: 'Land Cover', status: 'awaiting' },
-        { id: 'ndvi', name: 'NDVI Index', status: 'awaiting' },
+        { id: 'hydrology', name: 'Hydrology & Streams', status: 'awaiting' },
+        { id: 'waterbodies', name: 'Water Bodies', status: 'awaiting' },
       ],
     },
     {
-      name: 'Infrastructure',
+      name: 'Roads',
       layers: [
         { id: 'roads', name: 'Road Network', status: 'available' },
-        { id: 'villages', name: 'Villages', status: 'available' },
-        { id: 'critical-infrastructure', name: 'Critical Infrastructure', status: 'awaiting' },
+        { id: 'road-risk', name: 'Road Risk', status: 'blocked' },
       ],
     },
     {
-      name: 'Risk & Alerts',
+      name: 'Villages',
       layers: [
-        { id: 'current-risk', name: 'Current Risk', status: 'blocked' },
-        { id: 'road-risk', name: 'Road Risk', status: 'blocked' },
-        { id: 'village-risk', name: 'Village Risk', status: 'blocked' },
-        { id: 'route-risk', name: 'Route Risk', status: 'blocked' },
-        { id: 'alerts', name: 'Automated Alerts', status: 'blocked' },
+        { id: 'villages', name: 'Villages & Settlements', status: 'available' },
+        { id: 'village-risk', name: 'Village Exposure', status: 'blocked' },
       ],
     },
   ];
@@ -127,8 +116,8 @@ export function LayerPanel({ visibleLayers, onToggleLayer, onToggleHeatmap, heat
     <div className="gis-layer-panel h-full flex flex-col">
       {/* HEADER */}
       <div className="px-4 py-3 border-b border-slate-700/60 bg-slate-900/70 flex-shrink-0">
-        <h2 className="text-sm font-bold uppercase tracking-[0.15em] text-white">Layers</h2>
-        <p className="mt-1 text-[9px] uppercase tracking-[0.12em] text-slate-400">GIS Data Stack</p>
+        <h2 className="text-sm font-bold uppercase tracking-[0.15em] text-cyan-300">GIS LAYERS</h2>
+        <p className="mt-0.5 text-[9px] uppercase tracking-[0.12em] text-slate-400">Data Stack Selector</p>
       </div>
 
       {/* SCROLLABLE GROUPS */}

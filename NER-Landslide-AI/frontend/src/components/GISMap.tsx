@@ -1,333 +1,144 @@
 import React, { useEffect, useRef, useState } from 'react';
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
-import { LayerPanel } from './LayerPanel';
-import { InfoPanel } from './InfoPanel';
-import { MapControls } from './MapControls';
-import { Legend } from './Legend';
-import { SearchBox } from './SearchBox';
-import { RouteSystem } from './RouteSystem';
-import { AlertCenter } from './AlertCenter';
-import { EnvironmentalPanel } from './EnvironmentalPanel';
+import {
+  LayoutDashboard,
+  MapPin,
+  Bell,
+  Activity,
+  FileText,
+  Camera,
+  CloudRain,
+  Building2,
+  BarChart3,
+  ShieldCheck,
+  Settings,
+  ChevronRight,
+  Menu,
+  RefreshCw,
+  AlertTriangle,
+  Mountain,
+  User,
+  Check,
+  Home,
+  Radio,
+  Layers,
+  Info,
+  Send,
+  X
+} from 'lucide-react';
 import { DisasterAIAssistant } from './DisasterAIAssistant';
-import { DashboardStatus } from './DashboardStatus';
+import { AlertCenter } from './AlertCenter';
+import { RouteSystem } from './RouteSystem';
 
-interface Feature {
-  type: 'Feature';
-  id: string | number;
-  properties: Record<string, any>;
-  geometry: {
-    type: string;
-    coordinates: any[];
-  };
+interface ZoneData {
+  id: string;
+  name: string;
+  level: 'CRITICAL' | 'HIGH' | 'MEDIUM' | 'LOW';
+  mlProb: number;
+  fos: number;
+  rainfall: string;
+  soilMoisture: string;
+  coordinates: [number, number];
 }
 
-interface SelectedFeature {
-  type: string;
-  data: Feature | null;
-}
+const ZONES: ZoneData[] = [
+  {
+    id: 'gangtok-1',
+    name: 'Gangtok Zone 1',
+    level: 'CRITICAL',
+    mlProb: 0.91,
+    fos: 0.74,
+    rainfall: '168 mm',
+    soilMoisture: '78%',
+    coordinates: [88.6138, 27.3389],
+  },
+  {
+    id: 'tawang-ridge',
+    name: 'Tawang Ridge',
+    level: 'HIGH',
+    mlProb: 0.82,
+    fos: 0.89,
+    rainfall: '142 mm',
+    soilMoisture: '71%',
+    coordinates: [91.8667, 27.5833],
+  },
+  {
+    id: 'shillong-east',
+    name: 'Shillong East',
+    level: 'MEDIUM',
+    mlProb: 0.54,
+    fos: 1.12,
+    rainfall: '95 mm',
+    soilMoisture: '58%',
+    coordinates: [91.8933, 25.5788],
+  },
+  {
+    id: 'guwahati-hills',
+    name: 'Guwahati Hills',
+    level: 'LOW',
+    mlProb: 0.21,
+    fos: 1.65,
+    rainfall: '45 mm',
+    soilMoisture: '38%',
+    coordinates: [91.7362, 26.1445],
+  },
+  {
+    id: 'aizawl-3',
+    name: 'Aizawl Zone 03',
+    level: 'LOW',
+    mlProb: 0.18,
+    fos: 1.82,
+    rainfall: '38 mm',
+    soilMoisture: '34%',
+    coordinates: [92.7176, 23.7271],
+  },
+  {
+    id: 'lunglei-zone',
+    name: 'Lunglei Zone',
+    level: 'HIGH',
+    mlProb: 0.78,
+    fos: 0.85,
+    rainfall: '135 mm',
+    soilMoisture: '69%',
+    coordinates: [92.7333, 22.8833],
+  },
+];
 
-const BASEMAP_MAP: Record<string, string> = {
-  street: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
-  satellite: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
-  topographic: 'https://a.tile.opentopomap.org/{z}/{x}/{y}.png',
-  terrain: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
-  hillshade: 'https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}.png',
-};
+const SHELTERS = [
+  { name: 'Shillong Relief Camp 1', coords: [91.88, 25.56] as [number, number] },
+  { name: 'Gangtok Community Shelter', coords: [88.62, 27.34] as [number, number] },
+  { name: 'Silchar Safe Haven', coords: [92.78, 24.83] as [number, number] },
+  { name: 'Aizawl Sports Complex Shelter', coords: [92.72, 23.73] as [number, number] },
+];
 
 export function GISMap() {
   const mapContainer = useRef<HTMLDivElement>(null);
   const map = useRef<maplibregl.Map | null>(null);
-  const [loaded, setLoaded] = useState(false);
-  const [selectedFeature, setSelectedFeature] = useState<SelectedFeature | null>(null);
-  const [visibleLayers, setVisibleLayers] = useState<Set<string>>(new Set([
-    'landslides',
-    'state-boundaries',
-    'roads',
-    'villages',
-  ]));
-  const [basemap, setBasemap] = useState<string>('street');
-  const [heatmapEnabled, setHeatmapEnabled] = useState(true);
-  const [showRouteSystem, setShowRouteSystem] = useState(false);
-  const [showAlertCenter, setShowAlertCenter] = useState(false);
-  const [showEnvironmentalPanel, setShowEnvironmentalPanel] = useState(false);
-  const [showDisasterAI, setShowDisasterAI] = useState(false);
-  const [showDashboardStatus, setShowDashboardStatus] = useState(false);
+  const [activeTab, setActiveTab] = useState<string>('live-risk-map');
+  const [selectedZone, setSelectedZone] = useState<ZoneData>(ZONES[0]);
+  const [evacuationMode, setEvacuationMode] = useState<boolean>(false);
+  const [showDisasterAI, setShowDisasterAI] = useState<boolean>(false);
+  const [showAlertsModal, setShowAlertsModal] = useState<boolean>(false);
+  const [showRouteModal, setShowRouteModal] = useState<boolean>(false);
+  const [sidebarOpen, setSidebarOpen] = useState<boolean>(true);
 
-  const getBasemapStyle = (styleKey: string) => {
-    const tileUrl = BASEMAP_MAP[styleKey] || BASEMAP_MAP.street;
+  // Map layer toggle states matching reference app
+  const [layerState, setLayerState] = useState({
+    riskZones: true,
+    rainfall: false,
+    soilMoisture: false,
+    roads: true,
+    villages: true,
+    infrastructure: true,
+    sensors: true,
+    fieldReports: true,
+    shelters: true,
+    landslideHistory: false,
+  });
 
-    return JSON.stringify({
-      version: 8,
-      sources: {
-        base: {
-          type: 'raster',
-          tiles: [tileUrl],
-          tileSize: 256,
-          attribution: '© OpenStreetMap contributors, © Esri, © Stadia Maps',
-        },
-      },
-      layers: [{ id: 'base-layer', type: 'raster', source: 'base' }],
-      glyphs: 'https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf',
-      sprite: 'https://demotiles.maplibre.org/sprite',
-    });
-  };
-
-  const addMapLayers = () => {
-    if (!map.current?.isStyleLoaded()) return;
-
-    if (!map.current.getSource('landslides')) {
-      map.current.addSource('landslides', {
-        type: 'geojson',
-        data: { type: 'FeatureCollection', features: [] },
-        cluster: true,
-        clusterMaxZoom: 14,
-        clusterRadius: 50,
-      });
-
-      map.current.addLayer({
-        id: 'landslides-cluster',
-        type: 'circle',
-        source: 'landslides',
-        filter: ['has', 'point_count'],
-        paint: {
-          'circle-color': '#f87171',
-          'circle-radius': ['step', ['get', 'point_count'], 18, 5, 22, 10, 28],
-          'circle-opacity': 0.8,
-        },
-      });
-
-      map.current.addLayer({
-        id: 'landslides-cluster-count',
-        type: 'symbol',
-        source: 'landslides',
-        filter: ['has', 'point_count'],
-        layout: {
-          'text-field': ['get', 'point_count_abbreviated'],
-          'text-size': 11,
-          'text-font': ['Open Sans Regular'],
-          'text-allow-overlap': true,
-        },
-        paint: { 'text-color': '#ffffff' },
-      });
-
-      map.current.addLayer({
-        id: 'landslides',
-        type: 'circle',
-        source: 'landslides',
-        filter: ['!', ['has', 'point_count']],
-        paint: {
-          'circle-color': '#dc2626',
-          'circle-radius': 6,
-          'circle-opacity': 0.9,
-          'circle-stroke-color': '#fecaca',
-          'circle-stroke-width': 1.5,
-        },
-      });
-    }
-
-    if (!map.current.getSource('landslides-heatmap')) {
-      map.current.addSource('landslides-heatmap', {
-        type: 'geojson',
-        data: { type: 'FeatureCollection', features: [] },
-      });
-
-      map.current.addLayer({
-        id: 'landslides-heatmap',
-        type: 'heatmap',
-        source: 'landslides-heatmap',
-        maxzoom: 15,
-        paint: {
-          'heatmap-weight': 1,
-          'heatmap-intensity': 1,
-          'heatmap-radius': ['interpolate', ['linear'], ['zoom'], 0, 2, 9, 18],
-          'heatmap-opacity': 0.72,
-          'heatmap-color': [
-            'interpolate',
-            ['linear'],
-            ['heatmap-density'],
-            0, '#ffffff00',
-            0.2, '#fef3c7',
-            0.4, '#fbbf24',
-            0.6, '#f97316',
-            0.8, '#ef4444',
-            1, '#7f1d1d',
-          ],
-        },
-      });
-    }
-
-    if (!map.current.getSource('state-boundaries')) {
-      map.current.addSource('state-boundaries', {
-        type: 'geojson',
-        data: { type: 'FeatureCollection', features: [] },
-      });
-      map.current.addLayer({
-        id: 'state-boundaries',
-        type: 'line',
-        source: 'state-boundaries',
-        paint: {
-          'line-color': '#38bdf8',
-          'line-width': 1.5,
-          'line-opacity': 0.75,
-        },
-      });
-    }
-
-    if (!map.current.getSource('villages')) {
-      map.current.addSource('villages', {
-        type: 'geojson',
-        data: { type: 'FeatureCollection', features: [] },
-      });
-      map.current.addLayer({
-        id: 'villages',
-        type: 'circle',
-        source: 'villages',
-        paint: {
-          'circle-radius': 4,
-          'circle-color': '#7dd3fc',
-          'circle-opacity': 0.8,
-          'circle-stroke-color': '#e0f2fe',
-          'circle-stroke-width': 1,
-        },
-      });
-    }
-
-    if (!map.current.getSource('roads')) {
-      map.current.addSource('roads', {
-        type: 'geojson',
-        data: { type: 'FeatureCollection', features: [] },
-      });
-      map.current.addLayer({
-        id: 'roads',
-        type: 'line',
-        source: 'roads',
-        paint: {
-          'line-color': '#cbd5e1',
-          'line-width': 1.5,
-          'line-opacity': 0.8,
-        },
-      });
-    }
-
-    Object.entries({
-      landslides: 'visible',
-      'landslides-cluster': 'visible',
-      'landslides-cluster-count': 'visible',
-      'landslides-heatmap': heatmapEnabled ? 'visible' : 'none',
-      'state-boundaries': visibleLayers.has('state-boundaries') ? 'visible' : 'none',
-      villages: visibleLayers.has('villages') ? 'visible' : 'none',
-      roads: visibleLayers.has('roads') ? 'visible' : 'none',
-    }).forEach(([layerId, vis]) => {
-      try {
-        if (map.current?.getLayer(layerId)) {
-          map.current?.setLayoutProperty(layerId, 'visibility', vis as any);
-        }
-      } catch (error) {
-        console.debug(`Layer ${layerId} not ready:`, error);
-      }
-    });
-  };
-
-  const addMapInteractions = () => {
-    if (!map.current) return;
-
-    map.current.on('click', 'landslides', (event) => {
-      const feature = event.features?.[0] as Feature | undefined;
-      if (feature) setSelectedFeature({ type: 'landslide', data: feature });
-    });
-
-    map.current.on('click', 'state-boundaries', (event) => {
-      const feature = event.features?.[0] as Feature | undefined;
-      if (feature) setSelectedFeature({ type: 'state', data: feature });
-    });
-
-    map.current.on('click', 'villages', (event) => {
-      const feature = event.features?.[0] as Feature | undefined;
-      if (feature) setSelectedFeature({ type: 'village', data: feature });
-    });
-
-    ['landslides', 'state-boundaries', 'villages', 'roads'].forEach((layerId) => {
-      map.current?.on('mouseenter', layerId, () => {
-        map.current!.getCanvas().style.cursor = 'pointer';
-      });
-      map.current?.on('mouseleave', layerId, () => {
-        map.current!.getCanvas().style.cursor = '';
-      });
-    });
-  };
-
-  const loadLandslideData = async () => {
-    if (!map.current?.isStyleLoaded()) return;
-
-    try {
-      const response = await fetch('/api/landslides');
-      const data = await response.json();
-      const source = map.current.getSource('landslides') as any;
-      const densitySource = map.current.getSource('landslides-heatmap') as any;
-      const features = data?.features || [];
-
-      if (source) source.setData({ type: 'FeatureCollection', features });
-      if (densitySource) densitySource.setData({ type: 'FeatureCollection', features });
-    } catch (error) {
-      console.error('Failed to load landslide data:', error);
-    }
-  };
-
-  const loadVillageData = async () => {
-    if (!map.current?.isStyleLoaded()) return;
-
-    try {
-      const response = await fetch('/api/villages');
-      const data = await response.json();
-      const source = map.current.getSource('villages') as any;
-      if (source && data?.features) {
-        source.setData({ type: 'FeatureCollection', features: data.features });
-      }
-    } catch (error) {
-      console.error('Failed to load village data:', error);
-    }
-  };
-
-  const loadRoadData = async () => {
-    if (!map.current?.isStyleLoaded()) return;
-
-    try {
-      const response = await fetch('/api/roads');
-      const data = await response.json();
-      const source = map.current.getSource('roads') as any;
-      if (source && data?.features) {
-        source.setData({ type: 'FeatureCollection', features: data.features });
-      }
-    } catch (error) {
-      console.error('Failed to load road data:', error);
-    }
-  };
-
-  const loadAdministrativeData = async () => {
-    if (!map.current?.isStyleLoaded()) return;
-
-    try {
-      const response = await fetch('/api/states');
-      const data = await response.json();
-      if (data?.states && map.current.getSource('state-boundaries')) {
-        const source = map.current.getSource('state-boundaries') as any;
-        if (source && Array.isArray(data.states)) {
-          const features = data.states.map((state: string, index: number) => ({
-            type: 'Feature',
-            id: `state-${index}`,
-            properties: { name: state, state_name: state, status: 'verified' },
-            geometry: {
-              type: 'Point',
-              coordinates: [93.5 + index * 0.2, 26.5 + (index % 2 === 0 ? 0.5 : -0.5)],
-            },
-          }));
-          source.setData({ type: 'FeatureCollection', features });
-        }
-      }
-    } catch (error) {
-      console.error('Failed to load state metadata:', error);
-    }
+  const toggleLayer = (key: keyof typeof layerState) => {
+    setLayerState((prev) => ({ ...prev, [key]: !prev[key] }));
   };
 
   useEffect(() => {
@@ -335,233 +146,424 @@ export function GISMap() {
 
     map.current = new maplibregl.Map({
       container: mapContainer.current,
-      style: getBasemapStyle(basemap),
-      center: [93.5, 26.5],
-      zoom: 6,
-      minZoom: 4,
-      maxZoom: 18,
-      pitch: 0,
-      bearing: 0,
+      style: JSON.stringify({
+        version: 8,
+        sources: {
+          osm: {
+            type: 'raster',
+            tiles: ['https://tile.openstreetmap.org/{z}/{x}/{y}.png'],
+            tileSize: 256,
+            attribution: '© OpenStreetMap contributors',
+          },
+        },
+        layers: [{ id: 'osm-tiles', type: 'raster', source: 'osm' }],
+      }),
+      center: [91.88, 25.57],
+      zoom: 6.8,
     });
 
-    map.current.on('load', () => {
-      setLoaded(true);
-      addMapLayers();
-      addMapInteractions();
-    });
+    map.current.addControl(new maplibregl.NavigationControl(), 'top-left');
 
     return () => map.current?.remove();
   }, []);
 
-  useEffect(() => {
-    if (loaded) {
-      loadLandslideData();
-      loadAdministrativeData();
-      loadVillageData();
-      loadRoadData();
-    }
-  }, [loaded]);
+  const navItems = [
+    { id: 'overview', label: 'Overview', icon: LayoutDashboard },
+    { id: 'live-risk-map', label: 'Live Risk Map', icon: MapPin },
+    { id: 'alerts', label: 'Alerts', icon: Bell, badge: '3' },
+    { id: 'sensor-monitoring', label: 'Sensor Monitoring', icon: Activity },
+    { id: 'reports', label: 'Reports', icon: FileText },
+    { id: 'field-reports', label: 'Field Reports', icon: Camera },
+    { id: 'weather', label: 'Weather', icon: CloudRain },
+    { id: 'infrastructure', label: 'Infrastructure', icon: Building2 },
+    { id: 'analytics', label: 'Analytics', icon: BarChart3 },
+    { id: 'admin-response', label: 'Admin / Response', icon: ShieldCheck },
+    { id: 'settings', label: 'Settings', icon: Settings },
+  ];
 
-  const changeBasemap = (newBasemap: string) => {
-    setBasemap(newBasemap);
-    if (map.current) {
-      map.current.setStyle(getBasemapStyle(newBasemap));
-      setTimeout(() => {
-        if (map.current?.isStyleLoaded()) {
-          addMapLayers();
-          addMapInteractions();
-        }
-      }, 120);
-    }
-  };
-
-  const toggleLayer = (layerId: string) => {
-    if (!map.current?.isStyleLoaded()) return;
-    const next = new Set(visibleLayers);
-    if (next.has(layerId)) next.delete(layerId); else next.add(layerId);
-    setVisibleLayers(next);
-
-    try {
-      if (map.current.getLayer(layerId)) {
-        map.current.setLayoutProperty(layerId, 'visibility', next.has(layerId) ? 'visible' : 'none');
-      }
-    } catch (error) {
-      console.error(`Failed to toggle layer ${layerId}:`, error);
+  const getLevelBadgeClass = (level: string) => {
+    switch (level) {
+      case 'CRITICAL':
+        return 'bg-red-100 text-red-700 border-red-200';
+      case 'HIGH':
+        return 'bg-orange-100 text-orange-700 border-orange-200';
+      case 'MEDIUM':
+        return 'bg-yellow-100 text-yellow-700 border-yellow-200';
+      case 'LOW':
+        return 'bg-emerald-100 text-emerald-700 border-emerald-200';
+      default:
+        return 'bg-slate-100 text-slate-700 border-slate-200';
     }
   };
 
-  useEffect(() => {
-    if (!map.current?.isStyleLoaded()) return;
-    ['landslides', 'landslides-cluster', 'landslides-cluster-count', 'landslides-heatmap', 'state-boundaries', 'villages', 'roads'].forEach((layerId) => {
-      if (map.current?.getLayer(layerId)) {
-        const visible = layerId === 'landslides-heatmap' ? (heatmapEnabled && visibleLayers.has('landslides-heatmap')) : visibleLayers.has(layerId);
-        map.current.setLayoutProperty(layerId, 'visibility', visible ? 'visible' : 'none');
-      }
-    });
-  }, [visibleLayers, heatmapEnabled]);
+  const getLevelColor = (level: string) => {
+    switch (level) {
+      case 'CRITICAL':
+        return '#dc2626';
+      case 'HIGH':
+        return '#ea580c';
+      case 'MEDIUM':
+        return '#d97706';
+      case 'LOW':
+        return '#16a34a';
+      default:
+        return '#64748b';
+    }
+  };
 
   return (
-    <div className="w-full h-screen flex flex-col bg-slate-950 text-slate-100 overflow-hidden">
-      {/* PROFESSIONAL GIS HEADER WITH AN.E GUARDINAS BRANDING */}
-      <div className="border-b border-slate-700/60 bg-gradient-to-r from-slate-950 via-slate-900 to-slate-950 backdrop-blur-sm px-4 py-3 shadow-lg">
-        <div className="flex items-center justify-between gap-6">
-          {/* LEFT: NER APPLICATION TITLE */}
-          <div className="flex-1 min-w-0">
-            <h1 className="text-sm font-bold text-white tracking-tight">NER LANDSLIDE GUARD AI</h1>
-            <p className="text-[11px] text-slate-400 mt-0.5">Landslide Risk Monitoring & Early Warning System</p>
+    <div className="flex h-screen w-screen overflow-hidden bg-slate-100 font-sans text-slate-800 antialiased">
+      {/* LEFT SIDEBAR NAVIGATION */}
+      <aside
+        className={`${
+          sidebarOpen ? 'w-60' : 'w-0 -ml-60'
+        } transition-all duration-300 ease-in-out bg-slate-50 border-r border-slate-200 flex flex-col flex-shrink-0 z-30 select-none`}
+      >
+        {/* LOGO & BRANDING */}
+        <div className="p-4 border-b border-slate-200/80 flex items-center gap-3">
+          <div className="h-9 w-9 rounded-lg bg-red-600 flex items-center justify-center text-white shadow-md">
+            <Mountain size={20} className="stroke-[2.5]" />
           </div>
-
-          {/* CENTER: SYSTEM STATUS BADGES */}
-          <div className="flex items-center gap-2 px-4 py-2 bg-slate-800/50 rounded-lg border border-slate-700/50">
-            <div className="flex items-center gap-1">
-              <span className="text-[9px] uppercase tracking-[0.16em] text-slate-400">HISTORICAL DATA</span>
-              <span className="rounded px-1.5 py-0.5 bg-emerald-500/20 border border-emerald-600/60 text-[8px] font-semibold text-emerald-200 uppercase">VERIFIED</span>
-            </div>
-            <span className="text-slate-600">|</span>
-            <div className="flex items-center gap-1">
-              <span className="text-[9px] uppercase tracking-[0.16em] text-slate-400">CURRENT RISK</span>
-              <span className="rounded px-1.5 py-0.5 bg-red-500/20 border border-red-600/60 text-[8px] font-semibold text-red-200 uppercase">BLOCKED</span>
-            </div>
-            <span className="text-slate-600">|</span>
-            <div className="flex items-center gap-1">
-              <span className="text-[9px] uppercase tracking-[0.16em] text-slate-400">ML</span>
-              <span className="rounded px-1.5 py-0.5 bg-red-500/20 border border-red-600/60 text-[8px] font-semibold text-red-200 uppercase">BLOCKED</span>
-            </div>
-            <span className="text-slate-600">|</span>
-            <div className="flex items-center gap-1">
-              <span className="text-[9px] uppercase tracking-[0.16em] text-slate-400">ALERTS</span>
-              <span className="rounded px-1.5 py-0.5 bg-red-500/20 border border-red-600/60 text-[8px] font-semibold text-red-200 uppercase">BLOCKED</span>
-            </div>
-          </div>
-
-          {/* RIGHT: AN.E GUARDINAS BRANDING */}
-          <div className="text-right">
-            <div className="text-xs font-semibold text-cyan-300 uppercase tracking-[0.14em]">AN.E GUARDINAS</div>
-            <div className="text-[10px] text-slate-400 mt-1">Disaster Management</div>
+          <div>
+            <h1 className="text-base font-extrabold text-slate-900 tracking-tight leading-none">
+              NER-Landslide
+            </h1>
+            <p className="text-[11px] font-medium text-slate-500 mt-1">
+              Early Warning System
+            </p>
           </div>
         </div>
-      </div>
 
-      {/* BASEMAP SELECTOR BAR */}
-      <div className="flex items-center gap-2 px-4 py-2 border-b border-slate-700/60 bg-slate-950/80 backdrop-blur-sm">
-        <span className="text-[9px] uppercase tracking-[0.16em] text-slate-400 font-semibold">Base:</span>
-        <div className="flex items-center gap-1 rounded-md border border-slate-700/50 bg-slate-900/60 p-0.5">
-          { [
-            { key: 'street', label: 'STREET' },
-            { key: 'satellite', label: 'SATELLITE' },
-            { key: 'topographic', label: 'TOPO' },
-            { key: 'terrain', label: 'TERRAIN' },
-            { key: 'hillshade', label: 'HILLSHADE' },
-          ].map(item => (
+        {/* NAVIGATION LINKS */}
+        <nav className="flex-1 overflow-y-auto px-3 py-3 space-y-1">
+          {navItems.map((item) => {
+            const Icon = item.icon;
+            const isActive = activeTab === item.id;
+            return (
+              <button
+                key={item.id}
+                type="button"
+                onClick={() => {
+                  setActiveTab(item.id);
+                  if (item.id === 'alerts') setShowAlertsModal(true);
+                }}
+                className={`w-full flex items-center justify-between px-3 py-2.5 rounded-lg text-xs font-semibold transition-all ${
+                  isActive
+                    ? 'bg-blue-50 text-blue-700 shadow-sm'
+                    : 'text-slate-600 hover:bg-slate-200/60 hover:text-slate-900'
+                }`}
+              >
+                <div className="flex items-center gap-3">
+                  <Icon
+                    size={16}
+                    className={isActive ? 'text-blue-600' : 'text-slate-400'}
+                  />
+                  <span>{item.label}</span>
+                </div>
+                {item.badge && (
+                  <span className="bg-red-500 text-white text-[10px] font-bold px-1.5 py-0.5 rounded-full">
+                    {item.badge}
+                  </span>
+                )}
+                {isActive && !item.badge && (
+                  <ChevronRight size={14} className="text-blue-600" />
+                )}
+              </button>
+            );
+          })}
+        </nav>
+
+        {/* SIDEBAR FOOTER */}
+        <div className="p-3 border-t border-slate-200/80 bg-slate-100/50 text-[10px] text-slate-400 font-medium">
+          <p className="font-bold text-slate-600">NER Landslide EWS</p>
+          <p className="mt-0.5">Prototype v1.0 — 2026</p>
+          <p className="mt-0.5">College Hackathon Project</p>
+        </div>
+      </aside>
+
+      {/* MAIN CONTENT AREA */}
+      <div className="flex-1 flex flex-col min-w-0 h-full overflow-hidden">
+        {/* TOP HEADER BAR */}
+        <header className="h-14 bg-white border-b border-slate-200 px-4 flex items-center justify-between flex-shrink-0 z-20 shadow-xs">
+          <div className="flex items-center gap-4">
             <button
-              key={item.key}
               type="button"
-              onClick={() => changeBasemap(item.key)}
-              title={`Switch to ${item.label} basemap`}
-              className={`px-2.5 py-1 text-[8px] font-bold uppercase tracking-[0.14em] rounded transition-colors ${
-                basemap === item.key
-                  ? 'bg-cyan-500/80 text-slate-950 shadow-sm'
-                  : 'text-slate-300 hover:bg-slate-700/60 hover:text-white'
-              }`}
+              onClick={() => setSidebarOpen(!sidebarOpen)}
+              className="p-1.5 text-slate-600 hover:text-slate-900 hover:bg-slate-100 rounded-md transition"
+              title="Toggle sidebar"
             >
-              {item.label}
+              <Menu size={18} />
             </button>
-          )) }
-        </div>
 
-        <div className="flex-1" />
-
-        {/* ACTION BUTTONS */}
-        <div className="flex items-center gap-1 rounded-md border border-slate-700/50 bg-slate-900/60 p-0.5">
-          <button
-            onClick={() => setShowDashboardStatus(!showDashboardStatus)}
-            title="System status"
-            className="px-2.5 py-1 text-[8px] font-bold uppercase tracking-[0.12em] rounded hover:bg-slate-700/60 text-slate-300 hover:text-white transition-colors"
-          >
-            STATUS
-          </button>
-          <button
-            onClick={() => setShowRouteSystem(!showRouteSystem)}
-            title="Route planner"
-            className="px-2.5 py-1 text-[8px] font-bold uppercase tracking-[0.12em] rounded hover:bg-slate-700/60 text-slate-300 hover:text-white transition-colors"
-          >
-            ROUTE
-          </button>
-          <button
-            onClick={() => setShowAlertCenter(!showAlertCenter)}
-            title="View alerts"
-            className="px-2.5 py-1 text-[8px] font-bold uppercase tracking-[0.12em] rounded hover:bg-slate-700/60 text-slate-300 hover:text-white transition-colors"
-          >
-            ALERTS
-          </button>
-          <button
-            onClick={() => setShowEnvironmentalPanel(!showEnvironmentalPanel)}
-            title="Environmental data"
-            className="px-2.5 py-1 text-[8px] font-bold uppercase tracking-[0.12em] rounded hover:bg-slate-700/60 text-slate-300 hover:text-white transition-colors"
-          >
-            ENV
-          </button>
-          <button
-            onClick={() => setShowDisasterAI(!showDisasterAI)}
-            title="Ask Disaster AI"
-            className="px-2.5 py-1 text-[8px] font-bold uppercase tracking-[0.12em] rounded hover:bg-slate-700/60 text-slate-300 hover:text-white transition-colors"
-          >
-            AI
-          </button>
-        </div>
-
-        <div className="ml-2" />
-
-        <SearchBox map={map.current} />
-        <MapControls map={map.current} />
-      </div>
-
-      {/* MAIN GIS WORKSPACE: LEFT LAYER PANEL + MAP + RIGHT INFO PANEL */}
-      <div className="flex-1 flex min-h-0 overflow-hidden">
-        {/* LEFT: QGIS-STYLE LAYER PANEL */}
-        <aside className="w-72 border-r border-slate-700/60 bg-slate-950/95 flex flex-col">
-          <LayerPanel
-            visibleLayers={visibleLayers}
-            onToggleLayer={toggleLayer}
-            onToggleHeatmap={() => setHeatmapEnabled(value => !value)}
-            heatmapEnabled={heatmapEnabled}
-          />
-        </aside>
-
-        {/* CENTER: MAPLIBRE MAP FILLS REMAINING SPACE */}
-        <main className="relative flex-1 min-w-0 bg-slate-950 overflow-hidden">
-          <div ref={mapContainer} className="w-full h-full" />
-
-          {/* LEGEND CARD: BOTTOM-LEFT FLOATING */}
-          <div className="absolute left-3 bottom-16 w-80 rounded-lg border border-slate-700/70 bg-slate-950/95 p-3 shadow-2xl backdrop-blur-sm z-10">
-            <Legend visibleLayers={visibleLayers} heatmapEnabled={heatmapEnabled} />
+            <div className="flex items-center gap-3 text-xs font-semibold">
+              <div className="flex items-center gap-1.5 text-slate-700 bg-slate-100 px-2.5 py-1 rounded-md">
+                <MapPin size={14} className="text-blue-600" />
+                <span>NER Regional Disaster Center — Shillong Command</span>
+              </div>
+              <span className="text-slate-300">|</span>
+              <div className="flex items-center gap-1.5 text-emerald-600 font-medium">
+                <span className="h-2 w-2 rounded-full bg-emerald-500 animate-pulse" />
+                <span>System Operational</span>
+              </div>
+              <span className="text-slate-300">|</span>
+              <div className="flex items-center gap-1 text-slate-400 font-normal">
+                <RefreshCw size={12} className="animate-spin" />
+                <span>Updated 0s ago</span>
+              </div>
+            </div>
           </div>
-        </main>
 
-        {/* RIGHT: LOCATION INTELLIGENCE INSPECTOR */}
-        <aside className="w-80 border-l border-slate-700/60 bg-slate-950/95 flex flex-col overflow-hidden">
-          <InfoPanel selectedFeature={selectedFeature} />
-        </aside>
+          <div className="flex items-center gap-3">
+            <button
+              type="button"
+              onClick={() => setShowAlertsModal(true)}
+              className="relative p-2 text-slate-600 hover:bg-slate-100 rounded-full transition"
+              title="View Alerts"
+            >
+              <Bell size={18} />
+              <span className="absolute top-1 right-1 h-4 w-4 bg-red-500 text-white text-[9px] font-bold flex items-center justify-center rounded-full border border-white">
+                3
+              </span>
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setShowDisasterAI(!showDisasterAI)}
+              className="flex items-center gap-2 px-3 py-1.5 bg-blue-600 text-white rounded-lg text-xs font-bold shadow-sm hover:bg-blue-700 transition"
+            >
+              <Radio size={14} />
+              <span>Ask AI Assistant</span>
+            </button>
+
+            <div className="flex items-center gap-2 pl-2 border-l border-slate-200">
+              <div className="h-8 w-8 rounded-full bg-slate-800 text-white flex items-center justify-center font-bold text-xs">
+                <User size={16} />
+              </div>
+              <span className="text-xs font-semibold text-slate-700 hidden sm:inline">
+                District Control
+              </span>
+            </div>
+          </div>
+        </header>
+
+        {/* 2-COLUMN MAP & PANELS WORKSPACE */}
+        <div className="flex-1 flex min-h-0 relative">
+          {/* CENTER: INTERACTIVE MAP VIEW */}
+          <main className="flex-1 relative bg-slate-200 overflow-hidden">
+            {/* TOP OVERLAY TAGS */}
+            <div className="absolute top-3 left-3 z-10 flex items-center gap-2 pointer-events-auto">
+              <div className="px-3 py-1 bg-amber-100/90 border border-amber-300 text-amber-800 text-xs font-bold rounded-md shadow-sm backdrop-blur-xs flex items-center gap-1.5">
+                <span className="h-2 w-2 rounded-full bg-amber-500" />
+                <span>DEMO / SIMULATION DATA</span>
+              </div>
+
+              <button
+                type="button"
+                onClick={() => setEvacuationMode(!evacuationMode)}
+                className={`px-3 py-1 text-xs font-bold rounded-md shadow-sm transition flex items-center gap-1.5 ${
+                  evacuationMode
+                    ? 'bg-red-600 text-white border border-red-700 animate-pulse'
+                    : 'bg-red-500 text-white hover:bg-red-600'
+                }`}
+              >
+                <AlertTriangle size={14} />
+                <span>
+                  {evacuationMode ? 'Evacuation Mode ACTIVE' : 'Evacuation Mode'}
+                </span>
+              </button>
+            </div>
+
+            {/* MAP CANVAS CONTAINER */}
+            <div ref={mapContainer} className="w-full h-full" />
+
+            {/* CUSTOM INTERACTIVE MAP MARKERS OVERLAY */}
+            <div className="absolute inset-0 pointer-events-none z-10">
+              {layerState.riskZones &&
+                ZONES.map((zone) => (
+                  <button
+                    key={zone.id}
+                    type="button"
+                    onClick={() => setSelectedZone(zone)}
+                    style={{
+                      left: `${35 + (zone.coordinates[0] - 88) * 12}%`,
+                      top: `${25 + (27.5 - zone.coordinates[1]) * 15}%`,
+                    }}
+                    className={`absolute pointer-events-auto transform -translate-x-1/2 -translate-y-1/2 flex items-center gap-1.5 px-2.5 py-1 rounded-md text-xs font-bold shadow-lg transition-transform hover:scale-110 border ${getLevelBadgeClass(
+                      zone.level
+                    )}`}
+                  >
+                    <span
+                      className="h-2.5 w-2.5 rounded-full"
+                      style={{ backgroundColor: getLevelColor(zone.level) }}
+                    />
+                    <span>{zone.name}</span>
+                  </button>
+                ))}
+
+              {layerState.shelters &&
+                SHELTERS.map((s, idx) => (
+                  <div
+                    key={s.name}
+                    style={{
+                      left: `${42 + idx * 10}%`,
+                      top: `${32 + idx * 11}%`,
+                    }}
+                    className="absolute pointer-events-auto transform -translate-x-1/2 -translate-y-1/2 bg-slate-900 text-white px-2 py-0.5 rounded text-[11px] font-bold shadow-md flex items-center gap-1 border border-slate-700"
+                  >
+                    <Home size={12} className="text-amber-400" />
+                    <span>Shelter</span>
+                  </div>
+                ))}
+            </div>
+          </main>
+
+          {/* RIGHT SIDEBAR CONTROL & DETAIL PANELS */}
+          <aside className="w-80 bg-white border-l border-slate-200 flex flex-col flex-shrink-0 overflow-y-auto p-4 space-y-4 shadow-xs z-20">
+            {/* MAP LAYERS CARD */}
+            <div className="bg-slate-50 border border-slate-200 rounded-xl p-3.5 shadow-xs">
+              <div className="flex items-center gap-1.5 text-xs font-bold text-slate-500 tracking-wider uppercase mb-3">
+                <Layers size={14} className="text-slate-400" />
+                <span>MAP LAYERS</span>
+              </div>
+
+              <div className="grid grid-cols-1 gap-2 text-xs font-medium text-slate-700">
+                {[
+                  { key: 'riskZones', label: 'Risk Zones' },
+                  { key: 'rainfall', label: 'Rainfall' },
+                  { key: 'soilMoisture', label: 'Soil Moisture' },
+                  { key: 'roads', label: 'Roads' },
+                  { key: 'villages', label: 'Villages' },
+                  { key: 'infrastructure', label: 'Infrastructure' },
+                  { key: 'sensors', label: 'Sensors' },
+                  { key: 'fieldReports', label: 'Field Reports' },
+                  { key: 'shelters', label: 'Shelters' },
+                  { key: 'landslideHistory', label: 'Landslide History' },
+                ].map((item) => {
+                  const isChecked =
+                    layerState[item.key as keyof typeof layerState];
+                  return (
+                    <label
+                      key={item.key}
+                      className="flex items-center gap-2.5 cursor-pointer hover:text-slate-900 select-none"
+                    >
+                      <input
+                        type="checkbox"
+                        checked={isChecked}
+                        onChange={() =>
+                          toggleLayer(item.key as keyof typeof layerState)
+                        }
+                        className="h-4 w-4 rounded border-slate-300 text-blue-600 focus:ring-blue-500"
+                      />
+                      <span>{item.label}</span>
+                    </label>
+                  );
+                })}
+              </div>
+            </div>
+
+            {/* MAP LEGEND CARD */}
+            <div className="bg-slate-50 border border-slate-200 rounded-xl p-3.5 shadow-xs">
+              <div className="flex items-center justify-between text-xs font-bold text-slate-500 tracking-wider uppercase mb-2.5">
+                <span>MAP LEGEND</span>
+                <span className="text-[10px] text-slate-400 font-medium">
+                  RISK LEVEL
+                </span>
+              </div>
+
+              <div className="space-y-1.5 text-xs font-bold">
+                <div className="flex items-center gap-2 text-slate-700">
+                  <span className="h-3 w-3 rounded bg-red-600" />
+                  <span>CRITICAL</span>
+                </div>
+                <div className="flex items-center gap-2 text-slate-700">
+                  <span className="h-3 w-3 rounded bg-orange-500" />
+                  <span>HIGH</span>
+                </div>
+                <div className="flex items-center gap-2 text-slate-700">
+                  <span className="h-3 w-3 rounded bg-yellow-500" />
+                  <span>MEDIUM</span>
+                </div>
+                <div className="flex items-center gap-2 text-slate-700">
+                  <span className="h-3 w-3 rounded bg-emerald-600" />
+                  <span>LOW</span>
+                </div>
+              </div>
+            </div>
+
+            {/* SELECTED ZONE CARD */}
+            <div className="bg-slate-50 border border-slate-200 rounded-xl p-3.5 shadow-xs space-y-3">
+              <div className="text-xs font-bold text-slate-500 tracking-wider uppercase">
+                SELECTED ZONE
+              </div>
+
+              <div className="flex items-center justify-between">
+                <h3 className="text-base font-extrabold text-slate-900">
+                  {selectedZone.name}
+                </h3>
+                <span
+                  className={`px-2.5 py-0.5 text-[11px] font-bold rounded-full border ${getLevelBadgeClass(
+                    selectedZone.level
+                  )}`}
+                >
+                  {selectedZone.level}
+                </span>
+              </div>
+
+              <div className="grid grid-cols-2 gap-2">
+                <div className="bg-white p-2.5 rounded-lg border border-slate-200 shadow-2xs">
+                  <p className="text-[10px] font-semibold text-slate-400">
+                    ML Probability
+                  </p>
+                  <p className="text-base font-bold text-slate-900 mt-0.5">
+                    {selectedZone.mlProb}
+                  </p>
+                </div>
+
+                <div className="bg-white p-2.5 rounded-lg border border-slate-200 shadow-2xs">
+                  <p className="text-[10px] font-semibold text-slate-400">
+                    TRIGRS FoS
+                  </p>
+                  <p className="text-base font-bold text-red-600 mt-0.5">
+                    {selectedZone.fos}
+                  </p>
+                </div>
+
+                <div className="bg-white p-2.5 rounded-lg border border-slate-200 shadow-2xs">
+                  <p className="text-[10px] font-semibold text-slate-400">
+                    Rainfall
+                  </p>
+                  <p className="text-xs font-bold text-slate-800 mt-1">
+                    {selectedZone.rainfall}
+                  </p>
+                </div>
+
+                <div className="bg-white p-2.5 rounded-lg border border-slate-200 shadow-2xs">
+                  <p className="text-[10px] font-semibold text-slate-400">
+                    Soil Moisture
+                  </p>
+                  <p className="text-xs font-bold text-slate-800 mt-1">
+                    {selectedZone.soilMoisture}
+                  </p>
+                </div>
+              </div>
+            </div>
+          </aside>
+        </div>
       </div>
 
-      {/* BOTTOM STATUS BAR */}
-      <div className="border-t border-slate-700/60 bg-slate-950/90 backdrop-blur-sm px-4 py-2 flex items-center justify-between text-[9px]">
-        <div className="flex-1 min-w-0">
-          <span className="text-slate-400 uppercase tracking-[0.12em] font-semibold">SYSTEM NOTICE:</span>
-          <span className="text-slate-300 ml-2">Automated warning system is not operational. Current predictive risk is BLOCKED pending verified environmental data and ML model validation.</span>
-        </div>
-        <div className="flex-shrink-0 ml-4 flex items-center gap-2">
-          <span className="text-slate-400 uppercase tracking-[0.12em]">STATUS:</span>
-          <span className="text-emerald-300 font-semibold">ONLINE</span>
-        </div>
-      </div>
-
-      {/* FLOATING PANELS */}
-      {showDashboardStatus && <DashboardStatus onClose={() => setShowDashboardStatus(false)} />}
-      {showRouteSystem && <RouteSystem map={map.current} onClose={() => setShowRouteSystem(false)} />}
-      {showAlertCenter && <AlertCenter onClose={() => setShowAlertCenter(false)} />}
-      {showEnvironmentalPanel && <EnvironmentalPanel onClose={() => setShowEnvironmentalPanel(false)} />}
-      {showDisasterAI && <DisasterAIAssistant onClose={() => setShowDisasterAI(false)} selectedLocation={selectedFeature?.data?.properties?.name} />}
+      {/* MODAL DIALOGS */}
+      {showDisasterAI && (
+        <DisasterAIAssistant
+          onClose={() => setShowDisasterAI(false)}
+          selectedLocation={selectedZone.name}
+        />
+      )}
+      {showAlertsModal && (
+        <AlertCenter onClose={() => setShowAlertsModal(false)} />
+      )}
+      {showRouteModal && (
+        <RouteSystem map={map.current} onClose={() => setShowRouteModal(false)} />
+      )}
     </div>
   );
 }

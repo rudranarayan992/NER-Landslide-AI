@@ -21,7 +21,7 @@ export function MobileApp({ isMobile }: MobileAppProps) {
     if (!map.current) {
       map.current = new maplibregl.Map({
         container: mapContainer.current,
-        style: JSON.stringify({
+        style: {
           version: 8,
           sources: {
             base: {
@@ -32,7 +32,7 @@ export function MobileApp({ isMobile }: MobileAppProps) {
           },
           layers: [{ id: 'base', type: 'raster', source: 'base' }],
           glyphs: 'https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf',
-        }),
+        },
         center: [93.5, 26.5],
         zoom: 6,
       });

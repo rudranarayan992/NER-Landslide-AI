@@ -14,75 +14,64 @@ html, body, #root {
   padding: 0;
 }
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
 body {
   overflow: hidden;
 }
 
-:root {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
-  color: rgba(255, 255, 255, 0.92);
-  background: #0f172a;
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-
-  /* GIS-specific color variables */
-  --gis-bg-primary: #0f172a;
-  --gis-bg-secondary: #1e293b;
-  --gis-bg-tertiary: #0f172a;
-  --gis-border: rgba(100, 116, 139, 0.25);
-  --gis-text-primary: #f1f5f9;
-  --gis-text-secondary: #cbd5e1;
-  --gis-text-muted: #94a3b8;
-  --gis-accent-primary: #06b6d4;
-  --gis-accent-secondary: #22d3ee;
-  --gis-success: #10b981;
-  --gis-warning: #f59e0b;
-  --gis-danger: #ef4444;
-  --gis-info: #3b82f6;
-
-  /* Map layer colors */
-  --landslide-point: #dc2626;
-  --landslide-cluster: #f87171;
-  --historical-density: #7f1d1d;
-  --admin-boundary: #38bdf8;
-  --road-line: #cbd5e1;
-  --village-point: #7dd3fc;
+#root {
+  min-height: 100vh;
 }
 
-html, body, #root {
-  margin: 0;
-  min-height: 100%;
-  min-width: 100%;
+.gis-shell {
+  width: 100%;
+  height: 100vh;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
   background: var(--gis-bg-primary);
   color: var(--gis-text-primary);
 }
 
-body {
-  min-height: 100vh;
-  background:
-    radial-gradient(circle at top-left, rgba(6, 182, 212, 0.05), transparent 30%),
-    radial-gradient(circle at bottom-right, rgba(59, 130, 246, 0.03), transparent 40%),
-    var(--gis-bg-primary);
+.gis-header,
+.gis-toolbar {
+  flex: 0 0 auto;
 }
 
-button, input, select, textarea {
-  font: inherit;
-  color: inherit;
+.gis-workspace {
+  flex: 1 1 auto;
+  min-height: 0;
+  min-width: 0;
 }
 
-/* MapLibre GL container styling */
+.gis-map-panel {
+  flex: 1 1 auto;
+  min-width: 0;
+  min-height: 0;
+  height: 100%;
+}
+
+.gis-map-canvas {
+  width: 100%;
+  height: 100%;
+  min-height: 420px;
+  display: block;
+  background: #0f172a;
+}
+
+.gis-left-panel,
+.gis-right-panel {
+  flex: 0 0 auto;
+  min-height: 0;
+}
+
+.maplibregl-map,
+.maplibregl-canvas,
+.maplibregl-map-wrapper,
+.maplibregl-canvas-container {
+  width: 100% !important;
+  height: 100% !important;
+}
+
 .maplibregl-map {
   background: var(--gis-bg-primary);
   font-family: inherit;

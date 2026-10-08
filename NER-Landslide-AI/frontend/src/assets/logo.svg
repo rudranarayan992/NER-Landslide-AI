@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 550" width="100%" height="100%">
+  <defs>
+    <linearGradient id="shieldNavy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F2942"/>
+      <stop offset="50%" stop-color="#0A192F"/>
+      <stop offset="100%" stop-color="#06101E"/>
+    </linearGradient>
+    <linearGradient id="shieldSilver" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E2E8F0"/>
+      <stop offset="50%" stop-color="#94A3B8"/>
+      <stop offset="100%" stop-color="#64748B"/>
+    </linearGradient>
+    <linearGradient id="accentCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#0088FF"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(0, 10)">
+    <path d="M 250 20 L 400 70 C 400 230 350 320 250 360 C 150 320 100 230 100 70 Z" 
+          fill="none" stroke="#0F2942" stroke-width="14" stroke-linejoin="round"/>
+    
+    <path d="M 250 26 L 108 73 C 108 224 154 310 250 348 Z" 
+          fill="url(#shieldNavy)"/>
+    
+    <path d="M 250 26 L 392 73 C 392 224 346 310 250 348 Z" 
+          fill="url(#shieldSilver)" opacity="0.9"/>
+    
+    <path d="M 250 38 L 380 82 C 380 215 338 295 250 332 C 162 295 120 215 120 82 Z" 
+          fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.4"/>
+
+    <path d="M 80 230 C 90 320 180 375 290 365 C 380 355 420 290 410 250" 
+          fill="none" stroke="url(#accentCyan)" stroke-width="7" stroke-linecap="round"/>
+    <path d="M 70 210 C 80 300 160 360 260 355" 
+          fill="none" stroke="#0F2942" stroke-width="5" stroke-linecap="round"/>
+
+    <g transform="translate(260, 100) scale(0.85)" opacity="0.92">
+      <path d="M 10 30 L 22 25 L 28 35 L 18 45 Z" fill="#0A192F" stroke="#FFFFFF" stroke-width="1.2"/>
+      <path d="M 45 40 L 75 35 L 110 45 L 125 30 L 140 40 L 135 60 L 145 75 L 130 90 L 120 80 L 115 100 L 95 105 L 85 90 L 70 95 L 60 85 L 55 95 L 40 85 L 45 65 Z" 
+            fill="#0F2942" stroke="#E2E8F0" stroke-width="1.8"/>
+      <path d="M 60 85 L 85 90 M 115 65 L 135 60 M 70 60 L 110 65 M 120 80 L 145 75" 
+            stroke="#FFFFFF" stroke-width="1" stroke-dasharray="2,2" opacity="0.8"/>
+    </g>
+
+    <g transform="translate(200, 160)">
+      <polygon points="40,0 48,32 80,40 48,48 40,80 32,48 0,40 32,32" fill="url(#shieldSilver)" stroke="#0F2942" stroke-width="1"/>
+      <polygon points="40,0 48,32 40,40" fill="#FFFFFF"/>
+      <polygon points="40,40 48,48 40,80" fill="#64748B"/>
+      <polygon points="40,40 32,48 0,40" fill="#94A3B8"/>
+      <polygon points="40,0 40,40 32,32" fill="#E2E8F0"/>
+    </g>
+
+    <g transform="translate(250, 45)">
+      <polygon points="0,-25 10,10 0,0" fill="#0088FF"/>
+      <polygon points="0,-25 -10,10 0,0" fill="#0F2942"/>
+      <text x="0" y="-30" font-family="'Outfit', 'Inter', sans-serif" font-weight="900" font-size="14" fill="#0F2942" text-anchor="middle">N</text>
+    </g>
+
+    <g transform="translate(250, 130)">
+      <text x="0" y="0" font-family="'Outfit', 'Montserrat', sans-serif" font-weight="900" font-size="42" fill="#0F2942" text-anchor="middle" letter-spacing="2">
+        AN<tspan fill="#00E5FF">.</tspan>E
+      </text>
+    </g>
+  </g>
+
+  <g transform="translate(250, 410)">
+    <text x="0" y="0" font-family="'Outfit', 'Inter', sans-serif" font-weight="900" font-size="48" fill="#0F2942" text-anchor="middle" letter-spacing="6">
+      AN<tspan fill="#00E5FF">.</tspan>E
+    </text>
+
+    <g transform="translate(0, 26)">
+      <line x1="-190" y1="-8" x2="-120" y2="-8" stroke="#0F2942" stroke-width="3"/>
+      <line x1="-170" y1="-14" x2="-130" y2="-14" stroke="#00E5FF" stroke-width="1.5"/>
+      <line x1="-160" y1="-2" x2="-110" y2="-2" stroke="#94A3B8" stroke-width="1.5"/>
+
+      <text x="0" y="0" font-family="'Outfit', 'Inter', sans-serif" font-weight="800" font-size="22" fill="#0F2942" text-anchor="middle" letter-spacing="10">
+        GUARDIANS
+      </text>
+
+      <line x1="120" y1="-8" x2="190" y2="-8" stroke="#0F2942" stroke-width="3"/>
+      <line x1="130" y1="-14" x2="170" y2="-14" stroke="#00E5FF" stroke-width="1.5"/>
+      <line x1="110" y1="-2" x2="160" y2="-2" stroke="#94A3B8" stroke-width="1.5"/>
+    </g>
+
+    <g transform="translate(0, 48)">
+      <line x1="-140" y1="-4" x2="-100" y2="-4" stroke="#64748B" stroke-width="1"/>
+      <text x="0" y="0" font-family="'Inter', sans-serif" font-weight="700" font-size="11" fill="#475569" text-anchor="middle" letter-spacing="3">
+        PROTECTING THE NORTH EAST
+      </text>
+      <line x1="100" y1="-4" x2="140" y2="-4" stroke="#64748B" stroke-width="1"/>
+    </g>
+
+    <g transform="translate(0, 68)">
+      <line x1="-90" y1="-4" x2="-50" y2="-4" stroke="#CBD5E1" stroke-width="1"/>
+      <text x="0" y="0" font-family="'Inter', sans-serif" font-weight="800" font-size="12" fill="#0F2942" text-anchor="middle" letter-spacing="4">
+        SIH GROUP
+      </text>
+      <line x1="50" y1="-4" x2="90" y2="-4" stroke="#CBD5E1" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
